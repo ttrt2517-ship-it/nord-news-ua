@@ -1,7 +1,6 @@
 # Ignore sensitive files
 *.log
 *.json.bak
-data/*.json
 admin/*.php.bak
 
 # OS files
@@ -11,3 +10,6 @@ Thumbs.db
 # Editor
 *.swp
 *.swo
+
+# Keep articles.json for website
+# data/*.json  ← REMOVED
