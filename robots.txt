@@ -1,0 +1,33 @@
+# Robots.txt for glf-bikube.info
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://glf-bikube.info/sitemap.php
+Sitemap: https://glf-bikube.info/sitemap.xml
+
+# Disallow admin and API
+Disallow: /admin/
+Disallow: /api/
+Disallow: /data/
+
+# Allow search engines to index
+Allow: /article/
+Allow: /novyny/
+Allow: /porady/
+Allow: /mova/
+Allow: /podii/
+
+# Crawl delay (optional)
+Crawl-delay: 1
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing specific
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1

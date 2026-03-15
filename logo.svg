@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background -->
+  <rect width="100" height="100" fill="#0F172A" rx="20"/>
+  
+  <!-- Norwegian Flag Colors -->
+  <rect x="10" y="10" width="35" height="80" fill="#00205B"/>
+  <rect x="20" y="10" width="10" height="80" fill="#FFFFFF"/>
+  <rect x="45" y="35" width="45" height="10" fill="#FFFFFF"/>
+  <rect x="45" y="35" width="45" height="7" fill="#EF2B2D"/>
+  
+  <!-- Text N -->
+  <text x="62" y="70" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#FFFFFF">N</text>
+  
+  <!-- Aurora Effect -->
+  <defs>
+    <linearGradient id="aurora" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:0.3" />
+    </linearGradient>
+  </defs>
+  <ellipse cx="75" cy="25" rx="20" ry="10" fill="url(#aurora)"/>
+</svg>

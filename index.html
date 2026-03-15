@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="uk" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Норд — Новини Норвегії українською</title>
+    <meta name="description" content="Актуальні новини Норвегії українською мовою. Для українців у Норвегії.">
+    <meta name="keywords" content="Норвегія, новини, українці, міграція, робота, мова">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Норд — Новини Норвегії">
+    <meta property="og:description" content="Актуальні новини Норвегії українською мовою">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="uk_UA">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-D28BSPKB28"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-D28BSPKB28');
+    </script>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <a href="/" class="logo">
+                <span class="logo-icon">🇳🇴</span>
+                <span class="logo-text">Норд</span>
+            </a>
+            
+            <nav class="nav">
+                <a href="/" class="nav-link active">Новини</a>
+                <a href="#about" class="nav-link">Про нас</a>
+                <a href="https://t.me/nord_smm_bot" class="nav-link" target="_blank">Telegram</a>
+            </nav>
+            
+            <div class="header-actions">
+                <button class="theme-toggle" aria-label="Перемкнути тему">
+                    <span class="theme-icon sun">☀️</span>
+                    <span class="theme-icon moon">🌙</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <div class="container">
+            <!-- Hero -->
+            <section class="hero">
+                <h1>Новини Норвегії українською</h1>
+                <p>Актуальні новини, поради та інформація для українців у Норвегії</p>
+                <a href="https://t.me/nord_smm_bot" class="btn btn-primary btn-lg" target="_blank">
+                    📱 Підписатись на Telegram
+                </a>
+            </section>
+
+            <!-- Articles Grid -->
+            <section class="articles-section">
+                <h2 class="section-title">Останні новини</h2>
+                <div class="articles-grid" id="articles-grid">
+                    <div class="loading">Завантаження новин...</div>
+                </div>
+            </section>
+
+            <!-- About -->
+            <section id="about" class="about-section">
+                <h2>Про проект Норд</h2>
+                <p>Норд — це автоматизований сервіс новин Норвегії українською мовою.</p>
+                <p>Ми публікуємо:</p>
+                <ul>
+                    <li>📰 Новини Норвегії (переклад з NRK, VG, Aftenposten)</li>
+                    <li>💡 Поради для українців (робота, житло, документи)</li>
+                    <li>📚 Матеріали для вивчення норвезької мови</li>
+                </ul>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-about">
+                    <h3>🇳🇴 Норд</h3>
+                    <p>Новини Норвегії українською</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Telegram</h4>
+                    <a href="https://t.me/nord_smm_bot" target="_blank">@nord_smm_bot</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 Норд. Всі права захищені.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

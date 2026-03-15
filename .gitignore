@@ -1,0 +1,13 @@
+# Ignore sensitive files
+*.log
+*.json.bak
+data/*.json
+admin/*.php.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
