@@ -4,15 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Завантаження...</title>
+    <meta name="description" content="Стаття на Норд — Новини Норвегії українською">
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     <header class="header">
         <div class="container">
-            <a href="/" class="logo">
+            <a href="index.html" class="logo">
                 <span class="logo-icon">🇳🇴</span>
                 <span class="logo-text">Норд</span>
             </a>
+            <nav class="nav">
+                <a href="index.html" class="nav-link">Новини</a>
+                <a href="index.html#about" class="nav-link">Про нас</a>
+                <a href="https://t.me/+YfELMEQsAD4zNmM0" class="nav-link" target="_blank">Telegram</a>
+            </nav>
+            <div class="header-actions">
+                <button class="theme-toggle" aria-label="Перемкнути тему">
+                    <span class="theme-icon sun">☀️</span>
+                    <span class="theme-icon moon">🌙</span>
+                </button>
+            </div>
         </div>
     </header>
 
@@ -24,46 +36,85 @@
         </div>
     </main>
 
+    <footer class="footer">
+        <div class="container">
+            <div style="text-align: center; padding: 2rem 0;">
+                <p style="color: #64748b;">© 2026 Норд. Новини Норвегії українською.</p>
+            </div>
+        </div>
+    </footer>
+
     <script>
+        // Theme manager - запускаем сразу
+        (function() {
+            const saved = localStorage.getItem('nord-theme') || 'light';
+            document.documentElement.setAttribute('data-theme', saved);
+        })();
+
+        // Article loader
         const urlParams = new URLSearchParams(window.location.search);
         const slug = urlParams.get('slug');
 
         if (!slug) {
-            document.getElementById('article-content').innerHTML = '<p>Статтю не знайдено</p>';
+            document.getElementById('article-content').innerHTML = '<p>Статтю не знайдено. <a href="index.html">← Повернутись</a></p>';
         } else {
             fetch('data/articles.json')
                 .then(r => r.json())
                 .then(articles => {
                     const article = articles.find(a => a.slug === slug);
                     if (!article) {
-                        document.getElementById('article-content').innerHTML = '<p>Статтю не знайдено</p>';
+                        document.getElementById('article-content').innerHTML = `
+                            <p>Статтю не знайдено.</p>
+                            <p><a href="index.html" class="btn btn-primary">← Всі новини</a></p>
+                        `;
                         return;
                     }
 
-                    document.title = article.title;
+                    document.title = article.title + ' — Норд';
                     document.getElementById('article-content').innerHTML = `
                         <article class="article-full">
-                            <h1 style="font-size: 2rem; margin-bottom: 1rem;">${article.title}</h1>
-                            <div style="color: #64748b; margin-bottom: 2rem;">
-                                📰 ${article.source_name} • ${new Date(article.published_at).toLocaleDateString('uk-UA')}
+                            <div style="margin-bottom: 1rem;">
+                                <a href="index.html" style="color: #64748b;">← Всі новини</a>
                             </div>
+                            
+                            <h1 style="font-size: 2rem; margin-bottom: 1rem; line-height: 1.3;">${article.title}</h1>
+                            
+                            <div style="color: #64748b; margin-bottom: 2rem; font-size: 0.875rem;">
+                                📰 ${article.source_name || 'Норд'} • ${new Date(article.published_at).toLocaleDateString('uk-UA')}
+                            </div>
+                            
                             <img src="${article.image}" alt="${article.title}" style="width: 100%; border-radius: 0.75rem; margin-bottom: 2rem;">
+                            
                             <div style="font-size: 1.125rem; line-height: 1.8; white-space: pre-wrap;">${article.content}</div>
-                            <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid #e2e8f0;">
-                                <a href="${article.original_url}" target="_blank" style="color: #64748b; font-size: 0.875rem;">
-                                    📎 Джерело: ${article.source_name} ↗
+                            
+                            <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border-color, #e2e8f0);">
+                                <a href="${article.original_url}" target="_blank" rel="noopener" style="color: #64748b; font-size: 0.875rem;">
+                                    📎 Джерело: ${article.source_name || 'оригінал'} ↗
                                 </a>
                             </div>
-                            <div style="margin-top: 2rem;">
-                                <a href="/" class="btn btn-primary">← Всі новини</a>
+                            
+                            <div style="margin-top: 2rem; padding: 1.5rem; background: var(--bg-secondary, #f8fafc); border-radius: 0.75rem;">
+                                <h3 style="margin-bottom: 1rem;">📱 Читати в Telegram</h3>
+                                <a href="https://t.me/+YfELMEQsAD4zNmM0" target="_blank" class="btn btn-primary">Приєднатись до групи</a>
                             </div>
                         </article>
                     `;
                 })
-                .catch(() => {
-                    document.getElementById('article-content').innerHTML = '<p>Помилка завантаження</p>';
+                .catch(error => {
+                    document.getElementById('article-content').innerHTML = `
+                        <p>Помилка завантаження статті.</p>
+                        <p><a href="index.html" class="btn btn-primary">← Всі новини</a></p>
+                    `;
                 });
         }
+
+        // Theme toggle
+        document.querySelector('.theme-toggle').addEventListener('click', () => {
+            const current = document.documentElement.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            document.documentElement.setAttribute('data-theme', next);
+            localStorage.setItem('nord-theme', next);
+        });
     </script>
 </body>
 </html>
