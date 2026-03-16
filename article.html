@@ -76,83 +76,155 @@
                     const paragraphs = article.content
                         .split(/\n\n+/)
                         .filter(p => p.trim())
-                        .map(p => `<p>${p.trim()}</p>`)
-                        .join('\n');
+                        .map(p => `<p style="margin-bottom: 1.5rem;">${p.trim()}</p>`);
+                    
+                    // Визначаємо точки вставки картинок (1/3 і 2/3 тексту)
+                    const totalParagraphs = paragraphs.length;
+                    const firstImagePos = Math.floor(totalParagraphs / 3);
+                    const secondImagePos = Math.floor(totalParagraphs * 2 / 3);
+                    
+                    // Розбиваємо на частини
+                    const part1 = paragraphs.slice(0, firstImagePos).join('\n');
+                    const part2 = paragraphs.slice(firstImagePos, secondImagePos).join('\n');
+                    const part3 = paragraphs.slice(secondImagePos).join('\n');
                     
                     // Визначаємо час читання
                     const readingTime = Math.max(1, Math.ceil(article.content.split(/\s+/).length / 200));
                     
+                    // Отримуємо додаткові картинки (якщо є)
+                    const images = article.images || [article.image];
+                    
                     document.getElementById('article-content').innerHTML = `
-                        <article class="article-full">
-                            <div style="margin-bottom: 1.5rem;">
-                                <a href="index.html" style="color: var(--text-secondary, #64748b); text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem;">
-                                    <span>←</span> Всі новини
+                        <article class="article-full" style="max-width: 720px; margin: 0 auto;">
+                            <!-- Breadcrumbs -->
+                            <nav style="margin-bottom: 1.5rem;">
+                                <a href="index.html" style="color: var(--text-secondary); text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.875rem;">
+                                    ← Всі новини
                                 </a>
-                            </div>
+                            </nav>
                             
-                            <header class="article-header" style="margin-bottom: 2rem;">
-                                <h1 style="font-size: 2.25rem; margin-bottom: 1.5rem; line-height: 1.2; font-weight: 700; color: var(--text-primary, #1e293b);">
+                            <!-- Header -->
+                            <header style="margin-bottom: 2rem;">
+                                <h1 style="
+                                    font-size: clamp(1.75rem, 5vw, 2.5rem);
+                                    margin-bottom: 1.5rem;
+                                    line-height: 1.2;
+                                    font-weight: 700;
+                                    color: var(--text-primary);
+                                ">
                                     ${article.title}
                                 </h1>
                                 
-                                <div class="article-meta" style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; color: var(--text-secondary, #64748b); font-size: 0.875rem;">
-                                    <span style="display: flex; align-items: center; gap: 0.5rem;">
-                                        📰 ${article.source_name || 'Норд'}
-                                    </span>
-                                    <span style="display: flex; align-items: center; gap: 0.5rem;">
-                                        📅 ${new Date(article.published_at).toLocaleDateString('uk-UA', { day: 'numeric', month: 'long', year: 'numeric' })}
-                                    </span>
-                                    <span style="display: flex; align-items: center; gap: 0.5rem;">
-                                        ⏱️ ${readingTime} хв читання
-                                    </span>
+                                <div style="
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    gap: 1rem;
+                                    align-items: center;
+                                    color: var(--text-secondary);
+                                    font-size: 0.875rem;
+                                ">
+                                    <span>📰 ${article.source_name || 'Норд'}</span>
+                                    <span>📅 ${new Date(article.published_at).toLocaleDateString('uk-UA', { day: 'numeric', month: 'long', year: 'numeric' })}</span>
+                                    <span>⏱️ ${readingTime} хв читання</span>
                                 </div>
                             </header>
                             
-                            <figure class="article-image" style="margin: 0 0 2.5rem 0;">
-                                <img src="${article.image}" alt="${article.title}" style="width: 100%; border-radius: 1rem; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+                            <!-- Hero Image -->
+                            <figure style="margin: 0 0 2.5rem 0;">
+                                <img src="${images[0]}" alt="${article.title}" style="
+                                    width: 100%;
+                                    border-radius: 1rem;
+                                    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+                                ">
                             </figure>
                             
-                            <div class="article-content" style="
-                                font-size: 1.125rem; 
-                                line-height: 1.8; 
-                                color: var(--text-primary, #334155);
+                            <!-- Part 1 -->
+                            <div style="
+                                font-size: 1.125rem;
+                                line-height: 1.8;
+                                color: var(--text-primary);
                             ">
-                                ${paragraphs}
+                                ${part1}
                             </div>
                             
-                            <footer class="article-footer" style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid var(--border-color, #e2e8f0);">
+                            ${images[1] ? `
+                            <!-- Middle Image -->
+                            <figure style="margin: 2.5rem 0;">
+                                <img src="${images[1]}" alt="" style="
+                                    width: 100%;
+                                    border-radius: 1rem;
+                                    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+                                ">
+                            </figure>
+                            ` : ''}
+                            
+                            <!-- Part 2 -->
+                            <div style="
+                                font-size: 1.125rem;
+                                line-height: 1.8;
+                                color: var(--text-primary);
+                            ">
+                                ${part2}
+                            </div>
+                            
+                            ${images[2] ? `
+                            <!-- Closing Image -->
+                            <figure style="margin: 2.5rem 0;">
+                                <img src="${images[2]}" alt="" style="
+                                    width: 100%;
+                                    border-radius: 1rem;
+                                    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+                                ">
+                            </figure>
+                            ` : ''}
+                            
+                            <!-- Part 3 -->
+                            <div style="
+                                font-size: 1.125rem;
+                                line-height: 1.8;
+                                color: var(--text-primary);
+                            ">
+                                ${part3}
+                            </div>
+                            
+                            <!-- Footer -->
+                            <footer style="
+                                margin-top: 3rem;
+                                padding-top: 2rem;
+                                border-top: 2px solid var(--border-color);
+                            ">
                                 <div style="margin-bottom: 2rem;">
                                     <a href="${article.original_url}" target="_blank" rel="noopener" style="
                                         display: inline-flex;
                                         align-items: center;
                                         gap: 0.5rem;
-                                        color: var(--accent, #3b82f6);
+                                        color: var(--accent);
                                         text-decoration: none;
                                         font-size: 0.875rem;
                                         padding: 0.75rem 1.25rem;
-                                        background: var(--bg-secondary, #f1f5f9);
+                                        background: var(--bg-secondary);
                                         border-radius: 0.5rem;
                                         transition: all 0.2s;
                                     ">
                                         📎 Джерело: ${article.source_name || 'оригінал'}
-                                        <span style="font-size: 1rem;">↗</span>
+                                        <span>↗</span>
                                     </a>
                                 </div>
                                 
-                                <div class="telegram-cta" style="
+                                <div style="
                                     padding: 2rem;
-                                    background: linear-gradient(135deg, var(--bg-secondary, #f8fafc) 0%, var(--bg-tertiary, #f1f5f9) 100%);
+                                    background: var(--bg-secondary);
                                     border-radius: 1rem;
                                     text-align: center;
-                                    border: 1px solid var(--border-color, #e2e8f0);
+                                    border: 1px solid var(--border-color);
                                 ">
-                                    <h3 style="margin: 0 0 0.5rem 0; font-size: 1.25rem; color: var(--text-primary, #1e293b);">
+                                    <h3 style="margin: 0 0 0.5rem 0; font-size: 1.25rem; color: var(--text-primary);">
                                         📱 Більше новин в Telegram
                                     </h3>
-                                    <p style="margin: 0 0 1.25rem 0; color: var(--text-secondary, #64748b); font-size: 0.9rem;">
+                                    <p style="margin: 0 0 1.25rem 0; color: var(--text-secondary); font-size: 0.9rem;">
                                         Приєднуйтесь до спільноти українців у Норвегії
                                     </p>
-                                    <a href="https://t.me/+YfELMEQsAD4zNmM0" target="_blank" class="btn btn-primary" style="
+                                    <a href="https://t.me/+YfELMEQsAD4zNmM0" target="_blank" style="
                                         display: inline-block;
                                         padding: 0.875rem 2rem;
                                         background: #0088cc;
@@ -160,7 +232,6 @@
                                         text-decoration: none;
                                         border-radius: 0.5rem;
                                         font-weight: 600;
-                                        transition: transform 0.2s, box-shadow 0.2s;
                                     ">
                                         Приєднатись до групи
                                     </a>
