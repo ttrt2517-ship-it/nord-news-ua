@@ -57,7 +57,7 @@ const ArticleManager = {
             <article class="article-card">
                 <div class="article-card-image" style="background-image: url('${article.image || 'https://source.unsplash.com/800x400/?norway'}')"></div>
                 <div class="article-card-content">
-                    <h3><a href="${article.url || article.original_url}" target="_blank">${this.escape(article.title)}</a></h3>
+                    <h3><a href="article.html?slug=${article.slug}">${this.escape(article.title)}</a></h3>
                     <p>${this.escape(article.excerpt || '').substring(0, 120)}...</p>
                     <div class="article-meta">
                         <span>${article.source_name || 'Норд'}</span>
