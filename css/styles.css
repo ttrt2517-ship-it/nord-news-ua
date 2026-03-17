@@ -52,12 +52,18 @@ body {
 
 /* Header */
 .header {
-    background: var(--bg-primary);
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
     border-bottom: 1px solid var(--border-color);
     padding: 1rem 0;
     position: sticky;
     top: 0;
     z-index: 100;
+}
+
+[data-theme="dark"] .header {
+    background: rgba(15, 23, 42, 0.85);
 }
 
 .header .container {
@@ -219,21 +225,42 @@ body {
 
 /* About */
 .about-section {
-    padding: 3rem 0;
-    border-top: 1px solid var(--border-color);
+    padding: 4rem 0;
+    margin-top: 2rem;
 }
 
-.about-section h2 {
+.about-box {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 2.5rem;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 1rem;
+    text-align: center;
+}
+
+.about-box h2 {
+    margin-bottom: 1rem;
+    font-size: 1.75rem;
+    color: var(--text-primary);
+}
+
+.about-box p {
+    color: var(--text-secondary);
+    line-height: 1.7;
     margin-bottom: 1rem;
 }
 
-.about-section ul {
+.about-box ul {
     list-style: none;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
+    text-align: left;
+    display: inline-block;
 }
 
-.about-section li {
+.about-box li {
     padding: 0.5rem 0;
+    color: var(--text-secondary);
 }
 
 /* Footer */
