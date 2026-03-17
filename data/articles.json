@@ -81,22 +81,6 @@
     "pinned": true
   },
   {
-    "id": "pinned-about",
-    "title": "📌 Про проект Норд — Новини Норвегії українською",
-    "slug": "pro-proekt-nord",
-    "content": "Норд — це автоматизований сервіс новин Норвегії українською мовою на базі AI-агента.\\n\\n**Як це працює:**\\n\\n1. 📡 Автоматично збираємо новини з NRK та The Local Norway\\n2. 🌐 Перекладаємо AI-агентом українською\\n3. 🖼️ Підбираємо релевантні фото\\n4. 🚀 Публікуємо на сайті та в Telegram\\n\\n**Розроблено безкоштовно завдяки [GLF Association](https://grantinglifefoundation.com/)**\\n\\n---\\n\\n**Що планується:**\\n\\n- 📚 Норвезька мова — матеріали для вивчення\\n- 💼 Робота — сервіс пошуку вакансій\\n- 🏠 Житло — база житла для українців\\n- 📋 Документи — путівник по Норвегії\\n\\n---\\n\\n**💡 Ваш фідбек важливий!**\\n\\nНапишіть нам, який сервіс вам би допоміг: [grantinglifefoundation@gmail.com](mailto:grantinglifefoundation@gmail.com)\\n\\n✅ Вас буде зазначено як автора ідеї\\n✅ Ми безкоштовно реалізуємо вашу ідею\\n✅ Сервіс буде безкоштовним для всіх\\n\\n---\\n\\n🇺🇦 **Наша місія:** Інформація має бути доступною. Ми створюємо сервіси для українців в Норвегії.",
-    "excerpt": "Дізнайтеся про те, як працює Норд — автоматизований сервіс новин Норвегії українською на базі AI...",
-    "image": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-    "images": [
-      "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
-    ],
-    "original_url": "https://ttrt2517-ship-it.github.io/nord-news-ua/about.html",
-    "source_name": "Норд",
-    "published_at": "2026-03-17T05:10:25.677Z",
-    "created_at": "2026-03-17T05:10:25.678Z",
-    "pinned": true
-  },
-  {
     "id": 1773723082010.897,
     "title": "Лідери Норвегії, Канади та Німеччини провели переговори щодо безпеки в Арктиці",
     "slug": "lidery-norvehiyi-kanady-ta-nimechchyny-provely-perehovory-shchodo-bezpeky-v-arkt",

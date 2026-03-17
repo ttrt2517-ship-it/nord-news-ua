@@ -181,15 +181,15 @@ body {
 }
 
 .article-card.pinned {
-    border: 2px solid var(--primary);
-    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.15);
+    border: 2px solid #10b981;
+    box-shadow: 0 4px 12px rgba(16, 185, 129, 0.2);
 }
 
 .pinned-badge {
     position: absolute;
     top: 1rem;
     right: 1rem;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #10b981 0%, #059669 100%);
     color: white;
     padding: 0.25rem 0.75rem;
     border-radius: 1rem;
