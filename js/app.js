@@ -61,12 +61,12 @@ const ArticleManager = {
         });
 
         grid.innerHTML = sorted.slice(0, 12).map(article => `
-            <article class="article-card ${article.pinned ? 'pinned' : ''}">
+            <article class="article-card ${article.pinned ? 'pinned' : ''}" style="position: relative;">
                 ${article.pinned ? '<div class="pinned-badge">📌 Закріплено</div>' : ''}
                 <div class="article-card-image" style="background-image: url('${article.image || 'https://source.unsplash.com/800x400/?norway'}')"></div>
                 <div class="article-card-content">
-                    <h3><a href="article.html?slug=${article.slug}">${this.escape(article.title)}</a></h3>
-                    <p>${this.escape(article.excerpt || '').substring(0, 120)}...</p>
+                    <h3><a href="${article.original_url === 'about.html' ? 'about.html' : 'article.html?slug=' + article.slug}">${this.escape(article.title)}</a></h3>
+                    <p>${this.escape(article.excerpt || '').substring(0, article.pinned ? 200 : 120)}...</p>
                     <div class="article-meta">
                         <span>${article.source_name || 'Норд'}</span>
                         <span>${this.formatDate(article.published_at)}</span>
