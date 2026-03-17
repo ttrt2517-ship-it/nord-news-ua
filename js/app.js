@@ -53,8 +53,16 @@ const ArticleManager = {
             return;
         }
 
-        grid.innerHTML = articles.slice(0, 12).map(article => `
-            <article class="article-card">
+        // Сортуємо: закріплені зверху
+        const sorted = articles.sort((a, b) => {
+            if (a.pinned && !b.pinned) return -1;
+            if (!a.pinned && b.pinned) return 1;
+            return new Date(b.published_at) - new Date(a.published_at);
+        });
+
+        grid.innerHTML = sorted.slice(0, 12).map(article => `
+            <article class="article-card ${article.pinned ? 'pinned' : ''}">
+                ${article.pinned ? '<div class="pinned-badge">📌 Закріплено</div>' : ''}
                 <div class="article-card-image" style="background-image: url('${article.image || 'https://source.unsplash.com/800x400/?norway'}')"></div>
                 <div class="article-card-content">
                     <h3><a href="article.html?slug=${article.slug}">${this.escape(article.title)}</a></h3>

@@ -177,6 +177,25 @@ body {
     overflow: hidden;
     border: 1px solid var(--border-color);
     transition: transform 0.2s;
+    position: relative;
+}
+
+.article-card.pinned {
+    border: 2px solid var(--primary);
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.15);
+}
+
+.pinned-badge {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 1rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    z-index: 1;
 }
 
 .article-card:hover {

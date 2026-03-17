@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Про проект Норд — Новини Норвегії українською</title>
+    <meta name="description" content="Норд — автоматизований сервіс новин Норвегії українською мовою. Розроблений на базі AI агента безкоштовно завдяки GLF Association.">
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        .hero-about {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 4rem 0;
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+        
+        .hero-about h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .hero-about p {
+            font-size: 1.25rem;
+            opacity: 0.9;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .about-content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 2rem 4rem;
+        }
+        
+        .section {
+            margin-bottom: 3rem;
+        }
+        
+        .section h2 {
+            font-size: 1.75rem;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .section p {
+            color: var(--text-secondary);
+            line-height: 1.8;
+            margin-bottom: 1rem;
+        }
+        
+        .glf-banner {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem;
+            border-radius: 1rem;
+            margin: 2rem 0;
+            text-align: center;
+        }
+        
+        .glf-banner h3 {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .glf-banner a {
+            color: white;
+            font-weight: 600;
+            text-decoration: underline;
+        }
+        
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .feature-card {
+            background: var(--bg-secondary);
+            padding: 1.5rem;
+            border-radius: 0.75rem;
+            text-align: center;
+            border: 1px solid var(--border-color);
+        }
+        
+        .feature-card .icon {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .feature-card h3 {
+            font-size: 1.125rem;
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+        }
+        
+        .feature-card p {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+        }
+        
+        .sources-list {
+            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            margin: 1.5rem 0;
+        }
+        
+        .sources-list li {
+            background: var(--bg-secondary);
+            padding: 0.5rem 1rem;
+            border-radius: 2rem;
+            font-size: 0.875rem;
+            border: 1px solid var(--border-color);
+        }
+        
+        .cta-box {
+            background: var(--bg-secondary);
+            border: 2px solid var(--primary);
+            padding: 2rem;
+            border-radius: 1rem;
+            margin: 2rem 0;
+        }
+        
+        .cta-box h3 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+        }
+        
+        .cta-box p {
+            margin-bottom: 1rem;
+        }
+        
+        .email-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: var(--primary);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.5rem;
+            text-decoration: none;
+            font-weight: 600;
+            margin-top: 0.5rem;
+        }
+        
+        .email-link:hover {
+            opacity: 0.9;
+        }
+        
+        .future-plans {
+            background: var(--bg-secondary);
+            padding: 2rem;
+            border-radius: 1rem;
+            border-left: 4px solid var(--primary);
+        }
+        
+        .future-plans h3 {
+            font-size: 1.25rem;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+        }
+        
+        .future-plans ul {
+            list-style: none;
+        }
+        
+        .future-plans li {
+            padding: 0.5rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+            color: var(--text-secondary);
+        }
+        
+        .future-plans li:before {
+            content: '🚀';
+            position: absolute;
+            left: 0;
+        }
+        
+        .pinned-badge {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 1rem;
+            font-size: 0.75rem;
+            font-weight: 600;
+            display: inline-block;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <a href="index.html" class="logo">
+                🇳🇴 <span>Норд</span>
+            </a>
+            <nav class="nav">
+                <a href="index.html" class="nav-link">Новини</a>
+                <a href="about.html" class="nav-link active">Про нас</a>
+                <a href="https://t.me/+YfELMEQsAD4zNmM0" class="nav-link" target="_blank">Telegram</a>
+            </nav>
+            <div class="header-actions">
+                <button class="theme-toggle" aria-label="Перемкнути тему">
+                    <span class="theme-icon sun">☀️</span>
+                    <span class="theme-icon moon">🌙</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero -->
+    <section class="hero-about">
+        <div class="container">
+            <span class="pinned-badge">📌 Закріплено</span>
+            <h1>Про проект Норд</h1>
+            <p>Автоматизований сервіс новин Норвегії українською мовою на базі AI</p>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="about-content">
+        
+        <!-- GLF Banner -->
+        <div class="glf-banner">
+            <h3>🤝 Розроблено за підтримки GLF Association</h3>
+            <p>Сайт та Telegram-бот повністю розроблені та працюють <strong>безкоштовно</strong> завдяки <a href="https://grantinglifefoundation.com/" target="_blank">Granting Life Foundation</a></p>
+            <p style="font-size: 0.875rem; opacity: 0.9; margin-top: 0.5rem;">AI-агент • Автоматизація • Відкритий код</p>
+        </div>
+
+        <!-- How it Works -->
+        <div class="section">
+            <h2>⚙️ Як це працює</h2>
+            <p>
+                <strong>Норд</strong> — це інноваційний сервіс, який автоматично збирає новини з провідних норвезьких ЗМІ, 
+                перекладає їх українською мовою та публікує на сайті та в Telegram-каналі.
+            </p>
+            
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="icon">📡</div>
+                    <h3>Збір новин</h3>
+                    <p>Автоматичний парсинг RSS-потоків</p>
+                </div>
+                <div class="feature-card">
+                    <div class="icon">🌐</div>
+                    <h3>Переклад</h3>
+                    <p>AI-переклад з норвезької та англійської</p>
+                </div>
+                <div class="feature-card">
+                    <div class="icon">🖼️</div>
+                    <h3>Ілюстрації</h3>
+                    <p>Автоматичний підбір фото</p>
+                </div>
+                <div class="feature-card">
+                    <div class="icon">🚀</div>
+                    <h3>Публікація</h3>
+                    <p>Сайт + Telegram одночасно</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- News Sources -->
+        <div class="section">
+            <h2>📰 Наші джерела</h2>
+            <p>Ми зібрали актуальні новини з надійних джерел, щоб ви завжди були в курсі подій в Норвегії:</p>
+            
+            <ul class="sources-list">
+                <li>🇳🇴 NRK Nyheter</li>
+                <li>🌍 The Local Norway</li>
+            </ul>
+            
+            <p><em>Це і для нас, і для вас — чесні новини без цензури та маніпуляцій.</em></p>
+        </div>
+
+        <!-- Future Plans -->
+        <div class="section">
+            <div class="future-plans">
+                <h3>🎯 Що планується</h3>
+                <ul>
+                    <li><strong>Норвезька мова</strong> — безкоштовні матеріали для вивчення</li>
+                    <li><strong>Робота</strong> — сервіс пошуку вакансій для українців</li>
+                    <li><strong>Житло</strong> — база житла з фільтрами</li>
+                    <li><strong>Документи</strong> — путівник по документах Норвегії</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- CTA -->
+        <div class="cta-box">
+            <h3>💡 Ваш фідбек важливий!</h3>
+            <p>
+                Ми хочемо розробляти те, що <strong>справді потрібно</strong> українцям в Норвегії. 
+                Напишіть нам, який сервіс вам би допоміг, і ми розробимо його <strong>безкоштовно</strong>.
+            </p>
+            <p>
+                ✅ Вас буде зазначено як <strong>автора ідеї</strong><br>
+                ✅ Ми реалізуємо вашу ідею<br>
+                ✅ Сервіс буде безкоштовним для всіх
+            </p>
+            <a href="mailto:grantinglifefoundation@gmail.com" class="email-link">
+                📧 Написати на пошту
+            </a>
+        </div>
+
+        <!-- Mission -->
+        <div class="section">
+            <h2>🇺🇦 Наша місія</h2>
+            <p>
+                Ми віримо, що інформація має бути доступною. <strong>Норд</strong> — це не просто новини, 
+                це спільнота українців в Норвегії, які допомагають один одному.
+            </p>
+            <p>
+                Проект створений як портфоліо розробника та демонстрація можливостей AI-агентів 
+                для соціально значущих проектів. Ми відкриті до співпраці з грантами та фондами.
+            </p>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div style="text-align: center;">
+                <p>🇳🇴 Норд — Новини Норвегії українською</p>
+                <p style="margin-top: 0.5rem; font-size: 0.875rem;">
+                    Розроблено <a href="https://grantinglifefoundation.com/" target="_blank" style="color: #94a3b8;">GLF Association</a> • 2026
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
