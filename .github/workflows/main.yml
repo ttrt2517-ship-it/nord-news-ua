@@ -1,0 +1,31 @@
+name: Run Nord News Bot
+
+on: 
+  workflow_dispatch: # Дозволяє запускати вручну з GitHub UI
+  schedule:
+    # Запускається кожні 2 години
+    - cron: '0 */2 * * *' # В 0 хвилин кожної парної години
+
+jobs:
+  run_bot:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install dependencies (if any)
+      run: npm install
+
+    - name: Run the bot
+      env:
+        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        TRANSLATE_API_KEY: ${{ secrets.TRANSLATE_API_KEY }}
+        UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+      run: node run-bot.js
