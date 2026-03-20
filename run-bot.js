@@ -486,12 +486,18 @@ async function generateArticle(item, translated) {
 
 function generateTelegramPost(article) {
     // Короткий пост для Telegram
-    const shortText = article.excerpt.substring(0, 150);
+    let shortText = article.excerpt.substring(0, 150);
+    
+    // Видаляємо "..." з кінця якщо є
+    if (shortText.endsWith('...')) {
+        shortText = shortText.slice(0, -3);
+    }
+    
     const articleUrl = `https://ttrt2517-ship-it.github.io/nord-news-ua/article.html?slug=${article.slug}`;
     
     return `📰 <b>${article.title}</b>
 
-${shortText}...
+${shortText}
 
 🔗 <a href="${articleUrl}">Читати повністю</a>
 
