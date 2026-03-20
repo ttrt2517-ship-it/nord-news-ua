@@ -36,7 +36,7 @@ const CONFIG = {
         { name: 'The Local Norway', url: 'https://feeds.thelocal.com/rss/no', lang: 'en' }
     ],
     keywords: ['Ukraina', 'ukrainsk', 'flyktning', 'krig', 'energi', 'NATO', 'immigr', 'språk'],
-    maxPosts: 5, // Збільшено для тесту
+    maxPosts: 5,
     delayBetweenPosts: 60000
 };
 
