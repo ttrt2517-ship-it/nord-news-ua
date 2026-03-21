@@ -35,8 +35,25 @@ const CONFIG = {
         // Міжнародні про Норвегію
         { name: 'The Local Norway', url: 'https://feeds.thelocal.com/rss/no', lang: 'en' }
     ],
-    keywords: ['Ukraina', 'ukrainsk', 'flyktning', 'krig', 'energi', 'NATO', 'immigr', 'språk'],
-    maxPosts: 5,
+    keywords: [
+        // Україна та війна
+        'Ukraina', 'ukrainsk', 'flyktning', 'krig', 'NATO',
+        // Економіка та ціни
+        'energi', 'strøm', 'pris', 'økonomi', 'inflasjon', 'rente', 'krone',
+        // Політика
+        'politikk', 'regjering', 'storting', 'valg',
+        // Імміграція та суспільство
+        'immigr', 'språk', 'samfunn', 'innvandr',
+        // Житло та робота
+        'bolig', 'leie', 'jobb', 'arbeid', 'lønn', 'hus',
+        // Здоров'я та освіта
+        'helse', 'sykehus', 'utdanning', 'skole',
+        // Транспорт
+        'transport', 'tog', 'fly', 'vei',
+        // Податки
+        'skatt'
+    ],
+    maxPosts: 5, // Збільшено для тесту
     delayBetweenPosts: 60000
 };
 
@@ -193,11 +210,7 @@ function canPost(state) {
 
 // ==================== DUPLICATE CHECK ====================
 function loadExistingArticles() {
-    // Перевіряємо де знаходиться articles.json (локально або на GitHub Actions)
-    const localPath = path.join(__dirname, 'website', 'data', 'articles.json');
-    const githubPath = path.join(__dirname, 'data', 'articles.json');
-    const articlesPath = fs.existsSync(localPath) ? localPath : githubPath;
-    
+    const articlesPath = path.join(__dirname, 'website', 'data', 'articles.json');
     if (fs.existsSync(articlesPath)) {
         return JSON.parse(fs.readFileSync(articlesPath, 'utf8'));
     }
@@ -569,15 +582,10 @@ async function sendToTelegram(chatId, text, imageUrl = null) {
 
 // ==================== SAVE & DEPLOY ====================
 function saveArticles(articles) {
-    // Перевіряємо де знаходиться articles.json (локально або на GitHub Actions)
-    const localPath = path.join(__dirname, 'website', 'data', 'articles.json');
-    const githubPath = path.join(__dirname, 'data', 'articles.json');
-    const articlesPath = fs.existsSync(localPath) ? localPath : githubPath;
-    const websitePath = fs.existsSync(localPath) ? path.join(__dirname, 'website') : __dirname;
-    
+    const websitePath = path.join(__dirname, 'website', 'data', 'articles.json');
     let existing = [];
-    if (fs.existsSync(articlesPath)) {
-        existing = JSON.parse(fs.readFileSync(articlesPath, 'utf8'));
+    if (fs.existsSync(websitePath)) {
+        existing = JSON.parse(fs.readFileSync(websitePath, 'utf8'));
     }
     
     const all = [...articles, ...existing];
@@ -585,16 +593,14 @@ function saveArticles(articles) {
         arr.findIndex(x => x.original_url === a.original_url) === i
     ).slice(0, 50);
     
-    fs.writeFileSync(articlesPath, JSON.stringify(unique, null, 2), 'utf8');
+    fs.writeFileSync(websitePath, JSON.stringify(unique, null, 2), 'utf8');
     log(`Збережено ${unique.length} статей`, 'success');
     return unique;
 }
 
 function deployToGitHub() {
     try {
-        // Перевіряємо де знаходиться website директорія
-        const localWebsite = path.join(__dirname, 'website');
-        const cwd = fs.existsSync(localWebsite) ? localWebsite : __dirname;
+        const cwd = path.join(__dirname, 'website');
         execSync('git add data/articles.json', { cwd, stdio: 'pipe' });
         execSync(`git commit -m "Update articles ${new Date().toISOString()}"`, { cwd, stdio: 'pipe' });
         execSync('git push nord-news main', { cwd, stdio: 'pipe' });
@@ -738,9 +744,9 @@ async function main() {
             return stats;
         }
         
-        // 6. Wait 3 minutes for GitHub Pages cache to update
-        log('\n⏳ Очікування 3 хвилини (GitHub Pages cache)...');
-        await sleep(180000);
+        // 6. Wait 1 minute for GitHub Pages cache to update
+        log('\n⏳ Очікування 1 хвилину (GitHub Pages cache)...');
+        await sleep(60000);
         
         // 7. Post to Telegram
         log('\n📤 Публікація в Telegram...');
