@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/sv-lederen-om-mette-marit_-helsa-er-viktigst-1.17819831",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-22T10:57:19.538Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-22T13:55:47.691Z",
+      "status": "published"
     },
     {
       "id": 1774177037482.4844,
@@ -146,8 +146,8 @@
   ],
   "stats": {
     "totalFetched": 11,
-    "totalPublished": 2,
+    "totalPublished": 3,
     "lastFetch": "2026-03-22T10:57:21.408Z",
-    "lastPublish": "2026-03-22T10:20:49.990Z"
+    "lastPublish": "2026-03-22T13:55:48.356Z"
   }
 }
