@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/israelsk-tv-kanal_-trump-reiser-til-jerusalem-i-april-1.17820268",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-22T20:57:01.087Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-22T21:51:31.377Z",
+      "status": "published"
     },
     {
       "id": 1774213019337.371,
@@ -276,8 +276,8 @@
   ],
   "stats": {
     "totalFetched": 21,
-    "totalPublished": 5,
+    "totalPublished": 6,
     "lastFetch": "2026-03-22T20:57:02.466Z",
-    "lastPublish": "2026-03-22T19:16:06.171Z"
+    "lastPublish": "2026-03-22T21:51:31.888Z"
   }
 }
