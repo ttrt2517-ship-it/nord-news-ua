@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/en-av-de-siktede-erkjenner-ikke-straffskyld-1.17820029",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-22T17:00:09.945Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-22T19:16:05.168Z",
+      "status": "published"
     },
     {
       "id": 1774198807763.829,
@@ -237,8 +237,8 @@
   ],
   "stats": {
     "totalFetched": 18,
-    "totalPublished": 4,
+    "totalPublished": 5,
     "lastFetch": "2026-03-22T17:00:11.701Z",
-    "lastPublish": "2026-03-22T15:51:05.648Z"
+    "lastPublish": "2026-03-22T19:16:06.171Z"
   }
 }
