@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/zelenskyj-frykter-at-krigen-mot-iran-blir-langvarig-1.17819997",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-22T14:58:02.152Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-22T15:51:05.251Z",
+      "status": "published"
     },
     {
       "id": 1774191480121.6812,
@@ -211,8 +211,8 @@
   ],
   "stats": {
     "totalFetched": 16,
-    "totalPublished": 3,
+    "totalPublished": 4,
     "lastFetch": "2026-03-22T14:58:04.117Z",
-    "lastPublish": "2026-03-22T13:55:48.356Z"
+    "lastPublish": "2026-03-22T15:51:05.648Z"
   }
 }
