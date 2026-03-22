@@ -73,14 +73,25 @@ function saveArticles(articles) {
 
 // ==================== TELEGRAM ====================
 function generateTelegramPost(article) {
-    const shortText = truncateToWord(article.excerpt, 180);
+    // Повний текст для Telegram без обрізання
     const articleUrl = `https://ttrt2517-ship-it.github.io/nord-news-ua/article.html?slug=${article.slug}`;
+    
+    // Беремо повний excerpt (до 950 символів - ліміт Telegram caption)
+    let text = article.excerpt || article.content || '';
+    if (text.length > 950) {
+        // Якщо дуже довго, обрізаємо до повного слова без "..."
+        text = text.substring(0, 950);
+        const lastSpace = text.lastIndexOf(' ');
+        if (lastSpace > 800) {
+            text = text.substring(0, lastSpace);
+        }
+    }
     
     return `📰 <b>${article.title}</b>
 
-${shortText}
+${text}
 
-🔗 <a href="${articleUrl}">Читати повністю</a>
+🔗 <a href="${articleUrl}">Читати повністю на сайті</a>
 
 #Норвегія #УкраїнціВНорвегії`;
 }
@@ -119,14 +130,16 @@ async function sendToTelegram(chatId, text, imageUrl = null) {
 // ==================== GITHUB DEPLOY ====================
 function deployToGitHub() {
     try {
-        const cwd = path.join(__dirname, 'website');
+        // Publisher вже в website/, тому використовуємо поточну директорію
+        const cwd = __dirname;
         execSync('git add data/articles.json', { cwd, stdio: 'pipe' });
         execSync(`git commit -m "Publish article ${new Date().toISOString()}"`, { cwd, stdio: 'pipe' });
         execSync('git push nord-news main', { cwd, stdio: 'pipe' });
         log('Сайт оновлено на GitHub Pages', 'success');
         return true;
     } catch (error) {
-        log('GitHub деплой: немає нових змін', 'info');
+        log('GitHub деплой: немає нових змін або помилка', 'info');
+        log(`Помилка: ${error.message}`, 'warning');
         return false;
     }
 }
@@ -170,8 +183,8 @@ async function main() {
         queue.stats.lastPublish = new Date().toISOString();
         saveQueue(queue);
         
-        // 4. Деплоїмо на GitHub
-        deployToGitHub();
+        // 4. Деплоїмо на GitHub (workflow зробить git push)
+        log('Файли готові для коміту в GitHub', 'success');
         
         console.log(`\n✅ Стаття опублікована успішно!`);
         console.log(`   URL: https://ttrt2517-ship-it.github.io/nord-news-ua/article.html?slug=${article.slug}`);
