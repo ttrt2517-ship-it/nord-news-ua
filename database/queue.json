@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/israel-trugar-med-a-oydelegge-infrastruktur-og-bustadomrade-i-libanon-1.17819812",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-22T10:05:57.106Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-22T10:06:21.649Z",
+      "status": "published"
     },
     {
       "id": 1774173955302.5972,
@@ -120,8 +120,8 @@
   ],
   "stats": {
     "totalFetched": 9,
-    "totalPublished": 0,
+    "totalPublished": 1,
     "lastFetch": "2026-03-22T10:05:58.525Z",
-    "lastPublish": null
+    "lastPublish": "2026-03-22T10:06:22.160Z"
   }
 }
