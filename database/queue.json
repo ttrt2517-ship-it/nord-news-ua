@@ -1,0 +1,9 @@
+{
+  "articles": [],
+  "stats": {
+    "totalFetched": 0,
+    "totalPublished": 0,
+    "lastFetch": null,
+    "lastPublish": null
+  }
+}

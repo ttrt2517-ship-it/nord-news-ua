@@ -1,0 +1,38 @@
+name: Publish Article
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 09:00, 12:00, 15:00, 18:00, 21:00 UTC+2 = 07:00, 10:00, 13:00, 16:00, 19:00 UTC
+    - cron: '0 7 * * *'    # 09:00 Київ
+    - cron: '0 10 * * *'   # 12:00 Київ
+    - cron: '0 13 * * *'   # 15:00 Київ
+    - cron: '0 16 * * *'   # 18:00 Київ
+    - cron: '0 19 * * *'   # 21:00 Київ
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Run publisher
+      env:
+        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: node publisher.js
+
+    - name: Commit changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add database/queue.json data/articles.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "Published article"
+        git push

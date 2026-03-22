@@ -81,6 +81,22 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+function truncateToWord(text, maxLen = 180) {
+    if (!text || text.length <= maxLen) return text || '';
+    
+    let truncated = text.substring(0, maxLen);
+    const lastSpace = truncated.lastIndexOf(' ');
+    
+    if (lastSpace > maxLen * 0.7) {
+        truncated = truncated.substring(0, lastSpace);
+    }
+    
+    // Remove trailing punctuation
+    truncated = truncated.replace(/[,\s\-–—:;]+$/, '');
+    
+    return truncated + '...';
+}
+
 // ==================== FETCH FULL ARTICLE ====================
 async function fetchFullArticle(url) {
     return new Promise((resolve) => {
@@ -487,7 +503,7 @@ async function generateArticle(item, translated) {
         title: translated.title,
         slug: generateSlug(translated.title),
         content: fullText,
-        excerpt: fullText.substring(0, 200) + '...',
+        excerpt: truncateToWord(fullText, 300), // Повний уривок до повного слова
         image: images[0], // Головна картинка (для Telegram)
         images: images, // Картинки для сайту (2 або 3)
         original_url: item.link,
@@ -498,13 +514,8 @@ async function generateArticle(item, translated) {
 }
 
 function generateTelegramPost(article) {
-    // Короткий пост для Telegram
-    let shortText = article.excerpt.substring(0, 150);
-    
-    // Видаляємо "..." з кінця якщо є
-    if (shortText.endsWith('...')) {
-        shortText = shortText.slice(0, -3);
-    }
+    // Короткий пост для Telegram — обрізаємо до повного слова
+    const shortText = truncateToWord(article.excerpt, 180);
     
     const articleUrl = `https://ttrt2517-ship-it.github.io/nord-news-ua/article.html?slug=${article.slug}`;
     
