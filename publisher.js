@@ -55,7 +55,7 @@ function saveQueue(queue) {
 }
 
 function loadArticles() {
-    const articlesPath = path.join(__dirname, 'website', 'data', 'articles.json');
+    const articlesPath = path.join(__dirname, 'data', 'articles.json');
     if (fs.existsSync(articlesPath)) {
         return JSON.parse(fs.readFileSync(articlesPath, 'utf8'));
     }
@@ -63,7 +63,11 @@ function loadArticles() {
 }
 
 function saveArticles(articles) {
-    const articlesPath = path.join(__dirname, 'website', 'data', 'articles.json');
+    const articlesPath = path.join(__dirname, 'data', 'articles.json');
+    const dataDir = path.dirname(articlesPath);
+    if (!fs.existsSync(dataDir)) {
+        fs.mkdirSync(dataDir, { recursive: true });
+    }
     fs.writeFileSync(articlesPath, JSON.stringify(articles, null, 2), 'utf8');
 }
 

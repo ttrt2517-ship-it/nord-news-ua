@@ -6,6 +6,9 @@ on:
     # Кожні 2 години
     - cron: '0 */2 * * *'
 
+permissions:
+  contents: write
+
 jobs:
   parse:
     runs-on: ubuntu-latest
@@ -13,6 +16,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        persist-credentials: true
+        fetch-depth: 0
 
     - name: Set up Node.js
       uses: actions/setup-node@v4
@@ -25,10 +31,10 @@ jobs:
         UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
       run: node parser.js
 
-    - name: Commit queue changes
+    - name: Commit and push changes
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add database/queue.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update article queue"
-        git push
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update article queue" && git push)
+      continue-on-error: true

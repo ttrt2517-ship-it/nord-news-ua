@@ -10,6 +10,9 @@ on:
     - cron: '0 16 * * *'   # 18:00 Київ
     - cron: '0 19 * * *'   # 21:00 Київ
 
+permissions:
+  contents: write
+
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -17,6 +20,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        persist-credentials: true
+        fetch-depth: 0
 
     - name: Set up Node.js
       uses: actions/setup-node@v4
@@ -29,10 +35,10 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: node publisher.js
 
-    - name: Commit changes
+    - name: Commit and push changes
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add database/queue.json data/articles.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "Published article"
-        git push
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Published article" && git push)
+      continue-on-error: true
