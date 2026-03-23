@@ -10,8 +10,8 @@
       "original_url": "https://www.thelocal.no/20260323/key-dates-when-will-know-the-outcome-of-norways-wage-negotiations-this-year",
       "source_name": "The Local Norway",
       "fetched_at": "2026-03-23T11:58:22.629Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-23T15:40:24.881Z",
+      "status": "published"
     },
     {
       "id": 1774267099690.5588,
@@ -445,8 +445,8 @@
   ],
   "stats": {
     "totalFetched": 34,
-    "totalPublished": 7,
+    "totalPublished": 8,
     "lastFetch": "2026-03-23T11:58:23.630Z",
-    "lastPublish": "2026-03-23T11:34:18.026Z"
+    "lastPublish": "2026-03-23T15:40:25.751Z"
   }
 }
