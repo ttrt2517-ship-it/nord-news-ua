@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1774307106000.753,
+      "title": "Første del av nytt regjeringskvartal uten bomberom",
+      "slug": "frste-del-av-nytt-regjeringskvartal-uten-bomberom",
+      "content": "I hovedstaden står første del av regjeringskvartalet ferdig. Den 11 etasjer høye a-blokka er ferdig, men uten tilfluktsrom for de ansatte, skriver Aftenposten. Statsbygg har søkt Sivilforsvaret om å få slippe å bygge tilfluktsrom i A-blokka, viser dokumenter som avisa har fått innsyn i.\n\nDet er faglig krevende å forsvare at dette bygget, som åpenbart er et mål i krig og konflikt, ikke er utstyrt med tilfluktsrom, sier Jarle Løwe Sørensen ved Universitetet i Sørøst-Norge.\n\n– Ansatte vet ikke hva de skal gjøre ved en flyalarm, eller hvor de skal søke tilflukt, sier Sørensen som ikke har tillit til at staten er godt nok forberedt.",
+      "excerpt": "I hovedstaden står første del av regjeringskvartalet ferdig. Den 11 etasjer høye a-blokka er ferdig, men uten tilfluktsrom for de ansatte, skriver Aftenposten. Statsbygg har søkt Sivilforsvaret om å få slippe å bygge tilfluktsrom i A-blokka, viser dokumenter som avisa har fått innsyn i.\n\nDet er...",
+      "image": "https://images.unsplash.com/photo-1657788913437-6b20989ac831?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzMDcxMDV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/forste-del-av-nytt-regjeringskvartal-uten-bomberom-1.17821895",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-23T23:05:06.001Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1774302884036.597,
       "title": "Åtte døde i flystyrt i Colombia",
       "slug": "tte-dde-i-flystyrt-i-colombia",
@@ -574,9 +587,9 @@
     }
   ],
   "stats": {
-    "totalFetched": 44,
+    "totalFetched": 45,
     "totalPublished": 11,
-    "lastFetch": "2026-03-23T21:54:45.634Z",
+    "lastFetch": "2026-03-23T23:05:07.449Z",
     "lastPublish": "2026-03-23T22:00:31.920Z"
   }
 }
