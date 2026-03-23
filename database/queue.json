@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/atte-dode-i-flystyrt-i-colombia-1.17821835",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-23T21:54:44.036Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-23T22:00:30.715Z",
+      "status": "published"
     },
     {
       "id": 1774302882506.275,
@@ -575,8 +575,8 @@
   ],
   "stats": {
     "totalFetched": 44,
-    "totalPublished": 10,
+    "totalPublished": 11,
     "lastFetch": "2026-03-23T21:54:45.634Z",
-    "lastPublish": "2026-03-23T20:01:02.112Z"
+    "lastPublish": "2026-03-23T22:00:31.920Z"
   }
 }
