@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1774302884036.597,
+      "title": "Åtte døde i flystyrt i Colombia",
+      "slug": "tte-dde-i-flystyrt-i-colombia",
+      "content": "Colombianske myndigheter opplyser at åtte personer er bekreftet døde etter at et militærfly styrtet tidligere i dag, melder nyhetsbyrået AFP.\n\nFlyet hadde 125 personer om bord, 114 passasjerer og en besetning på 11.\n\nMilitærfly styrtet i Colombia\n\n114 passasjerer og en besetning på 14 var om bord i Hercules-flyet som styrtet i Colombia.",
+      "excerpt": "Colombianske myndigheter opplyser at åtte personer er bekreftet døde etter at et militærfly styrtet tidligere i dag, melder nyhetsbyrået AFP.\n\nFlyet hadde 125 personer om bord, 114 passasjerer og en besetning på 11.\n\nMilitærfly styrtet i Colombia\n\n114 passasjerer og en besetning på 14 var om bord i...",
+      "image": "https://images.unsplash.com/photo-1724221155562-7233de67cf2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzMDI4ODN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/atte-dode-i-flystyrt-i-colombia-1.17821835",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-23T21:54:44.036Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774302882506.275,
+      "title": "Raketter avfyrt fra Irak mot militærbase nordøst i Syria",
+      "slug": "raketter-avfyrt-fra-irak-mot-militrbase-nordst-i-syria",
+      "content": "Minst sju raketter ble skutt opp mandag av en proiransk gruppe mot en militærbase nordøst i Syria, ifølge to irakiske sikkerhetskilder.\n\nDette er det første angrepet av denne typen siden Israel og USA innledet krigen mot Iran. Ifølge en sikkerhetskilde og Syrian Observatory for Human Rights (SHOR), skal amerikanskledede styrker, som har vært involvert i kampen mot IS i Syria, nylig ha forlatt basen, melder NTB.\n\nSyria\n\n8. desember 2024 rykket opprørsstyrker inn i hovedstaden Damaskus og styrtet Assad-regimet, etter at Bashar al-Assad hadde vært ved makten i 25 år.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
+      "excerpt": "Minst sju raketter ble skutt opp mandag av en proiransk gruppe mot en militærbase nordøst i Syria, ifølge to irakiske sikkerhetskilder.\n\nDette er det første angrepet av denne typen siden Israel og USA innledet krigen mot Iran. Ifølge en sikkerhetskilde og Syrian Observatory for Human Rights (SHOR)...",
+      "image": "https://images.unsplash.com/photo-1765128017040-f737b7283443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzMDI4ODJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/raketter-avfyrt-fra-irak-mot-militaerbase-nordost-i-syria-1.17821885",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-23T21:54:42.507Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774302880985.6384,
+      "title": "Mann skutt ved fotballbane i Sverige",
+      "slug": "mann-skutt-ved-fotballbane-i-sverige",
+      "content": "En mann i 17–18 års alderen ble funnet skutt på en gangvei ved en fotballbane i Vårby sør for Stockholm mandag, melder SVT.\n\nMannen er fraktet til sykehus og er alvorlig skadet. Politiet har sperret av et stort område og leter etter en gjerningsperson.",
+      "excerpt": "En mann i 17–18 års alderen ble funnet skutt på en gangvei ved en fotballbane i Vårby sør for Stockholm mandag, melder SVT.\n\nMannen er fraktet til sykehus og er alvorlig skadet. Politiet har sperret av et stort område og leter etter en gjerningsperson.",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/mann-skutt-ved-fotballbane-i-sverige--1.17821887",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-23T21:54:40.986Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1774290878473.8538,
       "title": "ЗМІ: Знаходження тих, хто вижив після аварії в Колумбії",
       "slug": "змі-знаходження-тих-хто-вижив-після-аварії-в-колумбії",
@@ -535,9 +574,9 @@
     }
   ],
   "stats": {
-    "totalFetched": 41,
+    "totalFetched": 44,
     "totalPublished": 10,
-    "lastFetch": "2026-03-23T18:34:40.517Z",
+    "lastFetch": "2026-03-23T21:54:45.634Z",
     "lastPublish": "2026-03-23T20:01:02.112Z"
   }
 }
