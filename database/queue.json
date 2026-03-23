@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/medier_-funn-av-overlevende-etter-styrt-i-colombia-1.17821594",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-23T18:34:38.473Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-23T20:01:01.090Z",
+      "status": "published"
     },
     {
       "id": 1774290876465.4233,
@@ -536,8 +536,8 @@
   ],
   "stats": {
     "totalFetched": 41,
-    "totalPublished": 9,
+    "totalPublished": 10,
     "lastFetch": "2026-03-23T18:34:40.517Z",
-    "lastPublish": "2026-03-23T18:02:25.343Z"
+    "lastPublish": "2026-03-23T20:01:02.112Z"
   }
 }
