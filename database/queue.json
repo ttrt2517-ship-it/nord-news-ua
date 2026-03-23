@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/irans-forsvarsrad-sier-persiabukta-blir-minelagt-hvis-irans-kyst-eller-oyer-angripes-1.17820450",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-23T09:16:03.607Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-23T11:34:17.507Z",
+      "status": "published"
     },
     {
       "id": 1774257361699.9136,
@@ -393,8 +393,8 @@
   ],
   "stats": {
     "totalFetched": 30,
-    "totalPublished": 6,
+    "totalPublished": 7,
     "lastFetch": "2026-03-23T09:16:05.058Z",
-    "lastPublish": "2026-03-22T21:51:31.888Z"
+    "lastPublish": "2026-03-23T11:34:18.026Z"
   }
 }
