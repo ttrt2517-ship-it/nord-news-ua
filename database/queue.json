@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1774382475612.4143,
+      "title": "Tre personer pågrepet etter våpenbeslag",
+      "slug": "tre-personer-pgrepet-etter-vpenbeslag",
+      "content": "Tre personer er pågrepet etter en politiaksjon i Inderøy tirsdag.\n\nPolitiet rykket ut etter en bekymringsmelding og gjorde beslag av flere våpen på stedet. De tre er nå siktet i saken.\n\n– Det er igangsatt etterforskning, og tre personer er pågrepet og siktet for ulovlig befatning med våpen, sier politiadvokat Eirin Auran Pettersen.\n\nPågripelsen skal ha skjedd rolig og uten dramatikk. Politiet jobber nå med å få oversikt over våpnene og etterforske saken videre.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "Tre personer er pågrepet etter en politiaksjon i Inderøy tirsdag.\n\nPolitiet rykket ut etter en bekymringsmelding og gjorde beslag av flere våpen på stedet. De tre er nå siktet i saken.\n\n– Det er igangsatt etterforskning, og tre personer er pågrepet og siktet for ulovlig befatning med våpen, sier...",
+      "image": "https://images.unsplash.com/photo-1607790665758-f80c31372ed5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzODI0NzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/trondelag/tre-personer-pagrepet-etter-vapenbeslag-1.17823385",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-24T20:01:15.612Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774382474149.3337,
+      "title": "Ligger an til krisevalg for Mette Frederiksen",
+      "slug": "ligger-an-til-krisevalg-for-mette-frederiksen",
+      "content": "Valgdagsmålingen viser at Socialdemokratiet ligger an til sitt dårligste valg siden 1901.\n\nVerken rød eller blå blokk får flertall, ifølge valgdagsmålingen.\n\nPartiet Moderaterne, med Lars Løkke Rasmussen i spissen, havner trolig på vippen.\n\nDanmarks sittende regjering består av statsminister Mette Frederiksens parti, Socialdemokratiet, det borgerlige partiet Venstre, og Moderaterne. Den mister sitt flertall i Folketinget, ifølge valgdagsmålingen.\n\nMette Frederiksen ble rost for håndteringen av Grønland-krisen. På valgdagen ligger partiet hennes an til å gjøre sitt dårligste valg siden 1901.\n\nDanmark\n\nMette Frederiksen har vært statsminister i Danmark siden 2019. Tirsdag 24. mai er det valg i Danmark. Valgdagsmålingen tyder på et krisevalg for Frederiksen, mens Lars Løkke Rasmussen havner på vippen.",
+      "excerpt": "Valgdagsmålingen viser at Socialdemokratiet ligger an til sitt dårligste valg siden 1901.\n\nVerken rød eller blå blokk får flertall, ifølge valgdagsmålingen.\n\nPartiet Moderaterne, med Lars Løkke Rasmussen i spissen, havner trolig på vippen.\n\nDanmarks sittende regjering består av statsminister Mette...",
+      "image": "https://images.unsplash.com/photo-1563829916286-d21cad24cd76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzODI0NzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ligger-an-til-krisevalg-for-mette-frederiksen--1.17823447",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-24T20:01:14.149Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774382472646.7148,
+      "title": "69 personer døde i flystyrt i Colombia",
+      "slug": "69-personer-dde-i-flystyrt-i-colombia",
+      "content": "Antallet døde etter flystyrten i Colombia i går har steget til 69 personer.\n\nEt militærfly med 125 personer om bord styrtet kort tid etter avgang i Puerto Leguizamo mandag.\n\nMilitærfly styrtet i Colombia\n\n114 passasjerer og en besetning på 11 var om bord i Hercules-flyet som styrtet i Colombia mandag 23. mars.\n69 personer er bekreftet omkommet.",
+      "excerpt": "Antallet døde etter flystyrten i Colombia i går har steget til 69 personer.\n\nEt militærfly med 125 personer om bord styrtet kort tid etter avgang i Puerto Leguizamo mandag.\n\nMilitærfly styrtet i Colombia\n\n114 passasjerer og en besetning på 11 var om bord i Hercules-flyet som styrtet i Colombia...",
+      "image": "https://images.unsplash.com/photo-1567064965113-b2018f959780?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzODI0NzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/69-personer-dode-i-flystyrt-i-colombia-1.17823482",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-24T20:01:12.646Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1774373597566.4836,
       "title": "Fuel prices: How much money will you save with an electric car in Norway?",
       "slug": "fuel-prices-how-much-money-will-you-save-with-an-electric-ca",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-03-22T13:56:35.742Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1774177039538.1162,
-      "title": "Лідер SV про Метте-Маріт: Здоров'я — найважливіше",
-      "slug": "лідер-sv-про-меттемаріт-здоровя-найважливіше",
-      "content": "Лідерка SV Кірсті Бергстьо вважає, що кожен, хто вимагає нових відповідей від кронпринцеси Метте-Маріт у справі Епштейна, повинен бути терплячим.\n\n– Зараз найважливіше, щоб кронпринцеса могла зосередитися на власному здоров'ї, – каже Бергстьо NRK.\n\n– Я розумію, що багато людей багато чого думають. Що є кілька питань без відповідей. І тоді я хотіла б закликати до терпіння. Наявність такої серйозної хвороби та перебування в стресовій ситуації, в якій зараз перебуває сім'я, – це те, що має встановити орієнтири для того, як можна бути доступним у будь-який час.\n\nЦе зазначає лідерка SV, яка цими вихідними бере участь у засіданні національної ради партії в Осло.\n\nПісля інтерв'ю NRK з кронпринцесою редактори, експерти та політики зазначили, що кілька питань залишаються без відповідей щодо контактів Метте-Маріт із засудженим фінансистом Джеффрі Епштейном.\n\nКронпринцеса Метте-Маріт отримала суперечливі реакції після великого інтерв'ю NRK про Епштейна. Прем'єр-міністр Стере виявляє розуміння того, що це вимогливо до кронпринцеси.\n\nСправа Джеффрі Епштейна\n\nМіністерство юстиції США оприлюднило кілька мільйонів документів у рамках розслідування справи засудженого сексуального злочинця Джеффрі Епштейна. Йому було висунуто звинувачення у новому насильстві над неповнолітніми та торгівлі людьми, перш ніж він покінчив життя самогубством у в'язниці у 2019 році.",
-      "excerpt": "Лідерка SV Кірсті Бергстьо вважає, що кожен, хто вимагає нових відповідей від кронпринцеси Метте-Маріт у справі Епштейна, повинен бути терплячим.\n\n– Зараз найважливіше, щоб кронпринцеса могла зосередитися на власному здоров'ї, – каже Бергстьо NRK.\n\n– Я розумію, що багато людей багато чого думають....",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/sv-lederen-om-mette-marit_-helsa-er-viktigst-1.17819831",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-22T10:57:19.538Z",
-      "published_at": "2026-03-22T13:55:47.691Z",
-      "status": "published"
-    },
-    {
-      "id": 1774177037482.4844,
-      "title": "Петер Фреліх йде у відставку з посади лідера Вільної України",
-      "slug": "петер-фреліх-йде-у-відставку-з-посади-лідера-вільної-україни",
-      "content": "Протягом чотирьох років Петер Фреліх (Г) очолював гуманітарну організацію «Вільна Україна». У неділю стало зрозуміло, що він піде у відставку, пише NTB.\n\nПричиною, як кажуть, є його нова роль голови Комітету Стортингу з питань закордонних справ та оборони, пише Aftenposten.\n\nКонсервативна партія\n\nКонсервативна партія була заснована в 1884 році. Іне Еріксен Сьорейде була обрана лідером партії в лютому 2026 року. На парламентських виборах 2025 року партія була третьою за величиною з 14,6 відсотка.",
-      "excerpt": "Протягом чотирьох років Петер Фреліх (Г) очолював гуманітарну організацію «Вільна Україна». У неділю стало зрозуміло, що він піде у відставку, пише NTB.\n\nПричиною, як кажуть, є його нова роль голови Комітету Стортингу з питань закордонних справ та оборони, пише Aftenposten.\n\nКонсервативна...",
-      "image": "https://images.unsplash.com/photo-1581404639523-d2fddf087309?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQxNzcwMzd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/peter-frolich-sluttar-som-leiar-i-fritt-ukraina-1.17819829",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-22T10:57:17.482Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774173957106.779,
-      "title": "Ізраїль погрожує знищити інфраструктуру та житлові райони Лівану",
-      "slug": "ізраїль-погрожує-знищити-інфраструктуру-та-житлові-райони-лі",
-      "content": "За словами міністра оборони Ізраїлю Ізраїлю Каца, ізраїльські військові (ЦАХАЛ) отримали наказ негайно зруйнувати всі мости через річку Літані, пише Reuters.\n\nРічка Літані — велика річка на півдні Лівану. Раніше цього місяця Ізраїль бомбив мости через річку, щоб зупинити ліванське ополчення «Хезболли».\n\nКац також попереджає, що ЦАХАЛ прискорить знесення ліванських будинків у «прифронтових містах», щоб зупинити загрози для ізраїльських громад.\n\nУ неділю «Хезболла» здійснила напади на Ізраїль.\n\nЛіван та Ізраїль\n\nНапади між Ізраїлем та «Хезболлою» в Лівані почастішали після нападу на Ізраїль 7 жовтня 2023 року. Після нападу пейджером у вересні щоденно відбувалися ракетні обстріли в прикордонних районах. 27 листопада набуло чинності тимчасове припинення вогню.\n\nВійна на Близькому Сході\n\n28 лютого Ізраїль та Сполучені Штати здійснили скоординований напад на Іран. Крім того, обидві країни атакували цілі в Лівані. Після нападу Іран здійснив кілька контратак проти Абу-Дабі, Бахрейну, Дубая, Катару, Кувейту та Ізраїлю.",
-      "excerpt": "За словами міністра оборони Ізраїлю Ізраїлю Каца, ізраїльські військові (ЦАХАЛ) отримали наказ негайно зруйнувати всі мости через річку Літані, пише Reuters.\n\nРічка Літані — велика річка на півдні Лівану. Раніше цього місяця Ізраїль бомбив мости через річку, щоб зупинити ліванське ополчення...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/israel-trugar-med-a-oydelegge-infrastruktur-og-bustadomrade-i-libanon-1.17819812",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-22T10:05:57.106Z",
-      "published_at": "2026-03-22T10:06:21.649Z",
-      "status": "published"
     }
   ],
   "stats": {
-    "totalFetched": 58,
+    "totalFetched": 61,
     "totalPublished": 14,
-    "lastFetch": "2026-03-24T17:33:18.567Z",
+    "lastFetch": "2026-03-24T20:01:17.585Z",
     "lastPublish": "2026-03-24T18:09:00.898Z"
   }
 }
