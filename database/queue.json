@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1774339683485.1128,
+      "title": "Støre varsler dronesatsing for Forsvaret",
+      "slug": "stre-varsler-dronesatsing-for-forsvaret",
+      "content": "Før den oppdaterte langtidsplanen for Forsvaret legges fram fredag, varsler statsminister Jonas Gahr Støre (Ap) et droneløft.\n\n– Det betyr at vi vil styrke hvordan alle deler av Forsvaret arbeider med å bruke droner og forsvare seg mot droner. Det tilpasser vi til det norske forsvarsbehovet. Det inkluderer også opplæring av folk som kan operere dronene, sier Støre til VG.\n\nDen oppdaterte langtidsplanen for Forsvaret legges fram fredag.",
+      "excerpt": "Før den oppdaterte langtidsplanen for Forsvaret legges fram fredag, varsler statsminister Jonas Gahr Støre (Ap) et droneløft.\n\n– Det betyr at vi vil styrke hvordan alle deler av Forsvaret arbeider med å bruke droner og forsvare seg mot droner. Det tilpasser vi til det norske forsvarsbehovet. Det...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/store-varsler-dronesatsing-for-forsvaret-1.17822059",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-24T08:08:03.485Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774339681764.404,
+      "title": "Rekordmange søkere til yrkesfag på videregående",
+      "slug": "rekordmange-skere-til-yrkesfag-p-videregende",
+      "content": "For tredje år på rad øker interessen for yrkesfag på videregående, og andelen som har yrkesfag som førsteønske er nå oppe i 55 prosent.\n\nDet viser årets søkertall fra Utdanningsdirektoratet.\n\nKunnskapsminister Kari Nessa Nordtun (Ap) mener utviklingen viser at ungdom ser mulighetene i fagutdanning.\n\nTrenden har vært jevnt stigende siden 2016 til 2017, da 47 prosent søkte yrkesfag. Økningen kommer særlig av at flere 16‑åringer velger praktiske fag etter ungdomsskolen.\n\nI år er det størst vekst innen elektro og datateknologi, som har fått 800 flere søkere enn i fjor.\n\nYrkesfag\n\nRegjeringen legger i dag fram endringer i yrkefagutdanningen. Mer spesialisering første året, skal gjøre elevene mer attraktive for arbeidsgiverne. Utdanningsforbundet er kritisk.",
+      "excerpt": "For tredje år på rad øker interessen for yrkesfag på videregående, og andelen som har yrkesfag som førsteønske er nå oppe i 55 prosent.\n\nDet viser årets søkertall fra Utdanningsdirektoratet.\n\nKunnskapsminister Kari Nessa Nordtun (Ap) mener utviklingen viser at ungdom ser mulighetene i...",
+      "image": "https://images.unsplash.com/photo-1654172153816-81dce7b41351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzMzk2ODF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/rekordmange-sokere-til-yrkesfag-pa-videregaende-1.17822081",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-24T08:08:01.764Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774339679894.1887,
+      "title": "Valglokalene i Danmark har åpnet",
+      "slug": "valglokalene-i-danmark-har-pnet",
+      "content": "Danskene kan nå gå til urnene for å avgi sin stemme om hva slags regjering de ønsker de neste fire årene.\n\nEn nær månedslang valgkamp er nå over, og alt ligger i hendene til de danske velgerne.\n\nStatsminister Mette Frederiksen regnes som favoritt, blant annet etter at hun tidligere har markert seg i striden med Donald Trump om Grønland.\n\nNye målinger viser at venstreblokken, som Frederiksen leder, ligger ni mandater foran høyreblokken. Likevel ser ingen av blokkene ut til å få flertall i Folketinget, som har 179 seter.\n\nDanmark\n\nMette Frederiksen har vært statsminister i Danmark siden 2019. Landet har vært med i Nato siden 1949 og av EU siden 1973.",
+      "excerpt": "Danskene kan nå gå til urnene for å avgi sin stemme om hva slags regjering de ønsker de neste fire årene.\n\nEn nær månedslang valgkamp er nå over, og alt ligger i hendene til de danske velgerne.\n\nStatsminister Mette Frederiksen regnes som favoritt, blant annet etter at hun tidligere har markert seg...",
+      "image": "https://images.unsplash.com/photo-1588245150864-d1fdee0ea3e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzMzk2Nzl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/valglokalene-i-danmark-har-apnet-1.17822097",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-24T08:07:59.894Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1774329418939.369,
       "title": "Senatet godkjenner USAs sikkerhetsminister",
       "slug": "senatet-godkjenner-usas-sikkerhetsminister",
@@ -610,25 +649,12 @@
       "fetched_at": "2026-03-22T03:26:43.731Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1774150001695.4937,
-      "title": "Emirates збиває дрони з Ірану",
-      "slug": "emirates-збиває-дрони-з-ірану",
-      "content": "Військово-повітряні сили Об'єднаних Арабських Еміратів збили три безпілотники з Ірану протягом ночі.\n\nМіністерство оборони країни заявило, що безпілотники були перехоплені та знищені над східною частиною країни. Влада пояснює, що гучні звуки, які чують люди, спричинені тим, що ВПС збивають та знищують ракети та безпілотники в повітрі.\n\nСитуація дуже напружена після повідомлень про кілька атак у регіоні в неділю вранці.\n\nВійна на Близькому Сході\n\n28 лютого Ізраїль та Сполучені Штати здійснили скоординований напад на Іран. Крім того, обидві країни атакували цілі в Лівані. Після нападу Іран розпочав кілька контратак проти Абу-Дабі, Бахрейну, Дубая, Катару, Кувейту та Ізраїлю.",
-      "excerpt": "Військово-повітряні сили Об'єднаних Арабських Еміратів збили три безпілотники з Ірану протягом ночі.\n\nМіністерство оборони країни заявило, що безпілотники були перехоплені та знищені над східною частиною країни. Влада пояснює, що гучні звуки, які чують люди, спричинені тим, що ВПС збивають та...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/emiratene-skyter-ned-droner-fra-iran-1.17819680",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-22T03:26:41.696Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 48,
+    "totalFetched": 51,
     "totalPublished": 11,
-    "lastFetch": "2026-03-24T05:17:00.429Z",
+    "lastFetch": "2026-03-24T08:08:05.435Z",
     "lastPublish": "2026-03-23T22:00:31.920Z"
   }
 }
