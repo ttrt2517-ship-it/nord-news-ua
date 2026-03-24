@@ -10,8 +10,8 @@
       "original_url": "https://www.thelocal.no/20260319/fuel-prices-how-much-money-will-you-save-with-an-electric-car-in-norway",
       "source_name": "The Local Norway",
       "fetched_at": "2026-03-24T17:33:17.566Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-24T18:08:59.656Z",
+      "status": "published"
     },
     {
       "id": 1774373594878.521,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 58,
-    "totalPublished": 13,
+    "totalPublished": 14,
     "lastFetch": "2026-03-24T17:33:18.567Z",
-    "lastPublish": "2026-03-24T15:46:16.254Z"
+    "lastPublish": "2026-03-24T18:09:00.898Z"
   }
 }
