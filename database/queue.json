@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1774329418939.369,
+      "title": "Senatet godkjenner USAs sikkerhetsminister",
+      "slug": "senatet-godkjenner-usas-sikkerhetsminister",
+      "content": "Senatet i USA stemte mandag kveld for at den tidligere kampsportutøveren og Oklahoma-guvernøren Markwayne Mullin (48) fortsetter som sikkerhetsminister.\n\nRepublikaneren har ledet sikkerhetsdepartementet siden USAs president sparket den tidligere sikkerhetsministeren Kristi Noem.\n\nMullin er ansvarlig for Department of Homeland Security (DHS), som blant annet styrer innvandringspolitiet ICE.\n\n– Målet mitt er at om seks måneder skal vi ikke være hovedoppslag i nyhetene hver dag, sa Mullin under utspørringen før Senatet godkjente ham\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Senatet i USA stemte mandag kveld for at den tidligere kampsportutøveren og Oklahoma-guvernøren Markwayne Mullin (48) fortsetter som sikkerhetsminister.\n\nRepublikaneren har ledet sikkerhetsdepartementet siden USAs president sparket den tidligere sikkerhetsministeren Kristi Noem.\n\nMullin er...",
+      "image": "https://images.unsplash.com/photo-1541360389723-5f230196b9e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzMjk0MTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/senatet-godkjenner-usas-sikkerhetsminister-1.17821927",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-24T05:16:58.939Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774329416683.5273,
+      "title": "Minst 15 drept i angrep mot by i Sudan",
+      "slug": "minst-15-drept-i-angrep-mot-by-i-sudan",
+      "content": "Hæren i Sudan anklages for å stå bak en rekke angrep mot byen Lagawa, der minst 15 mennesker ble drept mandag, sier en kilde i helsevesenet til AFP.\n\n– 15 drepte og 23 sårede kom inn til sykehuset fra tre områder, sier kilden, som av hensyn til egen sikkerhet ønsker å være anonym, melder NTB.\n\nSudan\n\nDet har vært krig i Sudan siden 15. april 2023. Da brøt det ut blodige kamper rundt hovedstaden Khartoum mellom regjeringsstyrker og den paramilitære gruppen RSF.",
+      "excerpt": "Hæren i Sudan anklages for å stå bak en rekke angrep mot byen Lagawa, der minst 15 mennesker ble drept mandag, sier en kilde i helsevesenet til AFP.\n\n– 15 drepte og 23 sårede kom inn til sykehuset fra tre områder, sier kilden, som av hensyn til egen sikkerhet ønsker å være anonym, melder...",
+      "image": "https://images.unsplash.com/photo-1710850701767-aca0eacbc07a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzMjk0MTZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/minst-15-drept-i-angrep-mot-by-i-sudan-1.17821954",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-24T05:16:56.683Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774329414999.7036,
+      "title": "Over 9000 mål rammet i Iran siden krigsutbruddet",
+      "slug": "over-9000-ml-rammet-i-iran-siden-krigsutbruddet",
+      "content": "USA og Israel har rammet over 9000 mål i Iran, inkludert 140 marinefartøy, siden krigsutbruddet for drøyt tre uker siden. Det opplyser den amerikanske midtøstenkommandoen Centcom på X.\n\nHormuzstredet er i praksis stengt for skipstrafikk, og trafikken er redusert med rundt 95 prosent, ifølge BBC. Det har ført til kraftig vekst i oljeprisen.\n\nMandag falt oljeprisen etter at Trump sa at USA og Iran forhandler om en avtale. Iran sier på sin side at det ikke er noen forhandlinger på gang, melder NTB.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
+      "excerpt": "USA og Israel har rammet over 9000 mål i Iran, inkludert 140 marinefartøy, siden krigsutbruddet for drøyt tre uker siden. Det opplyser den amerikanske midtøstenkommandoen Centcom på X.\n\nHormuzstredet er i praksis stengt for skipstrafikk, og trafikken er redusert med rundt 95 prosent, ifølge BBC....",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/over-9000-mal-rammet-i-iran-siden-krigsutbruddet-1.17821955",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-24T05:16:55.000Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1774307106000.753,
       "title": "Første del av nytt regjeringskvartal uten bomberom",
       "slug": "frste-del-av-nytt-regjeringskvartal-uten-bomberom",
@@ -587,9 +626,9 @@
     }
   ],
   "stats": {
-    "totalFetched": 45,
+    "totalFetched": 48,
     "totalPublished": 11,
-    "lastFetch": "2026-03-23T23:05:07.449Z",
+    "lastFetch": "2026-03-24T05:17:00.429Z",
     "lastPublish": "2026-03-23T22:00:31.920Z"
   }
 }
