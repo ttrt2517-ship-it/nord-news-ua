@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/trondelag/tre-personer-pagrepet-etter-vapenbeslag-1.17823385",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-24T20:01:15.612Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-24T22:04:53.790Z",
+      "status": "published"
     },
     {
       "id": 1774382474149.3337,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 61,
-    "totalPublished": 14,
+    "totalPublished": 15,
     "lastFetch": "2026-03-24T20:01:17.585Z",
-    "lastPublish": "2026-03-24T18:09:00.898Z"
+    "lastPublish": "2026-03-24T22:04:54.721Z"
   }
 }
