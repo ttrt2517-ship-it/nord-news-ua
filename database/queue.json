@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/store-varsler-dronesatsing-for-forsvaret-1.17822059",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-24T08:08:03.485Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-24T11:35:13.322Z",
+      "status": "published"
     },
     {
       "id": 1774339681764.404,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 51,
-    "totalPublished": 11,
+    "totalPublished": 12,
     "lastFetch": "2026-03-24T08:08:05.435Z",
-    "lastPublish": "2026-03-23T22:00:31.920Z"
+    "lastPublish": "2026-03-24T11:35:13.881Z"
   }
 }
