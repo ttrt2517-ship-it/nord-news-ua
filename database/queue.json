@@ -10,8 +10,8 @@
       "original_url": "https://www.thelocal.no/20260325/norway-moves-to-change-discriminatory-overtime-rules-for-part-time-workers",
       "source_name": "The Local Norway",
       "fetched_at": "2026-03-25T17:39:21.669Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-25T18:10:34.799Z",
+      "status": "published"
     },
     {
       "id": 1774460359128.116,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 78,
-    "totalPublished": 17,
+    "totalPublished": 18,
     "lastFetch": "2026-03-25T17:39:22.671Z",
-    "lastPublish": "2026-03-25T15:49:57.880Z"
+    "lastPublish": "2026-03-25T18:10:36.025Z"
   }
 }
