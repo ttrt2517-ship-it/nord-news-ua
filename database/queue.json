@@ -10,8 +10,8 @@
       "original_url": "https://www.thelocal.no/20260325/today-in-norway-a-roundup-of-the-latest-news-on-wednesday-233",
       "source_name": "The Local Norway",
       "fetched_at": "2026-03-25T08:06:51.058Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-25T11:30:23.737Z",
+      "status": "published"
     },
     {
       "id": 1774426008343.1724,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 71,
-    "totalPublished": 15,
+    "totalPublished": 16,
     "lastFetch": "2026-03-25T08:06:52.059Z",
-    "lastPublish": "2026-03-24T22:04:54.721Z"
+    "lastPublish": "2026-03-25T11:30:24.878Z"
   }
 }
