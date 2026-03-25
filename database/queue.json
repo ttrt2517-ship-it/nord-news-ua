@@ -23,8 +23,8 @@
       "original_url": "https://www.nrk.no/nyheter/sp_-ikke-planlagt-flere-moter-i-kveld-1.17825132",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-25T17:39:19.128Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-25T19:58:01.220Z",
+      "status": "published"
     },
     {
       "id": 1774460357607.3755,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 78,
-    "totalPublished": 18,
+    "totalPublished": 19,
     "lastFetch": "2026-03-25T17:39:22.671Z",
-    "lastPublish": "2026-03-25T18:10:36.025Z"
+    "lastPublish": "2026-03-25T19:58:01.976Z"
   }
 }
