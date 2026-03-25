@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/e24_-norge-slipper-unna-eus-pantekrav-1.17824456",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-25T12:00:36.257Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-25T15:49:57.300Z",
+      "status": "published"
     },
     {
       "id": 1774440034685.4856,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 74,
-    "totalPublished": 16,
+    "totalPublished": 17,
     "lastFetch": "2026-03-25T12:00:37.739Z",
-    "lastPublish": "2026-03-25T11:30:24.878Z"
+    "lastPublish": "2026-03-25T15:49:57.880Z"
   }
 }
