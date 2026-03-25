@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1774482766649.7874,
+      "title": "Storbritannia trapper opp innsatsen mot Russlands skyggeflåte",
+      "slug": "storbritannia-trapper-opp-innsatsen-mot-russlands-skyggeflte",
+      "content": "Britiske marinestyrker vil få myndighet til å borde og beslaglegge skip fra Russlands såkalte «skyggeflåte» som passerer gjennom britisk farvann for å øke presset mot Putin, kunngjorde regjeringen onsdag.\n\nDette kommer i rekken av andre tidligere britiske sanksjoner mot den russiske skyggeflåten.\n\n«Skyggeflåte» er et begrep som omhandler tankskip som Russland bruker for å omgå internasjonal sanksjoner.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Britiske marinestyrker vil få myndighet til å borde og beslaglegge skip fra Russlands såkalte «skyggeflåte» som passerer gjennom britisk farvann for å øke presset mot Putin, kunngjorde regjeringen onsdag.\n\nDette kommer i rekken av andre tidligere britiske sanksjoner mot den russiske...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/storbritannia-trapper-opp-innsatsen-mot-russlands-skyggeflate-1.17825392",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-25T23:52:46.649Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774482765076.3652,
+      "title": "To drept i droneangrep mot Belgorod",
+      "slug": "to-drept-i-droneangrep-mot-belgorod",
+      "content": "En bilfører og en motorsyklist omkom i ukrainske droneangrep i den russiske grenseregionen Belgorod onsdag, ifølge byens guvernør Vjatsjeslav Gladkov melding på Telegram.\n\nMotorsyklisten som ble truffet av en drone, var en 18 år gammel mann. Den andre drepte var en kvinne som satt i en bil i byen Grajvoron, da hun ble rammet av et droneangrep, melder NTB.\n\nRegionen Belgorod, som grenser mot Ukraina, har ofte blitt utsatt for angrep fra ukrainske styrker i løpet av den drøyt fire år lange krigen, skriver nyhetsbyrået Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "En bilfører og en motorsyklist omkom i ukrainske droneangrep i den russiske grenseregionen Belgorod onsdag, ifølge byens guvernør Vjatsjeslav Gladkov melding på Telegram.\n\nMotorsyklisten som ble truffet av en drone, var en 18 år gammel mann. Den andre drepte var en kvinne som satt i en bil i byen...",
+      "image": "https://images.unsplash.com/photo-1723879071863-e9acba7326b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ0ODI3NjV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-drept-i-droneangrep-mot-belgorod-1.17825430",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-25T23:52:45.076Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774482763369.4575,
+      "title": "Fire drept i angrep mot mistenkt narkobåt",
+      "slug": "fire-drept-i-angrep-mot-mistenkt-narkobt",
+      "content": "Et amerikansk angrep mot en båt som skal ha blitt brukt til smugling av narkotika, førte til at fire menn ble drept. Det melder USAs regionale militærkommando.\n\nIfølge en uttalelse fra regionkommandoen Southcom i sosiale medier, forflyttet båten seg langs «kjente ruter for narkotikasmugling».\n\nNyhetsbyrået AP skriver at det siste angrepet er en del av flere aksjoner som resultert i minst 163 drepte etter at USAs president Donald Trump startet omfattende maritime operasjoner mot mistenkte smuglere.",
+      "excerpt": "Et amerikansk angrep mot en båt som skal ha blitt brukt til smugling av narkotika, førte til at fire menn ble drept. Det melder USAs regionale militærkommando.\n\nIfølge en uttalelse fra regionkommandoen Southcom i sosiale medier, forflyttet båten seg langs «kjente ruter for...",
+      "image": "https://images.unsplash.com/photo-1734454736221-358dd682c2cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ0ODI3NjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fire-drept-i-angrep-mot-mistenkt-narkobat-1.17825437",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-25T23:52:43.369Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1774475824882.3188,
       "title": "Bot til Meta og Google",
       "slug": "bot-til-meta-og-google",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-03-23T15:41:26.086Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1774267102629.3606,
-      "title": "Ключові дати: Коли будуть відомі результати переговорів Норвегії щодо заробітної плати цього року?",
-      "slug": "ключові-дати-коли-будуть-відомі-результати-переговорів-норве",
-      "content": "Найближчі дні є критично важливими для всіх, хто працює в Норвегії. Понеділок, 23 березня, знаменує офіційний початок переговорів щодо lønnsoppgjør (врегулювання заробітної плати), але коли ми дізнаємося результат?\n\nЩовесна норвезька робоча сила затамовує подих, коли профспілки та роботодавці як приватного, так і державного секторів зустрічаються для обговорення заробітної плати.\n\nЗазвичай, Норвезька конфедерація профспілок (LO) та Конфедерація норвезьких підприємств (NHO) безпосередньо ведуть ці центральні переговори.\n\nОднак цього року окремі профспілки ведуть власні переговори.\n\nLO все ще встановлює загальні вимоги, але сьогодні саме Fellesforbundet, найбільша профспілка приватного сектору, зустрічається з асоціацією роботодавців промисловості Norsk Industri, щоб розпочати переговори.\n\nЇхні переговори, які триватимуть до четверга, 26 березня, складають frontfagsoppgjør, або врегулювання на передовій.\n\nЗгідно з норвезькою моделлю фронтової лінії (frontfagsmodellen), угода між цими двома групами встановлює неофіційне обмеження для зростання заробітної плати в решті економіки.\n\nІнші сектори, включаючи медсестер, вчителів та працівників роздрібної торгівлі, чекатимуть на цей результат, перш ніж укладати власні угоди пізніше у квітні.\n\nЦя система діє, оскільки ці галузі включають норвезькі експортні компанії, які не можуть контролювати світові ціни. Важливо, щоб зростання заробітної плати в цьому секторі залишалося розумним, щоб працівники отримували справедливе підвищення, не роблячи норвезькі компанії менш конкурентоспроможними.\n\nЧИТАЙТЕ ДАЛІ: «Досить — це досить»: Чому переговори щодо заробітної плати в Норвегії цього року такі напружені?\n\nЯкщо Fellesforbundet та Norsk Industri не зможуть домовитися про врегулювання до 26 березня, переговори будуть передані Національному посереднику (Riksmekleren).\n\nСтрайк є законним лише після спроби посередництва, і навіть тоді він може відбутися лише через 4 дні після офіційного повідомлення.\n\nСтрайки в Норвегії трапляються нечасто через цей структурований процес, але вони можливі, особливо в рамках ховедоппгйора, або основного врегулювання, як це.\n\nУ парні роки профспілки та роботодавці домовляються про основне врегулювання, яке охоплює оплату праці та всі інші умови їхніх колективних договорів.\n\nЦе робить переговори 2026 року ширшими та, можливо, більш суперечливими, ніж мелломоппгйор (проміжний раунд), який відбувається в непарні роки та охоплює лише оплату праці.\n\nПісля укладення першочергової угоди інші сектори починають власні переговори.\n\nМуніципальні працівники, включаючи вчителів та місцевих медичних працівників, розпочнуть переговори 10 квітня.\n\n13 квітня Virke, головна група роботодавців для приватного сектору послуг та роздрібної торгівлі, розпочне свої переговори.\n\nНевдовзі після цього лікарні, компанії громадського транспорту та інші державні підприємства розпочнуть свої переговори через організацію під назвою Spekter, 15 квітня.\n\nШирший державний сектор, включаючи службовців центрального уряду, розпочне переговори 16 квітня.\n\nОчікується, що більшість угод у державному секторі будуть завершені до 30 квітня.\n\nЯкщо якийсь сектор не зможе досягти згоди, посередництво розпочнеться на початку травня, а кінцевий термін – 28 травня як для муніципального, так і для державного секторів. До того часу всі працівники в Норвегії знатимуть, чого очікувати в наступному році.\n\nЧИТАЙТЕ ТАКОЖ: Історична перемога працівників, що працюють неповний робочий день у Норвегії, викликає негативну реакцію роботодавців\n\nЦьогорічні вимоги зосереджені на чотирьох основних сферах, головною метою яких є підвищення купівельної спроможності.\n\nПісля кількох років високої інфляції профспілки хочуть підвищення заробітної плати, яке б відповідало зростанню вартості життя.\n\nПрофспілки також хочуть підтримати низькооплачуваних працівників, надаючи їм більший відсоток підвищення, щоб допомогти скоротити розрив у доходах, який збільшився у 2025 році.\n\nПрофспілки також вимагають, щоб роботодавці авансували виплату лікарняних та батьківських відпусток, а не змушували працівників чекати на відшкодування від Управління праці та соціального забезпечення (NAV).\n\nУправління праці та соціального забезпечення також хоче зупинити тенденцію укладання державними роботодавцями окремих угод поза основними колективними договорами.\n\nЛідер LO Кіне Аспер Вістнес у численних заявах зазначав, що в останні роки власники бізнесу забирали більшу частку прибутку, тоді як заробітна плата працівників не встигає за цим.\n\nДолучайтеся до обговорення в розділі коментарів нижче. Поділіться власними думками та досвідом, а якщо у вас є запитання чи пропозиції для наших журналістів, напишіть нам на адресу news@thelocal.no.\nБудь ласка, пишіть ввічливі, конструктивні та актуальні коментарі, а також обов’язково ознайомтеся з нашими умовами використання, перш ніж брати участь.",
-      "excerpt": "Найближчі дні є критично важливими для всіх, хто працює в Норвегії. Понеділок, 23 березня, знаменує офіційний початок переговорів щодо lønnsoppgjør (врегулювання заробітної плати), але коли ми дізнаємося результат?\n\nЩовесна норвезька робоча сила затамовує подих, коли профспілки та роботодавці як...",
-      "image": "https://images.unsplash.com/photo-1593291792182-ee56441b1137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQyNjcxMDJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260323/key-dates-when-will-know-the-outcome-of-norways-wage-negotiations-this-year",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-03-23T11:58:22.629Z",
-      "published_at": "2026-03-23T15:40:24.881Z",
-      "status": "published"
-    },
-    {
-      "id": 1774267099690.5588,
-      "title": "Трамп: Продуктивні переговори з Іраном – відкладає атаки на нафтові об'єкти на п'ять днів",
-      "slug": "трамп-продуктивні-переговори-з-іраном-відкладає-атаки-на-наф",
-      "content": "Президент США Дональд Трамп пише на Truth Social, що він провів дуже хороші та продуктивні переговори з Іраном.\n\n– Виходячи з настрою та тону цих глибоких, детальних та конструктивних переговорів, які триватимуть протягом тижня, я доручив Міністерству оборони відкласти всі військові удари по іранських електростанціях та енергетичних об'єктах на п'ять днів, за умови прогресу в поточних зустрічах та обговореннях, пише він далі.\n\nУ суботу Трамп дав іранській владі 48-годинний термін для повного відкриття Ормузької протоки, інакше електростанції країни будуть розбомблені вщент.\n\nТрамп погрожував атакувати енергетичну інфраструктуру Ірану. Тепер він доручив військовим припинити атаки на п'ять днів.\n\nВійна на Близькому Сході\n\n28 лютого Ізраїль та Сполучені Штати здійснили скоординований напад на Іран. Крім того, обидві країни атакували цілі в Лівані. Після нападу Іран розпочав кілька контратак проти Абу-Дабі, Бахрейну, Дубая, Катару, Кувейту та Ізраїлю.",
-      "excerpt": "Президент США Дональд Трамп пише на Truth Social, що він провів дуже хороші та продуктивні переговори з Іраном.\n\n– Виходячи з настрою та тону цих глибоких, детальних та конструктивних переговорів, які триватимуть протягом тижня, я доручив Міністерству оборони відкласти всі військові удари по...",
-      "image": "https://images.unsplash.com/photo-1570547902185-8f0d4513f243?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQyNjcwOTl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/trump_-produktive-samtaler-med-iran-_-utsetter-angrep-mot-oljeanlegg-i-fem-dager-1.17820777",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-23T11:58:19.691Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774267097801.6628,
-      "title": "Ціни на нафту впали після заяви Трампа – нижче 100 доларів за барель",
-      "slug": "ціни-на-нафту-впали-після-заяви-трампа-нижче-100-доларів-за-",
-      "content": "Ціна на нафту різко впала з приблизно 112 доларів до менш ніж 100 доларів після того, як президент США Дональд Трамп заявив у понеділок, що відкладає атаки на іранські нафтові об'єкти на п'ять днів.\n\nЦіна на нафту з Північного моря різко падає після останньої заяви президента США Дональда Трампа про відкладення атак на Іран.\n\nУ понеділок вранці вона становила близько 113 доларів за барель, але після оголошення різко впала до попереднього мінімуму в 96 доларів за барель, перш ніж дещо відновитися.\n\nВійна на Близькому Сході\n\n28 лютого Ізраїль та США здійснили скоординований напад на Іран. Крім того, обидві країни атакували цілі в Лівані. Після нападу Іран розпочав кілька контратак проти Абу-Дабі, Бахрейну, Дубая, Катару, Кувейту та Ізраїлю.",
-      "excerpt": "Ціна на нафту різко впала з приблизно 112 доларів до менш ніж 100 доларів після того, як президент США Дональд Трамп заявив у понеділок, що відкладає атаки на іранські нафтові об'єкти на п'ять днів.\n\nЦіна на нафту з Північного моря різко падає після останньої заяви президента США Дональда Трампа...",
-      "image": "https://images.unsplash.com/photo-1530562054393-8e9053f7a8cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQyNjcwOTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/oljeprisen-stuper-etter-trump-melding-_-faller-under-100-dollar-fatet-1.17821029",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-23T11:58:17.801Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 81,
+    "totalFetched": 84,
     "totalPublished": 20,
-    "lastFetch": "2026-03-25T21:57:06.195Z",
+    "lastFetch": "2026-03-25T23:52:48.574Z",
     "lastPublish": "2026-03-25T22:59:27.570Z"
   }
 }
