@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1774566028021.0417,
+      "title": "Trump utsetter angrep på iranske energianlegg",
+      "slug": "trump-utsetter-angrep-p-iranske-energianlegg",
+      "content": "Donald Trump sier han utsetter «ødeleggelse av energianlegg» til mandag 6. april.\n\nNatt til lørdag ga Trump iranske myndigheter en frist på 48 timer til å åpne Hormuzstredet fullstendig, ellers ville landets kraftverk bli bombet sønder og sammen.\n\nDette utsatte han første gang på mandag, da han sa de hadde hatt produktive samtaler med Iran.\n\nI dagene etter har det vært en strid mellom USA og Iran om det egentlig har vørt forhandlinger eller bare utveksling av meldinger via mellommenn.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
+      "excerpt": "Donald Trump sier han utsetter «ødeleggelse av energianlegg» til mandag 6. april.\n\nNatt til lørdag ga Trump iranske myndigheter en frist på 48 timer til å åpne Hormuzstredet fullstendig, ellers ville landets kraftverk bli bombet sønder og sammen.\n\nDette utsatte han første gang på mandag, da han sa...",
+      "image": "https://images.unsplash.com/photo-1652787644752-7eebd3de835a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ1NjYwMjd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/trump-utsetter-angrep-pa-iranske-energianlegg-1.17827030",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-26T23:00:28.021Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774566026235.151,
+      "title": "EU mener Russland hjelper Iran med etterretning og droner",
+      "slug": "eu-mener-russland-hjelper-iran-med-etterretning-og-droner",
+      "content": "Russland gir Iran etterretning og droner for å angripe amerikanske mål. Det sier EUs utenrikssjef, Kaja Kallas.\n\nIfølge Kallas bruker Iran russisk hjelp til å angripe naboland og amerikanske militærbaser. Hun kom med de sterke anklagene under et G7-møte utenfor Paris torsdag, skriver NTB.\n\nKallas mener krigene i Ukraina og Midtøsten henger tett sammen. Hun mener USA må legge hardere press på Russland for å få stoppet angrepene fra Iran.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
+      "excerpt": "Russland gir Iran etterretning og droner for å angripe amerikanske mål. Det sier EUs utenrikssjef, Kaja Kallas.\n\nIfølge Kallas bruker Iran russisk hjelp til å angripe naboland og amerikanske militærbaser. Hun kom med de sterke anklagene under et G7-møte utenfor Paris torsdag, skriver NTB.\n\nKallas...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/eu-mener-russland-hjelper-iran-med-etterretning-og-droner-1.17827099",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-26T23:00:26.235Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774566024611.8662,
+      "title": "Stort parti kokain på vei til Norge beslaglagt i Storbritannia",
+      "slug": "stort-parti-kokain-p-vei-til-norge-beslaglagt-i-storbritanni",
+      "content": "Britisk politi har beslaglagt over 2,1 tonn kokain i en container med keramikk og kjøkkenutstyr. Lasten skal ha vært på vei fra Panama til Norge, opplyser National Crime Agency i en pressemelding.\n\nNCA anslår at narkotikaen ville hatt en gateverdi på rundt 80 millioner pund, som tilsvarer rundt en milliard kroner.\n\nNarkotikasmugling\n\nIkke siden 2014 har det blitt beslaglagt mer narkotika enn i fjor. Rekordmengder kokain er beslaglagt, men også beslagene av syntetiske rusmidler har økt.\nTotalt ble det i 2023 beslaglagt mer kokain enn i løpet av de siste 22 årene til sammen.",
+      "excerpt": "Britisk politi har beslaglagt over 2,1 tonn kokain i en container med keramikk og kjøkkenutstyr. Lasten skal ha vært på vei fra Panama til Norge, opplyser National Crime Agency i en pressemelding.\n\nNCA anslår at narkotikaen ville hatt en gateverdi på rundt 80 millioner pund, som tilsvarer rundt en...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/stort-parti-kokain-pa-vei-til-norge-beslaglagt-i-storbritannia-1.17827100",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-26T23:00:24.611Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1774555228852.338,
       "title": "Stoltenberg: – Ikke en god dag for samarbeidet",
       "slug": "stoltenberg-ikke-en-god-dag-for-samarbeidet",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-03-24T12:00:47.976Z",
       "published_at": "2026-03-24T15:46:15.868Z",
       "status": "published"
-    },
-    {
-      "id": 1774353646466.7559,
-      "title": "Høgre foreslår strakstiltak for å kutte drivstoffprisane",
-      "slug": "hgre-foreslr-strakstiltak-for-kutte-drivstoffprisane",
-      "content": "Onsdag foreslo Høgre å kutte vegavgifta frå 1. april til 1. september. Det som følge av dei høge drivstoffprisane, skriv partiet i ei pressemelding.\n\n– Det vil utgjere fire kroner for bensin og tre kroner for diesel. Det er eit kutt som vil monne for både folk og næringsliv, seier finanspolitisk talsperson Nikolai Astrup.\n\n– Dette er eit strakstiltak som skal styrke folk sin kvardagsøkonomi, legg han til.\n\nPartiet håper at forslaget vil få fleirtal i Stortinget.\n\nPartiet Høyre\n\nHøyre ble stiftet i 1884. Ine Eriksen Søreide ble valgt til partiets leder februar 2026. I Stortingsvalget 2025 ble partiet tredje størst med 14,6 prosent.",
-      "excerpt": "Onsdag foreslo Høgre å kutte vegavgifta frå 1. april til 1. september. Det som følge av dei høge drivstoffprisane, skriv partiet i ei pressemelding.\n\n– Det vil utgjere fire kroner for bensin og tre kroner for diesel. Det er eit kutt som vil monne for både folk og næringsliv, seier finanspolitisk...",
-      "image": "https://images.unsplash.com/photo-1715633869858-d33199330c12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzNTM2NDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/hogre-foreslar-strakstiltak-for-a-kutte-drivstoffprisane-1.17822695",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-24T12:00:46.466Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774353644923.7542,
-      "title": "Høgsterett avviser anke frå Stordalen",
-      "slug": "hgsterett-avviser-anke-fr-stordalen",
-      "content": "Petter Stordalen og selskapet hans Strawberry Field får ikkje behandla anken sin i Høgsterett, skriv E24.\n\nDet betyr at Stordalen og selskapet må dekke ankemotparten, Skatteetaten, sine kostnader for Høgsterett på om lag 50.000 kroner.\n\nI desember blei Stordalen og verksemda dømt til å betale over 400 millionar kroner i skatt på tidlegare utbytte. Dette blei anka til Høgsterett som tysdag ikkje fann «tilstrekkeleg grunn» til å behandle anken.",
-      "excerpt": "Petter Stordalen og selskapet hans Strawberry Field får ikkje behandla anken sin i Høgsterett, skriv E24.\n\nDet betyr at Stordalen og selskapet må dekke ankemotparten, Skatteetaten, sine kostnader for Høgsterett på om lag 50.000 kroner.\n\nI desember blei Stordalen og verksemda dømt til å betale over...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/hogsterett-avviser-anke-fra-stordalen-1.17822699",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-24T12:00:44.923Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774339683485.1128,
-      "title": "Støre varsler dronesatsing for Forsvaret",
-      "slug": "stre-varsler-dronesatsing-for-forsvaret",
-      "content": "Før den oppdaterte langtidsplanen for Forsvaret legges fram fredag, varsler statsminister Jonas Gahr Støre (Ap) et droneløft.\n\n– Det betyr at vi vil styrke hvordan alle deler av Forsvaret arbeider med å bruke droner og forsvare seg mot droner. Det tilpasser vi til det norske forsvarsbehovet. Det inkluderer også opplæring av folk som kan operere dronene, sier Støre til VG.\n\nDen oppdaterte langtidsplanen for Forsvaret legges fram fredag.",
-      "excerpt": "Før den oppdaterte langtidsplanen for Forsvaret legges fram fredag, varsler statsminister Jonas Gahr Støre (Ap) et droneløft.\n\n– Det betyr at vi vil styrke hvordan alle deler av Forsvaret arbeider med å bruke droner og forsvare seg mot droner. Det tilpasser vi til det norske forsvarsbehovet. Det...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/store-varsler-dronesatsing-for-forsvaret-1.17822059",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-24T08:08:03.485Z",
-      "published_at": "2026-03-24T11:35:13.322Z",
-      "status": "published"
     }
   ],
   "stats": {
-    "totalFetched": 100,
+    "totalFetched": 103,
     "totalPublished": 24,
-    "lastFetch": "2026-03-26T20:00:30.384Z",
+    "lastFetch": "2026-03-26T23:00:29.977Z",
     "lastPublish": "2026-03-26T21:56:01.512Z"
   }
 }
