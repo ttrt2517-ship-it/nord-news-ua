@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/ligger-an-til-flertall-for-to-kuttforslag-1.17826801",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-26T17:39:15.638Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-26T18:12:07.813Z",
+      "status": "published"
     },
     {
       "id": 1774546754002.4507,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 97,
-    "totalPublished": 22,
+    "totalPublished": 23,
     "lastFetch": "2026-03-26T17:39:17.393Z",
-    "lastPublish": "2026-03-26T15:58:15.821Z"
+    "lastPublish": "2026-03-26T18:12:09.592Z"
   }
 }
