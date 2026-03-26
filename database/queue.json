@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/oljetanker-rammet-av-eksplosjon-i-svartehavet-1.17825645",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-26T08:37:43.234Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-26T11:57:34.890Z",
+      "status": "published"
     },
     {
       "id": 1774514261527.635,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 90,
-    "totalPublished": 20,
+    "totalPublished": 21,
     "lastFetch": "2026-03-26T08:37:44.647Z",
-    "lastPublish": "2026-03-25T22:59:27.570Z"
+    "lastPublish": "2026-03-26T11:57:36.160Z"
   }
 }
