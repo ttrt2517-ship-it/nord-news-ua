@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1774514263234.2886,
+      "title": "Oljetanker rammet av eksplosjon i Svartehavet",
+      "slug": "oljetanker-rammet-av-eksplosjon-i-svartehavet",
+      "content": "Det melder Reuters, som siterer den tyrkiske transportministeren. Eksplosjonen ble forårsaket av et ubemannet fartøy. Det opplyses ikke hva slags fartøy det er, men ukrainske styrker har tidligere brukt såkalte sjødroner i flere angrep mot russiske mål.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Det melder Reuters, som siterer den tyrkiske transportministeren. Eksplosjonen ble forårsaket av et ubemannet fartøy. Det opplyses ikke hva slags fartøy det er, men ukrainske styrker har tidligere brukt såkalte sjødroner i flere angrep mot russiske mål.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og...",
+      "image": "https://images.unsplash.com/photo-1753696278559-38efaeafab72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ1MTQyNjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/oljetanker-rammet-av-eksplosjon-i-svartehavet-1.17825645",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-26T08:37:43.234Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774514261527.635,
+      "title": "Stor økning i enslige mindreårige flyktninger de siste årene",
+      "slug": "stor-kning-i-enslige-mindrerige-flyktninger-de-siste-rene",
+      "content": "Ved inngangen til 2025 var det bosatt 11.970 personer som har fått opphold i Norge som enslige mindreårige flyktninger i årene fra 1996 til 2024.\n\nOver 1600 av ungdommene som kom i løpet av 2022–2024 er fra Ukraina, viser nye tall fra Statistisk sentralbyrå (SSB).\n\nAfghanere er fortsatt den klart største gruppen, med drøyt 4700 personer, nær 40 prosent. Ukrainere utgjør 14 prosent, fulgt av Eritreere, 13 prosent, syrere og somaliere utgjør 8 prosent av enslige mindreårige.\n\nFlyktninger til Norge\n\nNordmenn er blitt mer positive til å ta imot flyktninger, viser en spørreundersøkelse fra Institutt for samfunnsforskning mellom 16. og 23. mars 2022. Seks av ti svarer at Norge bør ta imot flere flyktninger.",
+      "excerpt": "Ved inngangen til 2025 var det bosatt 11.970 personer som har fått opphold i Norge som enslige mindreårige flyktninger i årene fra 1996 til 2024.\n\nOver 1600 av ungdommene som kom i løpet av 2022–2024 er fra Ukraina, viser nye tall fra Statistisk sentralbyrå (SSB).\n\nAfghanere er fortsatt den klart...",
+      "image": "https://images.unsplash.com/photo-1580946443359-1126222f9224?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ1MTQyNjF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/stor-okning-i-enslige-mindrearige-flyktninger-de-siste-arene-1.17825666",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-26T08:37:41.527Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774514259872.958,
+      "title": "Moflag: Brudd på budsjettavtalen om Høyres forslag om drivstoffavgifter vedtas nå",
+      "slug": "moflag-brudd-p-budsjettavtalen-om-hyres-forslag-om-drivstoff",
+      "content": "Arbeiderpartiets finanspolitiske talsperson, Tuva Moflag, sier det vil være et brudd på budsjettavtalen dersom Sp sikrer flertall for Høyres forslag om kutt i drivstoffavgiftene nå.\n\n– Det er uansvarlig å treffe vedtak på 24 timers varsel som medfører 4 milliarder kroner i økte utgifter, sier hun\n\nTiltak mot høye drivstoffpriser\n\nPå grunn av krigen i Iran, har drivstoffprisene skutt i været. Senterpartiet sikrer flertall for hastebehandling av et Høyre-forslag om billigere bensin. Alle de andre rødgrønne partiene stemte imot.",
+      "excerpt": "Arbeiderpartiets finanspolitiske talsperson, Tuva Moflag, sier det vil være et brudd på budsjettavtalen dersom Sp sikrer flertall for Høyres forslag om kutt i drivstoffavgiftene nå.\n\n– Det er uansvarlig å treffe vedtak på 24 timers varsel som medfører 4 milliarder kroner i økte utgifter, sier...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/moflag_-brudd-pa-budsjettavtalen-om-hoyres-forslag-om-drivstoffavgifter-vedtas-na-1.17825764",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-26T08:37:39.872Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1774504348322.654,
       "title": "Direktør i oljeselskap kaller Irans kontroll i Hormuzstredet for «økonomisk terrorisme»",
       "slug": "direktr-i-oljeselskap-kaller-irans-kontroll-i-hormuzstredet-",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-03-23T18:34:38.473Z",
       "published_at": "2026-03-23T20:01:01.090Z",
       "status": "published"
-    },
-    {
-      "id": 1774290876465.4233,
-      "title": "Колумбія: 125 осіб на борту літака, що розбився",
-      "slug": "колумбія-125-осіб-на-борту-літака-що-розбився",
-      "content": "На борту літака Hercules, який розбився в Колумбії, було 114 пасажирів та екіпаж з 11 осіб.\n\n– 48 поранених було врятовано, каже Карлос Фернандо Сілва Руеда, генерал колумбійських збройних сил.\n\nАгентство Reuters трохи пізніше повідомляє, що, за їхніми двома джерелами, 71 людина вижила.\n\n48 поранених було врятовано з-під уламків, повідомляють колумбійські військові.\n\nАварії військового літака в Колумбії\n\nНа борту літака Hercules, який розбився в Колумбії, було 114 пасажирів та екіпаж з 14 осіб.",
-      "excerpt": "На борту літака Hercules, який розбився в Колумбії, було 114 пасажирів та екіпаж з 11 осіб.\n\n– 48 поранених було врятовано, каже Карлос Фернандо Сілва Руеда, генерал колумбійських збройних сил.\n\nАгентство Reuters трохи пізніше повідомляє, що, за їхніми двома джерелами, 71 людина вижила.\n\n48...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/colombia_-125-om-bord-i-flyet-som-styrtet--1.17821678",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-23T18:34:36.465Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774290874567.616,
-      "title": "Насильницький інцидент у Біслетті: Вилучення зброї",
-      "slug": "насильницький-інцидент-у-біслетті-вилучення-зброї",
-      "content": "У зв'язку з інцидентом насильства в Біслетті в понеділок ввечері поліція вилучила зброю.\n\nПоліція пише в поліцейському журналі.\n\nСпочатку повідомлялося, що одна людина отримала легкі травми. В оновленій інформації поліція повідомляє, що загалом двоє людей отримали поранення.\n\nТрьох чоловіків заарештували та доставили до в'язниці, повідомляє поліція. Двом з них близько 20 років, а останньому - близько 40.",
-      "excerpt": "У зв'язку з інцидентом насильства в Біслетті в понеділок ввечері поліція вилучила зброю.\n\nПоліція пише в поліцейському журналі.\n\nСпочатку повідомлялося, що одна людина отримала легкі травми. В оновленій інформації поліція повідомляє, що загалом двоє людей отримали поранення.\n\nТрьох чоловіків...",
-      "image": "https://images.unsplash.com/photo-1726079667649-6668ecea5cc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQyOTA4NzR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/voldshendelse-pa-bislett_-beslag-av-pistol-1.17821713",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-23T18:34:34.567Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774280494392.5537,
-      "title": "«100 крон з пасажира»: Норвегія розкриває, як працюватиме новий «круїзний податок»",
-      "slug": "100-крон-з-пасажира-норвегія-розкриває-як-працюватиме-новий-",
-      "content": "Якщо ви плануєте відвідати Норвегію, особливо такі популярні напрямки, як Лофотенські острови, пам’ятайте, що витрати можуть зрости як для пасажирів круїзних лайнерів, так і для гостей готелів.\n\nУряд Норвегії підтвердив у прес-релізі деталі запропонованого круїзного податку, оголосивши, що муніципалітети зможуть стягувати 100 крон з пасажира за кожні 24 години, які круїзне судно проводить у порту, або з пасажирів, вивезених на берег.\n\nПропозиція, опублікована 20 березня, тепер відкрита для громадського обговорення протягом трьох місяців. Якщо її буде схвалено, нове правило набуде чинності 1 січня 2027 року.\n\nЗа словами міністра рибальства та океанів Маріанни Сівертсен Несс, збір покликаний допомогти зайнятим муніципалітетам керувати витратами такої великої кількості відвідувачів. Норвезькі порти прийняли понад 6,3 мільйона круїзних туристів у 2025 році.\n\nУряд також підтвердив, що закон про внесок відвідувачів (besøksbidragsloven), прийнятий парламентом у червні 2025 року, набуде чинності 1 липня 2026 року. Цей закон дозволяє муніципалітетам стягувати 3-відсотковий податок на проживання. Туристи, що відпочивають у кемпінгах, будуть звільнені від цього.\n\nОднак, перш ніж вони зможуть стягувати збір, муніципалітети повинні подати план витрат на затвердження. Як наслідок, більшість зборів навряд чи розпочнуться до 2027 року.\n\n«Я б закликала муніципалітети, які несуть особливо великий тягар від туризму, розпочати необхідну підготовку до запровадження податку на проживання або круїзного податку, або обох», – сказала міністр торгівлі та промисловості Сесілі Мірсет.\n\nОднак не всі підтримують цю ідею. Кім Кйоснес, виконувач обов'язків генерального менеджера готелів Marina у Свольвері та Сортланді, розповів E24, що вважає податок на проживання «фундаментально неправильним» та «несправедливим». Він сказав, що гості готелів – це «група відвідувачів, яка найменше забруднює навколишнє середовище».\n\nКйоснес також попередила, що податок може поставити деякі муніципалітети у невигідне становище порівняно з іншими, і що влада може використовувати доходи для цілей, не пов’язаних з туризмом.\n\nМіністр Мірсет заявила E24, що податок не може вирішити всі проблеми, але захистила план. Вона пояснила, що гроші можуть бути використані лише для потреб, пов’язаних з туризмом, таких як стежки, туалети, утилізація відходів та інформація для відвідувачів.\n\nДолучайтеся до обговорення в розділі коментарів нижче. Поділіться власними думками та досвідом, а якщо у вас є запитання чи пропозиції для наших журналістів, напишіть нам на адресу news@thelocal.no.\nБудь ласка, пишіть коментарі ввічливо, конструктивно та за темою, і обов’язково ознайомтеся з нашими умовами використання, перш ніж долучатися.",
-      "excerpt": "Якщо ви плануєте відвідати Норвегію, особливо такі популярні напрямки, як Лофотенські острови, пам’ятайте, що витрати можуть зрости як для пасажирів круїзних лайнерів, так і для гостей готелів.\n\nУряд Норвегії підтвердив у прес-релізі деталі запропонованого круїзного податку, оголосивши, що...",
-      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQyODA0OTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260323/100-kroner-per-passenger-norway-reveals-how-new-cruise-tax-will-work",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-03-23T15:41:34.392Z",
-      "published_at": "2026-03-23T18:02:24.310Z",
-      "status": "published"
     }
   ],
   "stats": {
-    "totalFetched": 87,
+    "totalFetched": 90,
     "totalPublished": 20,
-    "lastFetch": "2026-03-26T05:52:30.160Z",
+    "lastFetch": "2026-03-26T08:37:44.647Z",
     "lastPublish": "2026-03-25T22:59:27.570Z"
   }
 }
