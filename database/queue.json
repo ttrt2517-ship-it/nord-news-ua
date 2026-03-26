@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/stoltenberg_-_-ikke-en-god-dag-for-samarbeidet-1.17826943",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-26T20:00:28.852Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-26T21:56:01.094Z",
+      "status": "published"
     },
     {
       "id": 1774555227295.0586,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 100,
-    "totalPublished": 23,
+    "totalPublished": 24,
     "lastFetch": "2026-03-26T20:00:30.384Z",
-    "lastPublish": "2026-03-26T18:12:09.592Z"
+    "lastPublish": "2026-03-26T21:56:01.512Z"
   }
 }
