@@ -10,8 +10,8 @@
       "original_url": "https://www.thelocal.no/20260323/100-kroner-per-passenger-norway-reveals-how-new-cruise-tax-will-work",
       "source_name": "The Local Norway",
       "fetched_at": "2026-03-26T12:08:30.554Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-26T15:58:15.030Z",
+      "status": "published"
     },
     {
       "id": 1774526908141.9531,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 94,
-    "totalPublished": 21,
+    "totalPublished": 22,
     "lastFetch": "2026-03-26T12:08:31.555Z",
-    "lastPublish": "2026-03-26T11:57:36.160Z"
+    "lastPublish": "2026-03-26T15:58:15.821Z"
   }
 }
