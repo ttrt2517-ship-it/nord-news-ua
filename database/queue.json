@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nordland/gladnyhet_-e6-kan-apne-i-morgen-1.17828539",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-27T18:37:53.193Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-27T19:53:40.045Z",
+      "status": "published"
     },
     {
       "id": 1774636671797.7617,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 119,
-    "totalPublished": 27,
+    "totalPublished": 28,
     "lastFetch": "2026-03-27T18:37:54.510Z",
-    "lastPublish": "2026-03-27T17:39:39.774Z"
+    "lastPublish": "2026-03-27T19:53:40.590Z"
   }
 }
