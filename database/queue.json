@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/vestfoldogtelemark/full-stans-i-produksjonen-pa-grans-1.17828666",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-27T21:52:39.813Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-27T22:00:15.606Z",
+      "status": "published"
     },
     {
       "id": 1774648358169.586,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 122,
-    "totalPublished": 28,
+    "totalPublished": 29,
     "lastFetch": "2026-03-27T21:52:41.630Z",
-    "lastPublish": "2026-03-27T19:53:40.590Z"
+    "lastPublish": "2026-03-27T22:00:16.513Z"
   }
 }
