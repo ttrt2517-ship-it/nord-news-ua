@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1774636673193.359,
+      "title": "Gladnyhet: E6 kan åpne i morgen",
+      "slug": "gladnyhet-e6-kan-pne-i-morgen",
+      "content": "Natt til fredag begynte en russebuss å brenne i Raudhammartunnelen på E6, noe som førte til en ødelagt tunnel, og at Norge ble delt i to veimessig.\n\nDette har ført til stor pågang på alt av fergetrafikk nordover i landet, akkurat idet påskeutfarten skulle begynne.\n\nFørst så det ut til at veien kunne være stengt i en ukes tid. Solveig Hansen, seksjonsleder i Statens vegvesen, hadde derimot et påskeegg til alle påsketurister og vogntogsjåfører som skal ut å kjøre i påsken.\n\n– Det ser ut til at vi kan åpne i løpet av morgendagen.\n\n– Da blir det åpning med styrt trafikkavvikling og ledebilkjøring, men vi får komme tilbake til når det blir. Det er en gladnyhet for alle påsketurister som skal ut på tur nå fremover.\n\nTrafikken i Nordland\n\nFå siste nytt fra trafikken i Nordland her.",
+      "excerpt": "Natt til fredag begynte en russebuss å brenne i Raudhammartunnelen på E6, noe som førte til en ødelagt tunnel, og at Norge ble delt i to veimessig.\n\nDette har ført til stor pågang på alt av fergetrafikk nordover i landet, akkurat idet påskeutfarten skulle begynne.\n\nFørst så det ut til at veien...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nordland/gladnyhet_-e6-kan-apne-i-morgen-1.17828539",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-27T18:37:53.193Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774636671797.7617,
+      "title": "Tenåringsjenter tiltalt etter brannen ved Løten ungdomsskole",
+      "slug": "tenringsjenter-tiltalt-etter-brannen-ved-lten-ungdomsskole",
+      "content": "To tenåringsjenter er tiltalt for særlig grovt skadeverk etter storbrannen ved Løten ungdomsskole i Innlandet 24. august i fjor.\n\nHele administrasjondelsen med noen klasserom brant ned til grunnen og skadene beløper seg til over 48 millioner kroner.\n\nIfølge tiltalebeslutningen ble det tent på noe søppel under børstene på en feiemaskin som stod under et takoverbygg inntil administrasjonsdelen av skolen.\n\nDerfra spredte brannet det seg videre og bygget på 1270 kvadratmeter ble totalskadet.\n\nDe to tenåringsjentene er tiltalt for å ha tent på eller medvirket til dette.\n\nPolitiadvokat Anders Møllersen sier til Hamar Arbeiderblad at påtalemyndigheten ikke vil fremme erstatningskrav og at det eventuelt må fremmes av skolens forsikringsselskap.\n\nRettssaken mot tenåringsjentene er berammet i august.\n\nAdvokat Mette Yvonne Larsen og advokat Ida Andenæs Mehren er forsvarere for de to jentene. Ingen av dem ønsker å kommentere tiltalen.",
+      "excerpt": "To tenåringsjenter er tiltalt for særlig grovt skadeverk etter storbrannen ved Løten ungdomsskole i Innlandet 24. august i fjor.\n\nHele administrasjondelsen med noen klasserom brant ned til grunnen og skadene beløper seg til over 48 millioner kroner.\n\nIfølge tiltalebeslutningen ble det tent på noe...",
+      "image": null,
+      "original_url": "https://www.nrk.no/innlandet/tenaringsjenter-tiltalt-etter-brannen-ved-loten-ungdomsskole-1.17828537",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-27T18:37:51.797Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774636670371.5286,
+      "title": "Tyskland kan bli tvunget til å beholde kullkraft",
+      "slug": "tyskland-kan-bli-tvunget-til-beholde-kullkraft",
+      "content": "Tysklands forbundskansler Friedrich Merz sa fredag at landet kan bli tvunget til å la kullkraftverk være i drift lenger enn planlagt.\n\nBakgrunnen er energikrisen utløst av krigen i Midtøsten.\n\n– Vi må gi dette landet strøm. Jeg er ikke villig til å risikere tysk industri ved å fortsette utfasingsplaner som nå fremstår som urealistiske.",
+      "excerpt": "Tysklands forbundskansler Friedrich Merz sa fredag at landet kan bli tvunget til å la kullkraftverk være i drift lenger enn planlagt.\n\nBakgrunnen er energikrisen utløst av krigen i Midtøsten.\n\n– Vi må gi dette landet strøm. Jeg er ikke villig til å risikere tysk industri ved å fortsette...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/tyskland-kan-bli-tvunget-til-a-beholde-kullkraft-1.17828548",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-27T18:37:50.371Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1774624315498.3005,
       "title": "Norway to hike defence budget by 115 billion kroner over 10 years",
       "slug": "norway-to-hike-defence-budget-by-115-billion-kroner-over-10-",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-03-25T08:06:48.343Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1774426005957.1218,
-      "title": "Flere studenter får kutt i stipend på grunn av høy inntekt",
-      "slug": "flere-studenter-fr-kutt-i-stipend-p-grunn-av-hy-inntekt",
-      "content": "I 2023 mottok 300.000 heltids- og deltidsstudenter studielån som kan gjøres om til stipend. 87.000 av disse fikk redusert stipend.\n\nHøy inntekt var hovedårsaken og gjaldt 64.000 personer, eller 73 prosent.\n\nForsknings- og høyere utdanningsminister Sigrun Aasland (Ap) er bekymret over utviklingen.\n\n– Det er viktig at studentene får seg jobberfaring, men de bør ikke jobbe så mye at det går utover studiene. Jeg vil ha flere studenter på campus og på forelesninger, det er bra for både studiekvalitet og trivsel, sier hun i en pressemelding.\n\nBlant unge heltidsstudenter fikk 15 prosent redusert stipendet i 2023, mot 10 prosent i 2014. Blant deltidsstudenter fikk 64 prosent redusert stipend i 2023, mot 52 prosent i 2014.\n\nHøyere utdanning\n\n135.980 personer har søkt høyere utdanning i 2023. 65.590 studieplasser fordelt på 27 universiteter og høyskoler i hele landet skal fylles. Men søkermanssen er skjev: Under 40 prosent av søkerne er menn.",
-      "excerpt": "I 2023 mottok 300.000 heltids- og deltidsstudenter studielån som kan gjøres om til stipend. 87.000 av disse fikk redusert stipend.\n\nHøy inntekt var hovedårsaken og gjaldt 64.000 personer, eller 73 prosent.\n\nForsknings- og høyere utdanningsminister Sigrun Aasland (Ap) er bekymret over...",
-      "image": "https://images.unsplash.com/photo-1530562054393-8e9053f7a8cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ0MjYwMDV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-studenter-far-kutt-i-stipend-pa-grunn-av-hoy-inntekt-1.17823767",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-25T08:06:45.957Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774426003685.4397,
-      "title": "10 Oslo-steder risikerer skjenkenekt",
-      "slug": "10-oslosteder-risikerer-skjenkenekt",
-      "content": "Skatteetaten kontrollerte en rekke serveringssteder i julebordsesongen.\n\n68 virksomheter i til sammen 27 kommuner brøt reglene.\n\nTi av virksomhetene som Skatteetaten nå har varslet om, er i Oslo.\n\n– Vi ser at der vi finner grove og bevisste brudd på regelverket finner vi ofte brudd på andre etaters regelverk, sier skattekrimsjef Erik Nilsen.\n\nVirksomheter som har grove brudd på skatte-, avgifts- og regnskapslovgivningen, kan risikere tilbakekalling av bevilling.\n\nDet kan gjelde både skjenke- og serveringsbevilling.",
-      "excerpt": "Skatteetaten kontrollerte en rekke serveringssteder i julebordsesongen.\n\n68 virksomheter i til sammen 27 kommuner brøt reglene.\n\nTi av virksomhetene som Skatteetaten nå har varslet om, er i Oslo.\n\n– Vi ser at der vi finner grove og bevisste brudd på regelverket finner vi ofte brudd på andre etaters...",
-      "image": "https://images.unsplash.com/photo-1740484781104-dbf46bb0ab73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ0MjYwMDN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/10-oslo-steder-risikerer-skjenkenekt-1.17823728",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-25T08:06:43.685Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774415876592.6873,
-      "title": "Prisen på diesel mer en doblet i Vietnam",
-      "slug": "prisen-p-diesel-mer-en-doblet-i-vietnam",
-      "content": "Dieselprisen i Vietnam har mer en doblet seg på grunn av krigen i Midtøsten, ifølge tall fra handelsdepartementet i Hanoi.\n\nPrisen på diesel har økt med 105 prosent siden 26. februar – to dager før Israel og USA startet angrepene mot Iran.\n\nRegjeringen økte prisen til 39 660 dong (ca. 16 norske kroner) per liter onsdag, opp fra 19 270 dong forrige måned, viser tall fra handelsdepartementet.\n\nPrisen på 95-oktan bensin hoppet også nesten 68 prosent i samme periode, melder nyhetsbyrået AFP.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
-      "excerpt": "Dieselprisen i Vietnam har mer en doblet seg på grunn av krigen i Midtøsten, ifølge tall fra handelsdepartementet i Hanoi.\n\nPrisen på diesel har økt med 105 prosent siden 26. februar – to dager før Israel og USA startet angrepene mot Iran.\n\nRegjeringen økte prisen til 39 660 dong (ca. 16 norske...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/prisen-pa-diesel-mer-en-doblet-i-vietnam-1.17823616",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-25T05:17:56.592Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 116,
+    "totalFetched": 119,
     "totalPublished": 27,
-    "lastFetch": "2026-03-27T15:11:56.500Z",
+    "lastFetch": "2026-03-27T18:37:54.510Z",
     "lastPublish": "2026-03-27T17:39:39.774Z"
   }
 }
