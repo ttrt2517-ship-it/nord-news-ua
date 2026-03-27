@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1774648359813.9355,
+      "title": "Full stans i produksjonen på Grans",
+      "slug": "full-stans-i-produksjonen-p-grans",
+      "content": "Det skal nå ryddes og vaskes etter bryggeribrannen på Grans Bryggeri i Sandefjord, og produksjonen er stoppa.\n\n– Vi har hatt en gjennomgang av lokalene i dag. Det har vært et begrenset omfang på brannen, sier administrerende direktør Morten Gran i Grans Bryggeri til Dagbladet.\n\nHan kan ikke si når de kommer i gang igjen, men mener det kan skje relativt kjapt.\n\nIngen ansatte blir permittert på grunn av hendelsen.\n\nDet var torsdag formiddag det brøyt ut brann i bryggeriet. Politiet mistenker at brannen starta i forbindelse med sveisearbeid på taket av bryggeriet.\n\nDe mistenkte varsla sjøl om brannen som førte til at deler av bygget måtte rives.",
+      "excerpt": "Det skal nå ryddes og vaskes etter bryggeribrannen på Grans Bryggeri i Sandefjord, og produksjonen er stoppa.\n\n– Vi har hatt en gjennomgang av lokalene i dag. Det har vært et begrenset omfang på brannen, sier administrerende direktør Morten Gran i Grans Bryggeri til Dagbladet.\n\nHan kan ikke si når...",
+      "image": "https://images.unsplash.com/photo-1769937011106-823cd7c025ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ2NDgzNTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/full-stans-i-produksjonen-pa-grans-1.17828666",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-27T21:52:39.813Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774648358169.586,
+      "title": "Iran angriper Israel",
+      "slug": "iran-angriper-israel",
+      "content": "Det israelske militæret (IDF) varsler fredag at Iran har avfyrt missiler mot Israel, melder nyhetsbyrået AFP.\n\nIfølge helsepersonell skal en person være drept, og to skadd, skriver Haaretz.\n\nKorrespondenter fra AFP i Jerusalem melder om flyalarm over hele byen.\n\nIDF bekrefter at luftvern er aktivert for å avskjære missilene.\n\nDette skjer bare timer etter at Israel bekreftet angrep mot iranske atom- og industrianlegg.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
+      "excerpt": "Det israelske militæret (IDF) varsler fredag at Iran har avfyrt missiler mot Israel, melder nyhetsbyrået AFP.\n\nIfølge helsepersonell skal en person være drept, og to skadd, skriver Haaretz.\n\nKorrespondenter fra AFP i Jerusalem melder om flyalarm over hele byen.\n\nIDF bekrefter at luftvern er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/iran-angriper-israel-1.17828703",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-27T21:52:38.169Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774648356559.3315,
+      "title": "Houthiene i Jemen: Klare til å gå inn i krigen",
+      "slug": "houthiene-i-jemen-klare-til-g-inn-i-krigen",
+      "content": "Houthi-militsen i Jemen sier de er klare til å gå inn i krigen mellom Israel/USA og Iran, og skisserer opp flere scenarioer hvor det vil være aktuelt.\n\nBlant annet vil de gå inn på iransk side dersom nye allierte slutter seg til Israel og USA, sier en talsperson for militsen i en TV-sendt tale, ifølge nyhetsbyråene Reuters og AFP.\n\nHouthiene vil også gå inn i krigen hvis det lanseres angrep mot Iran fra Rødehavet.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
+      "excerpt": "Houthi-militsen i Jemen sier de er klare til å gå inn i krigen mellom Israel/USA og Iran, og skisserer opp flere scenarioer hvor det vil være aktuelt.\n\nBlant annet vil de gå inn på iransk side dersom nye allierte slutter seg til Israel og USA, sier en talsperson for militsen i en TV-sendt tale...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/houthiene-i-jemen_-klare-til-a-ga-inn-i-krigen-1.17828723",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-27T21:52:36.559Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1774636673193.359,
       "title": "Gladnyhet: E6 kan åpne i morgen",
       "slug": "gladnyhet-e6-kan-pne-i-morgen",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-03-25T12:00:34.686Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1774440033031.7869,
-      "title": "Bensinstrid på Stortinget – de rødgrønne i møte",
-      "slug": "bensinstrid-p-stortinget-de-rdgrnne-i-mte",
-      "content": "Senterpartiets åpning for å gå sammen med de borgerlige partiene for å tvinge fram avgiftskutt på bensin og diesel, har ført til rødgrønn uro.\n\nBåde MDG og Rødt mener det vil være brudd på budsjettavtalen hvis Sp går til høyresiden.\n\nSamtidig øker presset mot Arbeiderpartiet om å gjøre noe med de høye bensinprisene.\n\nI ettermiddag var finanspolitikere fra de fem rødgrønne budsjettpartnerne Ap, Sp, Rødt, SV og MDG samlet i et møte på Stortinget, etter det NRK kjenner til.\n\nMøtet var en planlagt gjennomgang av de såkalte verbalpunktene, altså tekstforslag med krav til regjeringen, som de fem partiene er blitt enige om i tidligere budsjettavtaler.\n\nAvgiftskutt skal ikke ha blitt diskutert på møtet, får NRK opplyst.",
-      "excerpt": "Senterpartiets åpning for å gå sammen med de borgerlige partiene for å tvinge fram avgiftskutt på bensin og diesel, har ført til rødgrønn uro.\n\nBåde MDG og Rødt mener det vil være brudd på budsjettavtalen hvis Sp går til høyresiden.\n\nSamtidig øker presset mot Arbeiderpartiet om å gjøre noe med de...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/bensinstrid-pa-stortinget-_-de-rodgronne-i-mote-1.17824474",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-25T12:00:33.032Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774426011057.9128,
-      "title": "Today in Norway: A roundup of the latest news on Wednesday",
-      "slug": "today-in-norway-a-roundup-of-the-latest-news-on-wednesday",
-      "content": "Diesel price passes 30 kroner a litre,  new government quarter officially opens on April 13th, and other news from Norway on Wednesday.\n\nThe diesel price in Norway has passed 30 kroner per litre in several places, making driving around 660 kroner per month more expensive for the average motorist, the Norwegian Automobile Federation has said.\n\n\"An increase of 660 kroner to fill up on already expensive fuel will be very noticeable in people's wallets,\" the organisation's press manager, Ingunn Handagard, said in a press statement.\n\nAccording to Statistics Norway, the average price of diesel was 19.82 kroner in February.\n\nNaf is calling for a temporary cut in road tax, which it says could cut the price by 2.85 kroner per litre of diesel and 4.71 kroner per litre of petrol.\n\nNorway's finance minister, Jens Stoltenberg, has said that there are no current plans to bring in such a cut, as the finance ministry estimates that a cut of 1.25 kroner at the pump would cost around 3 billion kroner.\n\nNew government quarter opens officially on April 13th\n\nNorway's new government quarter – dubbed the biggest building project in Norwegian history – is set to open on April 13th, when Prime Minister Jonas Gahr Støre and his team, and six other departments move in.\n\nThe government quarter has been out of action since July 22nd, 2011, when a bomb exploded under the main tower block, killing eight people and marking the start of the twin terror attack mounted by the terrorist Anders Behring Breivik.\n\n\"The new government quarter has now been rebuilt and is ready for use again. After 15 years, the Prime Minister's office is back in the government quarter,\" Prime Minister Jonas Gahr Støre said in a press release.\n\nThe first phase was finished in the winter of 2025, when the Ministry of Justice and Public Security moved back into the tower building, called Høyblokka, which has been returned to the original design it had when it was built in 1958.\n\nTo mark the reopening, the Prime Minister Støre will give a speech and there will also be presentations and artistic performances.\n\nHealth directorate calls for action on rising vape use among schoolchildren\n\nThe Norwegian Directorate of Health is calling on municipalities to take action in the face of rapidly rising use of snus and vapes among secondary schoolchildren.\n\nWhile most young people in Norway have not tried illegal drugs or nicotine products, their use is increasing.\n\n\"Vaping among secondary school students has increased significantly in the last five years, especially among girls,\" Linda Granlund, Divisional Director of Public Health and Prevention, told NTB.\n\nLast year, 7 percent of students in lower secondary school and 10 percent in upper secondary education (VGO) reported weekly or daily use, with a slightly lower figure of 5 and 6 percent for boys. Daily smoking is at a historically low level, with around 1 in 4 young men aged 16–24 years reporting smoking occasionally.\n\nMarcus and Martinus sign for third division football club\n\nThe pop star twins Marcus and Martinus Gunnarsen have signed contracts to play for the third-division football club Strindheim, the Trondheim team announced on their Instagram account.\n\nThe twins have played for Mosjøen in Nordland since 2016, apart from one year at Grane in Trofors in 2019.\n\nNow they want to continue their football after each bought an apartment in Trondheim last year.\n\n\"We will do what we can to get as many training sessions and matches as possible. We travel a lot in our work, but we always train even when we are travelling,\" the twins told NRK in a message.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Diesel price passes 30 kroner a litre,  new government quarter officially opens on April 13th, and other news from Norway on Wednesday.\n\nThe diesel price in Norway has passed 30 kroner per litre in several places, making driving around 660 kroner per month more expensive for the average motorist...",
-      "image": "https://images.unsplash.com/photo-1749028598431-8ed9ba4fb980?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ0MjYwMTB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260325/today-in-norway-a-roundup-of-the-latest-news-on-wednesday-233",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-03-25T08:06:51.058Z",
-      "published_at": "2026-03-25T11:30:23.737Z",
-      "status": "published"
-    },
-    {
-      "id": 1774426008343.1724,
-      "title": "Russlands militære: Nær 400 ukrainske droner skutt ned i natt",
-      "slug": "russlands-militre-nr-400-ukrainske-droner-skutt-ned-i-natt",
-      "content": "Droneangrepene var rettet mot russiske regioner ved grensen til Ukraina, i tillegg til hovedstaden Moskva og Leningrad, ifølge militæret.\n\nDroneangrepet skjer etter at Russland tirsdag sendte over 400 droner mot Ukraina i et av de største luftangrepene på dagtid så langt i krigen. Angrepene rammet byer over hele landet, blant annet Lviv i den vestlige delen av landet. Åtte personer ble drept og flere såret.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Droneangrepene var rettet mot russiske regioner ved grensen til Ukraina, i tillegg til hovedstaden Moskva og Leningrad, ifølge militæret.\n\nDroneangrepet skjer etter at Russland tirsdag sendte over 400 droner mot Ukraina i et av de største luftangrepene på dagtid så langt i krigen. Angrepene rammet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russlands-militaere_-naer-400-ukrainske-droner-skutt-ned-i-natt-1.17823763",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-25T08:06:48.343Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 119,
+    "totalFetched": 122,
     "totalPublished": 28,
-    "lastFetch": "2026-03-27T18:37:54.510Z",
+    "lastFetch": "2026-03-27T21:52:41.630Z",
     "lastPublish": "2026-03-27T19:53:40.590Z"
   }
 }
