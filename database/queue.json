@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/uendret-arbeidsledighet-i-mars-1.17827273",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-27T08:09:44.067Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-27T11:31:40.514Z",
+      "status": "published"
     },
     {
       "id": 1774598982326.8604,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 109,
-    "totalPublished": 24,
+    "totalPublished": 25,
     "lastFetch": "2026-03-27T08:09:45.489Z",
-    "lastPublish": "2026-03-26T21:56:01.512Z"
+    "lastPublish": "2026-03-27T11:31:41.480Z"
   }
 }
