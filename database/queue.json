@@ -10,8 +10,8 @@
       "original_url": "https://www.thelocal.no/20260327/norway-to-hike-defence-budget-by-115-billion-kroner-over-10-years",
       "source_name": "The Local Norway",
       "fetched_at": "2026-03-27T15:11:55.498Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-27T17:39:38.955Z",
+      "status": "published"
     },
     {
       "id": 1774624312069.6506,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 116,
-    "totalPublished": 26,
+    "totalPublished": 27,
     "lastFetch": "2026-03-27T15:11:56.500Z",
-    "lastPublish": "2026-03-27T15:10:19.709Z"
+    "lastPublish": "2026-03-27T17:39:39.774Z"
   }
 }
