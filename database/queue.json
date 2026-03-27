@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1774598984067.6912,
+      "title": "Uendret arbeidsledighet i mars",
+      "slug": "uendret-arbeidsledighet-i-mars",
+      "content": "65.400 personer er registrert som helt arbeidsledige hos Nav i mars.\n\n25.300 personer var delvis ledige, mens 12.500 var arbeidssøkere på tiltak.\n\nI mars ble det lyst ut 54.300 ledige stillinger på arbeidsplassen.no. Det er en økning på 22 prosent sammenlignet med mars i fjor.\n\n– Etter flere måneder med nedgang i arbeidsledigheten bremser utviklingen litt opp denne måneden. Samtidig ser vi en stor økning i antall utlyste stillinger, som tyder på et arbeidsmarked med høy etterspørsel etter arbeidskraft og gode muligheter for å få seg jobb, sier konstituert arbeids- og velferdsdirektør Eve Vangsnes Bergli i en pressemelding.\n\nArbeidsledighet\n\nArbeidsløsheten i Norge mer enn doblet seg da koronaviruset rammet landet, og på det høyeste var 400.000 mennesker registrert som ledige, delvis ledige eller arbeidssøkere hos Nav. Siden da har tallene gått jevnt nedover.",
+      "excerpt": "65.400 personer er registrert som helt arbeidsledige hos Nav i mars.\n\n25.300 personer var delvis ledige, mens 12.500 var arbeidssøkere på tiltak.\n\nI mars ble det lyst ut 54.300 ledige stillinger på arbeidsplassen.no. Det er en økning på 22 prosent sammenlignet med mars i fjor.\n\n– Etter flere...",
+      "image": "https://images.unsplash.com/photo-1588361959742-a99d41a6164a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ1OTg5ODN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/uendret-arbeidsledighet-i-mars-1.17827273",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-27T08:09:44.067Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774598982326.8604,
+      "title": "Nedgang i detaljhandelen i februar",
+      "slug": "nedgang-i-detaljhandelen-i-februar",
+      "content": "Omsetningsvolumet i detaljhandelen falt med 1,1 prosent i februar etter en sterk januar.\n\nDe fleste næringer gikk noe ned, viser tall fra SSB.\n\nSpesielt trekkes møbler og elektriske husholdningsapparater fram i negativ retning. Samtidig var næringer som dagligvare og salg av drivstoff med på å dempe nedgangen.\n\nI januar var det til sammenligning en oppgang på 0,9 prosent. De siste tre månedene var det samlet en oppgang på 0,3 prosent i forhold til perioden før, ifølge SSB.\n\nNorsk økonomi\n\nNorges Bank holder styringsrenta på 4 prosent. De ser for seg rentekutt i 2026.",
+      "excerpt": "Omsetningsvolumet i detaljhandelen falt med 1,1 prosent i februar etter en sterk januar.\n\nDe fleste næringer gikk noe ned, viser tall fra SSB.\n\nSpesielt trekkes møbler og elektriske husholdningsapparater fram i negativ retning. Samtidig var næringer som dagligvare og salg av drivstoff med på å...",
+      "image": "https://images.unsplash.com/photo-1761189263648-d5faf65ca7bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ1OTg5ODJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/nedgang-i-detaljhandelen-i-februar-1.17827280",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-27T08:09:42.326Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774598980629.638,
+      "title": "USA: Senatet har godkjent finansieringspakke for sikkerhetsdepartementet",
+      "slug": "usa-senatet-har-godkjent-finansieringspakke-for-sikkerhetsde",
+      "content": "Senatet i USA har i natt enstemmig vedtatt en midlertidig finansieringspakke som gjenåpner mesteparten av «homeland security», blant annet sikkerhetskontrollen på flyplasser (TSA) og kystvakttjenesten. Utlendingsetaten ICE og deler av grensevakten er ikke en del av pakken.\n\nFinansieringspakken må fortsatt godkjennes i Representantenes hus, før den 40 dager lange delvise nedstengingen av tjenestene kan avsluttes.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Senatet i USA har i natt enstemmig vedtatt en midlertidig finansieringspakke som gjenåpner mesteparten av «homeland security», blant annet sikkerhetskontrollen på flyplasser (TSA) og kystvakttjenesten. Utlendingsetaten ICE og deler av grensevakten er ikke en del av pakken.\n\nFinansieringspakken må...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/usa_-senatet-har-godkjent-finansieringspakke-for-sikkerhetsdepartementet-1.17827300",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-27T08:09:40.629Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1774590767352.7678,
       "title": "Russisk delegasjon på sjelden visitt i USA",
       "slug": "russisk-delegasjon-p-sjelden-visitt-i-usa",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-03-24T20:01:14.149Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1774382472646.7148,
-      "title": "69 personer døde i flystyrt i Colombia",
-      "slug": "69-personer-dde-i-flystyrt-i-colombia",
-      "content": "Antallet døde etter flystyrten i Colombia i går har steget til 69 personer.\n\nEt militærfly med 125 personer om bord styrtet kort tid etter avgang i Puerto Leguizamo mandag.\n\nMilitærfly styrtet i Colombia\n\n114 passasjerer og en besetning på 11 var om bord i Hercules-flyet som styrtet i Colombia mandag 23. mars.\n69 personer er bekreftet omkommet.",
-      "excerpt": "Antallet døde etter flystyrten i Colombia i går har steget til 69 personer.\n\nEt militærfly med 125 personer om bord styrtet kort tid etter avgang i Puerto Leguizamo mandag.\n\nMilitærfly styrtet i Colombia\n\n114 passasjerer og en besetning på 11 var om bord i Hercules-flyet som styrtet i Colombia...",
-      "image": "https://images.unsplash.com/photo-1567064965113-b2018f959780?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzODI0NzJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/69-personer-dode-i-flystyrt-i-colombia-1.17823482",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-24T20:01:12.646Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774373597566.4836,
-      "title": "Fuel prices: How much money will you save with an electric car in Norway?",
-      "slug": "fuel-prices-how-much-money-will-you-save-with-an-electric-ca",
-      "content": "With petrol and diesel prices fluctuating and reaching up to 27 kroner per litre, the gap between running a fossil-fuel vehicle and an electric car in Norway has widened.\n\nAs global tensions rise following US attacks on Iran and the closure of the Strait of Hormuz, the energy crisis is quickly affecting Norwegian petrol stations.\n\nNorway has long led the Electric Vehicle (EV) revolution, so many people are no longer directly exposed to volatile petrol and diesel costs. But how much money are EV owners really saving?\n\nREAD MORE: Fuel prices surge in Norway as petrol passes 26 kroner per litre\n\nThe Norwegian Electric Vehicle Association (Norsk elbilforening) released a report calculating how much a motorist can save in this economy.\n\nThe analysis is based on a driver who covers 1,100 kilometres per month, representing the typical profile of a daily commuter or a family car.\n\nUsing a diesel price of 27 kroner per litre as a benchmark, driving a fossil-fuel car would cost 1,634 kroner each month.\n\nIn comparison, an electric vehicle charged at home, with a weighted average price of 1.24 kroner per kWh, costs only 218 kroner to cover the exact same distance.\n\nThis means EV owners are saving roughly 1,416 kroner every month compared to those driving a diesel car.\n\nTo put that in perspective, charging at home makes the 'equivalent' price of diesel feel like just 3.61 kroner per litre.\n\n\"The large savings assume that the electric car is charged at home, which the vast majority of electric car drivers in Norway do,\" the association noted.\n\nREAD ALSO:  Krone against euro: What Norway's currency rally means for you\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "With petrol and diesel prices fluctuating and reaching up to 27 kroner per litre, the gap between running a fossil-fuel vehicle and an electric car in Norway has widened.\n\nAs global tensions rise following US attacks on Iran and the closure of the Strait of Hormuz, the energy crisis is quickly...",
-      "image": "https://images.unsplash.com/photo-1728547942913-2c107f54030d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzNzM1OTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260319/fuel-prices-how-much-money-will-you-save-with-an-electric-car-in-norway",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-03-24T17:33:17.566Z",
-      "published_at": "2026-03-24T18:08:59.656Z",
-      "status": "published"
-    },
-    {
-      "id": 1774373594878.521,
-      "title": "Bombegruppen på vei til Balsfjord",
-      "slug": "bombegruppen-p-vei-til-balsfjord",
-      "content": "Klokken 11.42 mottok politiets operasjonssentral melding om funn av det melder beskriver som en mistenkelig gjenstand langs Skogveien i Balsfjord kommune.\n\nGjenstanden ligger i brøytekanten i et område uten bebyggelse og utgjør ingen fare for allmennheten da området er sperret av.\n\n– Politiet har vært i kontakt med forsvaret med tanke på om dette kan være noe som ligger igjen etter øvelse Cold Response 2026, men forsvaret kjenner ikke igjen gjenstanden som deres, forteller operasjonsleder Per Arve Aas.\n\nDette inkluderer også allierte styrker. Politiet i Troms har anmodet om bistand fra bombegruppen som er på vei nordover.\n\nDet er planlagt at bombegruppen iverksetter sin operasjon i morgen tidlig.\n\n– Politiet ønsker at folk som har tips i saken eller som kan kjenne til gjenstanden tar kontakt på 02800, sier Aas.",
-      "excerpt": "Klokken 11.42 mottok politiets operasjonssentral melding om funn av det melder beskriver som en mistenkelig gjenstand langs Skogveien i Balsfjord kommune.\n\nGjenstanden ligger i brøytekanten i et område uten bebyggelse og utgjør ingen fare for allmennheten da området er sperret av.\n\n– Politiet har...",
-      "image": null,
-      "original_url": "https://www.nrk.no/tromsogfinnmark/bombegruppen-pa-vei-til-balsfjord--1.17823228",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-24T17:33:14.879Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 106,
+    "totalFetched": 109,
     "totalPublished": 24,
-    "lastFetch": "2026-03-27T05:52:49.269Z",
+    "lastFetch": "2026-03-27T08:09:45.489Z",
     "lastPublish": "2026-03-26T21:56:01.512Z"
   }
 }
