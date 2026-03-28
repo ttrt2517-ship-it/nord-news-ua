@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/eus-tobakksdirektiv-trer-i-kraft-30.-mars-1.17828865",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-28T09:55:18.584Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-28T10:05:16.305Z",
+      "status": "published"
     },
     {
       "id": 1774691716955.0479,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 136,
-    "totalPublished": 29,
+    "totalPublished": 30,
     "lastFetch": "2026-03-28T09:55:20.008Z",
-    "lastPublish": "2026-03-27T22:00:16.513Z"
+    "lastPublish": "2026-03-28T10:05:18.824Z"
   }
 }
