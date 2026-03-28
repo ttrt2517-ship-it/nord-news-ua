@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/prinsesse-astrid-har-hatt-lungebetennelse--1.17828930",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-28T11:03:42.328Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-28T14:03:15.690Z",
+      "status": "published"
     },
     {
       "id": 1774695820631.918,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 138,
-    "totalPublished": 30,
+    "totalPublished": 31,
     "lastFetch": "2026-03-28T11:03:43.869Z",
-    "lastPublish": "2026-03-28T10:05:18.824Z"
+    "lastPublish": "2026-03-28T14:03:17.297Z"
   }
 }
