@@ -23,8 +23,8 @@
       "original_url": "https://www.nrk.no/nyheter/kongeparet-tar-toget-for-a-feire-pasken-pa-hytta-1.17828936",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-28T11:03:40.631Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-28T15:58:28.853Z",
+      "status": "published"
     },
     {
       "id": 1774691718584.199,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 138,
-    "totalPublished": 31,
+    "totalPublished": 32,
     "lastFetch": "2026-03-28T11:03:43.869Z",
-    "lastPublish": "2026-03-28T14:03:17.297Z"
+    "lastPublish": "2026-03-28T15:58:29.813Z"
   }
 }
