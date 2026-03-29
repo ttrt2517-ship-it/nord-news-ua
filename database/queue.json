@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/iran-advarer-usa-mot-bakkeoffensiv-_-ministre-i-regionen-i-mote-om-krigen-1.17829663",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-29T14:04:59.012Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-29T16:02:35.127Z",
+      "status": "published"
     },
     {
       "id": 1774793097533.2246,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 157,
-    "totalPublished": 36,
+    "totalPublished": 37,
     "lastFetch": "2026-03-29T14:05:00.607Z",
-    "lastPublish": "2026-03-29T14:04:02.952Z"
+    "lastPublish": "2026-03-29T16:02:35.722Z"
   }
 }
