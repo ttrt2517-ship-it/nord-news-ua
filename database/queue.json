@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/stor-oslo/trusselsituasjon-pa-kjeller_-soker-etter-stikkvapen-1.17829974",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-29T21:04:36.170Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-29T22:00:08.060Z",
+      "status": "published"
     },
     {
       "id": 1774818274527.8262,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 165,
-    "totalPublished": 37,
+    "totalPublished": 38,
     "lastFetch": "2026-03-29T21:04:37.590Z",
-    "lastPublish": "2026-03-29T16:02:35.722Z"
+    "lastPublish": "2026-03-29T22:00:09.037Z"
   }
 }
