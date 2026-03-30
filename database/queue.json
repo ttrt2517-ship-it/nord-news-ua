@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/ipi_-fortsatt-svaert-bekymret-over-epstein-dokumentene-1.17831027",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-30T15:57:08.083Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-30T18:06:12.354Z",
+      "status": "published"
     },
     {
       "id": 1774886226620.844,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 178,
-    "totalPublished": 40,
+    "totalPublished": 41,
     "lastFetch": "2026-03-30T15:57:09.367Z",
-    "lastPublish": "2026-03-30T15:56:09.179Z"
+    "lastPublish": "2026-03-30T18:06:13.083Z"
   }
 }
