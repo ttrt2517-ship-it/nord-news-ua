@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/vestfoldogtelemark/ny-ulykke-pa-e18-1.17831287",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-30T22:01:10.126Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-30T22:59:55.921Z",
+      "status": "published"
     },
     {
       "id": 1774908068343.544,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 184,
-    "totalPublished": 42,
+    "totalPublished": 43,
     "lastFetch": "2026-03-30T22:01:11.931Z",
-    "lastPublish": "2026-03-30T20:05:11.908Z"
+    "lastPublish": "2026-03-30T22:59:56.722Z"
   }
 }
