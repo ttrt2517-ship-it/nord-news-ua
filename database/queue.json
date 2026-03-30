@@ -23,8 +23,8 @@
       "original_url": "https://www.nrk.no/rogaland/drapsforsok-i-stavanger_-erkjenner-de-faktiske-forhold--1.17830619",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-30T11:37:40.582Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-30T15:56:06.127Z",
+      "status": "published"
     },
     {
       "id": 1774870658967.9995,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 175,
-    "totalPublished": 39,
+    "totalPublished": 40,
     "lastFetch": "2026-03-30T11:37:44.370Z",
-    "lastPublish": "2026-03-30T12:05:10.400Z"
+    "lastPublish": "2026-03-30T15:56:09.179Z"
   }
 }
