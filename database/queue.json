@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1774899476118.561,
+      "title": "Dieselbrølet varsler ny aksjon",
+      "slug": "dieselbrlet-varsler-ny-aksjon",
+      "content": "Dieselbrølet planlegger en demonstrasjon med hundrevis av kjøretøy i Oslo 10. april i protest mot høye drivstoffpriser, skriver Dagbladet.\n\nRegjeringen skal kutte drivstoffavgiftene fra 1. april, aksjonistene mener likevel at dette ikke er nok. De får støtte fra Rødt for kravet om statlig priskontroll.\n\n– Vi krever en makspris, eller «norgespris», på lik linje med strømprisene. 20 kroner literen for vanlig diesel og 15 for avgiftsfri diesel, sier fylkesleder Vidar Tellefsen i Dieselbrølet.\n\nTiltak mot høye drivstoffpriser\n\nPå grunn av krigen i Iran, har drivstoffprisene skutt i været. Senterpartiet sikret flertall for hastebehandling av et Høyre-forslag om billigere bensin. Alle de andre rødgrønne partiene stemte imot.",
+      "excerpt": "Dieselbrølet planlegger en demonstrasjon med hundrevis av kjøretøy i Oslo 10. april i protest mot høye drivstoffpriser, skriver Dagbladet.\n\nRegjeringen skal kutte drivstoffavgiftene fra 1. april, aksjonistene mener likevel at dette ikke er nok. De får støtte fra Rødt for kravet om statlig...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/dieselbrolet-varsler-ny-aksjon-1.17831149",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-30T19:37:56.118Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774899474437.7622,
+      "title": "USA: Samtalene med Iran går bra",
+      "slug": "usa-samtalene-med-iran-gr-bra",
+      "content": "Det hvite hus opplyser mandag at samtalene med Iran utvikler seg i en god retning, skriver NTB.\n\n– Selv om de presenterer seg annerledes utad, og trass i alle de falske nyhetene, fortsetter samtalene, og de går bra. Det som sies utad, er selvsagt svært forskjellig fra det som meddeles oss privat, sier pressetalskvinne ved Det hvite hus, Karoline Leavitt, i pressekonferanse.\n\nIfølge Leavitt har Iran gått med på enkelte punkter i forhandlingene, og amerikanske myndigheter anslår nå at krigen kan vare i ytterligere fire til seks uker.\n\nSamtidig signaliserer president Donald Trump at han ønsker å be arabiske land om å bidra til å finansiere krigskostnadene.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Det hvite hus opplyser mandag at samtalene med Iran utvikler seg i en god retning, skriver NTB.\n\n– Selv om de presenterer seg annerledes utad, og trass i alle de falske nyhetene, fortsetter samtalene, og de går bra. Det som sies utad, er selvsagt svært forskjellig fra det som meddeles oss privat...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/usa_-samtalene-med-iran-gar-bra-1.17831218",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-30T19:37:54.437Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774899472819.4443,
+      "title": "Lastebil har veltet på E18 – veien er stengt",
+      "slug": "lastebil-har-veltet-p-e18-veien-er-stengt",
+      "content": "Een lastebil har veltet på E18 i nordgående felt rett sør for Fokserød i Sandefjord.\n\nDet er store problemer i trafikken, men nødetatene er på stedet.\n\nE18 er stengt i begge kjøreretninger på grunn av ulykken.\n\nFører av vogntoget er kjørt til akuttmottaket ved Sykehuset Vestfold i Tønsberg.\n\nDet drives med åstedsarbeid på stedet. Politiet avventer havarikommisjonen for tungbiltrafikk med tanke på sporsikring.",
+      "excerpt": "Een lastebil har veltet på E18 i nordgående felt rett sør for Fokserød i Sandefjord.\n\nDet er store problemer i trafikken, men nødetatene er på stedet.\n\nE18 er stengt i begge kjøreretninger på grunn av ulykken.\n\nFører av vogntoget er kjørt til akuttmottaket ved Sykehuset Vestfold i Tønsberg.\n\nDet...",
+      "image": "https://images.unsplash.com/photo-1659424765812-c2932538a99a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ4OTk0NzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/lastebil-har-veltet-pa-e18-_-veien-er-stengt-1.17831172",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-30T19:37:52.820Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1774886228083.8987,
       "title": "IPI: Fortsatt svært bekymret over Epstein-dokumentene",
       "slug": "ipi-fortsatt-svrt-bekymret-over-epsteindokumentene",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-03-28T07:58:20.695Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1774684699005.2712,
-      "title": "Houthiene bekrefter at de avfyrte missil mot Israel",
-      "slug": "houthiene-bekrefter-at-de-avfyrte-missil-mot-israel",
-      "content": "Det er første gang siden krigen med Iran startet at det ble skutt et missil fra Jemen. Houthiene, som støtter Iran, sier lørdag morgen at det var de som avfyrte missilet, og at de vil fortsette å angripe til «målet er nådd». Det melder Reuters.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
-      "excerpt": "Det er første gang siden krigen med Iran startet at det ble skutt et missil fra Jemen. Houthiene, som støtter Iran, sier lørdag morgen at det var de som avfyrte missilet, og at de vil fortsette å angripe til «målet er nådd». Det melder Reuters.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA...",
-      "image": "https://images.unsplash.com/photo-1657700141529-dca81d56006e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ2ODQ2OTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/houthiene-bekrefter-at-de-avfyrte-missil-mot-israel-1.17828820",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-28T07:58:19.005Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774684696941.3667,
-      "title": "Enighet på Stortinget om registrering av lobbyister",
-      "slug": "enighet-p-stortinget-om-registrering-av-lobbyister",
-      "content": "– Vi ønsker nå en skikkelig utredning for å finne ut hvorfor et lobbyregister skal innføres, og eventuelt hvordan det skal gjennomføres, sier andre visepresident Lise Selnes (Ap) i Stortingets presidentskap.\n\nHun sier at de vil se om et slikt register kan være med på å gi større tillit, og om det vil føre til økt åpenhet.\n\n– Noe som veldig mange innbyggere etterspør, sier Selnes.\n\nEn lobbyist er en person som forsøker å påvirke politikere eller myndigheter til å ta beslutninger som er til fordel for en bestemt sak, organisasjon eller bedrift.\n\nStortinget\n\nRiksrevisjonen har undersøkt 500 stortingsrepresentanters bruk av blant annet pendlerboliger, reiseutgifter og etterlønn. Over 60 har fått for mye utbetalt og kontrollen har vært for dårlig, konkluderer riksrevisoren.",
-      "excerpt": "– Vi ønsker nå en skikkelig utredning for å finne ut hvorfor et lobbyregister skal innføres, og eventuelt hvordan det skal gjennomføres, sier andre visepresident Lise Selnes (Ap) i Stortingets presidentskap.\n\nHun sier at de vil se om et slikt register kan være med på å gi større tillit, og om det...",
-      "image": "https://images.unsplash.com/photo-1774414150670-b07a6a1de116?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ2ODQ2OTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/enighet-pa-stortinget-om-registrering-av-lobbyister-1.17828854",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-28T07:58:16.941Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774674958118.7698,
-      "title": "Israel: Rakett skutt fra Jemen",
-      "slug": "israel-rakett-skutt-fra-jemen",
-      "content": "For første gang siden krigen startet, har det blitt skutt en rakett fra Jemen mot Israel, hevder det israelske militæret.\n\nIDF melder lørdag morgen at de har oppdaget et missil på vei mot Israel, og opplyser at luftforsvarer jobber med å stanse angrepet.\n\nDette er første gang i løpet av den nåværende konflikten at det kommer et angrep fra Jemen, skriver nyhetsbyrået AFP.\n\nDet skjer etter at Houthi-militsen i Jemen, som støttes av Iran, tidligere har truet med å kaste seg inn i krigen.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
-      "excerpt": "For første gang siden krigen startet, har det blitt skutt en rakett fra Jemen mot Israel, hevder det israelske militæret.\n\nIDF melder lørdag morgen at de har oppdaget et missil på vei mot Israel, og opplyser at luftforsvarer jobber med å stanse angrepet.\n\nDette er første gang i løpet av den...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/israel_-rakett-skutt-fra-jemen-1.17828808",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-28T05:15:58.118Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 178,
+    "totalFetched": 181,
     "totalPublished": 41,
-    "lastFetch": "2026-03-30T15:57:09.367Z",
+    "lastFetch": "2026-03-30T19:37:58.123Z",
     "lastPublish": "2026-03-30T18:06:13.083Z"
   }
 }
