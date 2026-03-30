@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/dieselbrolet-varsler-ny-aksjon-1.17831149",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-30T19:37:56.118Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-30T20:05:11.366Z",
+      "status": "published"
     },
     {
       "id": 1774899474437.7622,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 181,
-    "totalPublished": 41,
+    "totalPublished": 42,
     "lastFetch": "2026-03-30T19:37:58.123Z",
-    "lastPublish": "2026-03-30T18:06:13.083Z"
+    "lastPublish": "2026-03-30T20:05:11.908Z"
   }
 }
