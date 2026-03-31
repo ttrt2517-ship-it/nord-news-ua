@@ -23,8 +23,8 @@
       "original_url": "https://www.nrk.no/nyheter/amerikansk-journalist-skal-vaere-kidnappet-i-irak-1.17832613",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-31T20:04:01.522Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-31T22:53:46.294Z",
+      "status": "published"
     },
     {
       "id": 1774987439913.853,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 197,
-    "totalPublished": 47,
+    "totalPublished": 48,
     "lastFetch": "2026-03-31T20:04:05.310Z",
-    "lastPublish": "2026-03-31T20:04:28.864Z"
+    "lastPublish": "2026-03-31T22:53:46.945Z"
   }
 }
