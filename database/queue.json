@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/trump_-_-dra-til-hormuzstredet-og-bare-ta-det-1.17832104",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-31T12:08:11.001Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-31T15:53:55.557Z",
+      "status": "published"
     },
     {
       "id": 1774958889565.5203,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 191,
-    "totalPublished": 44,
+    "totalPublished": 45,
     "lastFetch": "2026-03-31T12:08:12.384Z",
-    "lastPublish": "2026-03-31T11:37:51.678Z"
+    "lastPublish": "2026-03-31T15:53:56.000Z"
   }
 }
