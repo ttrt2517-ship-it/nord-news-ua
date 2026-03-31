@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/europeiske-utenriksministere-viser-stotte-til-libanon-1.17832487",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-31T17:34:34.645Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-31T18:05:59.713Z",
+      "status": "published"
     },
     {
       "id": 1774978473083.4033,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 194,
-    "totalPublished": 45,
+    "totalPublished": 46,
     "lastFetch": "2026-03-31T17:34:36.067Z",
-    "lastPublish": "2026-03-31T15:53:56.000Z"
+    "lastPublish": "2026-03-31T18:06:01.900Z"
   }
 }
