@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/irans-utenriksminister_-klare-for-bakkekrig-1.17832590",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-03-31T20:04:03.339Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-03-31T20:04:27.561Z",
+      "status": "published"
     },
     {
       "id": 1774987441522.5344,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 197,
-    "totalPublished": 46,
+    "totalPublished": 47,
     "lastFetch": "2026-03-31T20:04:05.310Z",
-    "lastPublish": "2026-03-31T18:06:01.900Z"
+    "lastPublish": "2026-03-31T20:04:28.864Z"
   }
 }
