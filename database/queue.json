@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1774987443339.0632,
+      "title": "Irans utenriksminister: Klare for bakkekrig",
+      "slug": "irans-utenriksminister-klare-for-bakkekrig",
+      "content": "Irans utenriksminister opplyste i et intervju med TV-kanalen Al Jazeera at han er i kontakt med USAs spesialutsendingen til Midtøsten Steve Witkoff.\n\nHan understreker imidlertid at dette ikke er noen formell forhandling.\n\nSamtidig kommer ministeren med en advarsel om at Teheran er forberedt på enhver form for bakkekrig.\n\nHan fortalte også at det vil bli utfordrende å bygge tilbake tilliten til nabolandene i fremtiden.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
+      "excerpt": "Irans utenriksminister opplyste i et intervju med TV-kanalen Al Jazeera at han er i kontakt med USAs spesialutsendingen til Midtøsten Steve Witkoff.\n\nHan understreker imidlertid at dette ikke er noen formell forhandling.\n\nSamtidig kommer ministeren med en advarsel om at Teheran er forberedt på...",
+      "image": "https://images.unsplash.com/photo-1735387273482-751d3f16f2f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ5ODc0NDN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/irans-utenriksminister_-klare-for-bakkekrig-1.17832590",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-31T20:04:03.339Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774987441522.5344,
+      "title": "Amerikansk journalist skal være kidnappet i Irak",
+      "slug": "amerikansk-journalist-skal-vre-kidnappet-i-irak",
+      "content": "Den amerikanske journalisten Shelly Kittleson skal tirsdag ha blitt kidnappet i Irak. Det opplyser avisa Al-Monitor, hvor Kittelson leverte nyhetsstoff.\n\nIfølge politikilder til Reuters ble hun tvunget inn i en bil av fire sivilkledde menn i landets hovedstad Bagdad.\n\nInnenriksdepartementet i Irak vil ikke bekrefte nasjonalitet hennes, men sier de jobber for å få henne løslatt.\n\nUSAs utenriksdepartement har foreløpig ikke kommentert hendelsen, skriver NTB.\n\nIrak\n\nIrak er et ressursrikt land, med en av verdens største forekomster av olje og gass. Likevel er landet, som er et av de mest folkerike i Midtøsten, preget av fattigdom og uroligheter.",
+      "excerpt": "Den amerikanske journalisten Shelly Kittleson skal tirsdag ha blitt kidnappet i Irak. Det opplyser avisa Al-Monitor, hvor Kittelson leverte nyhetsstoff.\n\nIfølge politikilder til Reuters ble hun tvunget inn i en bil av fire sivilkledde menn i landets hovedstad Bagdad.\n\nInnenriksdepartementet i Irak...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/amerikansk-journalist-skal-vaere-kidnappet-i-irak-1.17832613",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-31T20:04:01.522Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1774987439913.853,
+      "title": "Trumps ballsal: Stanser bygging",
+      "slug": "trumps-ballsal-stanser-bygging",
+      "content": "En føderal dommer har blokkert USAs president Donald Trump fra å fortsette byggearbeidet på Det hvite hus' sin nye ballsal, skriver CNN.\n\nDommeren understreker i sin kjennelse at byggearbeidet må stanses inntil Kongressen eventuelt gir prosjektet en formell godkjenning.\n\nAdministrasjonen får derimot to ukers utsettelse før kjennelsen iverksettes i påvente av en mulig anke. Han advarer likevel om at alt som bygges i mellomtiden kan måtte rives.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "En føderal dommer har blokkert USAs president Donald Trump fra å fortsette byggearbeidet på Det hvite hus' sin nye ballsal, skriver CNN.\n\nDommeren understreker i sin kjennelse at byggearbeidet må stanses inntil Kongressen eventuelt gir prosjektet en formell godkjenning.\n\nAdministrasjonen får...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trumps-ballsal_-stanser-bygging--1.17832663",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-03-31T20:03:59.914Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1774978474645.5469,
       "title": "Europeiske utenriksministere viser støtte til Libanon",
       "slug": "europeiske-utenriksministere-viser-sttte-til-libanon",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-03-29T05:55:10.433Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1774738920727.419,
-      "title": "Boligbrann i Kvinnherad",
-      "slug": "boligbrann-i-kvinnherad",
-      "content": "Nødetatene har rykket etter melding om brann i enebolig i Kvinnherad lørdag kveld.\n\n– Boligen er overtent, melder operasjonssleder Steinar Hausvik, i Vest politidistrikt.\n\nBrannvesenet er i gang med slukkingsarbeidet, melder Vest politidistrikt klokken 22.42.\n\nIngen personer er tilstede i huset, ifølge brannvesenet som har hatt kontakt med husets eier.",
-      "excerpt": "Nødetatene har rykket etter melding om brann i enebolig i Kvinnherad lørdag kveld.\n\n– Boligen er overtent, melder operasjonssleder Steinar Hausvik, i Vest politidistrikt.\n\nBrannvesenet er i gang med slukkingsarbeidet, melder Vest politidistrikt klokken 22.42.\n\nIngen personer er tilstede i huset...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/boligbrann-i-kvinnherad--1.17829412",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-28T23:02:00.727Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774738919161.5554,
-      "title": "Flere antikrigsdemonstranter arrestert av sikkerhetsstyrker i Tel Aviv",
-      "slug": "flere-antikrigsdemonstranter-arrestert-av-sikkerhetsstyrker-",
-      "content": "Sikkerhetsstyrker i Israel grep lørdag inn mot hundrevis av demonstranter i Tel Aviv og Haifa som protesterte mot krigen i Midtøsten.\n\nRundt 18 demonstranter ble arrestert av sikkerhetsstyrkene, ifølge nyhetsbyrået AFP.\n\nProtestene er rettet mot krigføringen som Israel og USA startet mot Iran 28. februar.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
-      "excerpt": "Sikkerhetsstyrker i Israel grep lørdag inn mot hundrevis av demonstranter i Tel Aviv og Haifa som protesterte mot krigen i Midtøsten.\n\nRundt 18 demonstranter ble arrestert av sikkerhetsstyrkene, ifølge nyhetsbyrået AFP.\n\nProtestene er rettet mot krigføringen som Israel og USA startet mot Iran 28....",
-      "image": "https://images.unsplash.com/photo-1679769767348-be52800f0601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ3Mzg5MTl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-antikrigsdemonstranter-arrestert-av-sikkerhetsstyrker-i-tel-aviv--1.17829418",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-28T23:01:59.161Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774738917542.2122,
-      "title": "USA fordømmer angrep mot bolig til irakisk leder i Kurdistan",
-      "slug": "usa-fordmmer-angrep-mot-bolig-til-irakisk-leder-i-kurdistan",
-      "content": "Luftforsvaret har skutt ned en drone i nærheten av boligen til den irak-kurdiske lederen Masoud Barzani i Erbil, får nyhetsbyrået Reuters opplyst av sikkerhetskilder.\n\nUSA sier de fordømmer droneangrepet mot Barzani, og legger skylden på iranskstøttede militsgrupper i Irak.\n\n– Disse handlingene fra Iran og deres medhjelpere er et direkte angrep på Iraks suverenitet, stabilitet og enhet, sier assisterende talsperson for utenriksdepartementet i USA, Tommy Pigott.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
-      "excerpt": "Luftforsvaret har skutt ned en drone i nærheten av boligen til den irak-kurdiske lederen Masoud Barzani i Erbil, får nyhetsbyrået Reuters opplyst av sikkerhetskilder.\n\nUSA sier de fordømmer droneangrepet mot Barzani, og legger skylden på iranskstøttede militsgrupper i Irak.\n\n– Disse handlingene fra...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-fordommer-angrep-mot-bolig-til-irakisk-leder-i-kurdistan-1.17829424",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-28T23:01:57.542Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 194,
+    "totalFetched": 197,
     "totalPublished": 46,
-    "lastFetch": "2026-03-31T17:34:36.067Z",
+    "lastFetch": "2026-03-31T20:04:05.310Z",
     "lastPublish": "2026-03-31T18:06:01.900Z"
   }
 }
