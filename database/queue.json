@@ -10,8 +10,8 @@
       "original_url": "https://www.thelocal.no/20260228/what-is-a-sprakkafe-and-why-is-it-so-popular-in-norway",
       "source_name": "The Local Norway",
       "fetched_at": "2026-04-01T19:46:06.989Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-01T20:07:52.957Z",
+      "status": "published"
     },
     {
       "id": 1775072763850.1863,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 211,
-    "totalPublished": 51,
+    "totalPublished": 52,
     "lastFetch": "2026-04-01T19:46:07.990Z",
-    "lastPublish": "2026-04-01T17:39:10.583Z"
+    "lastPublish": "2026-04-01T20:07:54.426Z"
   }
 }
