@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/natos-generalsekretaer-skal-mote-trump-i-usa-1.17833809",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-01T22:01:45.090Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-01T23:00:26.489Z",
+      "status": "published"
     },
     {
       "id": 1775080903170.109,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 213,
-    "totalPublished": 52,
+    "totalPublished": 53,
     "lastFetch": "2026-04-01T22:01:46.445Z",
-    "lastPublish": "2026-04-01T20:07:54.426Z"
+    "lastPublish": "2026-04-01T23:00:26.967Z"
   }
 }
