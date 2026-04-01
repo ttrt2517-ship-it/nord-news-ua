@@ -36,8 +36,8 @@
       "original_url": "https://www.nrk.no/stor-oslo/person-truet-vektere-med-kniv-pa-skoyen-_-to-skadet-1.17833341",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-01T11:30:55.249Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-01T17:39:09.018Z",
+      "status": "published"
     },
     {
       "id": 1775043053623.4146,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 207,
-    "totalPublished": 50,
+    "totalPublished": 51,
     "lastFetch": "2026-04-01T11:31:00.321Z",
-    "lastPublish": "2026-04-01T15:58:29.587Z"
+    "lastPublish": "2026-04-01T17:39:10.583Z"
   }
 }
