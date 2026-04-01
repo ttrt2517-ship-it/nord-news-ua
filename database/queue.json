@@ -23,8 +23,8 @@
       "original_url": "https://www.nrk.no/nyheter/moderaterne-vil-la-sverigedemokraterna-bli-med-i-regjering-hvis-de-vinner-valget_-1.17833203",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-01T11:30:56.672Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-01T15:58:28.856Z",
+      "status": "published"
     },
     {
       "id": 1775043055249.8953,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 207,
-    "totalPublished": 49,
+    "totalPublished": 50,
     "lastFetch": "2026-04-01T11:31:00.321Z",
-    "lastPublish": "2026-04-01T11:59:45.521Z"
+    "lastPublish": "2026-04-01T15:58:29.587Z"
   }
 }
