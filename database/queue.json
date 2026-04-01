@@ -10,8 +10,8 @@
       "original_url": "https://www.thelocal.no/20260401/have-your-say-how-are-norways-udi-waiting-times-affecting-you",
       "source_name": "The Local Norway",
       "fetched_at": "2026-04-01T11:30:59.319Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-01T11:59:45.111Z",
+      "status": "published"
     },
     {
       "id": 1775043056672.3042,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 207,
-    "totalPublished": 48,
+    "totalPublished": 49,
     "lastFetch": "2026-04-01T11:31:00.321Z",
-    "lastPublish": "2026-03-31T22:53:46.945Z"
+    "lastPublish": "2026-04-01T11:59:45.521Z"
   }
 }
