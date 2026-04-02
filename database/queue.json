@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/iran_-angriper-amazon-i-bahrain-1.17834170",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-02T17:11:37.801Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-02T17:38:32.994Z",
+      "status": "published"
     },
     {
       "id": 1775149896156.1526,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 225,
-    "totalPublished": 55,
+    "totalPublished": 56,
     "lastFetch": "2026-04-02T17:11:39.423Z",
-    "lastPublish": "2026-04-02T15:37:58.955Z"
+    "lastPublish": "2026-04-02T17:38:33.390Z"
   }
 }
