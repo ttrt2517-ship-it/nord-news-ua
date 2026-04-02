@@ -36,8 +36,8 @@
       "original_url": "https://www.nrk.no/nyheter/fox_-trump-skal-ha-sparket-justisminister-pam-bondi--1.17834210",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-02T17:11:34.627Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-02T22:20:30.830Z",
+      "status": "published"
     },
     {
       "id": 1775131673752.2014,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 225,
-    "totalPublished": 57,
+    "totalPublished": 58,
     "lastFetch": "2026-04-02T17:11:39.423Z",
-    "lastPublish": "2026-04-02T20:01:48.698Z"
+    "lastPublish": "2026-04-02T22:20:31.392Z"
   }
 }
