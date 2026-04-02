@@ -23,8 +23,8 @@
       "original_url": "https://www.nrk.no/vestfoldogtelemark/eksplosjon-i-bolig-i-telemark-_-store-materielle-skader-1.17834148",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-02T17:11:36.156Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-02T20:01:47.752Z",
+      "status": "published"
     },
     {
       "id": 1775149894626.6106,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 225,
-    "totalPublished": 56,
+    "totalPublished": 57,
     "lastFetch": "2026-04-02T17:11:39.423Z",
-    "lastPublish": "2026-04-02T17:38:33.390Z"
+    "lastPublish": "2026-04-02T20:01:48.698Z"
   }
 }
