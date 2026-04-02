@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/irans-helsedepartement_-angrep-mot-medisinsk-senter---1.17833965",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-02T09:41:36.971Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-02T11:35:13.248Z",
+      "status": "published"
     },
     {
       "id": 1775122895464.2769,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 219,
-    "totalPublished": 53,
+    "totalPublished": 54,
     "lastFetch": "2026-04-02T09:41:38.663Z",
-    "lastPublish": "2026-04-01T23:00:26.967Z"
+    "lastPublish": "2026-04-02T11:35:14.362Z"
   }
 }
