@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1775226591865.4941,
+      "title": "Alvorleg skadd i arbeidsulykke på Stord",
+      "slug": "alvorleg-skadd-i-arbeidsulykke-p-stord",
+      "content": "Naudetatane rykte fredag ettermiddag ut etter melding om mogleg arbeidsulykke på Aker Solutions på Eldøyane på Stord.\n\nEin person framstår som alvorleg skadd, skriv politiet i ei oppdatering klokka 14.58.\n\nUlykka har skjedd i samband med arbeid, men så langt er det uklart kva som har skjedd, opplyser Helen Rygg Ims, operasjonsleiar i Sør-Vest politidistrikt.\n\nPolitiet vil undersøkja nærare for å finna ut korleis ulykka skjedde.",
+      "excerpt": "Naudetatane rykte fredag ettermiddag ut etter melding om mogleg arbeidsulykke på Aker Solutions på Eldøyane på Stord.\n\nEin person framstår som alvorleg skadd, skriv politiet i ei oppdatering klokka 14.58.\n\nUlykka har skjedd i samband med arbeid, men så langt er det uklart kva som har skjedd...",
+      "image": "https://images.unsplash.com/photo-1611053307699-5f74280c0d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUyMjY1OTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestland/alvorleg-skadd-i-arbeidsulykke-pa-stord-1.17834568",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-03T14:29:51.865Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775226590052.6199,
+      "title": "Trump vil øke forsvarsbudsjettet med 50 prosent",
+      "slug": "trump-vil-ke-forsvarsbudsjettet-med-50-prosent",
+      "content": "USAs president Donald Trump vil øke forsvarsbudsjettet med 50 prosent i 2027, skriver Bloomberg.\n\nI 2026 er budsjettet på 1000 milliarder dollar. Trump vil be kongressen vedta et budsjett på 1500 milliarder dollar, tilsvarende rundt 15.000 milliarder norske kroner.\n\n350 milliarder dollar av den ønskede økningen er knyttet til krigen mot Iran, skriver avisen.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nIran\n\nIran er en islamsk republikk, ledet av ayatollah Ali Khanamei siden 1989.\nDet pågår nå massive demonstrasjoner mot det ultrakonservative, undertrykkende regimet. Enkelte anslår 30.000 drepte siden 28. desember, mens regimet sier rundt 3000 er drept.",
+      "excerpt": "USAs president Donald Trump vil øke forsvarsbudsjettet med 50 prosent i 2027, skriver Bloomberg.\n\nI 2026 er budsjettet på 1000 milliarder dollar. Trump vil be kongressen vedta et budsjett på 1500 milliarder dollar, tilsvarende rundt 15.000 milliarder norske kroner.\n\n350 milliarder dollar av den...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-vil-oke-forsvarsbudsjettet-med-50-prosent-1.17834579",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-03T14:29:50.052Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775226588401.5696,
+      "title": "Medier: Amerikansk jagerfly skutt ned i Iran",
+      "slug": "medier-amerikansk-jagerfly-skutt-ned-i-iran",
+      "content": "Et amerikansk jagerfly er skutt ned i Iran, skriver nyhetsbyrået Reuters og avisen New York Times.\n\nDet er satt i gang en søk- og redningsoperasjon, opplyser en ikke-navngitt amerikansk tjenesteperson til Reuters.\n\nIran sa tidligere fredag at de hadde skutt ned et amerikansk jagerfly, og at de søkte etter flyets pilot.\n\nEt amerikansk jagerfly er skutt ned i Iran, skriver nyhetsbyrået Reuters og avisen New York Times.\n\nIran\n\nIran er en islamsk republikk, ledet av ayatollah Ali Khanamei siden 1989.\nDet pågår nå massive demonstrasjoner mot det ultrakonservative, undertrykkende regimet. Enkelte anslår 30.000 drepte siden 28. desember, mens regimet sier rundt 3000 er drept.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Et amerikansk jagerfly er skutt ned i Iran, skriver nyhetsbyrået Reuters og avisen New York Times.\n\nDet er satt i gang en søk- og redningsoperasjon, opplyser en ikke-navngitt amerikansk tjenesteperson til Reuters.\n\nIran sa tidligere fredag at de hadde skutt ned et amerikansk jagerfly, og at de...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/medier_-amerikansk-jagerfly-skutt-ned-i-iran-1.17834584",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-03T14:29:48.401Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1775217375348.292,
       "title": "Rødt farevarsel om ekstremt kraftige vindkast på Sørvestlandet søndag",
       "slug": "rdt-farevarsel-om-ekstremt-kraftige-vindkast-p-srvestlandet-",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-03-31T12:08:09.565Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1774950400017.8318,
-      "title": "Today in Norway: A roundup of the latest news on Tuesday",
-      "slug": "today-in-norway-a-roundup-of-the-latest-news-on-tuesday",
-      "content": "Economists expect interest rate hike on May 7th, Norway and Belgium sign cross-border CO2 transport deal, and other news from Norway on Tuesday.\n\nNorway and Belgium sign cross-border CO2 transport deal\n\nNorway and Belgium have a deal aimed at enabling the construction of a pipeline to transport CO2 from Zeebrugge in Belgium to a disposal site in Norwegian waters. The deal comes after the Norwegian oil company Equinor last July signed a memorandum of understanding over building the pipelines with Belgian gas network operator Fluxys and German transmission system operator OGE.\n\n\"This agreement strengthens the foundation for a European CO2 value chain,\" said Terje Aasland, Norwegian Minister of Energy. \"Today we have taken a concrete step toward supporting industrial decarbonisation in Europe.\"\n\nAnnelies Verlinden, Belgium’s Minister of the North Sea, said the cooperation with Norway was \"key to making carbon capture and storage a success in Belgium and across Europe\".\n\n\"The North Sea serves as a backbone for our green industrial future.\"\n\nThe number of mothers who died during childbirth doubled in Norway between 2023 and 2024, triggering calls for an investigation. A statistical investigation by the VG newspaper found that the number of deaths grew from just 11 in 2023 to 21 in 2024.\n\n\"The increase in the number of deaths should be investigated further. I think it looks a bit concerning,\" Anne Kjersti Befring, a professor at Oslo University, told the newspaper.\n\nØystein Solvang, a press officer at the Norwegian Health Authority, warned against leaping to conclusions.\n\n\"There may be natural causes of death, even though the Norwegian Health Authority has been notified. So one must be careful with interpretation and conclusion here,\" he said.\n\nNorway's central bank is likely to raise interest rates on May 7th for the first time since December 2023, according to a consensus of bank analysts collated by Bloomberg.\n\nWhen Norges Bank kept the key interest rate unchanged at 4 percent last Thursday, it also warned that it would need to raise the rate at \"one of the nearest interest rate meetings.\"\n\nThe market is currently estimating the likelihood of a May 7th rise at 60 percent, Bloomberg reported.\n\nMarius Gonsholt Hov, chief economist at Handelsbanken in Norway, told E24 that he would update his forecasts to include a May rate increase over the Easter.\n\n\"iI I were to present a forecast here and now, I would include an interest rate increase in May,\" he said.\n\nA foreign tourist died in a snowmobile accident in Balsfjord, Troms, on Sunday, after it crashed into an electricity pylon. The driver of the snowmobile escaped with an injury to their foot, while the tourist who was riding pillion was killed.\n\n“The snowmobile at the back of the group was the one that crashed, so the others in the tour party did not see what happened,” said Eirik Kileng from the local police. “We have seized the snowmobile to determine whether there may have been a fault with it.\"\n\nNorway to crack down on employers who exploit foreign workers\n\nThe Norwegian government has submitted a bill to parliament that would increase the penalties for those who exploit vulnerable foreign nationals in the workplace or housing market.\n\nThe bill introduces a new criminal provision to the Immigration Act (Utlendingsloven), making it an offence for employers and landlords to exploit foreign workers in vulnerable situations. This would close a loophole that currently only penalises middlemen.\n\nUnder existing rules, only those who broker jobs or housing can be prosecuted for exploiting foreign workers, with a maximum sentence of two years in prison.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Economists expect interest rate hike on May 7th, Norway and Belgium sign cross-border CO2 transport deal, and other news from Norway on Tuesday.\n\nNorway and Belgium sign cross-border CO2 transport deal\n\nNorway and Belgium have a deal aimed at enabling the construction of a pipeline to transport CO2...",
-      "image": "https://images.unsplash.com/photo-1631893802294-e7d57673759f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ5NTAzOTl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260331/today-in-norway-a-roundup-of-the-latest-news-on-tuesday-231",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-03-31T09:46:40.017Z",
-      "published_at": "2026-03-31T11:37:49.869Z",
-      "status": "published"
-    },
-    {
-      "id": 1774950397015.9807,
-      "title": "NHO-bedriftene påvirkes negativt av krigen i Midtøsten",
-      "slug": "nhobedriftene-pvirkes-negativt-av-krigen-i-midtsten",
-      "content": "84 prosent av medlemsbedriftene i NHO sier de påvirkes negativt av krigen i Midtøsten, ifølge NHOs nyeste medlemsundersøkelse.\n\nSamtidig oppgir kun 8 prosent av bedriftene at de ikke påvirkes. 1780 NHO-bedrifter har svart i undersøkelsen, som ble gjennomført i perioden 24. til 30. mars.\n\nDirektør i NHO, Ole Erik Almlid, sier tilgangen på drivstoff over hele verden blir dårligere med Trumps tollregime og bombingen av Iran. Og at prisene dermed blir presset opp.\n\n– Det påvirker oss alle. Jeg tror vi må venne oss til det. Og jeg tror jeg vil gå så langt som å si at dette går ikke over, sier Almlid til VG.\n\nNorsk økonomi\n\nNorges Bank holder styringsrenta på 4 prosent. De ser for seg rentekutt i 2026.",
-      "excerpt": "84 prosent av medlemsbedriftene i NHO sier de påvirkes negativt av krigen i Midtøsten, ifølge NHOs nyeste medlemsundersøkelse.\n\nSamtidig oppgir kun 8 prosent av bedriftene at de ikke påvirkes. 1780 NHO-bedrifter har svart i undersøkelsen, som ble gjennomført i perioden 24. til 30. mars.\n\nDirektør i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/-nho-bedriftene-pavirkes-negativt-av-krigen-i-midtosten-1.17831536",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-31T09:46:37.015Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774936655920.7537,
-      "title": "Minst åtte evakuert etter brann på Grønland i Oslo",
-      "slug": "minst-tte-evakuert-etter-brann-p-grnland-i-oslo",
-      "content": "Det har brent i en leilighet i Smalgangen på Grønland. Brannen er nå slukket, melder politiet klokken 05.14.\n\nMinst åtte personer er evakuert, og flere av dem har fått i seg røyk, ifølge politiet.\n\n– Klokken 04.07 fikk vi melding fra brannvesenet om kraftig røykutvikling i en bygård på Grønland, sier operasjonsleder Vidar Pedersen.\n\nPolitiet kom raskt til stedet, og lokaliserte en leilighet hvor røyken kom fra.\n\nÅrsaken er ikke kjent, men det ble innledningsvis meldt om brann i et sikringsskap.\n\nSlukningsarbeidet var utfordrende fordi brannen hadde satt i veggene, forteller Pedersen.\n\nBranner i Oslo og Akershus\n\nBrannhendelser i Oslo og Akershus.",
-      "excerpt": "Det har brent i en leilighet i Smalgangen på Grønland. Brannen er nå slukket, melder politiet klokken 05.14.\n\nMinst åtte personer er evakuert, og flere av dem har fått i seg røyk, ifølge politiet.\n\n– Klokken 04.07 fikk vi melding fra brannvesenet om kraftig røykutvikling i en bygård på Grønland...",
-      "image": "https://images.unsplash.com/photo-1713450416930-84ef7a25faa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ5MzY2NTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/minst-atte-evakuert-etter-brann-pa-gronland-i-oslo-1.17831346",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-31T05:57:35.920Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 236,
+    "totalFetched": 239,
     "totalPublished": 60,
-    "lastFetch": "2026-04-03T11:56:16.675Z",
+    "lastFetch": "2026-04-03T14:29:53.679Z",
     "lastPublish": "2026-04-03T14:28:01.289Z"
   }
 }
