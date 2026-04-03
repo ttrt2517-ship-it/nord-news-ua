@@ -1,5 +1,18 @@
 [
   {
+    "id": 1775217375348.292,
+    "title": "Rødt farevarsel om ekstremt kraftige vindkast på Sørvestlandet søndag",
+    "slug": "rdt-farevarsel-om-ekstremt-kraftige-vindkast-p-srvestlandet-",
+    "content": "Meteorologene har sendt ut rødt farevarsel for kysten av Rogaland og Agder.\n\n– Hold dere inne: Det er farlig å være utendørs, og det ventes uvanlig stor skade på bygninger, infrastruktur, skog og strømnett. Takstein og takplater kan blåse av hus og bygninger, skriver Metrologisk institutt i farevarselet.\n\nMeteorologane ber folk vurdere nøye om dei må setje seg i bilen på søndag.",
+    "excerpt": "Meteorologene har sendt ut rødt farevarsel for kysten av Rogaland og Agder.\n\n– Hold dere inne: Det er farlig å være utendørs, og det ventes uvanlig stor skade på bygninger, infrastruktur, skog og strømnett. Takstein og takplater kan blåse av hus og bygninger, skriver Metrologisk institutt i...",
+    "image": "https://images.unsplash.com/photo-1622795969840-9a906fe5a9b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUyMTczNzV8&ixlib=rb-4.1.0&q=80&w=1080",
+    "original_url": "https://www.nrk.no/nyheter/rodt-farevarsel-om-ekstremt-kraftige-vindkast-pa-sorvestlandet-sondag-1.17834473",
+    "source_name": "NRK Nyheter",
+    "fetched_at": "2026-04-03T11:56:15.348Z",
+    "published_at": "2026-04-03T14:27:59.512Z",
+    "status": "published"
+  },
+  {
     "id": 1775205370013.1013,
     "title": "Kvinne pågrepet etter vold i Skien",
     "slug": "kvinne-pgrepet-etter-vold-i-skien",
@@ -634,19 +647,6 @@
     "source_name": "NRK Nyheter",
     "fetched_at": "2026-03-23T21:54:44.036Z",
     "published_at": "2026-03-23T22:00:30.715Z",
-    "status": "published"
-  },
-  {
-    "id": 1774290878473.8538,
-    "title": "ЗМІ: Знаходження тих, хто вижив після аварії в Колумбії",
-    "slug": "змі-знаходження-тих-хто-вижив-після-аварії-в-колумбії",
-    "content": "Колумбійські ЗМІ повідомили, що було знайдено щонайменше 20 тих, хто вижив.\n\nДва джерела повідомили Reuters, що після катастрофи 57 людей залишилися живими.\n\n«Занадто рано говорити про точну кількість загиблих та причину аварії», – сказав міністр оборони Педро Санчес.\n\nЗа даними Blu Radio, на борту літака було 110 солдатів. Інші ЗМІ також використовують аналогічні цифри.\n\nЗа даними колумбійських військових, 48 поранених людей було врятовано з-під уламків.\n\nАварії військового літака в Колумбії\n\nНа борту літака Hercules, який розбився в Колумбії, було 114 пасажирів та екіпаж з 14 осіб.",
-    "excerpt": "Колумбійські ЗМІ повідомили, що було знайдено щонайменше 20 тих, хто вижив.\n\nДва джерела повідомили Reuters, що після катастрофи 57 людей залишилися живими.\n\n«Занадто рано говорити про точну кількість загиблих та причину аварії», – сказав міністр оборони Педро Санчес.\n\nЗа даними Blu Radio, на борту...",
-    "image": "https://images.unsplash.com/photo-1654581065105-b904eee78d9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQyOTA4Nzh8&ixlib=rb-4.1.0&q=80&w=1080",
-    "original_url": "https://www.nrk.no/nyheter/medier_-funn-av-overlevende-etter-styrt-i-colombia-1.17821594",
-    "source_name": "NRK Nyheter",
-    "fetched_at": "2026-03-23T18:34:38.473Z",
-    "published_at": "2026-03-23T20:01:01.090Z",
     "status": "published"
   }
 ]

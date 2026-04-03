@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/rodt-farevarsel-om-ekstremt-kraftige-vindkast-pa-sorvestlandet-sondag-1.17834473",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-03T11:56:15.348Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-03T14:27:59.512Z",
+      "status": "published"
     },
     {
       "id": 1775217373865.2788,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 236,
-    "totalPublished": 59,
+    "totalPublished": 60,
     "lastFetch": "2026-04-03T11:56:16.675Z",
-    "lastPublish": "2026-04-03T11:25:48.258Z"
+    "lastPublish": "2026-04-03T14:28:01.289Z"
   }
 }
