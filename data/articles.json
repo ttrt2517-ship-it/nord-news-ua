@@ -1,5 +1,18 @@
 [
   {
+    "id": 1775226591865.4941,
+    "title": "Alvorleg skadd i arbeidsulykke på Stord",
+    "slug": "alvorleg-skadd-i-arbeidsulykke-p-stord",
+    "content": "Naudetatane rykte fredag ettermiddag ut etter melding om mogleg arbeidsulykke på Aker Solutions på Eldøyane på Stord.\n\nEin person framstår som alvorleg skadd, skriv politiet i ei oppdatering klokka 14.58.\n\nUlykka har skjedd i samband med arbeid, men så langt er det uklart kva som har skjedd, opplyser Helen Rygg Ims, operasjonsleiar i Sør-Vest politidistrikt.\n\nPolitiet vil undersøkja nærare for å finna ut korleis ulykka skjedde.",
+    "excerpt": "Naudetatane rykte fredag ettermiddag ut etter melding om mogleg arbeidsulykke på Aker Solutions på Eldøyane på Stord.\n\nEin person framstår som alvorleg skadd, skriv politiet i ei oppdatering klokka 14.58.\n\nUlykka har skjedd i samband med arbeid, men så langt er det uklart kva som har skjedd...",
+    "image": "https://images.unsplash.com/photo-1611053307699-5f74280c0d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUyMjY1OTF8&ixlib=rb-4.1.0&q=80&w=1080",
+    "original_url": "https://www.nrk.no/vestland/alvorleg-skadd-i-arbeidsulykke-pa-stord-1.17834568",
+    "source_name": "NRK Nyheter",
+    "fetched_at": "2026-04-03T14:29:51.865Z",
+    "published_at": "2026-04-03T17:01:52.657Z",
+    "status": "published"
+  },
+  {
     "id": 1775217375348.292,
     "title": "Rødt farevarsel om ekstremt kraftige vindkast på Sørvestlandet søndag",
     "slug": "rdt-farevarsel-om-ekstremt-kraftige-vindkast-p-srvestlandet-",
@@ -634,19 +647,6 @@
     "source_name": "NRK Nyheter",
     "fetched_at": "2026-03-24T08:08:03.485Z",
     "published_at": "2026-03-24T11:35:13.322Z",
-    "status": "published"
-  },
-  {
-    "id": 1774302884036.597,
-    "title": "Åtte døde i flystyrt i Colombia",
-    "slug": "tte-dde-i-flystyrt-i-colombia",
-    "content": "Colombianske myndigheter opplyser at åtte personer er bekreftet døde etter at et militærfly styrtet tidligere i dag, melder nyhetsbyrået AFP.\n\nFlyet hadde 125 personer om bord, 114 passasjerer og en besetning på 11.\n\nMilitærfly styrtet i Colombia\n\n114 passasjerer og en besetning på 14 var om bord i Hercules-flyet som styrtet i Colombia.",
-    "excerpt": "Colombianske myndigheter opplyser at åtte personer er bekreftet døde etter at et militærfly styrtet tidligere i dag, melder nyhetsbyrået AFP.\n\nFlyet hadde 125 personer om bord, 114 passasjerer og en besetning på 11.\n\nMilitærfly styrtet i Colombia\n\n114 passasjerer og en besetning på 14 var om bord i...",
-    "image": "https://images.unsplash.com/photo-1724221155562-7233de67cf2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzMDI4ODN8&ixlib=rb-4.1.0&q=80&w=1080",
-    "original_url": "https://www.nrk.no/nyheter/atte-dode-i-flystyrt-i-colombia-1.17821835",
-    "source_name": "NRK Nyheter",
-    "fetched_at": "2026-03-23T21:54:44.036Z",
-    "published_at": "2026-03-23T22:00:30.715Z",
     "status": "published"
   }
 ]

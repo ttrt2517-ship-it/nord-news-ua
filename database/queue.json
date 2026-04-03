@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/vestland/alvorleg-skadd-i-arbeidsulykke-pa-stord-1.17834568",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-03T14:29:51.865Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-03T17:01:52.657Z",
+      "status": "published"
     },
     {
       "id": 1775226590052.6199,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 239,
-    "totalPublished": 60,
+    "totalPublished": 61,
     "lastFetch": "2026-04-03T14:29:53.679Z",
-    "lastPublish": "2026-04-03T14:28:01.289Z"
+    "lastPublish": "2026-04-03T17:01:53.667Z"
   }
 }
