@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/kvinne-pagrepet-etter-vold-i-skien-1.17834346",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-03T08:36:10.013Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-03T11:25:47.154Z",
+      "status": "published"
     },
     {
       "id": 1775205368139.1204,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 233,
-    "totalPublished": 58,
+    "totalPublished": 59,
     "lastFetch": "2026-04-03T08:36:11.863Z",
-    "lastPublish": "2026-04-02T22:20:31.392Z"
+    "lastPublish": "2026-04-03T11:25:48.258Z"
   }
 }
