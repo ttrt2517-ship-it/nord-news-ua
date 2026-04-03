@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/cbs_-en-reddet-etter-at-amerikansk-jagerfly-ble-skutt-ned-1.17834611",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-03T17:54:47.043Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-03T19:55:22.862Z",
+      "status": "published"
     },
     {
       "id": 1775238885542.9438,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 242,
-    "totalPublished": 61,
+    "totalPublished": 62,
     "lastFetch": "2026-04-03T17:54:48.362Z",
-    "lastPublish": "2026-04-03T17:01:53.667Z"
+    "lastPublish": "2026-04-03T19:55:23.343Z"
   }
 }
