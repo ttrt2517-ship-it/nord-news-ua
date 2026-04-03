@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1775205370013.1013,
+      "title": "Kvinne pågrepet etter vold i Skien",
+      "slug": "kvinne-pgrepet-etter-vold-i-skien",
+      "content": "En kvinne i slutten av 40-årene er pågrepet og siktet for kroppsskade etter en voldshendelse i Skien sentrum natt til fredag.\n\nKvinnen kastet en flaske i hodet på en mann i 50-årene, ifølge politiet.\n\nMannen fikk et kutt i hodet og blødde mye. Han ble kjørt til sykehus for behandling.\n\nHendelsen skjedde etter at kvinnen, den skadede mannen og en tredje person hadde kommet til leiligheten etter å ha vært på byen.\n\nPolitiet har anmeldt saken og startet etterforskning.\n\nPolitiloggen i Vestfold og Telemark\n\nPolitiet melder om store og små hendelser. Her får du oversikt over hendelsene i Vestfold og Telemark.",
+      "excerpt": "En kvinne i slutten av 40-årene er pågrepet og siktet for kroppsskade etter en voldshendelse i Skien sentrum natt til fredag.\n\nKvinnen kastet en flaske i hodet på en mann i 50-årene, ifølge politiet.\n\nMannen fikk et kutt i hodet og blødde mye. Han ble kjørt til sykehus for behandling.\n\nHendelsen...",
+      "image": "https://images.unsplash.com/photo-1725751070169-a298ea3501ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUyMDUzNjl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/kvinne-pagrepet-etter-vold-i-skien-1.17834346",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-03T08:36:10.013Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775205368139.1204,
+      "title": "Myanmars kuppgeneral valgt til president",
+      "slug": "myanmars-kuppgeneral-valgt-til-president",
+      "content": "Myanmars parlament valgte fredag juntaens leder Min Aung Hlaing til landets nye president, ifølge AFP.\n\nI 2021 gjennomførte han et militærkupp i landet som førte til at den demokratiske prosessen stoppet opp.\n\nFlere politikere og aktivister ble fengslet eller flyktet i eksil i forbindelse med kuppet.\n\nMyanmar\n\nMyanmar har vært preget av kaos, kamper og uro etter at militæret grep makten i et kupp i februar 2021 og satte landets leder Aung San Suu Kyi i husarrest. Etter kuppet har det vært store folkelige protester.",
+      "excerpt": "Myanmars parlament valgte fredag juntaens leder Min Aung Hlaing til landets nye president, ifølge AFP.\n\nI 2021 gjennomførte han et militærkupp i landet som førte til at den demokratiske prosessen stoppet opp.\n\nFlere politikere og aktivister ble fengslet eller flyktet i eksil i forbindelse med...",
+      "image": "https://images.unsplash.com/photo-1654489519380-df012c053367?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUyMDUzNjh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/myanmars-kuppgeneral-valgt-til-president-1.17834348",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-03T08:36:08.139Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775205366486.512,
+      "title": "Buss har veltet i Oslo - ligger opp ned",
+      "slug": "buss-har-veltet-i-oslo-ligger-opp-ned",
+      "content": "Nødetatene er på Tryvann etter melding om at en buss har veltet.\n\nBussen ligger opp ned i en skråning. Kun føreren av bussen var ombord.\n\n– Bussjåføren er ute av bussen, ikke skadet, men tilsees av helsepersonell. Bilberging er rekvirert til bussen, skriver politet.",
+      "excerpt": "Nødetatene er på Tryvann etter melding om at en buss har veltet.\n\nBussen ligger opp ned i en skråning. Kun føreren av bussen var ombord.\n\n– Bussjåføren er ute av bussen, ikke skadet, men tilsees av helsepersonell. Bilberging er rekvirert til bussen, skriver politet.",
+      "image": "https://images.unsplash.com/photo-1721305485635-13f5100711e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUyMDUzNjZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/buss-har-veltet-i-oslo---ligger-opp-ned-1.17834369",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-03T08:36:06.486Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1775195535394.4563,
       "title": "Trump: Bruer og kraftstasjoner i Iran skal bombes",
       "slug": "trump-bruer-og-kraftstasjoner-i-iran-skal-bombes",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-03-30T22:01:10.126Z",
       "published_at": "2026-03-30T22:59:55.921Z",
       "status": "published"
-    },
-    {
-      "id": 1774908068343.544,
-      "title": "Trump-administrasjonen saksøker delstat for å tillate transpersoner i jenteidrett",
-      "slug": "trumpadministrasjonen-saksker-delstat-for-tillate-transperso",
-      "content": "Delstaten Minnesota og idrettsstyret for statens skoler ble mandag saksøkt av Trump-administrasjonen for å tillate transpersoner i kvinneidretten.\n\nSøksmålet er en del av en større strid om rettighetene til unge transpersoner. Over 20 delstater har lover som forbyr transkvinner og transjenter å delta i visse idretter, men det har ikke Minnesota.\n\nI søksmålet hevdet justisdepartementet at delstatens utdanningsdepartement og Minnesota State High School League bryter en føderal lov mot kjønnsdiskriminering i utdanningsprogrammer som får statlige midler.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Delstaten Minnesota og idrettsstyret for statens skoler ble mandag saksøkt av Trump-administrasjonen for å tillate transpersoner i kvinneidretten.\n\nSøksmålet er en del av en større strid om rettighetene til unge transpersoner. Over 20 delstater har lover som forbyr transkvinner og transjenter å...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump-administrasjonen-saksoker-delstat-for-a-tillate-transpersoner-i-jenteidrett-1.17831293",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-30T22:01:08.343Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774908066711.647,
-      "title": "Børsene ned i New York",
-      "slug": "brsene-ned-i-new-york",
-      "content": "Selv om New York-børsene steg da handelen åpnet mandag, endte de likevel med nedgang på grunn av uro for Iran-krigen og stadig stigende oljepriser.\n\nS&P-indeksen sank 0,4 prosent og Nasdaq var ned 0,7 prosent, mens Doiw Jones hadde en ørliten stigning på 0, 1 prosent. (NTB)",
-      "excerpt": "Selv om New York-børsene steg da handelen åpnet mandag, endte de likevel med nedgang på grunn av uro for Iran-krigen og stadig stigende oljepriser.\n\nS&P-indeksen sank 0,4 prosent og Nasdaq var ned 0,7 prosent, mens Doiw Jones hadde en ørliten stigning på 0, 1 prosent. (NTB)",
-      "image": "https://images.unsplash.com/photo-1697308364285-994346ce5e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ5MDgwNjZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/borsene-ned-i-new-york-1.17831300",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-30T22:01:06.711Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1774899476118.561,
-      "title": "Dieselbrølet varsler ny aksjon",
-      "slug": "dieselbrlet-varsler-ny-aksjon",
-      "content": "Dieselbrølet planlegger en demonstrasjon med hundrevis av kjøretøy i Oslo 10. april i protest mot høye drivstoffpriser, skriver Dagbladet.\n\nRegjeringen skal kutte drivstoffavgiftene fra 1. april, aksjonistene mener likevel at dette ikke er nok. De får støtte fra Rødt for kravet om statlig priskontroll.\n\n– Vi krever en makspris, eller «norgespris», på lik linje med strømprisene. 20 kroner literen for vanlig diesel og 15 for avgiftsfri diesel, sier fylkesleder Vidar Tellefsen i Dieselbrølet.\n\nTiltak mot høye drivstoffpriser\n\nPå grunn av krigen i Iran, har drivstoffprisene skutt i været. Senterpartiet sikret flertall for hastebehandling av et Høyre-forslag om billigere bensin. Alle de andre rødgrønne partiene stemte imot.",
-      "excerpt": "Dieselbrølet planlegger en demonstrasjon med hundrevis av kjøretøy i Oslo 10. april i protest mot høye drivstoffpriser, skriver Dagbladet.\n\nRegjeringen skal kutte drivstoffavgiftene fra 1. april, aksjonistene mener likevel at dette ikke er nok. De får støtte fra Rødt for kravet om statlig...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/dieselbrolet-varsler-ny-aksjon-1.17831149",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-03-30T19:37:56.118Z",
-      "published_at": "2026-03-30T20:05:11.366Z",
-      "status": "published"
     }
   ],
   "stats": {
-    "totalFetched": 230,
+    "totalFetched": 233,
     "totalPublished": 58,
-    "lastFetch": "2026-04-03T05:52:16.927Z",
+    "lastFetch": "2026-04-03T08:36:11.863Z",
     "lastPublish": "2026-04-02T22:20:31.392Z"
   }
 }
