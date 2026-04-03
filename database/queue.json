@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/nyt_-nok-et-amerikansk-jagerfly-styrtet-i-persiabukta-1.17834722",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-03T21:50:42.838Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-03T22:01:46.546Z",
+      "status": "published"
     },
     {
       "id": 1775253041327.7366,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 245,
-    "totalPublished": 62,
+    "totalPublished": 63,
     "lastFetch": "2026-04-03T21:50:44.111Z",
-    "lastPublish": "2026-04-03T19:55:23.343Z"
+    "lastPublish": "2026-04-03T22:01:47.131Z"
   }
 }
