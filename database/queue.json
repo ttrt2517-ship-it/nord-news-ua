@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1775343719857.0874,
+      "title": "Prinsesse Ingrid Alexandra er hjemme på påskeferie",
+      "slug": "prinsesse-ingrid-alexandra-er-hjemme-p-pskeferie",
+      "content": "Prinsesse Ingrid Alexandra har reist hjem til Norge på påskeferie, opplyser hoffet til VG.\n\n– Prinsessen er på privat påskeferie i Norge, skriver kommunikasjonssjef Guri Varpe i en epost til VG.\n\nHun opplyser videre at det er ferie på universitetet i Sydney, der prinsessen studerer, fordi studentene er halvveis i semesteret.\n\nDet er ikke kjent hvor i Norge prinsessen tilbringer ferien sin. (NTB)",
+      "excerpt": "Prinsesse Ingrid Alexandra har reist hjem til Norge på påskeferie, opplyser hoffet til VG.\n\n– Prinsessen er på privat påskeferie i Norge, skriver kommunikasjonssjef Guri Varpe i en epost til VG.\n\nHun opplyser videre at det er ferie på universitetet i Sydney, der prinsessen studerer, fordi...",
+      "image": "https://images.unsplash.com/photo-1607251747086-96b65d43deb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUzNDM3MTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/-prinsesse-ingrid-alexandra-er-hjemme-pa-paskeferie-1.17835236",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-04T23:01:59.857Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775343718105.8564,
+      "title": "17-åring mistet livet i snøskred på Grønland",
+      "slug": "17ring-mistet-livet-i-snskred-p-grnland",
+      "content": "Fire personer ble tatt av et større snøskred utenfor Nuuk lørdag og ble fraktet til sykehus. En 17 år gammel gutt er døde på sykehus.\n\nDe fire personene ble funnet nedkjølt i snøen rundt klokken 17.30 lokal tid, som tilsvarer klokken 20.30 norsk tid. (NTB)\n\nGrønland\n\nGrønland er en del av Danmark, men har selvstyre. Landet har den siste tiden vært under stort press etter at Donald Trump har truet med at USA skal overta øya.",
+      "excerpt": "Fire personer ble tatt av et større snøskred utenfor Nuuk lørdag og ble fraktet til sykehus. En 17 år gammel gutt er døde på sykehus.\n\nDe fire personene ble funnet nedkjølt i snøen rundt klokken 17.30 lokal tid, som tilsvarer klokken 20.30 norsk tid. (NTB)\n\nGrønland\n\nGrønland er en del av Danmark...",
+      "image": "https://images.unsplash.com/photo-1642508168789-010f910ce590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUzNDM3MTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/17-aring-mistet-livet-i-snoskred-pa-gronland-1.17835241",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-04T23:01:58.105Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1775336594344.2056,
       "title": "Fire personer fraktet til sykehus etter snøskred på Grønland",
       "slug": "fire-personer-fraktet-til-sykehus-etter-snskred-p-grnland",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-04-02T05:52:04.755Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1775109123125.191,
-      "title": "FBI har ankommet Cuba for å etterforske båtskyting",
-      "slug": "fbi-har-ankommet-cuba-for-etterforske-btskyting",
-      "content": "Etterforskere fra USAs føderale politi FBI har ankommet Cuba for å granske hva som skjedde da ti eksilcubanere ankom øya og havnet i skuddveksling med den cubanske kystvakten.\n\nFire eksilcubanere ble skutt og drept. De øvrige seks, som ble såret, er i cubansk varetekt og får medisinsk behandling, har Cuba sagt.\n\nBåde Cuba og USA har varslet etterforskning, og USA har ifølge Cuba sagt de vil samarbeide om å oppklare hendelsen. (NTB)",
-      "excerpt": "Etterforskere fra USAs føderale politi FBI har ankommet Cuba for å granske hva som skjedde da ti eksilcubanere ankom øya og havnet i skuddveksling med den cubanske kystvakten.\n\nFire eksilcubanere ble skutt og drept. De øvrige seks, som ble såret, er i cubansk varetekt og får medisinsk behandling...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/fbi-har-ankommet-cuba-for-a-etterforske-batskyting-1.17833852",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-02T05:52:03.125Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1775080905090.6848,
-      "title": "Natos generalsekretær skal møte Trump i USA",
-      "slug": "natos-generalsekretr-skal-mte-trump-i-usa",
-      "content": "Natos generalsekretær Mark Rutte skal ifølge Wall Street Journal møte USAs president neste uke. Det melder Reuters. En talsperson for Nato sier at besøket har vært planlagt lenge.\n\nTrump har sagt at han sterkt vurderer å trekke USA ut av forsvarsalliansen. Han er skuffa over at Nato ikke vil hjelpe USA i krigen i Midtøsten.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Natos generalsekretær Mark Rutte skal ifølge Wall Street Journal møte USAs president neste uke. Det melder Reuters. En talsperson for Nato sier at besøket har vært planlagt lenge.\n\nTrump har sagt at han sterkt vurderer å trekke USA ut av forsvarsalliansen. Han er skuffa over at Nato ikke vil hjelpe...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/natos-generalsekretaer-skal-mote-trump-i-usa-1.17833809",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-01T22:01:45.090Z",
-      "published_at": "2026-04-01T23:00:26.489Z",
-      "status": "published"
     }
   ],
   "stats": {
-    "totalFetched": 262,
+    "totalFetched": 264,
     "totalPublished": 67,
-    "lastFetch": "2026-04-04T21:03:15.710Z",
+    "lastFetch": "2026-04-04T23:02:01.194Z",
     "lastPublish": "2026-04-04T21:57:36.647Z"
   }
 }
