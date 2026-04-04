@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/innforer-kolonnekjoring-over-hardangervidda-1.17834781",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-04T08:01:22.974Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-04T10:56:08.686Z",
+      "status": "published"
     },
     {
       "id": 1775279723819.143,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 251,
-    "totalPublished": 63,
+    "totalPublished": 64,
     "lastFetch": "2026-04-04T08:01:24.339Z",
-    "lastPublish": "2026-04-03T22:01:47.131Z"
+    "lastPublish": "2026-04-04T10:56:09.803Z"
   }
 }
