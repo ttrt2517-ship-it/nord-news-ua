@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/zelenskyj-moter-erdogan-i-istanbul-1.17834990",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-04T14:04:20.121Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-04T15:59:30.030Z",
+      "status": "published"
     },
     {
       "id": 1775311458643.6467,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 256,
-    "totalPublished": 65,
+    "totalPublished": 66,
     "lastFetch": "2026-04-04T14:04:21.446Z",
-    "lastPublish": "2026-04-04T14:03:36.942Z"
+    "lastPublish": "2026-04-04T15:59:30.586Z"
   }
 }
