@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/nyheter/fem-drept-og-19-saret-etter-russisk-angrep-pa-et-marked-i-ukraina-1.17834885",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-04T11:04:19.116Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-04T14:03:36.181Z",
+      "status": "published"
     },
     {
       "id": 1775300657611.4512,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 253,
-    "totalPublished": 64,
+    "totalPublished": 65,
     "lastFetch": "2026-04-04T11:04:20.472Z",
-    "lastPublish": "2026-04-04T10:56:09.803Z"
+    "lastPublish": "2026-04-04T14:03:36.942Z"
   }
 }
