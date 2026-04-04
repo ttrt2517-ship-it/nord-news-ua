@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1775331958398.4678,
+      "title": "Have your say: How are Norway&#039;s UDI waiting times affecting you?",
+      "slug": "have-your-say-how-are-norway039s-udi-waiting-times-affecting",
+      "content": "Has your life in Norway been put on hold because you have been left waiting for months and months for the Norwegian Directorate of Immigration (UDI) to resolve you case? We want to hear from you.\n\nWaiting for the UDI to conclude your immigration case often means spending over a year and a half unable to truly begin your new life in Norway.\n\nForeigners in Norway can be left stuck both legally and professionally waiting for their cases to be resolved.\n\nAccording to the official UDI  website, as of today, between March 1st, 2026, and May 1st, 2026, the authorities will be processing applications for first-time family immigration submitted up to November 1st, 2024.\n\nThis represents a staggering 17 to 18 month wait, showing that the current outlook is grim.\n\nBut does the official timeline reflect the reality on the ground?  We want to find out if the estimates provided by the immigration authorities are accurate or if the wait is even longer in practice.\n\nAre you still anxiously checking your email, expecting an answer that never seems to arrive? How has the long wait impacted your life in Norway?\n\nPlease take a few minutes to fill out our survey below. Your insights help us share the real story of the immigration process in Norway today. Click here if the survey does not appear below.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
+      "excerpt": "Has your life in Norway been put on hold because you have been left waiting for months and months for the Norwegian Directorate of Immigration (UDI) to resolve you case? We want to hear from you.\n\nWaiting for the UDI to conclude your immigration case often means spending over a year and a half...",
+      "image": null,
+      "original_url": "https://www.thelocal.no/20260401/have-your-say-how-are-norways-udi-waiting-times-affecting-you",
+      "source_name": "The Local Norway",
+      "fetched_at": "2026-04-04T19:45:58.398Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1775324955037.1602,
       "title": "Trump: Iran har 48 timer på seg før «helvete bryter løs»",
       "slug": "trump-iran-har-48-timer-p-seg-fr-helvete-bryter-ls",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-01T19:46:06.989Z",
       "published_at": "2026-04-01T20:07:52.957Z",
       "status": "published"
-    },
-    {
-      "id": 1775072763850.1863,
-      "title": "Zelenskyj i positive samtaler USA og NATO",
-      "slug": "zelenskyj-i-positive-samtaler-usa-og-nato",
-      "content": "Ukrainas president Volodymyr Zelenskyj møtte de amerikanske forhandlerne Steve Witkoff og Jared Kushner. Han omtaler samtalen som «positiv».\n\nSamtalen dreide seg om konkrete skritt for å stanse krigen mellom Ukraina og Russland og sikkerhetsgarantier.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ukrainas president Volodymyr Zelenskyj møtte de amerikanske forhandlerne Steve Witkoff og Jared Kushner. Han omtaler samtalen som «positiv».\n\nSamtalen dreide seg om konkrete skritt for å stanse krigen mellom Ukraina og Russland og sikkerhetsgarantier.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/zelenskyj-i-positive-samtaler-usa-og-nato-1.17833654",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-01T19:46:03.851Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 259,
+    "totalFetched": 260,
     "totalPublished": 66,
-    "lastFetch": "2026-04-04T17:49:16.889Z",
+    "lastFetch": "2026-04-04T19:45:59.399Z",
     "lastPublish": "2026-04-04T15:59:30.586Z"
   }
 }
