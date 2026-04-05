@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1775430281049.9143,
+      "title": "Tre drept i angrep øst i Beirut",
+      "slug": "tre-drept-i-angrep-st-i-beirut",
+      "content": "Tre mennesker er drept i et angrep mot en blokk øst i Beirut søndag, det opplyser libanesiske helsemyndigheter.\n\nTre ble såret i det israelske angrepet, sa myndighetene i en uttalelse, melder AFP.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
+      "excerpt": "Tre mennesker er drept i et angrep mot en blokk øst i Beirut søndag, det opplyser libanesiske helsemyndigheter.\n\nTre ble såret i det israelske angrepet, sa myndighetene i en uttalelse, melder AFP.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de...",
+      "image": "https://images.unsplash.com/photo-1599847740927-599426b94713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU0MzAyODB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/tre-drept-i-angrep-ost-i-beirut-1.17835842",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-05T23:04:41.049Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775430279365.265,
+      "title": "Oljeprisen stiger",
+      "slug": "oljeprisen-stiger",
+      "content": "Oljeprisene stiger etter tre dagers handelspause, skriver DN.\n\nDa markedene åpnet gikk nordsjøolje opp til over 110 dollar fatet, og amerikansk lettolje til 113 dollar fatet, melder AFP.\n\nYtterligere trusler fra Trump mot Iran, flere angrep i Midtøsten og at Hormuz-stredet fortsatt er stengt er bakgrunnen.\n\nOljeprisen\n\nPrisen på nordsjøolje svinger kraftig, og er nå på det laveste nivået på 15 måneder. OPEC+-landene har blitt enige om å kutte i oljeproduksjonen. Saudi-Arabia og Russland vil begge kutte 500.000 fat daglig fra mai 2023.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
+      "excerpt": "Oljeprisene stiger etter tre dagers handelspause, skriver DN.\n\nDa markedene åpnet gikk nordsjøolje opp til over 110 dollar fatet, og amerikansk lettolje til 113 dollar fatet, melder AFP.\n\nYtterligere trusler fra Trump mot Iran, flere angrep i Midtøsten og at Hormuz-stredet fortsatt er stengt er...",
+      "image": "https://images.unsplash.com/photo-1645517219254-39728203ae84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU0MzAyNzl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/oljeprisen-stiger-1.17835846",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-05T23:04:39.365Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1775422992330.7266,
       "title": "E18 i Kristiansand har åpnet for trafikk",
       "slug": "e18-i-kristiansand-har-pnet-for-trafikk",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-04-03T05:52:12.156Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1775171130858.7996,
-      "title": "Tyskland: Kastet paintball-granat inne i tog – flere skadet",
-      "slug": "tyskland-kastet-paintballgranat-inne-i-tog-flere-skadet",
-      "content": "Flere passasjerer ble lettere skadet da en mann truet med angrep og kastet paintball-granat inne i et tysk lokaltog på vei fra Köln til Frankfurt.\n\nTre personer ble lettere skadet, skriver Bild. Avisen skriver at mannen var utstyrt med en kniv og truet med et angrep, i alt 500 passasjerer ble evakuert.\n\nPassasjerer på toget fikk stengt mannen inne på et toalett før han ble pågrepet da toget var nær Bonn. (NTB)",
-      "excerpt": "Flere passasjerer ble lettere skadet da en mann truet med angrep og kastet paintball-granat inne i et tysk lokaltog på vei fra Köln til Frankfurt.\n\nTre personer ble lettere skadet, skriver Bild. Avisen skriver at mannen var utstyrt med en kniv og truet med et angrep, i alt 500 passasjerer ble...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/tyskland_-kastet-paintball-granat-inne-i-tog-_-flere-skadet-1.17834331",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-02T23:05:30.858Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1775171129387.7515,
-      "title": "Svensk domstol: Elleveåring tok på seg drapsoppdrag",
-      "slug": "svensk-domstol-ellevering-tok-p-seg-drapsoppdrag",
-      "content": "En elleve år gammel gutt fra Västerbotten i Sverige tok på seg et drapsoppdrag sammen med en venn, ifølge en dom i Sverige.\n\nPlanen var å reise til Gävle-området rundt jul 2025 for å gjennomføre drapet. Litt over to timer før de to skulle gå på toget, trakk gutten seg, skriver Expressen.\n\nSaken ble behandlet i forvaltningsretten tar for seg tvister og vedtak mellom folk og det offentlige, som vedtak fra sosialtjenesten, og ikke vanlige straffesaker. (NTB)\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "En elleve år gammel gutt fra Västerbotten i Sverige tok på seg et drapsoppdrag sammen med en venn, ifølge en dom i Sverige.\n\nPlanen var å reise til Gävle-området rundt jul 2025 for å gjennomføre drapet. Litt over to timer før de to skulle gå på toget, trakk gutten seg, skriver Expressen.\n\nSaken ble...",
-      "image": "https://images.unsplash.com/photo-1571073056031-6e871b6c5013?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUxNzExMjl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/svensk-domstol_-ellevearing-tok-pa-seg-drapsoppdrag-1.17834333",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-02T23:05:29.387Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 275,
+    "totalFetched": 277,
     "totalPublished": 72,
-    "lastFetch": "2026-04-05T21:03:14.421Z",
+    "lastFetch": "2026-04-05T23:04:42.807Z",
     "lastPublish": "2026-04-05T21:58:05.526Z"
   }
 }
