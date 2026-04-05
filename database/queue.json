@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/sorlandet/e18-er-helt-stengt-i-kristiansand-1.17835724",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-05T17:18:42.434Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-05T19:50:35.701Z",
+      "status": "published"
     },
     {
       "id": 1775409521003.3452,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 273,
-    "totalPublished": 70,
+    "totalPublished": 71,
     "lastFetch": "2026-04-05T17:18:43.864Z",
-    "lastPublish": "2026-04-05T16:02:29.566Z"
+    "lastPublish": "2026-04-05T19:50:36.168Z"
   }
 }
