@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1775376318402.8445,
+      "title": "Iran: Fem drept i angrep under amerikansk redningsaksjon",
+      "slug": "iran-fem-drept-i-angrep-under-amerikansk-redningsaksjon",
+      "content": "Fem personer ble drept i et angrep i det sørvestlige Iran natt til søndag, ifølge iranske medier.\n\nAngrepet skal ha skjedd mens amerikanske styrker gjennomførte en redningsaksjon etter at en pilot ble savnet da et amerikansk jagerfly ble skutt ned fredag.\n\nPiloten som var sakna etter at eit amerikansk jagarfly blei skoten ned over Iran fredag, er henta ut av Iran.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
+      "excerpt": "Fem personer ble drept i et angrep i det sørvestlige Iran natt til søndag, ifølge iranske medier.\n\nAngrepet skal ha skjedd mens amerikanske styrker gjennomførte en redningsaksjon etter at en pilot ble savnet da et amerikansk jagerfly ble skutt ned fredag.\n\nPiloten som var sakna etter at eit...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/iran_-fem-drept-i-angrep-under-amerikansk-redningsaksjon-1.17835332",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-05T08:05:18.402Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1775368616013.1165,
       "title": "Fylkesvei over Hol-Aurland stengt",
       "slug": "fylkesvei-over-holaurland-stengt",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-02T09:41:36.971Z",
       "published_at": "2026-04-02T11:35:13.248Z",
       "status": "published"
-    },
-    {
-      "id": 1775122895464.2769,
-      "title": "Nordmenn på plass i Strømstad",
-      "slug": "nordmenn-p-plass-i-strmstad",
-      "content": "De første nordmennene er skjærtorsdag på plass i Strømstad.\n\nDagen er en populær utfartsdag for nordmenn som reiser til Sverige.\n\nMens skjærtorsdag er helligdag i Norge, er svenske butikker åpne.\n\nDet er ventet ekstra mange nordmenn til Sverige i år fordi svenske myndigheter har redusert avgifter på mat og drivstoff på grunn av høyt prisnivå.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "De første nordmennene er skjærtorsdag på plass i Strømstad.\n\nDagen er en populær utfartsdag for nordmenn som reiser til Sverige.\n\nMens skjærtorsdag er helligdag i Norge, er svenske butikker åpne.\n\nDet er ventet ekstra mange nordmenn til Sverige i år fordi svenske myndigheter har redusert avgifter...",
-      "image": "https://images.unsplash.com/photo-1697308364285-994346ce5e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUxMjI4OTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/nordmenn-pa-plass-i-stromstad-1.17833999",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-02T09:41:35.465Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 267,
+    "totalFetched": 268,
     "totalPublished": 67,
-    "lastFetch": "2026-04-05T05:56:57.919Z",
+    "lastFetch": "2026-04-05T08:05:20.206Z",
     "lastPublish": "2026-04-04T21:57:36.647Z"
   }
 }
