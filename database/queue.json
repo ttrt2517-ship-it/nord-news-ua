@@ -23,8 +23,8 @@
       "original_url": "https://www.nrk.no/innlandet/buss-med-17-personer-veltet_-e6-stengt-i-begge-retninger--1.17835397",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-05T11:18:29.150Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-05T16:02:28.545Z",
+      "status": "published"
     },
     {
       "id": 1775376318402.8445,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 270,
-    "totalPublished": 69,
+    "totalPublished": 70,
     "lastFetch": "2026-04-05T11:18:32.102Z",
-    "lastPublish": "2026-04-05T14:05:14.677Z"
+    "lastPublish": "2026-04-05T16:02:29.566Z"
   }
 }
