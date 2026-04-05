@@ -10,8 +10,8 @@
       "original_url": "https://www.nrk.no/rogaland/voldshendelse-i-sandnes_-_-skal-vaere-stukket-med-skarp-gjenstand-1.17835386",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-05T11:18:30.780Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-05T14:05:14.047Z",
+      "status": "published"
     },
     {
       "id": 1775387909150.8513,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 270,
-    "totalPublished": 68,
+    "totalPublished": 69,
     "lastFetch": "2026-04-05T11:18:32.102Z",
-    "lastPublish": "2026-04-05T10:58:14.678Z"
+    "lastPublish": "2026-04-05T14:05:14.677Z"
   }
 }
