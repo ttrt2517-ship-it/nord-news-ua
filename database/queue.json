@@ -23,8 +23,8 @@
       "original_url": "https://www.nrk.no/rogaland/fv.-450-hunnedalsvegen-apen-igjen--1.17836099",
       "source_name": "NRK Nyheter",
       "fetched_at": "2026-04-06T11:14:52.244Z",
-      "published_at": null,
-      "status": "pending"
+      "published_at": "2026-04-06T14:38:12.203Z",
+      "status": "published"
     },
     {
       "id": 1775474090664.3308,
@@ -653,8 +653,8 @@
   ],
   "stats": {
     "totalFetched": 283,
-    "totalPublished": 73,
+    "totalPublished": 74,
     "lastFetch": "2026-04-06T11:14:55.408Z",
-    "lastPublish": "2026-04-06T11:38:54.879Z"
+    "lastPublish": "2026-04-06T14:38:12.676Z"
   }
 }
