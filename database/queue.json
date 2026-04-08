@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1775628375384.092,
+      "title": "Eide positiv til våpenhvile",
+      "slug": "eide-positiv-til-vpenhvile",
+      "content": "– Meldingene om at Iran og USA har oppnådd enighet om en to uker lang våpenhvile, er et viktig og velkomment framskritt, sier utenriksminister Espen Barth Eide (Ap).\n\n– Dette betyr at diplomatiet får en reell sjanse, på et tidspunkt der alternativet hadde vært en kraftig opptrapping av en svært ødeleggende krig, sier han.\n\nUtenriksministeren roser Pakistans innsats som tilrettelegger for dialog mellom partene.\n\n– En våpenhvile er ikke det samme som fred, og det er langt igjen til vi kan konstatere at krigen er over. Nå må partene vise maksimal tilbakeholdenhet og bruke denne muligheten til å finne en diplomatisk løsning til det fulle, sier Eide.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
+      "excerpt": "– Meldingene om at Iran og USA har oppnådd enighet om en to uker lang våpenhvile, er et viktig og velkomment framskritt, sier utenriksminister Espen Barth Eide (Ap).\n\n– Dette betyr at diplomatiet får en reell sjanse, på et tidspunkt der alternativet hadde vært en kraftig opptrapping av en svært...",
+      "image": "https://images.unsplash.com/photo-1536683402757-75f8d0dfa419?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU2MjgzNzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/eide-positiv-til-vapenhvile-1.17837938",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-08T06:06:15.384Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775628373774.4556,
+      "title": "Telenor saksøkes for minst 130 millioner kroner av kunder i Myanmar",
+      "slug": "telenor-sakskes-for-minst-130-millioner-kroner-av-kunder-i-m",
+      "content": "Telenor-kunder i Myanmar mener selskapet delte sensitiv kundedata med landets militære etter kuppet i 2021. De krever minst 130 millioner kroner i erstatning.\n\nDen svenske ideelle organisasjonen Justice and Accountability Initiative (JAI) leverer onsdag inn et gruppesøksmål på vegne av Telenor-kunder i Myanmar.\n\nDe mener den norske telegiganten delte sensitiv kundedata med landets militære etter kuppet i 2021 og knytter datadelingene til alvorlige menneskerettighetsbrudd.\n\n– Vi har ikke kjennskap til noe søksmål. Vi har derfor ikke grunnlag for å kommentere påstandene eller kravene som omtales, skriver informasjonssjef David Fidjeland i Telenor Group i en e-post til Dagens Næringsliv.\n\nMyanmar\n\nMyanmar har vært preget av kaos, kamper og uro etter at militæret grep makten i et kupp i februar 2021 og satte landets leder Aung San Suu Kyi i husarrest. Etter kuppet har det vært store folkelige protester.",
+      "excerpt": "Telenor-kunder i Myanmar mener selskapet delte sensitiv kundedata med landets militære etter kuppet i 2021. De krever minst 130 millioner kroner i erstatning.\n\nDen svenske ideelle organisasjonen Justice and Accountability Initiative (JAI) leverer onsdag inn et gruppesøksmål på vegne av...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/telenor-saksokes-for-minst-130-millioner-kroner-av-kunder-i-myanmar-1.17837972",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-08T06:06:13.774Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775628372169.3743,
+      "title": "Alvorlig trafikkulykke ved Alna i Oslo",
+      "slug": "alvorlig-trafikkulykke-ved-alna-i-oslo",
+      "content": "En fotgjenger er påkjørt på Strømsveien ved Alna i Oslo.\n\nStrømsveien er stengt mellom Brobekkveien og rundkjøringen ved Alnasenteret, skriver politiet.\n\nPolitiet har kontroll på føreren av bilen, som er på stedet.\n\nDet var en personbil som kjørte på fotgjengeren, forteller operasjonsleder Vidar Pedersen.",
+      "excerpt": "En fotgjenger er påkjørt på Strømsveien ved Alna i Oslo.\n\nStrømsveien er stengt mellom Brobekkveien og rundkjøringen ved Alnasenteret, skriver politiet.\n\nPolitiet har kontroll på føreren av bilen, som er på stedet.\n\nDet var en personbil som kjørte på fotgjengeren, forteller operasjonsleder Vidar...",
+      "image": "https://images.unsplash.com/photo-1690379722139-7e8bb3bef93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU2MjgzNzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/alvorlig-trafikkulykke-ved-alna-i-oslo-1.17837903",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-08T06:06:12.169Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1775606157203.5015,
       "title": "Iran: – Samtalene betyr ikke at krigen er over",
       "slug": "iran-samtalene-betyr-ikke-at-krigen-er-over",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-04T19:45:58.398Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1775324955037.1602,
-      "title": "Trump: Iran har 48 timer på seg før «helvete bryter løs»",
-      "slug": "trump-iran-har-48-timer-p-seg-fr-helvete-bryter-ls",
-      "content": "– Husker dere da jeg ga Iran ti dager til å INNGÅ EN AVTALE eller ÅPNE HORMUZSTREDET. Tiden renner ut – 48 timer før helvete bryter løs, skriver USAs president Donald Trump på sitt eget sosiale medium Truth Social lørdag ettermiddag.\n\nTrump har ved flere anledninger truet Iran med store konsekvenser om ikke de går med på en avtale for å avslutte krigen i Midtøsten, som startet etter at Israel og USA gikk til angrep på Iran.\n\nIfølge The Wall Street Journal har forhandlingene mellom Iran og USA gått i stå. Iran skal ha gitt uttrykk for at de amerikanske kravene er uakseptable, skrev NTB fredag.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
-      "excerpt": "– Husker dere da jeg ga Iran ti dager til å INNGÅ EN AVTALE eller ÅPNE HORMUZSTREDET. Tiden renner ut – 48 timer før helvete bryter løs, skriver USAs president Donald Trump på sitt eget sosiale medium Truth Social lørdag ettermiddag.\n\nTrump har ved flere anledninger truet Iran med store...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump_-iran-har-48-timer-pa-seg-for-_helvete-bryter-los_-1.17835086",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-04T17:49:15.037Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1775324953409.0723,
-      "title": "Motorsyklist fraktes med ambulanse",
-      "slug": "motorsyklist-fraktes-med-ambulanse",
-      "content": "En motorsyklist i 20-årene blir kjørt til Arendal sykehus med ambulanse etter å ha vært i en enslig trafikkulykke i Risør.\n\n– Det fremstår som en alvorlig ulykke, skadeomfanget er ikke kjent for politiet, sier operasjonsleder Ole Robert Strandhagen.\n\nPolitiet har avhørt vitner og gjort undersøkelser på stedet.\n\nPolitiloggen i Agder\n\nHendelser i Agder politidistrikt.",
-      "excerpt": "En motorsyklist i 20-årene blir kjørt til Arendal sykehus med ambulanse etter å ha vært i en enslig trafikkulykke i Risør.\n\n– Det fremstår som en alvorlig ulykke, skadeomfanget er ikke kjent for politiet, sier operasjonsleder Ole Robert Strandhagen.\n\nPolitiet har avhørt vitner og gjort...",
-      "image": "https://images.unsplash.com/photo-1761582363392-7493c9e1d895?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUzMjQ5NTN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/sorlandet/motorsyklist-fraktes-med-ambulanse-1.17835079",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-04T17:49:13.409Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1775324951723.182,
-      "title": "Trafikkulykke i Øygarden: – Fremstår alvorlig",
-      "slug": "trafikkulykke-i-ygarden-fremstr-alvorlig",
-      "content": "To personer er fraktet til Haukeland sykehus, etter at en ATV skal ha krasjet i en vegg i Øygarden.\n\n– Ulykken fremstår alvorlig, melder politiets operasjonsleder Terje Magnussen.\n\n– Det er for tidlig å konkludere med årsaken. Politiet vil nå undersøke med vitner og andre på stedet som kan ha opplysninger i saken, melder Magnussen.",
-      "excerpt": "To personer er fraktet til Haukeland sykehus, etter at en ATV skal ha krasjet i en vegg i Øygarden.\n\n– Ulykken fremstår alvorlig, melder politiets operasjonsleder Terje Magnussen.\n\n– Det er for tidlig å konkludere med årsaken. Politiet vil nå undersøke med vitner og andre på stedet som kan ha...",
-      "image": null,
-      "original_url": "https://www.nrk.no/vestland/trafikkulykke-i-oygarden_-_-fremstar-alvorlig-1.17835091",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-04T17:49:11.723Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 306,
+    "totalFetched": 309,
     "totalPublished": 77,
-    "lastFetch": "2026-04-07T23:55:58.830Z",
+    "lastFetch": "2026-04-08T06:06:17.299Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
