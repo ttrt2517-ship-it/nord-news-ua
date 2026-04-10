@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1775860809296.2568,
+      "title": "Tesla får godkjent selvkjøring i Nederland",
+      "slug": "tesla-fr-godkjent-selvkjring-i-nederland",
+      "content": "Tesla har fått grønt lys til å rulle ut sitt selvkjøringssystem, Full Self-Driving (FSD), i Nederland. Dette skjer etter at nederlandske veimyndigheter har godkjent systemet, skriver nyhetsbyrået Reuters.\n\nSelskapet opplyser at de vil begynne utrullingen til nederlandske kunder om kort tid. FSD er et avansert førerassistentsystem, men sjåføren må fortsatt følge med og være klar til å ta over kontrollen. Nederland blir dermed et av de første landene i Europa som tar i bruk teknologien.\n\nDet nederlandske tilsynet RDW mener at Teslas selvkjøringssystem (FSD) øker trafikksikkerheten dersom det brukes riktig.\n\nTesla\n\nTesla, Inc. er et amerikansk bil-, programvare- og energiselskap. Selskapet produserer elbiler, solcellepaneler, og batteripakker.. De utvikler også programvare til biler og solcellepaneler. Administrerende direktør for selskapet er Elon Musk.",
+      "excerpt": "Tesla har fått grønt lys til å rulle ut sitt selvkjøringssystem, Full Self-Driving (FSD), i Nederland. Dette skjer etter at nederlandske veimyndigheter har godkjent systemet, skriver nyhetsbyrået Reuters.\n\nSelskapet opplyser at de vil begynne utrullingen til nederlandske kunder om kort tid. FSD er...",
+      "image": "https://images.unsplash.com/photo-1628249690479-60562feb2aba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4NjA4MDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/tesla-far-godkjent-selvkjoring-i-nederland-1.17842569",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-10T22:40:09.296Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1775853646412.4153,
       "title": "Det svenske forsvaret følger etter russisk ubåt",
       "slug": "det-svenske-forsvaret-flger-etter-russisk-ubt",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-08T11:33:23.212Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1775648001589.06,
-      "title": "Israel har gjennomført nye angrep mot Beirut",
-      "slug": "israel-har-gjennomfrt-nye-angrep-mot-beirut",
-      "content": "Det israelske militæret (IDF) bekrefter at de har gjennomført omfattende flyangrep mot Libanons hovedstad Beirut onsdag ettermiddag.\n\nIDF hevder angrepene har vært rettet mot militær infrastruktur og kommandosenter tilhørende Hizbollah, skriver Reuters.\n\nOgså libanesiske medier melder om en rekke angrep mot Beirut.\n\nTidligere onsdag gjennomførte Israel også flere angrep mot Sør-Libanon, deriblant mot byen Tyr, der innbyggere ble beordret til å forlate hjemmene sine.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.\n\nLibanon\n\nSpenningen mellom Israel og Libanon har tilspisset seg etter krigen mellom Israel og Hamas. Den Iran-støttede Hizbollah-militsen og Israel har gjennomført gjentatte angrep på tvers av grensen. I november 2024 ble det inngått våpenhvile.",
-      "excerpt": "Det israelske militæret (IDF) bekrefter at de har gjennomført omfattende flyangrep mot Libanons hovedstad Beirut onsdag ettermiddag.\n\nIDF hevder angrepene har vært rettet mot militær infrastruktur og kommandosenter tilhørende Hizbollah, skriver Reuters.\n\nOgså libanesiske medier melder om en rekke...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/israel-har-gjennomfort-nye-angrep-mot-beirut-1.17838609",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-08T11:33:21.589Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 359,
+    "totalFetched": 360,
     "totalPublished": 77,
-    "lastFetch": "2026-04-10T20:40:47.734Z",
+    "lastFetch": "2026-04-10T22:40:10.668Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
