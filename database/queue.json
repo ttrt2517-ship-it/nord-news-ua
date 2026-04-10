@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1775853646412.4153,
+      "title": "Det svenske forsvaret følger etter russisk ubåt",
+      "slug": "det-svenske-forsvaret-flger-etter-russisk-ubt",
+      "content": "Det svenske forsvaret følger en russisk ubåt på vei inn i Østersjøen.\n\n– Fredag møtte et jagerfly av typen JAS 39 Gripen en russisk ubåt i Kilo-klassen i Kattegat. Sammen med allierte følger Forsvaret nå ubåtens videre rute inn i Østersjøen, opplyser det svenske forsvaret i en pressemelding.\n\nUåten har ikke krenket svensk farvann, og det beskrives som et rutineoppdrag, skriver Göteborg-Posten.\n\n– Innsatsen er en del av vår rutinevirksomhet for å opprettholde Forsvarets gode situasjonsforståelse i våre nærområder og sikre svensk og alliert territoriell integritet, heter det videre.\n\nMeldingen kommer dagen etter at det ble kjent at britisk og norsk forsvar avslørte en russisk angrepsubåt og to spionubåter nær undersjøiske kabler og rørledninger i Nordsjøen.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
+      "excerpt": "Det svenske forsvaret følger en russisk ubåt på vei inn i Østersjøen.\n\n– Fredag møtte et jagerfly av typen JAS 39 Gripen en russisk ubåt i Kilo-klassen i Kattegat. Sammen med allierte følger Forsvaret nå ubåtens videre rute inn i Østersjøen, opplyser det svenske forsvaret i en pressemelding.\n\nUåten...",
+      "image": "https://images.unsplash.com/photo-1616523642685-929b08111a83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4NTM2NDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/det-svenske-forsvaret-folger-etter-russisk-ubat-1.17842549",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-10T20:40:46.413Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1775847463075.8582,
       "title": "Politiet rykket ut etter melding om voldshendelse i Enebakk",
       "slug": "politiet-rykket-ut-etter-melding-om-voldshendelse-i-enebakk",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-08T11:33:21.589Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1775628375384.092,
-      "title": "Eide positiv til våpenhvile",
-      "slug": "eide-positiv-til-vpenhvile",
-      "content": "– Meldingene om at Iran og USA har oppnådd enighet om en to uker lang våpenhvile, er et viktig og velkomment framskritt, sier utenriksminister Espen Barth Eide (Ap).\n\n– Dette betyr at diplomatiet får en reell sjanse, på et tidspunkt der alternativet hadde vært en kraftig opptrapping av en svært ødeleggende krig, sier han.\n\nUtenriksministeren roser Pakistans innsats som tilrettelegger for dialog mellom partene.\n\n– En våpenhvile er ikke det samme som fred, og det er langt igjen til vi kan konstatere at krigen er over. Nå må partene vise maksimal tilbakeholdenhet og bruke denne muligheten til å finne en diplomatisk løsning til det fulle, sier Eide.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
-      "excerpt": "– Meldingene om at Iran og USA har oppnådd enighet om en to uker lang våpenhvile, er et viktig og velkomment framskritt, sier utenriksminister Espen Barth Eide (Ap).\n\n– Dette betyr at diplomatiet får en reell sjanse, på et tidspunkt der alternativet hadde vært en kraftig opptrapping av en svært...",
-      "image": "https://images.unsplash.com/photo-1536683402757-75f8d0dfa419?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU2MjgzNzV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/eide-positiv-til-vapenhvile-1.17837938",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-08T06:06:15.384Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 358,
+    "totalFetched": 359,
     "totalPublished": 77,
-    "lastFetch": "2026-04-10T18:57:44.392Z",
+    "lastFetch": "2026-04-10T20:40:47.734Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
