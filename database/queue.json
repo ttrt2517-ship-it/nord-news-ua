@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1775847463075.8582,
+      "title": "Politiet rykket ut etter melding om voldshendelse i Enebakk",
+      "slug": "politiet-rykket-ut-etter-melding-om-voldshendelse-i-enebakk",
+      "content": "Politiet rykket fredag kveld ut til Enebakk etter melding om en alvorlig voldshendelse.\n\n– Innledningsvis fikk vi melding om mulig knivstikking og livløs person uten pust og puls, skriver operasjonsleder Fredrik Solbakken.\n\nHan opplyser videre at da politiet kom til stedet fremsto det ikke som dette var tilfellet, men at en person hadde en liten rift i kinnet.\n\n– Vedkommende puster og vi jobber med å avklare hva som faktisk har hendt.",
+      "excerpt": "Politiet rykket fredag kveld ut til Enebakk etter melding om en alvorlig voldshendelse.\n\n– Innledningsvis fikk vi melding om mulig knivstikking og livløs person uten pust og puls, skriver operasjonsleder Fredrik Solbakken.\n\nHan opplyser videre at da politiet kom til stedet fremsto det ikke som...",
+      "image": "https://images.unsplash.com/photo-1692739854102-fb8e73db12be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4NDc0NjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/politiet-rykket-ut-etter-melding-om-voldshendelse-i-enebakk-1.17842339",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-10T18:57:43.075Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775847461584.7769,
+      "title": "Libanon: Dødstallet fra onsdagens angrep oppjustert",
+      "slug": "libanon-ddstallet-fra-onsdagens-angrep-oppjustert",
+      "content": "Det libanesiske helsedepartementet har fredag oppdatert dødstallene etter onsdagens israelske luftangrepet til 357 personer.\n\nTorsdag var tallet 303 – et tall som allerede var oppjustert fra den opprinnelige rapporten om 254 drepte.\n\nIsrael gjennomførte onsdag over 100 angrep mot Libanon på ti minutter.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
+      "excerpt": "Det libanesiske helsedepartementet har fredag oppdatert dødstallene etter onsdagens israelske luftangrepet til 357 personer.\n\nTorsdag var tallet 303 – et tall som allerede var oppjustert fra den opprinnelige rapporten om 254 drepte.\n\nIsrael gjennomførte onsdag over 100 angrep mot Libanon på ti...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/libanon_-dodstallet-fra-onsdagens-angrep-oppjustert-1.17842376",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-10T18:57:41.584Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775847460016.3616,
+      "title": "Norges speiderforbund fortsetter Mette-Marits beskytterskap",
+      "slug": "norges-speiderforbund-fortsetter-mettemarits-beskytterskap",
+      "content": "Fredag opplyser Norges speiderforbund at de viderefører Mette-Marits beskytterskap for organisasjonen.\n\n– Kronprinsessen har redegjort for sin tidligere kontakt med overgrepsdømte Jeffrey Epstein. Hun har erkjent dårlig dømmekraft, tatt ansvar for egne valg og uttrykt sterk støtte til overgrepsofre, sier speidersjef Peer-Johan Ødegaard og fortsetter:\n\n– Dette mener vi harmonerer med speiderverdiene om ansvar, ærlighet og integritet, og det viser holdninger som speideren ønsker å fremme hos barn og unge.",
+      "excerpt": "Fredag opplyser Norges speiderforbund at de viderefører Mette-Marits beskytterskap for organisasjonen.\n\n– Kronprinsessen har redegjort for sin tidligere kontakt med overgrepsdømte Jeffrey Epstein. Hun har erkjent dårlig dømmekraft, tatt ansvar for egne valg og uttrykt sterk støtte til...",
+      "image": "https://images.unsplash.com/photo-1753696278559-38efaeafab72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4NDc0NTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/norges-speiderforbund-fortsetter-mette-marits-beskytterskap-1.17842473",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-10T18:57:40.017Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1775840062574.9565,
       "title": "Sky News: Minst én død og 27 til sykehus etter bussulykke på Kanariøyene",
       "slug": "sky-news-minst-n-dd-og-27-til-sykehus-etter-bussulykke-p-kan",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-08T06:06:15.384Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1775628373774.4556,
-      "title": "Telenor saksøkes for minst 130 millioner kroner av kunder i Myanmar",
-      "slug": "telenor-sakskes-for-minst-130-millioner-kroner-av-kunder-i-m",
-      "content": "Telenor-kunder i Myanmar mener selskapet delte sensitiv kundedata med landets militære etter kuppet i 2021. De krever minst 130 millioner kroner i erstatning.\n\nDen svenske ideelle organisasjonen Justice and Accountability Initiative (JAI) leverer onsdag inn et gruppesøksmål på vegne av Telenor-kunder i Myanmar.\n\nDe mener den norske telegiganten delte sensitiv kundedata med landets militære etter kuppet i 2021 og knytter datadelingene til alvorlige menneskerettighetsbrudd.\n\n– Vi har ikke kjennskap til noe søksmål. Vi har derfor ikke grunnlag for å kommentere påstandene eller kravene som omtales, skriver informasjonssjef David Fidjeland i Telenor Group i en e-post til Dagens Næringsliv.\n\nMyanmar\n\nMyanmar har vært preget av kaos, kamper og uro etter at militæret grep makten i et kupp i februar 2021 og satte landets leder Aung San Suu Kyi i husarrest. Etter kuppet har det vært store folkelige protester.",
-      "excerpt": "Telenor-kunder i Myanmar mener selskapet delte sensitiv kundedata med landets militære etter kuppet i 2021. De krever minst 130 millioner kroner i erstatning.\n\nDen svenske ideelle organisasjonen Justice and Accountability Initiative (JAI) leverer onsdag inn et gruppesøksmål på vegne av...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/telenor-saksokes-for-minst-130-millioner-kroner-av-kunder-i-myanmar-1.17837972",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-08T06:06:13.774Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1775628372169.3743,
-      "title": "Alvorlig trafikkulykke ved Alna i Oslo",
-      "slug": "alvorlig-trafikkulykke-ved-alna-i-oslo",
-      "content": "En fotgjenger er påkjørt på Strømsveien ved Alna i Oslo.\n\nStrømsveien er stengt mellom Brobekkveien og rundkjøringen ved Alnasenteret, skriver politiet.\n\nPolitiet har kontroll på føreren av bilen, som er på stedet.\n\nDet var en personbil som kjørte på fotgjengeren, forteller operasjonsleder Vidar Pedersen.",
-      "excerpt": "En fotgjenger er påkjørt på Strømsveien ved Alna i Oslo.\n\nStrømsveien er stengt mellom Brobekkveien og rundkjøringen ved Alnasenteret, skriver politiet.\n\nPolitiet har kontroll på føreren av bilen, som er på stedet.\n\nDet var en personbil som kjørte på fotgjengeren, forteller operasjonsleder Vidar...",
-      "image": "https://images.unsplash.com/photo-1690379722139-7e8bb3bef93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU2MjgzNzJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/alvorlig-trafikkulykke-ved-alna-i-oslo-1.17837903",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-08T06:06:12.169Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1775606157203.5015,
-      "title": "Iran: – Samtalene betyr ikke at krigen er over",
-      "slug": "iran-samtalene-betyr-ikke-at-krigen-er-over",
-      "content": "Iranske myndigheter sier at de planlagte samtalene med USA ikke betyr at krigen er over. De krever at en ti-punkts plan må følges for at det skal bli fred, melder statlige iranske medier.\n\nBlant kravene er at USA må trekke alle sine kampstyrker ut av regionen. Iran krever også at all krigføring mot dem og deres allierte grupper må stanse, skriver Reuters.\n\nI planen krever Iran også at de skal ha kontroll over skipstrafikken i det viktige Hormuzstredet.",
-      "excerpt": "Iranske myndigheter sier at de planlagte samtalene med USA ikke betyr at krigen er over. De krever at en ti-punkts plan må følges for at det skal bli fred, melder statlige iranske medier.\n\nBlant kravene er at USA må trekke alle sine kampstyrker ut av regionen. Iran krever også at all krigføring mot...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/iran_-_-samtalene-betyr-ikke-at-krigen-er-over-1.17837852",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-07T23:55:57.203Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 355,
+    "totalFetched": 358,
     "totalPublished": 77,
-    "lastFetch": "2026-04-10T16:54:23.980Z",
+    "lastFetch": "2026-04-10T18:57:44.392Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
