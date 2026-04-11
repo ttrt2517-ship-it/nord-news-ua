@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1775874604229.6929,
+      "title": "Artemis II-astronautene har landet i Stillehavet",
+      "slug": "artemis-iiastronautene-har-landet-i-stillehavet",
+      "content": "De fire astronautene om bord på Nasas Artemis II-måneferd plasket ned i Stillehavet utenfor San Diego rett etter klokken 2 natt til lørdag, norsk tid.\n\nAstronautene Victor Glover, Christina Koch, Reid Wiseman og Jeremy Hansen har de ti siste dagene vært rundt månen – som de første på over 50 år.\n\nReisen tilbake til jorden har blitt beskrevet som å «ri på en ildkule gjennom atmosfæren». Det er meldt at kapselen tidvis kunne nå hastigheter på opptil rundt 38.400 kilometer i timen på vei hjem, noe som utsetter astronautene for ekstreme fysiske påkjenninger, skriver NTB.\n\nRomfart og astronomi\n\nNatt til tirsdag 1. april blir Jannicke Mikkelsen Norges første astronaut når romskipet «Dragon» skytes opp fra Kennedy Space Center i Florida.",
+      "excerpt": "De fire astronautene om bord på Nasas Artemis II-måneferd plasket ned i Stillehavet utenfor San Diego rett etter klokken 2 natt til lørdag, norsk tid.\n\nAstronautene Victor Glover, Christina Koch, Reid Wiseman og Jeremy Hansen har de ti siste dagene vært rundt månen – som de første på over 50...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/artemis-ii-astronautene-har-landet-i-stillehavet-1.17842581",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-11T02:30:04.229Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775874602656.7268,
+      "title": "Seks drept i angrep mot politipost i Gaza",
+      "slug": "seks-drept-i-angrep-mot-politipost-i-gaza",
+      "content": "Minst seks personer ble drept i et israelsk flyangrep mot en politipost sentralt på Gazastripen. Flere andre ble såret, opplyser helsepersonell.\n\nDet var ikke umiddelbart klart om alle de drepte var politifolk.\n\nDet israelske militæret (IDF) har ikke kommet med noen umiddelbar uttalelse om angrepet natt til lørdag, skriver NTB.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
+      "excerpt": "Minst seks personer ble drept i et israelsk flyangrep mot en politipost sentralt på Gazastripen. Flere andre ble såret, opplyser helsepersonell.\n\nDet var ikke umiddelbart klart om alle de drepte var politifolk.\n\nDet israelske militæret (IDF) har ikke kommet med noen umiddelbar uttalelse om angrepet...",
+      "image": "https://images.unsplash.com/photo-1662019195281-b3e5aa5c1207?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4NzQ2MDJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/seks-drept-i-angrep-mot-politipost-i-gaza-1.17842586",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-11T02:30:02.656Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775874600978.987,
+      "title": "En drept i Ukraina før varslet våpenhvile",
+      "slug": "en-drept-i-ukraina-fr-varslet-vpenhvile",
+      "content": "En person ble drept og 15 såret i to russiske angrep i Ukraina natt til lørdag, bare timer før den varslede påskevåpenhvilen skulle tre i kraft.\n\nEt «fiendtlig droneangrep» rammet en butikk og en kafé i byen Poltava, sentralt i Ukraina, sier lederen for den regionale militæradministrasjonen, Vitalij Djakivnytsj, på Telegram. Han opplyser at en person ble drept og en annen såret i angrepet.\n\nI Sumy, nær grensen mot Russland i det nordøstlige Ukraina ble 14 mennesker såret i droneangrep mot boligområder. Blant de sårede er en 14 år gammel gutt og en 87 år gammel kvinne, sier Oleh Hryhorov, som leder militæradministrasjonen i regionen.\n\nRussland har sagt at en våpenhvile i forbindelse med den ortodokse påskehøytiden skal tre i kraft lørdag klokken 15 norsk tid og vare ut søndag.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "En person ble drept og 15 såret i to russiske angrep i Ukraina natt til lørdag, bare timer før den varslede påskevåpenhvilen skulle tre i kraft.\n\nEt «fiendtlig droneangrep» rammet en butikk og en kafé i byen Poltava, sentralt i Ukraina, sier lederen for den regionale militæradministrasjonen...",
+      "image": "https://images.unsplash.com/photo-1663610804918-c87cd25f6040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4NzQ2MDB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/en-drept-i-ukraina-for-varslet-vapenhvile-1.17842589",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-11T02:30:00.978Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1775860809296.2568,
       "title": "Tesla får godkjent selvkjøring i Nederland",
       "slug": "tesla-fr-godkjent-selvkjring-i-nederland",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-08T16:20:31.686Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1775665230267.6736,
-      "title": "Libanons helsedepartement: 89 drept og over 700 skadd i israelske angrep onsdag",
-      "slug": "libanons-helsedepartement-89-drept-og-over-700-skadd-i-israe",
-      "content": "En talsperson for Libanons helsedepartement opplyser til Reuters at 89 mennesker er drept og over 700 skadd i israelske angrep over hele Libanon onsdag.\n\n12 helsepersonell ska være blant de drepte i Sør-Libanon, ifølge talspersonen.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Etter angrepet har Iran kommet med flere motangrep mot Abu Dhabi, Bahrain, Dubai, Qatar, Kuwait og Israel.",
-      "excerpt": "En talsperson for Libanons helsedepartement opplyser til Reuters at 89 mennesker er drept og over 700 skadd i israelske angrep over hele Libanon onsdag.\n\n12 helsepersonell ska være blant de drepte i Sør-Libanon, ifølge talspersonen.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/libanons-helsedepartement_-89-drept-og-over-700-skadd-i-israelske-angrep-onsdag-1.17839100",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-08T16:20:30.267Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1775648004741.66,
-      "title": "Russisk drone ødela infrastruktur på Ukrainas største Donau-havn",
-      "slug": "russisk-drone-dela-infrastruktur-p-ukrainas-strste-donauhavn",
-      "content": "Et russisk droneangrep mot Ukrainas største havn langs Donau-elven, Izmajil, har ført til skader på fasiliteter tilhørende havna.\n\nAngrepet skjedde natt til onsdag, opplyser Ukrainas departement for regional utvikling.\n\n– Fienden fortsetter å angripe logistikk- og havneinfrastruktur, melder departementet på Telegram.\n\nIfølge meldingen brøt det ut branner ved noen varehus i havna, men disse ble slukket av nødetatene. Det er ikke meldt om døde eller skadede.\n\nIzmajil ligger langs elva Donau, helt mot den sørvestlige utkanten av Ukraina. Den har blitt en viktig logistikkåre for Ukraina, og har vært gjenstand for flere russiske angrep.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Et russisk droneangrep mot Ukrainas største havn langs Donau-elven, Izmajil, har ført til skader på fasiliteter tilhørende havna.\n\nAngrepet skjedde natt til onsdag, opplyser Ukrainas departement for regional utvikling.\n\n– Fienden fortsetter å angripe logistikk- og havneinfrastruktur, melder...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russisk-drone-odela-infrastruktur-pa-ukrainas-storste-donau-havn-1.17838256",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-08T11:33:24.741Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1775648003212.7546,
-      "title": "Forsvarssjefen erkjenner at F-16-fly gitt til Ukraina ikke var flydyktige",
-      "slug": "forsvarssjefen-erkjenner-at-f16fly-gitt-til-ukraina-ikke-var",
-      "content": "NRK avslørte tirsdag at F-16-flyene Norge har gitt til Ukraina for å hjelpe landet i krigen mot Russland, står på et verksted i Belgia.\n\nOnsdag erkjenner forsvarssjef Eirik Kristoffersen at flyene ikke er flydyktige.\n\n– Jeg har hele tiden visst at de seks flyene vi donerte har vært i Belgia i påvente av vedlikehold. Det er ukrainerne selv som avgjør hvilke skrog og materiell som får prioritet, opplyser Kristoffersen til NRK via sin pressevakt.\n\nHan erkjenner at uttalelsen han ga i forbindelse med fremleggelsen av den reviderte langtidsplanen for Forsvaret, ikke var presis.\n\n– Under fremleggelsen av den reviderte langtidsplanen for Forsvaret uttalte jeg nylig; «De F-16-flyene vi donerte til Ukraina er en viktig del av det ukrainske luftvernet nå».\n\n– Jeg henviste da til F-16-flyene som vi i den vestlige koalisjonen har donert til Ukraina. I etterkant ser jeg at min uttalelse kunne vært enda tydeligere på det, sier han.\n\nFlyene som skulle hjelpe landet i krigen med Russland er ennå ikke satt i tjeneste inne i Ukraina.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "NRK avslørte tirsdag at F-16-flyene Norge har gitt til Ukraina for å hjelpe landet i krigen mot Russland, står på et verksted i Belgia.\n\nOnsdag erkjenner forsvarssjef Eirik Kristoffersen at flyene ikke er flydyktige.\n\n– Jeg har hele tiden visst at de seks flyene vi donerte har vært i Belgia i...",
-      "image": "https://images.unsplash.com/photo-1665510234535-18adf8c921f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU2NDgwMDN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/forsvarssjefen-erkjenner-at-f-16-fly-gitt-til-ukraina-ikke-var-flydyktige-1.17838595",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-08T11:33:23.212Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 360,
+    "totalFetched": 363,
     "totalPublished": 77,
-    "lastFetch": "2026-04-10T22:40:10.668Z",
+    "lastFetch": "2026-04-11T02:30:06.067Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
