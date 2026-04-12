@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1776012133515.7969,
+      "title": "Holmlia: Brann i boligblokk slukket",
+      "slug": "holmlia-brann-i-boligblokk-slukket",
+      "content": "Seksten personer er sendt til sykehus etter at det brant i en boligblokk på Holmlia i Oslo.\n\n– Brannen er slukket. Det har brent i oppgangen, men ikke i noen leiligheter. Det har vært mye røyk i oppgangen og tilstøtende og det er fortsatt en del røyk, skriver politiet i en oppdatering.\n\nInnledningsvis ble det sagt at det brant i minst én leilighet.",
+      "excerpt": "Seksten personer er sendt til sykehus etter at det brant i en boligblokk på Holmlia i Oslo.\n\n– Brannen er slukket. Det har brent i oppgangen, men ikke i noen leiligheter. Det har vært mye røyk i oppgangen og tilstøtende og det er fortsatt en del røyk, skriver politiet i en...",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/holmlia_-brann-i-boligblokk-slukket-1.17843783",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-12T16:42:13.515Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776004886484.7285,
       "title": "Båtfører omkom etter båtulykke",
       "slug": "btfrer-omkom-etter-btulykke",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-10T22:40:09.296Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1775853646412.4153,
-      "title": "Det svenske forsvaret følger etter russisk ubåt",
-      "slug": "det-svenske-forsvaret-flger-etter-russisk-ubt",
-      "content": "Det svenske forsvaret følger en russisk ubåt på vei inn i Østersjøen.\n\n– Fredag møtte et jagerfly av typen JAS 39 Gripen en russisk ubåt i Kilo-klassen i Kattegat. Sammen med allierte følger Forsvaret nå ubåtens videre rute inn i Østersjøen, opplyser det svenske forsvaret i en pressemelding.\n\nUåten har ikke krenket svensk farvann, og det beskrives som et rutineoppdrag, skriver Göteborg-Posten.\n\n– Innsatsen er en del av vår rutinevirksomhet for å opprettholde Forsvarets gode situasjonsforståelse i våre nærområder og sikre svensk og alliert territoriell integritet, heter det videre.\n\nMeldingen kommer dagen etter at det ble kjent at britisk og norsk forsvar avslørte en russisk angrepsubåt og to spionubåter nær undersjøiske kabler og rørledninger i Nordsjøen.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "Det svenske forsvaret følger en russisk ubåt på vei inn i Østersjøen.\n\n– Fredag møtte et jagerfly av typen JAS 39 Gripen en russisk ubåt i Kilo-klassen i Kattegat. Sammen med allierte følger Forsvaret nå ubåtens videre rute inn i Østersjøen, opplyser det svenske forsvaret i en pressemelding.\n\nUåten...",
-      "image": "https://images.unsplash.com/photo-1616523642685-929b08111a83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4NTM2NDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/det-svenske-forsvaret-folger-etter-russisk-ubat-1.17842549",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-10T20:40:46.413Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 408,
+    "totalFetched": 409,
     "totalPublished": 77,
-    "lastFetch": "2026-04-12T14:41:28.345Z",
+    "lastFetch": "2026-04-12T16:42:14.866Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
