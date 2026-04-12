@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1775990444634.0579,
+      "title": "Bruker drone i etterforskningen av dødsfall i Kristiansand",
+      "slug": "bruker-drone-i-etterforskningen-av-ddsfall-i-kristiansand",
+      "content": "Politiet i Agder er nå på plass på ulykkesstedet ved Kjærrane i Kristiansand for å filme og dokumentere terrenget, etter at en mann ble funnet død lørdag kveld.\n\n– Vi får bistand fra brannvesenet for å sikre rester av tau som henger igjen på stedet, opplyser politiet.\n\nPolitiet har startet etterforskning og jobber parallelt med å fastslå sikker identitet på den avdøde.\n\nPårørende er varslet, men den formelle bekreftelsen er ikke klar.\n\n– Politiet har en klar formening om hvem dette er, men vår standard for sikker ID er høy, sier etterforskningsleder Anders Knutsen ved Agder politidistrikt.\n\nMannen ble funnet av turgåere lørdag kveld og erklært død på stedet.",
+      "excerpt": "Politiet i Agder er nå på plass på ulykkesstedet ved Kjærrane i Kristiansand for å filme og dokumentere terrenget, etter at en mann ble funnet død lørdag kveld.\n\n– Vi får bistand fra brannvesenet for å sikre rester av tau som henger igjen på stedet, opplyser politiet.\n\nPolitiet har startet...",
+      "image": null,
+      "original_url": "https://www.nrk.no/sorlandet/bruker-drone-i-etterforskningen-av-dodsfall-i-kristiansand-1.17843456",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-12T10:40:44.635Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775990443206.6333,
+      "title": "Kvinne funnet død i heis i Oslo: Politiet jobber ut fra flere hypoteser",
+      "slug": "kvinne-funnet-dd-i-heis-i-oslo-politiet-jobber-ut-fra-flere-",
+      "content": "Politiet undersøker fremdeles hva som har skjedd etter at en kvinne ble funnet død i en heis på Grønland lørdag.\n\n– Vi jobber etter flere hypoteser og disse hypotesene er fremdeles åpne, skriver Oslo-politiet i en pressemelding søndag morgen.\n\nDe har innhentet videomateriale, gjennomført avhør og kriminaltekniske undersøkelser.\n\nDet er foreløpig uklart om det har skjedd noe straffbart.\n\n– Det gjenstår flere etterforskningsskritt, blant annet obduksjon av avdøde.\n\nPolitiet ber om tips etter at en kvinne ble funnet død i en heis i Oslo sentrum.",
+      "excerpt": "Politiet undersøker fremdeles hva som har skjedd etter at en kvinne ble funnet død i en heis på Grønland lørdag.\n\n– Vi jobber etter flere hypoteser og disse hypotesene er fremdeles åpne, skriver Oslo-politiet i en pressemelding søndag morgen.\n\nDe har innhentet videomateriale, gjennomført avhør og...",
+      "image": "https://images.unsplash.com/photo-1681025277420-8120763b3e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU5OTA0NDN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/kvinne-funnet-dod-i-heis-i-oslo_-politiet-jobber-ut-fra-flere-hypoteser-1.17843464",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-12T10:40:43.206Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775990441730.9436,
+      "title": "Tall tyder på høy valgdeltagelse i Ungarn",
+      "slug": "tall-tyder-p-hy-valgdeltagelse-i-ungarn",
+      "content": "17 prosent av velgerne i Ungarn hadde avgitt stemme før klokken 09.00 søndag. Det opplyser valgkommisjonen i Ungarn, melder SVT.\n\nTilsvarende tall ved forrige valg – i 2022 – var 10 prosent.\n\nUngarn\n\nStatsminister Viktor Orban har sittet ved makten i Ungarn siden 2010. Han har blant annet reformert valgsystemet og endret Ungarn til det han selv kaller et illiberalt kristendemokrati. Det har gjort Orbán svært kontroversiell.",
+      "excerpt": "17 prosent av velgerne i Ungarn hadde avgitt stemme før klokken 09.00 søndag. Det opplyser valgkommisjonen i Ungarn, melder SVT.\n\nTilsvarende tall ved forrige valg – i 2022 – var 10 prosent.\n\nUngarn\n\nStatsminister Viktor Orban har sittet ved makten i Ungarn siden 2010. Han har blant annet reformert...",
+      "image": "https://images.unsplash.com/photo-1697308364285-994346ce5e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU5OTA0NDF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/tall-tyder-pa-hoy-valgdeltagelse-i-ungarn-1.17843467",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-12T10:40:41.730Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1775983956560.555,
       "title": "Nekter dømt politimann å fortsette i jobben",
       "slug": "nekter-dmt-politimann-fortsette-i-jobben",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-10T14:50:49.165Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1775832647638.8936,
-      "title": "Vance på vei til fredssamtaler med Iran",
-      "slug": "vance-p-vei-til-fredssamtaler-med-iran",
-      "content": "J.D. Vance rettet fredag ettermiddag nesen mot fredssamtalene med Iran i Pakistan.\n\nDen amerikanske visepresidenten fortalte at Donald Trump har gitt ham klare retningslinjer for samtalene.\n\n– Vi ser frem til forhandlingene. Jeg tror det kommer til å bli positivt, sa Vance før han dro.\n\nTidligere har Irans ambassadør i FN uttalt at de vil gå inn i samtalene med mer forsiktighet enn tidligere, grunnet mangel på tillit.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.",
-      "excerpt": "J.D. Vance rettet fredag ettermiddag nesen mot fredssamtalene med Iran i Pakistan.\n\nDen amerikanske visepresidenten fortalte at Donald Trump har gitt ham klare retningslinjer for samtalene.\n\n– Vi ser frem til forhandlingene. Jeg tror det kommer til å bli positivt, sa Vance før han dro.\n\nTidligere...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/vance-pa-vei-til-fredssamtaler-med-iran-1.17842061",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-10T14:50:47.638Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1775832646167.1094,
-      "title": "Støre: Prisveksten kan bli presset ytterligere",
-      "slug": "stre-prisveksten-kan-bli-presset-ytterligere",
-      "content": "På en pressekonferanse fredag fortalte Jonas Gahr Støre om stor ustabilitet på energimarkedene.\n\n– Selv om dette skulle gå på alle beste måte, er det forsinkelser før dette vil normalisere seg, sa Støre.\n\nStatsministeren møtte pressen etter et krisemøte med partene i arbeidslivet.\n\n– Vi har hatt en prisvekst som vi har en oppgave og utfordring med å få ned. Den lå høyt, sa Støre ifølge VG.\n\nHan fortsatte med å si at økte priser på energi og andre råvarer vil kunne presse på prisveksten ytterligere.\n\nNorsk økonomi\n\nPrisene stiger i Norge. Spesielt stor er økningen i drivstoffprisene. Tall fra SSB viser at drivstoffprisene har økt med 14,7 prosent siden samme tid i fjor.",
-      "excerpt": "På en pressekonferanse fredag fortalte Jonas Gahr Støre om stor ustabilitet på energimarkedene.\n\n– Selv om dette skulle gå på alle beste måte, er det forsinkelser før dette vil normalisere seg, sa Støre.\n\nStatsministeren møtte pressen etter et krisemøte med partene i arbeidslivet.\n\n– Vi har hatt en...",
-      "image": "https://images.unsplash.com/photo-1659424766030-385d22f8b0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4MzI2NDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/store_-prisveksten-kan-bli-presset-ytterligere-1.17842216",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-10T14:50:46.168Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1775827011887.2676,
-      "title": "Norwegian Parliament&#039;s vice president resigns after drunk driving incident",
-      "slug": "norwegian-parliament039s-vice-president-resigns-after-drunk-",
-      "content": "Morten Wold, Vice President of the Norwegian Parliament (Stortinget), has announced his immediate resignation after being stopped for driving under the influence during the Easter break.\n\nThe police stopped Wold on the E18 highway in Asker after receiving public reports about his driving, VG reported.\n\nThe police attorney stated that Wold’s blood alcohol level was high enough to potentially lead to prison time, though the exact figure was not disclosed.\n\nIn a Facebook statement, Wold acknowledged a struggle with alcohol addiction. \"I have an alcohol problem that I need health help to get out of,\" he wrote, confirming he was on sick leave and seeking professional treatment.\n\n\"It is, of course, not good to be under the influence in traffic. I am glad that I did not hurt anyone, but it was a wake-up call. I am prepared to take my punishment,\" he added.\n\nWold, a member of the Progress Party (FrP), was re-elected this fall for another four-year term.\n\nHe had represented Buskerud County in the Storting for more than twelve years and was also a member of the Labour and Social Affairs Committee.\n\nIn his statement, he reflected on his career: \"Even though I have had great opportunities as a politician, life has not always been as good as it seems. The solution for me has all too often been alcohol. It has affected my family and friends. I am sorry for that.\"\n\nParty leader Sylvi Listhaug (FrP) and the President of the Storting, Masud Gharahkhani, both expressed that while the situation was \"serious and sad,\" they respected Wold's decision to step down and his openness about his personal challenges.\n\nThe Storting was set to elect a new Vice President.\n\nPolice attorney Erlend Hals Bakke told NRK that Wold would be questioned, noting that \"an indictment will probably be issued.\"\n\nHe added that \"it is a situation that normally requires an unconditional prison sentence and a fine.\"\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Morten Wold, Vice President of the Norwegian Parliament (Stortinget), has announced his immediate resignation after being stopped for driving under the influence during the Easter break.\n\nThe police stopped Wold on the E18 highway in Asker after receiving public reports about his driving, VG...",
-      "image": "https://images.unsplash.com/photo-1725751070169-a298ea3501ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4MjcwMTF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260410/norwegian-parliaments-vice-president-resigns-after-drunk-driving-incident",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-04-10T13:16:51.887Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 399,
+    "totalFetched": 402,
     "totalPublished": 77,
-    "lastFetch": "2026-04-12T08:52:37.739Z",
+    "lastFetch": "2026-04-12T10:40:46.046Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
