@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1775973291238.9485,
+      "title": "Skjebnevalg i Ungarn i gang",
+      "slug": "skjebnevalg-i-ungarn-i-gang",
+      "content": "Søndag morgen klokken 06 åpnet valglokalene i Ungarn for et parlamentsvalg som beskrives som landets viktigste på mange tiår, det melder AFP.\n\nStatsminister Viktor Orban har styrt landet i 16 år, men kjemper nå for sin politiske overlevelse.\n\nMeningsmålinger viser at utfordreren Peter Magyar og hans parti Tisza leder over Orbans parti, Fidesz. Magyar lover en «systemendring» og et bedre forhold til EU. Valglokalene stenger klokken 19:00 i kveld\n\nUngarn\n\nStatsminister Viktor Orban har sittet ved makten i Ungarn siden 2010. Han har blant annet reformert valgsystemet og endret Ungarn til det han selv kaller et illiberalt kristendemokrati. Det har gjort Orbán svært kontroversiell.",
+      "excerpt": "Søndag morgen klokken 06 åpnet valglokalene i Ungarn for et parlamentsvalg som beskrives som landets viktigste på mange tiår, det melder AFP.\n\nStatsminister Viktor Orban har styrt landet i 16 år, men kjemper nå for sin politiske overlevelse.\n\nMeningsmålinger viser at utfordreren Peter Magyar og...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/skjebnevalg-i-ungarn-i-gang-1.17843324",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-12T05:54:51.238Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775973289839.2905,
+      "title": "Angrep mot Ukraina tross våpenhvile",
+      "slug": "angrep-mot-ukraina-tross-vpenhvile",
+      "content": "Russland angrep byen Druzjkivka i Donetsk med minst en drone, til tross for at landet sier de skal respektere en våpenhvile.\n\nUkrainas redningstjeneste har publisert bilde av et hus i brann etter droneangrepet.\n\n– Heldigvis skjedde ingen dødsfall eller skader, skriver redningstjenesten på Telegram.\n\nUkraina anklaget lørdag Russland for 469 brudd på våpenhvilen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Russland angrep byen Druzjkivka i Donetsk med minst en drone, til tross for at landet sier de skal respektere en våpenhvile.\n\nUkrainas redningstjeneste har publisert bilde av et hus i brann etter droneangrepet.\n\n– Heldigvis skjedde ingen dødsfall eller skader, skriver redningstjenesten på...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/angrep-mot-ukraina-tross-vapenhvile-1.17843332",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-12T05:54:49.839Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1775973288480.2983,
+      "title": "Flere pågripelser etter vold mot vektere",
+      "slug": "flere-pgripelser-etter-vold-mot-vektere",
+      "content": "Det har vært en urolig natt på flere utesteder i Agder, hvor politiet har måttet gripe inn i flere voldsepisoder. Både i Risør og Kristiansand endte menn i arresten etter å ha angrepet vaktmannskaper.\n\nLike over klokken 02.00 natt til søndag ble en mann i 30-årene pågrepet i Risør. Han skal ha slått til både en gjest og en vekter, i tillegg til å oppføre seg truende.\n\nKort tid etter skjedde en lignende hendelse i Kristiansand, der en mann i 60-årene ble pågrepet for å ha slått til en vekter.\n\n– Vi ser alvorlig på vold mot de som er på jobb for å skape trygghet i utelivet. Politiet har startet etterforskning i sakene, men de fornærmede skal heldigvis ikke ha blitt fysisk skadet, opplyser operasjonsleder Ole Robert Strandhagen i Agder politidistrikt.\n\nI Kristiansand ble også en mann i 20-årene innbrakt til politistasjonen i løpet av natten.\n\nHan ble først bortvist fra sentrum etter å ha kranglet med vektere i 02-tiden, men da han dukket opp igjen kun en halvtime senere, valgte politiet å anmelde ham for ikke å ha fulgt politiets pålegg.",
+      "excerpt": "Det har vært en urolig natt på flere utesteder i Agder, hvor politiet har måttet gripe inn i flere voldsepisoder. Både i Risør og Kristiansand endte menn i arresten etter å ha angrepet vaktmannskaper.\n\nLike over klokken 02.00 natt til søndag ble en mann i 30-årene pågrepet i Risør. Han skal ha...",
+      "image": "https://images.unsplash.com/photo-1582753799950-e73309a50b3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU5NzMyODh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/sorlandet/flere-pagripelser-etter-vold-mot-vektere-1.17843339",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-12T05:54:48.480Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1775962154543.707,
       "title": "Brann i bil i Våler slukket",
       "slug": "brann-i-bil-i-vler-slukket",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-10T10:57:50.323Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1775818668786.0422,
-      "title": "Støre med klar beskjed til bensinstasjonene: – De må gjøre sitt",
-      "slug": "stre-med-klar-beskjed-til-bensinstasjonene-de-m-gjre-sitt",
-      "content": "Statsminister Jonas Gahr Støre skjønner frustrasjonen over at bensin- og dieselprisene ikke har gått ned like mye som avgiftskuttet.\n\n– Bensinstasjonene må gjøre sitt, sier han til NTB.\n\nFør påske vedtok Stortinget å kutte 4,41 kroner literen for bensin og 2,85 kroner for diesel, mot regjeringens ønske.\n\nFlere har imidlertid uttrykt misnøye med at drivstoffprisene ikke har gått ned like mye som avgiftskuttet tilsier. Fredag har aksjonister kjørt fra Telemark til Oslo i 100 vogntog, 30 traktorer og 650 biler for å protestere mot høy pumpepris. (NTB)\n\nNorsk økonomi\n\nPrisene stiger i Norge. Spesielt stor er økningen i drivstoffprisene. Tall fra SSB viser at drivstoffprisene har økt med 14,7 prosent siden samme tid i fjor.\n\nHøye drivstoffpriser\n\nPå grunn av krigen i Iran, har drivstoffprisene skutt i været. Senterpartiet sikret flertall for hastebehandling av et Høyre-forslag om billigere bensin. Alle de andre rødgrønne partiene stemte imot.",
-      "excerpt": "Statsminister Jonas Gahr Støre skjønner frustrasjonen over at bensin- og dieselprisene ikke har gått ned like mye som avgiftskuttet.\n\n– Bensinstasjonene må gjøre sitt, sier han til NTB.\n\nFør påske vedtok Stortinget å kutte 4,41 kroner literen for bensin og 2,85 kroner for diesel, mot regjeringens...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/store-med-klar-beskjed-til-bensinstasjonene_-_-de-ma-gjore-sitt-1.17841765",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-10T10:57:48.786Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1775812383156.5623,
-      "title": "Oslos skolebehovsplan funnet lovlig av statsforvalteren",
-      "slug": "oslos-skolebehovsplan-funnet-lovlig-av-statsforvalteren",
-      "content": "Avgjørelsen betyr at alle tiltakene i planen kan gjennomføres som planlagt, skriver Oslo kommune i en pressemelding.\n\n– Jeg er veldig glad for, men ikke overrasket, over avgjørelsen Statsforvalteren nå har kommet fram til, sier utdanningsbyråd Julie Remen Midtgarden (H) i pressemeldingen.\n\nPartiene Arbeiderpartiet, SV, MDG, Rødt og Partiet Sentrum mente at planen var ulovlig og sto bak kravet om lovlighetskontroll.\n\nOslos omstridte skolebehovsplan er gyldig. Det konkluderer Statsforvalteren etter at flere partier ba om å få vurdert om byråd og bystyre brøt loven.\n\nOsloskolen\n\nDet er 189 kommunale skoler i Oslo. 150 av dem er grunnskoler. Julie Remen Midtgarden (H) er byråd for utdanning fra 2023.",
-      "excerpt": "Avgjørelsen betyr at alle tiltakene i planen kan gjennomføres som planlagt, skriver Oslo kommune i en pressemelding.\n\n– Jeg er veldig glad for, men ikke overrasket, over avgjørelsen Statsforvalteren nå har kommet fram til, sier utdanningsbyråd Julie Remen Midtgarden (H) i pressemeldingen.\n\nPartiene...",
-      "image": "https://images.unsplash.com/photo-1582073389612-c18eb815b0e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4MTIzODN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/oslos-skolebehovsplan-funnet-lovlig-av-statsforvalteren-1.17841490",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-10T09:13:03.156Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1775812381559.7766,
-      "title": "Libanon står overfor matkrise, ifølge FN-organisasjon",
-      "slug": "libanon-str-overfor-matkrise-iflge-fnorganisasjon",
-      "content": "– Det vi er vitne til er ikke bare en forskyvningskrise, det holder raskt på å bli en matvaresikkerhetskrise, sa Allison Oman, landdirektør for Verdens matvareprogram, til Reuters.\n\nFN-organisasjonen melder at flere kjøpmenn har rapportert om sviktende beholdninger av essensielle matvarer. Noen regner med å gå tomme innen én uke.\n\nLanddirektør Oman sier også at matvareprisene er på vei opp, og at flere sliter med å håndtere kostnadene for mat.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "– Det vi er vitne til er ikke bare en forskyvningskrise, det holder raskt på å bli en matvaresikkerhetskrise, sa Allison Oman, landdirektør for Verdens matvareprogram, til Reuters.\n\nFN-organisasjonen melder at flere kjøpmenn har rapportert om sviktende beholdninger av essensielle matvarer. Noen...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/libanon-star-overfor-matkrise_-ifolge-fn-organisasjon-1.17841553",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-10T09:13:01.559Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 391,
+    "totalFetched": 394,
     "totalPublished": 77,
-    "lastFetch": "2026-04-12T02:49:15.952Z",
+    "lastFetch": "2026-04-12T05:54:52.751Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
