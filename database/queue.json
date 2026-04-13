@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776074260984.9363,
+      "title": "Vestfoldbanen gjenåpnet etter strømproblemer",
+      "slug": "vestfoldbanen-gjenpnet-etter-strmproblemer",
+      "content": "Togene på Vestfoldbanen kjører igjen mellom Sandefjord og Larvik.\n\nStrekningen har vært stengt i flere timer på grunn av strømproblemer.\n\nIfølge Vy kan det fortsatt ta litt tid før togene er i rute. Passasjerer blir bedt om å regne med forsinkelser og enkelte innstillinger.\n\nVestfoldbanen er nå gjenåpnet for trafikk mellom Sandefjord og Larvik etter at strømproblemer har ført til forsinkelser og innstillinger.",
+      "excerpt": "Togene på Vestfoldbanen kjører igjen mellom Sandefjord og Larvik.\n\nStrekningen har vært stengt i flere timer på grunn av strømproblemer.\n\nIfølge Vy kan det fortsatt ta litt tid før togene er i rute. Passasjerer blir bedt om å regne med forsinkelser og enkelte innstillinger.\n\nVestfoldbanen er nå...",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/vestfoldbanen-gjenapnet-etter-stromproblemer-1.17844144",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-13T09:57:40.984Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776074259450.9673,
+      "title": "Tre nordmenn dømt i narkosak i Sverige",
+      "slug": "tre-nordmenn-dmt-i-narkosak-i-sverige",
+      "content": "Tre norske statsborgere er blant fem menn som er dømt for å ha transportert kokain til en milliardverdi i Sverige.\n\nIfølge retten var mennene involvert i å transportere minst 1200 kilo med kokain fra Helsingborg til Malmö i mai i fjor.\n\nDet narkotiske stoffet kom til Helsingborg skjult i et lasteskip som skulle inneholde bananer fra Costa Rica, og mennene fraktet stoffet videre derfra til en leilighet i Malmö, heter det.\n\nDe tre norske mennene er i den forbindelse funnet skyldige i særlig alvorlige narkotikalovbrudd.\n\nTo av dem dømmes til åtte år i fengsel og blir utvist fra Sverige på livstid. Den tredje nordmannen, som var 17 år da lovbruddet skjedde, er dømt til to år på ungdomsanstalt og blir også utvist fra Sverige på livstid.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
+      "excerpt": "Tre norske statsborgere er blant fem menn som er dømt for å ha transportert kokain til en milliardverdi i Sverige.\n\nIfølge retten var mennene involvert i å transportere minst 1200 kilo med kokain fra Helsingborg til Malmö i mai i fjor.\n\nDet narkotiske stoffet kom til Helsingborg skjult i et...",
+      "image": "https://images.unsplash.com/photo-1661698047861-c20691d34be4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYwNzQyNTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/tre-nordmenn-domt-i-narkosak-i-sverige-1.17844559",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-13T09:57:39.450Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776074257882.8982,
+      "title": "IDF: Drept 100 Hizbollah-krigere",
+      "slug": "idf-drept-100-hizbollahkrigere",
+      "content": "Det israelske militæret (IDF) opplyser mandag at de i løpet av få dager forventer å ta kontroll av byen Bint Jbeil sør i Libanon, ifølge Reuters.\n\nI den pågående offensiven hevder IDF å ha drept over 100 Hizbollah-krigere og ødelagt omfattende infrastruktur, skriver Hararetz.\n\n– Vi eliminerte terrorister idet de forlot sykehuset i Bint Jbeil, og fant flere utskytningsramper og våpen, sier en israelsk militær talsperson, skriver Reuters.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
+      "excerpt": "Det israelske militæret (IDF) opplyser mandag at de i løpet av få dager forventer å ta kontroll av byen Bint Jbeil sør i Libanon, ifølge Reuters.\n\nI den pågående offensiven hevder IDF å ha drept over 100 Hizbollah-krigere og ødelagt omfattende infrastruktur, skriver Hararetz.\n\n– Vi eliminerte...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/idf_-drept-100-hizbollah-krigere-1.17844636",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-13T09:57:37.882Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776061015701.5413,
       "title": "Ny Lufthansa-streik – rammer norske reisende",
       "slug": "ny-lufthansastreik-rammer-norske-reisende",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-11T16:40:03.395Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1775925601901.945,
-      "title": "Ny FpU-leder valgt",
-      "slug": "ny-fpuleder-valgt",
-      "content": "Lars Mikael Barstad Løvold frå Ålesund ble lørdag valgt til ny leder av Fremskrittspariets Ungdom (FpU).\n\nDet melder Fremskrittspartiet i en pressemelding.  Løvold har de to siste årene vært nestleder i FpU. Han tar over etter Simen Velle, som har ledet ungdomsorganisasjonen i fire år.\n\nFremskrittspartiet\n\nFremskrittspartiet er et norsk politisk parti som beskriver seg som liberalistisk. Partiet ble grunnlagt i 1973 som Anders Langes Parti til sterk nedsettelse av skatter, avgifter og offentlige inngrep. Fra 2021 er Sylvi Listhaug partileder.",
-      "excerpt": "Lars Mikael Barstad Løvold frå Ålesund ble lørdag valgt til ny leder av Fremskrittspariets Ungdom (FpU).\n\nDet melder Fremskrittspartiet i en pressemelding.  Løvold har de to siste årene vært nestleder i FpU. Han tar over etter Simen Velle, som har ledet ungdomsorganisasjonen i fire...",
-      "image": "https://images.unsplash.com/photo-1632988322820-100bf01e9436?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU5MjU2MDF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/ny-fpu-leder-valgt-1.17843106",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-11T16:40:01.902Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1775918265320.0369,
-      "title": "Medier: Fredsforhandlingene mellom Iran og USA har startet",
-      "slug": "medier-fredsforhandlingene-mellom-iran-og-usa-har-startet",
-      "content": "De iransk-amerikanske fredsforhandlingene har startet i Islamabad i Pakistan, skriver en rekke medier som siterer lukkede kilder.\n\nDe innledende samtalene foregår gjennom pakistanske meglere, ifølge BBC.\n\nDet er knyttet stor spenning til forhandlingene, som markerer et vendepunkt etter seks uker med krig i Iran.\n\nSamtidig melder Axios at amerikanske marineskip lørdag har passert Hormuzstredet, som har vært stengt av Iran siden USA begynte å angripe landet.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. 11. februar begynte fredsforhandlinger mellom landene.",
-      "excerpt": "De iransk-amerikanske fredsforhandlingene har startet i Islamabad i Pakistan, skriver en rekke medier som siterer lukkede kilder.\n\nDe innledende samtalene foregår gjennom pakistanske meglere, ifølge BBC.\n\nDet er knyttet stor spenning til forhandlingene, som markerer et vendepunkt etter seks uker...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/medier_-fredsforhandlingene-mellom-iran-og-usa-har-startet-1.17842938",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-11T14:37:45.320Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1775918263310.137,
-      "title": "Iran truer med angrep – amerikansk skip skal ha snudd i Hormuzstredet",
-      "slug": "iran-truer-med-angrep-amerikansk-skip-skal-ha-snudd-i-hormuz",
-      "content": "Det iranske nyhetsbyrået Fars News Agency skriver på Telegram at amerikanske skip vil bli angrepet dersom de forsøker å krysse Hormuzstredet.\n\nDe siterer en anonym kilde i den iranske regjeringen.\n\nBeskjeden kommer kort tid etter at Axios meldte at amerikanske marineskip var på vei gjennom stredet for første gang siden krigen brøt ut 28. februar.\n\nIfølge iransk statlig TV skal minst ett amerikansk skip ha snudd som følge av truslene.\n\nSamtidig som spenningen i stredet eskalerer, pågår det for øyeblikket fredsforhandlinger mellom USA og Iran i Pakistan.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. 11. februar begynte fredsforhandlinger mellom landene.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Det iranske nyhetsbyrået Fars News Agency skriver på Telegram at amerikanske skip vil bli angrepet dersom de forsøker å krysse Hormuzstredet.\n\nDe siterer en anonym kilde i den iranske regjeringen.\n\nBeskjeden kommer kort tid etter at Axios meldte at amerikanske marineskip var på vei gjennom stredet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/iran-truer-med-angrep-_-amerikansk-skip-skal-ha-snudd-i-hormuzstredet-1.17842948",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-11T14:37:43.310Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 424,
+    "totalFetched": 427,
     "totalPublished": 77,
-    "lastFetch": "2026-04-13T06:16:56.926Z",
+    "lastFetch": "2026-04-13T09:57:42.232Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
