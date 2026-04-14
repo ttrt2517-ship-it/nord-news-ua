@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1776206985222.7766,
+      "title": "Trump til avis: Varsler nye samtaler med Iran",
+      "slug": "trump-til-avis-varsler-nye-samtaler-med-iran",
+      "content": "USAs president Donald Trump sier til New York Post at samtalene mellom USA og Iran kan bli gjenopptatt i løpet av kort tid.\n\n– Noe kan skje i løpet av de to neste dagene, og vi er mer tilbøyelige til å dra til Pakistan, sier han til avisen.\n\nMålet med samtalene er å få en slutt på den sju uker lange krigen mellom landene.\n\nTidligere tirsdag sa Irans statseide medier at det har blitt utvekslet meldinger mellom Teheran og Pakistan, men at det ikke finnes noen opplysninger om nye samtaler med USA, skriver BBC.\n\nUSA trakk seg fra fredssamtalene med Iran i Pakistan sist helg. Etter 21 timer med forhandlinger dro visepresident J.D. Vance tilbake til USA uten å oppnå en avtale.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "USAs president Donald Trump sier til New York Post at samtalene mellom USA og Iran kan bli gjenopptatt i løpet av kort tid.\n\n– Noe kan skje i løpet av de to neste dagene, og vi er mer tilbøyelige til å dra til Pakistan, sier han til avisen.\n\nMålet med samtalene er å få en slutt på den sju uker...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-til-avis_-varsler-nye-samtaler-med-iran--1.17847142",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-14T22:49:45.222Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776200263726.4153,
       "title": "Lufthansa-streiken trappes opp",
       "slug": "lufthansastreiken-trappes-opp",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-13T09:57:37.882Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776061015701.5413,
-      "title": "Ny Lufthansa-streik – rammer norske reisende",
-      "slug": "ny-lufthansastreik-rammer-norske-reisende",
-      "content": "Piloter hos Lufthansa har planlagt streik mandag og tirsdag\n\nMinst sju avganger fra Oslo lufthavn med Lufthansa er kansellert mandag. Seks fly som skulle fra München og Frankfurt til Oslo lufthavn, er også innstilt.\n\nDet er det danske luftfartsmediet Check-in som melder om streiken.\n\nOgså i forrige uke var det streik i Lufthansa, da blant kabinansatte.\n\nDet er pilotene i fagforeningen Vereingung Cockpit som streiker. Streiken omfatter også piloter i Lufthansa Cargo, Lufthansa CityLine og Eurowings, ifølge Check-in.\n\nLuftfart\n\nLuftfarta bind verda saman og gjer det mogleg for millionar av menneske å reise. Ho er også avgjerande for handel, turisme og økonomisk utvikling i mange land.",
-      "excerpt": "Piloter hos Lufthansa har planlagt streik mandag og tirsdag\n\nMinst sju avganger fra Oslo lufthavn med Lufthansa er kansellert mandag. Seks fly som skulle fra München og Frankfurt til Oslo lufthavn, er også innstilt.\n\nDet er det danske luftfartsmediet Check-in som melder om streiken.\n\nOgså i forrige...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ny-lufthansa-streik-_-rammer-norske-reisende-1.17844170",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-13T06:16:55.701Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 473,
+    "totalFetched": 474,
     "totalPublished": 77,
-    "lastFetch": "2026-04-14T20:57:45.266Z",
+    "lastFetch": "2026-04-14T22:49:46.763Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
