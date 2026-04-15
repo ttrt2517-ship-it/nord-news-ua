@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1776250860863.4258,
+      "title": "Arild Monsen vraket som landslagstrener",
+      "slug": "arild-monsen-vraket-som-landslagstrener",
+      "content": "Arild Monsen er ferdig som sprinttrener på langrennslandslaget. Det melder Skiforbundet i en pressemelding.\n\nEtter en totalvurdering ble ikke Monsen tilbudt ny kontrakt, skriver forbundet. Monsen har vært i jobben i 13 år.\n\nHan har sammen med Eirik Myhr Nossum utgjort trenerduoen på elitelandslaget for menn de siste sesongene.\n\n– Med så stor suksess for herrelaget er det lett å beholde teamet slik det er, men det er alltid nødvendig å fokusere på utvikling og nye tanker, sier langrenssjef Cathrine Instebø.\n\nMonsen innrømmer at avskjeden ikke var av eget ønske.\n\n– Jeg var motivert for å fortsette en sesong til, og slik ble det ikke. Jeg har forståelse for at det er ønskelig med endringer, og jeg forholder meg profesjonelt til avgjørelsen. Dette er en del av toppidretten, sier han.\n\nSkiforbundet skriver at utøvernes evaluering av sesongen viser at de ønsker endringer kommende sesong. De opplyser også om at det har kommet «tydelige tilbakemeldinger», uten å gå inn på detaljene i pressemeldingen.\n\nSportsnyheter\n\nHer får du de siste sportsnyhetene fra NRK.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
+      "excerpt": "Arild Monsen er ferdig som sprinttrener på langrennslandslaget. Det melder Skiforbundet i en pressemelding.\n\nEtter en totalvurdering ble ikke Monsen tilbudt ny kontrakt, skriver forbundet. Monsen har vært i jobben i 13 år.\n\nHan har sammen med Eirik Myhr Nossum utgjort trenerduoen på elitelandslaget...",
+      "image": null,
+      "original_url": "https://www.nrk.no/sport/arild-monsen-vraket-som-landslagstrener-1.17847768",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-15T11:01:00.863Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776244945829.7642,
       "title": "Strømmehopp for Justin Bieber",
       "slug": "strmmehopp-for-justin-bieber",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-13T15:16:45.896Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776093404387.9573,
-      "title": "Olje-oppgang på Oslo Børs",
-      "slug": "oljeoppgang-p-oslo-brs",
-      "content": "Oljeprisen hoppet igjen opp over 100 dollar fatet mandag, og oljetunge Oslo Børs fulgte med. På denne ukens første handelsdag endte børsen opp 0,26 prosent.\n\nEtter å ha steget med 8 prosent til 102 dollar fatet mandag morgen, har oljeprisen falt litt til rundt 100 dollar fatet ved handelsslutt i 16.30-tiden.\n\nOljegiganten Equinor gikk opp 2,34 prosent, mens Aker BP og Vår Energi steg med henholdsvis 2,83 prosent og 2,01 prosent.\n\nForrige uke falt oljeprisen fra 109 dollar til 95,2 dollar etter at USA og Iran ble enige om to ukers våpenhvile og forhandlinger om en fredsavtale. (NTB)\n\nOslo Børs\n\nOslo Børs er en av de ledende i verden i næringene energi, shipping og sjømat. Handelen startet den 15. april 1819, og 200 år senere ble den en del av Euronext.\n\nNorsk økonomi\n\nPrisene stiger i Norge. Spesielt stor er økningen i drivstoffprisene. Tall fra SSB viser at drivstoffprisene har økt med 14,7 prosent siden samme tid i fjor.",
-      "excerpt": "Oljeprisen hoppet igjen opp over 100 dollar fatet mandag, og oljetunge Oslo Børs fulgte med. På denne ukens første handelsdag endte børsen opp 0,26 prosent.\n\nEtter å ha steget med 8 prosent til 102 dollar fatet mandag morgen, har oljeprisen falt litt til rundt 100 dollar fatet ved handelsslutt i...",
-      "image": "https://images.unsplash.com/photo-1697829523450-27c814f9f933?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYwOTM0MDR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/olje-oppgang-pa-oslo-bors-1.17845276",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-13T15:16:44.387Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 483,
+    "totalFetched": 484,
     "totalPublished": 77,
-    "lastFetch": "2026-04-15T09:22:27.179Z",
+    "lastFetch": "2026-04-15T11:01:02.449Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
