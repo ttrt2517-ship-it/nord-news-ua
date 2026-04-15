@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776272821258.21,
+      "title": "Løfter om 14,5 milliarder kroner i støtte til Sudan",
+      "slug": "lfter-om-145-milliarder-kroner-i-sttte-til-sudan",
+      "content": "Under en internasjonal konferanse om det krigsherjede Sudan i Berlin onsdag, kom det løfter om mer enn 1,3 milliarder euro, 14,5 milliarder kroner, i bistand.\n\nTysklands utenriksminister Johann Wadephul sier mer enn 1,3 milliarder euro, 14,5 milliarder kroner, er lovet til Sudan på en internasjonal bistandskonferanse i Berlin.\n\nDen internasjonale konferansen i Berlin ble holdt på treårsdagen for starten på borgerkrigen i Sudan.\n\nI forbindelse med konferansen har Norge trappet opp bistanden til Sudan med 470 millioner kroner.\n\nSudan\n\nDet har vært krig i Sudan siden 15. april 2023. Da brøt det ut blodige kamper rundt hovedstaden Khartoum mellom regjeringsstyrker og den paramilitære gruppen RSF.\n\nNorsk bistand\n\nStøre-regjeringen reduserer bistandsbudsjettet for 2022 med 750 millioner kroner sammenlignet med forslaget fra den avgåtte Solberg-regjeringen.",
+      "excerpt": "Under en internasjonal konferanse om det krigsherjede Sudan i Berlin onsdag, kom det løfter om mer enn 1,3 milliarder euro, 14,5 milliarder kroner, i bistand.\n\nTysklands utenriksminister Johann Wadephul sier mer enn 1,3 milliarder euro, 14,5 milliarder kroner, er lovet til Sudan på en internasjonal...",
+      "image": "https://images.unsplash.com/photo-1705413868961-d652425d6278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYyNzI4MjF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/lofter-om-14_5-milliarder-kroner-i-stotte-til-sudan-1.17848532",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-15T17:07:01.258Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776272819725.9421,
+      "title": "Sikkerhetshull gjorde Telia-kunder sporbare: – Vanvittig opplevelse",
+      "slug": "sikkerhetshull-gjorde-teliakunder-sporbare-vanvittig-oppleve",
+      "content": "Mobilkunder hos Telia har siden 2023 vært sporbare via mobilen, inkludert sentrale politikere på Stortinget.\n\nFeilen ble oppdaget av en sikkerhetsforsker 20. mars i år. NRK varslet Telia om sikkerhetshullet 13. april – tirsdag denne uken.\n\nMobilkunder hos Telia har siden 2023 vært sporbare via mobilen, inkludert sentrale politikere på Stortinget.",
+      "excerpt": "Mobilkunder hos Telia har siden 2023 vært sporbare via mobilen, inkludert sentrale politikere på Stortinget.\n\nFeilen ble oppdaget av en sikkerhetsforsker 20. mars i år. NRK varslet Telia om sikkerhetshullet 13. april – tirsdag denne uken.\n\nMobilkunder hos Telia har siden 2023 vært sporbare via...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/sikkerhetshull-gjorde-telia-kunder-sporbare_-_-vanvittig-opplevelse-1.17848456",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-15T17:06:59.725Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776272818119.7239,
+      "title": "Sp vil avlyse byggetrinn tre i det nye regjeringskvartalet",
+      "slug": "sp-vil-avlyse-byggetrinn-tre-i-det-nye-regjeringskvartalet",
+      "content": "Leder i Senterpartiet, Trygve Slagsvold Vedum, mener det er sløseri dersom regjeringen fullfører byggetrinn tre i det nye regjeringskvartalet.\n\n– Det er en veldig råflott tilnærming at man ikke kan bruke noen av de eksisterende bygga, sier Vedum til NRK.\n\nDigitaliserings- og forvaltningsminister Karianne Tung sier foreløpige rapporter og utredninger viser at det å gjenbruke de byggene som Vedum snakker om, er dobbelt så dyrt.\n\nDet nye regjeringskvartalet i Oslo åpnet mandag. Totalanslaget på alle tre byggetrinn er forventet å være på over 50 milliarder kroner.",
+      "excerpt": "Leder i Senterpartiet, Trygve Slagsvold Vedum, mener det er sløseri dersom regjeringen fullfører byggetrinn tre i det nye regjeringskvartalet.\n\n– Det er en veldig råflott tilnærming at man ikke kan bruke noen av de eksisterende bygga, sier Vedum til NRK.\n\nDigitaliserings- og forvaltningsminister...",
+      "image": "https://images.unsplash.com/photo-1765315163412-d60dcb828fe5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYyNzI4MTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/sp-vil-avlyse-byggetrinn-tre-i-det-nye-regjeringskvartalet--1.17848539",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-15T17:06:58.119Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776265656121.5413,
       "title": "&#039;It’s a joke&#039;: Foreigners in Norway warn against trusting UDI wait times",
       "slug": "039its-a-joke039-foreigners-in-norway-warn-against-trusting-",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-13T20:57:49.794Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776113868119.28,
-      "title": "IEA tror April blir tøffere for energimarkedet",
-      "slug": "iea-tror-april-blir-tffere-for-energimarkedet",
-      "content": "Det internasjonale energibyrået (IEA) advarer om at energikrisen kan forverres som følge av krigen i Iran.\n\nIEA-sjef Fatih Birol peker på at situasjonen i april ser mørkere ut enn den var i mars.\n\nMens leveransene i mars besto av varer som ble lastet før konflikten brøt ut, melder Birol at det så langt i april ikke har blitt lastet noe nytt i Persiabukta.\n\n– Jo lenger avbruddet varer, desto mer alvorlig blir problemet, sa Birol etter et møte hos Det internasjonale pengefondet (IMF) mandag.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Det internasjonale energibyrået (IEA) advarer om at energikrisen kan forverres som følge av krigen i Iran.\n\nIEA-sjef Fatih Birol peker på at situasjonen i april ser mørkere ut enn den var i mars.\n\nMens leveransene i mars besto av varer som ble lastet før konflikten brøt ut, melder Birol at det så...",
-      "image": "https://images.unsplash.com/photo-1642508168789-010f910ce590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYxMTM4Njh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/iea-tror-april-blir-toffere-for-energimarkedet-1.17845533",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-13T20:57:48.119Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776113866346.2651,
-      "title": "Tyskland ber Israel om våpenhvile i Libanon",
-      "slug": "tyskland-ber-israel-om-vpenhvile-i-libanon",
-      "content": "Tysklands forbundskansler Friedrich Merz ber Israels statsminister Benjamin Netanyahu til å stanse angrepene mot Libanon og starte fredsforhandlinger.\n\nI en telefonsamtale med Netanyahu uttrykte Merz dyp bekymring for de menneskelige lidelsene i landet, hvor over 2000 mennesker er drept og over 6700 er såret siden begynnelsen av mars, ifølge tall fra helsedepartementet i Libanon.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
-      "excerpt": "Tysklands forbundskansler Friedrich Merz ber Israels statsminister Benjamin Netanyahu til å stanse angrepene mot Libanon og starte fredsforhandlinger.\n\nI en telefonsamtale med Netanyahu uttrykte Merz dyp bekymring for de menneskelige lidelsene i landet, hvor over 2000 mennesker er drept og over...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/tyskland-ber-israel-om-vapenhvile-i-libanon-1.17845542",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-13T20:57:46.347Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776107834029.4148,
-      "title": "Fjernet bilde av Donald Trump som Jesus etter kritikk fra flere støttespillere",
-      "slug": "fjernet-bilde-av-donald-trump-som-jesus-etter-kritikk-fra-fl",
-      "content": "USAs president Donald Trump publiserte søndag et KI-generert bilde av seg selv som en Jesus-lignende skikkelse. Nå er innlegget slettet, etter kritikk fra flere støttespillere.\n\nBrilyn Hollyhand, som var medformann for Det republikanske partiets ungdomsråd (RNC Youth Advisory Council), skriver på X:\n\n– Dette er grov blasfemi. Tro er ikke en rekvisitt. Du trenger ikke å fremstille deg selv som en frelser når merittlisten din burde tale for seg selv.\n\nInnlegget viser Trump i en hvit kappe med en tilsynelatende helbredende hånd på hodet til en syk mann, og kom midt under hans eskalerende feide med pave Leo, som har kritisert den amerikansk-israelske krigen mot Iran, og kalt den umenneskelig.\n\nTrump har i ettertid hevdet at han trodde KI-bildet framstilte ham som en lege.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.",
-      "excerpt": "USAs president Donald Trump publiserte søndag et KI-generert bilde av seg selv som en Jesus-lignende skikkelse. Nå er innlegget slettet, etter kritikk fra flere støttespillere.\n\nBrilyn Hollyhand, som var medformann for Det republikanske partiets ungdomsråd (RNC Youth Advisory Council), skriver på...",
-      "image": "https://images.unsplash.com/photo-1681025277420-8120763b3e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYxMDc4MzN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/fjernet-bilde-av-donald-trump-som-jesus-etter-kritikk-fra-flere-stottespillere-1.17845362",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-13T19:17:14.029Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 491,
+    "totalFetched": 494,
     "totalPublished": 77,
-    "lastFetch": "2026-04-15T15:07:37.122Z",
+    "lastFetch": "2026-04-15T17:07:02.759Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
