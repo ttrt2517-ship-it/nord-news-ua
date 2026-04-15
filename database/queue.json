@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1776293052076.8264,
+      "title": "Financial Times: Libanon og Irael nær avtale",
+      "slug": "financial-times-libanon-og-irael-nr-avtale",
+      "content": "Libanesiske myndigheter sier det pågår arbeid for å få på plass en våpenhvile med Israel som kan kunngjøres i «nær fremtid»\n\nEn eventuell avtale er trolig knyttet til hvor lenge en våpenhvile mellom USA og Iran varer, ifølge Financial Times.\n\nSamtidig har Pakistans forsvarssjef kommet til Teheran som del av et høynivåforsøk på å få slutt på krigen mellom USA, Israel og Iran.\n\nUSAs president Donald Trump sier en avtale med Iran er nær, men Iran har ikke forpliktet seg til flere samtaler.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Libanesiske myndigheter sier det pågår arbeid for å få på plass en våpenhvile med Israel som kan kunngjøres i «nær fremtid»\n\nEn eventuell avtale er trolig knyttet til hvor lenge en våpenhvile mellom USA og Iran varer, ifølge Financial Times.\n\nSamtidig har Pakistans forsvarssjef kommet til Teheran...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/financial-times_-libanon-og-irael-naer-avtale-1.17848828",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-15T22:44:12.076Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776286426938.0344,
       "title": "Senatet stemte ned forslag om å stanse Iran-krigen",
       "slug": "senatet-stemte-ned-forslag-om-stanse-irankrigen",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-14T06:01:45.935Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776134802297.2556,
-      "title": "Flyselskapet Qantas advarer om økte drivstoffpriser",
-      "slug": "flyselskapet-qantas-advarer-om-kte-drivstoffpriser",
-      "content": "Det australske flyselskapet Qantas advarer om at de økte prisene på flydrivstoff kan øke selskapets kostnader med flere milliarder kroner det neste halvåret.\n\nI en fersk markedsoppdatering tirsdag opplyser selskapet at de venter en kostnadsøkning på opptil 800 millioner australske dollar (som tilsvarer rundt 6 milliarder norske kroner) i andre halvår av 2026.\n\nÅrsaken er stor usikkerhet rundt leveransene av olje og drivstoff i verden, noe som har drevet prisene kraftig opp.\n\nSelskapet varsler at de nå overvåker situasjonen svært tett. Det er foreløpig ikke kjent om kostnadsøkningen vil føre til dyrere flybilletter for de reisende, melder nyhetsbyrået AFP.\n\nAustralia\n\nSosialdemokraten Anthony Albanese overtok som statsminister etter Scott Morrison etter valget 21. mai 2022. Albanese har lovet å trappe opp klimakampen, men han vil ikke love å stenge kullgruvene i landet.\n\nOljeprisen\n\nPrisen på nordsjøolje svinger kraftig, og er nå på det laveste nivået på 15 måneder. OPEC+-landene har blitt enige om å kutte i oljeproduksjonen. Saudi-Arabia og Russland vil begge kutte 500.000 fat daglig fra mai 2023.",
-      "excerpt": "Det australske flyselskapet Qantas advarer om at de økte prisene på flydrivstoff kan øke selskapets kostnader med flere milliarder kroner det neste halvåret.\n\nI en fersk markedsoppdatering tirsdag opplyser selskapet at de venter en kostnadsøkning på opptil 800 millioner australske dollar (som...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/flyselskapet-qantas-advarer-om-okte-drivstoffpriser-1.17845572",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-14T02:46:42.297Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 500,
+    "totalFetched": 501,
     "totalPublished": 77,
-    "lastFetch": "2026-04-15T20:53:48.413Z",
+    "lastFetch": "2026-04-15T22:44:14.522Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
