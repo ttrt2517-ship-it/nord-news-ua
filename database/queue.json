@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776379356472.9275,
+      "title": "Børsfall for Netflix",
+      "slug": "brsfall-for-netflix",
+      "content": "Strømselskapet Netflix falt 9 prosent på børsen torsdag da inntektsresultatet endte på 12,25 milliarder dollar i årets tre første måneder. Det er 16 prosent mer sammenlignet med samme periode i fjor.\n\nOverskuddet i år skyldes en engangsutbetaling som Netflix fikk fordi de trakk seg fra kjøpet av Warner Bros. Discovery. Siden Netflix valgte å ikke by mer penger, gikk avtalen i stedet til en konkurrent, noe som ikke ble så godt mottatt i markedet.\n\nStrømmetjenester\n\nRegjeringen vil ha en egen forbrukerkjøpslov for apper og strømmetjenester. Vi bruker mer penger på strømmetjenester, og regjeringen foreslår nå en ny lov som styrker forbrukernes rettigheter.",
+      "excerpt": "Strømselskapet Netflix falt 9 prosent på børsen torsdag da inntektsresultatet endte på 12,25 milliarder dollar i årets tre første måneder. Det er 16 prosent mer sammenlignet med samme periode i fjor.\n\nOverskuddet i år skyldes en engangsutbetaling som Netflix fikk fordi de trakk seg fra kjøpet av...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/borsfall-for-netflix--1.17850373",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-16T22:42:36.472Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776379355065.4998,
+      "title": "Ti dagers våpenhvile har trådt i kraft mellom Israel og Libanon",
+      "slug": "ti-dagers-vpenhvile-har-trdt-i-kraft-mellom-israel-og-libano",
+      "content": "En ti dager lang våpenhvile mellom Israel og Libanon trådte i kraft ved midnatt natt til fredag (klokken 23:00 norsk tid). Dette skjedde etter at USAs president Donald Trump tidligere annonserte avtalen og sa at han håper å arrangere et historisk møte mellom lederne fra de to landene snart, melder nyhetsbyrået AFP.\n\nIsrael har kjempet mot militsgruppen Hizbollah som startet angrep for å støtte Iran forrige måned.\n\nRett før våpenhvilen trådte i kraft meldte Det israelske militæret om at de har truffet 380 Hizbollah-mål de siste 24 timene.\n\nHizbollah har ikke offisielt bekreftet om de vil anerkjenne våpenhvilen, men et av gruppens parlamentsmedlemmer uttalte til AFP torsdag at de vil respektere avtalen dersom de israelske angrepene mot deres krigere stanser.",
+      "excerpt": "En ti dager lang våpenhvile mellom Israel og Libanon trådte i kraft ved midnatt natt til fredag (klokken 23:00 norsk tid). Dette skjedde etter at USAs president Donald Trump tidligere annonserte avtalen og sa at han håper å arrangere et historisk møte mellom lederne fra de to landene snart, melder...",
+      "image": "https://images.unsplash.com/photo-1616263675956-c81aca7fbd76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYzNzkzNTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ti-dagers-vapenhvile-har-tradt-i-kraft-mellom-israel-og-libanon-1.17850388",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-16T22:42:35.065Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776379353539.223,
+      "title": "G7: Haster å begrense kostnadene ved krigen i Midtøsten",
+      "slug": "g7-haster-begrense-kostnadene-ved-krigen-i-midtsten",
+      "content": "Finansministrene i G7-landene advarer om at det haster å begrense de økonomiske skadene etter krigen i Midtøsten. Under et møte i Washington understreket de behovet for å arbeide for en varig fred i regionen.\n\nKrigen var et av tre hovedtema da finansministrene og sentralbanksjefene møttes under vårmøtene til Det internasjonale pengefondet (IMF) og Verdensbanken i Washington.\n\nI tillegg diskuterte de hvordan man kan sikre forsyningskjeder for viktige mineraler, samt videre støtte til Ukraina.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Finansministrene i G7-landene advarer om at det haster å begrense de økonomiske skadene etter krigen i Midtøsten. Under et møte i Washington understreket de behovet for å arbeide for en varig fred i regionen.\n\nKrigen var et av tre hovedtema da finansministrene og sentralbanksjefene møttes under...",
+      "image": "https://images.unsplash.com/photo-1695982206853-e00a5ae58297?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYzNzkzNTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/g7_-haster-a-begrense-kostnadene-ved-krigen-i-midtosten-1.17850400",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-16T22:42:33.539Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776367158769.3757,
       "title": "Vil selge den offentlige skolen for én krone",
       "slug": "vil-selge-den-offentlige-skolen-for-n-krone",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-15T06:01:26.831Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776232885185.5088,
-      "title": "Russiske medier: Putin skal på besøk til Kina",
-      "slug": "russiske-medier-putin-skal-p-besk-til-kina",
-      "content": "Russlands president Vladimir Putin skal besøke Kina i første halvdel av 2026.\n\nDet melder russisk-statlige medier som siterer utenriksminister Sergej Lavrov, ifølge Reuters.\n\nPlanene for besøket er ennå ikke helt landet, ifølge Lavrov. Russiske myndigheter har ikke presisert når besøket finner sted.\n\nKinesiske myndigheter har foreløpig ikke kommentert.\n\nKina og Russland har tette politiske og økonomiske bånd, som er blitt ytterligere styrket etter Russlands invasjon av Ukraina i 2022, ifølge NTB.\n\nHer fra da Putin møtte Kinas president Xi Jinping i Tianjin i august i fjor:",
-      "excerpt": "Russlands president Vladimir Putin skal besøke Kina i første halvdel av 2026.\n\nDet melder russisk-statlige medier som siterer utenriksminister Sergej Lavrov, ifølge Reuters.\n\nPlanene for besøket er ennå ikke helt landet, ifølge Lavrov. Russiske myndigheter har ikke presisert når besøket finner...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russiske-medier_-putin-skal-pa-besok-til-kina-1.17847293",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-15T06:01:25.185Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776221033385.542,
-      "title": "Russisk blogger til Putin: – Folk er redde for deg",
-      "slug": "russisk-blogger-til-putin-folk-er-redde-for-deg",
-      "content": "Den russiske influenseren Viktorija Bonja retter uvanlig åpen kritikk mot president Vladimir Putin i en video som har fått stor oppmerksomhet.\n\n– Vladimir Vladimirovitsj, folk er redde for deg, sier Bonja i videoen , som har fått millioner av visninger og over 800.000 likerklikk på Instagram.\n\nHun sier at frykten gjelder flere grupper i samfunnet.\n\n– Folk er redde for deg, bloggere er redde for deg, artister er redde for deg, guvernører er redde for deg. Og du er presidenten i landet vårt. Jeg mener vi ikke burde være redde, sier hun.\n\nBonja bor ikke Russland og sier hun selv ikke er redd for Putin. Samtidig understreker hun at hun støtter ham og mener han er en sterk politiker, men at han er dårlig informert.",
-      "excerpt": "Den russiske influenseren Viktorija Bonja retter uvanlig åpen kritikk mot president Vladimir Putin i en video som har fått stor oppmerksomhet.\n\n– Vladimir Vladimirovitsj, folk er redde for deg, sier Bonja i videoen , som har fått millioner av visninger og over 800.000 likerklikk på Instagram.\n\nHun...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russisk-blogger-til-putin_-_-folk-er-redde-for-deg-1.17847165",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-15T02:43:53.385Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776221031743.3713,
-      "title": "Trump sier krigen med Iran er nær ved å være over",
-      "slug": "trump-sier-krigen-med-iran-er-nr-ved-vre-over",
-      "content": "USAs president Donald Trump sier at krigen med Iran er nære ved å være over.\n\nDet kommer frem i et intervju med Fox Business, som sendes onsdag morgen lokalt tid.\n\nPå spørsmål om status for krigen i Iran svarer Trump:\n\n– Jeg tror den er nær ved å være slutt, ja. Jeg ser på det som svært nær ved å være over, sier han i et klipp som ble offentliggjort natt til onsdag.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "USAs president Donald Trump sier at krigen med Iran er nære ved å være over.\n\nDet kommer frem i et intervju med Fox Business, som sendes onsdag morgen lokalt tid.\n\nPå spørsmål om status for krigen i Iran svarer Trump:\n\n– Jeg tror den er nær ved å være slutt, ja. Jeg ser på det som svært nær ved å...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump-sier-krigen-med-iran-er-naer-ved-a-vaere-over-1.17847171",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-15T02:43:51.743Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 525,
+    "totalFetched": 528,
     "totalPublished": 77,
-    "lastFetch": "2026-04-16T20:52:00.821Z",
+    "lastFetch": "2026-04-16T22:42:37.806Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
