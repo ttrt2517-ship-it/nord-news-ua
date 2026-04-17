@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1776444984333.011,
+      "title": "Næringsministeren åpner for å øke drivstofflagrene",
+      "slug": "nringsministeren-pner-for-ke-drivstofflagrene",
+      "content": "NHO-sjef Ole Erik Almlid frykter Norge «stopper opp» dersom drivstoffkrisen slår til.\n\nNå åpner næringsminister Cecilie Myrseth (Ap) opp får å øke lagrene.\n\n– Det er en grunn til at vi satte i gang arbeid i mitt eget departement for å se på regler for å kunne ha større kapasitet, sier hun i Dagsnytt 18.\n\nNHO-sjef Ole Erik Almlid fryktar at oljenasjonen Noreg vil stoppe opp i ei krise utan drivstoff. No varslar regjeringa grep for å fylle opp lagera.",
+      "excerpt": "NHO-sjef Ole Erik Almlid frykter Norge «stopper opp» dersom drivstoffkrisen slår til.\n\nNå åpner næringsminister Cecilie Myrseth (Ap) opp får å øke lagrene.\n\n– Det er en grunn til at vi satte i gang arbeid i mitt eget departement for å se på regler for å kunne ha større kapasitet, sier hun i...",
+      "image": "https://images.unsplash.com/photo-1719412625724-bc03ed4dcf0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY0NDQ5ODR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/naeringsministeren-apner-for-a-oke-drivstofflagrene-1.17851539",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-17T16:56:24.333Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776432256618.434,
       "title": "FN: 47 kvinner og barn drept hver dag i Gazakrigen",
       "slug": "fn-47-kvinner-og-barn-drept-hver-dag-i-gazakrigen",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-15T19:21:10.947Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776280869300.828,
-      "title": "Politico: Orban står over EU-toppmøte",
-      "slug": "politico-orban-str-over-eutoppmte",
-      "content": "Ungarns statsminister Viktor Orbán står over neste ukes EU-toppmøte etter valgnederlaget, skriver Politico.\n\nKilder i EU opplyser til Politico at den avtroppende statsministeren har meldt avbud til neste ukes toppmøte på Kypros.\n\nOrbán erkjente valgnederlag søndag, etter at opposisjonspartiet vant over to tredels flertall i nasjonalforsamlingen.\n\nUngarn\n\nOpposisjonspartiet Tisza og partileder Peter Magyar har vunnet valget i Ungarn. Frem til nå har Russland-vennlige Viktor Orbán styrt landet. Det har han gjort siden 2010.",
-      "excerpt": "Ungarns statsminister Viktor Orbán står over neste ukes EU-toppmøte etter valgnederlaget, skriver Politico.\n\nKilder i EU opplyser til Politico at den avtroppende statsministeren har meldt avbud til neste ukes toppmøte på Kypros.\n\nOrbán erkjente valgnederlag søndag, etter at opposisjonspartiet vant...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/politico_-orban-star-over-eu-toppmote-1.17848732",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-15T19:21:09.300Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 544,
+    "totalFetched": 545,
     "totalPublished": 77,
-    "lastFetch": "2026-04-17T14:57:52.313Z",
+    "lastFetch": "2026-04-17T16:56:25.897Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
