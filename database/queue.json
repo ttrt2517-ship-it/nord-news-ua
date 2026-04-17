@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776458982588.603,
+      "title": "Rykker ut til påkjørsel",
+      "slug": "rykker-ut-til-pkjrsel",
+      "content": "Politiet og ambulanse er i Grenseveien i Oslo, etter melding om en trafikkulykke.\n\n– Det er meldt om at to personer er påkjørt av bil. Det er uvisst skadeomfang, opplyser politiet.\n\nEn dame blir tilsett av ambulansepersonell og ifølge politiet tyder det ikke på at noen er kritisk skadd.\n\nPolitiet jobber på stedet for å få klarhet i hendelsesforløpet.\n\nTrafikk i Stor-Oslo\n\nEr du ute på veiene, eller sitter på toget, bussen, trikken eller T-banen?\nHold deg oppdatert på trafikken i Oslo og Akershus.",
+      "excerpt": "Politiet og ambulanse er i Grenseveien i Oslo, etter melding om en trafikkulykke.\n\n– Det er meldt om at to personer er påkjørt av bil. Det er uvisst skadeomfang, opplyser politiet.\n\nEn dame blir tilsett av ambulansepersonell og ifølge politiet tyder det ikke på at noen er kritisk skadd.\n\nPolitiet...",
+      "image": "https://images.unsplash.com/photo-1582073389612-c18eb815b0e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY0NTg5ODJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/rykker-ut-til-pakjorsel-1.17851643",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-17T20:49:42.588Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776458980965.0137,
+      "title": "Nye rekorder på Wall Street etter oljeprisfall",
+      "slug": "nye-rekorder-p-wall-street-etter-oljeprisfall",
+      "content": "Børsene i New York steg kraftig etter at Iran kunngjorde gjenåpning av Hormuzstredet, noe som utløste et fall i oljeprisene fredag. For tredje dag på rad endte både den brede S&P 500-indeksen og den teknologitunge Nasdaq-indeksen på nye rekordnivåer, melder nyhetsbyrået AFP.\n\n• S&P 500: gikk opp 1,2 prosent • Nasdaq Composite: opp 1,5 prosent • Dow Jones: opp 1,8 prosent",
+      "excerpt": "Børsene i New York steg kraftig etter at Iran kunngjorde gjenåpning av Hormuzstredet, noe som utløste et fall i oljeprisene fredag. For tredje dag på rad endte både den brede S&P 500-indeksen og den teknologitunge Nasdaq-indeksen på nye rekordnivåer, melder nyhetsbyrået AFP.\n\n• S&P 500: gikk opp...",
+      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY0NTg5ODB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/nye-rekorder-pa-wall-street-etter-oljeprisfall-1.17851640",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-17T20:49:40.965Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776458979401.744,
+      "title": "Haiti og Den dominikanske republikk gjenåpner luftrommet",
+      "slug": "haiti-og-den-dominikanske-republikk-gjenpner-luftrommet",
+      "content": "Haiti og Den dominikanske republikk er enige om å åpne luftrommet mellom de to landene fra og med i mai, ifølge en uttalelse fredag.\n\nDet har ikke vært flytrafikk mellom de to landene på over to år.\n\nTiltaket har som mål å legge til rette for mobilitet, fremme økonomiske bånd og styrke relasjonene mellom de to landene, heter det i en felles kunngjøring.\n\nHaiti\n\nHaiti er et land på den karibiske øya Hispaniola. Landet er et av de fattigste i verden, preget av politisk uro, gjengvold og naturkatastrofer.",
+      "excerpt": "Haiti og Den dominikanske republikk er enige om å åpne luftrommet mellom de to landene fra og med i mai, ifølge en uttalelse fredag.\n\nDet har ikke vært flytrafikk mellom de to landene på over to år.\n\nTiltaket har som mål å legge til rette for mobilitet, fremme økonomiske bånd og styrke relasjonene...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/haiti-og-den-dominikanske-republikk-gjenapner-luftrommet-1.17851684",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-17T20:49:39.401Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776452668312.4338,
       "title": "Equinor øker produksjonen på Mongstad",
       "slug": "equinor-ker-produksjonen-p-mongstad",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-16T02:51:17.841Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776293052076.8264,
-      "title": "Financial Times: Libanon og Irael nær avtale",
-      "slug": "financial-times-libanon-og-irael-nr-avtale",
-      "content": "Libanesiske myndigheter sier det pågår arbeid for å få på plass en våpenhvile med Israel som kan kunngjøres i «nær fremtid»\n\nEn eventuell avtale er trolig knyttet til hvor lenge en våpenhvile mellom USA og Iran varer, ifølge Financial Times.\n\nSamtidig har Pakistans forsvarssjef kommet til Teheran som del av et høynivåforsøk på å få slutt på krigen mellom USA, Israel og Iran.\n\nUSAs president Donald Trump sier en avtale med Iran er nær, men Iran har ikke forpliktet seg til flere samtaler.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Libanesiske myndigheter sier det pågår arbeid for å få på plass en våpenhvile med Israel som kan kunngjøres i «nær fremtid»\n\nEn eventuell avtale er trolig knyttet til hvor lenge en våpenhvile mellom USA og Iran varer, ifølge Financial Times.\n\nSamtidig har Pakistans forsvarssjef kommet til Teheran...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/financial-times_-libanon-og-irael-naer-avtale-1.17848828",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-15T22:44:12.076Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776286426938.0344,
-      "title": "Senatet stemte ned forslag om å stanse Iran-krigen",
-      "slug": "senatet-stemte-ned-forslag-om-stanse-irankrigen",
-      "content": "Det amerikanske senatet avviste onsdag et forslag om at krigen mot Iran må forankres i kongressen.\n\nForslaget innebar at krigføringen USA har innledet i samarbeid med Israel mot Iran, må godkjennes av kongressen.\n\nNær alle republikanere støttet president Donald Trump og krigføringen, og stemte ned forslaget 52–47.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.\n\nAmerikansk politikk\n\nDemokratene og Republikanerne er USAs store partier. I Kongressen er det demokratisk flertall i Representantenes Hus, og også i Senatet når visepresident Kamala Harris&#039; dobbeltstemme regnes med. Etter valget i 2020 er det strid blant republikanere.",
-      "excerpt": "Det amerikanske senatet avviste onsdag et forslag om at krigen mot Iran må forankres i kongressen.\n\nForslaget innebar at krigføringen USA har innledet i samarbeid med Israel mot Iran, må godkjennes av kongressen.\n\nNær alle republikanere støttet president Donald Trump og krigføringen, og stemte ned...",
-      "image": "https://images.unsplash.com/photo-1619907478843-317441713686?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYyODY0MjZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/senatet-stemte-ned-forslag-om-a-stanse-iran-krigen-1.17848764",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-15T20:53:46.938Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776286425279.4656,
-      "title": "LO: Enighet i Spekter-oppgjøret",
-      "slug": "lo-enighet-i-spekteroppgjret",
-      "content": "Sent onsdag kveld ble det enighet i de sentrale forhandlingene mellom LO og Spekter.\n\nLO skriver i en pressemelding at alle deres medlemmer er sikret minst 12.675 kroner i lønnstillegg.\n\n– Dette er et godt utgangspunkt for de som skal forhandle lokalt, sier LO-nestleder Henriette Jevnaker.\n\nDe lokale forhandlingene har en generell frist 13. mai, men både sykehus, helseforetak, Vy Buss og NRK har egne frister.\n\n– Det er egentlig nå oppgjøret begynner, sier Jevnaker.",
-      "excerpt": "Sent onsdag kveld ble det enighet i de sentrale forhandlingene mellom LO og Spekter.\n\nLO skriver i en pressemelding at alle deres medlemmer er sikret minst 12.675 kroner i lønnstillegg.\n\n– Dette er et godt utgangspunkt for de som skal forhandle lokalt, sier LO-nestleder Henriette Jevnaker.\n\nDe...",
-      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYyODY0MjV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/lo_-enighet-i-spekter-oppgjoret-1.17848641",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-15T20:53:45.280Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 548,
+    "totalFetched": 551,
     "totalPublished": 77,
-    "lastFetch": "2026-04-17T19:04:30.047Z",
+    "lastFetch": "2026-04-17T20:49:44.395Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
