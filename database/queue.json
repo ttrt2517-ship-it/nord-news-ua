@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776394026460.3667,
+      "title": "ICE-leder Todd Lyons går av",
+      "slug": "iceleder-todd-lyons-gr-av",
+      "content": "Fungerende direktør for det amerikanske immigrasjonspolitiet (ICE), Todd Lyons, forlater stillingen 31. mai til fordel for privat sektor. Lyons har ledet etaten siden mars 2025 og har vært en nøkkelfigur i Trump-administrasjonens strenge innvandringspolitikk og massedeportasjoner.\n\nDet hvite har omtalt Lyons som en «amerikansk patriot» og en dyktig leder, men hans embetsperiode vært preget av sterk kritikk fra menneskerettsgrupper. Den siste tiden har også vært preget av uro etter dødelige skyteepisoder i Minnesota som utløste landsomfattende protester.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Fungerende direktør for det amerikanske immigrasjonspolitiet (ICE), Todd Lyons, forlater stillingen 31. mai til fordel for privat sektor. Lyons har ledet etaten siden mars 2025 og har vært en nøkkelfigur i Trump-administrasjonens strenge innvandringspolitikk og massedeportasjoner.\n\nDet hvite har...",
+      "image": "https://images.unsplash.com/photo-1686731709928-a603b9ca9a82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYzOTQwMjZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ice-leder-todd-lyons-gar-av-1.17850422",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-17T02:47:06.460Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776394024871.6545,
+      "title": "Artist Pete Knutsen er død",
+      "slug": "artist-pete-knutsen-er-dd",
+      "content": "Den norske artisten Pete Knutsen er død, 78 år gammel. Han var blant annet gitarist i Popol Vuh og dirigerte Norges bidrag i Eurovision ved flere anledninger.\n\nKnutsen fra Kirkenes ble særlig kjent for sitt arbeid som tangent- og gitarist i sentrale band som Popol Vuh og senere Popol Ace, skriver Extraavisen , en nettavis for Nittedal.\n\nKnutsen arbeidet gjennom karrieren med flere av landets mest folkekjære artister.\n\nBlant annet bidro han på en lang rekke kjente utgivelser, blant annet med Wenche Myhre, Vamp, Øystein Sunde, New Jordal Swingers og Vamp – for å nevne noen få, skriver Agder Press , et lokalt nyhetsbyrå i Agder.\n\nKnutsen ble også kjent for å ha en sentral rolle i Melodi Grand Prix gjennom mange år, både som arrangør og musiker. Mellom 1989 og 1994 dirigerte Knutsen Norges bidrag i Eurovision Song Contest ved flere anledninger.\n\nUnder Spellemannprisen 1980 ble Knutsen tildelt diplom for sine bidrag som arrangør og musiker på ulike utgivelser. (NTB)\n\nMusikk\n\nInnhold fra NRK om musikk. For musikken fra NRKs sendinger, kan du besøke disse sidene. Se også alt om musikk i NRK TV og hør alle musikkprogrammer i NRK Radio.",
+      "excerpt": "Den norske artisten Pete Knutsen er død, 78 år gammel. Han var blant annet gitarist i Popol Vuh og dirigerte Norges bidrag i Eurovision ved flere anledninger.\n\nKnutsen fra Kirkenes ble særlig kjent for sitt arbeid som tangent- og gitarist i sentrale band som Popol Vuh og senere Popol Ace, skriver...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/artist-pete-knutsen-er-dod-1.17850423",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-17T02:47:04.872Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776394023477.209,
+      "title": "Mann knivstukket i Østfold",
+      "slug": "mann-knivstukket-i-stfold",
+      "content": "– En mann er sendt til Ulllevål sykehus etter å ha blitt funnet med flere knivstikk i overkroppen i Askim i Indre Østfold natt til fredag, forteller operasjonsleder Ronny Hellerud Samuelsen i Øst politidistrikt til NRK\n\nMannen, som ble funnet av tilfeldige, er fraktet til Ullevål med ukjent skadegrad.\n\nPolitiet jobber på stedet med flere etterforskningsskritt.",
+      "excerpt": "– En mann er sendt til Ulllevål sykehus etter å ha blitt funnet med flere knivstikk i overkroppen i Askim i Indre Østfold natt til fredag, forteller operasjonsleder Ronny Hellerud Samuelsen i Øst politidistrikt til NRK\n\nMannen, som ble funnet av tilfeldige, er fraktet til Ullevål med ukjent...",
+      "image": "https://images.unsplash.com/photo-1641468994400-d2f67db074dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYzOTQwMjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-knivstukket-i-ostfold--1.17850425",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-17T02:47:03.477Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776379356472.9275,
       "title": "Børsfall for Netflix",
       "slug": "brsfall-for-netflix",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-15T09:22:24.428Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776244943031.6038,
-      "title": "Dømt til fengsel for mishandling av ekskjærester",
-      "slug": "dmt-til-fengsel-for-mishandling-av-ekskjrester",
-      "content": "En mann fra Romerike er dømt til ni år og fem måneders fengsel for voldtekter og grov mishandling av tre ekskjærester, skriver Romerikes Blad (RB).\n\nDe fornærmede kvinnene beskrev i retten mannen som kontrollerende, manipulerende og voldelig.\n\nBlant annet har han kontrollert hva kvinnene kunne se på TV, hvem de fikk ha som kontakter på telefonen, og hvilke klær de fikk gå med. Mannen overvåket også kjærestene med kameraer i boligen, ifølge dommen.\n\nFor en av kvinnene fortsatte mishandlingen også etter at forholdet var slutt.\n\nMannen har sittet i varetekt siden han ble pågrepet i mars i fjor. Han har hele veien nekta straffskyld for mishandling, skriver RB.\n\nPolitisaker på Romerike\n\nKriminalitet og politisaker i Romerike-regionen.",
-      "excerpt": "En mann fra Romerike er dømt til ni år og fem måneders fengsel for voldtekter og grov mishandling av tre ekskjærester, skriver Romerikes Blad (RB).\n\nDe fornærmede kvinnene beskrev i retten mannen som kontrollerende, manipulerende og voldelig.\n\nBlant annet har han kontrollert hva kvinnene kunne se...",
-      "image": null,
-      "original_url": "https://www.nrk.no/stor-oslo/domt-til-fengsel-for-mishandling-av-ekskjaerester-1.17847599",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-15T09:22:23.032Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776232888776.7546,
-      "title": "Flere innstillinger i togtrafikken på Sørlandsbanen",
-      "slug": "flere-innstillinger-i-togtrafikken-p-srlandsbanen",
-      "content": "Flere tog som skulle gått på Sørlandsbanen mellom Oslo, Kristiansand og Stavanger i dag er innstilt på grunn av problemer med toget. Det melder Go-Ahead.\n\nSørlandsbanen\n\nSørlandsbanen driftes av Go-Ahead Nordic.\nDe tok over driften fra Vy (tidligere NSB) 15. desember 2019.\n\nVær og trafikk på Sørlandet\n\nHer følger NRK Sørlandet uvær og trafikk, når E18 eller E39 snør igjen, strømlinjer brytes eller elver går over sine bredder.",
-      "excerpt": "Flere tog som skulle gått på Sørlandsbanen mellom Oslo, Kristiansand og Stavanger i dag er innstilt på grunn av problemer med toget. Det melder Go-Ahead.\n\nSørlandsbanen\n\nSørlandsbanen driftes av Go-Ahead Nordic.\nDe tok over driften fra Vy (tidligere NSB) 15. desember 2019.\n\nVær og trafikk på...",
-      "image": "https://images.unsplash.com/photo-1698083781385-a8a7069c5cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYyMzI4ODh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/sorlandet/flere-innstillinger-i-togtrafikken-pa-sorlandsbanen-1.17847211",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-15T06:01:28.776Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776232886830.8281,
-      "title": "Rødt åpner for blått samarbeid",
-      "slug": "rdt-pner-for-bltt-samarbeid",
-      "content": "Rødt-leder Marie Sneve Martinussen leter etter nye flertall på Stortinget, også med Fremskrittspartiet.\n\n– Vi ønsker å finne fram med de fire rødgrønne partiene, men vi har ingen problemer med å samarbeide med Frp og et annet flertall for å få gjennomslag for vår politikk i saker som ikke er en del av budsjettavtalen, sier Martinussen til avisen.\n\nSelv om Rødt-lederen fremdeles har tro på samarbeidet med de rødgrønne partiene, understreker hun at hennes oppgave er å sikre et flertall for Rødts politikk, skriver NTB.\n\nSamarbeidet mellom de rødgrønne partiene gikk på en smell før påske da Senterpartiet brøt budsjettavtalen og sikret flertall for Høyres forslag om kutt i drivstoffprisene.\n\nPartiet Rødt\n\nPartiet Rødt ble stiftet i mars 2007 på grunnlag av Rød Valgallianse og AKP, med Rød ungdom som ungdomsorganisasjon. I 2025 gjorde partiet sitt beste valg noensinne, med 5,3 prosent oppslutning.",
-      "excerpt": "Rødt-leder Marie Sneve Martinussen leter etter nye flertall på Stortinget, også med Fremskrittspartiet.\n\n– Vi ønsker å finne fram med de fire rødgrønne partiene, men vi har ingen problemer med å samarbeide med Frp og et annet flertall for å få gjennomslag for vår politikk i saker som ikke er en del...",
-      "image": "https://images.unsplash.com/photo-1683797465484-109681506e0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYyMzI4ODZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/rodt-apner-for-blatt-samarbeid-1.17847271",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-15T06:01:26.831Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 528,
+    "totalFetched": 531,
     "totalPublished": 77,
-    "lastFetch": "2026-04-16T22:42:37.806Z",
+    "lastFetch": "2026-04-17T02:47:07.808Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
