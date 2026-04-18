@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1776496346661.2527,
+      "title": "Tenåringer sendes på leir for å bli krigsinfluensere",
+      "slug": "tenringer-sendes-p-leir-for-bli-krigsinfluensere",
+      "content": "Siden fullskala invasjon av Ukraina i 2022, har russiske myndigheter kraftig skjerpet kontrollen over medier og informasjonsflyt i landet. Skoler og unge blir særlig utsatt for statlig påvirkning.\n\nOver 120 unge deltok på en treningsleir i april for å bli krigsinfluensere, skriver NTB. Der fikk de opplæring i å produsere videoer, bruke kunstig intelligens og få følgere.\n\n– Vi har skapt et stort team med barn som forstår hvordan de skal spre statlige verdier, sier Vladislav Golovin, en tidligere soldat i den russiske hæren.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Siden fullskala invasjon av Ukraina i 2022, har russiske myndigheter kraftig skjerpet kontrollen over medier og informasjonsflyt i landet. Skoler og unge blir særlig utsatt for statlig påvirkning.\n\nOver 120 unge deltok på en treningsleir i april for å bli krigsinfluensere, skriver NTB. Der fikk de...",
+      "image": "https://images.unsplash.com/photo-1582073389612-c18eb815b0e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY0OTYzNDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/tenaringer-sendes-pa-leir-for-a-bli-krigsinfluensere-1.17851745",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-18T07:12:26.661Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776490927251.3936,
       "title": "Bygning overtent på Askøy",
       "slug": "bygning-overtent-p-asky",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-16T11:06:08.587Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776337567175.803,
-      "title": "Undersøkelse: 160.000 unge har omsorgsoppgaver",
-      "slug": "underskelse-160000-unge-har-omsorgsoppgaver",
-      "content": "En undersøkelse Helsedirektoratet har gjort, viser at i overkant av 160.000 unge har omsorgsoppgaver for foreldre eller søsken.\n\nIfølge undersøkelsen svarer unge med omsorgsoppgaver at de har lavere livskvalitet enn jevnaldrende, og at oppgavene påvirker skole, fritid og sosial deltakelse, viser undersøkelsen.\n\n– Undersøkelsen gir oss ny kunnskap om en viktig gruppe pårørende som ikke alltid blir sett og anerkjent, sier helsedirektør Cathrine M. Lofthus.",
-      "excerpt": "En undersøkelse Helsedirektoratet har gjort, viser at i overkant av 160.000 unge har omsorgsoppgaver for foreldre eller søsken.\n\nIfølge undersøkelsen svarer unge med omsorgsoppgaver at de har lavere livskvalitet enn jevnaldrende, og at oppgavene påvirker skole, fritid og sosial deltakelse, viser...",
-      "image": "https://images.unsplash.com/photo-1664790660158-8470f8bc548c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYzMzc1Njd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/undersokelse_-160.000-unge-har-omsorgsoppgaver-1.17849522",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-16T11:06:07.176Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 559,
+    "totalFetched": 560,
     "totalPublished": 77,
-    "lastFetch": "2026-04-18T05:42:08.652Z",
+    "lastFetch": "2026-04-18T07:12:28.078Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
