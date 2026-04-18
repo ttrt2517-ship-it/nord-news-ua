@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1776508974625.1318,
+      "title": "Politiet jakter gjerningsperson etter knivstikking i Askim",
+      "slug": "politiet-jakter-gjerningsperson-etter-knivstikking-i-askim",
+      "content": "Ingen er pågrepet, men etterforskningen pågår for fullt etter at en mann ble funnet livstruende skadet i Askim natt til i går. Det opplyser politiadvokat Sigrid Fagerli i Øst politidistrikt.\n\nMannen ble funnet med flere knivstikk av en forbipasserende ute på gaten i et boligområde.\n\nAv hensyn til taushetsplikt kan politiadvokaten ikke opplyse om hvordan det går med mannen som ble innlagt på Ullevål sykehus i Oslo.",
+      "excerpt": "Ingen er pågrepet, men etterforskningen pågår for fullt etter at en mann ble funnet livstruende skadet i Askim natt til i går. Det opplyser politiadvokat Sigrid Fagerli i Øst politidistrikt.\n\nMannen ble funnet med flere knivstikk av en forbipasserende ute på gaten i et boligområde.\n\nAv hensyn til...",
+      "image": "https://images.unsplash.com/photo-1725636666190-f7cc04fd1033?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY1MDg5NzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/ostfold/politiet-jakter-gjerningsperson-etter-knivstikking-i-askim-1.17851792",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-18T10:42:54.625Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776502468798.2488,
       "title": "Airlines fear jet-fuel rationing due to Mideast war",
       "slug": "airlines-fear-jetfuel-rationing-due-to-mideast-war",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-16T13:51:11.161Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776347469599.9182,
-      "title": "Ukrainske F-16 kan ikke vedlikeholdes videre i Norge",
-      "slug": "ukrainske-f16-kan-ikke-vedlikeholdes-videre-i-norge",
-      "content": "Når Norge er ferdig med salget av F-16 til Romania, er det ikke lenger utstyr og deler til vedlikehold av F-16 i Norge.\n\nDet opplyste Kongsberg Aviation Maintenance Services (Kams) og Forsvarsmateriell (FMA) til Forsvarsdepartementet 10. april, skriver sistnevnte i en pressemelding.\n\nKams har i dag ansvaret for å vedlikeholde og klargjøre de 32 F-16-flyene som Norge har avtalt å selge til Romania. (NTB)",
-      "excerpt": "Når Norge er ferdig med salget av F-16 til Romania, er det ikke lenger utstyr og deler til vedlikehold av F-16 i Norge.\n\nDet opplyste Kongsberg Aviation Maintenance Services (Kams) og Forsvarsmateriell (FMA) til Forsvarsdepartementet 10. april, skriver sistnevnte i en pressemelding.\n\nKams har i dag...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ukrainske-f-16-kan-ikke-vedlikeholdes-videre-i-norge-1.17849747",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-16T13:51:09.599Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 563,
+    "totalFetched": 564,
     "totalPublished": 77,
-    "lastFetch": "2026-04-18T08:54:29.799Z",
+    "lastFetch": "2026-04-18T10:42:56.011Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
