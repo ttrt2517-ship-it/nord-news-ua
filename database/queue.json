@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776578381731.432,
+      "title": "Alvorlig trafikkulykke i Asker – én omkom",
+      "slug": "alvorlig-trafikkulykke-i-asker-n-omkom",
+      "content": "En personbil har kjørt av veien i Asker tidlig søndag morgen. To personer er involvert i ulykken. En person var fastklemt. Den andre er fraktet til sykehus med luftambulanse for behandling.\n\n– Skadeomfanget er uavklart, opplyser politiet i Oslo klokken 05.11 søndag morgen.\n\nÉn mann i 30-årene døde etter ulykken. De nærmeste pårørende er varslet, opplyser politiet i en oppdatering.",
+      "excerpt": "En personbil har kjørt av veien i Asker tidlig søndag morgen. To personer er involvert i ulykken. En person var fastklemt. Den andre er fraktet til sykehus med luftambulanse for behandling.\n\n– Skadeomfanget er uavklart, opplyser politiet i Oslo klokken 05.11 søndag morgen.\n\nÉn mann i 30-årene døde...",
+      "image": "https://images.unsplash.com/photo-1729721277487-67e0db2fe164?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY1NzgzODF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/alvorlig-trafikkulykke-i-asker-_-en-omkom-1.17852383",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-19T05:59:41.731Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776578380166.4902,
+      "title": "Resultatet fra peruansk presidentvalg trolig ikke klart før midten av mai",
+      "slug": "resultatet-fra-peruansk-presidentvalg-trolig-ikke-klart-fr-m",
+      "content": "Resultatet fra første runde av presidentvalget i Peru, blir trolig ikke klart før midten av mai, opplyser den nasjonale valgdomstolen.\n\nIfølge den nasjonale valgdomstolen (JNE) skyldes den langsomme opptellingen en gjennomgang av mer enn 15.000 omstridte stemmesedler, der rundt 30 prosent gjelder presidentvalget og resten er knyttet til parlamentsvalget.\n\nTil kringkasteren RPP opplyses det at de forventer å resultatene klare rundt midten av mai.\n\nDa 93,3 prosent av stemmene var talt opp, ledet høyrekandidaten Keiko Fujimori med 17 prosent oppslutning. Venstreorienterte Roberto Sanchez lå på andreplass med 12 prosent, mens ultrakonservative Rafael Lopez Aliaga hadde 11,9 prosent.",
+      "excerpt": "Resultatet fra første runde av presidentvalget i Peru, blir trolig ikke klart før midten av mai, opplyser den nasjonale valgdomstolen.\n\nIfølge den nasjonale valgdomstolen (JNE) skyldes den langsomme opptellingen en gjennomgang av mer enn 15.000 omstridte stemmesedler, der rundt 30 prosent gjelder...",
+      "image": "https://images.unsplash.com/photo-1661698048195-08e74015713b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY1NzgzODB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/resultatet-fra-peruansk-presidentvalg-trolig-ikke-klart-for-midten-av-mai-1.17852384",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-19T05:59:40.166Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776578378601.0186,
+      "title": "Brudd i meklingen:  Streik i hotell- og restaurantnæringen",
+      "slug": "brudd-i-meklingen-streik-i-hotell-og-restaurantnringen",
+      "content": "Seks timer på overtid brøt Fellesforbundet meklingen med NHO Reiseliv. Klokken 12 tas 1627 medlemmer i hotell- og restaurantnæringen ut til streik.\n\n– Hotell- og restaurantarbeidere har noen av landets laveste lønninger, men de har de samme utgiftene til mat og husleie som alle andre. Uten et tilbud om reell lønnsøkning ser vi ingen annen utvei enn streik, sier Dag-Einar Sivertsen, forhandlingsleder fra Fellesforbundet i en pressemelding.\n\nFellesforbundet vil trappe opp streiken allerede førstkommende torsdag. Da vil over 1000 nye medlemmer i 79 bedrifter tas ut i streik. Totalt vil da 2668 ansatte i hotell- og restaurantbransjen i 185 bedrifter være i streik.",
+      "excerpt": "Seks timer på overtid brøt Fellesforbundet meklingen med NHO Reiseliv. Klokken 12 tas 1627 medlemmer i hotell- og restaurantnæringen ut til streik.\n\n– Hotell- og restaurantarbeidere har noen av landets laveste lønninger, men de har de samme utgiftene til mat og husleie som alle andre. Uten et...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/brudd-i-meklingen_--streik-i-hotell--og-restaurantnaeringen-1.17852379",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-19T05:59:38.601Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776567215746.6272,
       "title": "Røykutvikling i bolig med flere boenheter i Kristiansand",
       "slug": "rykutvikling-i-bolig-med-flere-boenheter-i-kristiansand",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-17T09:20:38.245Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776405886222.7292,
-      "title": "SSB: Flere sliter med å få råd til tannlegen",
-      "slug": "ssb-flere-sliter-med-f-rd-til-tannlegen",
-      "content": "Levekårsundersøkelsen fra Statistisk sentralbyrå for 2025 viser at flere enn før synes det er vanskelig å ha råd til tannlege.\n\nTil sammen svarer 7,7 prosent – som tilsvarer 355.000 personer – at de ikke har råd til tannlegebesøk.\n\nI samme undersøkelse året i forveien svarte 7,1 prosent det samme. Det betyr en økning fra det ene året til det neste på 34.000 personer, ifølge SSB.\n\nPersonlig økonomi\n\nFolks personlige økonomi har vært preget av prisvekst og dyrtid. Det rammer dem som har lite fra før av ekstra hardt.",
-      "excerpt": "Levekårsundersøkelsen fra Statistisk sentralbyrå for 2025 viser at flere enn før synes det er vanskelig å ha råd til tannlege.\n\nTil sammen svarer 7,7 prosent – som tilsvarer 355.000 personer – at de ikke har råd til tannlegebesøk.\n\nI samme undersøkelse året i forveien svarte 7,1 prosent det samme....",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ssb_-flere-sliter-med-a-fa-rad-til-tannlegen-1.17850509",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-17T06:04:46.222Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776405884816.34,
-      "title": "Norge øker støtten til antikorrupsjonsarbeid i Ukraina",
-      "slug": "norge-ker-sttten-til-antikorrupsjonsarbeid-i-ukraina",
-      "content": "Det er inngått avtaler med to antikorrupsjonsorganisasjoner på til sammen 50 millioner kroner. Det opplyser UD.\n\nOrganisasjonene gjør undersøkende påvirkningsarbeid blant private og statlige virksomheter, med mål om å forhindre korrupsjon, ifølge pressemeldingen.\n\nUkraina\n\nUkraina er et land i Europa som grenser til Russland, Belarus, Polen, Moldova og Romania. Landet har nær 38 millioner innbyggere, ifølge data fra FN. I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina».",
-      "excerpt": "Det er inngått avtaler med to antikorrupsjonsorganisasjoner på til sammen 50 millioner kroner. Det opplyser UD.\n\nOrganisasjonene gjør undersøkende påvirkningsarbeid blant private og statlige virksomheter, med mål om å forhindre korrupsjon, ifølge pressemeldingen.\n\nUkraina\n\nUkraina er et land i...",
-      "image": "https://images.unsplash.com/photo-1750261346259-294f7c513476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY0MDU4ODR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/norge-oker-stotten-til-antikorrupsjonsarbeid-i-ukraina-1.17850515",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-17T06:04:44.816Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776405883374.7407,
-      "title": "Støre om drivstoffberedskap: – Me har full kontroll",
-      "slug": "stre-om-drivstoffberedskap-me-har-full-kontroll",
-      "content": "Statsminister Jonas Gahr Støre (Ap) seier dei tek alle forholdsreglar dei kan når det kjem til beredskap når det kjem til Hormuzsundet.\n\nNHO-sjef Ole Erik Almlid har åtvara om at Noreg kan stoppe opp i ei krise grunna manglande drivstoffberedskap.\n\n– Det er viktig å seie at me har full kontroll på dette no, seier han og legg til;\n\n– Det verdsbilde som er byrjar vi å merke no. Om Hormuzsundet blir verande lukka så er det alvorleg, så det må me jobbe for fullt med.\n\nNoreg har berre lager for 20 dagar med importstans, mot nabolanda sine 90 dagar.\n\nI eit skriftleg svar til Stortinget varslar næringsminister Cecilie Myrseth (Ap) at forskrifta om beredskapslagring frå 2006 blir revidert og sendt på høyring i løpet av 2026.\n\nNHO-sjef Ole Erik Almlid fryktar at oljenasjonen Noreg vil stoppe opp i ei krise utan drivstoff. No varslar regjeringa grep for å fylle opp lagera.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Statsminister Jonas Gahr Støre (Ap) seier dei tek alle forholdsreglar dei kan når det kjem til beredskap når det kjem til Hormuzsundet.\n\nNHO-sjef Ole Erik Almlid har åtvara om at Noreg kan stoppe opp i ei krise grunna manglande drivstoffberedskap.\n\n– Det er viktig å seie at me har full kontroll på...",
-      "image": "https://images.unsplash.com/photo-1608559435158-01b4196a98ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY0MDU4ODN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/store-om-drivstoffberedskap_-_-me-har-full-kontroll-1.17850545",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-17T06:04:43.374Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 581,
+    "totalFetched": 584,
     "totalPublished": 77,
-    "lastFetch": "2026-04-19T02:53:37.111Z",
+    "lastFetch": "2026-04-19T05:59:43.132Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
