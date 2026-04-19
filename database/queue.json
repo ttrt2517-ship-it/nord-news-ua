@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776638309848.196,
+      "title": "UAE ber USA om økonomisk krisehjelp",
+      "slug": "uae-ber-usa-om-konomisk-krisehjelp",
+      "content": "De forente arabiske emirater (UAE) har startet samtaler med USA om en økonomisk garanti dersom USA og Israels krigføring med Iran skulle sende golfnasjonen ut i en dypere krise, melder Wall Street Journal søndag.\n\nDe forente arabiske emirater\n\nDe forente arabiske emirater (Emiratene) er en føderasjon på den arabiske halvøy. Ni millioner av de ti millioner innbyggerne er utenlandsfødte. De sju emiratene er Abu Dhabi, Ajman, Dubai, Fujairah, Ras al-Khaimah, Sharjah og Umm al-Qaiwain.",
+      "excerpt": "De forente arabiske emirater (UAE) har startet samtaler med USA om en økonomisk garanti dersom USA og Israels krigføring med Iran skulle sende golfnasjonen ut i en dypere krise, melder Wall Street Journal søndag.\n\nDe forente arabiske emirater\n\nDe forente arabiske emirater (Emiratene) er en...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/uae-ber-usa-om-okonomisk-krisehjelp-1.17852981",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-19T22:38:29.848Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776638308216.5425,
+      "title": "Kvinne i 60-årene døde i boligbrann på Stord",
+      "slug": "kvinne-i-60rene-dde-i-boligbrann-p-stord",
+      "content": "En kvinne i 60-årene omkom etter brann i et rekkehus i Stord kommune søndag.\n\n– Pårørende er varslet, sier operasjonsleder Rune Tallaksen i Sørvest politidistrikt til Bergens Tidende.\n\nPolitiet meldte om brannen like etter klokken 18:00. Da ble det meldt om mye røyk på stedet.",
+      "excerpt": "En kvinne i 60-årene omkom etter brann i et rekkehus i Stord kommune søndag.\n\n– Pårørende er varslet, sier operasjonsleder Rune Tallaksen i Sørvest politidistrikt til Bergens Tidende.\n\nPolitiet meldte om brannen like etter klokken 18:00. Da ble det meldt om mye røyk på stedet.",
+      "image": "https://images.unsplash.com/photo-1666634489542-543911f99f25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY2MzgzMDh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/kvinne-i-60-arene-dode-i-boligbrann-pa-stord-1.17853004",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-19T22:38:28.216Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776638306559.7957,
+      "title": "Iran anklager USA for brudd på våpenhvilen",
+      "slug": "iran-anklager-usa-for-brudd-p-vpenhvilen",
+      "content": "Irans øverste militære kommando, Khatam al-Anbiya, anklaget søndag USA for å ha brutt våpenhvilen etter at den amerikanske marinen skjøt mot et av Irans kommersielle skip i Omanbukta. Iran lover samtidig å gjengjelde angrepet.\n\nStatlige medier siterte tidlig mandag en talsmann for Khatam al-Anbiya, som uttalte at fartøyet var på vei fra Kina til Iran, melder nyhetsbyrået Reuters.\n\n– Vi advarer om at de væpnede styrkene i Den islamske republikken Iran snart vil svare og gjengjelde denne væpnede piratvirksomheten fra det amerikanske militæret, sa talsmannen.\n\nUSAs president Donald Trump opplyste søndag kveld at USA hadde tatt et iransk lasteskip i varetekt. Etter at skipet hadde forsøkt å bryte gjennom den amerikanske blokaden, skjøt den amerikanske marinen mot skipet\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Irans øverste militære kommando, Khatam al-Anbiya, anklaget søndag USA for å ha brutt våpenhvilen etter at den amerikanske marinen skjøt mot et av Irans kommersielle skip i Omanbukta. Iran lover samtidig å gjengjelde angrepet.\n\nStatlige medier siterte tidlig mandag en talsmann for Khatam al-Anbiya...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/iran-anklager-usa-for-brudd-pa-vapenhvilen--1.17853008",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-19T22:38:26.559Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776631252201.0913,
       "title": "Gressbrannen på Hitra er slukket",
       "slug": "gressbrannen-p-hitra-er-slukket",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-17T22:41:59.077Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776458982588.603,
-      "title": "Rykker ut til påkjørsel",
-      "slug": "rykker-ut-til-pkjrsel",
-      "content": "Politiet og ambulanse er i Grenseveien i Oslo, etter melding om en trafikkulykke.\n\n– Det er meldt om at to personer er påkjørt av bil. Det er uvisst skadeomfang, opplyser politiet.\n\nEn dame blir tilsett av ambulansepersonell og ifølge politiet tyder det ikke på at noen er kritisk skadd.\n\nPolitiet jobber på stedet for å få klarhet i hendelsesforløpet.\n\nTrafikk i Stor-Oslo\n\nEr du ute på veiene, eller sitter på toget, bussen, trikken eller T-banen?\nHold deg oppdatert på trafikken i Oslo og Akershus.",
-      "excerpt": "Politiet og ambulanse er i Grenseveien i Oslo, etter melding om en trafikkulykke.\n\n– Det er meldt om at to personer er påkjørt av bil. Det er uvisst skadeomfang, opplyser politiet.\n\nEn dame blir tilsett av ambulansepersonell og ifølge politiet tyder det ikke på at noen er kritisk skadd.\n\nPolitiet...",
-      "image": "https://images.unsplash.com/photo-1582073389612-c18eb815b0e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY0NTg5ODJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/rykker-ut-til-pakjorsel-1.17851643",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-17T20:49:42.588Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776458980965.0137,
-      "title": "Nye rekorder på Wall Street etter oljeprisfall",
-      "slug": "nye-rekorder-p-wall-street-etter-oljeprisfall",
-      "content": "Børsene i New York steg kraftig etter at Iran kunngjorde gjenåpning av Hormuzstredet, noe som utløste et fall i oljeprisene fredag. For tredje dag på rad endte både den brede S&P 500-indeksen og den teknologitunge Nasdaq-indeksen på nye rekordnivåer, melder nyhetsbyrået AFP.\n\n• S&P 500: gikk opp 1,2 prosent • Nasdaq Composite: opp 1,5 prosent • Dow Jones: opp 1,8 prosent",
-      "excerpt": "Børsene i New York steg kraftig etter at Iran kunngjorde gjenåpning av Hormuzstredet, noe som utløste et fall i oljeprisene fredag. For tredje dag på rad endte både den brede S&P 500-indeksen og den teknologitunge Nasdaq-indeksen på nye rekordnivåer, melder nyhetsbyrået AFP.\n\n• S&P 500: gikk opp...",
-      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY0NTg5ODB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/nye-rekorder-pa-wall-street-etter-oljeprisfall-1.17851640",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-17T20:49:40.965Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776458979401.744,
-      "title": "Haiti og Den dominikanske republikk gjenåpner luftrommet",
-      "slug": "haiti-og-den-dominikanske-republikk-gjenpner-luftrommet",
-      "content": "Haiti og Den dominikanske republikk er enige om å åpne luftrommet mellom de to landene fra og med i mai, ifølge en uttalelse fredag.\n\nDet har ikke vært flytrafikk mellom de to landene på over to år.\n\nTiltaket har som mål å legge til rette for mobilitet, fremme økonomiske bånd og styrke relasjonene mellom de to landene, heter det i en felles kunngjøring.\n\nHaiti\n\nHaiti er et land på den karibiske øya Hispaniola. Landet er et av de fattigste i verden, preget av politisk uro, gjengvold og naturkatastrofer.",
-      "excerpt": "Haiti og Den dominikanske republikk er enige om å åpne luftrommet mellom de to landene fra og med i mai, ifølge en uttalelse fredag.\n\nDet har ikke vært flytrafikk mellom de to landene på over to år.\n\nTiltaket har som mål å legge til rette for mobilitet, fremme økonomiske bånd og styrke relasjonene...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/haiti-og-den-dominikanske-republikk-gjenapner-luftrommet-1.17851684",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-17T20:49:39.401Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 598,
+    "totalFetched": 601,
     "totalPublished": 77,
-    "lastFetch": "2026-04-19T20:40:53.735Z",
+    "lastFetch": "2026-04-19T22:38:31.243Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
