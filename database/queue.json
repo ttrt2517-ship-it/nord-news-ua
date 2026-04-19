@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1776589048214.1003,
+      "title": "Person tok seg ut av brennende bil",
+      "slug": "person-tok-seg-ut-av-brennende-bil",
+      "content": "En person har tatt seg ut av en bil som begynte å brenne i Svindlandstunnelen på E39 i Kvinesdal.\n\n– Vi har fått inn melding om en bil som har begynt å brenne i Svindlandstunnelen, opplyser vaktleder ved 110 Agder, Grunde Homme.\n\nPolitiet arbeider med å få oversikt over om flere er skadet, eller om det er behov for evakuering.",
+      "excerpt": "En person har tatt seg ut av en bil som begynte å brenne i Svindlandstunnelen på E39 i Kvinesdal.\n\n– Vi har fått inn melding om en bil som har begynt å brenne i Svindlandstunnelen, opplyser vaktleder ved 110 Agder, Grunde Homme.\n\nPolitiet arbeider med å få oversikt over om flere er skadet, eller om...",
+      "image": "https://images.unsplash.com/photo-1634985492257-06c8ee26b770?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY1ODkwNDh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/sorlandet/person-tok-seg-ut-av-brennende-bil-1.17852497",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-19T08:57:28.214Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776584564623.3582,
       "title": "Snarrådig bilist hindret fyllekjører på E6",
       "slug": "snarrdig-bilist-hindret-fyllekjrer-p-e6",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-17T09:20:41.757Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776417640031.6963,
-      "title": "Støre vurderer tiltak ved drivstoffmangel",
-      "slug": "stre-vurderer-tiltak-ved-drivstoffmangel",
-      "content": "– Vi har en normalsituasjon nå, og ikke knapphet på drivstoff, sier statsminister Jonas Gahr Støre (Ap).\n\nHan sier at det er viktig å følge situasjonen uke for uke framover.\n\n–Det kan bli behov for grep, kanskje i første omgang frivillige grep, som hver og en kan ta. Det kan jo handle om mer bruk av hjemmekontor, andre typer tiltak. Men blir det riktig alvorlig, så må vi sørge for at vi prioriterer å bruke ressursene der samfunnet trenger det for å holde hjulene i gang, sier Støre.\n\nHan understreker at det er helt unødvendig å hamstre drivstoff.\n\n– Det som er temaet her, er flybensin. Jeg tror ikke folk skal hamstre flybensin, sier Støre.\n\nKrigen i Midtøsten kan gi mangel på diesel og bensin. Lagrene med flydrivstoff tømmes raskt. Statsministeren sier tiltak kan komme og nevner hjemmekontor som eksempel.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "– Vi har en normalsituasjon nå, og ikke knapphet på drivstoff, sier statsminister Jonas Gahr Støre (Ap).\n\nHan sier at det er viktig å følge situasjonen uke for uke framover.\n\n–Det kan bli behov for grep, kanskje i første omgang frivillige grep, som hver og en kan ta. Det kan jo handle om mer bruk...",
-      "image": "https://images.unsplash.com/photo-1698393895072-96ca8593c9f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY0MTc2Mzl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/store-vurderer-tiltak-ved-drivstoffmangel-1.17850716",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-17T09:20:40.031Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 585,
+    "totalFetched": 586,
     "totalPublished": 77,
-    "lastFetch": "2026-04-19T07:42:45.987Z",
+    "lastFetch": "2026-04-19T08:57:29.863Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
