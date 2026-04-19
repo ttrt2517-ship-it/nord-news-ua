@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1776609713107.2212,
+      "title": "VG: Norsk Tipping har tekniske problem",
+      "slug": "vg-norsk-tipping-har-tekniske-problem",
+      "content": "Norsk Tipping har tekniske problem, som gjer at det ikkje er mogeleg å spele på Oddsen, skriv VG.\n\nPål Enger i Norsk Tipping seier til avisa at feilen skuldast ei tidlegare systemoppdatering, og at det blir jobba med feilsøking for å løyse problemet.\n\nNorsk Tipping\n\nNorsk Tipping er eit statleg speleselskap i Noreg som tilbyr pengespel, inkludert lotto, sportsspel og skrapelodd.\nOverskotet går til samfunnsnyttige føremål som idrett, kultur og humanitære organisasjonar. Føremålet er ansvarleg og sikkert pengespel.",
+      "excerpt": "Norsk Tipping har tekniske problem, som gjer at det ikkje er mogeleg å spele på Oddsen, skriv VG.\n\nPål Enger i Norsk Tipping seier til avisa at feilen skuldast ei tidlegare systemoppdatering, og at det blir jobba med feilsøking for å løyse problemet.\n\nNorsk Tipping\n\nNorsk Tipping er eit statleg...",
+      "image": "https://images.unsplash.com/photo-1691414203435-f3381e46ff18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY2MDk3MTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/vg_-norsk-tipping-har-tekniske-problem-1.17852674",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-19T14:41:53.107Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776609711601.5247,
+      "title": "Iran: Sender ikkje delegasjon til forhandlingar",
+      "slug": "iran-sender-ikkje-delegasjon-til-forhandlingar",
+      "content": "Iran vil ikkje sende nokon delegasjon til Pakistan for å forhandle med USA så lenge blokaden av iranske hamner går føre seg, melder det halvstatlege iranske nyheitsbyrået Tasnim, ifølge Reuters.\n\nSøndag sa USAs president Donald Trump at dei ville sende ein delegasjon til Pakistan for nye forhandlingar med Iran måndag.\n\nTrump sa i eit intervju med ABC at visepresident JD Vance, som leia den førre forhandlinga, ikkje skal reise av tryggingsomsyn, men søndag ettermiddag seier ei kjelde i Det kvite huset til AFP at Vance reiser til Islamabad saman med spesialutsending Steve Witkoff og Trumps svigerson Jared Kushner.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. 11. februar begynte fredsforhandlinger mellom landene.",
+      "excerpt": "Iran vil ikkje sende nokon delegasjon til Pakistan for å forhandle med USA så lenge blokaden av iranske hamner går føre seg, melder det halvstatlege iranske nyheitsbyrået Tasnim, ifølge Reuters.\n\nSøndag sa USAs president Donald Trump at dei ville sende ein delegasjon til Pakistan for nye...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/iran_-sender-ikkje-delegasjon-til-forhandlingar-1.17852689",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-19T14:41:51.601Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776604008845.2542,
       "title": "Politiet: Skigåer skadet etter fall i Troms",
       "slug": "politiet-skiger-skadet-etter-fall-i-troms",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-04-17T10:59:09.115Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776423546838.1826,
-      "title": "Den svenske kongen på besøk i Ukraina",
-      "slug": "den-svenske-kongen-p-besk-i-ukraina",
-      "content": "Sveriges kong Carl Gustaf er fredag i Lviv i Ukraina for å treffe president Volodymyr Zelenskyj.\n\nOgså Sveriges utenriksminister Maria Malmer Stenergard er med på turen.\n\nGjennom dagen vil kongen og utenriksministeren gjennomføre flere besøk for å lære om erfaringer fra krigen, melder det svenske kongehuset.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Sveriges kong Carl Gustaf er fredag i Lviv i Ukraina for å treffe president Volodymyr Zelenskyj.\n\nOgså Sveriges utenriksminister Maria Malmer Stenergard er med på turen.\n\nGjennom dagen vil kongen og utenriksministeren gjennomføre flere besøk for å lære om erfaringer fra krigen, melder det svenske...",
-      "image": "https://images.unsplash.com/photo-1639687645096-fcf6eb82321b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY0MjM1NDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/den-svenske-kongen-pa-besok-i-ukraina-1.17850938",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-17T10:59:06.838Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776423545365.8252,
-      "title": "UNHCR: Nesten 900 Rohingya-flyktninger døde eller savnet i fjor",
-      "slug": "unhcr-nesten-900-rohingyaflyktninger-dde-eller-savnet-i-fjor",
-      "content": "2025 var det dødeligste året hittil for rohingyaer som forsøkte å flykte fra Myanmar. Nesten 900 av de 6500 rohingyaene som prøvde å flykte i båt, er meldt døde eller savnet i Andamanhavet og Bengalbukta, sier talsmann Babar Baloch for FNs høykommissær for flyktninger (UNHCR).\n\nDet er den høyeste dødsraten for flukt over hav og sjø i verden, ifølge Baloch.\n\nEn ny rapport fra UNHCR viser at halvparten av de som flykter er kvinner og barn\n\nHittil i år har 2800 rohingyaer lagt på flukt over havet. I forrige uke kantret en båt i høy sjø. 250 mennesker er savnet, bare ni overlevende er funnet.\n\nMyanmar\n\nMyanmar har vært preget av kaos, kamper og uro etter at militæret grep makten i et kupp i februar 2021 og satte landets leder Aung San Suu Kyi i husarrest. Etter kuppet har det vært store folkelige protester.",
-      "excerpt": "2025 var det dødeligste året hittil for rohingyaer som forsøkte å flykte fra Myanmar. Nesten 900 av de 6500 rohingyaene som prøvde å flykte i båt, er meldt døde eller savnet i Andamanhavet og Bengalbukta, sier talsmann Babar Baloch for FNs høykommissær for flyktninger (UNHCR).\n\nDet er den høyeste...",
-      "image": "https://images.unsplash.com/photo-1683797468338-5b6a0cf758f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY0MjM1NDV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/unhcr_-nesten-900-rohingya-flyktninger-dode-eller-savnet-i-fjor-1.17850939",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-17T10:59:05.366Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 588,
+    "totalFetched": 590,
     "totalPublished": 77,
-    "lastFetch": "2026-04-19T13:06:50.419Z",
+    "lastFetch": "2026-04-19T14:41:54.520Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
