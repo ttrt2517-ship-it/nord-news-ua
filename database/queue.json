@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1776584564623.3582,
+      "title": "Snarrådig bilist hindret fyllekjører på E6",
+      "slug": "snarrdig-bilist-hindret-fyllekjrer-p-e6",
+      "content": "En snarrådig bilist hindret søndag morgen en fyllekjører i å kjøre ut på E6 ved Jessheim på Romerike, ifølge politiet.\n\nMelder så en bil med punktert hjul på vei ned avkjøringen til motorveien, og fører fremstod beruset.\n\nMelder sperret så bilen med sin egen bil fram til politiet kom.\n\nFører blåser til langt over lovlig verdi i alkometeret og slår ut på flere narkotiske stoffer, skriver Øst politidistrikt i politiloggen.",
+      "excerpt": "En snarrådig bilist hindret søndag morgen en fyllekjører i å kjøre ut på E6 ved Jessheim på Romerike, ifølge politiet.\n\nMelder så en bil med punktert hjul på vei ned avkjøringen til motorveien, og fører fremstod beruset.\n\nMelder sperret så bilen med sin egen bil fram til politiet kom.\n\nFører blåser...",
+      "image": "https://images.unsplash.com/photo-1463777550903-3404e3ee86e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY1ODQ1NjR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/snarradig-bilist-hindret-fyllekjorer-pa-e6-1.17852469",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-19T07:42:44.623Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776578381731.432,
       "title": "Alvorlig trafikkulykke i Asker – én omkom",
       "slug": "alvorlig-trafikkulykke-i-asker-n-omkom",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-17T09:20:40.031Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776417638245.2803,
-      "title": "Fortsatt brann i russisk havn etter ukrainsk angrep",
-      "slug": "fortsatt-brann-i-russisk-havn-etter-ukrainsk-angrep",
-      "content": "Russiske brannmannskaper jobbet fredag med å slukke en brann i havnen i byen Tuapse ved Svartehavet, over 24 timer etter et ukrainsk droneangrep.\n\nTo personer ble drept, en av dem en 14 år gammel jente, og sju såret i angrepet torsdag, som også rammet et tankskip.\n\nUkrainas militære sier de traff to oljetanker på den russisk-okkuperte Krym-halvøya, og infrastruktur i Tuapse.\n\nUkraina har trappet opp angrepene på russisk energiinfrastruktur, inkludert havner ved Svartehavet og Østersjøen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Russiske brannmannskaper jobbet fredag med å slukke en brann i havnen i byen Tuapse ved Svartehavet, over 24 timer etter et ukrainsk droneangrep.\n\nTo personer ble drept, en av dem en 14 år gammel jente, og sju såret i angrepet torsdag, som også rammet et tankskip.\n\nUkrainas militære sier de traff...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/fortsatt-brann-i-russisk-havn-etter-ukrainsk-angrep-1.17850793",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-17T09:20:38.245Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 584,
+    "totalFetched": 585,
     "totalPublished": 77,
-    "lastFetch": "2026-04-19T05:59:43.132Z",
+    "lastFetch": "2026-04-19T07:42:45.987Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
