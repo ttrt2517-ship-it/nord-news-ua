@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1776631252201.0913,
+      "title": "Gressbrannen på Hitra er slukket",
+      "slug": "gressbrannen-p-hitra-er-slukket",
+      "content": "– Brannen er nå slukket. Brannvesenet og sivilforsvaret vil etablere sikring og etterslukkingsarbeid i natt, opplyser operasjonsleder i Trøndelag politidistrikt, Kirsten Haugen Bergstrøm klokken 22.\n\nNødetatene, Kystvakten og Sivilforsvaret har jobbet sammen for å slukke brannen som startet i 13-tiden søndag.\n\nPolitiet mistenker at brannen har startet med en kullgrill som veltet.\n\nPolitiet mistenker at brannen har startet med en kullgrill som veltet.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "– Brannen er nå slukket. Brannvesenet og sivilforsvaret vil etablere sikring og etterslukkingsarbeid i natt, opplyser operasjonsleder i Trøndelag politidistrikt, Kirsten Haugen Bergstrøm klokken 22.\n\nNødetatene, Kystvakten og Sivilforsvaret har jobbet sammen for å slukke brannen som startet i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/trondelag/gressbrannen-pa-hitra-er-slukket-1.17852793",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-19T20:40:52.201Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776624924474.6367,
       "title": "&#039;I&#039;m a prisoner&#039;: Foreigners in Norway left unable to work or travel as they wait for UDI",
       "slug": "039i039m-a-prisoner039-foreigners-in-norway-left-unable-to-w",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-17T20:49:39.401Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776452668312.4338,
-      "title": "Equinor øker produksjonen på Mongstad",
-      "slug": "equinor-ker-produksjonen-p-mongstad",
-      "content": "Equinor har økt produksjonen av flybensin og diesel på Mongstad i Nordhordland.\n\n– Den siste tiden har vi justert det vi kan for å øke produksjonen av de produktene det er høyest etterspørsel etter, særlig diesel og flybensin. Nå produseres flydrivstoff og diesel på full kapasitet, sier Geir Sørtveit, Equinors direktør for landanlegg, til EnergiWatch.\n\nHøye drivstoffpriser\n\nPå grunn av krigen i Iran, har drivstoffprisene skutt i været. Senterpartiet sikret flertall for hastebehandling av et Høyre-forslag om billigere bensin. Alle de andre rødgrønne partiene stemte imot.",
-      "excerpt": "Equinor har økt produksjonen av flybensin og diesel på Mongstad i Nordhordland.\n\n– Den siste tiden har vi justert det vi kan for å øke produksjonen av de produktene det er høyest etterspørsel etter, særlig diesel og flybensin. Nå produseres flydrivstoff og diesel på full kapasitet, sier Geir...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/equinor-oker-produksjonen-pa-mongstad--1.17851563",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-17T19:04:28.312Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 597,
+    "totalFetched": 598,
     "totalPublished": 77,
-    "lastFetch": "2026-04-19T18:55:25.475Z",
+    "lastFetch": "2026-04-19T20:40:53.735Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
