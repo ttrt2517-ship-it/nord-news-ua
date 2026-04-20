@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776698238408.251,
+      "title": "Euroen under 11 kroner",
+      "slug": "euroen-under-11-kroner",
+      "content": "En euro koster mandag under 11 kroner. Den koster 10,99 kroner i mandag ettermiddag.\n\n10,99 kostet den også 19. mars. Før det var det lenge siden titallet hadde vist seg.\n\nEuroen er blitt svekket med over 7 prosent mot den norske kronen hittil i år.",
+      "excerpt": "En euro koster mandag under 11 kroner. Den koster 10,99 kroner i mandag ettermiddag.\n\n10,99 kostet den også 19. mars. Før det var det lenge siden titallet hadde vist seg.\n\nEuroen er blitt svekket med over 7 prosent mot den norske kronen hittil i år.",
+      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY2OTgyMzh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/euroen-under-11-kroner-1.17853835",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-20T15:17:18.408Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776698236751.2063,
+      "title": "Brann i terrenget i Ålesund",
+      "slug": "brann-i-terrenget-i-lesund",
+      "content": "Det brenn i terrenget ved Emblemssanden i Ålesund. Politi og brannvesenet er på veg til staden.\n\nDet er uklart om brannen kan spreie seg til bygningar.\n\nLike før klokka 17.00 melder politiet at brannvesenet har starta sløkkingsarbeidet. Det er opne flammar på staden.\n\nBrannvesenet har ikkje kontroll på ein skogbrann ved Emblemssanden i Ålesund.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr\n\nBrann i Møre og Romsdal\n\nHer blir du oppdatert når det blir meldt om brann i Møre og Romsdal.",
+      "excerpt": "Det brenn i terrenget ved Emblemssanden i Ålesund. Politi og brannvesenet er på veg til staden.\n\nDet er uklart om brannen kan spreie seg til bygningar.\n\nLike før klokka 17.00 melder politiet at brannvesenet har starta sløkkingsarbeidet. Det er opne flammar på staden.\n\nBrannvesenet har ikkje...",
+      "image": null,
+      "original_url": "https://www.nrk.no/mr/brann-i-terrenget-i-alesund-1.17854063",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-20T15:17:16.751Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776698235110.5076,
+      "title": "Oslo Børs avsluttet med oppgang",
+      "slug": "oslo-brs-avsluttet-med-oppgang",
+      "content": "Med en stigning på 0,59 prosent endte Oslo Børs dagen med oppgang.\n\nEtter at Hormuzstredet igjen ble stengt, har oljeprisene igjen steget. Det har blant annet ført til at Equinor endte dagen opp 2,25 prosent og Aker BP opp 2,81.\n\nIfølge NTB lå prisen for nordsjøolje på rundt 95 dollar like før klokken 17. Det er ni dollar mer enn før helgen.\n\nOslo Børs\n\nOslo Børs er en av de ledende i verden i næringene energi, shipping og sjømat. Handelen startet den 15. april 1819, og 200 år senere ble den en del av Euronext.",
+      "excerpt": "Med en stigning på 0,59 prosent endte Oslo Børs dagen med oppgang.\n\nEtter at Hormuzstredet igjen ble stengt, har oljeprisene igjen steget. Det har blant annet ført til at Equinor endte dagen opp 2,25 prosent og Aker BP opp 2,81.\n\nIfølge NTB lå prisen for nordsjøolje på rundt 95 dollar like før...",
+      "image": "https://images.unsplash.com/photo-1697397005472-ab4ca7e73af7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY2OTgyMzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/oslo-bors-avsluttet-med-oppgang-1.17854100",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-20T15:17:15.110Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776685073583.9138,
       "title": "Storseier for EU-kritiker i Bulgaria",
       "slug": "storseier-for-eukritiker-i-bulgaria",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-18T13:07:05.921Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776517624411.0247,
-      "title": "Streikane i Lufthansa er over",
-      "slug": "streikane-i-lufthansa-er-over",
-      "content": "Flya til Lufthansa er i lufta igjen etter at flygarar og kabintilsette har streika denne veka.\n\nLaurdag gjekk flya som planlagt, seier ein talsperson for selskapet.\n\nNo skal leiinga i Lufthansa og dei tilsette i mekling, etter at dei ikkje blei einige i det første forsøket.",
-      "excerpt": "Flya til Lufthansa er i lufta igjen etter at flygarar og kabintilsette har streika denne veka.\n\nLaurdag gjekk flya som planlagt, seier ein talsperson for selskapet.\n\nNo skal leiinga i Lufthansa og dei tilsette i mekling, etter at dei ikkje blei einige i det første forsøket.",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/streikane-i-lufthansa-er-over-1.17851993",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-18T13:07:04.412Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776508974625.1318,
-      "title": "Politiet jakter gjerningsperson etter knivstikking i Askim",
-      "slug": "politiet-jakter-gjerningsperson-etter-knivstikking-i-askim",
-      "content": "Ingen er pågrepet, men etterforskningen pågår for fullt etter at en mann ble funnet livstruende skadet i Askim natt til i går. Det opplyser politiadvokat Sigrid Fagerli i Øst politidistrikt.\n\nMannen ble funnet med flere knivstikk av en forbipasserende ute på gaten i et boligområde.\n\nAv hensyn til taushetsplikt kan politiadvokaten ikke opplyse om hvordan det går med mannen som ble innlagt på Ullevål sykehus i Oslo.",
-      "excerpt": "Ingen er pågrepet, men etterforskningen pågår for fullt etter at en mann ble funnet livstruende skadet i Askim natt til i går. Det opplyser politiadvokat Sigrid Fagerli i Øst politidistrikt.\n\nMannen ble funnet med flere knivstikk av en forbipasserende ute på gaten i et boligområde.\n\nAv hensyn til...",
-      "image": "https://images.unsplash.com/photo-1725636666190-f7cc04fd1033?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY1MDg5NzR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/ostfold/politiet-jakter-gjerningsperson-etter-knivstikking-i-askim-1.17851792",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-18T10:42:54.625Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776502468798.2488,
-      "title": "Airlines fear jet-fuel rationing due to Mideast war",
-      "slug": "airlines-fear-jetfuel-rationing-due-to-mideast-war",
-      "content": "The head of the International Air Transport Association (IATA) on Friday called on authorities to put \"well-coordinated plans in place\" in the event of jet-fuel rationing due to the Middle East war.\n\nWillie Walsh said an assessment from the International Energy Agency that fuel for aircraft could start running out in Europe in six weeks' time was \"sobering\".\n\n\"We have also estimated that by the end of May we could start to see some cancellations in Europe for lack of jet fuel. This is already happening in parts of Asia,\" he said in a statement.\n\nREAD ALSO: How soon could jet fuel shortages ground flights in Europe?\n\nThe projected aviation fuel shortage stemmed from Iran's effective blockage of the Strait of Hormuz since the United States and Israel started the war at the end of February which spread across the Middle East.\n\nAlthough Iran's foreign minister said on Friday his country was now reopening the strait to commercial traffic, shipping companies are wary.\n\nWalsh said in his statement issued before Iran's announcement that, if jet fuel shortages occurred, \"it's important that authorities have well-communicated and well-coordinated plans in place in case rationing becomes necessary.\"\n\nThe EU's energy commissioner Dan Jorgensen told the Financial Times that the fuel threat meant that flights could soon be cancelled. He suggested EU countries might share jet fuel to cushion the impact in case of a lengthy crisis.\n\nAn EU spokeswoman, Anna-Kaisa Itkonen, told journalists that, at this moment, \"there is no indication of a systemic fuel shortages that would lead to widespread flight cancellations\".\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "The head of the International Air Transport Association (IATA) on Friday called on authorities to put \"well-coordinated plans in place\" in the event of jet-fuel rationing due to the Middle East war.\n\nWillie Walsh said an assessment from the International Energy Agency that fuel for aircraft could...",
-      "image": null,
-      "original_url": "https://www.thelocal.no/20260418/airlines-fear-jet-fuel-rationing-due-to-mideast-war",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-04-18T08:54:28.799Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 612,
+    "totalFetched": 615,
     "totalPublished": 77,
-    "lastFetch": "2026-04-20T13:47:28.377Z",
+    "lastFetch": "2026-04-20T15:17:20.226Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
