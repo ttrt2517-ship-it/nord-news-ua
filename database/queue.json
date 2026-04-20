@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1776704795933.9307,
+      "title": "Airlines in Europe fear jet-fuel rationing due to Mideast war",
+      "slug": "airlines-in-europe-fear-jetfuel-rationing-due-to-mideast-war",
+      "content": "The head of the International Air Transport Association (IATA) on Friday called on authorities to put \"well-coordinated plans in place\" in the event of jet-fuel rationing due to the Middle East war.\n\nWillie Walsh said an assessment from the International Energy Agency that fuel for aircraft could start running out in Europe in six weeks' time was \"sobering\".\n\n\"We have also estimated that by the end of May we could start to see some cancellations in Europe for lack of jet fuel. This is already happening in parts of Asia,\" he said in a statement.\n\nREAD ALSO: How soon could jet fuel shortages ground flights in Europe?\n\nThe projected aviation fuel shortage stemmed from Iran's effective blockage of the Strait of Hormuz since the United States and Israel started the war at the end of February which spread across the Middle East.\n\nAlthough Iran's foreign minister said on Friday his country was now reopening the strait to commercial traffic, shipping companies are wary.\n\nWalsh said in his statement issued before Iran's announcement that, if jet fuel shortages occurred, \"it's important that authorities have well-communicated and well-coordinated plans in place in case rationing becomes necessary.\"\n\nThe EU's energy commissioner Dan Jorgensen told the Financial Times that the fuel threat meant that flights could soon be cancelled. He suggested EU countries might share jet fuel to cushion the impact in case of a lengthy crisis.\n\nAn EU spokeswoman, Anna-Kaisa Itkonen, told journalists that, at this moment, \"there is no indication of a systemic fuel shortages that would lead to widespread flight cancellations\".\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
+      "excerpt": "The head of the International Air Transport Association (IATA) on Friday called on authorities to put \"well-coordinated plans in place\" in the event of jet-fuel rationing due to the Middle East war.\n\nWillie Walsh said an assessment from the International Energy Agency that fuel for aircraft could...",
+      "image": "https://images.unsplash.com/photo-1768239475196-99f103b5fe42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY3MDQ3OTV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.thelocal.no/20260418/airlines-fear-jet-fuel-rationing-due-to-mideast-war",
+      "source_name": "The Local Norway",
+      "fetched_at": "2026-04-20T17:06:35.933Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776698238408.251,
       "title": "Euroen under 11 kroner",
       "slug": "euroen-under-11-kroner",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-18T14:41:48.606Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776517625921.9211,
-      "title": "En person skadet i arbeidsulykke i Rypefjord",
-      "slug": "en-person-skadet-i-arbeidsulykke-i-rypefjord",
-      "content": "En person skal ha fått en kroppsdel i klem i en arbeidsulykke på Polarbase i Rypefjord i Hammerfest kommune lørdag, melder politiet.\n\nPolitiet meldte først at ulykken hadde skjedd på Melkøya, men rettet siden opp i dette.\n\nKlemskaden skal ha skjedd mellom en lastestropp og en container.\n\n– Det skal ikke være snakk om livstruende eller alvorlige skader, sier operasjonsleder Arnt Gunnar Øvergaard i Finnmark Politidistrikt til NRK.\n\nPolitiet gjør en åstedsbefaring på stedet og oppretter sak på hendelsen.",
-      "excerpt": "En person skal ha fått en kroppsdel i klem i en arbeidsulykke på Polarbase i Rypefjord i Hammerfest kommune lørdag, melder politiet.\n\nPolitiet meldte først at ulykken hadde skjedd på Melkøya, men rettet siden opp i dette.\n\nKlemskaden skal ha skjedd mellom en lastestropp og en container.\n\n– Det skal...",
-      "image": "https://images.unsplash.com/photo-1716471035199-7ef519c5d035?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY1MTc2MjV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/tromsogfinnmark/en-person-skadet-i-arbeidsulykke-i-rypefjord-1.17851977",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-18T13:07:05.921Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 615,
+    "totalFetched": 616,
     "totalPublished": 77,
-    "lastFetch": "2026-04-20T15:17:20.226Z",
+    "lastFetch": "2026-04-20T17:06:36.935Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
