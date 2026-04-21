@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776804955786.9988,
+      "title": "Reuters: Iran kan delta i samtalar om USA sluttar med press og truslar",
+      "slug": "reuters-iran-kan-delta-i-samtalar-om-usa-sluttar-med-press-o",
+      "content": "Ein iransk tenesteperson seier til nyheitsbyrået Reuters at Iran kan delta i samtalane i Pakistan dersom USA sluttar med press og truslar.\n\nVåpenkvila mellom Iran og USA går ut onsdag, og dei to landa skulle etter planen ha samtalar i Islamabad i Pakistan.\n\nMen Iran har ikkje villa gi eit klart svar om dei vil komme eller ikkje, og USAs visepresident JD Vance, som skal leie den amerikanske delegasjonen, forlèt ikkje Washington som planlagt tysdag.\n\nPakistan jobbar for at dei to landa skal komme tilbake til forhandlingsbordet igjen.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. 11. februar begynte fredsforhandlinger mellom landene.",
+      "excerpt": "Ein iransk tenesteperson seier til nyheitsbyrået Reuters at Iran kan delta i samtalane i Pakistan dersom USA sluttar med press og truslar.\n\nVåpenkvila mellom Iran og USA går ut onsdag, og dei to landa skulle etter planen ha samtalar i Islamabad i Pakistan.\n\nMen Iran har ikkje villa gi eit klart...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/reuters_-iran-kan-delta-i-samtalar-om-usa-sluttar-med-press-og-truslar-1.17855938",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-21T20:55:55.786Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776804954310.016,
+      "title": "Én alvorlig skadd etter volds­hendelse i Bærum",
+      "slug": "n-alvorlig-skadd-etter-voldshendelse-i-brum",
+      "content": "Politiet er i Bærum etter melding om en alvorlig voldshendelse.\n\n– Det er kontroll på stedet. En person er alvorlig skadd og under behandling av ambulansepersonell på stedet, skriver operasjonsleder Vidar Pedersen i politiloggen.\n\nTil VG sier Pedersen at det er utøvd alvorlig vold mot en person som er sendt til sykehus i ambulanse. Politiet har også kontroll på personen som skal ha utført volden. Det er ikke fare for ytterligere hendelser.\n\nIfølge Budstikka er det fire politibiler og en ambulanse på stedet.",
+      "excerpt": "Politiet er i Bærum etter melding om en alvorlig voldshendelse.\n\n– Det er kontroll på stedet. En person er alvorlig skadd og under behandling av ambulansepersonell på stedet, skriver operasjonsleder Vidar Pedersen i politiloggen.\n\nTil VG sier Pedersen at det er utøvd alvorlig vold mot en person som...",
+      "image": "https://images.unsplash.com/photo-1612261016540-1b6902b1348d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY4MDQ5NTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/en-alvorlig-skadd-etter-voldshendelse-i-baerum-1.17855902",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-21T20:55:54.310Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776804952784.5305,
+      "title": "Trump: USA forlenger våpenhvilen med Iran",
+      "slug": "trump-usa-forlenger-vpenhvilen-med-iran",
+      "content": "Det sier USAs president Donald Trump i et innlegg på sin meldingstjeneste Truth Social.\n\nHan begrunner avgjørelsen med at at regjeringen i Iran er «alvorlig splittet», samt et ønske fra Pakistan om mer tid til å utarbeide et felles forslag fra Teheran.\n\n– Jeg har derfor bedt vårt militære om å fortsette blokaden av Hormuzstredet og for øvrig forbli klare og kampdyktige, og vil derfor forlenge våpenhvilen inntil deres forslag er lagt frem og samtalene er avsluttet, på den ene eller andre måten, skriver Trump.\n\nTrump skriver i innlegget at USAs blokade av Hormuz-stredet fortsetter.\n\nHan har tidligere varslet at den to uker lange våpenhvilen skulle utløpe i løpet av onsdag denne uken.\n\nVåpenhvilen som nå gjelder, ble forhandlet frem av Pakistan og trådte i kraft 8. april.\n\n8. april ble Iran og USA enige om en to ukers våpenhvile. Tirsdag kveld melder president Donald Trump at våpenhvilen forlenges.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. 11. februar begynte fredsforhandlinger mellom landene.",
+      "excerpt": "Det sier USAs president Donald Trump i et innlegg på sin meldingstjeneste Truth Social.\n\nHan begrunner avgjørelsen med at at regjeringen i Iran er «alvorlig splittet», samt et ønske fra Pakistan om mer tid til å utarbeide et felles forslag fra Teheran.\n\n– Jeg har derfor bedt vårt militære om å...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump_-usa-forlenger-vapenhvilen-med-iran-1.17855994",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-21T20:55:52.784Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776798968555.4336,
       "title": "Libanons statsminister møter Macron i Paris",
       "slug": "libanons-statsminister-mter-macron-i-paris",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-20T02:54:27.389Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776653665731.022,
-      "title": "Kvinne reddet ut fra røykfylt blokkleilighet i Bergen",
-      "slug": "kvinne-reddet-ut-fra-rykfylt-blokkleilighet-i-bergen",
-      "content": "Brannvesenet hentet ut en kvinne som lå og sov under røykutvikling i en blokkleilighet i Bergen natt til mandag.\n\n– Kvinnen kviknet til etter hvert og gikk selv ut av boligblokken, og ble sjekket av helsepersonell på stedet, opplyser operasjonsleder Morten Rebnord i Vest politidistrikt.\n\nHun ble senere fraktet til sykehus for sjekk etter å ha vært eksponert for røyk.\n\nRøykutviklingen skyldtes tørrkoking i forbindelse med matlaging, legger Rebnord til.",
-      "excerpt": "Brannvesenet hentet ut en kvinne som lå og sov under røykutvikling i en blokkleilighet i Bergen natt til mandag.\n\n– Kvinnen kviknet til etter hvert og gikk selv ut av boligblokken, og ble sjekket av helsepersonell på stedet, opplyser operasjonsleder Morten Rebnord i Vest politidistrikt.\n\nHun ble...",
-      "image": "https://images.unsplash.com/photo-1661698047861-c20691d34be4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY2NTM2NjV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/kvinne-reddet-ut-fra-roykfylt-blokkleilighet-i-bergen-1.17853019",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-20T02:54:25.731Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776638309848.196,
-      "title": "UAE ber USA om økonomisk krisehjelp",
-      "slug": "uae-ber-usa-om-konomisk-krisehjelp",
-      "content": "De forente arabiske emirater (UAE) har startet samtaler med USA om en økonomisk garanti dersom USA og Israels krigføring med Iran skulle sende golfnasjonen ut i en dypere krise, melder Wall Street Journal søndag.\n\nDe forente arabiske emirater\n\nDe forente arabiske emirater (Emiratene) er en føderasjon på den arabiske halvøy. Ni millioner av de ti millioner innbyggerne er utenlandsfødte. De sju emiratene er Abu Dhabi, Ajman, Dubai, Fujairah, Ras al-Khaimah, Sharjah og Umm al-Qaiwain.",
-      "excerpt": "De forente arabiske emirater (UAE) har startet samtaler med USA om en økonomisk garanti dersom USA og Israels krigføring med Iran skulle sende golfnasjonen ut i en dypere krise, melder Wall Street Journal søndag.\n\nDe forente arabiske emirater\n\nDe forente arabiske emirater (Emiratene) er en...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/uae-ber-usa-om-okonomisk-krisehjelp-1.17852981",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-19T22:38:29.848Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776638308216.5425,
-      "title": "Kvinne i 60-årene døde i boligbrann på Stord",
-      "slug": "kvinne-i-60rene-dde-i-boligbrann-p-stord",
-      "content": "En kvinne i 60-årene omkom etter brann i et rekkehus i Stord kommune søndag.\n\n– Pårørende er varslet, sier operasjonsleder Rune Tallaksen i Sørvest politidistrikt til Bergens Tidende.\n\nPolitiet meldte om brannen like etter klokken 18:00. Da ble det meldt om mye røyk på stedet.",
-      "excerpt": "En kvinne i 60-årene omkom etter brann i et rekkehus i Stord kommune søndag.\n\n– Pårørende er varslet, sier operasjonsleder Rune Tallaksen i Sørvest politidistrikt til Bergens Tidende.\n\nPolitiet meldte om brannen like etter klokken 18:00. Da ble det meldt om mye røyk på stedet.",
-      "image": "https://images.unsplash.com/photo-1666634489542-543911f99f25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY2MzgzMDh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/kvinne-i-60-arene-dode-i-boligbrann-pa-stord-1.17853004",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-19T22:38:28.216Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 649,
+    "totalFetched": 652,
     "totalPublished": 77,
-    "lastFetch": "2026-04-21T19:16:10.171Z",
+    "lastFetch": "2026-04-21T20:55:57.273Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
