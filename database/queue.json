@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776784535663.306,
+      "title": "Taxisjåfør tiltalt for voldtekt",
+      "slug": "taxisjfr-tiltalt-for-voldtekt",
+      "content": "En taxisjåfør i 30-årene er tiltalt for å ha voldtatt en kvinne under en taxitur fra Tromsø i slutten av april i 2025.\n\nDet forbeholdes at det vil bli nedlagt påstand om at han blir fratatt førerretten og at han mister retten til å foreta yrkestransport mot betaling.",
+      "excerpt": "En taxisjåfør i 30-årene er tiltalt for å ha voldtatt en kvinne under en taxitur fra Tromsø i slutten av april i 2025.\n\nDet forbeholdes at det vil bli nedlagt påstand om at han blir fratatt førerretten og at han mister retten til å foreta yrkestransport mot betaling.",
+      "image": "https://images.unsplash.com/photo-1571073056031-6e871b6c5013?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY3ODQ1MzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/tromsogfinnmark/taxisjafor-tiltalt-for-voldtekt-1.17855489",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-21T15:15:35.663Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776784534180.1826,
+      "title": "Zelenskyj: Oljerøyrleidning er reparert og kan brukast igjen",
+      "slug": "zelenskyj-oljeryrleidning-er-reparert-og-kan-brukast-igjen",
+      "content": "Druszhba-oljerøyrleidningenen som transporterer olje til Europa er reparert, og kan gjenoppta drifta, seier Ukrainas president Volodymyr Zelenskyj tysdag.\n\nHan seier Ukraina har fullført arbeidet med å reparere på den delen av leidningen som blei skadd av i eit russisk angrep i januar.\n\nOljerøyrleidningen fraktar olje frå Russland til blant anna Tyskland, Ungarn og Slovakia.\n\nUkraina\n\nUkraina er et land i Europa som grenser til Russland, Belarus, Polen, Moldova og Romania. Landet har nær 38 millioner innbyggere, ifølge data fra FN. I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina».",
+      "excerpt": "Druszhba-oljerøyrleidningenen som transporterer olje til Europa er reparert, og kan gjenoppta drifta, seier Ukrainas president Volodymyr Zelenskyj tysdag.\n\nHan seier Ukraina har fullført arbeidet med å reparere på den delen av leidningen som blei skadd av i eit russisk angrep i...",
+      "image": "https://images.unsplash.com/photo-1697992895179-611a85f58aff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY3ODQ1MzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/zelenskyj_-oljeroyrleidning-er-reparert-og-kan-brukast-igjen-1.17855576",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-21T15:15:34.181Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776784532609.201,
+      "title": "Vanlig skoledag tross trussel om skoleskyting",
+      "slug": "vanlig-skoledag-tross-trussel-om-skoleskyting",
+      "content": "Lakselv ungdomsskole mottok tirsdag trussel om skoleskyting onsdag 22. april.\n\nSkolen velger å holde åpent i morgen, men politiet kommer til å være til stede gjennom hele skoledagen, skriver iFinnmark.\n\n– Vi tar det på alvor, det er derfor vi har satt i gang dette apparatet. Samtidig mener vi at vi har ivaretatt situasjonen sånn som den er, og derfor kjører vi vanlig skole, sier rektor Reidunn Magnussen Hesjevik.",
+      "excerpt": "Lakselv ungdomsskole mottok tirsdag trussel om skoleskyting onsdag 22. april.\n\nSkolen velger å holde åpent i morgen, men politiet kommer til å være til stede gjennom hele skoledagen, skriver iFinnmark.\n\n– Vi tar det på alvor, det er derfor vi har satt i gang dette apparatet. Samtidig mener vi at vi...",
+      "image": "https://images.unsplash.com/photo-1732471854965-f2c58a8c2fb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY3ODQ1MzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/tromsogfinnmark/vanlig-skoledag-tross-trussel-om-skoleskyting-1.17855628",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-21T15:15:32.610Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776779222322.1135,
       "title": "Åtte pågrepet av antiterrorpolitiet i London",
       "slug": "tte-pgrepet-av-antiterrorpolitiet-i-london",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-19T18:55:17.094Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776617004779.0918,
-      "title": "USA: Åtte barn er drepne i skyting",
-      "slug": "usa-tte-barn-er-drepne-i-skyting",
-      "content": "Åtte barn er drepne og fleire er skadde i ei masseskyting i Shreveport i delstaten Louisiana i USA søndag, ifølge lokalavisa KTBS.\n\nEin mistenkt gjerningsperson er skoten og drepen av politiet etter ei biljakt.\n\nSkytinga skal ha skjedd på fleire bustadadresser, opplyser politiet til NBC News.\n\nDei drepne barna er mellom 18 månader og 14 år gamle.\n\nPolitiet seier dei jobbar med å få oversikt over situasjonen og kva som har hendt.\n\nÅtte barn mellom 1 og 14 år skal være drept i en skyteepisode i USA.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Åtte barn er drepne og fleire er skadde i ei masseskyting i Shreveport i delstaten Louisiana i USA søndag, ifølge lokalavisa KTBS.\n\nEin mistenkt gjerningsperson er skoten og drepen av politiet etter ei biljakt.\n\nSkytinga skal ha skjedd på fleire bustadadresser, opplyser politiet til NBC News.\n\nDei...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa_-atte-barn-er-drepne-i-skyting-1.17852780",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-19T16:43:24.779Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776617003234.1377,
-      "title": "Brann i rekkehus på Stord",
-      "slug": "brann-i-rekkehus-p-stord",
-      "content": "Politiet melde like over klokka 18 at det brann i eit rekkehus på Stord. Det er fire bueiningar i rekka.\n\nPoliti, ambulanse og brannvesenet rykte ut til staden der det blei observert røyk, men ikkje flammar.\n\n– Det er meldt om mykje røyk på staden og mykje varme i huset, seier Svein Nesse i 110 Sør-Vest til NRK like før 18.30.\n\nLike etter 18.30 blei brannen meldt sløkt. Ein person er teken med ut av bustaden. Det skal ikkje vera fleire involverte.",
-      "excerpt": "Politiet melde like over klokka 18 at det brann i eit rekkehus på Stord. Det er fire bueiningar i rekka.\n\nPoliti, ambulanse og brannvesenet rykte ut til staden der det blei observert røyk, men ikkje flammar.\n\n– Det er meldt om mykje røyk på staden og mykje varme i huset, seier Svein Nesse i 110...",
-      "image": null,
-      "original_url": "https://www.nrk.no/vestland/brann-i-rekkehus-pa-stord-1.17852744",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-19T16:43:23.234Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776617001668.4248,
-      "title": "Ukrainas politipatruljesjef går av etter Kyiv-skytingen",
-      "slug": "ukrainas-politipatruljesjef-gr-av-etter-kyivskytingen",
-      "content": "Politipatruljesjefen i Ukraina, Jevhen Sjukov, har meldt sin avskjed fra jobben etter at to politibetjenter ble sett rømme fra åstedet for en skyting i Kyiv.\n\n– Som en betjent med stridserfaring, har jeg besluttet å levere inn en oppsigelse fra min nåværende stilling. Jeg tror dette er det rette å gjøre, sa Sjukov på en pressekonferanse søndag.\n\nOppsigelsen kommer etter at en mistenkt gjerningsperson åpnet ild ved et supermarked i Kyiv lørdag, og drepte seks personer og såret rundt 14 andre. Mannen ble skutt og drept av politiet etter å ha forskanset seg og tatt gisler på supermarkedet.\n\nVideoopptak som spres på nettet viser to politibetjenter som rømmer fra stedet etter at skytingen startet.\n\n– Skammelig, uverdig oppførsel. Dette er en skam for hele systemet. De er suspendert, og en etterforskning av dette er i gang, heter det fra Ukrainas innenriksminister Ihor Klymenko på Telegram.\n\nUkraina\n\nUkraina er et land i Europa som grenser til Russland, Belarus, Polen, Moldova og Romania. Landet har nær 38 millioner innbyggere, ifølge data fra FN. I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina».",
-      "excerpt": "Politipatruljesjefen i Ukraina, Jevhen Sjukov, har meldt sin avskjed fra jobben etter at to politibetjenter ble sett rømme fra åstedet for en skyting i Kyiv.\n\n– Som en betjent med stridserfaring, har jeg besluttet å levere inn en oppsigelse fra min nåværende stilling. Jeg tror dette er det rette å...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ukrainas-politipatruljesjef-gar-av-etter-kyiv-skytingen-1.17852795",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-19T16:43:21.668Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 640,
+    "totalFetched": 643,
     "totalPublished": 77,
-    "lastFetch": "2026-04-21T13:47:03.726Z",
+    "lastFetch": "2026-04-21T15:15:36.946Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
