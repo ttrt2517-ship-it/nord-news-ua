@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776739677367.451,
+      "title": "DT: Drammen sykehus i gul beredskap",
+      "slug": "dt-drammen-sykehus-i-gul-beredskap",
+      "content": "Beredskapsnivået ved Drammen sykehus er senket fra rødt til gult nivå, skriver avisen Drammens Tidende.\n\nSykehuset hadde problemer med nettverket tidligere i kveld. Men nå er nettverket oppe igjen, skriver avisen.\n\nPressevakt Dag Strøm ved Vestre Viken HF sier sykehuset trolig kommer til å holde gult beredskapsnivå gjennom natten.\n\nGul beredskap er det midterste av tre beredskapsnivåer, som kan settes i verk utover normal drift.",
+      "excerpt": "Beredskapsnivået ved Drammen sykehus er senket fra rødt til gult nivå, skriver avisen Drammens Tidende.\n\nSykehuset hadde problemer med nettverket tidligere i kveld. Men nå er nettverket oppe igjen, skriver avisen.\n\nPressevakt Dag Strøm ved Vestre Viken HF sier sykehuset trolig kommer til å holde...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/dt_-drammen-sykehus-i-gul-beredskap-1.17854446",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-21T02:47:57.367Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776739675923.0242,
+      "title": "Kilder til Axios: Vance til Islamabad tirsdag",
+      "slug": "kilder-til-axios-vance-til-islamabad-tirsdag",
+      "content": "Ifølge flere kilder nyhetsnettstedet Axios har snakket med er det ventet at den amerikanske visepresidenten J. D. Vance skal dra til Islamabad innen tirsdag.\n\nHensikten er å ha samtaler med Iran om en mulig avtale for å få slutt på krigen, skriver Axios.\n\nEtter at USA og Israel gikk til angrep på Iran i slutten av februar, ble partene enige om en våpenhvile 8 april.\n\nUSAs president Donald Trump sagt at våpenhvilen går ut onsdag kveld.\n\nPakistan har også tidligere vært vertskap for samtaler mellom USA og Iran i løpet av våpenhvilen.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. 11. februar begynte fredsforhandlinger mellom landene.",
+      "excerpt": "Ifølge flere kilder nyhetsnettstedet Axios har snakket med er det ventet at den amerikanske visepresidenten J. D. Vance skal dra til Islamabad innen tirsdag.\n\nHensikten er å ha samtaler med Iran om en mulig avtale for å få slutt på krigen, skriver Axios.\n\nEtter at USA og Israel gikk til angrep på...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/kilder-til-axios_-vance-til-islamabad-tirsdag-1.17854448",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-21T02:47:55.923Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776739674505.5015,
+      "title": "Brann i bygård på Tøyen i Oslo – folk søker tilflukt på balkonger",
+      "slug": "brann-i-bygrd-p-tyen-i-oslo-folk-sker-tilflukt-p-balkonger",
+      "content": "Flere beboere ble evakuert, og andre søkte tilflukt på balkongene sine i forbindelse med brann i en bygård på Tøyen i Oslo.\n\n– De som står ute på balkonger, er trygge slik status er nå, men de er i dialog med brannvesenet på stedet, opplyste operasjonsleder Rune Hekkelstrand.\n\nAndre beboere evakuerte seg selv ut av bygården. Det viste seg etter hvert at brannen var i en oppgang.\n\n– Brannen er slukket, men det er fortsatt noe røyk i oppgangen. Det har ikke kommet mye røyk inn i leilighetene, men det må luftes mer før beboere kan vende tilbake, meldte operasjonslederen ved 3.45-tiden.  Politiet har registrert 29 evakuerte fra den aktuelle oppgangen. Personene får oppfølging fra helseetaten. Fire personer er kjørt til legevakta for sjekk etter å ha pustet inn røyk.",
+      "excerpt": "Flere beboere ble evakuert, og andre søkte tilflukt på balkongene sine i forbindelse med brann i en bygård på Tøyen i Oslo.\n\n– De som står ute på balkonger, er trygge slik status er nå, men de er i dialog med brannvesenet på stedet, opplyste operasjonsleder Rune Hekkelstrand.\n\nAndre beboere...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/brann-i-bygard-pa-toyen-i-oslo-_-folk-soker-tilflukt-pa-balkonger-1.17854447",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-21T02:47:54.506Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776725237375.6973,
       "title": "Ny pris til Solfrid Koanda",
       "slug": "ny-pris-til-solfrid-koanda",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-18T22:38:07.524Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776551885905.212,
-      "title": "Ny svensk rapport viser at kvinner er mer ute i naturen enn menn",
-      "slug": "ny-svensk-rapport-viser-at-kvinner-er-mer-ute-i-naturen-enn-",
-      "content": "En ny rapport fra Folkehelsemyndigheten i Sverige viser forskjeller i hvem som er mest ute i naturen mellom ulike grupper i befolkningen.\n\n• Kvinner bruker mer tid utendørs enn menn • Eldre tilbringer mer tid ute i naturen enn unge. • Voksne født i Sverige eller andre nordiske land er mer ute i naturen sammenlignet med de som er født i Europa.  • Personer med høy inntekt eller utdanning er oftere ute i naturen enn de med lav inntekt og utdanning.  • De som bor i storbyregioner er mindre i naturen enn de som bor i mindre befolkede områder.\n\nDet kommer også frem at de som ofte er ute, har større sannsynlighet for å oppleve god generell helse og mentalt velvære, mens de som tilbringer lite tid ute, kan være mer utsatt for psykisk stress.\n\nRapporten skal fungere som kunnskapsgrunnlag for aktører som jobber med å fremme friluftsliv og folkehelse i den svenske befolkningen.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.\n\nMental helse\n\nOrganisasjonen Mental Helse jobber for åpenhet og forebygging av psykiske helseutfordringer. De har blant annet en døgnbemannet hjelpetelefon. De har også fylkes- og lokallag rundt om i Norge.",
-      "excerpt": "En ny rapport fra Folkehelsemyndigheten i Sverige viser forskjeller i hvem som er mest ute i naturen mellom ulike grupper i befolkningen.\n\n• Kvinner bruker mer tid utendørs enn menn • Eldre tilbringer mer tid ute i naturen enn unge. • Voksne født i Sverige eller andre nordiske land er mer ute i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ny-svensk-rapport-viser-at-kvinner-er-mer-ute-i-naturen-enn-menn-1.17852312",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-18T22:38:05.905Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776551884345.442,
-      "title": "Russland: Fredssamtaler med Ukraina er ikke vår høyeste prioritet",
-      "slug": "russland-fredssamtaler-med-ukraina-er-ikke-vr-hyeste-priorit",
-      "content": "Russlands utenriksminister, Sergej Lavrov, sier at nye forhandlinger med Ukraina ikke står øverst på dagsordenen nå. Under en konferanse i Tyrkia uttalte han at Russland ikke har det travel med å få på plass nye møter.\n\nDiplomatiet mellom Russland, Ukraina og USA har stått stille siden midten av februar, hovedsakelig fordi den pågående krigen med Iran krever alt fokus fra de amerikanske meklerne.  Ukrainas president Zelenskyj har bedt om at fredsprosessen gjenopptas.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Russlands utenriksminister, Sergej Lavrov, sier at nye forhandlinger med Ukraina ikke står øverst på dagsordenen nå. Under en konferanse i Tyrkia uttalte han at Russland ikke har det travel med å få på plass nye møter.\n\nDiplomatiet mellom Russland, Ukraina og USA har stått stille siden midten av...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russland_-fredssamtaler-med-ukraina-er-ikke-var-hoyeste-prioritet-1.17852364",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-18T22:38:04.346Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776544786518.4338,
-      "title": "Brann i flermannsbolig i Tønsberg",
-      "slug": "brann-i-flermannsbolig-i-tnsberg",
-      "content": "Nødetatene rykket ut til en flermannsbolig i Tønsberg etter melding om brann lørdag kveld.\n\nIfølge meldingen kom det røyk fra en leilighet i tredje etasje.\n\n– Røykdykkere har gjort grovsøk i leiligheten, og det er ikke gjort funn av personer inne, sier operasjonsleder i Sør-Øst politidistrikt, Roger Aaser til NRK.\n\nIfølge politiet har det vært branntilløp i noen klær. Brannen ble raskt slukket, og det drives med utlufting på stedet.",
-      "excerpt": "Nødetatene rykket ut til en flermannsbolig i Tønsberg etter melding om brann lørdag kveld.\n\nIfølge meldingen kom det røyk fra en leilighet i tredje etasje.\n\n– Røykdykkere har gjort grovsøk i leiligheten, og det er ikke gjort funn av personer inne, sier operasjonsleder i Sør-Øst politidistrikt...",
-      "image": null,
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/brann-i-flermannsbolig-i-tonsberg-1.17852250",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-18T20:39:46.518Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 623,
+    "totalFetched": 626,
     "totalPublished": 77,
-    "lastFetch": "2026-04-20T22:47:18.583Z",
+    "lastFetch": "2026-04-21T02:47:58.832Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
