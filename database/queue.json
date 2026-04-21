@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776751427196.8528,
+      "title": "Golv i sauefjøs kollapsa – truleg 50 døde sauer",
+      "slug": "golv-i-sauefjs-kollapsa-truleg-50-dde-sauer",
+      "content": "Brannvesenet har rykka ut etter melding om at golvet i eit sauefjøs i Stryn har kollapsa ned i møkkakjellaren.\n\nDet skal ha vore opp mot 120 sauer og lam i fjøset.\n\nOmkring 70 av dei er redda ut, mens omkring 50 truleg har omkomme, skriv Vest 110 i ei melding til pressa.\n\n– Vi er på staden med eigar og veterinær og jobbar med å redde ut flest mogleg av desse sauene, seier Trond Landås, vaktoperatør i 110 Vest.",
+      "excerpt": "Brannvesenet har rykka ut etter melding om at golvet i eit sauefjøs i Stryn har kollapsa ned i møkkakjellaren.\n\nDet skal ha vore opp mot 120 sauer og lam i fjøset.\n\nOmkring 70 av dei er redda ut, mens omkring 50 truleg har omkomme, skriv Vest 110 i ei melding til pressa.\n\n– Vi er på staden med...",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestland/golv-i-sauefjos-kollapsa-_-truleg-50-dode-sauer-1.17854456",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-21T06:03:47.196Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776751425806.9705,
+      "title": "Kaffe blir billigere – kan ta måneder før det merkes i Norge",
+      "slug": "kaffe-blir-billigere-kan-ta-mneder-fr-det-merkes-i-norge",
+      "content": "Coop Sverige venter at kiloprisen på kaffe vil synke med 8–10 prosent, eller 14–15 kroner, i nabolandet innen kort tid. Det skriver SVT.\n\nÅrsaken er at kaffeinnhøstingen i Brasil ventes å bli rekordstor, skriver den svenske kringkasteren. Prisnedgangen i Sverige kan potensielt bli enda større mot 2027.\n\nMen i det norske markedet kan det være man ikke ser noen prisnedgang på kaffe på flere måneder, skriver NTB.\n\n– Vi kommer nok inn til høsten før vi ser lavere kaffepriser, sier kommunikasjonssjef i Norgesgruppen, Kine Søyland, til NTB.\n\nHun bekrefter at kaffeprisen er på vei ned, men sier at Norgesgruppen har sikret seg store lagre med kaffe før årets høsting. Denne kaffen er kjøpt inn til høyere pris, og må selges unna før billigere forsyninger kjøpes inn, skriver NTB.",
+      "excerpt": "Coop Sverige venter at kiloprisen på kaffe vil synke med 8–10 prosent, eller 14–15 kroner, i nabolandet innen kort tid. Det skriver SVT.\n\nÅrsaken er at kaffeinnhøstingen i Brasil ventes å bli rekordstor, skriver den svenske kringkasteren. Prisnedgangen i Sverige kan potensielt bli enda større mot...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/kaffe-blir-billigere-_-kan-ta-maneder-for-det-merkes-i-norge-1.17854506",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-21T06:03:45.806Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776751424281.2742,
+      "title": "Alle tog gjennom Blixtunnelen innstilt",
+      "slug": "alle-tog-gjennom-blixtunnelen-innstilt",
+      "content": "Alle togene gjennom Blixtunnelen mellom Ski og Oslo er innstilt på grunn av en feil på en sporveksel.\n\nSki stasjon har også færre spor i bruk, og reisende må regne med forsinkelser.\n\nDette gjelder alle R23 togene, som vanligvis går gjennom tunnelen på Follobanen.\n\nI tillegg blir annet hvert tog på L2, mellom Stabekk, Oslo S og Ski, innstilt.\n\n– Det vet vi foreløpig ikke, men det er høyst trolig at det vil vare gjennom morgenrushet i alle fall, opplyser Olav Nordli, pressekontakt i Bane Nor.\n\nVy jobber nå med å få på plass alternativ transport for de som skal reise med tog mellom Moss og Ås, og Ås og Oslo S.\n\nTog og jernbane\n\nI nær 200 år har togtrafikk på jernbane vært et viktig transportmiddel for mennesker og gods. Norges jernbanenett er på 4208 km (2017). Den samlede lengde av verdens jernbaner var i 2015 beregnet til drøyt 1 millioner km. (SNL)",
+      "excerpt": "Alle togene gjennom Blixtunnelen mellom Ski og Oslo er innstilt på grunn av en feil på en sporveksel.\n\nSki stasjon har også færre spor i bruk, og reisende må regne med forsinkelser.\n\nDette gjelder alle R23 togene, som vanligvis går gjennom tunnelen på Follobanen.\n\nI tillegg blir annet hvert tog på...",
+      "image": "https://images.unsplash.com/photo-1599847741258-1cabea52f6d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY3NTE0MjR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/alle-tog-gjennom-blixtunnelen-innstilt--1.17854500",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-21T06:03:44.281Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776739677367.451,
       "title": "DT: Drammen sykehus i gul beredskap",
       "slug": "dt-drammen-sykehus-i-gul-beredskap",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-19T02:53:34.199Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776567212795.3289,
-      "title": "Kvinne pågrepet etter å ha truet med kniv i veibanen i Ålesund",
-      "slug": "kvinne-pgrepet-etter-ha-truet-med-kniv-i-veibanen-i-lesund",
-      "content": "Politiet har pågrepet en kvinne i 50-årene som sto midt i veibanen og sperret veien for kjøretøy nær Ålesund sentrum natt til søndag.\n\nPolitiet tok i bruk pepperspray for å få kontroll på kvinnen.\n\n– Kvinnen hadde kniv i hånden og ble oppfattet som truende, melder Møre og Romsdal politidistrikt.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
-      "excerpt": "Politiet har pågrepet en kvinne i 50-årene som sto midt i veibanen og sperret veien for kjøretøy nær Ålesund sentrum natt til søndag.\n\nPolitiet tok i bruk pepperspray for å få kontroll på kvinnen.\n\n– Kvinnen hadde kniv i hånden og ble oppfattet som truende, melder Møre og Romsdal...",
-      "image": "https://images.unsplash.com/photo-1671822615382-26d9dc1e76e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY1NjcyMTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/kvinne-pagrepet-etter-a-ha-truet-med-kniv-i-veibanen-i-alesund-1.17852375",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-19T02:53:32.796Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776551890052.1804,
-      "title": "&#039;I am powerless&#039;: How waiting for answers from Norway&#039;s UDI impacts lives",
-      "slug": "039i-am-powerless039-how-waiting-for-answers-from-norway039s",
-      "content": "Getting approval from immigration authorities in Norway is a long process that takes a heavy mental and physical toll. Readers of The Local explain how their lives have been impacted whilst waiting for Norwegian authorities to respond.\n\nAfter asking our readers about their experiences with UDI (The Norwegian Directorate of Immigration) waiting times, the results were striking.\n\nIn most cases, the wait is extremely long, often more than 18 months depending on the case, and the majority warned that getting a response takes much longer than the timeframes provided by the authorities.\n\nOur readers shared how these long waits affect every area of their lives, from the limitations to work and travel, to the impact on their families. However, there is a strong emphasis on the psychological aspect and how this process of \"being in the limbo\" has a severe negative impact on their mental health.\n\nFrustration, disappointment, anxiety, powerlessness, exhaustion and hopelessness were the words repeated most often by people describing how they felt during this long period waiting for UDI.\n\nThe uncertainty of waiting for a decision is driving applicants to the brink. This process is not just a legal journey; it is a psychological one where the hardest part is \"not knowing when your life can finally move forward,\" as one resident applying for family immigration explained.\n\n\"Psychologically, the waiting period has been extremely exhausting,\" said Murat Tulay, 53, from Turkey. \"Living for such a long time without a decision creates constant stress. It is not a temporary stress, but something that becomes part of daily life. There is always a fear about the future, affecting concentration, sleep, and overall well-being,\" Murat said.\n\nHe added that, in reality, this waiting time is not just a delay: \"It is a period where life is paused, where decisions about the future cannot be made, and where uncertainty slowly affects every part of a person’s life. I am doing my best to stay strong,\" Murat added.\n\n“It is difficult to feel secure or make plans while everything remains uncertain,” said another respondent who applied for a work permit.\n\nFor some, like Fanuel, 32, who lives in Oslo, waiting has been so hard and restrictive that he described his life as \"worse than a prison.\"\n\nThe feeling of powerlessness was a recurring theme among those waiting.\n\nMontserrat Garza from Mexico, who now lives in Oslo, summed up how exhausting the process is.\n\n“I can’t make any decisions of my own since I’m basically waiting for them to decide what and where my destiny and future will be,\" she said. \"I am basically just surviving and not living. I feel powerless, exhausted, and irritated.\"\n\nOther readers felt the same way, even those who have already started their lives in Norway but are still waiting for permanent residency.\n\nThis process makes them feel like they cannot yet fully belong in their new country.\n\n“The anxiety of whether or not you can still continue the life you have built here - your career, your friends - takes a toll on me mentally. That feeling of being settled and not settled at the same time is super stressful,\" said Ana from the Philippines, who now lives in Stavanger.\n\n\"There is always that feeling of uncertainty, and it affects my daily life, especially at work. I couldn’t focus because I was worried about whether I could still have the life I have nurtured here or if I should move somewhere else and start over. And getting multiple different answers when you make a follow-up does not help either,\" Ana added.\n\nDiana, 30, from Colombia, also described her life in Tromsø as \"extinguished\". Being forced to stay at home without the right to work has led to deep depression, showing that the physical and mental exhaustion of the UDI process is a burden carried every single day.\n\nREAD MORE: What you should do if you're waiting for a Norwegian residency permit\n\nFor many, the stress of the wait even manifests itself as serious health problems.\n\nA 60-year-old resident in Randaberg, now applying for permanent residency, shared how hard the process has been: \"I have mental health issues as well as physical nerve pain, and it was terrible being in limbo. It certainly did not improve my health situation. You are kept in the dark by UDI.\"\n\nAqsa Yaseen shared that she suffered a miscarriage and kidney issues during her 14-month wait. \"I put my struggle into learning Norwegian... but my future is stuck. I cannot go forward, not even back,\" she said.\n\nMany members of the international community in Norway will no doubt recognise the stories of the physical impact of the stressful wait. There are also stories of people who have suffered stress-induced alopecia or chronic muscular pain that are passed around among foreigners in Norway.\n\nREAD ALSO: Can you travel abroad whilst waiting for your Norwegian residence permit\n\nFor many, the UDI process has become a wall blocking the right to live with one’s family.\n\nThe wait forces couples to put their futures on hold, often just when they hoped to start a new life together.\n\nAnine, 27, born and raised in Oslo, has been separated from her husband for nearly two years. “It took them 16 months just to open our case. We are in our late 20s and would love to start a family, but the waiting time makes that impossible,\" she said. \"I only see him 5-6 weeks out of the whole year. We are just hanging in limbo.”\n\nThe majority of responses highlighted the painful reality of a deep longing for family members who are kept at a distance. For one 32-year-old applicant, the 18-month wait for a first family immigration permit was defined by one thing: “It was very stressful, and I missed my wife so much.”\n\nAma, from Ghana, emphasised the financial and emotional exhaustion of trying to maintain a relationship during a two-year wait: \"I haven’t seen my spouse in 2 years. Life plans have been kept on hold.\"\n\nVictoria, in Sandefjord, also shared her frustration. After leaving her job and selling her house in the UK, she now spends most of her time \"living out of a suitcase.\"\n\n“Life is miserable, and I feel totally stuck. I never get to spend more than two weeks with my husband. I regret making the decision to move to Norway, and wish my husband had just moved to the UK instead. The process is dehumanising; the UDI acts as if people’s lives aren’t being affected by waiting times,\" she said.\n\nChristine, from Kenya, described the long wait for her fiancé's visa as “torture and unfair,” explaining how the uncertainty prevents her from planning her life.\n\nThe effect on children is also devastating. When a parent is gone for 18 to 24 months, they miss important milestones that cannot be replaced.\n\nJenny, a mother in Oslo, described the anxiety of watching her daughter grow up without her father: \"I’m very anxious because our daughter is getting bigger now without a father besides us.”\n\nFor parents caught in the system, the burden is often \"invisible\" but heavy for their children.\n\nOne father shared: “My children are growing up in uncertainty. They try to adapt, go to school, and build a life here, but they carry the same invisible burden. They do not fully understand what is happening, but they feel the instability. As a parent, not being able to give them a clear future or sense of security is one of the hardest parts of this process.”\n\nREAD MORE: UDI limbo: Can I work or volunteer in Norway whilst waiting for residency permit?\n\nThe stories from our readers suggest there is a widespread lack of empathy in the immigration process in Norway.\n\n“When you have a case with the UDI, it means your life is put on hold. They do not care how stressful and harmful this is for the applicants,\" said Pedram Firuz, 32, living in Drammen.\n\nThis sentiment was echoed by readers in other parts of the country. As one 35-year-old respondent from Bergen put it: “UDI does not understand the human suffering behind the waiting time.”\n\nMany residents feel the situation is only deteriorating. “It is beyond understanding how poor the UDI really is. It only seems to get worse, despite promises of improvements,” added a UK national, who has navigated the system post-Brexit.\n\nThat is why a common thread throughout these testimonies was a loss of faith in the Norwegian state:\n\n\"The waiting times are absolutely against any basic human right standard. If the highest governmental authority has treated me in such a demeaning way, it makes me uncertain whether I will ever be treated fairly by any Norwegian authority,\" said a respondent who wished to remain anonymous.\n\nREAD ALSO:  'It’s a joke': Foreigners in Norway warn against trusting UDI wait times\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Getting approval from immigration authorities in Norway is a long process that takes a heavy mental and physical toll. Readers of The Local explain how their lives have been impacted whilst waiting for Norwegian authorities to respond.\n\nAfter asking our readers about their experiences with UDI (The...",
-      "image": null,
-      "original_url": "https://www.thelocal.no/20260414/i-am-powerless-the-human-cost-of-norways-immigration-waiting-game",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-04-18T22:38:10.052Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776551887524.668,
-      "title": "Parat og NHO Reiseliv mekler på overtid – faren for hotellstreik uavklart",
-      "slug": "parat-og-nho-reiseliv-mekler-p-overtid-faren-for-hotellstrei",
-      "content": "Parat og NHO Reiseliv mekler på overtid hos Riksmekleren etter at fristen gikk ut ved midnatt natt til søndag.\n\nForhandlingsleder i Parat, Lars Petter Larsen, bekrefter at partene er enige om å fortsette arbeidet så lenge det er fremdrift i samtalene\n\n– Vi sitter fortsatt sammen for å se om det er mulig å tette gapet mellom kravene. Vi gir oss ikke før alle muligheter for en løsning er utforsket, sier Larsen\n\nDersom partene ikke kommer til enighet, vil 295 Parat-medlemmer gå ut i streik fra arbeidsdagens begynnelse søndag 19. april. Streiken vil i første omgang ramme en rekke store hoteller og virksomheter, melder Parat i en pressemelding like etter midnatt.\n\nRiksavtalen gjelder ansatte innen hotell, restaurant, servering og catering.",
-      "excerpt": "Parat og NHO Reiseliv mekler på overtid hos Riksmekleren etter at fristen gikk ut ved midnatt natt til søndag.\n\nForhandlingsleder i Parat, Lars Petter Larsen, bekrefter at partene er enige om å fortsette arbeidet så lenge det er fremdrift i samtalene\n\n– Vi sitter fortsatt sammen for å se om det er...",
-      "image": "https://images.unsplash.com/photo-1625222700053-9e718e2981ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY1NTE4ODd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/-parat-og-nho-reiseliv-mekler-pa-overtid-_-faren-for-hotellstreik-uavklart-1.17852354",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-18T22:38:07.524Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 626,
+    "totalFetched": 629,
     "totalPublished": 77,
-    "lastFetch": "2026-04-21T02:47:58.832Z",
+    "lastFetch": "2026-04-21T06:03:48.571Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
