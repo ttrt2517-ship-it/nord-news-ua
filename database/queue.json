@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776865607377.0862,
+      "title": "Mistet livet i trafikkulykke i Flesberg",
+      "slug": "mistet-livet-i-trafikkulykke-i-flesberg",
+      "content": "Det var 56 år gamle Omar Frilund som omkom i trafikkulykken i Flesberg 18. april.\n\nDet skriver Sør-Øst politidistrikt i en pressemelding.\n\n– Vi er tidlig i etterforskningen av hendelsen og der er derfor for tidlig å si noe om hva som er årsaken til ulykken, sier politifullmektig Lydia Hannesdotter Kirksæther.\n\nNødetatene fikk melding om hendelsen like før klokken 19 lørdag og en ambulanse var på stedet etter kort tid. Der ble det bekreftet at én person var omkommet i ulykken, skriver politiet i pressemeldingen.\n\nPolitiet jobber videre med ulike etterforskningsskritt og avhør av vitner.\n\n– Frilund ble kjent for hele Norge etter at han var å se på TV sammen med Petter «Uteligger» Nyquist. I serien «Petters kommandosentral», som går på TV 2 i disse dager, møter man blant annet Frilund da han jobbet på Langedrag Naturpark, skriver TV 2.",
+      "excerpt": "Det var 56 år gamle Omar Frilund som omkom i trafikkulykken i Flesberg 18. april.\n\nDet skriver Sør-Øst politidistrikt i en pressemelding.\n\n– Vi er tidlig i etterforskningen av hendelsen og der er derfor for tidlig å si noe om hva som er årsaken til ulykken, sier politifullmektig Lydia Hannesdotter...",
+      "image": "https://images.unsplash.com/photo-1632988322820-100bf01e9436?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY4NjU2MDd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/buskerud/mistet-livet-i-trafikkulykke-i-flesberg-1.17856145",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-22T13:46:47.377Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776865605528.6826,
+      "title": "Økning i antall bostedsløse i Norge",
+      "slug": "kning-i-antall-bostedslse-i-norge",
+      "content": "Antallet bostedsløse i Norge har økt betydelig de siste årene. Det viser en nasjonal kartlegging av bostedsløse.\n\nDa var det 4197 personer over 18 år som var bostedsløse i Norge. 70 prosent av disse var menn. 30 % kvinner. I 2020 var tallet 3325.  Om lag 1000 bostedsløse hadde mindreårige barn.\n\nKartleggingen er gjennomført av NIBR/Oslo Met på oppdrag fra Husbanken, og er gjort åtte ganger siden 1996.",
+      "excerpt": "Antallet bostedsløse i Norge har økt betydelig de siste årene. Det viser en nasjonal kartlegging av bostedsløse.\n\nDa var det 4197 personer over 18 år som var bostedsløse i Norge. 70 prosent av disse var menn. 30 % kvinner. I 2020 var tallet 3325.  Om lag 1000 bostedsløse hadde mindreårige...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/okning-i-antall-bostedslose-i-norge-1.17857148",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-22T13:46:45.528Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776865603939.9663,
+      "title": "Russland bekrefter at de stenger oljeforsyning fra Kasakhstan til Tyskland",
+      "slug": "russland-bekrefter-at-de-stenger-oljeforsyning-fra-kasakhsta",
+      "content": "Russland stenger igjen for oljeforsyningen fra Kasakhstan til et tysk raffineri via Druzjba-rørledningen fra 1. mai. De viser til «tekniske årsaker».\n\nVisestatsminister Aleksandr Novak sier dette har vært planlagt fra tidligere, og at oljestansen skjer med enighet fra Kasakhstan.\n\n– Tyskland har avvist russisk olje, det betyr at de er ok, sier visestatsminister Novak.\n\nDatterselskapet til det statlige russiske oljeselskapet Rosneft har allerede sagt til tyske operatører at myndighetene har beordret stengingen, sier det tyske energidepartementet til AFP.\n\nRosneft Tyskland, som ble tatt inn under tysk myndighetsforvaltning i 2022, vurderer for tiden implikasjonene for raffineriet og utnytter alle tilgjengelige alternativer for å sikre forsyningen i Tyskland, blir AFP fortalt.",
+      "excerpt": "Russland stenger igjen for oljeforsyningen fra Kasakhstan til et tysk raffineri via Druzjba-rørledningen fra 1. mai. De viser til «tekniske årsaker».\n\nVisestatsminister Aleksandr Novak sier dette har vært planlagt fra tidligere, og at oljestansen skjer med enighet fra Kasakhstan.\n\n– Tyskland har...",
+      "image": "https://images.unsplash.com/photo-1624719634868-d2089cc2fd8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY4NjU2MDN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/-russland-bekrefter-at-de-stenger-oljeforsyning-fra-kasakhstan-til-tyskland-1.17857161",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-22T13:46:43.939Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776856101928.991,
       "title": "BBC: Nytt skip angrepet i Hormuzstredet",
       "slug": "bbc-nytt-skip-angrepet-i-hormuzstredet",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-20T19:09:06.684Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776704795933.9307,
-      "title": "Airlines in Europe fear jet-fuel rationing due to Mideast war",
-      "slug": "airlines-in-europe-fear-jetfuel-rationing-due-to-mideast-war",
-      "content": "The head of the International Air Transport Association (IATA) on Friday called on authorities to put \"well-coordinated plans in place\" in the event of jet-fuel rationing due to the Middle East war.\n\nWillie Walsh said an assessment from the International Energy Agency that fuel for aircraft could start running out in Europe in six weeks' time was \"sobering\".\n\n\"We have also estimated that by the end of May we could start to see some cancellations in Europe for lack of jet fuel. This is already happening in parts of Asia,\" he said in a statement.\n\nREAD ALSO: How soon could jet fuel shortages ground flights in Europe?\n\nThe projected aviation fuel shortage stemmed from Iran's effective blockage of the Strait of Hormuz since the United States and Israel started the war at the end of February which spread across the Middle East.\n\nAlthough Iran's foreign minister said on Friday his country was now reopening the strait to commercial traffic, shipping companies are wary.\n\nWalsh said in his statement issued before Iran's announcement that, if jet fuel shortages occurred, \"it's important that authorities have well-communicated and well-coordinated plans in place in case rationing becomes necessary.\"\n\nThe EU's energy commissioner Dan Jorgensen told the Financial Times that the fuel threat meant that flights could soon be cancelled. He suggested EU countries might share jet fuel to cushion the impact in case of a lengthy crisis.\n\nAn EU spokeswoman, Anna-Kaisa Itkonen, told journalists that, at this moment, \"there is no indication of a systemic fuel shortages that would lead to widespread flight cancellations\".\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "The head of the International Air Transport Association (IATA) on Friday called on authorities to put \"well-coordinated plans in place\" in the event of jet-fuel rationing due to the Middle East war.\n\nWillie Walsh said an assessment from the International Energy Agency that fuel for aircraft could...",
-      "image": "https://images.unsplash.com/photo-1768239475196-99f103b5fe42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY3MDQ3OTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260418/airlines-fear-jet-fuel-rationing-due-to-mideast-war",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-04-20T17:06:35.933Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776698238408.251,
-      "title": "Euroen under 11 kroner",
-      "slug": "euroen-under-11-kroner",
-      "content": "En euro koster mandag under 11 kroner. Den koster 10,99 kroner i mandag ettermiddag.\n\n10,99 kostet den også 19. mars. Før det var det lenge siden titallet hadde vist seg.\n\nEuroen er blitt svekket med over 7 prosent mot den norske kronen hittil i år.",
-      "excerpt": "En euro koster mandag under 11 kroner. Den koster 10,99 kroner i mandag ettermiddag.\n\n10,99 kostet den også 19. mars. Før det var det lenge siden titallet hadde vist seg.\n\nEuroen er blitt svekket med over 7 prosent mot den norske kronen hittil i år.",
-      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY2OTgyMzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/euroen-under-11-kroner-1.17853835",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-20T15:17:18.408Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776698236751.2063,
-      "title": "Brann i terrenget i Ålesund",
-      "slug": "brann-i-terrenget-i-lesund",
-      "content": "Det brenn i terrenget ved Emblemssanden i Ålesund. Politi og brannvesenet er på veg til staden.\n\nDet er uklart om brannen kan spreie seg til bygningar.\n\nLike før klokka 17.00 melder politiet at brannvesenet har starta sløkkingsarbeidet. Det er opne flammar på staden.\n\nBrannvesenet har ikkje kontroll på ein skogbrann ved Emblemssanden i Ålesund.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr\n\nBrann i Møre og Romsdal\n\nHer blir du oppdatert når det blir meldt om brann i Møre og Romsdal.",
-      "excerpt": "Det brenn i terrenget ved Emblemssanden i Ålesund. Politi og brannvesenet er på veg til staden.\n\nDet er uklart om brannen kan spreie seg til bygningar.\n\nLike før klokka 17.00 melder politiet at brannvesenet har starta sløkkingsarbeidet. Det er opne flammar på staden.\n\nBrannvesenet har ikkje...",
-      "image": null,
-      "original_url": "https://www.nrk.no/mr/brann-i-terrenget-i-alesund-1.17854063",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-20T15:17:16.751Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 663,
+    "totalFetched": 666,
     "totalPublished": 77,
-    "lastFetch": "2026-04-22T11:08:23.393Z",
+    "lastFetch": "2026-04-22T13:46:48.689Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
