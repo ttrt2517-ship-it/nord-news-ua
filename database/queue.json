@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1776870959163.5208,
+      "title": "Tysk universitet åpner Europas første fakultet for islam-teologi",
+      "slug": "tysk-universitet-pner-europas-frste-fakultet-for-islamteolog",
+      "content": "Münster-universitet vest i Tyskland blir Europas første med eget fakultet for islam-teologi.\n\nFakultet for islamsk teologi åpner i juli, den første institusjonen av sitt slag i Europa, ifølge rektor Johannes Wessels ved universitet i Münster.\n\n– Dette er et tegn på en anerkjennelse for muslimer, fordi det nå er en dialog med dem i en akademisk sammenheng, sier dekan Mouhanad Khorchide ved fakultetet.\n\nUniversitetet har hatt et senter for islamsk teologi siden 2011 under fakultetet for filosofi. Det nye fakultetet skal kunne tildele egne doktorgrader og oppnevne eksamenskomiteer uavhengig.\n\nFakultet åpner 1. juli i år, men det akademiske arbeidet starter først i vintersemesteret 2026/2027.\n\nForskerne ved det nye fakultetet skal dele bibliotek og kantine med akademikere fra andre religionsfaglige fakulteter ved universitetet.",
+      "excerpt": "Münster-universitet vest i Tyskland blir Europas første med eget fakultet for islam-teologi.\n\nFakultet for islamsk teologi åpner i juli, den første institusjonen av sitt slag i Europa, ifølge rektor Johannes Wessels ved universitet i Münster.\n\n– Dette er et tegn på en anerkjennelse for muslimer...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/tysk-universitet-apner-europas-forste-fakultet-for-islam-teologi-1.17857218",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-22T15:15:59.163Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776865607377.0862,
       "title": "Mistet livet i trafikkulykke i Flesberg",
       "slug": "mistet-livet-i-trafikkulykke-i-flesberg",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-20T19:09:08.775Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776712146684.2368,
-      "title": "Brann i leilighet i Oslo: – Kritisk skadd",
-      "slug": "brann-i-leilighet-i-oslo-kritisk-skadd",
-      "content": "Nødetatene er på Vestli i Oslo der det brant i en leilighet.\n\n– Det skal ha brent på et soverom i en leilighet. Det er gjort funn av en person inne på nevnte soverom, skriver operasjonsleder Øyvind Hammervold i politiloggen.\n\nIfølge politiet er personen vurdert som kritisk skadd.\n\n– Den skadde kjøres til sykehus, skriver operasjonslederen.",
-      "excerpt": "Nødetatene er på Vestli i Oslo der det brant i en leilighet.\n\n– Det skal ha brent på et soverom i en leilighet. Det er gjort funn av en person inne på nevnte soverom, skriver operasjonsleder Øyvind Hammervold i politiloggen.\n\nIfølge politiet er personen vurdert som kritisk skadd.\n\n– Den skadde...",
-      "image": "https://images.unsplash.com/photo-1695725097795-19328f75e879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY3MTIxNDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/brann-i-leilighet-i-oslo_-_-kritisk-skadd-1.17854289",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-20T19:09:06.684Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 666,
+    "totalFetched": 667,
     "totalPublished": 77,
-    "lastFetch": "2026-04-22T13:46:48.689Z",
+    "lastFetch": "2026-04-22T15:16:00.503Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
