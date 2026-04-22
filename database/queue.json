@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776877447974.3518,
+      "title": "Brann i bolig- og næringsbygg på Otta",
+      "slug": "brann-i-bolig-og-nringsbygg-p-otta",
+      "content": "Nødetatene har rykket ut til brann i et bygg som huser både næring- og boliger på Otta i Gudbrandsdalen.\n\nDet skal være full fyr i byggets andre etasje, ifølge politiet.\n\nVinden skaper vanskeligheter for brannmannskapene på Otta der det brenner kraftig i et gammelt trebygg.",
+      "excerpt": "Nødetatene har rykket ut til brann i et bygg som huser både næring- og boliger på Otta i Gudbrandsdalen.\n\nDet skal være full fyr i byggets andre etasje, ifølge politiet.\n\nVinden skaper vanskeligheter for brannmannskapene på Otta der det brenner kraftig i et gammelt trebygg.",
+      "image": "https://images.unsplash.com/photo-1726079667649-6668ecea5cc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY4Nzc0NDd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/innlandet/brann-i-bolig--og-naeringsbygg-pa-otta-1.17857303",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-22T17:04:07.974Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776877446359.1675,
+      "title": "Motorsykkel har krasjet i fjellvegg",
+      "slug": "motorsykkel-har-krasjet-i-fjellvegg",
+      "content": "Nødetatene rykket ut etter en motorsykkelulykke i Holmestrand kommune.\n\nFøreren har krasjet i en fjellvegg. Det er kun en person som er involvert i ulykken.\n\nPolitiloggen i Vestfold og Telemark\n\nPolitiet melder om store og små hendelser. Her får du oversikt over hendelsene i Vestfold og Telemark.",
+      "excerpt": "Nødetatene rykket ut etter en motorsykkelulykke i Holmestrand kommune.\n\nFøreren har krasjet i en fjellvegg. Det er kun en person som er involvert i ulykken.\n\nPolitiloggen i Vestfold og Telemark\n\nPolitiet melder om store og små hendelser. Her får du oversikt over hendelsene i Vestfold og Telemark.",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/motorsykkel-har-krasjet-i-fjellvegg-1.17857256",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-22T17:04:06.359Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776877444898.6428,
+      "title": "Helsedirektoratet skal lage nye retningslinjer for utredning og behandling av ADHD",
+      "slug": "helsedirektoratet-skal-lage-nye-retningslinjer-for-utredning",
+      "content": "Helsedirektoratet skal gjøre en fullstendig revisjon og lage nye retningslinjer. for hvordan man skal utrede og behandle ADHD, sier helseminister Jan Christian Vestre (Ap).\n\n– Vi må ha mer kunnskap om hvordan behandlingen og medisineringen virker Vi må huske at enkelte av disse medisinene er sterke saker, sier han.\n\nI dag kunne NRK fortelle at en psykolog ved en privat klinikk stilte 299 ADHD-diagnoser over nett.\n\nStatsforvalteren i Vestfold og Telemark mener klinikken har brutt helsepersonelloven om forsvarlighet.\n\nPsykologen utredet 333 personer for ADHD i fjor og 90 prosent av dem fikk diagnosen – ingen av dem har møtt psykologen fysisk.\n\n– Her er det mange ting en kan stille spørsmål ved. Vi har over tid vært bekymret for at det er mange flere som både skal utredes for og får diagnosen ADHD, sier helseminister Vestre.\n\nKlinikken Fokusert Helse sier de tar inn over seg kritikken.\n\n– Statsforvalteren konkluderer med at deler av praksisen ikke har vært i tråd med kravene til faglig forsvarlighet. Dette er en alvorlig tilbakemelding som vi tar inn over oss, og vi er allerede i gang med endringer, sier de til NRK.\n\nEn liten privat klinikk utredet 333 personer for ADHD i fjor. 90 prosent fikk diagnosen.\n\nHelsetjenester\n\nHelsevesenet er det samlede system av tjenester, institusjoner og lovgivning som samfunnet har bygd ut for å styrke folkehelsen, yte diagnostikk, behandling, rehabilitering og omsorg ved akutte og kroniske sykdommer og skade. (SNL.no)",
+      "excerpt": "Helsedirektoratet skal gjøre en fullstendig revisjon og lage nye retningslinjer. for hvordan man skal utrede og behandle ADHD, sier helseminister Jan Christian Vestre (Ap).\n\n– Vi må ha mer kunnskap om hvordan behandlingen og medisineringen virker Vi må huske at enkelte av disse medisinene er sterke...",
+      "image": "https://images.unsplash.com/photo-1639471197596-35a60714305c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY4Nzc0NDR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/helsedirektoratet-skal-lage-nye-retningslinjer-for-utredning-og-behandling-av-adhd-1.17857387",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-22T17:04:04.898Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776870959163.5208,
       "title": "Tysk universitet åpner Europas første fakultet for islam-teologi",
       "slug": "tysk-universitet-pner-europas-frste-fakultet-for-islamteolog",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-20T22:47:14.274Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776718292996.1316,
-      "title": "Gutt kjørt til sykehus etter påkjørsel av bil i Bø",
-      "slug": "gutt-kjrt-til-sykehus-etter-pkjrsel-av-bil-i-b",
-      "content": "Politiet fikk melding om en trafikkulykke der en gutt i barneskolealder med sykkel skulle være påkjørt av en bil. Hendelsen skal ha skjedd i nærheten av fotballbanen ved Folkestadvegen. Påkjørselen skal ha skjedd ca. kl. 18:30, skriver politiet. Politiet ble varslet av guttens foresatte.\n\nEn mannlig bilfører skal ha kjørt fra stedet. Gutten ble kjørt til legevakt for undersøkelse og videre til sykehus i Skien for observasjon, opplyser operasjonsleder, Espen Reite.\n\nPolitiet er i kontakt med en mann i 70 årene som innrømmer å ha vært involvert. Mannen avhøres av patruljen og politiet oppretter sak på hendelsen.",
-      "excerpt": "Politiet fikk melding om en trafikkulykke der en gutt i barneskolealder med sykkel skulle være påkjørt av en bil. Hendelsen skal ha skjedd i nærheten av fotballbanen ved Folkestadvegen. Påkjørselen skal ha skjedd ca. kl. 18:30, skriver politiet. Politiet ble varslet av guttens foresatte.\n\nEn...",
-      "image": "https://images.unsplash.com/photo-1661698047861-c20691d34be4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY3MTgyOTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/gutt-kjort-til-sykehus-etter-pakjorsel-av-bil-i-bo-1.17854315",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-20T20:51:32.997Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776718291442.8083,
-      "title": "Én drept i skyting ved meksikansk turiststed",
-      "slug": "n-drept-i-skyting-ved-meksikansk-turiststed",
-      "content": "Én kvinne ble mandag drept etter at det ble løsnet skudd ved den meksikanske turistattraksjonen Teotihuacan.\n\nIfølge meksikanske myndigheter er den drepte kvinnen fra Canada.\n\nTre andre skal også være skadet. Gjerningspersonen skal også være død.\n\nIfølge Reuters uttaler Mexicos president, Claudia Sheinbaum, at hun har bedt om etterforskning.\n\n– Vi er i kontakt med den kanadiske ambassaden vedrørende skytingen ved Teotihuacan, sier presidenten.\n\nHun opplyser at nødetater, samt personer fra innenriks- og kulturdepartementet er på vei til stedet.\n\nMexico\n\nDet er kaos i gatene i Mexico etter drapet på en kartelleder fra JNG, en av de mektigste og raskest voksende kriminelle organisasjonene i Mexico.",
-      "excerpt": "Én kvinne ble mandag drept etter at det ble løsnet skudd ved den meksikanske turistattraksjonen Teotihuacan.\n\nIfølge meksikanske myndigheter er den drepte kvinnen fra Canada.\n\nTre andre skal også være skadet. Gjerningspersonen skal også være død.\n\nIfølge Reuters uttaler Mexicos president, Claudia...",
-      "image": "https://images.unsplash.com/photo-1572623635668-d21569286f60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY3MTgyOTF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/en-drept-i-skyting-ved-meksikansk-turiststed-1.17854155",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-20T20:51:31.443Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776712148775.6553,
-      "title": "Har kontroll på brann",
-      "slug": "har-kontroll-p-brann",
-      "content": "Brannvesenet melder at dei har kontroll på ein skogbrann på Emblem i Ålesund.\n\nBrannvesenet rykka ut med store styrker mandag ettermiddag, då det byrja å brenne i terrenget. Brannvesenet melder like etter klokka 19.00 at dei har kontroll, men at der er restvarme i terrenget som dei kjem til å jobbe med utover kvelden.\n\nMarit og Henning Breivik er sjeleglade for at brannvesenet klarte å sløkke skogbrannen i Ålesund måndag. Flammane var berre 100 meter unna då dei måtte flykte.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr\n\nBrann i Møre og Romsdal\n\nHer blir du oppdatert når det blir meldt om brann i Møre og Romsdal.",
-      "excerpt": "Brannvesenet melder at dei har kontroll på ein skogbrann på Emblem i Ålesund.\n\nBrannvesenet rykka ut med store styrker mandag ettermiddag, då det byrja å brenne i terrenget. Brannvesenet melder like etter klokka 19.00 at dei har kontroll, men at der er restvarme i terrenget som dei kjem til å jobbe...",
-      "image": "https://images.unsplash.com/photo-1654489519380-df012c053367?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY3MTIxNDh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/mr/har-kontroll-pa-brann-1.17854210",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-20T19:09:08.775Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 667,
+    "totalFetched": 670,
     "totalPublished": 77,
-    "lastFetch": "2026-04-22T15:16:00.503Z",
+    "lastFetch": "2026-04-22T17:04:09.398Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
