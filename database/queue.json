@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776965059958.9922,
+      "title": "Oslo bikket 20 varmegrader",
+      "slug": "oslo-bikket-20-varmegrader",
+      "content": "Torsdag kom årets første sommerdag også til hovedstaden.\n\n– Oslo Blindern har akkurat fått 20,0 grader, og Oslo Bygdøy har fått 20,1, sier statsmeteorolog Anne Solveig Andersen til NTB torsdag ettermiddag.\n\nDe lave temperaturene nordover i landet vil etter hvert også trekke sørover.\n\n– Lørdag er det en helt annen temperatur, og det kan bli en del vind på Østlandet. Så det vil føles kaldere, sier Andersen.\n\nSer vi lenger framover, kan det være en ny sommerbølge i vente i sør.\n\n– Det ser ut til at temperaturene stiger igjen til neste helg. Akkurat hvor høyt det blir, er litt vanskelig å si. Men trenden ser ut til å være at det går mot varmere vær igjen.",
+      "excerpt": "Torsdag kom årets første sommerdag også til hovedstaden.\n\n– Oslo Blindern har akkurat fått 20,0 grader, og Oslo Bygdøy har fått 20,1, sier statsmeteorolog Anne Solveig Andersen til NTB torsdag ettermiddag.\n\nDe lave temperaturene nordover i landet vil etter hvert også trekke sørover.\n\n– Lørdag er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/oslo-bikket-20-varmegrader-1.17858975",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-23T17:24:19.958Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776965058292.6328,
+      "title": "Tre drept i israelsk angrep sør i Libanon",
+      "slug": "tre-drept-i-israelsk-angrep-sr-i-libanon",
+      "content": "– Tre personer er drept i et israelsk angrep sør i Libanon, opplyser det libanesiske helsedepartementet.\n\nAngrepet skjer til tross for en ti dager lang våpenhvile i krigen mellom Israel og Hizbollah, skiver nyhetsbyrået AFP.\n\nI en uttalelse opplyser departementet at «et israelsk luftangrep på Shoukine-veien i Nabatieh-distriktet», mer enn 30 kilometer nord for Israel, drepte tre personer, mens et angrep på landsbyen Yater skadet to personer.\n\nAngrepene skjer timer før det andre møtet mellom Libanons og Israels USA-ambassadører i Washington.\n\nDet israelske forsvaret sier de har drept to væpnede menn sør i Libanon etter at de nærmet seg soldater.\n\nHizbollah sier de er klar til å handle dersom Israel bryter våpenhvilen de har inngått i Libanon.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "– Tre personer er drept i et israelsk angrep sør i Libanon, opplyser det libanesiske helsedepartementet.\n\nAngrepet skjer til tross for en ti dager lang våpenhvile i krigen mellom Israel og Hizbollah, skiver nyhetsbyrået AFP.\n\nI en uttalelse opplyser departementet at «et israelsk luftangrep på...",
+      "image": "https://images.unsplash.com/photo-1619101986994-db5c7cbdfd8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY5NjUwNTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/tre-drept-i-israelsk-angrep-sor-i-libanon-1.17859133",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-23T17:24:18.292Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776965056630.4849,
+      "title": "E16 stengt i Sør-Aurdal etter alvorlig trafikkulykke",
+      "slug": "e16-stengt-i-sraurdal-etter-alvorlig-trafikkulykke",
+      "content": "Vegen ble stengt i begge retninger like før kl. 19 torsdag og det er ventet at vegen holdes stengt i flere timer utover kvelden, ifølge Vegvesenet.\n\nPolitiet i Innlandet melder at det skal være snakk om en møteulykke mellom en personbil og et vogntog.\n\nVegtrafikksentralen Øst opplyser at vegen er stengt på grunn av en alvorlig trafikkulykke.\n\nEn personbil og et vogntog skal ha kollidert på E16. Ulykken fremstår alvorlig, ifølge politiet.",
+      "excerpt": "Vegen ble stengt i begge retninger like før kl. 19 torsdag og det er ventet at vegen holdes stengt i flere timer utover kvelden, ifølge Vegvesenet.\n\nPolitiet i Innlandet melder at det skal være snakk om en møteulykke mellom en personbil og et vogntog.\n\nVegtrafikksentralen Øst opplyser at vegen er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/innlandet/e16-stengt-i-sor-aurdal-etter-alvorlig-trafikkulykke-1.17859055",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-23T17:24:16.630Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776959754103.2637,
       "title": "Nekter å la seg avhøre",
       "slug": "nekter-la-seg-avhre",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-21T20:55:54.310Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776804952784.5305,
-      "title": "Trump: USA forlenger våpenhvilen med Iran",
-      "slug": "trump-usa-forlenger-vpenhvilen-med-iran",
-      "content": "Det sier USAs president Donald Trump i et innlegg på sin meldingstjeneste Truth Social.\n\nHan begrunner avgjørelsen med at at regjeringen i Iran er «alvorlig splittet», samt et ønske fra Pakistan om mer tid til å utarbeide et felles forslag fra Teheran.\n\n– Jeg har derfor bedt vårt militære om å fortsette blokaden av Hormuzstredet og for øvrig forbli klare og kampdyktige, og vil derfor forlenge våpenhvilen inntil deres forslag er lagt frem og samtalene er avsluttet, på den ene eller andre måten, skriver Trump.\n\nTrump skriver i innlegget at USAs blokade av Hormuz-stredet fortsetter.\n\nHan har tidligere varslet at den to uker lange våpenhvilen skulle utløpe i løpet av onsdag denne uken.\n\nVåpenhvilen som nå gjelder, ble forhandlet frem av Pakistan og trådte i kraft 8. april.\n\n8. april ble Iran og USA enige om en to ukers våpenhvile. Tirsdag kveld melder president Donald Trump at våpenhvilen forlenges.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. 11. februar begynte fredsforhandlinger mellom landene.",
-      "excerpt": "Det sier USAs president Donald Trump i et innlegg på sin meldingstjeneste Truth Social.\n\nHan begrunner avgjørelsen med at at regjeringen i Iran er «alvorlig splittet», samt et ønske fra Pakistan om mer tid til å utarbeide et felles forslag fra Teheran.\n\n– Jeg har derfor bedt vårt militære om å...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump_-usa-forlenger-vapenhvilen-med-iran-1.17855994",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-21T20:55:52.784Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776798968555.4336,
-      "title": "Libanons statsminister møter Macron i Paris",
-      "slug": "libanons-statsminister-mter-macron-i-paris",
-      "content": "Libanons statsminister Nawaf Salam seier landet treng 500 millionar euro dei neste seks månadane for å handtere dei humanitære konsekvensane etter krigen mellom Hizbollah og Israel, melder AFP.\n\nSalam er tysdag i Paris for å møte Frankrikes president Emmanuel Macron.\n\nFørre torsdag starta ein ti dagar lang våpenkvile i Libanon, men israelske soldatar er framleis til stades i landet.\n\nMacron sa tysdag at Frankrike ville hjelpe Libanon i arbeidet med vidare forhandlingar med Israel, melder Reuters.\n\nLibanon\n\nDen iranskstøttede Hizbollah-militsen angrep Israel med raketter for å svare på det israelske angrepet på Iran 28. februar. Angrepene mot Libanon har tiltatt i styrke fra israelsk side etter våpenhvileavtalen mellom USA, Israel og Iran 8. april.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Libanons statsminister Nawaf Salam seier landet treng 500 millionar euro dei neste seks månadane for å handtere dei humanitære konsekvensane etter krigen mellom Hizbollah og Israel, melder AFP.\n\nSalam er tysdag i Paris for å møte Frankrikes president Emmanuel Macron.\n\nFørre torsdag starta ein ti...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/libanons-statsminister-moter-macron-i-paris-1.17855813",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-21T19:16:08.555Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776798966935.9802,
-      "title": "VG: Norwegian-fly til London måtte snu med sprokken frontrute",
-      "slug": "vg-norwegianfly-til-london-mtte-snu-med-sprokken-frontrute",
-      "content": "Eit Norwegian-fly på veg frå Oslo til London måtte tysdag kveld snu etter at det blei oppdaga ei sprekk i frontruta, melder VG.\n\nPressesjef Cathrine Solli seier at sprekken er i det ytste laget av frontruta, som har fleire lag med glas.\n\nDet var 88 passasjerar om bord, som skal reise vidare til London i eit nytt fly tysdag kveld.",
-      "excerpt": "Eit Norwegian-fly på veg frå Oslo til London måtte tysdag kveld snu etter at det blei oppdaga ei sprekk i frontruta, melder VG.\n\nPressesjef Cathrine Solli seier at sprekken er i det ytste laget av frontruta, som har fleire lag med glas.\n\nDet var 88 passasjerar om bord, som skal reise vidare til...",
-      "image": "https://images.unsplash.com/photo-1696537380062-e6275d9a3c8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY3OTg5NjZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/vg_-norwegian-fly-til-london-matte-snu-med-sprokken-frontrute-1.17855860",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-21T19:16:06.935Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 697,
+    "totalFetched": 700,
     "totalPublished": 77,
-    "lastFetch": "2026-04-23T15:55:55.553Z",
+    "lastFetch": "2026-04-23T17:24:21.387Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
