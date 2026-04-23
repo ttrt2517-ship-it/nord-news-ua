@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1776912568112.7917,
+      "title": "Ukraina: – Syv såret i russisk angrep",
+      "slug": "ukraina-syv-sret-i-russisk-angrep",
+      "content": "Syv mennesker ble såret i et russisk luftangrep på den ukrainske byen Dnipro natt til torsdag, ifølge den regionale guvernøren Oleksandr Ganzha.\n\nHan har lagt ut bilder fra byen på meldingstjenesten Telegram som viser branner i en boligblokk.\n\nTo barn var blant de sårede som ble fraktet til sykehus etter angrepet, skriver avisen Kyiv Post.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Syv mennesker ble såret i et russisk luftangrep på den ukrainske byen Dnipro natt til torsdag, ifølge den regionale guvernøren Oleksandr Ganzha.\n\nHan har lagt ut bilder fra byen på meldingstjenesten Telegram som viser branner i en boligblokk.\n\nTo barn var blant de sårede som ble fraktet til sykehus...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukraina_-_-syv-saret-i-russisk-angrep-1.17857655",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-23T02:49:28.112Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776912566302.9407,
+      "title": "Lamborghini beslagt etter trafikkulykke i Follo",
+      "slug": "lamborghini-beslagt-etter-trafikkulykke-i-follo",
+      "content": "Politiet har beslaglagt en Lamborghini etter en trafikkkulykke i Follo.\n\nBilen fikk en skrens, kom over i motgående kjørefelt og krasjet i veggen til Ringnestunnelen på fylkesvei 156 i Follo i Akershus.\n\nPolitiet ble varslet om ulykken 23.06 onsdag kveld.\n\nEn mann i 30-årene kjørte bilen, og en kvinne i 40-årene var passasjerer.\n\nBegge kom uskadet fra ulykken og er nå avhørt av politiet, bekrefter operasjonsleder Pål Bjelland i Øst politidistrikt til NRK.",
+      "excerpt": "Politiet har beslaglagt en Lamborghini etter en trafikkkulykke i Follo.\n\nBilen fikk en skrens, kom over i motgående kjørefelt og krasjet i veggen til Ringnestunnelen på fylkesvei 156 i Follo i Akershus.\n\nPolitiet ble varslet om ulykken 23.06 onsdag kveld.\n\nEn mann i 30-årene kjørte bilen, og en...",
+      "image": "https://images.unsplash.com/photo-1555534650-6bb24b6fc0e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY5MTI1NjZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/lamborghini-beslagt-etter-trafikkulykke-i-follo-1.17857656",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-23T02:49:26.302Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1776912564637.4897,
+      "title": "Oljeprisene steg etter Iran-uttalelse",
+      "slug": "oljeprisene-steg-etter-iranuttalelse",
+      "content": "Oljeprisene stiger etter at Iran har sagt at Hormuzstredet ikke blir gjenåpnet så lenge USAs havneblokade ikke oppheves.\n\nKlokken 2.25 natt til torsdag hadde prisen på amerikansk lettolje steget 4,06 prosent til 96,73 dollar fatet.\n\nEt fat nordsjøolje kostet på samme tidspunkt 105,63 dollar, etter en oppgang på 3,62 prosent.\n\nOppgangen kom etter at Iran har uttalt at landet ikke vil gjenåpne Hormuzstredet så lenge USAs blokade av iranske havner fortsetter.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. 11. februar begynte fredsforhandlinger mellom landene.",
+      "excerpt": "Oljeprisene stiger etter at Iran har sagt at Hormuzstredet ikke blir gjenåpnet så lenge USAs havneblokade ikke oppheves.\n\nKlokken 2.25 natt til torsdag hadde prisen på amerikansk lettolje steget 4,06 prosent til 96,73 dollar fatet.\n\nEt fat nordsjøolje kostet på samme tidspunkt 105,63 dollar, etter...",
+      "image": "https://images.unsplash.com/photo-1654489519380-df012c053367?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY5MTI1NjR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/oljeprisene-steg-etter-iran-uttalelse-1.17857658",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-23T02:49:24.638Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1776891476140.6958,
       "title": "Oslo Ap sier ja til bydelsreform",
       "slug": "oslo-ap-sier-ja-til-bydelsreform",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-21T06:03:47.196Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776751425806.9705,
-      "title": "Kaffe blir billigere – kan ta måneder før det merkes i Norge",
-      "slug": "kaffe-blir-billigere-kan-ta-mneder-fr-det-merkes-i-norge",
-      "content": "Coop Sverige venter at kiloprisen på kaffe vil synke med 8–10 prosent, eller 14–15 kroner, i nabolandet innen kort tid. Det skriver SVT.\n\nÅrsaken er at kaffeinnhøstingen i Brasil ventes å bli rekordstor, skriver den svenske kringkasteren. Prisnedgangen i Sverige kan potensielt bli enda større mot 2027.\n\nMen i det norske markedet kan det være man ikke ser noen prisnedgang på kaffe på flere måneder, skriver NTB.\n\n– Vi kommer nok inn til høsten før vi ser lavere kaffepriser, sier kommunikasjonssjef i Norgesgruppen, Kine Søyland, til NTB.\n\nHun bekrefter at kaffeprisen er på vei ned, men sier at Norgesgruppen har sikret seg store lagre med kaffe før årets høsting. Denne kaffen er kjøpt inn til høyere pris, og må selges unna før billigere forsyninger kjøpes inn, skriver NTB.",
-      "excerpt": "Coop Sverige venter at kiloprisen på kaffe vil synke med 8–10 prosent, eller 14–15 kroner, i nabolandet innen kort tid. Det skriver SVT.\n\nÅrsaken er at kaffeinnhøstingen i Brasil ventes å bli rekordstor, skriver den svenske kringkasteren. Prisnedgangen i Sverige kan potensielt bli enda større mot...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kaffe-blir-billigere-_-kan-ta-maneder-for-det-merkes-i-norge-1.17854506",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-21T06:03:45.806Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776751424281.2742,
-      "title": "Alle tog gjennom Blixtunnelen innstilt",
-      "slug": "alle-tog-gjennom-blixtunnelen-innstilt",
-      "content": "Alle togene gjennom Blixtunnelen mellom Ski og Oslo er innstilt på grunn av en feil på en sporveksel.\n\nSki stasjon har også færre spor i bruk, og reisende må regne med forsinkelser.\n\nDette gjelder alle R23 togene, som vanligvis går gjennom tunnelen på Follobanen.\n\nI tillegg blir annet hvert tog på L2, mellom Stabekk, Oslo S og Ski, innstilt.\n\n– Det vet vi foreløpig ikke, men det er høyst trolig at det vil vare gjennom morgenrushet i alle fall, opplyser Olav Nordli, pressekontakt i Bane Nor.\n\nVy jobber nå med å få på plass alternativ transport for de som skal reise med tog mellom Moss og Ås, og Ås og Oslo S.\n\nTog og jernbane\n\nI nær 200 år har togtrafikk på jernbane vært et viktig transportmiddel for mennesker og gods. Norges jernbanenett er på 4208 km (2017). Den samlede lengde av verdens jernbaner var i 2015 beregnet til drøyt 1 millioner km. (SNL)",
-      "excerpt": "Alle togene gjennom Blixtunnelen mellom Ski og Oslo er innstilt på grunn av en feil på en sporveksel.\n\nSki stasjon har også færre spor i bruk, og reisende må regne med forsinkelser.\n\nDette gjelder alle R23 togene, som vanligvis går gjennom tunnelen på Follobanen.\n\nI tillegg blir annet hvert tog på...",
-      "image": "https://images.unsplash.com/photo-1599847741258-1cabea52f6d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY3NTE0MjR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/alle-tog-gjennom-blixtunnelen-innstilt--1.17854500",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-21T06:03:44.281Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776739677367.451,
-      "title": "DT: Drammen sykehus i gul beredskap",
-      "slug": "dt-drammen-sykehus-i-gul-beredskap",
-      "content": "Beredskapsnivået ved Drammen sykehus er senket fra rødt til gult nivå, skriver avisen Drammens Tidende.\n\nSykehuset hadde problemer med nettverket tidligere i kveld. Men nå er nettverket oppe igjen, skriver avisen.\n\nPressevakt Dag Strøm ved Vestre Viken HF sier sykehuset trolig kommer til å holde gult beredskapsnivå gjennom natten.\n\nGul beredskap er det midterste av tre beredskapsnivåer, som kan settes i verk utover normal drift.",
-      "excerpt": "Beredskapsnivået ved Drammen sykehus er senket fra rødt til gult nivå, skriver avisen Drammens Tidende.\n\nSykehuset hadde problemer med nettverket tidligere i kveld. Men nå er nettverket oppe igjen, skriver avisen.\n\nPressevakt Dag Strøm ved Vestre Viken HF sier sykehuset trolig kommer til å holde...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/dt_-drammen-sykehus-i-gul-beredskap-1.17854446",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-21T02:47:57.367Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 675,
+    "totalFetched": 678,
     "totalPublished": 77,
-    "lastFetch": "2026-04-22T22:50:47.776Z",
+    "lastFetch": "2026-04-23T02:49:29.459Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
