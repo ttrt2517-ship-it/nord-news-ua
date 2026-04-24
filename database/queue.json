@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1777063963256.679,
+      "title": "12 drept i israelske angrep i Gaza",
+      "slug": "12-drept-i-israelske-angrep-i-gaza",
+      "content": "Minst 12 personer, deriblant seks politibetjenter, ble drept i flere israelske angrep i Gaza fredag, ifølge palestinsk helsepersonell.\n\nEt angrep rammet et tettpakket område i Gaza by der lokalt politi var utstasjonert for å vokte en bank, ifølge helsepersonell og øyenvitner. Tre personer, to av dem politibetjenter, ble drept i angrepet.\n\nIsrael har ifølge Reuters økt antallet angrep mot den Hamas-styrte politistyrken, som den militante gruppen har brukt for å gjenopprette styringen i områder den kontrollerer på Gazastripen.\n\nIsraels militære bekrefter et angrep mot Gaza by, men har ikke uttalt seg om de andre angrepene.\n\nVidere ble to personer drept av skyts fra stridsvogner i Beit Lahiya, og sju personer ble drept i et angrep mot Khan Younis, ifølge lokalt helsepersonell. Sistnevnte angrep rammet en politibil, ifølge Gazas innenriksdepartement.\n\nGazastripen\n\nDen palestinske enklaven som er styrt av Hamas, har vært blokkert av Israel siden 2006.",
+      "excerpt": "Minst 12 personer, deriblant seks politibetjenter, ble drept i flere israelske angrep i Gaza fredag, ifølge palestinsk helsepersonell.\n\nEt angrep rammet et tettpakket område i Gaza by der lokalt politi var utstasjonert for å vokte en bank, ifølge helsepersonell og øyenvitner. Tre personer, to av...",
+      "image": "https://images.unsplash.com/photo-1683797468338-5b6a0cf758f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcwNjM5NjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/12-drept-i-israelske-angrep-i-gaza-1.17860660",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-24T20:52:43.256Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777057004921.4688,
       "title": "Paraglider-ulykke ved Krokkleiva",
       "slug": "paragliderulykke-ved-krokkleiva",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-22T19:17:22.615Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776885441002.7268,
-      "title": "Ulykke i Rakkestad",
-      "slug": "ulykke-i-rakkestad",
-      "content": "Nødetatene rykket onsdag kveld ut etter melding om en ulykke i Rakkestad.\n\nBåde luftambulanse og redningshelikopter er rekvirert, melder operasjonsleder i Øst politidistrikt, Fredrik Solbakken.\n\nNødetatene er på stedet og pasienten ivaretas av helsevesenet på stedet.\n\nNødetatene rykket onsdag kveld ut etter melding om en ulykke i Rakkestad.",
-      "excerpt": "Nødetatene rykket onsdag kveld ut etter melding om en ulykke i Rakkestad.\n\nBåde luftambulanse og redningshelikopter er rekvirert, melder operasjonsleder i Øst politidistrikt, Fredrik Solbakken.\n\nNødetatene er på stedet og pasienten ivaretas av helsevesenet på stedet.\n\nNødetatene rykket onsdag kveld...",
-      "image": null,
-      "original_url": "https://www.nrk.no/ostfold/ulykke-i-rakkestad-1.17857410",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-22T19:17:21.003Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 720,
+    "totalFetched": 721,
     "totalPublished": 77,
-    "lastFetch": "2026-04-24T18:56:46.436Z",
+    "lastFetch": "2026-04-24T20:52:44.577Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
