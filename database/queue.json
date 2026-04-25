@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1777084748337.1074,
+      "title": "265 km/t i 100-sone: – Ekstrem høy hastighet",
+      "slug": "265-kmt-i-100sone-ekstrem-hy-hastighet",
+      "content": "Politiet leter etter en bilfører etter en fartskontroll i Sarpsborg i Østfold.\n\nBilen kjørte på E6. Hastigheten ble målt til 265 kilometer i timen.\n\nBilføreren stoppet ikke for politiet på stedet etter målingen, forteller politiet.\n\n– Hvor uvanlig er det med en hastighet på 265 km/t?\n\n– Det er ekstrem høy hastighet. Det er ingen tvil om det, sier operasjonsleder Rune Isaksen i Øst Politidistrikt til NRK.\n\nPolitiet etterforsker saken og jobber med å få tak i sjåføren.",
+      "excerpt": "Politiet leter etter en bilfører etter en fartskontroll i Sarpsborg i Østfold.\n\nBilen kjørte på E6. Hastigheten ble målt til 265 kilometer i timen.\n\nBilføreren stoppet ikke for politiet på stedet etter målingen, forteller politiet.\n\n– Hvor uvanlig er det med en hastighet på 265 km/t?\n\n– Det er...",
+      "image": "https://images.unsplash.com/photo-1742458498570-c5517f692b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcwODQ3NDh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/265-km_t-i-100-sone_-_-ekstrem-hoy-hastighet-1.17860751",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-25T02:39:08.337Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777063963256.679,
       "title": "12 drept i israelske angrep i Gaza",
       "slug": "12-drept-i-israelske-angrep-i-gaza",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-22T19:17:24.307Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776885442615.6616,
-      "title": "BT: Utbrudd av resistente bakterier på Haukeland",
-      "slug": "bt-utbrudd-av-resistente-bakterier-p-haukeland",
-      "content": "Haukeland sykehus har funnet 22 pasienter med bakterien siden 1. januar i år.\n\nBakterien som er funnet heter vancomycinresistente enterokokker (VRE). Den har utviklet motstandskraft mot flere typer antibiotika.\n\nIngen av pasientene som har fått påvist smitten, har så langt blitt syke av den.\n\nUtbruddet er avgrenset til kirurgisk klinikk på sykehuset. Men det tas alvorlig, fordi man ikke ønsker at bakteriene etablerer seg på andre norske sykehus.\n\nPasienter som har vært innlagt på kirurgisk klinikk, bør screenes for antibiotikaresistente bakterier dersom de skal legges inn ved andre sykehus.",
-      "excerpt": "Haukeland sykehus har funnet 22 pasienter med bakterien siden 1. januar i år.\n\nBakterien som er funnet heter vancomycinresistente enterokokker (VRE). Den har utviklet motstandskraft mot flere typer antibiotika.\n\nIngen av pasientene som har fått påvist smitten, har så langt blitt syke av...",
-      "image": null,
-      "original_url": "https://www.nrk.no/vestland/bt_-utbrudd-av-resistente-bakterier-pa-haukeland--1.17857214",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-22T19:17:22.615Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 721,
+    "totalFetched": 722,
     "totalPublished": 77,
-    "lastFetch": "2026-04-24T22:41:12.510Z",
+    "lastFetch": "2026-04-25T02:39:09.726Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
