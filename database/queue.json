@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1777128220228.7075,
+      "title": "Kajakkpadler havnet i vannet – luftambulanse på vei",
+      "slug": "kajakkpadler-havnet-i-vannet-luftambulanse-p-vei",
+      "content": "En kajakkpadler havnet i vannet i Trysil i ettermiddag. Politiet fikk melding om hendelsen klokken 15.49.\n\nVedkommende forsøkte å svømme mot land, og en båt i nærheten fikk plukket opp personen. Padleren er lettere nedkjølt og blir ivaretatt av helsepersonell.\n\nNødetatene, inkludert luftambulanse, har rykket ut til stedet, melder politiet.",
+      "excerpt": "En kajakkpadler havnet i vannet i Trysil i ettermiddag. Politiet fikk melding om hendelsen klokken 15.49.\n\nVedkommende forsøkte å svømme mot land, og en båt i nærheten fikk plukket opp personen. Padleren er lettere nedkjølt og blir ivaretatt av helsepersonell.\n\nNødetatene, inkludert luftambulanse...",
+      "image": null,
+      "original_url": "https://www.nrk.no/innlandet/kajakkpadler-havnet-i-vannet-_-luftambulanse-pa-vei-1.17861161",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-25T14:43:40.228Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777128218681.8955,
+      "title": "Reuters: Irans delegasjon har forlatt Pakistan",
+      "slug": "reuters-irans-delegasjon-har-forlatt-pakistan",
+      "content": "Det opplyser pakistanske regjeringskilder til Reuters.\n\nIrans utenriksminister Abbas Araghchi har vært i Pakistan, der han har møtt Pakistans hærsjef.\n\nSent fredag kveld kom Iran med en uttalese om at det ikke var panlagt møter mellom Iran og USA i Pakistan.\n\nDet har kommet ulike meldinger om hvorvidt USA og Iran ville møtes til direkte samtaler i Pakistan.\n\nTidligere fredag skrev TV-kanalen ABC News at at iranerne og amerikanerne skal ha separate møter med de pakistanske vertene på lørdag.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Det opplyser pakistanske regjeringskilder til Reuters.\n\nIrans utenriksminister Abbas Araghchi har vært i Pakistan, der han har møtt Pakistans hærsjef.\n\nSent fredag kveld kom Iran med en uttalese om at det ikke var panlagt møter mellom Iran og USA i Pakistan.\n\nDet har kommet ulike meldinger om...",
+      "image": "https://images.unsplash.com/photo-1719412625736-d43e75c23a03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcxMjgyMTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/reuters_-irans-delegasjon-har-forlatt-pakistan-1.17861163",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-25T14:43:38.682Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777122583525.5344,
       "title": "Gullsmedtyveri på Jessheim",
       "slug": "gullsmedtyveri-p-jessheim",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-04-23T09:46:40.269Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776937597167.223,
-      "title": "Togulykken i Danmark: fem er kritisk skadd",
-      "slug": "togulykken-i-danmark-fem-er-kritisk-skadd",
-      "content": "Politiet sier de fortsatt ikke vet noe om årsaken, det må etterforskningen vise.\n\nDet skal ha vært til sammen 38 personer ombord i togene som frontkolliderte nord for København.\n\nI følge redningsmannskapene er det ikke avklart hvor de skadde befant seg i togene.\n\nUlykken har skjedd i høy hastighet, ifølge dansk politi. Flere er sendt til sykehus.\n\nDanmark\n\nMette Frederiksen har vært statsminister i Danmark siden 2019. Tirsdag 24. mars 2026 var det valg i Danmark. Venstresiden fikk 84 mandater mot høyresidens 77, men ingen av blokkene har flertall. Det er fortsatt uklart hvordan regjeringen blir.",
-      "excerpt": "Politiet sier de fortsatt ikke vet noe om årsaken, det må etterforskningen vise.\n\nDet skal ha vært til sammen 38 personer ombord i togene som frontkolliderte nord for København.\n\nI følge redningsmannskapene er det ikke avklart hvor de skadde befant seg i togene.\n\nUlykken har skjedd i høy hastighet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/togulykken-i-danmark_-fem-er-kritisk-skadd-1.17858042",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-23T09:46:37.167Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1776937595478.345,
-      "title": "Filipinenes tidligere president må møte i retten",
-      "slug": "filipinenes-tidligere-president-m-mte-i-retten",
-      "content": "Rodrigo Duterte står tiltalt for forbrytelser mot menneskeheten. Den tidligere presidenten mente han ikke kunne tiltales, fordi Filippinene trakk seg fra Den internasjonale domstolen i 2019. Det har domstolen nå avvist.\n\nDomstolen avviste samtidig Dutertes anke og krav om umiddelbar løslatelse.\n\nDuterte har sittet i varetekt i Haag siden mars 2025, og står anklaget for drap begått i hans brutale «krig mot narkotika».\n\nEn endelig avgjørelse om saken skal sendes til full rettssak er ventet innen 28. april.",
-      "excerpt": "Rodrigo Duterte står tiltalt for forbrytelser mot menneskeheten. Den tidligere presidenten mente han ikke kunne tiltales, fordi Filippinene trakk seg fra Den internasjonale domstolen i 2019. Det har domstolen nå avvist.\n\nDomstolen avviste samtidig Dutertes anke og krav om umiddelbar...",
-      "image": "https://images.unsplash.com/photo-1659424765812-c2932538a99a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY5Mzc1OTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/filipinenes-tidligere-president-ma-mote-i-retten-1.17858125",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-23T09:46:35.478Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 732,
+    "totalFetched": 734,
     "totalPublished": 77,
-    "lastFetch": "2026-04-25T13:09:44.970Z",
+    "lastFetch": "2026-04-25T14:43:42.116Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
