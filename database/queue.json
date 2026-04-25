@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1777096166982.4595,
+      "title": "Ødeleggelser i Romania fra rester av russisk drone",
+      "slug": "deleggelser-i-romania-fra-rester-av-russisk-drone",
+      "content": "Vrakrester fra en drone er funnet i byen Galati i Romania etter et russisk angrep mot Ukraina, og det er gjort skader på eiendom, sier rumenske myndigheter.\n\nI løpet av natt til lørdag ble det funnet dronerester i byen, og en strømmast og et anneks til en bolig har fått skader. Det sier Romanias forsvarsdepartement i en uttalelse tidlig lørdag morgen.\n\nIngen personer er kommet til skade, uttaler departementet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Vrakrester fra en drone er funnet i byen Galati i Romania etter et russisk angrep mot Ukraina, og det er gjort skader på eiendom, sier rumenske myndigheter.\n\nI løpet av natt til lørdag ble det funnet dronerester i byen, og en strømmast og et anneks til en bolig har fått skader. Det sier Romanias...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/odeleggelser-i-romania-fra-rester-av-russisk-drone-1.17860756",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-25T05:49:26.982Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777084748337.1074,
       "title": "265 km/t i 100-sone: – Ekstrem høy hastighet",
       "slug": "265-kmt-i-100sone-ekstrem-hy-hastighet",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-22T20:57:54.725Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776885444307.6484,
-      "title": "Mann alvorlig skadet under oppussingsarbeid i Oslo",
-      "slug": "mann-alvorlig-skadet-under-oppussingsarbeid-i-oslo",
-      "content": "En mann fikk deler av en pipe over seg under oppussingsarbeid i en enebolig i Oslo. Han er alvorlig skadet, opplyser politiet.\n\n– En person har fått deler av et pipeløp over seg, innendørs i bygget. Vedkommende er frigjort og er nå fraktet til sykehus, sier operasjonsleder Bjørn Gunnar Nysæter i Oslo politidistrikt.\n\nUlykken skjedde i en enebolig som for tiden ikke er bebodd.\n\n– Innringer var en person som hørte mannen rope etter hjelp, fortsetter operasjonslederen.",
-      "excerpt": "En mann fikk deler av en pipe over seg under oppussingsarbeid i en enebolig i Oslo. Han er alvorlig skadet, opplyser politiet.\n\n– En person har fått deler av et pipeløp over seg, innendørs i bygget. Vedkommende er frigjort og er nå fraktet til sykehus, sier operasjonsleder Bjørn Gunnar Nysæter i...",
-      "image": "https://images.unsplash.com/photo-1587382452724-62132e9565b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY4ODU0NDR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/mann-alvorlig-skadet-under-oppussingsarbeid-i-oslo-1.17857401",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-22T19:17:24.307Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 722,
+    "totalFetched": 723,
     "totalPublished": 77,
-    "lastFetch": "2026-04-25T02:39:09.726Z",
+    "lastFetch": "2026-04-25T05:49:28.564Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
