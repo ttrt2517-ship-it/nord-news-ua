@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1777229916158.0247,
+      "title": "Eitt hus er evakuert, skogbrann i Fitjar nærmar seg bustadfelt",
+      "slug": "eitt-hus-er-evakuert-skogbrann-i-fitjar-nrmar-seg-bustadfelt",
+      "content": "Brannen ved Furevatn i Fitjar har no byrja å spreia seg slik at eitt bustadhus i øvre del av Korsvik er evakuert, melder Sørvest politidistrikt klokka 20.20.\n\nRøyk byrjar å trekkja ned til eit byggefelt med fleire hus lenger ned i Korsvikvegen/Koløyvegen.\n\nEit brannhelikopter kom til området klokka 20 og har starta sløkkearbeid frå lufta.\n\nSivilforsvaret er varsla, og på veg for å bistå. Eit brannhelikopter nummer to er på veg.\n\nBrannen vart først meld klokka 17, men først klokka 19.40 melde politiet at den såg ut til å spreia seg sørover i retning Korsvik.\n\n– På grunn av røykutviklinga er det vanskeleg å få nøyaktig oversikt over spreiing og omfang, sa operasjonsleiar Victor Fenne-Jensen til NRK.\n\nBrannmannskap har etablert seg i området, men han veit ikkje kor mange som er i arbeid der.\n\n– Brannen starta i det små, truleg frå eit stormkjøkken. Det var personen med kokeapparatet som kontakta politiet.",
+      "excerpt": "Brannen ved Furevatn i Fitjar har no byrja å spreia seg slik at eitt bustadhus i øvre del av Korsvik er evakuert, melder Sørvest politidistrikt klokka 20.20.\n\nRøyk byrjar å trekkja ned til eit byggefelt med fleire hus lenger ned i Korsvikvegen/Koløyvegen.\n\nEit brannhelikopter kom til området klokka...",
+      "image": "https://images.unsplash.com/photo-1694374510473-7ac2136eee5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcyMjk5MTZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestland/eitt-hus-er-evakuert_-skogbrann-i-fitjar-naermar-seg-bustadfelt-1.17861990",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-26T18:58:36.158Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777229914480.4167,
+      "title": "Kong Charles' USA-besøk går som planlagt",
+      "slug": "kong-charles-usabesk-gr-som-planlagt",
+      "content": "Britiske kong Charles kommer til å gjennomføre sitt planlagte besøk til USA til tross for skytingen i den amerikanske hovedstaden lørdag kveld. Det opplyser representanter for kongehuset, skriver Reuters.\n\nKong Charles og dronning Camilla starter mandag på et fire dagers statsbesøk.\n\nTirsdag kveld holdes det bankett med presidenten i Det hvite hus.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nDet britiske kongehuset\n\nKong Charles og dronning Camilla ble kronet i Westminister Abbey i London 6. mai 2023.",
+      "excerpt": "Britiske kong Charles kommer til å gjennomføre sitt planlagte besøk til USA til tross for skytingen i den amerikanske hovedstaden lørdag kveld. Det opplyser representanter for kongehuset, skriver Reuters.\n\nKong Charles og dronning Camilla starter mandag på et fire dagers statsbesøk.\n\nTirsdag kveld...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/kong-charles_-usa-besok-gar-som-planlagt-1.17861925",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-26T18:58:34.480Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777229912800.9585,
+      "title": "Irans utenriksminister på vei til Moskva",
+      "slug": "irans-utenriksminister-p-vei-til-moskva",
+      "content": "Irans utenriksminister Abbas Araghchi har forlatt Islamabad for andre gang på et døgn og er på vei til Moskva, ifølge det iranske utenriksdepartementet.\n\nMellom de to Islamabad-besøkene var Araghchi innom Oman.\n\nI Russland er planen at Araghchi skal møte Russlands president Vladimir Putin, ifølge Irans Moskva-ambassadør Kazem Jalali. (NTB)",
+      "excerpt": "Irans utenriksminister Abbas Araghchi har forlatt Islamabad for andre gang på et døgn og er på vei til Moskva, ifølge det iranske utenriksdepartementet.\n\nMellom de to Islamabad-besøkene var Araghchi innom Oman.\n\nI Russland er planen at Araghchi skal møte Russlands president Vladimir Putin, ifølge...",
+      "image": "https://images.unsplash.com/photo-1510823088177-41fc4b0a6e73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcyMjk5MTJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/irans-utenriksminister-pa-vei-til-moskva-1.17862032",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-26T18:58:32.801Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777222115677.5833,
       "title": "Senator åpner for ny sentralbanksjef i USA",
       "slug": "senator-pner-for-ny-sentralbanksjef-i-usa",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-24T11:07:30.711Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777024001685.7925,
-      "title": "Pågrepet to personer i Sverige for skyting på Skjetten",
-      "slug": "pgrepet-to-personer-i-sverige-for-skyting-p-skjetten",
-      "content": "– To personer som vi mener kan knyttes til hendelsen ble i går pågrepet i Sverige av svensk politi. De er siktet for grov ulovlig befatning med skytevåpen.\n\nDet var natt til torsdag det ble avfyrt hagleskudd mot inngangsdøren til en bolig i Lillestrøm. Det var en familie med mindreårige hjemme da det skjedde, som selv meldte fra til politiet.\n\nI forkant hadde de mottatt trusler. Ingen ble skadet.\n\nDe pågrepne er siktet for grov ulovlig befatning med skytevåpen. Beboerne i huset er sterkt preget av hendelsen, sier deres bistandsadvokat.",
-      "excerpt": "– To personer som vi mener kan knyttes til hendelsen ble i går pågrepet i Sverige av svensk politi. De er siktet for grov ulovlig befatning med skytevåpen.\n\nDet var natt til torsdag det ble avfyrt hagleskudd mot inngangsdøren til en bolig i Lillestrøm. Det var en familie med mindreårige hjemme da...",
-      "image": "https://images.unsplash.com/photo-1701561365126-0fa07acbd379?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcwMjQwMDF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/pagrepet-to-personer-i-sverige-for-skyting-pa-skjetten-1.17859678",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-24T09:46:41.685Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777024000006.2112,
-      "title": "KrF vil ha 13-årsgrense for kjøp av smarttelefon",
-      "slug": "krf-vil-ha-13rsgrense-for-kjp-av-smarttelefon",
-      "content": "KrF foreslår å innføre 13-årsgrense for kjøp av smarttelefon i Norge for å beskytte barn mot skadelig innhold og sosialt press. Forslaget tar utgangspunkt i tall fra Medietilsynet som viser at norske barn får smarttelefon tidligere enn nesten alle andre i Europa, til tross for økt risiko for psykiske plager og nettmobbing.\n\nDe mener en grense vil gi foreldre et tydelig og praktisk verktøy og bidra til å redusere det digitale presset i barneskolen.\n\nFredag la regjeringen frem et forslag om å innføre 16-års aldersgrense på bruk av sosiale medier.",
-      "excerpt": "KrF foreslår å innføre 13-årsgrense for kjøp av smarttelefon i Norge for å beskytte barn mot skadelig innhold og sosialt press. Forslaget tar utgangspunkt i tall fra Medietilsynet som viser at norske barn får smarttelefon tidligere enn nesten alle andre i Europa, til tross for økt risiko for...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/krf-vil-ha-13-arsgrense-for-kjop-av-smarttelefon-1.17859715",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-24T09:46:40.006Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777023998611.0935,
-      "title": "Svensk toppdiplomat tiltalt for grov håndtering av hemmelig informasjon",
-      "slug": "svensk-toppdiplomat-tiltalt-for-grov-hndtering-av-hemmelig-i",
-      "content": "En svensk toppdiplomat i 60-årene er tiltalt for grov ulovlig befatning med hemmelige opplysninger etter at han skal ha tatt med seg graderte dokumenter hjem. Påtalemyndigheten beskriver informasjonen som svært sensitiv for Sveriges sikkerhet, mens forsvareren kaller etterforskningen en «fisketur» fra politiets side.\n\n– Det er snakk om opplysninger med svært høy sikkerhetsverdi som mannen har tatt med seg hjem til sin bolig og sitt feriehus, sier statsadvokat Mats Ljungqvist til SVT.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "En svensk toppdiplomat i 60-årene er tiltalt for grov ulovlig befatning med hemmelige opplysninger etter at han skal ha tatt med seg graderte dokumenter hjem. Påtalemyndigheten beskriver informasjonen som svært sensitiv for Sveriges sikkerhet, mens forsvareren kaller etterforskningen en «fisketur»...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/svensk-toppdiplomat-tiltalt-for-grov-handtering-av-hemmelig-informasjon-1.17859814",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-24T09:46:38.611Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 754,
+    "totalFetched": 757,
     "totalPublished": 77,
-    "lastFetch": "2026-04-26T16:48:37.242Z",
+    "lastFetch": "2026-04-26T18:58:37.654Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
