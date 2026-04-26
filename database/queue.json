@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1777209100479.58,
+      "title": "Offroad-ulykke i sandtak i Larvik",
+      "slug": "offroadulykke-i-sandtak-i-larvik",
+      "content": "Én mann i 40-årene er kjørt til sykehus etter en ulykke med en offroad-bil i et sandtak i Rennehøla i Svarstad i Larvik kommune.\n\nUlykken skal ha skjedd i forbindelse med organisert kjøring i et sandtak, melder politiet.\n\nIfølge et medlem NRK har vært i kontakt med, var den skadde en passasjer. Han er våken, men har vondt i brystet.\n\nEn luftambulanse som ble sendt til ulykken, har returnert.",
+      "excerpt": "Én mann i 40-årene er kjørt til sykehus etter en ulykke med en offroad-bil i et sandtak i Rennehøla i Svarstad i Larvik kommune.\n\nUlykken skal ha skjedd i forbindelse med organisert kjøring i et sandtak, melder politiet.\n\nIfølge et medlem NRK har vært i kontakt med, var den skadde en passasjer. Han...",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/offroad-ulykke-i-sandtak-i-larvik-1.17861618",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-26T13:11:40.479Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777183674954.0195,
       "title": "&#039;Stone age&#039; ticket system preventing travellers in Europe from taking trains",
       "slug": "039stone-age039-ticket-system-preventing-travellers-in-europ",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-23T17:24:18.292Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1776965056630.4849,
-      "title": "E16 stengt i Sør-Aurdal etter alvorlig trafikkulykke",
-      "slug": "e16-stengt-i-sraurdal-etter-alvorlig-trafikkulykke",
-      "content": "Vegen ble stengt i begge retninger like før kl. 19 torsdag og det er ventet at vegen holdes stengt i flere timer utover kvelden, ifølge Vegvesenet.\n\nPolitiet i Innlandet melder at det skal være snakk om en møteulykke mellom en personbil og et vogntog.\n\nVegtrafikksentralen Øst opplyser at vegen er stengt på grunn av en alvorlig trafikkulykke.\n\nEn personbil og et vogntog skal ha kollidert på E16. Ulykken fremstår alvorlig, ifølge politiet.",
-      "excerpt": "Vegen ble stengt i begge retninger like før kl. 19 torsdag og det er ventet at vegen holdes stengt i flere timer utover kvelden, ifølge Vegvesenet.\n\nPolitiet i Innlandet melder at det skal være snakk om en møteulykke mellom en personbil og et vogntog.\n\nVegtrafikksentralen Øst opplyser at vegen er...",
-      "image": null,
-      "original_url": "https://www.nrk.no/innlandet/e16-stengt-i-sor-aurdal-etter-alvorlig-trafikkulykke-1.17859055",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-23T17:24:16.630Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 747,
+    "totalFetched": 748,
     "totalPublished": 77,
-    "lastFetch": "2026-04-26T10:48:36.330Z",
+    "lastFetch": "2026-04-26T13:11:41.898Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
