@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1777243255754.6633,
+      "title": "SAS-fly måtte returnere på grunn av røyk i kabinen",
+      "slug": "sasfly-mtte-returnere-p-grunn-av-ryk-i-kabinen",
+      "content": "Et SAS-fly på vei fra Aberdeen til Stavanger måtte søndag kveld returnere til Aberdeen.\n\nGrunnen var røykutvikling i kabinen på grunn av en overopphetet bærbar datamaskin, opplyser SAS til NRK.\n\nFlyet landet trygt i Aberdeen og det var ingen skader på hverken passasjerer eller mannskap.\n\nLuftfart\n\nLuftfarta bind verda saman og gjer det mogleg for millionar av menneske å reise. Ho er også avgjerande for handel, turisme og økonomisk utvikling i mange land.",
+      "excerpt": "Et SAS-fly på vei fra Aberdeen til Stavanger måtte søndag kveld returnere til Aberdeen.\n\nGrunnen var røykutvikling i kabinen på grunn av en overopphetet bærbar datamaskin, opplyser SAS til NRK.\n\nFlyet landet trygt i Aberdeen og det var ingen skader på hverken passasjerer eller...",
+      "image": "https://images.unsplash.com/photo-1698171474543-00caa2d153d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcyNDMyNTV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/sas-fly-matte-returnere-pa-grunn-av_royk-i-kabinen-1.17862082",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-26T22:40:55.754Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777236079324.6245,
       "title": "Fem personer pågrepet etter hagleskyting på Skjetten",
       "slug": "fem-personer-pgrepet-etter-hagleskyting-p-skjetten",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-24T13:40:45.938Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777028854125.8171,
-      "title": "Senterpartiet reagerer mot Stoltenberg: – Vil aldri akseptere høyere avgifter",
-      "slug": "senterpartiet-reagerer-mot-stoltenberg-vil-aldri-akseptere-h",
-      "content": "– Vi kommer aldri til å akseptere at EU-regler skal presse frem høyere avgifter i Norge. Drivstoffprisene var alt for høye før Senterpartiet presset frem avgiftsreduksjonene i Stortinget. Heldigvis ser vi at avgiftskuttene har gitt lavere priser på bensin og diesel., sier Trygve Slagsvold Vedum (Sp).\n\nSenterpartiet slår hardt tilbake mot antydninger om at EU-regler kan tvinge Norge til å øke drivstoffavgiftene. Partiet krever at regjeringen forsvarer Stortingets demokratiske vedtak om avgiftskutt overfor overvåkningsorganet ESA. Utspillet kommer som en direkte reaksjon på uttalelser fra Jens Stoltenberg, som Sp mener legitimerer at EU legger føringer for norsk avgiftspolitikk.\n\nStortingets vedtak om å sette ned CO2-avgiftene utgjør etter all sannsynlighet statsstøtte og er trolig ulovlig, ifølge finansministeren.",
-      "excerpt": "– Vi kommer aldri til å akseptere at EU-regler skal presse frem høyere avgifter i Norge. Drivstoffprisene var alt for høye før Senterpartiet presset frem avgiftsreduksjonene i Stortinget. Heldigvis ser vi at avgiftskuttene har gitt lavere priser på bensin og diesel., sier Trygve Slagsvold Vedum...",
-      "image": "https://images.unsplash.com/photo-1674052221604-3ff115f8590b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcwMjg4NTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/senterpartiet-reagerer-mot-stoltenberg_-_-vil-aldri-akseptere-hoyere-avgifter-1.17859873",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-24T11:07:34.125Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 759,
+    "totalFetched": 760,
     "totalPublished": 77,
-    "lastFetch": "2026-04-26T20:41:20.688Z",
+    "lastFetch": "2026-04-26T22:40:57.148Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
