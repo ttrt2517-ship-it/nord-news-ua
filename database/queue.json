@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1777323905381.2192,
+      "title": "Slagsmål i Asker – flere skytevåpen beslaglagt",
+      "slug": "slagsml-i-asker-flere-skytevpen-beslaglagt",
+      "content": "Politiet har mandag kveld rykket ut til en bensinstasjon i Asker, etter melding om en slåsskamp.\n\n– Det er gjort beslag av flere skytevåpen, skriver operasjonsleder Eirik Sannes.\n\nFlere mener også å ha observert kniv, opplyser han til NRK.\n\nPolitiet har kontroll på flere personer, og søker etter flere, bekrefter han.\n\n– Vi er der og prater med de involverte, og sikrer de bevisene som er mulige. Så er vi på jakt etter flere personer.\n\nSør-Øst politidistrikt bistår i arbeidet, og har stanset en bil, opplyser Sannes.",
+      "excerpt": "Politiet har mandag kveld rykket ut til en bensinstasjon i Asker, etter melding om en slåsskamp.\n\n– Det er gjort beslag av flere skytevåpen, skriver operasjonsleder Eirik Sannes.\n\nFlere mener også å ha observert kniv, opplyser han til NRK.\n\nPolitiet har kontroll på flere personer, og søker etter...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/slagsmal-i-asker-_-flere-skytevapen-beslaglagt-1.17863348",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-27T21:05:05.381Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777317990042.4414,
       "title": "E6 delvis stengt etter sprengningsuhell – biler og vogntog må rygge",
       "slug": "e6-delvis-stengt-etter-sprengningsuhell-biler-og-vogntog-m-r",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-25T10:47:17.567Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777114036153.0535,
-      "title": "Skyting flere steder i Mali – militæret sier de kjemper mot terrorgrupper",
-      "slug": "skyting-flere-steder-i-mali-militret-sier-de-kjemper-mot-ter",
-      "content": "Skyting høres flere steder i Mali, blant annet nær hovedstaden Bamakos internasjonale flyplass, ifølge vitner. Malis militære sier kjemper mot «terrorgrupper».\n\nSkytingen er blant annet hørt utenfor Bamako, der militærjuntaens leder Assimi Goïta bor, opplyser vitner og en sikkerhetskilde til AFP.\n\nTerrorgrupper har lenge sirklet seg inn mot hovedstaden og har ambisjoner om å ta makten sentralt i landet.\n\nSå langt har ingen tatt på seg ansvaret for angrepet.",
-      "excerpt": "Skyting høres flere steder i Mali, blant annet nær hovedstaden Bamakos internasjonale flyplass, ifølge vitner. Malis militære sier kjemper mot «terrorgrupper».\n\nSkytingen er blant annet hørt utenfor Bamako, der militærjuntaens leder Assimi Goïta bor, opplyser vitner og en sikkerhetskilde til...",
-      "image": "https://images.unsplash.com/photo-1693467084173-2071521fda73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcxMTQwMzZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/skyting-flere-steder-i-mali-_-militaeret-sier-de-kjemper-mot-terrorgrupper-1.17860940",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-25T10:47:16.153Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 776,
+    "totalFetched": 777,
     "totalPublished": 77,
-    "lastFetch": "2026-04-27T19:26:31.483Z",
+    "lastFetch": "2026-04-27T21:05:06.779Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
