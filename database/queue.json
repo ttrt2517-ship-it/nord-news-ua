@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1777305340025.4443,
+      "title": "To tog har kollidert utenfor Jakarta i Indonesia",
+      "slug": "to-tog-har-kollidert-utenfor-jakarta-i-indonesia",
+      "content": "To tog har kollidert ved Bekasi Timur-stasjonen like utenfor Indonesias hovedstad Jakarta mandag kveld lokal tid. Det statlige togselskapet KAI bekrefter at det er «ofre på stedet» og at evakuering av passasjerer og ansatte pågår.\n\n– Akkurat nå er alt fokus rettet mot å evakuere passasjerer og mannskap, samt å håndtere ofrene på stedet, sier en talsperson.\n\nBilder fra stedet viser personer som blir båret bort av hjelpemannskaper og at togene har store materielle skader.",
+      "excerpt": "To tog har kollidert ved Bekasi Timur-stasjonen like utenfor Indonesias hovedstad Jakarta mandag kveld lokal tid. Det statlige togselskapet KAI bekrefter at det er «ofre på stedet» og at evakuering av passasjerer og ansatte pågår.\n\n– Akkurat nå er alt fokus rettet mot å evakuere passasjerer og...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/to-tog-har-kollidert-utenfor-jakarta-i-indonesia-1.17863142",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-27T15:55:40.025Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777298384389.4446,
       "title": "Seks drept i droneangrep fra den sudanske hæren",
       "slug": "seks-drept-i-droneangrep-fra-den-sudanske-hren",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-25T07:21:12.103Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777096166982.4595,
-      "title": "Ødeleggelser i Romania fra rester av russisk drone",
-      "slug": "deleggelser-i-romania-fra-rester-av-russisk-drone",
-      "content": "Vrakrester fra en drone er funnet i byen Galati i Romania etter et russisk angrep mot Ukraina, og det er gjort skader på eiendom, sier rumenske myndigheter.\n\nI løpet av natt til lørdag ble det funnet dronerester i byen, og en strømmast og et anneks til en bolig har fått skader. Det sier Romanias forsvarsdepartement i en uttalelse tidlig lørdag morgen.\n\nIngen personer er kommet til skade, uttaler departementet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Vrakrester fra en drone er funnet i byen Galati i Romania etter et russisk angrep mot Ukraina, og det er gjort skader på eiendom, sier rumenske myndigheter.\n\nI løpet av natt til lørdag ble det funnet dronerester i byen, og en strømmast og et anneks til en bolig har fått skader. Det sier Romanias...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/odeleggelser-i-romania-fra-rester-av-russisk-drone-1.17860756",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-25T05:49:26.982Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 772,
+    "totalFetched": 773,
     "totalPublished": 77,
-    "lastFetch": "2026-04-27T13:59:45.812Z",
+    "lastFetch": "2026-04-27T15:55:41.520Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
