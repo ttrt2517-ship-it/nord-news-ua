@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1777405454859.7344,
+      "title": "Hærens musikkorps får ny sjef",
+      "slug": "hrens-musikkorps-fr-ny-sjef",
+      "content": "Kari Knardahl blir ny sjef for Hærens musikkorps og blir dermed korpsets første kvinnelige sjef.\n\nHærens musikkorps er en av de største profesjonelle kulturinstitusjonene i Nord-Norge, med 27 fulltidsansatte musikere.\n\nKnardahl er utdannet hornist fra Norges musikkhøgskole og har bakgrunn som pedagog og dirigent, og har blant annet vært universitetslektor ved UiT Norges arktiske universitet.",
+      "excerpt": "Kari Knardahl blir ny sjef for Hærens musikkorps og blir dermed korpsets første kvinnelige sjef.\n\nHærens musikkorps er en av de største profesjonelle kulturinstitusjonene i Nord-Norge, med 27 fulltidsansatte musikere.\n\nKnardahl er utdannet hornist fra Norges musikkhøgskole og har bakgrunn som...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nordland/haerens-musikkorps-far-ny-sjef-1.17864644",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-28T19:44:14.859Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777405453279.6191,
+      "title": "FT: USAs ambassadør til Ukraina slutter",
+      "slug": "ft-usas-ambassadr-til-ukraina-slutter",
+      "content": "Julie D. Fisher fratrer stillingen på grunn av uenighet med president Donald Trump. Det melder Financial Times.\n\nFisher har vært fungerende ambassadør siden i fjor. Hun forlater også det amerikanske utenriksdepartementet etter tre tiår.\n\nDet amerikanske utenriksdepartementet avviser Financial Times' påstander.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Julie D. Fisher fratrer stillingen på grunn av uenighet med president Donald Trump. Det melder Financial Times.\n\nFisher har vært fungerende ambassadør siden i fjor. Hun forlater også det amerikanske utenriksdepartementet etter tre tiår.\n\nDet amerikanske utenriksdepartementet avviser Financial...",
+      "image": "https://images.unsplash.com/photo-1607251747086-96b65d43deb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc0MDU0NTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ft_-usas-ambassador-til-ukraina-slutter-1.17864744",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-28T19:44:13.279Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777405451655.1118,
+      "title": "Kong Charles hyllet forholdet mellom Storbritannia og USA",
+      "slug": "kong-charles-hyllet-forholdet-mellom-storbritannia-og-usa",
+      "content": "– Båndene av slektskap og identitet mellom Amerika og Storbritannia er uvurderlige og evigvarende. Det er uerstattelig og uknuselig, sa Storbritannias Kong Charles talte til den amerikanske kongressen tirsdag kveld.\n\nHan sa at alliansen de to landene har bygget gjennom århundrene er unik og at partnerskapet mellom Europa og USA er mer viktig enn noen gang.\n\nHan viste til kamper Europa og USA har kjempet sammen og viste til Natos støtte til USA etter terrorangrepene 11, september 2001 og trakk frem behovet for å støtte Ukraina.\n\nKong Charles ble tatt imot med stående applaus i Kongressen og ble flere ganger avbrutt av applaus,\n\nKong Charles og Dronning Camilla er i USA for å markere at det er 250 år siden USA erklærte sin avhengighet fra Storbritannia. Dette viste kongen til flere ganger i sin tale.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nDet britiske kongehuset\n\nKong Charles og dronning Camilla ble kronet i Westminister Abbey i London 6. mai 2023.",
+      "excerpt": "– Båndene av slektskap og identitet mellom Amerika og Storbritannia er uvurderlige og evigvarende. Det er uerstattelig og uknuselig, sa Storbritannias Kong Charles talte til den amerikanske kongressen tirsdag kveld.\n\nHan sa at alliansen de to landene har bygget gjennom århundrene er unik og at...",
+      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc0MDU0NTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/kong-charles-hyllet-forholdet-mellom-storbritannia-og-usa-1.17864772",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-28T19:44:11.656Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777398511255.9126,
       "title": "Rekordlav oppslutning for president Trump",
       "slug": "rekordlav-oppslutning-for-president-trump",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-26T14:47:07.261Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777214825847.2668,
-      "title": "Libanon: Minst 2500 har blitt drept i israelske angrep",
-      "slug": "libanon-minst-2500-har-blitt-drept-i-israelske-angrep",
-      "content": "Antallet drepte i israelske angrep mot Libanon har passert 2500 siden angrepene begynte 2. mars.\n\nDet opplyser Libanons helsedepartement, ifølge NTB.\n\nIsraels statsminister Benjamin Netanyahu varslet lørdag kraftige angrep mot Libanon til tross for en våpenhvile som er oppgitt å vare i mer enn to uker til.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
-      "excerpt": "Antallet drepte i israelske angrep mot Libanon har passert 2500 siden angrepene begynte 2. mars.\n\nDet opplyser Libanons helsedepartement, ifølge NTB.\n\nIsraels statsminister Benjamin Netanyahu varslet lørdag kraftige angrep mot Libanon til tross for en våpenhvile som er oppgitt å vare i mer enn to...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/libanon_-minst-2500-har-blitt-drept-i-israelske-angrep-1.17861817",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-26T14:47:05.848Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777209100479.58,
-      "title": "Offroad-ulykke i sandtak i Larvik",
-      "slug": "offroadulykke-i-sandtak-i-larvik",
-      "content": "Én mann i 40-årene er kjørt til sykehus etter en ulykke med en offroad-bil i et sandtak i Rennehøla i Svarstad i Larvik kommune.\n\nUlykken skal ha skjedd i forbindelse med organisert kjøring i et sandtak, melder politiet.\n\nIfølge et medlem NRK har vært i kontakt med, var den skadde en passasjer. Han er våken, men har vondt i brystet.\n\nEn luftambulanse som ble sendt til ulykken, har returnert.",
-      "excerpt": "Én mann i 40-årene er kjørt til sykehus etter en ulykke med en offroad-bil i et sandtak i Rennehøla i Svarstad i Larvik kommune.\n\nUlykken skal ha skjedd i forbindelse med organisert kjøring i et sandtak, melder politiet.\n\nIfølge et medlem NRK har vært i kontakt med, var den skadde en passasjer. Han...",
-      "image": null,
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/offroad-ulykke-i-sandtak-i-larvik-1.17861618",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-26T13:11:40.479Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777183674954.0195,
-      "title": "&#039;Stone age&#039; ticket system preventing travellers in Europe from taking trains",
-      "slug": "039stone-age039-ticket-system-preventing-travellers-in-europ",
-      "content": "Popular flight routes around Europe are almost impossible for passengers to book by train because of a \"stone age\" ticketing system, a new report has found as the EU is set to unveil plans for it single ticket system.\n\nConsumers in Europe who want to avoid flying to protect the environment are dissuaded from doing so because booking the equivalent route by train, is hard or impossible, the think tank Transport & Environment (T&E) has found.\n\nTheir report analysed the rail equivalent journeys to Europe's most popular flying routes to find out how easy it was for passengers who wanted to avoid the plane to book by train.\n\nBut booking train tickets was “difficult or impossible” on almost half of the EU’s busiest international air routes, T&E found, mainly because the main rail operators in each country do not sell tickets for similar services from rival companies.\n\nFor example currently French rail operator SNCF does not show or sell Tren Italia tickets to passengers for the same route such as Paris to Lyon. Although this may change in future.\n\n\"On more than half of the routes analysed, rail operators do not display all available journeys including competitors' tickets. This practice not only prevents passengers from easily comparing and booking the most suitable services on the same route, but also keeps them unaware of the very existence of these alternatives, even though they may be cheaper than those offered by incumbent operators,\" the report said.\n\nPopular European flight routes such as Lisbon to Madrid or Barcelona to Milan could not be booked from any rail operator’s website, while cross-border services such as Paris to Rome and Amsterdam to Milan could only be booked from one of the operators, the report found.\n\n\"20 percent of the international routes we studied cannot be booked in one go from major rail companies booking platforms, even though these routes are frequented by thousands of flights, emitting thousands of tonnes of CO2 every year,\" T&E said.\n\nThe Local reported at the end of 2024 that the EU was launching a new effort to simplify cross-border train travel. The idea is to make it possible for passengers to travel through different European countries with one single ticket.\n\nAt the time the EU Transport Commissioner-designate Apostolos Tzitzikostas said his goal was to launch an EU-wide booking system by 2025, which would allow passengers to buy one single ticket for their entire cross-border journey.\n\n“It is unbelievable that we do not have this in 2024,” he said during the hearing, and added that the new system would make booking trains across Europe as easy as booking a flight.\n\nThe European Commission plans to publish its single ticketing plan in mid May.\n\nT&E say the booking system for international train tickets in Europe was still in \"the stone age\" and made a series of recommendations to the EU to make its single ticket policy work.\n\nThe think tank's main recommendation was that rail companies should show and sell tickets for services run by rivals and also share key data on cancellations and delays.\n\nThe report said: \"All major rail operator booking platforms with significant market power should be required to display and sell available tickets domestically and internationally.' This includes selling and displaying willing competitors’ tickets to ensure passengers can access the best ticket for their journey.\"\n\nIt also said: \"Third party booking platforms with significant market power should be mandated to display and sell tickets from all willing operators including all ticket discounts and offers, to ensure passengers can access the cheapest available tickets and current journey data.\"\n\nNot everyone agrees with T&E's analysis of Europe's rail ticketing problems.\n\nEuropean rail expert Jon Worth told The Local the think tank should be more specific with its conclusions and recommendations\n\n\"T&E does not get its position clear,\" Worth said. \"As I see it, I don’t care who sells me the ticket - it could be Deutsche Bahn or Trainline or something yet to be invented, but as a customer I need a place or places where I can compare everything.\"\n\nHe says a genuine \"Skyscanner for rail\" could be possible if all railway operators such as Deutsche Bahn or SNCF were obligated to make all their ticketing data available to any third party that wants that data on fair terms.\n\nUseful link - if you are planning a cross-border European rail trip, check out the independent website Man in Seat 61. It doesn't allow you to buy tickets but is very useful for working out the best route to take and directing you to the operator selling tickets.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Popular flight routes around Europe are almost impossible for passengers to book by train because of a \"stone age\" ticketing system, a new report has found as the EU is set to unveil plans for it single ticket system.\n\nConsumers in Europe who want to avoid flying to protect the environment are...",
-      "image": "https://images.unsplash.com/photo-1732362129913-88a5a52958cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcxODM2NzR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260421/stone-age-ticket-system-preventing-travellers-in-europe-from-taking-trains",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-04-26T06:07:54.954Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 796,
+    "totalFetched": 799,
     "totalPublished": 77,
-    "lastFetch": "2026-04-28T17:48:32.544Z",
+    "lastFetch": "2026-04-28T19:44:16.541Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
