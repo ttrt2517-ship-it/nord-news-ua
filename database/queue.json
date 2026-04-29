@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1777503513468.4548,
+      "title": "45-åring pågrepet for knivstikking i Nord-London",
+      "slug": "45ring-pgrepet-for-knivstikking-i-nordlondon",
+      "content": "En 45 år gammel britisk mann er pågrepet etter at to personer ble knivstukket utenfor en synagoge i Nord-London onsdag morgen.\n\nPolitiet opplyser sent onsdag kveld at gjerningsmannen er en 45 år gammel britisk statsborger født i Somalia, ifølge Reuters.\n\nPolitiet har frigitt en video som viser pågripelsen.\n\nKnivangrepet etterforskes som et terrorangrep. Politiet mener at det jødiske samfunnet var målet for angrepet.",
+      "excerpt": "En 45 år gammel britisk mann er pågrepet etter at to personer ble knivstukket utenfor en synagoge i Nord-London onsdag morgen.\n\nPolitiet opplyser sent onsdag kveld at gjerningsmannen er en 45 år gammel britisk statsborger født i Somalia, ifølge Reuters.\n\nPolitiet har frigitt en video som viser...",
+      "image": "https://images.unsplash.com/photo-1698854617886-257ee3635907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc1MDM1MTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/45-aring-pagrepet-for-knivstikking-i-nord-london-1.17866391",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-29T22:58:33.468Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777503511887.3455,
+      "title": "Trump til Axios: Netanyahu har fått beskjed om å holde seg til nøyaktige angrep",
+      "slug": "trump-til-axios-netanyahu-har-ftt-beskjed-om-holde-seg-til-n",
+      "content": "Israels statsminister Benjamin Netanyahu har fått beskjed av USAs president Donald Trump om å kun gjennomføre «kirurgiske» angrep i Libanon, sier Trump til Axios.\n\nTrump har også gitt Netanyahu beskjed om å unngå en full gjenopptakelse av krigen.\n\nIsrael og Libanon inngikk 17. april en midlertidig våpenhvile, men de israelske angrepene mot mål i landet har fortsatt. Israelske styrker okkuperer også deler av Sør-Libanon og har jevnet en rekke landsbyer i området med jorda-\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
+      "excerpt": "Israels statsminister Benjamin Netanyahu har fått beskjed av USAs president Donald Trump om å kun gjennomføre «kirurgiske» angrep i Libanon, sier Trump til Axios.\n\nTrump har også gitt Netanyahu beskjed om å unngå en full gjenopptakelse av krigen.\n\nIsrael og Libanon inngikk 17. april en midlertidig...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-til-axios_-netanyahu-har-fatt-beskjed-om-a-holde-seg-til-noyaktige-angrep-1.17866396",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-29T22:58:31.887Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777503510458.5793,
+      "title": "Gaza-konvoi med nordmenn om bord er stoppet av Israel",
+      "slug": "gazakonvoi-med-nordmenn-om-bord-er-stoppet-av-israel",
+      "content": "Rundt 80 båter med 1000 aktivister på vei til Gaza er stanset av det israelske militæret. Fem nordmenn deltar. IDF bekrefter en pågående aksjon mot båtene.\n\nOrganisasjonen Global Sumud Flotilla, som står bak Gaza-konvoien, bekrefter opplysningene til VG.\n\nOrganisasjonen skriver på X at de ble stoppet av militærbåter som identifiserte seg selv som Israel og rettet lasere og våpen mot dem. Aktivistene om bord skal ha blitt beordret til å gå ned på alle fire.\n\nOrganisasjonens norske talsperson Susan Abdallah sier til VG at fem nordmenn deltar på ulike båter i konvoien.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
+      "excerpt": "Rundt 80 båter med 1000 aktivister på vei til Gaza er stanset av det israelske militæret. Fem nordmenn deltar. IDF bekrefter en pågående aksjon mot båtene.\n\nOrganisasjonen Global Sumud Flotilla, som står bak Gaza-konvoien, bekrefter opplysningene til VG.\n\nOrganisasjonen skriver på X at de ble...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/gaza-konvoi-med-nordmenn-om-bord-er-stoppet-av-israel-1.17866406",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-29T22:58:30.458Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777496917004.4016,
       "title": "Korrespondentmiddagen: Angriper tok bilde av seg selv med våpen",
       "slug": "korrespondentmiddagen-angriper-tok-bilde-av-seg-selv-med-vpe",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-27T17:25:33.970Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777305340025.4443,
-      "title": "To tog har kollidert utenfor Jakarta i Indonesia",
-      "slug": "to-tog-har-kollidert-utenfor-jakarta-i-indonesia",
-      "content": "To tog har kollidert ved Bekasi Timur-stasjonen like utenfor Indonesias hovedstad Jakarta mandag kveld lokal tid. Det statlige togselskapet KAI bekrefter at det er «ofre på stedet» og at evakuering av passasjerer og ansatte pågår.\n\n– Akkurat nå er alt fokus rettet mot å evakuere passasjerer og mannskap, samt å håndtere ofrene på stedet, sier en talsperson.\n\nBilder fra stedet viser personer som blir båret bort av hjelpemannskaper og at togene har store materielle skader.",
-      "excerpt": "To tog har kollidert ved Bekasi Timur-stasjonen like utenfor Indonesias hovedstad Jakarta mandag kveld lokal tid. Det statlige togselskapet KAI bekrefter at det er «ofre på stedet» og at evakuering av passasjerer og ansatte pågår.\n\n– Akkurat nå er alt fokus rettet mot å evakuere passasjerer og...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/to-tog-har-kollidert-utenfor-jakarta-i-indonesia-1.17863142",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-27T15:55:40.025Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777298384389.4446,
-      "title": "Seks drept i droneangrep fra den sudanske hæren",
-      "slug": "seks-drept-i-droneangrep-fra-den-sudanske-hren",
-      "content": "I Sudan er minst seks mennesker drept og flere titalls såret etter et droneangrep fra den sudanske hæren mot en flyktningleir i Darfur, opplyser en rettighetsgruppe.\n\nOpplysningene kommer fra Emergency Lawyers, en sudansk juridisk organisasjon som dokumenterer overgrep i den tre år lange krigen mellom hæren og den paramilitære gruppen Rapid Support Forces.\n\nEn medisinsk kilde opplyser til AFP at minst 15 skadde ble brakt til sykehuset i byen Zalingei, enkelte av dem med kritiske skader.\n\nSudan\n\nDet har vært krig i Sudan siden 15. april 2023. Da brøt det ut blodige kamper rundt hovedstaden Khartoum mellom regjeringsstyrker og den paramilitære gruppen RSF.",
-      "excerpt": "I Sudan er minst seks mennesker drept og flere titalls såret etter et droneangrep fra den sudanske hæren mot en flyktningleir i Darfur, opplyser en rettighetsgruppe.\n\nOpplysningene kommer fra Emergency Lawyers, en sudansk juridisk organisasjon som dokumenterer overgrep i den tre år lange krigen...",
-      "image": "https://images.unsplash.com/photo-1695982207685-d7e131ac14b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcyOTgzODR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/seks-drept-i-droneangrep-fra-den-sudanske-haeren-1.17862737",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-27T13:59:44.389Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777298382856.629,
-      "title": "Hjemmehjelp dømt for å ha filmet og ydmyket eldre",
-      "slug": "hjemmehjelp-dmt-for-ha-filmet-og-ydmyket-eldre",
-      "content": "En mann ansatt i hjemmehjelpen i Örebro i Sverige er dømt til fengsel for å ha ydmyket og filmet eldre mennesker, melder Expressen.\n\nMannen i 20-årene ble tiltalt for 44 lovbrudd utført mot 13 eldre kvinner og menn som han besøkte som del av jobben, skriver avisen.\n\nDen nå domfelte mannen skal ha filmet de eldre, hvorav flere har demens, uten samtykke og uten at de forsto at de ble filmet. I noen av tilfellene ble de filmet uten klær.\n\nI politiavhør har mannen nektet for å ha utført lovbruddene. Han ble i retten dømt til ett år i fengsel og erstatning.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "En mann ansatt i hjemmehjelpen i Örebro i Sverige er dømt til fengsel for å ha ydmyket og filmet eldre mennesker, melder Expressen.\n\nMannen i 20-årene ble tiltalt for 44 lovbrudd utført mot 13 eldre kvinner og menn som han besøkte som del av jobben, skriver avisen.\n\nDen nå domfelte mannen skal ha...",
-      "image": "https://images.unsplash.com/photo-1691414203402-c8b329585ebc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcyOTgzODJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/hjemmehjelp-domt-for-a-ha-filmet-og-ydmyket-eldre--1.17862818",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-27T13:59:42.856Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 820,
+    "totalFetched": 823,
     "totalPublished": 77,
-    "lastFetch": "2026-04-29T21:08:38.377Z",
+    "lastFetch": "2026-04-29T22:58:34.838Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
