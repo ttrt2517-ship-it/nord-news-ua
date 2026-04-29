@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1777443903749.0647,
+      "title": "Aker Solutions inngår samarbeid med Rolls-Royce om kjernekraft",
+      "slug": "aker-solutions-inngr-samarbeid-med-rollsroyce-om-kjernekraft",
+      "content": "Aker Solutions har signert en intensjonsavtale med Rolls-Royce SMR for utvikling av små modulære reaktorer (SMR).\n\nPartnerskapet skal utnytte Akers ekspertise innen modularisering for å levere de ikke-nukleære delene av Rolls-Royces portefølje.\n\n– Dette partnerskapet representerer en viktig mulighet til å gå inn i et potensielt nytt marked for Aker Solutions. Vår dokumenterte kompetanse innen utvikling av landanlegg og modulær konstruksjon posisjonerer oss godt for å bidra til SMR-verdikjeden, sier konsernsjef Kjetel Digre.\n\nSamarbeidet vil i første omgang fokusere på prosjekter i Storbritannia og Tsjekkia.\n\n– Ettersom Europa fremskynder sin energiomstilling, vokser SMR frem som en nøkkelteknologi for å møte økende energibehov, avslutter Digre.\n\nAker Solutions satsar på kjernekraft. Vil bygge deler til kjernekraftverk på norske verft.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
+      "excerpt": "Aker Solutions har signert en intensjonsavtale med Rolls-Royce SMR for utvikling av små modulære reaktorer (SMR).\n\nPartnerskapet skal utnytte Akers ekspertise innen modularisering for å levere de ikke-nukleære delene av Rolls-Royces portefølje.\n\n– Dette partnerskapet representerer en viktig...",
+      "image": null,
+      "original_url": "https://www.nrk.no/rogaland/aker-solutions-inngar-samarbeid-med-rolls-royce-om-kjernekraft-1.17865032",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-29T06:25:03.749Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777443902176.981,
+      "title": "Folketrygdfondet tjente 40 milliarder kroner i første kvartal",
+      "slug": "folketrygdfondet-tjente-40-milliarder-kroner-i-frste-kvartal",
+      "content": "Statens pensjonsfond Norge, som er forvaltet av Folketrygdfondet, legger frem resultatene onsdag.\n\nFondet fikk en avkastning på 9,7 prosent eller 40,1 milliarder kroner i første kvartal, skriver E24\n\nVed utgangen av kvartalet var fondets investeringer verdt 453,7 milliarder kroner.\n\nFolketrygdfondet investerer mest på Oslo Børs, der investeringene utgjør over 10 prosent av Hovedindeksen.\n\nDet har også plassert penger i det danske, svenske og finske aksjemarkedet.\n\nFolketrygdfondet\n\nFolketrygdfondet, som forvalter Statens pensjonsfond Norge, hadde ved årsskiftet var kapitalen 269 millarder krover. 2019 var det beste året i fondets historie med en inntjening på 12,4 prosent.",
+      "excerpt": "Statens pensjonsfond Norge, som er forvaltet av Folketrygdfondet, legger frem resultatene onsdag.\n\nFondet fikk en avkastning på 9,7 prosent eller 40,1 milliarder kroner i første kvartal, skriver E24\n\nVed utgangen av kvartalet var fondets investeringer verdt 453,7 milliarder...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/folketrygdfondet-tjente-40-milliarder-kroner-i-forste-kvartal-1.17865019",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-29T06:25:02.176Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777443900546.7344,
+      "title": "Flere hundre pågrepet i internasjonal politiaksjon mot bestillingsvold",
+      "slug": "flere-hundre-pgrepet-i-internasjonal-politiaksjon-mot-bestil",
+      "content": "I alt 280 personer er pågrepet i flere ulike land, blant annet Norge, i en svenskledet internasjonal politiaksjon mot vold som handelsvare.\n\n– Vi har sett store gevinster ved å samarbeide i en internasjonal kontekst og har kunnet pågripe svært mange innenfor vold som handelsvare og forhindret voldsforbrytelser på flere steder i Europa gjennom økt informasjonsdeling.\n\nDet sier Theodor Smedius, politiinspektør ved politiets nasjonale operative avdeling, Noa, i en pressemelding.\n\nNær halvparten av de pågrepne har tilknytning til de svenske kriminelle miljøene, i følge politiet.",
+      "excerpt": "I alt 280 personer er pågrepet i flere ulike land, blant annet Norge, i en svenskledet internasjonal politiaksjon mot vold som handelsvare.\n\n– Vi har sett store gevinster ved å samarbeide i en internasjonal kontekst og har kunnet pågripe svært mange innenfor vold som handelsvare og forhindret...",
+      "image": "https://images.unsplash.com/photo-1554140781-33058d9962b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc0NDM5MDB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flere-hundre-pagrepet-i-internasjonal-politiaksjon-mot-bestillingsvold-1.17864941",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-29T06:25:00.546Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777433157547.8918,
       "title": "Fylkesvei stengt etter steinras i Orkanger",
       "slug": "fylkesvei-stengt-etter-steinras-i-orkanger",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-26T18:58:34.480Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777229912800.9585,
-      "title": "Irans utenriksminister på vei til Moskva",
-      "slug": "irans-utenriksminister-p-vei-til-moskva",
-      "content": "Irans utenriksminister Abbas Araghchi har forlatt Islamabad for andre gang på et døgn og er på vei til Moskva, ifølge det iranske utenriksdepartementet.\n\nMellom de to Islamabad-besøkene var Araghchi innom Oman.\n\nI Russland er planen at Araghchi skal møte Russlands president Vladimir Putin, ifølge Irans Moskva-ambassadør Kazem Jalali. (NTB)",
-      "excerpt": "Irans utenriksminister Abbas Araghchi har forlatt Islamabad for andre gang på et døgn og er på vei til Moskva, ifølge det iranske utenriksdepartementet.\n\nMellom de to Islamabad-besøkene var Araghchi innom Oman.\n\nI Russland er planen at Araghchi skal møte Russlands president Vladimir Putin, ifølge...",
-      "image": "https://images.unsplash.com/photo-1510823088177-41fc4b0a6e73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcyMjk5MTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/irans-utenriksminister-pa-vei-til-moskva-1.17862032",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-26T18:58:32.801Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777222115677.5833,
-      "title": "Senator åpner for ny sentralbanksjef i USA",
-      "slug": "senator-pner-for-ny-sentralbanksjef-i-usa",
-      "content": "Senator Thom Tillis sier at han ikke lenger vil blokkere utnevnelsen av etterfølgeren til sentralbanksjef Jerome Powell.\n\nDet skjer etter at justisdepartementet droppet etterforskningen av Powell, skriver NTB.\n\nPowell går av som sentralbanksjef 15. mai. Tillis' motstand har vært nok til å stanse nominasjonen i den republikanskkontrollerte bankkomiteen i Senatet. Nå er altså det viktigste hindret for at Warsh kan etterfølge Powell, borte.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Senator Thom Tillis sier at han ikke lenger vil blokkere utnevnelsen av etterfølgeren til sentralbanksjef Jerome Powell.\n\nDet skjer etter at justisdepartementet droppet etterforskningen av Powell, skriver NTB.\n\nPowell går av som sentralbanksjef 15. mai. Tillis' motstand har vært nok til å stanse...",
-      "image": "https://images.unsplash.com/photo-1695725097795-19328f75e879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcyMjIxMTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/senator-apner_for-ny-sentralbanksjef-i-usa-1.17861872",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-26T16:48:35.677Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777222113982.4858,
-      "title": "En israelsk soldat drept i Libanon",
-      "slug": "en-israelsk-soldat-drept-i-libanon",
-      "content": "En israelsk soldat er drept og fire andre alvorlig såret i kamper i det sørlige Libanon. Det opplyser det israelske militæret, ifølge AFP.\n\nTidligere søndag angrep israelske fly flere byer sør i Libanon.\n\nEn person ble drept og tre såret i angrep mot byen Qalawiya.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
-      "excerpt": "En israelsk soldat er drept og fire andre alvorlig såret i kamper i det sørlige Libanon. Det opplyser det israelske militæret, ifølge AFP.\n\nTidligere søndag angrep israelske fly flere byer sør i Libanon.\n\nEn person ble drept og tre såret i angrep mot byen Qalawiya.\n\nLibanon og Israel\n\nAngrepene...",
-      "image": "https://images.unsplash.com/photo-1567117438701-bdb54c0ed2f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcyMjIxMTN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/en-israelsk-soldat-drept-i-libanon-1.17861919",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-26T16:48:33.982Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 802,
+    "totalFetched": 805,
     "totalPublished": 77,
-    "lastFetch": "2026-04-29T03:25:58.910Z",
+    "lastFetch": "2026-04-29T06:25:05.528Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
