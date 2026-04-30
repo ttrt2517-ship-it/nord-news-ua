@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1777577152612.8596,
+      "title": "Atomkraftverket i Zaporizjzja har mistet all ekstern strøm",
+      "slug": "atomkraftverket-i-zaporizjzja-har-mistet-all-ekstern-strm",
+      "content": "Det ukrainske atomkraftverket i Zaporizjzja har mistet tilgangen på det eksterne strømnettet for 15. gang siden Russland invaderte Ukraina.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Det ukrainske atomkraftverket i Zaporizjzja har mistet tilgangen på det eksterne strømnettet for 15. gang siden Russland invaderte Ukraina.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon....",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/atomkraftverket-i-zaporizjzja-har-mistet-all-ekstern-strom-1.17867850",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-30T19:25:52.612Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777569840026.2334,
       "title": "Kraftig fordømmelse av Israels bording av Gaza-flåte",
       "slug": "kraftig-fordmmelse-av-israels-bording-av-gazaflte",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-28T14:12:58.113Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777385576670.7285,
-      "title": "Steinar Opstad vant Gyldendalprisen",
-      "slug": "steinar-opstad-vant-gyldendalprisen",
-      "content": "Forfatteren Steinar Opstad, som gjorde romandebuten i januar etter ti diktsamlinger, er vinner av Gyldendalprisen 2025.\n\nPrisen deles ut annethvert år til «et betydelig forfatterskap», uavhengig av på hvilket forlag det gis ut på, og er på 500.000 kroner.\n\nOpstad (f. 1971) følger etter blant andre Dag Solstad, Jon Fosse, Roy Jaobsen, Vigdis Hjorth, Karl Ove Knausgård, Per Petterson og fjorårets vinner, Hanne Ørstavik. (NTB)",
-      "excerpt": "Forfatteren Steinar Opstad, som gjorde romandebuten i januar etter ti diktsamlinger, er vinner av Gyldendalprisen 2025.\n\nPrisen deles ut annethvert år til «et betydelig forfatterskap», uavhengig av på hvilket forlag det gis ut på, og er på 500.000 kroner.\n\nOpstad (f. 1971) følger etter blant andre...",
-      "image": "https://images.unsplash.com/photo-1599847741258-1cabea52f6d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzczODU1NzZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/steinar-opstad-vant-gyldendalprisen-1.17864454",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-28T14:12:56.670Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 839,
+    "totalFetched": 840,
     "totalPublished": 77,
-    "lastFetch": "2026-04-30T17:24:01.483Z",
+    "lastFetch": "2026-04-30T19:25:54.516Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
