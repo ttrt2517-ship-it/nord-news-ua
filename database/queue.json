@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1777583034551.613,
+      "title": "Livvakt skutt på kloss hold ved galla-middag",
+      "slug": "livvakt-skutt-p-kloss-hold-ved-gallamiddag",
+      "content": "En livvakt fra Secret Service ble skutt på kloss hold av en gjerningsperson ved Det hvite hus’ korrespondentmiddag.\n\nDet bekrefter Secret Service-direktør Sean Curran i et intervju med Fox News torsdag. Skytingen skjedde ved et sjekkpunkt nær lokalet der den store gallaen ble holdt i Washington D.C.\n\nGjerningspersonen ble overmannet på stedet, men ble ikke truffet da livvaktene på stedet skjøt tilbake, melder nyhetsbyrået Reuters.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.",
+      "excerpt": "En livvakt fra Secret Service ble skutt på kloss hold av en gjerningsperson ved Det hvite hus’ korrespondentmiddag.\n\nDet bekrefter Secret Service-direktør Sean Curran i et intervju med Fox News torsdag. Skytingen skjedde ved et sjekkpunkt nær lokalet der den store gallaen ble holdt i Washington...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/livvakt-skutt-pa-kloss-hold-ved-galla-middag-1.17868009",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-04-30T21:03:54.551Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777577152612.8596,
       "title": "Atomkraftverket i Zaporizjzja har mistet all ekstern strøm",
       "slug": "atomkraftverket-i-zaporizjzja-har-mistet-all-ekstern-strm",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-28T14:12:59.542Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777385578112.9395,
-      "title": "Fant gullring fra middelalderen på et jorde",
-      "slug": "fant-gullring-fra-middelalderen-p-et-jorde",
-      "content": "En hobbyarkeolog har funnet en 800 år gammel gullring fra middelalderen på et jorde i Tveit i Kristiansand.\n\n– Dette funnet er unikt. Gullringer er det mest sjeldne vi finner.\n\nDet sier Alf Hammervold som er en av Norges fremste eksperter på fingerringer fra middelalderen.\n\nRingen er ekte gull med en edelsten og er levert til Agder fylkeskommune.\n\nAldri før har hobbyarkeologen gjort eit så spesielt funn som det som dukka opp på eit jorde i Kristiansand. Unikt, meiner den fremste eksperten i landet.",
-      "excerpt": "En hobbyarkeolog har funnet en 800 år gammel gullring fra middelalderen på et jorde i Tveit i Kristiansand.\n\n– Dette funnet er unikt. Gullringer er det mest sjeldne vi finner.\n\nDet sier Alf Hammervold som er en av Norges fremste eksperter på fingerringer fra middelalderen.\n\nRingen er ekte gull med...",
-      "image": null,
-      "original_url": "https://www.nrk.no/sorlandet/fant-gullring-fra-middelalderen-pa-et-jorde-1.17864393",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-28T14:12:58.113Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 840,
+    "totalFetched": 841,
     "totalPublished": 77,
-    "lastFetch": "2026-04-30T19:25:54.516Z",
+    "lastFetch": "2026-04-30T21:03:56.122Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
