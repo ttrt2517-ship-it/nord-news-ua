@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1777628867621.7322,
+      "title": "Nordmenn sparte 8,5 milliarder kroner med Norgespris",
+      "slug": "nordmenn-sparte-85-milliarder-kroner-med-norgespris",
+      "content": "Nordmenn sparte i overkant av 8,5 milliarder kroner med Norgespris i første kvartal 2026.\n\nDet opplyser regjeringen i en pressemelding fredag.\n\n– 2026 startet med kaldere vær enn normalt og lite snø i fjellet i Sør-Norge. Sammen med urolighetene vi nå ser i energimarkedet har dette bidratt til at vi så langt i år har hatt høyere strømpriser enn i tilsvarende periode de siste årene, sier energiminister Terje Aasland.\n\nI alle strømregioner var det lønnsomt å velge Norgespris i årets første kvartal.\n\nPer 27. april 2026 er det over 1,6 millioner bestillinger av Norgespris.",
+      "excerpt": "Nordmenn sparte i overkant av 8,5 milliarder kroner med Norgespris i første kvartal 2026.\n\nDet opplyser regjeringen i en pressemelding fredag.\n\n– 2026 startet med kaldere vær enn normalt og lite snø i fjellet i Sør-Norge. Sammen med urolighetene vi nå ser i energimarkedet har dette bidratt til at...",
+      "image": "https://images.unsplash.com/photo-1635179219618-d21c2801e9de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc2Mjg4Njd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/innlandet/nordmenn-sparte-8_5-milliarder-kroner-med-norgespris-1.17868105",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-01T09:47:47.621Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777628866189.0608,
+      "title": "AFP: Russland sendte rekordmange droner mot Ukraina i april",
+      "slug": "afp-russland-sendte-rekordmange-droner-mot-ukraina-i-april",
+      "content": "Russland sendte rekordmange langtrekkende angrepsdroner mot Ukraina i april, viser en opptelling gjort av nyhetsbyrået AFP.\n\nIfølge byrået sendte Russland 6583 slike droner i april, en oppgang på 2 prosent fra mars.\n\nAFP har sammenstilt daglige rapporter fra det ukrainske luftforsvaret for å komme frem til tallet.\n\nIfølge rapportene skjøt Ukraina ned 88 prosent av innkommende droner og missiler, skriver nyhetsbyrået.\n\nSenest natt til fredag angrep Russland havnebyen Odesa i Ukraina med droner. Ukraina har også utført flere droneangrep mot Russland den siste tiden.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Russland sendte rekordmange langtrekkende angrepsdroner mot Ukraina i april, viser en opptelling gjort av nyhetsbyrået AFP.\n\nIfølge byrået sendte Russland 6583 slike droner i april, en oppgang på 2 prosent fra mars.\n\nAFP har sammenstilt daglige rapporter fra det ukrainske luftforsvaret for å komme...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/afp_-russland-sendte-rekordmange-droner-mot-ukraina-i-april-1.17868068",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-01T09:47:46.189Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777628864808.3958,
+      "title": "Seks personer omkom i trafikken i april",
+      "slug": "seks-personer-omkom-i-trafikken-i-april",
+      "content": "Alle ulykkene skjedde på Østlandet – to i Innlandet, to i Akerhus, en i Østfold og en i Buskerud.\n\n28 personer har mistet livet i trafikken på norske veier så langt i år. Det er ti flere enn på samme tid i fjor.\n\n– De fleste som døde i april, var unge menn i 20- og 30-årene som hadde livet foran seg. Det gjør inntrykk, sier Guro Ranes, avdelingsdirektør for trafikksikkerhet i Statens vegvesen.",
+      "excerpt": "Alle ulykkene skjedde på Østlandet – to i Innlandet, to i Akerhus, en i Østfold og en i Buskerud.\n\n28 personer har mistet livet i trafikken på norske veier så langt i år. Det er ti flere enn på samme tid i fjor.\n\n– De fleste som døde i april, var unge menn i 20- og 30-årene som hadde livet foran...",
+      "image": "https://images.unsplash.com/photo-1707855126609-2889a3caecfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc2Mjg4NjR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/innlandet/seks-personer-omkom-i-trafikken-i-april-1.17868212",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-01T09:47:44.808Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777617513302.5493,
       "title": "Russisk droneangrep mot Odesa, ifølge guvernør",
       "slug": "russisk-droneangrep-mot-odesa-iflge-guvernr",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-29T06:25:02.176Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777443900546.7344,
-      "title": "Flere hundre pågrepet i internasjonal politiaksjon mot bestillingsvold",
-      "slug": "flere-hundre-pgrepet-i-internasjonal-politiaksjon-mot-bestil",
-      "content": "I alt 280 personer er pågrepet i flere ulike land, blant annet Norge, i en svenskledet internasjonal politiaksjon mot vold som handelsvare.\n\n– Vi har sett store gevinster ved å samarbeide i en internasjonal kontekst og har kunnet pågripe svært mange innenfor vold som handelsvare og forhindret voldsforbrytelser på flere steder i Europa gjennom økt informasjonsdeling.\n\nDet sier Theodor Smedius, politiinspektør ved politiets nasjonale operative avdeling, Noa, i en pressemelding.\n\nNær halvparten av de pågrepne har tilknytning til de svenske kriminelle miljøene, i følge politiet.",
-      "excerpt": "I alt 280 personer er pågrepet i flere ulike land, blant annet Norge, i en svenskledet internasjonal politiaksjon mot vold som handelsvare.\n\n– Vi har sett store gevinster ved å samarbeide i en internasjonal kontekst og har kunnet pågripe svært mange innenfor vold som handelsvare og forhindret...",
-      "image": "https://images.unsplash.com/photo-1554140781-33058d9962b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc0NDM5MDB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-hundre-pagrepet-i-internasjonal-politiaksjon-mot-bestillingsvold-1.17864941",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-29T06:25:00.546Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777433157547.8918,
-      "title": "Fylkesvei stengt etter steinras i Orkanger",
-      "slug": "fylkesvei-stengt-etter-steinras-i-orkanger",
-      "content": "Fylkesvei 710 ble natt til onsdag stengt øst for Orkanger etter et steinsprang. Flere store steinblokker sperrer nå veibanen, opplyser operasjonsleder Viola Elvrum i Tøndelag politidistrikt\n\nRaset gikk omtrent seks kilometer fra Orkanger sentrum. Det er uvisst når veien kan åpne igjen, men en geotekniker skal undersøke rasstedet i løpet av dagen\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "Fylkesvei 710 ble natt til onsdag stengt øst for Orkanger etter et steinsprang. Flere store steinblokker sperrer nå veibanen, opplyser operasjonsleder Viola Elvrum i Tøndelag politidistrikt\n\nRaset gikk omtrent seks kilometer fra Orkanger sentrum. Det er uvisst når veien kan åpne igjen, men en...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/fylkesvei-stengt-etter-steinras-i-orkanger-1.17864880",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-29T03:25:57.547Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777433156073.3062,
-      "title": "Trump: – Kong Charles er enig i at Iran ikke kan ha atomvåpen",
-      "slug": "trump-kong-charles-er-enig-i-at-iran-ikke-kan-ha-atomvpen",
-      "content": "I en tale under den britiske monarkens statsbesøk til USA hevdet Donald Trump at kongen hadde sagt seg enig i at Iran ikke kan ha atomvåpen.\n\n– Vi har beseiret akkurat den motstanderen, sa Trump under middagen i Det hvite hus.\n\n– Charles er enig med meg enda mer enn jeg er – vi kommer aldri til å la den motstanderen få et atomvåpen.\n\nDet har ikke vært noen andre runde med direkte samtaler siden våpenhvilen mellom Iran, USA og Israel ble iverksatt. Diskusjoner om kjernekraft har vært et av de mest sentrale punktene som landene ikke har klart å bli enige om.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "I en tale under den britiske monarkens statsbesøk til USA hevdet Donald Trump at kongen hadde sagt seg enig i at Iran ikke kan ha atomvåpen.\n\n– Vi har beseiret akkurat den motstanderen, sa Trump under middagen i Det hvite hus.\n\n– Charles er enig med meg enda mer enn jeg er – vi kommer aldri til å...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump_-_-kong-charles-er-enig-i-at-iran-ikke-kan-ha-atomvapen-1.17864887",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-29T03:25:56.073Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 850,
+    "totalFetched": 853,
     "totalPublished": 77,
-    "lastFetch": "2026-05-01T06:38:34.704Z",
+    "lastFetch": "2026-05-01T09:47:48.990Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
