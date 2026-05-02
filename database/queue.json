@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1777719269923.3887,
+      "title": "Flere leiligheter ubeboelige etter brann på Majorstua",
+      "slug": "flere-leiligheter-ubeboelige-etter-brann-p-majorstua",
+      "content": "Nødetatene rykket ut til en brann i en bygård i Kirkeveien på Majorstua.\n\nDet er flere leiligheter som er ubeboelig grunnet både brann og vannskader.\n\nDeler av Kirkeveien var stengt for trafikk på grunn av arbeidet på stedet, men er nå åpnet igjen.\n\n– De evakuerte som kan returnere, har fått lov til dette. Politiet oppretter sak. Per nå er årsaken til brannen ukjent, skriver politiet i loggen.",
+      "excerpt": "Nødetatene rykket ut til en brann i en bygård i Kirkeveien på Majorstua.\n\nDet er flere leiligheter som er ubeboelig grunnet både brann og vannskader.\n\nDeler av Kirkeveien var stengt for trafikk på grunn av arbeidet på stedet, men er nå åpnet igjen.\n\n– De evakuerte som kan returnere, har fått lov...",
+      "image": "https://images.unsplash.com/photo-1769786426940-a7430ed5f1ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc3MTkyNjl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/flere-leiligheter-ubeboelige-etter-brann-pa-majorstua-1.17868783",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-02T10:54:29.923Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777712941618.8176,
       "title": "Stenger deler av Kirkeveien etter brann på Majorstua",
       "slug": "stenger-deler-av-kirkeveien-etter-brann-p-majorstua",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-04-30T10:08:27.343Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777543704111.0427,
-      "title": "Økokrim: To dømt for grovt bedrageri av bistandsmidler",
-      "slug": "kokrim-to-dmt-for-grovt-bedrageri-av-bistandsmidler",
-      "content": "To menn er dømt i lagmannsretten for grovt bedrageri av 47 millioner kroner som skulle gått til fredsprosjekter og forhindre avskoging. Det skriver Økokrim i en pressemelding.\n\nDe to mottok tilskudd fra Utenriksdepartementet og Klima- og miljødepartementet til en forening.\n\n– De domfelte har i denne saken utnyttet en tilskuddsordning, der pengene som er bevilget kommer fra Norges bistandsbudsjett. Det er trist og alvorlig når slike ordninger misbrukes, sier statsadvokat Henrik Horn i Økokrim.\n\nDet Økokrim omtaler som hovedmannen er dømt til fem års ubetinget fengsel for grove bedragerier, forsøk på grovt bedrageri og hvitvasking. Han ble frifunnet for dokumentfalsk. Den andre ble dømt til ett år og ti måneder ubetinget fengsel for medvirkning til grove bedragerier.\n\nMennene må også betale rundt 25 millioner i erstatning til departementene.\n\nForsvarerne for de to la ned påstand om at de skulle frifinnes for alt. Begge nektet i retten for at de var skyldige i bedrageri.\n\nØkokrim\n\nØkokrim er den sentrale enhet for etterforsking og påtale av økonomisk kriminalitet og miljøkriminalitet. De er underlagt Politidirektoratet og Riksadvokaten.",
-      "excerpt": "To menn er dømt i lagmannsretten for grovt bedrageri av 47 millioner kroner som skulle gått til fredsprosjekter og forhindre avskoging. Det skriver Økokrim i en pressemelding.\n\nDe to mottok tilskudd fra Utenriksdepartementet og Klima- og miljødepartementet til en forening.\n\n– De domfelte har i...",
-      "image": "https://images.unsplash.com/photo-1541360389723-5f230196b9e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc1NDM3MDR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/okokrim_-to-domt-for-grovt-bedrageri-av-bistandsmidler-1.17866713",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-30T10:08:24.111Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 881,
+    "totalFetched": 882,
     "totalPublished": 77,
-    "lastFetch": "2026-05-02T09:09:02.982Z",
+    "lastFetch": "2026-05-02T10:54:31.322Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
