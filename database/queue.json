@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1777748577145.929,
+      "title": "Sørlandsbanen åpner igjen med redusert trafikk fra klokken 19.30",
+      "slug": "srlandsbanen-pner-igjen-med-redusert-trafikk-fra-klokken-193",
+      "content": "Sørlandsbanen åpner igjen mellom Kongsberg og Nordagutu etter terrengbrannene som har herjet de siste dagene.\n\nDet er da branntog, godstog og persontog som skal få kjøre med redusert trafikk.\n\n– Nå er det stort sett slukket og kaldt, og jernbanen kan åpne igjen, forteller vaktleder på 110-sentralen Sør-Øst Erik Smidsrød-Brennseter.\n\nBrannvesenet og sivilforsvaret planlegger å være til stede gjennom natten og ut helgen.\n\n– Det foregår nå en siste visitasjon, sier pressevakt i Bane Nor Øystein Stavdal Paulsen\n\n– Et arbeidstog med vannvogn vil følge alle tog som skal kjøre strekningen inntil videre, en strekning på 11 km fra Hjuksebø til Øysteinstul, avslutter Øystein Stavdal Paulsen.\n\nJernbanestrekket ble stengt første gang onsdag etter terrengbrann langs jernbanesporet.",
+      "excerpt": "Sørlandsbanen åpner igjen mellom Kongsberg og Nordagutu etter terrengbrannene som har herjet de siste dagene.\n\nDet er da branntog, godstog og persontog som skal få kjøre med redusert trafikk.\n\n– Nå er det stort sett slukket og kaldt, og jernbanen kan åpne igjen, forteller vaktleder på 110-sentralen...",
+      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc3NDg1Nzd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/sorlandsbanen-apner-igjen-med-redusert-trafikk-fra-klokken-19.30-1.17869156",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-02T19:02:57.145Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777748575608.4978,
+      "title": "Tok seg inn til eldre beboere og hevdet å komme fra hjemmesykepleien",
+      "slug": "tok-seg-inn-til-eldre-beboere-og-hevdet-komme-fra-hjemmesyke",
+      "content": "Politiet ber brukere og pårørende være oppmerksomme etter at utenlandske personer ved to tilfeller i ettermiddag skal ha tatt seg inn i boligen til eldre personer i Agder under dekke av å komme fra hjemmesykepleien.\n\nHendelsene fant sted i Kristiansand og Åmli. Ifølge politiet skal personene ha snakket engelsk og ikke hatt ærlige hensikter.\n\nPolitiet har sikret spor og ber folk som har tips om lignende opplevelser om å ta kontakt på telefon 02800.",
+      "excerpt": "Politiet ber brukere og pårørende være oppmerksomme etter at utenlandske personer ved to tilfeller i ettermiddag skal ha tatt seg inn i boligen til eldre personer i Agder under dekke av å komme fra hjemmesykepleien.\n\nHendelsene fant sted i Kristiansand og Åmli. Ifølge politiet skal personene ha...",
+      "image": "https://images.unsplash.com/photo-1667400867379-d3f72f4a9c2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc3NDg1NzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/sorlandet/tok-seg-inn-til-eldre-beboere-og-hevdet-a-komme-fra-hjemmesykepleien-1.17869182",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-02T19:02:55.608Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777748574037.389,
+      "title": "Barn fant granat i Gamvik",
+      "slug": "barn-fant-granat-i-gamvik",
+      "content": "Bare dager etter at Stortinget behandlet saken om en nasjonal plan for rydding av ueksplodert krigsmateriell, er det gjort funn av eksplosiver fra andre verdenskrig i Gamvik havn i Finnmark.\n\nBare dager etter at Stortinget behandlet saken om en nasjonal plan for rydding av ueksplodert krigsmateriell, er det gjort funn av eksplosiver fra andre verdenskrig i Gamvik havn.",
+      "excerpt": "Bare dager etter at Stortinget behandlet saken om en nasjonal plan for rydding av ueksplodert krigsmateriell, er det gjort funn av eksplosiver fra andre verdenskrig i Gamvik havn i Finnmark.\n\nBare dager etter at Stortinget behandlet saken om en nasjonal plan for rydding av ueksplodert...",
+      "image": "https://images.unsplash.com/photo-1742857848733-d5129d150bfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc3NDg1NzN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/barn-fant-granat-i-gamvik-1.17869112",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-02T19:02:54.037Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777740736901.1636,
       "title": "Frp krever strøm-redegjørelse",
       "slug": "frp-krever-strmredegjrelse",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-01T03:36:46.911Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777606605411.1543,
-      "title": "USA vil låne ut mer olje fra eget nødlager",
-      "slug": "usa-vil-lne-ut-mer-olje-fra-eget-ndlager",
-      "content": "Trump-administrasjonen sier den vil låne ut ytterligere 92,5 millioner fat olje fra eget nødlager for å roe ned oljemarkedet i kjølvannet av Iran-krigen.\n\nTidligere i år gikk USA med på å låne ut 172 millioner fat råolje fra den strategiske petroleumsreserven (SPR). Det skjedde som del av en større avtale med Det internasjonale energibyrået (IEA), der 30 land skulle frigi rundt 400 millioner fat.\n\nSå langt har USA tilbudt rundt 126 millioner fat, men oljeselskapene har bare villet ta imot snaut to tredeler av dette – under 80 millioner fat.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Trump-administrasjonen sier den vil låne ut ytterligere 92,5 millioner fat olje fra eget nødlager for å roe ned oljemarkedet i kjølvannet av Iran-krigen.\n\nTidligere i år gikk USA med på å låne ut 172 millioner fat råolje fra den strategiske petroleumsreserven (SPR). Det skjedde som del av en større...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-vil-lane-ut-mer-olje-fra-eget-nodlager-1.17868050",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-01T03:36:45.412Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777589720165.6882,
-      "title": "Brudd i forhandlingene i statsoppgjøret",
-      "slug": "brudd-i-forhandlingene-i-statsoppgjret",
-      "content": "– Avstanden var for stor mellom partene, og da må vi fortsette jobben hos Riksmekleren senere i mai, sier Elisabeth Steen Onshus, leder i LO Stat i en pressemelding.\n\nOgså YS Stat, Akademikerne og Unio, melder at de har brutt forhandlingene med staten, i tillegg til LO Stat.\n\nOppgjøret går nå til mekling hos riksmekleren. Dersom partene ikke blir enige der kan det blir storstreik.\n\nSkatteetatens IT-avdeling klarte å beholde flere ansatte med ny lønnspolitikk. Nå er det ny strid om lønnsgrepet de mener har gjort det mulig.",
-      "excerpt": "– Avstanden var for stor mellom partene, og da må vi fortsette jobben hos Riksmekleren senere i mai, sier Elisabeth Steen Onshus, leder i LO Stat i en pressemelding.\n\nOgså YS Stat, Akademikerne og Unio, melder at de har brutt forhandlingene med staten, i tillegg til LO Stat.\n\nOppgjøret går nå til...",
-      "image": "https://images.unsplash.com/photo-1698171474543-00caa2d153d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc1ODk3MjB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/brudd-i-forhandlingene-i-statsoppgjoret-1.17868026",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-30T22:55:20.165Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777589718753.0125,
-      "title": "Bedre Apple-resultat enn ventet",
-      "slug": "bedre-appleresultat-enn-ventet",
-      "content": "Apple slo forventningene da selskapet torsdag la fram sitt kvartalsresultat, som viste et overskudd på 29,6 milliarder dollar.\n\nResultatet tilsvarer snaut 275 milliarder kroner. Inntektene fra januar til mars endte på 111,2 milliarder dollar, som er ny rekord for første kvartal for IT-giganten.\n\n– I dag er Apple stolt av å kunne melde vårt beste mars-kvartal noensinne, sier toppsjef Tim Cook om omsetningen.",
-      "excerpt": "Apple slo forventningene da selskapet torsdag la fram sitt kvartalsresultat, som viste et overskudd på 29,6 milliarder dollar.\n\nResultatet tilsvarer snaut 275 milliarder kroner. Inntektene fra januar til mars endte på 111,2 milliarder dollar, som er ny rekord for første kvartal for IT-giganten....",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/bedre-apple-resultat-enn-ventet-1.17868028",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-30T22:55:18.753Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 892,
+    "totalFetched": 895,
     "totalPublished": 77,
-    "lastFetch": "2026-05-02T16:52:18.319Z",
+    "lastFetch": "2026-05-02T19:02:58.599Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
