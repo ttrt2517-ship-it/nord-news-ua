@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1777712941618.8176,
+      "title": "Stenger deler av Kirkeveien etter brann på Majorstua",
+      "slug": "stenger-deler-av-kirkeveien-etter-brann-p-majorstua",
+      "content": "Nødetatene er på plass ved en brann i en bygård i Kirkeveien på Majorstua.\n\nSiste oppdatering er at brannvesenet skal ha kontroll på brannen.\n\n– Alle nødetater er framme, og brannvesenet er i gang med slukkeinnsats på stedet, sier operasjonsleder Øyvind Hammervold til NRK.\n\nDet er flere leiligheter som er ubeboelig grunnet både brann og vannskader.\n\nDeler av Kirkeveien er stengt for trafikk på grunn av arbeidet på stedet.",
+      "excerpt": "Nødetatene er på plass ved en brann i en bygård i Kirkeveien på Majorstua.\n\nSiste oppdatering er at brannvesenet skal ha kontroll på brannen.\n\n– Alle nødetater er framme, og brannvesenet er i gang med slukkeinnsats på stedet, sier operasjonsleder Øyvind Hammervold til NRK.\n\nDet er flere leiligheter...",
+      "image": "https://images.unsplash.com/photo-1743179401211-6e001fa4d5e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc3MTI5NDF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/stenger-deler-av-kirkeveien-etter-brann-pa-majorstua-1.17868783",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-02T09:09:01.618Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777712940147.0725,
+      "title": "Brann i Bærum har spredt seg: – Flammene står gjennom taket",
+      "slug": "brann-i-brum-har-spredt-seg-flammene-str-gjennom-taket",
+      "content": "– Nå er det bekreftet at det brenner i to boenheter.\n\nDet sier operasjonsleder Øyvind Hammervold i Oslo-politiet til NRK.\n\nDet ble meldt om fare for spredning til flere boenheter, etter en brann i et rekkehus i Bærum lørdag formiddag.\n\n– Det er meldt om full overtenning i enheten. Det jobbes med å skaffe oversikt over antall beboere, skriver operasjonsleder Øyvind Hammervold i politiloggen.\n\nFlammene står gjennom taket på stedet, opplyser politiet.\n\nDet er ikke meldt om alvorlig personskade, og det er kontroll på alle beboere i de nærmeste rekkehusene.\n\nDet er full overtenning etter brann i rekkehus i Bærum.",
+      "excerpt": "– Nå er det bekreftet at det brenner i to boenheter.\n\nDet sier operasjonsleder Øyvind Hammervold i Oslo-politiet til NRK.\n\nDet ble meldt om fare for spredning til flere boenheter, etter en brann i et rekkehus i Bærum lørdag formiddag.\n\n– Det er meldt om full overtenning i enheten. Det jobbes med å...",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/brann-i-baerum-har-spredt-seg_-_-flammene-star-gjennom-taket-1.17868777",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-02T09:09:00.147Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777712938776.8708,
+      "title": "To menn henrettet i Iran",
+      "slug": "to-menn-henrettet-i-iran",
+      "content": "Myndighetene hevdet de to hadde spionert for Israel, blant annet ved å samle inn informasjon om atomanlegg og personer tilknyttet regjeringen.\n\nEn av henrettede er Naser Bakrzadeh (26). Han ble i 2024 dømt til døden av en revolusjonsdomstol, men dommen ble opphevet av Irans høyesterett på grunn av manglende dokumentasjon.\n\nDet samme gjentok seg i 2025. I februar i år ble Bakrzadeh dømt til døden for tredje gang.\n\nBakrzadeh var kurder og sønn av en sunnimuslimsk imam. Han hevdet selv at det var den egentlig årsaken til anklagene, ifølge opplysninger fra menneskerettsorganisasjonen Hana.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.",
+      "excerpt": "Myndighetene hevdet de to hadde spionert for Israel, blant annet ved å samle inn informasjon om atomanlegg og personer tilknyttet regjeringen.\n\nEn av henrettede er Naser Bakrzadeh (26). Han ble i 2024 dømt til døden av en revolusjonsdomstol, men dommen ble opphevet av Irans høyesterett på grunn av...",
+      "image": "https://images.unsplash.com/photo-1699702835155-28a289e77b60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc3MTI5Mzh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-menn-henrettet-i-iran-1.17868781",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-02T09:08:58.776Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777702101936.9563,
       "title": "Norway police cooperate with France on Epstein probe",
       "slug": "norway-police-cooperate-with-france-on-epstein-probe",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-04-30T10:08:24.111Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777543702584.491,
-      "title": "Jehovas vitner fikk medhold i Høyesterett",
-      "slug": "jehovas-vitner-fikk-medhold-i-hyesterett",
-      "content": "Jehovas vitner saksøkte staten for å ha fratatt trossamfunnet statsstøtte og registrering i 2021. Etter flere runder i rettsvesenet, har de nå vunnet fram.\n\nI dag falt dommen i Høyesterett. Statens vedtak om å nekte Jehovas vitner statstilskudd og registrering er ugyldig, skriver NTB.\n\nDet var staten som tok saken videre fra lagmannsretten, der trossamfunnet også vant.\n\nSiden 9. februar har fem dommere vurdert den betente striden mellom Jehovas vitner og staten. Nå er dommen klar.\n\nReligion og livssyn\n\nUnder halvparten av de spurte sier at tros- og livssynssamfunn bidrar til positive verdier, ifølge en undersøkelse som er gjennomført av Kantar for Human-Etisk Forbund. Tallet har falt noe de siste årene.\n\nJehovas vitner\n\nJehovas vitner er et trossamfunn med over 8 millioner medlemmer som er ledet av et eldreråd basert i USA. Medlemmene feirer ikke jul, påske eller fødselsdager. De stermmer ikke ved valg. Jehovas vitner er kjent for forkynnelse fra dør til dør.",
-      "excerpt": "Jehovas vitner saksøkte staten for å ha fratatt trossamfunnet statsstøtte og registrering i 2021. Etter flere runder i rettsvesenet, har de nå vunnet fram.\n\nI dag falt dommen i Høyesterett. Statens vedtak om å nekte Jehovas vitner statstilskudd og registrering er ugyldig, skriver NTB.\n\nDet var...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/jehovas-vitner-fikk-medhold-i-hoyesterett-1.17866614",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-30T10:08:22.584Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777543701106.0369,
-      "title": "287 kandidater nominert til Nobels fredspris 2026",
-      "slug": "287-kandidater-nominert-til-nobels-fredspris-2026",
-      "content": "Det er nominert til sammen 287 kandidater til Nobels fredspris for 2026. Av dem er 208 enkeltpersoner mens 79 er organisasjoner.\n\n– Det er stor spredning både geografisk og tematisk på kandidatene. Det er det egentlig hvert år. Og det er faktisk ganske stor fornyelse i den forstand at det kommer til mange nye kandidater. Det er ikke sånn at disse listene er identiske fra år til år, snarere tvert imot, så er det veldig gledelig, sier direktør ved Nobelinstituttet Kristian Berg Harpviken til NRK.\n\nI tråd med Alfred Nobels testamente holdes navnene på nominerte hemmelig i 50 år. Den som blir nominert eller den som nominerer er ikke omfattet av hemmelighetsklausulen.\n\nDerfor er det kommet frem at USAs president Donald Trump er foreslått av flere utenlandske statsministre og presidenter.\n\nI tillegg er Ukrainas president Volodymyr Zelenskyj, FNs spesialutsending for Palestina Francesca Albanese, Moldovas president Maia Sandu pluss innbyggerne i den amerikanske byen Minnesota og i Sør-Korea blant de nominerte.\n\nNobels fredspris\n\nOpposisjonsleder María Corina Machado fra Venezuela ble tildelt Nobels fredspris i 2025. Torsdag 15. januar 2026 ga hun medaljen i gave til USAs president Donald Trump.",
-      "excerpt": "Det er nominert til sammen 287 kandidater til Nobels fredspris for 2026. Av dem er 208 enkeltpersoner mens 79 er organisasjoner.\n\n– Det er stor spredning både geografisk og tematisk på kandidatene. Det er det egentlig hvert år. Og det er faktisk ganske stor fornyelse i den forstand at det kommer...",
-      "image": "https://images.unsplash.com/photo-1695714918280-9d58dee88e7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc1NDM3MDF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/287-kandidater-nominert-til-nobels-fredspris-2026-1.17866877",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-30T10:08:21.106Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777530521529.7483,
-      "title": "Politiet: 80–90 gassflasker stjålet fra Plantasjen i Bergen",
-      "slug": "politiet-8090-gassflasker-stjlet-fra-plantasjen-i-bergen",
-      "content": "Politiet i Bergen har fått melding fra Plantasjen i Godvik om at det i løpet av natten er stjålet mange gassflasker.\n\n– Trolig et antall på 80–90 stykker, skriver operasjonsleder Frode Kolltveit i politiloggen.\n\nFlaskene skal ha blitt oppbevart i et skap tilknyttet butikken.\n\nPolitiet er på stedet og gjør undersøkelser. Det er per nå uvisst om noe annet er stjålet, skriver Kolltveit.\n\nPolitiet ber om tips dersom noen har sett personer eller kjøretøy rundt den aktuelle Plantasjen-filialen i løpet av natten.\n\nKrim og hendingar i Vestland\n\nDet siste frå politiloggen og andre hendingar i Vestland fylke.",
-      "excerpt": "Politiet i Bergen har fått melding fra Plantasjen i Godvik om at det i løpet av natten er stjålet mange gassflasker.\n\n– Trolig et antall på 80–90 stykker, skriver operasjonsleder Frode Kolltveit i politiloggen.\n\nFlaskene skal ha blitt oppbevart i et skap tilknyttet butikken.\n\nPolitiet er på stedet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/politiet_-80_90-gassflasker-stjalet-fra-plantasjen-i-bergen-1.17866540",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-04-30T06:28:41.529Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 878,
+    "totalFetched": 881,
     "totalPublished": 77,
-    "lastFetch": "2026-05-02T06:08:22.937Z",
+    "lastFetch": "2026-05-02T09:09:02.982Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
