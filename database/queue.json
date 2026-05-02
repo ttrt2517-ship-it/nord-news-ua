@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1777761898559.6145,
+      "title": "Brann i kunstgjødsel i Grimstad slukket",
+      "slug": "brann-i-kunstgjdsel-i-grimstad-slukket",
+      "content": "Politiet sendte lørdag kveld ut nødvarsel i forbindelse med brannen i en traktorhenger ved Orme i Grimstad.\n\nLike etter midnatt melder politiet at brannen er slukket.\n\n– Brannen er slukket og faren er over. Beboere i området oppfordres til å holde vinduer lukket gjennom natten da det fortsatt er noe røyk i området, opplyser operasjonsleder Lena Aanensen.\n\nTrafikken står på fylkesvei 420. Veien er stengt i begge retninger på grunn av fare for giftig røyk.\n\n– Det pågår opprydning på stedet og veien åpnes først når dette gjort, ifølge operasjonslederen.",
+      "excerpt": "Politiet sendte lørdag kveld ut nødvarsel i forbindelse med brannen i en traktorhenger ved Orme i Grimstad.\n\nLike etter midnatt melder politiet at brannen er slukket.\n\n– Brannen er slukket og faren er over. Beboere i området oppfordres til å holde vinduer lukket gjennom natten da det fortsatt er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/sorlandet/brann-i-kunstgjodsel-i-grimstad-slukket--1.17869201",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-02T22:44:58.560Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777754673852.7725,
       "title": "Person funnet død på Sunnmøre",
       "slug": "person-funnet-dd-p-sunnmre",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-01T06:38:33.302Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777617511843.5562,
-      "title": "45-åring siktet for drapsforsøk etter knivstikking i London",
-      "slug": "45ring-siktet-for-drapsforsk-etter-knivstikking-i-london",
-      "content": "En 45 år gammel mann er siktet for drapsforsøk etter at to jødiske menn ble knivstukket i London onsdag, skriver Reuters.\n\nHan er også siktet for å bære kniv på offentlig sted. Det skjer etter at antiterrorpolitiet i Storbritannia har etterforsket saken.\n\nTorsdag hevet Storbritannia trusselnivået for terrorangrep til «alvorlig», opp fra «betydelig». Det signaliserer at det ansees som høyt sannsynlig at noen vil utføre et terrorangrep i løpet av de neste seks månedene.\n\nSikkerhetsminister Dan Jarvis har også varslet at de vil sette av 25 millioner pund, eller rundt 314 millioner kroner, til økt beskyttelse av det jødiske samfunnet.\n\nPolitiet frigjorde en video fra pågripelsen av mannen onsdag. Ifølge politiet er han britisk statsborger født i Somalia.\n\nAntisemittisme og jødehat\n\nJødehets og angrep på synagoger skjer flere steder i verden. Både antisemittisme, islamofobi og hatytringer økte i Europa i fjor, ifølge Europarådet.",
-      "excerpt": "En 45 år gammel mann er siktet for drapsforsøk etter at to jødiske menn ble knivstukket i London onsdag, skriver Reuters.\n\nHan er også siktet for å bære kniv på offentlig sted. Det skjer etter at antiterrorpolitiet i Storbritannia har etterforsket saken.\n\nTorsdag hevet Storbritannia trusselnivået...",
-      "image": "https://images.unsplash.com/photo-1603806158126-f11f5dc44808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc2MTc1MTF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/45-aring-siktet-for-drapsforsok-etter-knivstikking-i-london-1.17868063",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-01T06:38:31.843Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 898,
+    "totalFetched": 899,
     "totalPublished": 77,
-    "lastFetch": "2026-05-02T20:44:35.121Z",
+    "lastFetch": "2026-05-02T22:45:00.001Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
