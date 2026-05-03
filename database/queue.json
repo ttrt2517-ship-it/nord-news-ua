@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1777841250824.1577,
+      "title": "Analyser viser at gjerningsmannen skjøt først ved korrespondentmiddagen",
+      "slug": "analyser-viser-at-gjerningsmannen-skjt-frst-ved-korresponden",
+      "content": "Videoanalyser som The New York Times har gjort, viser at gjerningsmannen avfyrte det første skuddet ved korrespondentmiddagen i Washington sist uke.\n\nTorsdag friga FBI en ny video som viser deler av angrepet der en 31 år gammel mann løp gjennom en sikkerhetskontroll med hagle mot Det hvite hus' korrespondentmiddag i Washington natt til søndag 26. mars.\n\nThe New York Times har analysert videoen og lyd fra andre videoer, og konkludert med at gjerningsmaskinen avfyrte det første skuddet mot en Secret Service-agent, før de besvarte ilden.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Videoanalyser som The New York Times har gjort, viser at gjerningsmannen avfyrte det første skuddet ved korrespondentmiddagen i Washington sist uke.\n\nTorsdag friga FBI en ny video som viser deler av angrepet der en 31 år gammel mann løp gjennom en sikkerhetskontroll med hagle mot Det hvite hus'...",
+      "image": "https://images.unsplash.com/photo-1582753799950-e73309a50b3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc4NDEyNTB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/analyser-viser-at-gjerningsmannen-skjot-forst-ved-korrespondentmiddagen-1.17869743",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-03T20:47:30.825Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777834985481.4236,
       "title": "Norway to review language training services for immigrants to boost employment",
       "slug": "norway-to-review-language-training-services-for-immigrants-t",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-01T22:52:49.893Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777675968450.48,
-      "title": "Domstol i USA stanser utsending av abortpiller i posten",
-      "slug": "domstol-i-usa-stanser-utsending-av-abortpiller-i-posten",
-      "content": "En ankedomstol har satt en midlertidig stopp for utskriving og distribusjon av abortpiller med posten i USA.\n\nKjennelsen innebærer at det ikke lenger er mulig å skrive ut medikamentet mifepriston – som er en av de vanligste abortmetodene i USA – per post. Å få abortpiller i posten har vært en mulighet for kvinner som bor i delstater med strenge abortlover.\n\nAnkedomstolens beslutning kommer i et søksmål anlagt av Louisiana, som har noen av de strengeste abortlovene i USA.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "En ankedomstol har satt en midlertidig stopp for utskriving og distribusjon av abortpiller med posten i USA.\n\nKjennelsen innebærer at det ikke lenger er mulig å skrive ut medikamentet mifepriston – som er en av de vanligste abortmetodene i USA – per post. Å få abortpiller i posten har vært en...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/domstol-i-usa-stanser-utsending-av-abortpiller-i-posten-1.17868683",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-01T22:52:48.450Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 919,
+    "totalFetched": 920,
     "totalPublished": 77,
-    "lastFetch": "2026-05-03T19:03:06.482Z",
+    "lastFetch": "2026-05-03T20:47:32.232Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
