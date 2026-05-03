@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1777778933955.6377,
+      "title": "Trump sier USA neppe vil godta Irans fredsforslag",
+      "slug": "trump-sier-usa-neppe-vil-godta-irans-fredsforslag",
+      "content": "USAs president Donald Trump sier han vil vurdere Irans nyeste fredsforslag, men sier han ikke ser for seg at det er noe amerikanerne kan godta.\n\nIranske medier sier landets myndigheter har sendt over en 14-punkts fredsplan til Pakistan, som megler i konflikten.\n\n– Jeg skal snart gå gjennom forslaget Iran har sendt oss, men jeg kan ikke se for meg at det er akseptabelt, ettersom de fortsatt ikke har betalt en høy nok pris for det de har gjort mot menneskeheten og verden de siste 47 årene, skriver Trump på Truth Social. 47 år er en henvisning til tiden som er gått siden den islamske revolusjonen i Iran i 1979.\n\nI en kort presseseanse i Florida ville han ikke si hva som kan utløse nye kamphandlinger mot Iran.\n\n– Dersom de ikke oppfører seg, om de gjør noe galt, men inntil videre får vi se. Men det er helt klart en mulighet for at det kan skje, lød presidentens kommentar, ifølge NTB.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "USAs president Donald Trump sier han vil vurdere Irans nyeste fredsforslag, men sier han ikke ser for seg at det er noe amerikanerne kan godta.\n\nIranske medier sier landets myndigheter har sendt over en 14-punkts fredsplan til Pakistan, som megler i konflikten.\n\n– Jeg skal snart gå gjennom...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-sier-usa-neppe-vil-godta-irans-fredsforslag-1.17869259",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-03T03:28:53.955Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777778932457.688,
+      "title": "Enebolig tapt i brann i Troms",
+      "slug": "enebolig-tapt-i-brann-i-troms",
+      "content": "En enebolig anses som tapt etter en kraftig brann i Balsfjord i Troms natt til søndag. Beboeren i huset kom seg ut.\n\nNødetatene rykket ut til meldinger om kraftig røykutvikling ved 2-tiden natt til søndag, opplyser Troms politidistrikt. Det var allerede da klart at beboeren hadde kommet seg ut.\n\nDa brannmannskapene kom fram, kunne de melde om åpne flammer og mye røyk i huset.",
+      "excerpt": "En enebolig anses som tapt etter en kraftig brann i Balsfjord i Troms natt til søndag. Beboeren i huset kom seg ut.\n\nNødetatene rykket ut til meldinger om kraftig røykutvikling ved 2-tiden natt til søndag, opplyser Troms politidistrikt. Det var allerede da klart at beboeren hadde kommet seg ut.\n\nDa...",
+      "image": "https://images.unsplash.com/photo-1757849356678-63e07bc96c97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc3Nzg5MzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/enebolig-tapt-i-brann-i-troms-1.17869260",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-03T03:28:52.457Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777778930988.7197,
+      "title": "Mann pågrepet etter eksplosjon i Malmö",
+      "slug": "mann-pgrepet-etter-eksplosjon-i-malm",
+      "content": "En mann er pågrepet etter at en håndgranat eksploderte i trappeoppgangen i en boligblokk i Malmö natt til søndag. Det er ikke meldt om personskader.\n\nPolitiet fikk melding om eksplosjonen kort tid før midnatt. De rykket ut med flere patruljer, men sa først at de ikke kunne fastslå at det hadde vært noen eksplosjon.\n\nNærmere undersøkelser avdekket imidlertid «mindre materielle skader», som tydet på at det hadde vært en eksplosjon. Ifølge politiet er det minst én håndgranat som har detonert, skriver avisen Sydsvenskan.",
+      "excerpt": "En mann er pågrepet etter at en håndgranat eksploderte i trappeoppgangen i en boligblokk i Malmö natt til søndag. Det er ikke meldt om personskader.\n\nPolitiet fikk melding om eksplosjonen kort tid før midnatt. De rykket ut med flere patruljer, men sa først at de ikke kunne fastslå at det hadde vært...",
+      "image": "https://images.unsplash.com/photo-1764628475233-b7a329a6f17b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc3Nzg5MzB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-pagrepet-etter-eksplosjon-i-malmo-1.17869265",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-03T03:28:50.988Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777761898559.6145,
       "title": "Brann i kunstgjødsel i Grimstad slukket",
       "slug": "brann-i-kunstgjdsel-i-grimstad-slukket",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-01T09:47:47.621Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777628866189.0608,
-      "title": "AFP: Russland sendte rekordmange droner mot Ukraina i april",
-      "slug": "afp-russland-sendte-rekordmange-droner-mot-ukraina-i-april",
-      "content": "Russland sendte rekordmange langtrekkende angrepsdroner mot Ukraina i april, viser en opptelling gjort av nyhetsbyrået AFP.\n\nIfølge byrået sendte Russland 6583 slike droner i april, en oppgang på 2 prosent fra mars.\n\nAFP har sammenstilt daglige rapporter fra det ukrainske luftforsvaret for å komme frem til tallet.\n\nIfølge rapportene skjøt Ukraina ned 88 prosent av innkommende droner og missiler, skriver nyhetsbyrået.\n\nSenest natt til fredag angrep Russland havnebyen Odesa i Ukraina med droner. Ukraina har også utført flere droneangrep mot Russland den siste tiden.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Russland sendte rekordmange langtrekkende angrepsdroner mot Ukraina i april, viser en opptelling gjort av nyhetsbyrået AFP.\n\nIfølge byrået sendte Russland 6583 slike droner i april, en oppgang på 2 prosent fra mars.\n\nAFP har sammenstilt daglige rapporter fra det ukrainske luftforsvaret for å komme...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/afp_-russland-sendte-rekordmange-droner-mot-ukraina-i-april-1.17868068",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-01T09:47:46.189Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777628864808.3958,
-      "title": "Seks personer omkom i trafikken i april",
-      "slug": "seks-personer-omkom-i-trafikken-i-april",
-      "content": "Alle ulykkene skjedde på Østlandet – to i Innlandet, to i Akerhus, en i Østfold og en i Buskerud.\n\n28 personer har mistet livet i trafikken på norske veier så langt i år. Det er ti flere enn på samme tid i fjor.\n\n– De fleste som døde i april, var unge menn i 20- og 30-årene som hadde livet foran seg. Det gjør inntrykk, sier Guro Ranes, avdelingsdirektør for trafikksikkerhet i Statens vegvesen.",
-      "excerpt": "Alle ulykkene skjedde på Østlandet – to i Innlandet, to i Akerhus, en i Østfold og en i Buskerud.\n\n28 personer har mistet livet i trafikken på norske veier så langt i år. Det er ti flere enn på samme tid i fjor.\n\n– De fleste som døde i april, var unge menn i 20- og 30-årene som hadde livet foran...",
-      "image": "https://images.unsplash.com/photo-1707855126609-2889a3caecfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc2Mjg4NjR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/innlandet/seks-personer-omkom-i-trafikken-i-april-1.17868212",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-01T09:47:44.808Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777617513302.5493,
-      "title": "Russisk droneangrep mot Odesa, ifølge guvernør",
-      "slug": "russisk-droneangrep-mot-odesa-iflge-guvernr",
-      "content": "To person er skadd etter et russisk droneangrep mot havnebyen Odesa sør i Ukraina natt til fredag, ifølge guvernøren i området, Oleh Kiper. Det skriver Reuters.\n\nAngrepet rammet to høyblokker, hvor leiligheter ble rasert og det brøt ut brann, ifølge Kiper.\n\nDet skal også ha blitt skader på havneinfrastruktur i området. Skadeomfanget her er ukjent.\n\nDet skjer etter at en ukrainsk drone natt til fredag traff en havneterminal i den russiske byen Tuapse. Dette er det fjerde angrepet mot Taupse på bare én uke.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "To person er skadd etter et russisk droneangrep mot havnebyen Odesa sør i Ukraina natt til fredag, ifølge guvernøren i området, Oleh Kiper. Det skriver Reuters.\n\nAngrepet rammet to høyblokker, hvor leiligheter ble rasert og det brøt ut brann, ifølge Kiper.\n\nDet skal også ha blitt skader på...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russisk-droneangrep-mot-odesa_-ifolge-guvernor-1.17868059",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-01T06:38:33.302Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 899,
+    "totalFetched": 902,
     "totalPublished": 77,
-    "lastFetch": "2026-05-02T22:45:00.001Z",
+    "lastFetch": "2026-05-03T03:28:55.290Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
