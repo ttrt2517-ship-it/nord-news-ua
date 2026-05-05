@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1778015106027.8276,
+      "title": "Spania vil ta imot cruiseskipet «MV Hondius»  på Kanariøyene",
+      "slug": "spania-vil-ta-imot-cruiseskipet-mv-hondius-p-kanariyene",
+      "content": "Helsedepartementet i Spania bekreftet tirsdag kveld at de vil ta imot cruiseskipet\n\nHelsedepartementet i Spania bekrefter tirsdag kveld at de vil ta imot cruiseskipet «MV Hondius» på Kanariøyene i samsvar med folkeretten og humanitære prinsipper.\n\nBekreftelsen kommer etter at Verdens helseorganisasjon (WHO) tidligere tirsdag opplyste at Spania hadde sagt ja til at det virusrammede cruiseskipet kunne anløpe Kanariøyene.\n\nSkipet har ikke fått lagt til kai etter at det ble påvist hantavirus hos flere passasjerer, tre passasjerer har dødd om bord.\n\nHantavirus er virus som smitter fra gnager ti mennesker, kjent som musepest i Norge.\n\nNår skipet ankommer Kanariøyene, vil medisinske team undersøke og behandle alle passasjerer og mannskap, før de blir fraktet videre til sine respektive hjemland, heter det i en uttalelse fra helsedepartementet.\n\nTre personer har dødd på cruiseskipet utenfor Kapp Verde. Ingen fra skipet får gå i land og passasjerene er fanget om bord.",
+      "excerpt": "Helsedepartementet i Spania bekreftet tirsdag kveld at de vil ta imot cruiseskipet\n\nHelsedepartementet i Spania bekrefter tirsdag kveld at de vil ta imot cruiseskipet «MV Hondius» på Kanariøyene i samsvar med folkeretten og humanitære prinsipper.\n\nBekreftelsen kommer etter at Verdens...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/spania-vil-ta-imot-cruiseskipet-_mv-hondius_--pa-kanarioyene-1.17872835",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-05T21:05:06.027Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778009047894.2205,
       "title": "WHO sporer opp flypassasjerer etter at kvinne døde av hantavirus",
       "slug": "who-sporer-opp-flypassasjerer-etter-at-kvinne-dde-av-hantavi",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-03T14:51:17.238Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777819875679.2915,
-      "title": "Fikk gjenstand inn frontruta - kvinne er kjørt til sykehus",
-      "slug": "fikk-gjenstand-inn-frontruta-kvinne-er-kjrt-til-sykehus",
-      "content": "En kvinne har blitt truffet av en gjenstand som kom inn gjennom frontruta ved Revetal i Vestfold.\n\nKvinnen i 40-årene skal ha kjørt på Bispeveien, og hele frontruta er knust. Hun er nå kjørt til sykehuset.\n\nBilen står igjen i veibanen mens den venter på bilberging, og politiet dirigerer trafikken forbi i ett felt.\n\nGjenstanden skal ha kommet fra en gjødselspreder, melder politiet.",
-      "excerpt": "En kvinne har blitt truffet av en gjenstand som kom inn gjennom frontruta ved Revetal i Vestfold.\n\nKvinnen i 40-årene skal ha kjørt på Bispeveien, og hele frontruta er knust. Hun er nå kjørt til sykehuset.\n\nBilen står igjen i veibanen mens den venter på bilberging, og politiet dirigerer trafikken...",
-      "image": "https://images.unsplash.com/photo-1765316994213-68da669e6d65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc4MTk4NzV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/fikk-gjenstand-inn-frontruta---kvinne-er-kjort-til-sykehus-1.17869585",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-03T14:51:15.680Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 963,
+    "totalFetched": 964,
     "totalPublished": 77,
-    "lastFetch": "2026-05-05T19:24:09.982Z",
+    "lastFetch": "2026-05-05T21:05:07.417Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
