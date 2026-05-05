@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1778009047894.2205,
+      "title": "WHO sporer opp flypassasjerer etter at kvinne døde av hantavirus",
+      "slug": "who-sporer-opp-flypassasjerer-etter-at-kvinne-dde-av-hantavi",
+      "content": "Verdens helseorganisasjon (WHO) sporer opp personer som tok samme rutefly til Johannesburg som en cruiseskip-passasjer som senere døde av hantavirus.\n\nTil sammen 82 passasjerer og seks besetningsmedlemmer var om bord på flyet, som gikk fra atlanterhavsøya St. Helena til Johannesburg 25. april.",
+      "excerpt": "Verdens helseorganisasjon (WHO) sporer opp personer som tok samme rutefly til Johannesburg som en cruiseskip-passasjer som senere døde av hantavirus.\n\nTil sammen 82 passasjerer og seks besetningsmedlemmer var om bord på flyet, som gikk fra atlanterhavsøya St. Helena til Johannesburg 25. april.",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/who-sporer-opp-flypassasjerer-etter-at-kvinne-dode-av-hantavirus-1.17872746",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-05T19:24:07.894Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778009046331.531,
+      "title": "Masseslagsmål ved T-banestasjon i Oslo",
+      "slug": "masseslagsml-ved-tbanestasjon-i-oslo",
+      "content": "Politiet rykket ut til Brynseng T-banestasjon etter å ha fått melding om flere personer som sloss.\n\nDa politiet ankom stedet, begynte flere å løpet. Men politiet har kontroll på tre personer som er lettere skadet.\n\n– Vi vet ikke bakgrunn for slåssingen. Vi jobber nå med video og avhør av de vi er i kontakt med, skriver politiet.",
+      "excerpt": "Politiet rykket ut til Brynseng T-banestasjon etter å ha fått melding om flere personer som sloss.\n\nDa politiet ankom stedet, begynte flere å løpet. Men politiet har kontroll på tre personer som er lettere skadet.\n\n– Vi vet ikke bakgrunn for slåssingen. Vi jobber nå med video og avhør av de vi er i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/masseslagsmal-ved-t-banestasjon-i-oslo-1.17872768",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-05T19:24:06.331Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778009044794.1118,
+      "title": "26 drept i flere russiske angrep",
+      "slug": "26-drept-i-flere-russiske-angrep",
+      "content": "Det har vært en rekke russiske angrep mot Ukraina i dag. Det siste var i byen Dnipro, der fire mennesker ble drept.\n\n– Dette er fullstendig kyniske, meningsløse terrorangrep uten noen militær betydning, skrev Zelenskyj i en melding på Telegram.\n\nAngrepet kom få timer før våpenhvilen Ukraina har erklært fra midnatt natt til onsdag, og like etter meldingen om at tolv personer ble drept da byen Zaporizjzja sørøst i Ukraina ble bombet.",
+      "excerpt": "Det har vært en rekke russiske angrep mot Ukraina i dag. Det siste var i byen Dnipro, der fire mennesker ble drept.\n\n– Dette er fullstendig kyniske, meningsløse terrorangrep uten noen militær betydning, skrev Zelenskyj i en melding på Telegram.\n\nAngrepet kom få timer før våpenhvilen Ukraina har...",
+      "image": "https://images.unsplash.com/photo-1721305485635-13f5100711e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgwMDkwNDR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/26-drept-i-flere-russiske-angrep-1.17872754",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-05T19:24:04.795Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778003053224.6108,
       "title": "133.000 innbyggere i Oslo vest bes om å spare på vannet",
       "slug": "133000-innbyggere-i-oslo-vest-bes-om-spare-p-vannet",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-03T14:51:15.680Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777819873842.362,
-      "title": "Skyting i London",
-      "slug": "skyting-i-london",
-      "content": "Fire personer er fraktet til sykehus med skuddskader, melder Sky News på X.\n\nEn mann ble funnet knivstukket 700 meter unna, og politiet undersøker om det er sammenheng mellom hendelsene som skjedde sør i London.",
-      "excerpt": "Fire personer er fraktet til sykehus med skuddskader, melder Sky News på X.\n\nEn mann ble funnet knivstukket 700 meter unna, og politiet undersøker om det er sammenheng mellom hendelsene som skjedde sør i London.",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/skyting-i-london-1.17869579",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-03T14:51:13.842Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777814146618.4626,
-      "title": "Kilometerlange køer på E18 etter ulykke",
-      "slug": "kilometerlange-ker-p-e18-etter-ulykke",
-      "content": "Politiet har fått melding om en påkjørsel bakfra på E18 i nordgående løp inne i Hillestadtunnelen i Holmestrand.\n\nAlle involverte er våkne. Politiet er på stedet sammen med brannvesenet og ambulanse.\n\nDet er mye kø på stedet. Trafikken ruller forbi i høyre kjørefelt, men veien vil bli midlertidig stengt.\n\n– Køen strekker seg til midten av Bringåkertunnelen og er rundt fem kilometer lang, opplyser trafikkoperatør Marita Bakkebø i Vegtrafikksentralen sør til Dagbladet.\n\nPolitiet sier bilister må være forberedt på å gi fri vei til hjelpemannskaper som må komme seg frem.",
-      "excerpt": "Politiet har fått melding om en påkjørsel bakfra på E18 i nordgående løp inne i Hillestadtunnelen i Holmestrand.\n\nAlle involverte er våkne. Politiet er på stedet sammen med brannvesenet og ambulanse.\n\nDet er mye kø på stedet. Trafikken ruller forbi i høyre kjørefelt, men veien vil bli midlertidig...",
-      "image": "https://images.unsplash.com/photo-1612358803827-f1ca32c68533?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc4MTQxNDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/kilometerlange-koer-pa-e18-etter-ulykke-1.17869488",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-03T13:15:46.618Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777814144976.971,
-      "title": "Møre og Romsdal: Mann funnet død i veibanen",
-      "slug": "mre-og-romsdal-mann-funnet-dd-i-veibanen",
-      "content": "Søndag klokken 12.30 fikk politiet melding om at en mann var funnet død i vegbanen på en blindvei på Stormyra i Surnadal.\n\n– Vi vet ikke årsaken til dødsfallet, men vi har vært der og gjort undersøkelsene vi trenger. Så blir det obduksjon i saken, den vil kaste mer lys på dødsårsaken, sier operasjonsleder Sindre Molnes.\n\nDet var en forbipasserende som fant mannen, og varslet nødetatene.\n\n– Det er per nå ingen mistanke om straffbar handling, legger han til.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
-      "excerpt": "Søndag klokken 12.30 fikk politiet melding om at en mann var funnet død i vegbanen på en blindvei på Stormyra i Surnadal.\n\n– Vi vet ikke årsaken til dødsfallet, men vi har vært der og gjort undersøkelsene vi trenger. Så blir det obduksjon i saken, den vil kaste mer lys på dødsårsaken, sier...",
-      "image": "https://images.unsplash.com/photo-1611916813617-2122be4eedde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc4MTQxNDR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/more-og-romsdal_-mann-funnet-dod-i-veibanen-1.17869492",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-03T13:15:44.977Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 960,
+    "totalFetched": 963,
     "totalPublished": 77,
-    "lastFetch": "2026-05-05T17:44:14.651Z",
+    "lastFetch": "2026-05-05T19:24:09.982Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
