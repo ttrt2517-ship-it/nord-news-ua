@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1777961857697.6453,
+      "title": "FHI: Auke i flåttsjukdommen TBE trass vaksinering",
+      "slug": "fhi-auke-i-flttsjukdommen-tbe-trass-vaksinering",
+      "content": "Dei siste åra har det vore ein auke i talet på personar som har fått flåttsjukdommen TBE, viser ein rapport frå Folkehelseinstituttet (FHI).\n\nDet finst ingen behandling av sjukdommen, som kan utvikle seg til ein svært alvorleg sjukdom. Difor har rekordmange vaksinert seg mot TBE dei siste åra.\n\nI fjor blei det meldt om 96 tilfelle av TBE. Av desse blei 88 lagt inn på sjukehus.\n\nDet er flest menn som blir smitta, og flest i aldersgruppa 50 til 79 år.\n\nFlått\n\nFlått forekommer nå i alle norsk fylker. 11 flåttarter er registrert, og skogflått er vanligst. Flere hundre rammes årlig av nevrologisk borreliose.",
+      "excerpt": "Dei siste åra har det vore ein auke i talet på personar som har fått flåttsjukdommen TBE, viser ein rapport frå Folkehelseinstituttet (FHI).\n\nDet finst ingen behandling av sjukdommen, som kan utvikle seg til ein svært alvorleg sjukdom. Difor har rekordmange vaksinert seg mot TBE dei siste åra.\n\nI...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/fhi_-auke-i-flattsjukdommen-tbe-trass-vaksinering-1.17871413",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-05T06:17:37.697Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777961856324.5068,
+      "title": "Fire drept i russisk angrep i Poltava i Ukraina",
+      "slug": "fire-drept-i-russisk-angrep-i-poltava-i-ukraina",
+      "content": "Fire mennesker er drept og 31 såret i et russisk rakett- og droneangrep i Poltava, sentralt i Ukraina, natt til tirsdag.\n\nRussland angrep to ulike steder i Poltava fylke, opplyser guvernør Vitalij Djakivnytsj i Poltava på Telegram.\n\nEt industribygg ble truffet, noe som har kuttet gassforsyningen til nesten 3500 kunder. I tillegg har jernbaneinfrastruktur blitt påført skader.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Fire mennesker er drept og 31 såret i et russisk rakett- og droneangrep i Poltava, sentralt i Ukraina, natt til tirsdag.\n\nRussland angrep to ulike steder i Poltava fylke, opplyser guvernør Vitalij Djakivnytsj i Poltava på Telegram.\n\nEt industribygg ble truffet, noe som har kuttet gassforsyningen...",
+      "image": "https://images.unsplash.com/photo-1735835043003-a313d9de9d46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc5NjE4NTZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fire-drept-i-russisk-angrep-i-poltava-i-ukraina-1.17871432",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-05T06:17:36.324Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1777961854858.1208,
+      "title": "Dødstala stig etter eksplosjon i Kina",
+      "slug": "ddstala-stig-etter-eksplosjon-i-kina",
+      "content": "Minst 26 menneske er døde ein eksplosjon i ein fyrverkerifabrikk i Hunan-provinsen i Kina natt til tysdag, melder Reuters, som siterer den statlege kringkastaren CCTV.\n\nI tillegg er det meldt om over 60 skadde etter eksplosjonen.\n\nBrannmannskap har jobba på staden for å få sløkt brannen.\n\nKina\n\nKina er verdens nest mest folkerike land, og blant de eldste kontinuerlige sivilisasjonene i verden. Landet ledes av kommunistpartiet og president Xi Jinping, som er den første lederen siden formann Mao som har sittet i tre 5-årsperioder.",
+      "excerpt": "Minst 26 menneske er døde ein eksplosjon i ein fyrverkerifabrikk i Hunan-provinsen i Kina natt til tysdag, melder Reuters, som siterer den statlege kringkastaren CCTV.\n\nI tillegg er det meldt om over 60 skadde etter eksplosjonen.\n\nBrannmannskap har jobba på staden for å få sløkt...",
+      "image": "https://images.unsplash.com/photo-1750261346670-87ee500250d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc5NjE4NTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/dodstala-stig-etter-eksplosjon-i-kina-1.17871473",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-05T06:17:34.858Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777949657221.8525,
       "title": "Maersk-eid skip har seilt gjennom Hormuzstredet",
       "slug": "maerskeid-skip-har-seilt-gjennom-hormuzstredet",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-03T03:28:52.457Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777778930988.7197,
-      "title": "Mann pågrepet etter eksplosjon i Malmö",
-      "slug": "mann-pgrepet-etter-eksplosjon-i-malm",
-      "content": "En mann er pågrepet etter at en håndgranat eksploderte i trappeoppgangen i en boligblokk i Malmö natt til søndag. Det er ikke meldt om personskader.\n\nPolitiet fikk melding om eksplosjonen kort tid før midnatt. De rykket ut med flere patruljer, men sa først at de ikke kunne fastslå at det hadde vært noen eksplosjon.\n\nNærmere undersøkelser avdekket imidlertid «mindre materielle skader», som tydet på at det hadde vært en eksplosjon. Ifølge politiet er det minst én håndgranat som har detonert, skriver avisen Sydsvenskan.",
-      "excerpt": "En mann er pågrepet etter at en håndgranat eksploderte i trappeoppgangen i en boligblokk i Malmö natt til søndag. Det er ikke meldt om personskader.\n\nPolitiet fikk melding om eksplosjonen kort tid før midnatt. De rykket ut med flere patruljer, men sa først at de ikke kunne fastslå at det hadde vært...",
-      "image": "https://images.unsplash.com/photo-1764628475233-b7a329a6f17b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc3Nzg5MzB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/mann-pagrepet-etter-eksplosjon-i-malmo-1.17869265",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-03T03:28:50.988Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777761898559.6145,
-      "title": "Brann i kunstgjødsel i Grimstad slukket",
-      "slug": "brann-i-kunstgjdsel-i-grimstad-slukket",
-      "content": "Politiet sendte lørdag kveld ut nødvarsel i forbindelse med brannen i en traktorhenger ved Orme i Grimstad.\n\nLike etter midnatt melder politiet at brannen er slukket.\n\n– Brannen er slukket og faren er over. Beboere i området oppfordres til å holde vinduer lukket gjennom natten da det fortsatt er noe røyk i området, opplyser operasjonsleder Lena Aanensen.\n\nTrafikken står på fylkesvei 420. Veien er stengt i begge retninger på grunn av fare for giftig røyk.\n\n– Det pågår opprydning på stedet og veien åpnes først når dette gjort, ifølge operasjonslederen.",
-      "excerpt": "Politiet sendte lørdag kveld ut nødvarsel i forbindelse med brannen i en traktorhenger ved Orme i Grimstad.\n\nLike etter midnatt melder politiet at brannen er slukket.\n\n– Brannen er slukket og faren er over. Beboere i området oppfordres til å holde vinduer lukket gjennom natten da det fortsatt er...",
-      "image": null,
-      "original_url": "https://www.nrk.no/sorlandet/brann-i-kunstgjodsel-i-grimstad-slukket--1.17869201",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-02T22:44:58.560Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777754673852.7725,
-      "title": "Person funnet død på Sunnmøre",
-      "slug": "person-funnet-dd-p-sunnmre",
-      "content": "Omstendighetene rundt dødsfallet er uklare, og politiet kan foreløpig ikke si om det kan ha skjedd en kriminell handling.\n\nOmrådet er sperret av mens politiet gjør undersøkelser på stedet. Kriminalteknikere er også på vei for å bistå i etterforskningen\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
-      "excerpt": "Omstendighetene rundt dødsfallet er uklare, og politiet kan foreløpig ikke si om det kan ha skjedd en kriminell handling.\n\nOmrådet er sperret av mens politiet gjør undersøkelser på stedet. Kriminalteknikere er også på vei for å bistå i etterforskningen\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå...",
-      "image": "https://images.unsplash.com/photo-1697397005294-06fa1eb03f40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc3NTQ2NzN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/mr/person-funnet-dod-pa-sunnmore-1.17869102",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-02T20:44:33.852Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 947,
+    "totalFetched": 950,
     "totalPublished": 77,
-    "lastFetch": "2026-05-05T02:54:18.594Z",
+    "lastFetch": "2026-05-05T06:17:39.465Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
