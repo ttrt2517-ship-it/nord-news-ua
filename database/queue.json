@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1778003053224.6108,
+      "title": "133.000 innbyggere i Oslo vest bes om å spare på vannet",
+      "slug": "133000-innbyggere-i-oslo-vest-bes-om-spare-p-vannet",
+      "content": "Vann- og avløpsetaten har i dag sendt ut melding til 133.000 innbyggere i Oslo vest i forbindelse med omfattende oppgraderinger av drikkevannsnettet.\n\nKommunen ber folk om å begrense vannforbruket frem til fredag.\n\nSpesielt oppfordres det til å utsette aktiviteter som hagevanning, bilvask og storrengjøring.\n\n– Det er en ganske stor operasjon, men veldig viktig for å sikre en god og trygg vannforsyning i Oslo.\n\nDet sier kommunikasjonssjef Jean-Yves Gallardo i Vann- og avløpsetaten.\n\nArbeidet kan føre til at enkelte beboere opplever perioder med svakt brunt vann i springen.",
+      "excerpt": "Vann- og avløpsetaten har i dag sendt ut melding til 133.000 innbyggere i Oslo vest i forbindelse med omfattende oppgraderinger av drikkevannsnettet.\n\nKommunen ber folk om å begrense vannforbruket frem til fredag.\n\nSpesielt oppfordres det til å utsette aktiviteter som hagevanning, bilvask og...",
+      "image": "https://images.unsplash.com/photo-1697308364285-994346ce5e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgwMDMwNTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/133.000-innbyggere-i-oslo-vest-bes-om-a-spare-pa-vannet-1.17872481",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-05T17:44:13.225Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778003051578.9941,
+      "title": "Minst ni døde i eksplosjon i kullgruve i Colombia",
+      "slug": "minst-ni-dde-i-eksplosjon-i-kullgruve-i-colombia",
+      "content": "En eksplosjon i en gullgruve i Colombia mandag førte til at ni gruvearbeidere mistet livet mens seks andre ble skadet.\n\nGruven ligger i Sutatusa, rundt 80 kilometer nord for hovedstaden Bogota.\n\n15 gruvearbeidere befant seg inne i gruven da eksplosjonen skjedde mandag. Ni av dem mistet altså livet, mens resten ble skadet. Tre av de skadede klarte å ta seg ut selv, mens de tre andre ble reddet ut.\n\nI forrige måned ble gruven inspisert av myndighetene, og det ble anbefalt å stenge av deler av den. Det er ikke kjent hvorvidt dette ble gjort.\n\nGruveulykker forekommer ofte i Colombia, hvor det er en lang rekke små operatører som driver kull- og smaragdgruver.",
+      "excerpt": "En eksplosjon i en gullgruve i Colombia mandag førte til at ni gruvearbeidere mistet livet mens seks andre ble skadet.\n\nGruven ligger i Sutatusa, rundt 80 kilometer nord for hovedstaden Bogota.\n\n15 gruvearbeidere befant seg inne i gruven da eksplosjonen skjedde mandag. Ni av dem mistet altså livet...",
+      "image": "https://images.unsplash.com/photo-1717331758759-5272fffa204f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgwMDMwNTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/minst-ni-dode-i-eksplosjon-i-kullgruve-i-colombia-1.17872622",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-05T17:44:11.578Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778003049978.4343,
+      "title": "To personer døde etter trafikkulykke på Karmøy",
+      "slug": "to-personer-dde-etter-trafikkulykke-p-karmy",
+      "content": "En mann i 80-årene og en kvinne i 70-årene omkom etter en alvorlig trafikkulykke på Karmøy i ettermiddag.\n\nPersonene satt sammen i en personbil som kolliderte med en lastebil på fylkesveg 547 Karmøyvegen.\n\nKriminalteknikere og ulykkesgruppen er ferdig på stedet og veien er nå åpen.\n\nEn personbil og en lastebil var involvert i ulykken.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
+      "excerpt": "En mann i 80-årene og en kvinne i 70-årene omkom etter en alvorlig trafikkulykke på Karmøy i ettermiddag.\n\nPersonene satt sammen i en personbil som kolliderte med en lastebil på fylkesveg 547 Karmøyvegen.\n\nKriminalteknikere og ulykkesgruppen er ferdig på stedet og veien er nå åpen.\n\nEn personbil og...",
+      "image": "https://images.unsplash.com/photo-1694275837678-2b25f937d8f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgwMDMwNDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/rogaland/to-personer-dode-etter-trafikkulykke-pa-karmoy-1.17872667",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-05T17:44:09.978Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1777996678692.7625,
       "title": "Ulykke mellom MC og syklist i Færder",
       "slug": "ulykke-mellom-mc-og-syklist-i-frder",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-03T13:15:44.977Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777805753576.8835,
-      "title": "Tidligere biskop Finn Wagle er død",
-      "slug": "tidligere-biskop-finn-wagle-er-dd",
-      "content": "TIdligere Nidaros-biskop Finn Wagle døde lørdag kveld, 84 år gammel. Det opplyser familien til Vårt Land.\n\nWagle var biskop i Nidaros bispedømme fra 1991 til 2008. I årene 2002–2006 var han ledende biskop eller preses i Den norske kirke.\n\nBlant oppgavene som biskop i Nidaros fikk Wagle signe kong Harald og dronning Sonja i Nidarosdomen i 1991. Videre viet han Märtha Louise og Ari Behn i Nidarosdomen i 2002.\n\n– Wagle var en betydelig kirkeleder i moderne tid, sier nåværende preses Olav Fykse Tveit til NTB.\n\nDen norske kirke\n\nDen norske kyrkja er det største trussamfunnet i Noreg. Ved utgangen av 2021 hadde kyrkja 3,5 millionar medlemer, som svarar til 65 prosent av befolkninga. Kyrkja er evangelisk-luthersk.",
-      "excerpt": "TIdligere Nidaros-biskop Finn Wagle døde lørdag kveld, 84 år gammel. Det opplyser familien til Vårt Land.\n\nWagle var biskop i Nidaros bispedømme fra 1991 til 2008. I årene 2002–2006 var han ledende biskop eller preses i Den norske kirke.\n\nBlant oppgavene som biskop i Nidaros fikk Wagle signe kong...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/tidligere-biskop-finn-wagle-er-dod-1.17869426",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-03T10:55:53.576Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777805752119.0884,
-      "title": "Listhaug gjenvalgt som Frp-leder",
-      "slug": "listhaug-gjenvalgt-som-frpleder",
-      "content": "Sylvi Listhaug ble klappet inn til to nye år som partileder under Fremskrittpartiets landsmøte på Gardermoen.\n\nDet var ingen motkandidater til Listhaug, som har ledet partiet siden 2021.\n\n– Jeg er topp motivert til å bygge dette laget videre. Målet er selvsagt at vi skal overta styringen av Norge i 2029, sa Listhaug til landsmøtet.\n\nFremskrittspartiet gjorde sitt aller beste beste stortingsvalg i 2025 under Listhaugs ledelse. Partiet fikk en oppslutning på 23,8 prosent, kapret 47 stortingsrepresentanter og ble landets nest største parti.\n\nFremskrittspartiet\n\nFremskrittspartiet er et norsk politisk parti som beskriver seg som liberalistisk. Partiet ble grunnlagt i 1973 som Anders Langes Parti til sterk nedsettelse av skatter, avgifter og offentlige inngrep. Fra 2021 er Sylvi Listhaug partileder.",
-      "excerpt": "Sylvi Listhaug ble klappet inn til to nye år som partileder under Fremskrittpartiets landsmøte på Gardermoen.\n\nDet var ingen motkandidater til Listhaug, som har ledet partiet siden 2021.\n\n– Jeg er topp motivert til å bygge dette laget videre. Målet er selvsagt at vi skal overta styringen av Norge i...",
-      "image": "https://images.unsplash.com/photo-1721305485635-13f5100711e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc4MDU3NTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/listhaug-gjenvalgt-som-frp-leder-1.17869449",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-03T10:55:52.119Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777805750702.045,
-      "title": "Varsler snø i fjelltraktene",
-      "slug": "varsler-sn-i-fjelltraktene",
-      "content": "Det er ventet snøbgyer på veier i fjellet i Sør-Norge, også Dovrefjell, og varsom.no har sendt ut gult farevarsel.\n\nIfølge dem kan mellom 2-15 cm med snø falle i løpet av et døgn. Faren vil øke fra klokka to natt til mandag.\n\nDet vil være store variasjoner på intensitet, vestlige områder vil være mest utsatt.\n\nVegtrafikksentralen Midt har meldt at fylkesveg 63 mellom Geiranger/Stranda og Langvatn/Skjåk vil bli stengt fra klokka 20.00 søndag kveld, og at ny vurdering av åpning vil bli tatt tirsdag klokka 10.",
-      "excerpt": "Det er ventet snøbgyer på veier i fjellet i Sør-Norge, også Dovrefjell, og varsom.no har sendt ut gult farevarsel.\n\nIfølge dem kan mellom 2-15 cm med snø falle i løpet av et døgn. Faren vil øke fra klokka to natt til mandag.\n\nDet vil være store variasjoner på intensitet, vestlige områder vil være...",
-      "image": null,
-      "original_url": "https://www.nrk.no/innlandet/varsler-sno-i-fjelltraktene-1.17869458",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-03T10:55:50.702Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 957,
+    "totalFetched": 960,
     "totalPublished": 77,
-    "lastFetch": "2026-05-05T15:58:00.447Z",
+    "lastFetch": "2026-05-05T17:44:14.651Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
