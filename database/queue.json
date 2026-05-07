@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1778183086647.9707,
+      "title": "Eksplosjoner hørt flere steder i Iran",
+      "slug": "eksplosjoner-hrt-flere-steder-i-iran",
+      "content": "Det er hørt flere høye smell og eksplosjoner i havnebyen Bandar Abbas i Iran torsdag kveld, melder det iranske nyhetsbyrået Fars.\n\nSamtidig melder nyhetsbyrået Mehr om eksplosjoner på øya Qeshm, som også ligger i Hormuzstredet i Persiabukta.\n\nForeløpig er lite informasjon tilgjengelig om saken.\n\nDet jobbes for tiden på spreng for å få på plass en fredsavtale mellom USA og Iran, som har vært i konflikt med hverandre siden slutten av februar.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. 11. februar begynte fredsforhandlinger mellom landene.",
+      "excerpt": "Det er hørt flere høye smell og eksplosjoner i havnebyen Bandar Abbas i Iran torsdag kveld, melder det iranske nyhetsbyrået Fars.\n\nSamtidig melder nyhetsbyrået Mehr om eksplosjoner på øya Qeshm, som også ligger i Hormuzstredet i Persiabukta.\n\nForeløpig er lite informasjon tilgjengelig om...",
+      "image": "https://images.unsplash.com/photo-1693467084173-2071521fda73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgxODMwODZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/eksplosjoner-hort-flere-steder-i-iran-1.17875770",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-07T19:44:46.647Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778176162676.2346,
       "title": "Foreigners in Norway face &#039;60 percent&#039; lower chance of promotion",
       "slug": "foreigners-in-norway-face-03960-percent039-lower-chance-of-p",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-05T17:44:11.578Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778003049978.4343,
-      "title": "To personer døde etter trafikkulykke på Karmøy",
-      "slug": "to-personer-dde-etter-trafikkulykke-p-karmy",
-      "content": "En mann i 80-årene og en kvinne i 70-årene omkom etter en alvorlig trafikkulykke på Karmøy i ettermiddag.\n\nPersonene satt sammen i en personbil som kolliderte med en lastebil på fylkesveg 547 Karmøyvegen.\n\nKriminalteknikere og ulykkesgruppen er ferdig på stedet og veien er nå åpen.\n\nEn personbil og en lastebil var involvert i ulykken.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
-      "excerpt": "En mann i 80-årene og en kvinne i 70-årene omkom etter en alvorlig trafikkulykke på Karmøy i ettermiddag.\n\nPersonene satt sammen i en personbil som kolliderte med en lastebil på fylkesveg 547 Karmøyvegen.\n\nKriminalteknikere og ulykkesgruppen er ferdig på stedet og veien er nå åpen.\n\nEn personbil og...",
-      "image": "https://images.unsplash.com/photo-1694275837678-2b25f937d8f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgwMDMwNDl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/rogaland/to-personer-dode-etter-trafikkulykke-pa-karmoy-1.17872667",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-05T17:44:09.978Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1007,
+    "totalFetched": 1008,
     "totalPublished": 77,
-    "lastFetch": "2026-05-07T17:49:23.676Z",
+    "lastFetch": "2026-05-07T19:44:47.902Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
