@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1778149562273.1143,
+      "title": "Arbeidsulykke i Oslo: Pågår livreddende førstehjelp",
+      "slug": "arbeidsulykke-i-oslo-pgr-livreddende-frstehjelp",
+      "content": "Nødetatene er på en adresse i Oslo hvor det har vært en arbeidsulykke.\n\nVedkommende skal ha jobbet med å legge gulv på en balkong i fjerde etasje, skriver politiet i politiloggen.\n\nPersonen har falt gjennom gulvet og landet på bakken.\n\nEn person har falt fire etasjer ned, skriver politiet.",
+      "excerpt": "Nødetatene er på en adresse i Oslo hvor det har vært en arbeidsulykke.\n\nVedkommende skal ha jobbet med å legge gulv på en balkong i fjerde etasje, skriver politiet i politiloggen.\n\nPersonen har falt gjennom gulvet og landet på bakken.\n\nEn person har falt fire etasjer ned, skriver politiet.",
+      "image": "https://images.unsplash.com/photo-1697570436739-216fbcdd42e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgxNDk1NjJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/arbeidsulykke-i-oslo_-pagar-livreddende-forstehjelp-1.17874926",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-07T10:26:02.273Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778149560617.8792,
+      "title": "Ingen personer med symptomer igjen på hantavirus-rammet cruiseskip, ifølge operatøren",
+      "slug": "ingen-personer-med-symptomer-igjen-p-hantavirusrammet-cruise",
+      "content": "Torsdag formiddag uttaler Oceanwide Expeditions at ingen personer med symptomer befinner seg på cruiseskipet der flere skal ha blitt smittet av hantaviruset.\n\nDen spanske helseministeren har tidligere opplyst om det samme.\n\nNå skal argentinske myndigheter teste gnagere for hantavirus etter at tre passasjerer har dødd med påvist smitte om bord på cruiseskip.\n\nUtbrudd av hantavirus\n\nI april 2026 brøt det ut hantavirus blant passasjerer på cruiseskipet «Hondius». Viruset sirkulerer hos gnagere. Mennesker kan bli smittet ved å puste inn partikler fra avføring, urin og spytt i lufta og, i enkelte tilfeller, ved bitt.",
+      "excerpt": "Torsdag formiddag uttaler Oceanwide Expeditions at ingen personer med symptomer befinner seg på cruiseskipet der flere skal ha blitt smittet av hantaviruset.\n\nDen spanske helseministeren har tidligere opplyst om det samme.\n\nNå skal argentinske myndigheter teste gnagere for hantavirus etter at tre...",
+      "image": "https://images.unsplash.com/photo-1516645948235-2a4aed8d749a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgxNDk1NjB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ingen-personer-med-symptomer-igjen-pa-hantavirus-rammet-cruiseskip_-ifolge-operatoren-1.17874699",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-07T10:26:00.617Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778149559020.8445,
+      "title": "Kronprinsparet skal på fylkestur til Agder",
+      "slug": "kronprinsparet-skal-p-fylkestur-til-agder",
+      "content": "Kronprins Haakon og kronprinsesse Mette-Marit legger sin årlige fylkestur i år til Agder i september. I løpet av tre dager skal de besøke flere kommuner, ifølge kongehuset: Åmli, Tvedestrand, Birkenes, Grimstad og Vennesla skal etter planen få kongelig besøk. Kongehuset vektlegger at å reise rundt i Norge og møte mennesker der de bor, er noe av det viktigste kronprinsparet gjør.  Kronprinsesse Mette-Marit har den siste tiden slitt med en forverret helsesituasjon. Den lungesyke kronprinsessen fortalte før jul at hun forberedes på lungetransplantasjon, og i forrige måned viste hun seg for første gang på offisielt oppdrag med pustehjelp.\n\nKongehuset og Sørlandet\n\nHer følger NRK Sørlandet de kongelige sine besøk på Sørlandet.",
+      "excerpt": "Kronprins Haakon og kronprinsesse Mette-Marit legger sin årlige fylkestur i år til Agder i september. I løpet av tre dager skal de besøke flere kommuner, ifølge kongehuset: Åmli, Tvedestrand, Birkenes, Grimstad og Vennesla skal etter planen få kongelig besøk. Kongehuset vektlegger at å reise rundt...",
+      "image": "https://images.unsplash.com/photo-1654581065105-b904eee78d9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgxNDk1NTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/kronprinsparet-skal-pa-fylkestur-til-agder-1.17874752",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-07T10:25:59.020Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778135827976.6172,
       "title": "To droner har falt ned i Latvia",
       "slug": "to-droner-har-falt-ned-i-latvia",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-05T06:17:37.697Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1777961856324.5068,
-      "title": "Fire drept i russisk angrep i Poltava i Ukraina",
-      "slug": "fire-drept-i-russisk-angrep-i-poltava-i-ukraina",
-      "content": "Fire mennesker er drept og 31 såret i et russisk rakett- og droneangrep i Poltava, sentralt i Ukraina, natt til tirsdag.\n\nRussland angrep to ulike steder i Poltava fylke, opplyser guvernør Vitalij Djakivnytsj i Poltava på Telegram.\n\nEt industribygg ble truffet, noe som har kuttet gassforsyningen til nesten 3500 kunder. I tillegg har jernbaneinfrastruktur blitt påført skader.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Fire mennesker er drept og 31 såret i et russisk rakett- og droneangrep i Poltava, sentralt i Ukraina, natt til tirsdag.\n\nRussland angrep to ulike steder i Poltava fylke, opplyser guvernør Vitalij Djakivnytsj i Poltava på Telegram.\n\nEt industribygg ble truffet, noe som har kuttet gassforsyningen...",
-      "image": "https://images.unsplash.com/photo-1735835043003-a313d9de9d46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc5NjE4NTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/fire-drept-i-russisk-angrep-i-poltava-i-ukraina-1.17871432",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-05T06:17:36.324Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777961854858.1208,
-      "title": "Dødstala stig etter eksplosjon i Kina",
-      "slug": "ddstala-stig-etter-eksplosjon-i-kina",
-      "content": "Minst 26 menneske er døde ein eksplosjon i ein fyrverkerifabrikk i Hunan-provinsen i Kina natt til tysdag, melder Reuters, som siterer den statlege kringkastaren CCTV.\n\nI tillegg er det meldt om over 60 skadde etter eksplosjonen.\n\nBrannmannskap har jobba på staden for å få sløkt brannen.\n\nKina\n\nKina er verdens nest mest folkerike land, og blant de eldste kontinuerlige sivilisasjonene i verden. Landet ledes av kommunistpartiet og president Xi Jinping, som er den første lederen siden formann Mao som har sittet i tre 5-årsperioder.",
-      "excerpt": "Minst 26 menneske er døde ein eksplosjon i ein fyrverkerifabrikk i Hunan-provinsen i Kina natt til tysdag, melder Reuters, som siterer den statlege kringkastaren CCTV.\n\nI tillegg er det meldt om over 60 skadde etter eksplosjonen.\n\nBrannmannskap har jobba på staden for å få sløkt...",
-      "image": "https://images.unsplash.com/photo-1750261346670-87ee500250d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc5NjE4NTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/dodstala-stig-etter-eksplosjon-i-kina-1.17871473",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-05T06:17:34.858Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1777949657221.8525,
-      "title": "Maersk-eid skip har seilt gjennom Hormuzstredet",
-      "slug": "maerskeid-skip-har-seilt-gjennom-hormuzstredet",
-      "content": "Et bilfrakteskip eid av det danske rederiet Mærsk er loset gjennom Hormuzstredet.\n\nSkipet Alliance Fairfax ble fulgt av amerikanske militære styrker og er ute av Persiabukta, står det i en uttalelse fra Mærsk.\n\nBiltransportskipet seilte under amerikansk flagg gjennom Hormuzstredet, ifølge Danmarks Radio.\n\n– Overfarten gikk uten problemer, og alle besetningsmedlemmer er trygge og uskadd, skriver Maersk.\n\nSkipet Alliance Fairfax var blant flere hundre skip som ble liggende fast i Persiabukta etter at USA og Israel gikk til krig mot Iran.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Et bilfrakteskip eid av det danske rederiet Mærsk er loset gjennom Hormuzstredet.\n\nSkipet Alliance Fairfax ble fulgt av amerikanske militære styrker og er ute av Persiabukta, står det i en uttalelse fra Mærsk.\n\nBiltransportskipet seilte under amerikansk flagg gjennom Hormuzstredet, ifølge Danmarks...",
-      "image": "https://images.unsplash.com/photo-1663919606372-9b915419ba9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc5NDk2NTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/maersk-eid-skip-har-seilt-gjennom-hormuzstredet-1.17871322",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-05T02:54:17.221Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 996,
+    "totalFetched": 999,
     "totalPublished": 77,
-    "lastFetch": "2026-05-07T06:37:09.561Z",
+    "lastFetch": "2026-05-07T10:26:04.022Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
