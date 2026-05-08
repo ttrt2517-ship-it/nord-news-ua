@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1778260841878.327,
+      "title": "FHI følger utbruddet av andesvirus på cruiseskip",
+      "slug": "fhi-flger-utbruddet-av-andesvirus-p-cruiseskip",
+      "content": "Folkehelseinstituttet følger utviklingen av andesvirus, en type hantavirus, skriver de i en pressemelding. De mener risikoen for smitte til Norge og EU er svært lav.\n\nUtbruddet er på cruiseskipet MV Hondius, og WHO har rapportert åtte tilfeller av smitte. Tre personer er døde. Det er ingen nordmenn på skipet.\n\nDet registreres normalt 20–40 tilfeller av musepest hvert år i Norge.\n\nHantavirus\n\nI april 2026 brøt det ut hantavirus blant passasjerer på cruiseskipet «Hondius». Viruset sirkulerer hos gnagere. Mennesker kan bli smittet ved å puste inn partikler fra avføring, urin og spytt i lufta og, i enkelte tilfeller, ved bitt.",
+      "excerpt": "Folkehelseinstituttet følger utviklingen av andesvirus, en type hantavirus, skriver de i en pressemelding. De mener risikoen for smitte til Norge og EU er svært lav.\n\nUtbruddet er på cruiseskipet MV Hondius, og WHO har rapportert åtte tilfeller av smitte. Tre personer er døde. Det er ingen nordmenn...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/fhi-folger-utbruddet-av-andesvirus-pa-cruiseskip-1.17877179",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-08T17:20:41.879Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778253936058.2278,
       "title": "Småfly haverert på Ski flyplass",
       "slug": "smfly-haverert-p-ski-flyplass",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-06T17:42:53.270Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778089371638.6282,
-      "title": "Trump: USA vil få anriket uran fra Iran",
-      "slug": "trump-usa-vil-f-anriket-uran-fra-iran",
-      "content": "President Donald Trump sier onsdag at USA vil få anriket uran fra Iran, samtidig som de to landene er i ordkrig med hverandre om å inngå en avtale for å få slutt på krigen.\n\n– Vi kommer til å få det, sa Trump til en reporter på vei ut av en tilstelning i Det hvite hus, ifølge Reuters.\n\nDet er ikke umiddelbart klart hva dette innebærer. Iran har foreløpig ikke kommentert uttalelsen.\n\nUSA og Israel har sagt at et sentralt mål med krigføringen deres mot Iran er å unngå at Iran får utviklet atomvåpen. Til det trenger man anriket uran.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "President Donald Trump sier onsdag at USA vil få anriket uran fra Iran, samtidig som de to landene er i ordkrig med hverandre om å inngå en avtale for å få slutt på krigen.\n\n– Vi kommer til å få det, sa Trump til en reporter på vei ut av en tilstelning i Det hvite hus, ifølge Reuters.\n\nDet er ikke...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump_-usa-vil-fa-anriket-uran-fra-iran-1.17874186",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-06T17:42:51.638Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1029,
+    "totalFetched": 1030,
     "totalPublished": 77,
-    "lastFetch": "2026-05-08T15:25:38.213Z",
+    "lastFetch": "2026-05-08T17:20:44.014Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
