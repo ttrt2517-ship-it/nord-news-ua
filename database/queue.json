@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1778274202479.6902,
+      "title": "Hellstrøm fikk hedersprisen på Gullruten",
+      "slug": "hellstrm-fikk-hedersprisen-p-gullruten",
+      "content": "TV-kokken Eyvind Hellstrøm fikk hederspris under årets Gullruten-utdeling i Bergen.\n\nHellstrøm er kjent for programmer som «Hellstrøm rydder opp», «Hellstrøms kjøkken» og «Truls à la Hellstrøm». Sistnevnte ledet han sammen med komiker Truls Svendsen.\n\nGullruten\n\nGullruten er en årlig prisutdeling og utmerkelse for den norske TV-bransjen. Prisen har blitt delt ut siden 1998. «Team Pølsa» vant kategorien «beste reality- og livsstilsprogram» i 2025.",
+      "excerpt": "TV-kokken Eyvind Hellstrøm fikk hederspris under årets Gullruten-utdeling i Bergen.\n\nHellstrøm er kjent for programmer som «Hellstrøm rydder opp», «Hellstrøms kjøkken» og «Truls à la Hellstrøm». Sistnevnte ledet han sammen med komiker Truls Svendsen.\n\nGullruten\n\nGullruten er en årlig prisutdeling...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/hellstrom-fikk-hedersprisen-pa-gullruten-1.17877420",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-08T21:03:22.479Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778274200917.0798,
+      "title": "Venstre-leder utpekt som ny forhandlingsleder til å danne ny regjering i Danmark",
+      "slug": "venstreleder-utpekt-som-ny-forhandlingsleder-til-danne-ny-re",
+      "content": "Danmarks Venstre-leder Troels Lund Poulsen er utnevnt som forhandlingsleder, skriver det danske kongehuset på sine nettsider fredag kveld.\n\nKongehuset opplyser videre at på bakgrunn av informasjon fra de danske partiene skal Lund Poulsen lede dannelsen av Danmarks nye regjering, uten Socialdemokratiet og Moderaterne.\n\nPartiene Venstre, Dansk Folkeparti, Moderaterne, Det Konservative Folkeparti, Danmarksdemokraterne og Borgernes Parti har pekt på Venstres formann Troels Lund Poulsen.\n\nDet skjer etter at fungerende statsminister Mette Frederiksen (S) har varslet den danske kongen om det ikke har vært mulig for henne å danne en regjering.\n\nHun fikk i oppdrag etter valget i mars å forsøke danne Danmarks nye regjering.\n\nI et innlegg på Facebook skriver Frederiksen at det har vært stor avstand mellom partiene på flere områder, men også enighet om enkelte hovedlinjer som innvandringspolitikk, dyrevelferd og styrking av skolen, melder DR.",
+      "excerpt": "Danmarks Venstre-leder Troels Lund Poulsen er utnevnt som forhandlingsleder, skriver det danske kongehuset på sine nettsider fredag kveld.\n\nKongehuset opplyser videre at på bakgrunn av informasjon fra de danske partiene skal Lund Poulsen lede dannelsen av Danmarks nye regjering, uten...",
+      "image": "https://images.unsplash.com/photo-1699300017116-c685461e3e81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgyNzQyMDB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/venstre-leder-utpekt-som-ny-forhandlingsleder-til-a-danne-ny-regjering-i-danmark-1.17877513",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-08T21:03:20.917Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778274199316.7654,
+      "title": "Kvinne til sykehus etter påkjørsel av bil i Bergen",
+      "slug": "kvinne-til-sykehus-etter-pkjrsel-av-bil-i-bergen",
+      "content": "En kvinne er kjørt til sykehus etter å ha blitt påkjørt av en bil ved Fløyfjelltunnelen i Bergen fredag kveld. Kvinnen skal ha kommet løpende over vegen og så blitt påkjørt, melder Vest politidistrikt.",
+      "excerpt": "En kvinne er kjørt til sykehus etter å ha blitt påkjørt av en bil ved Fløyfjelltunnelen i Bergen fredag kveld. Kvinnen skal ha kommet løpende over vegen og så blitt påkjørt, melder Vest politidistrikt.",
+      "image": "https://images.unsplash.com/photo-1519302959554-a75be0afc82a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgyNzQxOTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/kvinne-til-sykehus-etter-pakjorsel-av-bil-i-bergen-1.17877515",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-08T21:03:19.316Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778268093992.5464,
       "title": "Labour taper makt i Wales",
       "slug": "labour-taper-makt-i-wales",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-06T21:12:33.994Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778101952473.57,
-      "title": "Evakuering fra virusrammet cruiseskip vil trolig starte lørdag",
-      "slug": "evakuering-fra-virusrammet-cruiseskip-vil-trolig-starte-lrda",
-      "content": "Evakueringen av passasjerer på cruiseskipet «MS Hondius», som er rammet av et dødelig hantavirusutbrudd, vil starte på Kanariøyene 11. mai, opplyser innenriksdepartementet i Spania.  Alle passasjerene vil bli på cruiseskipet frem til flyene som skal eskortere dem videre har ankommet, heter det videre. Det er ventet at skipet vil nå Kanariøyene innen lørdag, melder nyhetsbyrået AFP.\n\nCruiseskipet som har ligget fast utenfor Kapp Verde med hantavirus om bord, har startet på den tre dager lange seilasen til Kanariøyene.\n\nUtbrudd av hantavirus\n\nI april 2026 brøt det ut hantavirus blant passasjerer på cruiseskipet «Hondius». Viruset sirkulerer hos gnagere. Mennesker kan bli smittet ved å puste inn partikler fra avføring, urin og spytt i lufta og, i enkelte tilfeller, ved bitt.",
-      "excerpt": "Evakueringen av passasjerer på cruiseskipet «MS Hondius», som er rammet av et dødelig hantavirusutbrudd, vil starte på Kanariøyene 11. mai, opplyser innenriksdepartementet i Spania.  Alle passasjerene vil bli på cruiseskipet frem til flyene som skal eskortere dem videre har ankommet, heter det...",
-      "image": "https://images.unsplash.com/photo-1611053307699-5f74280c0d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgxMDE5NTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/evakuering-fra-virusrammet-cruiseskip-vil-trolig-starte-lordag-1.17874309",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-06T21:12:32.473Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778096927350.2324,
-      "title": "Brudd i vekterforhandlingene",
-      "slug": "brudd-i-vekterforhandlingene",
-      "content": "Både Norsk Arbeidsmandsforbund og Parat har brutt forhandlingene med NHO Service og Handel om vekteroverenskomst. Dermed blir det mekling.\n\nNorsk Arbeidsmandsforbund organiserer over 4500 vektere.\n\nForskuttering av sykelønn og økt kjøpekraft er blant punktene partene ikke klarte å bli enige om.\n\nØkt kjøpekraft og endring i helgetillegget var blant Parats krav som ikke ble møtt.\n\n– Når arbeidsgiver i tillegg avviser kravet om forskuttering av sykepenger, hadde vi ikke noe annet valg enn å bryte, sier Parats forhandler Lars Petter Larsen.\n\nKravet om tariffesting av forskuttering av sykepenger, pleiepenger og foreldrepenger er årsaken til bruddet, opplyser forhandlingsleder Laust K. Poulsen for NHO Service og Handel.\n\n– Vi har stor forståelse for ansatte som må vente i ukevis på sykepenger fra Nav, men det er der problemet ligger – og det er hos Nav det må løses, sier Poulsen.",
-      "excerpt": "Både Norsk Arbeidsmandsforbund og Parat har brutt forhandlingene med NHO Service og Handel om vekteroverenskomst. Dermed blir det mekling.\n\nNorsk Arbeidsmandsforbund organiserer over 4500 vektere.\n\nForskuttering av sykelønn og økt kjøpekraft er blant punktene partene ikke klarte å bli enige...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/brudd-i-vekterforhandlingene-1.17874205",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-06T19:48:47.350Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778096925794.29,
-      "title": "Ung mann omkom i trafikkulykke i Nordre Follo",
-      "slug": "ung-mann-omkom-i-trafikkulykke-i-nordre-follo",
-      "content": "En mann i 20-årene fra Indre Østfold omkom i ulykken.\n\nDet bekreftet politiet klokken 20.54 etter at pårørende var varslet.\n\n– Melding om trafikkulykke mellom en lastebil og en personbil, skrev operasjonsleder Ronny Hellerud Samuelsen i Øst politidistrikt.",
-      "excerpt": "En mann i 20-årene fra Indre Østfold omkom i ulykken.\n\nDet bekreftet politiet klokken 20.54 etter at pårørende var varslet.\n\n– Melding om trafikkulykke mellom en lastebil og en personbil, skrev operasjonsleder Ronny Hellerud Samuelsen i Øst politidistrikt.",
-      "image": "https://images.unsplash.com/photo-1635179219618-d21c2801e9de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgwOTY5MjV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/ung-mann-omkom-i-trafikkulykke-i-nordre-follo-1.17874241",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-06T19:48:45.794Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1032,
+    "totalFetched": 1035,
     "totalPublished": 77,
-    "lastFetch": "2026-05-08T19:21:36.022Z",
+    "lastFetch": "2026-05-08T21:03:24.129Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
