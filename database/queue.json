@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1778296830180.608,
+      "title": "Kraftig brann ved campingplass i Bodø",
+      "slug": "kraftig-brann-ved-campingplass-i-bod",
+      "content": "To personer er sendt til sykehus og én person er kjørt til legevakt med ukjent skadegrad etter brann i en bygning ved Saltstraumen campingplass. Alle personer har kommet seg ut av bygningen, som er stedets resepsjon.\n\nDet var spredningsfare mot nærliggende campingvogner, hytter og skogsterreng.\n\n– Bygget var overtent da nødetatene kom til stedet. I forbindelse med at det var en del vind på stedet, ble det iverksatt evakuering av de som bodde i de nærliggende hyttene og campingvognene inne på området, forteller operasjonsleder Veronica Helen Nylund i Nordland politidistrikt til NRK.\n\nRundt klokken 02:00 melder Nylund at brannvesenet har kontroll på brannen og at bygningen er nedbrent. De evakuerte har fått komme tilbake til sine hytter og campingvogner.\n\nPolitiet fikk meldingen om brannen klokken 00:50 natt til lørdag. Årsak til brannen er så langt ikke kjent. Saken går over i etterforskning, opplyser politiet",
+      "excerpt": "To personer er sendt til sykehus og én person er kjørt til legevakt med ukjent skadegrad etter brann i en bygning ved Saltstraumen campingplass. Alle personer har kommet seg ut av bygningen, som er stedets resepsjon.\n\nDet var spredningsfare mot nærliggende campingvogner, hytter og skogsterreng....",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/kraftig-brann-ved-campingplass-i-bodo--1.17877564",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-09T03:20:30.180Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778296828596.236,
+      "title": "Trump sier han venter svar fra Iran innen kort tid",
+      "slug": "trump-sier-han-venter-svar-fra-iran-innen-kort-tid",
+      "content": "USAs president Donald Trump sier at han forventer å motta svar fra Iran på USAs siste forslag om en fredsavtale for å avslutte krigen i løpet av kvelden, melder AFP.\n\n– Jeg skal visstnok få et brev i kveld, så får vi se hvordan det går, fortalte Trump til journalister utenfor Det hvite hus natt til lørdag, norsk tid.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "USAs president Donald Trump sier at han forventer å motta svar fra Iran på USAs siste forslag om en fredsavtale for å avslutte krigen i løpet av kvelden, melder AFP.\n\n– Jeg skal visstnok få et brev i kveld, så får vi se hvordan det går, fortalte Trump til journalister utenfor Det hvite hus natt til...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-sier-han-venter-svar-fra-iran-innen-kort-tid-1.17877601",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-09T03:20:28.596Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778296826637.197,
+      "title": "En person anmeldt for ulovlig våpenbruk ved skole i Trondheim",
+      "slug": "en-person-anmeldt-for-ulovlig-vpenbruk-ved-skole-i-trondheim",
+      "content": "En person ble anmeldt for ulovlig bæring av våpen på offentlig sted ved Byåsen i Trondheim.\n\nPolitiet rykket ut etter å ha fått melding om at personen var ved Dalgård skole og skjøt med et gevær. Det var lav lyd på smellene, som viste seg å komme fra et luftgevær.\n\nDet er tidligere meldt om skader på vinduer i området som kan stamme fra skudd fra et slikt gevær.\n\n– Det er fortsatt uklart om noen ruter er blitt knust i natt, opplyser operasjonsleder Bjørnar Gaasvik i Trøndelag politidistrikt.\n\n– Personen som avfyrte skuddene opplyser selv å ha skutt på en blikkboks, noe som synes å stemme, legger Gaasvik til.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "En person ble anmeldt for ulovlig bæring av våpen på offentlig sted ved Byåsen i Trondheim.\n\nPolitiet rykket ut etter å ha fått melding om at personen var ved Dalgård skole og skjøt med et gevær. Det var lav lyd på smellene, som viste seg å komme fra et luftgevær.\n\nDet er tidligere meldt om skader...",
+      "image": "https://images.unsplash.com/photo-1603806158126-f11f5dc44808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgyOTY4MjZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/en-person-anmeldt-for-ulovlig-vapenbruk-ved-skole-i-trondheim-1.17877602",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-09T03:20:26.637Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778281014347.9626,
       "title": "Mekling på overtid i renholdsoverenskomsten",
       "slug": "mekling-p-overtid-i-renholdsoverenskomsten",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-07T03:25:10.276Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778124308701.2837,
-      "title": "Flere skal være såret i ukrainsk angrep i Russland, ifølge lokale myndigheter",
-      "slug": "flere-skal-vre-sret-i-ukrainsk-angrep-i-russland-iflge-lokal",
-      "content": "13 mennesker er såret i et ukrainsk angrep mot Brjansk, ifølge den russiske regionens guvernør.\n\nTo boligblokker i regionhovedstaden Brjansk ble truffet og 13 mennesker såret, blant dem et barn, ifølge guvernør Aleksandr Bogomaz. Han skriver i et innlegg i meldingstjenesten Telegram at over 20 leiligheter og rundt 40 biler også ble skadet. Brjansk-regionen grenser til Ukraina.\n\nI Moskva sier den russiske hovedstadens ordfører Sergej Sobjanin at minst tre droner på vei mot byen ble skutt ned i løpet av natten.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "13 mennesker er såret i et ukrainsk angrep mot Brjansk, ifølge den russiske regionens guvernør.\n\nTo boligblokker i regionhovedstaden Brjansk ble truffet og 13 mennesker såret, blant dem et barn, ifølge guvernør Aleksandr Bogomaz. Han skriver i et innlegg i meldingstjenesten Telegram at over 20...",
-      "image": "https://images.unsplash.com/photo-1698854617886-257ee3635907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgxMjQzMDh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-skal-vaere-saret-i-ukrainsk-angrep-i-russland_-ifolge-lokale-myndigheter-1.17874342",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-07T03:25:08.702Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778108064924.019,
-      "title": "Where in Oslo residents should expect to have brown tap water this week",
-      "slug": "where-in-oslo-residents-should-expect-to-have-brown-tap-wate",
-      "content": "Residents in the capital should be prepared for a change in their water supply. Oslo’s usually pristine, fresh, (and delicious) tap water may look discoloured this week because of extensive maintenance work.\n\nFrom Tuesday, May 5th to Friday, May 8th, the Norwegian Water and Sewerage Authority (Vann- og avløpsetaten) will carry out maintenance on parts of the drinking water network in Oslo West.\n\nThese operations include closing a main pipe and diverting the water flow.\n\nThe change in water pressure can loosen the internal coating of the pipes, which then mixes with the water; this is why it is normal for the water to turn brown during this process.\n\nAround 133,000 people in Ullern, Skøyen, Smestad, Montebello, Røa, Bygdøy, Frogner, and Majorstuen are expected to be affected.\n\nSome homes may also notice lower water pressure than usual during this time.\n\nAuthorities confirmed that even if the water looks brown or is discoloured, it is still safe to drink and use for cooking.\n\nStill, for those who maintain that Norway's tap water is one of the nation's best perks, seeing brown water in your glass might not be very appealing.\n\nThe Norwegian Water and Sewerage Authority provided additional advice on its website.\n\nIt’s best to use the tap closest to your building’s water inlet.\n\nYou can open a cold-water tap and let the water run until it turns clear.\n\nAlso, wait to wash light-coloured clothes or whites until the water is back to normal to avoid stains.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Residents in the capital should be prepared for a change in their water supply. Oslo’s usually pristine, fresh, (and delicious) tap water may look discoloured this week because of extensive maintenance work.\n\nFrom Tuesday, May 5th to Friday, May 8th, the Norwegian Water and Sewerage Authority...",
-      "image": "https://images.unsplash.com/photo-1698083781385-a8a7069c5cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgxMDgwNjR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260504/where-in-oslo-residents-should-expect-to-have-brown-tap-water-this-week",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-05-06T22:54:24.925Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778108061769.9167,
-      "title": "Evakuering fra virusrammet cruiseskip vil trolig starte mandag",
-      "slug": "evakuering-fra-virusrammet-cruiseskip-vil-trolig-starte-mand",
-      "content": "Evakueringen av passasjerer på cruiseskipet «MS Hondius», som er rammet av et dødelig hantavirusutbrudd, vil starte på Kanariøyene 11. mai, opplyser innenriksdepartementet i Spania. Alle passasjerene vil bli på cruiseskipet frem til flyene som skal eskortere dem videre har ankommet, heter det videre. Det er ventet at skipet vil nå Kanariøyene innen lørdag, melder nyhetsbyrået AFP.\n\nCruiseskipet som har ligget fast utenfor Kapp Verde med hantavirus om bord, har startet på den tre dager lange seilasen til Kanariøyene.\n\nUtbrudd av hantavirus\n\nI april 2026 brøt det ut hantavirus blant passasjerer på cruiseskipet «Hondius». Viruset sirkulerer hos gnagere. Mennesker kan bli smittet ved å puste inn partikler fra avføring, urin og spytt i lufta og, i enkelte tilfeller, ved bitt.",
-      "excerpt": "Evakueringen av passasjerer på cruiseskipet «MS Hondius», som er rammet av et dødelig hantavirusutbrudd, vil starte på Kanariøyene 11. mai, opplyser innenriksdepartementet i Spania. Alle passasjerene vil bli på cruiseskipet frem til flyene som skal eskortere dem videre har ankommet, heter det...",
-      "image": "https://images.unsplash.com/photo-1666634489542-543911f99f25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgxMDgwNjF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/evakuering-fra-virusrammet-cruiseskip-vil-trolig-starte-mandag-1.17874309",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-06T22:54:21.769Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1038,
+    "totalFetched": 1041,
     "totalPublished": 77,
-    "lastFetch": "2026-05-08T22:56:56.353Z",
+    "lastFetch": "2026-05-09T03:20:32.310Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
