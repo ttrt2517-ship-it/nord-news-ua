@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1778307494736.228,
+      "title": "WHO: Seks hantavirus-tilfeller bekreftet til nå",
+      "slug": "who-seks-hantavirustilfeller-bekreftet-til-n",
+      "content": "Seks tilfeller av hantavirus er bekreftet blant de til sammen åtte mistenkte tilfellene etter smitteutbruddet på cruiseskipet MV Hondius.\n\n– Per 8. mai er til sammen åtte tilfeller, deriblant tre dødsfall (en dødelighetsrate på 38 prosent) blitt innrapportert. Seks tilfeller er bekreftet i laboratorium som hantavirussmitte, står det i en uttalelse fra Verdens helseorganisasjon (WHO).\n\n– De seks er identifisert som Andes-virus, kjent for å smitte mellom mennesker, står det videre i uttalelsen.\n\nHantaviruset har mange varianter. Andes-varianten, som har sin opprinnelse i Sør-Amerika, er den eneste som kan smitte mellom mennesker. Inkubasjonstiden kan være opptil seks uker.\n\nHantavirus\n\nI april 2026 brøt det ut hantavirus blant passasjerer på cruiseskipet «Hondius». Viruset sirkulerer hos gnagere. Mennesker kan bli smittet ved å puste inn partikler fra avføring, urin og spytt i lufta og, i enkelte tilfeller, ved bitt.",
+      "excerpt": "Seks tilfeller av hantavirus er bekreftet blant de til sammen åtte mistenkte tilfellene etter smitteutbruddet på cruiseskipet MV Hondius.\n\n– Per 8. mai er til sammen åtte tilfeller, deriblant tre dødsfall (en dødelighetsrate på 38 prosent) blitt innrapportert. Seks tilfeller er bekreftet i...",
+      "image": "https://images.unsplash.com/photo-1681025277420-8120763b3e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgzMDc0OTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/who_-seks-hantavirus-tilfeller-bekreftet-til-na-1.17877613",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-09T06:18:14.736Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778307493289.683,
+      "title": "Kontroll på brannen ved avfallsanlegget i Søndre Land",
+      "slug": "kontroll-p-brannen-ved-avfallsanlegget-i-sndre-land",
+      "content": "Natt til lørdag brøt det ut kraftig brann i restavfall på et avfallsanlegg i Fluberg i Søndre Land.\n\nBrannvesenet fryktet at brannen kunne spre seg til et nærliggende skogsområdet, og mangle vann for å få kontroll på flammene.\n\nTidlig lørdag morgen meldes det om det er kontroll på brannen, men at de kommer til jobbe på stedet utover lørdagen.\n\nMangel på vatn førte til at brannen i Søndre Land truga med å spreie seg til skogen i natt.",
+      "excerpt": "Natt til lørdag brøt det ut kraftig brann i restavfall på et avfallsanlegg i Fluberg i Søndre Land.\n\nBrannvesenet fryktet at brannen kunne spre seg til et nærliggende skogsområdet, og mangle vann for å få kontroll på flammene.\n\nTidlig lørdag morgen meldes det om det er kontroll på brannen, men at...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/kontroll-pa-brannen-ved-avfallsanlegget-i-sondre-land-1.17877604",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-09T06:18:13.289Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778307491937.2083,
+      "title": "Lav magasinfylling ga høyere strømpriser i Sør-Norge i april",
+      "slug": "lav-magasinfylling-ga-hyere-strmpriser-i-srnorge-i-april",
+      "content": "Norge importerte fortsatt store mengder strøm i april, men likevel ble strømprisene i Sør-Norge høyere enn på kontinentet.\n\nLav magasinfylling og behovet for å spare vannkraft forklarer mye av forskjellen, ifølge Fornybar Norge.\n\n– Lite vann i de sørnorske kraftmagasinene førte til høyere strømpriser enn i nabolandene våre, som hadde god tilgang på vind- og solkraft.\n\nNorge importerte vesentlig mer kraft enn vi eksporterte i april, og kunne tatt imot mer om vi hadde hatt større kabelkapasitet, sier leder Bård Vegar Solhjell i Fornybar Norge.\n\nTil tross for høyere priser vil husholdninger med norgespris i Sør-Norge få lavere strømregning enn i april i fjor. (NTB)\n\nStrømpriser\n\nDe siste to årene har strømprisen i store deler av landet vært uvanlig høy. Markedsprisen på strøm kan følges fra time til time på strømbørsen Nord Pool.",
+      "excerpt": "Norge importerte fortsatt store mengder strøm i april, men likevel ble strømprisene i Sør-Norge høyere enn på kontinentet.\n\nLav magasinfylling og behovet for å spare vannkraft forklarer mye av forskjellen, ifølge Fornybar Norge.\n\n– Lite vann i de sørnorske kraftmagasinene førte til høyere...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/lav-magasinfylling-ga-hoyere-strompriser-i-sor-norge-i-april-1.17877618",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-09T06:18:11.937Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778296830180.608,
       "title": "Kraftig brann ved campingplass i Bodø",
       "slug": "kraftig-brann-ved-campingplass-i-bod",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-07T06:37:06.510Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778135825102.9917,
-      "title": "Tidligere Nav-direktør Hans Christian Holte blir sjef for KI Norge",
-      "slug": "tidligere-navdirektr-hans-christian-holte-blir-sjef-for-ki-n",
-      "content": "Hans Christian Holte blir den første til å lede KI Norge, bekrefter regjeringen torsdag.\n\nKI Norge er regjeringens satsing på ansvarlig og innovativ utvikling og bruk av kunstig intelligens i både offentlig og privat sektor.\n\n– Jeg har fulgt etableringen av KI Norge tett, og er imponert over arbeidet som allerede er lagt ned, og ambisjonene for hva vi skal få til, sier Holte.\n\nHan gikk i november i fjor av som Nav-sjef etter at de kom frem at Nav hadde gitt feil informasjon til både departementet og Riksrevisjonen.\n\nKunstig intelligens\n\nChatGPT er en kunstig intelligens-basert tekstgenereringsmodell fra selskapet OpenAI. Den kan brukes til å generere svar på spørsmål, skrive samtaler eller til å komplettere tekst.",
-      "excerpt": "Hans Christian Holte blir den første til å lede KI Norge, bekrefter regjeringen torsdag.\n\nKI Norge er regjeringens satsing på ansvarlig og innovativ utvikling og bruk av kunstig intelligens i både offentlig og privat sektor.\n\n– Jeg har fulgt etableringen av KI Norge tett, og er imponert over...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/tidligere-nav-direktor-hans-christian-holte-blir-sjef-for-ki-norge-1.17874417",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-07T06:37:05.102Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778124311823.213,
-      "title": "CNN: Forventer at Iran vil svare i dag",
-      "slug": "cnn-forventer-at-iran-vil-svare-i-dag",
-      "content": "Iran forventes å overlevere sitt svar til meklerne om USAs forslag om avslutte krigen torsdag, opplyser en regional kilde til CNN. Dette kommer etter at USAs president Donald Trump sa at USA har hatt svært gode samtaler med Iran det siste døgnet.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Iran forventes å overlevere sitt svar til meklerne om USAs forslag om avslutte krigen torsdag, opplyser en regional kilde til CNN. Dette kommer etter at USAs president Donald Trump sa at USA har hatt svært gode samtaler med Iran det siste døgnet.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/cnn_-forventer-at-iran-vil-svare-i-dag--1.17874340",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-07T03:25:11.823Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778124310275.2188,
-      "title": "Bilbrann stenger Konnerudgata i Drammen",
-      "slug": "bilbrann-stenger-konnerudgata-i-drammen",
-      "content": "Politiet melder at de er i Konnerudgata hvor det brenner i fem biler, og i noe terreng.\n\nKonnerudgata har vært stengt i flere minutter, men skal nå være åpen igjen ifølge NRKs reporter på stedet.\n\nBrannvesenet har slukket brannene. Samtlige kjøretøy det har brent i har stått parkert utenfor et firma som driver med skadeservice.",
-      "excerpt": "Politiet melder at de er i Konnerudgata hvor det brenner i fem biler, og i noe terreng.\n\nKonnerudgata har vært stengt i flere minutter, men skal nå være åpen igjen ifølge NRKs reporter på stedet.\n\nBrannvesenet har slukket brannene. Samtlige kjøretøy det har brent i har stått parkert utenfor et...",
-      "image": null,
-      "original_url": "https://www.nrk.no/buskerud/bilbrann-stenger-konnerudgata-i-drammen--1.17874351",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-07T03:25:10.276Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1041,
+    "totalFetched": 1044,
     "totalPublished": 77,
-    "lastFetch": "2026-05-09T03:20:32.310Z",
+    "lastFetch": "2026-05-09T06:18:17.195Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
