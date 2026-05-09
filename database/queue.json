@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1778366982709.21,
+      "title": "Minst 69 drept i militsangrep øst i Kongo",
+      "slug": "minst-69-drept-i-militsangrep-st-i-kongo",
+      "content": "Minst 69 personer ble drept i et militsangrep i Ituri-provinsen nordøst i Kongo i slutten april, det opplyser lokale kilder og sikkerhetskilder til nyhetsbyrået AFP.\n\nAngrepet ble utført av væpnede menn som er tilknyttet Codeco-militsen. Det har tatt flere dager før de drepte kunne hentes ut, fordi Codeco-krigere fortsatt var til stede i området.\n\nIturi er en gullrik provins som grenser til Uganda, og har i flere år vært preget av konflikter, melder NTB.\n\nDR Kongo\n\nDen demokratiske republikken Kongo (også kalt Kongo-Kinshasa) ligger i Sentral-Afrika og grenser til SAR og Sør-Sudan i nord, Uganda, Rwanda, Burundi og Tanzania i øst, Zambia og Angola i sør og Kongo-Brazzaville i vest.",
+      "excerpt": "Minst 69 personer ble drept i et militsangrep i Ituri-provinsen nordøst i Kongo i slutten april, det opplyser lokale kilder og sikkerhetskilder til nyhetsbyrået AFP.\n\nAngrepet ble utført av væpnede menn som er tilknyttet Codeco-militsen. Det har tatt flere dager før de drepte kunne hentes ut, fordi...",
+      "image": "https://images.unsplash.com/photo-1659424765389-a64c848ca038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgzNjY5ODJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/minst-69-drept-i-militsangrep-ost-i-kongo-1.17878302",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-09T22:49:42.709Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778359686705.5786,
       "title": "Leo Ajkic skal bli far: – Vi gleder oss maks",
       "slug": "leo-ajkic-skal-bli-far-vi-gleder-oss-maks",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-08T07:52:53.227Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778226771751.4,
-      "title": "Enighet i Posten Bring-oppgjøret",
-      "slug": "enighet-i-posten-bringoppgjret",
-      "content": "Fagforbundet og Posten Bring AS er enige om hovedoppgjøret 2026. Dermed blir det ingen streik.\n\nResultatet er i tråd med frontfagets ramme og gir ifølge Fagforbundet økt kjøpekraft for alle deres medlemmer i selskapet.\n\n– Vi er fornøyd med å ha landet et lønnsoppgjør i tråd med frontfaget. Vi har fått på plass et godt generelt tillegg som sikrer et lønnsløft for hele laget i Posten Bring, sier leder Cathrine S. Ertsås i Fagforbundet Post og finans i en pressemelding.",
-      "excerpt": "Fagforbundet og Posten Bring AS er enige om hovedoppgjøret 2026. Dermed blir det ingen streik.\n\nResultatet er i tråd med frontfagets ramme og gir ifølge Fagforbundet økt kjøpekraft for alle deres medlemmer i selskapet.\n\n– Vi er fornøyd med å ha landet et lønnsoppgjør i tråd med frontfaget. Vi har...",
-      "image": "https://images.unsplash.com/photo-1729721277487-67e0db2fe164?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgyMjY3NzF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/enighet-i-posten-bring-oppgjoret-1.17876189",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-08T07:52:51.751Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1065,
+    "totalFetched": 1066,
     "totalPublished": 77,
-    "lastFetch": "2026-05-09T20:48:08.828Z",
+    "lastFetch": "2026-05-09T22:49:45.181Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
