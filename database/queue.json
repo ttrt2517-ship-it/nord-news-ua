@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1778446292295.6658,
+      "title": "Trump om Iran-forslag: – Fullstendig uakseptabelt",
+      "slug": "trump-om-iranforslag-fullstendig-uakseptabelt",
+      "content": "USAs president Donald Trump sier at han nettopp har lest Irans motforslag til en avtale for å få slutt på krigen.\n\n– Jeg liker det ikke – FULLSTENDIG UAKSEPTABELT! skriver han på Truth Social, uten å gå nærmere inn på deltajene i svaret fra Iran.\n\nTidligere søndag ble det meldt at Iran hadde levert et motforslag til USAs utkast til en avtale for å få slutt på krigen. Irans forslag er formidlet til USA via pakistanske meglere.\n\n– På dette stadiet vil forhandlingene ta sikte på å ende krigen, sa en talsperson for Irans utenriksdepartement ifølge det iransk-statlige nyhetsbyrået IRNA.\n\nDonald Trump skriver at han ikke liker Irans motforslag til en avtale for å få slutt på krigen.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "USAs president Donald Trump sier at han nettopp har lest Irans motforslag til en avtale for å få slutt på krigen.\n\n– Jeg liker det ikke – FULLSTENDIG UAKSEPTABELT! skriver han på Truth Social, uten å gå nærmere inn på deltajene i svaret fra Iran.\n\nTidligere søndag ble det meldt at Iran hadde levert...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-om-iran-forslag_-_-fullstendig-uakseptabelt-1.17878607",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-10T20:51:32.296Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778440041916.9624,
       "title": "Latvias forsvarsminister går av etter at ukrainsk drone traff oljeanlegg",
       "slug": "latvias-forsvarsminister-gr-av-etter-at-ukrainsk-drone-traff",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-09T03:20:28.596Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778296826637.197,
-      "title": "En person anmeldt for ulovlig våpenbruk ved skole i Trondheim",
-      "slug": "en-person-anmeldt-for-ulovlig-vpenbruk-ved-skole-i-trondheim",
-      "content": "En person ble anmeldt for ulovlig bæring av våpen på offentlig sted ved Byåsen i Trondheim.\n\nPolitiet rykket ut etter å ha fått melding om at personen var ved Dalgård skole og skjøt med et gevær. Det var lav lyd på smellene, som viste seg å komme fra et luftgevær.\n\nDet er tidligere meldt om skader på vinduer i området som kan stamme fra skudd fra et slikt gevær.\n\n– Det er fortsatt uklart om noen ruter er blitt knust i natt, opplyser operasjonsleder Bjørnar Gaasvik i Trøndelag politidistrikt.\n\n– Personen som avfyrte skuddene opplyser selv å ha skutt på en blikkboks, noe som synes å stemme, legger Gaasvik til.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "En person ble anmeldt for ulovlig bæring av våpen på offentlig sted ved Byåsen i Trondheim.\n\nPolitiet rykket ut etter å ha fått melding om at personen var ved Dalgård skole og skjøt med et gevær. Det var lav lyd på smellene, som viste seg å komme fra et luftgevær.\n\nDet er tidligere meldt om skader...",
-      "image": "https://images.unsplash.com/photo-1603806158126-f11f5dc44808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgyOTY4MjZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/en-person-anmeldt-for-ulovlig-vapenbruk-ved-skole-i-trondheim-1.17877602",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-09T03:20:26.637Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1088,
+    "totalFetched": 1089,
     "totalPublished": 77,
-    "lastFetch": "2026-05-10T19:07:24.572Z",
+    "lastFetch": "2026-05-10T20:51:34.681Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
