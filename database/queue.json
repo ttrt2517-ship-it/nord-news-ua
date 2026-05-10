@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1778453479822.4604,
+      "title": "Storbritannia og Frankrike kaller inn til krisemøte om Hormuzstredet",
+      "slug": "storbritannia-og-frankrike-kaller-inn-til-krisemte-om-hormuz",
+      "content": "Storbritannia og Frankrike skal være vertskap for et flernasjonalt forsvarsministermøte førstkommende tirsdag. Formålet er å legge militære planer for å sikre den internasjonale skipsfarten og gjenopprette handelsflyten gjennom det strategisk viktige Hormuzstredet. Over 40 nasjoner skal delta på møtet, melder nyhetsbyrået AFP.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Storbritannia og Frankrike skal være vertskap for et flernasjonalt forsvarsministermøte førstkommende tirsdag. Formålet er å legge militære planer for å sikre den internasjonale skipsfarten og gjenopprette handelsflyten gjennom det strategisk viktige Hormuzstredet. Over 40 nasjoner skal delta på...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/storbritannia-og-frankrike-kaller-inn-til-krisemote-om-hormuzstredet-1.17878931",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-10T22:51:19.822Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778446292295.6658,
       "title": "Trump om Iran-forslag: – Fullstendig uakseptabelt",
       "slug": "trump-om-iranforslag-fullstendig-uakseptabelt",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-09T03:20:30.180Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778296828596.236,
-      "title": "Trump sier han venter svar fra Iran innen kort tid",
-      "slug": "trump-sier-han-venter-svar-fra-iran-innen-kort-tid",
-      "content": "USAs president Donald Trump sier at han forventer å motta svar fra Iran på USAs siste forslag om en fredsavtale for å avslutte krigen i løpet av kvelden, melder AFP.\n\n– Jeg skal visstnok få et brev i kveld, så får vi se hvordan det går, fortalte Trump til journalister utenfor Det hvite hus natt til lørdag, norsk tid.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "USAs president Donald Trump sier at han forventer å motta svar fra Iran på USAs siste forslag om en fredsavtale for å avslutte krigen i løpet av kvelden, melder AFP.\n\n– Jeg skal visstnok få et brev i kveld, så får vi se hvordan det går, fortalte Trump til journalister utenfor Det hvite hus natt til...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump-sier-han-venter-svar-fra-iran-innen-kort-tid-1.17877601",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-09T03:20:28.596Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1089,
+    "totalFetched": 1090,
     "totalPublished": 77,
-    "lastFetch": "2026-05-10T20:51:34.681Z",
+    "lastFetch": "2026-05-10T22:51:21.959Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
