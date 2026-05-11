@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1778498709589.016,
+      "title": "Arbeidsulykke i Steigen – én person til sykehus",
+      "slug": "arbeidsulykke-i-steigen-n-person-til-sykehus",
+      "content": "En person er sendt til Nordlandssykehuset i Bodø etter en arbeidsulykke i Bogen i Steigen. Ulykken skjedde i 11-tiden på et av Cermaqs anlegg.\n\n– En person skal ha fått en klem/kutt skade i en hånd, melder operasjonsleder Ina Selfors.\n\nI en oppdatering skriver Selfors ar det ikke er snakk om en alvorlig skade annet enn at vedkommende har skadet en finger. Politiet oppretter sak og vil ta avhør av den skadde når det er mulig.",
+      "excerpt": "En person er sendt til Nordlandssykehuset i Bodø etter en arbeidsulykke i Bogen i Steigen. Ulykken skjedde i 11-tiden på et av Cermaqs anlegg.\n\n– En person skal ha fått en klem/kutt skade i en hånd, melder operasjonsleder Ina Selfors.\n\nI en oppdatering skriver Selfors ar det ikke er snakk om en...",
+      "image": "https://images.unsplash.com/photo-1690380113485-bd297691b243?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg0OTg3MDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nordland/arbeidsulykke-i-steigen-_-en-person-til-sykehus-1.17879542",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-11T11:25:09.589Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778498708130.0469,
+      "title": "EU normaliserer handelsforholdet til Syria",
+      "slug": "eu-normaliserer-handelsforholdet-til-syria",
+      "content": "Det europeiske råd kunngjorde mandag at de hadde opphevet den delvise suspensjonen av handelssamarbeidet mellom EU og Syria.\n\nSamarbeidsavtalen mellom Det europeiske økonomiske fellesskap, populært kalt Fellesmarkedet på norsk, og Syria, ble delvis suspendert under den syriske borgerkrigen.\n\nNå oppheves suspensjonen, og dermed både styrkes det bilaterale forholdet mellom EU og Syria, og handelsforholdet blir nærmere normalt.\n\nSyria\n\n8. desember 2024 rykket opprørsstyrker inn i hovedstaden Damaskus og styrtet Assad-regimet, etter at Bashar al-Assad hadde vært ved makten i 25 år.",
+      "excerpt": "Det europeiske råd kunngjorde mandag at de hadde opphevet den delvise suspensjonen av handelssamarbeidet mellom EU og Syria.\n\nSamarbeidsavtalen mellom Det europeiske økonomiske fellesskap, populært kalt Fellesmarkedet på norsk, og Syria, ble delvis suspendert under den syriske borgerkrigen.\n\nNå...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/eu-normaliserer-handelsforholdet-til-syria-1.17879479",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-11T11:25:08.130Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778498706708.5725,
+      "title": "Gir 30 millioner til å spore opp savnede barn",
+      "slug": "gir-30-millioner-til-spore-opp-savnede-barn",
+      "content": "Norge bidrar med 30 millioner kroner til Røde Kors-komiteens arbeid med å spore opp savnede personer i Ukraina-krigen.\n\nPengene skal blant annet gå til å spore opp savnede ukrainske barn og deres familiemedlemmer som kan ha blitt bortført til Russland, heter det.\n\n– Som om ikke det å leve midt i krigshandlingene er tungt nok, lever mange familier uten å vite hva som er skjedd med deres kjære. Spesielt ille er det at mange av disse er barn, sier utenriksminister Espen Barth Eide (Ap) i en pressemelding.\n\nFlere tusen ukrainske barn har blitt tvangsflyttet eller bortført fra okkuperte områder til Russland eller russiskkontrollerte områder siden krigsutbruddet i 2022, ifølge FN.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Norge bidrar med 30 millioner kroner til Røde Kors-komiteens arbeid med å spore opp savnede personer i Ukraina-krigen.\n\nPengene skal blant annet gå til å spore opp savnede ukrainske barn og deres familiemedlemmer som kan ha blitt bortført til Russland, heter det.\n\n– Som om ikke det å leve midt i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/gir-30-millioner-til-a-spore-opp-savnede-barn-1.17879564",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-11T11:25:06.709Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778485416940.8857,
       "title": "Streikene trappes opp mandag og tirsdag",
       "slug": "streikene-trappes-opp-mandag-og-tirsdag",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-09T10:58:41.794Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778324319850.5642,
-      "title": "Nye regjeringsforhandlinger i Danmark starter på mandag",
-      "slug": "nye-regjeringsforhandlinger-i-danmark-starter-p-mandag",
-      "content": "Venstre-leder Troels Lund Poulsen kaller alle partiene i det danske Folketinget til nye offisielle regjeringsforhandlinger i Danmark.\n\n– Vi starter de offisielle forhandlingsmøtene mandag morgen. Alle Folketingets partier og de nordatlantiske medlemmene vil bli invitert, skriver Lund Poulsen i et innlegg på Facebook.\n\nHan fikk oppgaven med å lede nye regjeringsforhandlinger av kong Frederik fredag. I Danmark kalles den som har denne rollen for «kongelig undersøker».\n\nDanmarks fungerende statsminister, Socialdemokraternes leder Frederiksen, har som forhandlingsleder forsøkt å danne en ny regjering i 45 dager, men uten å lykkes.",
-      "excerpt": "Venstre-leder Troels Lund Poulsen kaller alle partiene i det danske Folketinget til nye offisielle regjeringsforhandlinger i Danmark.\n\n– Vi starter de offisielle forhandlingsmøtene mandag morgen. Alle Folketingets partier og de nordatlantiske medlemmene vil bli invitert, skriver Lund Poulsen i et...",
-      "image": "https://images.unsplash.com/photo-1698171474543-00caa2d153d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgzMjQzMTl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/nye-regjeringsforhandlinger-i-danmark-starter-pa-mandag-1.17877835",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-09T10:58:39.850Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778318479892.4421,
-      "title": "Putin sier russiske soldater kjemper mot en aggressiv styrke støttet av Nato",
-      "slug": "putin-sier-russiske-soldater-kjemper-mot-en-aggressiv-styrke",
-      "content": "Russlands president Vladimir Putin sa lørdag at hans soldater i Ukraina kjemper mot en «aggressiv styrke» støttet av hele Nato, og at den russiske hærens sak er «rettferdig», da han talte under den årlige seiersdagsparaden på Den røde plass.\n\n«Seierherrenes store bragd inspirerer soldatene som i dag utfører målene for den spesielle militæroperasjonen,» sa Putin i sin tale, med henvisning til krigen i Ukraina.\n\n«De står overfor en aggressiv styrke som er bevæpnet og støttet av hele Nato-blokken. Og til tross for dette, beveger våre helter seg fremover,» sa han, ifølge nyhetsbyrået AFP.\n\nPutin holdt talen i forbindelse med markeringen av seiersdagen etter andre verdenskrig.",
-      "excerpt": "Russlands president Vladimir Putin sa lørdag at hans soldater i Ukraina kjemper mot en «aggressiv styrke» støttet av hele Nato, og at den russiske hærens sak er «rettferdig», da han talte under den årlige seiersdagsparaden på Den røde plass.\n\n«Seierherrenes store bragd inspirerer soldatene som i...",
-      "image": "https://images.unsplash.com/photo-1615758369849-110c9ae725ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgzMTg0Nzl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/putin-sier-russiske-soldater-kjemper-mot-en-aggressiv-styrke-stottet-av-nato-1.17877714",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-09T09:21:19.892Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778318478242.6248,
-      "title": "«Mot i brøstet»-skaperen Tore Ryen er død",
-      "slug": "mot-i-brstetskaperen-tore-ryen-er-dd",
-      "content": "Den norske regissøren, TV-produsenten og manusforfatteren Tore Ryen døde fredag.\n\n– Det er med stor sorg at familien meddeler at Tore Ryen er død, 79 år gammel, skriver familien i en epost til NTB.\n\nRyen har en lang karriere i norsk underholdningsliv bak seg. Både fra revy-scenen, radio og ikke minst TV.\n\nFørst NRK fra midten av 1960 tallet, og så TV 2 fra starten i 1992.\n\nRyen er mest kjent som skaperen av de norske humorseriene «Karl & Co» og «Mot i brøstet».\n\n«Mot i brøstet» ble sendt på TV2 fra 1993 til 1997.\n\nRyen har blant annet vunnet Gullrutens fagpris i 2001 og Komiprisens fagpris året etter.\n\nTV-serier\n\nNotiser og anmeldelser av TV-serier. Se alle NRKs TV-serier i NRK TV, eller les anmeldelser av TV-serier her: Filmpolitiet om TV-serier",
-      "excerpt": "Den norske regissøren, TV-produsenten og manusforfatteren Tore Ryen døde fredag.\n\n– Det er med stor sorg at familien meddeler at Tore Ryen er død, 79 år gammel, skriver familien i en epost til NTB.\n\nRyen har en lang karriere i norsk underholdningsliv bak seg. Både fra revy-scenen, radio og ikke...",
-      "image": "https://images.unsplash.com/photo-1580990695461-471b8e43e767?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgzMTg0Nzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/_mot-i-brostet_-skaperen-tore-ryen-er-dod-1.17877728",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-09T09:21:18.242Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1095,
+    "totalFetched": 1098,
     "totalPublished": 77,
-    "lastFetch": "2026-05-11T07:43:38.555Z",
+    "lastFetch": "2026-05-11T11:25:12.087Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
