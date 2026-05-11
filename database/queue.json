@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1778522157546.693,
+      "title": "Trump lover billigere biff og bensin",
+      "slug": "trump-lover-billigere-biff-og-bensin",
+      "content": "President Donald Trump sier at han vil kutte den føderale avgiften på bensin for å dempe folks misnøye med økt pumpepris.\n\nDen føderale avgiften på bensin i USA er nå på ca. 50 øre literen, mens den for diesel er i underkant av 70 øre literen, skriver NTB.\n\nI tillegg vil Trump midlertidig redusere importtollen på kjøtt.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.",
+      "excerpt": "President Donald Trump sier at han vil kutte den føderale avgiften på bensin for å dempe folks misnøye med økt pumpepris.\n\nDen føderale avgiften på bensin i USA er nå på ca. 50 øre literen, mens den for diesel er i underkant av 70 øre literen, skriver NTB.\n\nI tillegg vil Trump midlertidig redusere...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-lover-billigere-biff-og-bensin-1.17880158",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-11T17:55:57.546Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778522156065.7163,
+      "title": "Amnesty: Over 100 drept i flyangrep mot marked i Nigeria",
+      "slug": "amnesty-over-100-drept-i-flyangrep-mot-marked-i-nigeria",
+      "content": "Det nigerianske militæret har drept minst 72 personer i et luftangrep mot et marked i delstaten Zamfara søndag, opplyser en lokal leder til nyhetsbyrået AFP.\n\nAmnesty International sin avdeling i Nigeria skriver på X at minst 100 sivile ble drept i angrepet.\n\n– Å gjennomføre luftangrep er ikke en legitim metode for lovhåndhevelse etter noen standard. En slik hensynsløs bruk av dødelig makt er ulovlig, opprørende og blottlegger det nigerianske militærets manglende respekt for siviles liv.\n\nMarkedet som ble angrepet kontrolleres angivelig av kriminelle gjenger.\n\nNigeria\n\nNigeria er både den største økonomien og det mest folkerike landet i Afrika med en befolkning på over 200 millioner. Landet er et demokrati, men er preget av ulikhet. Nord i Nigeria skaper islamistgruppen Boko Haram stor uro.",
+      "excerpt": "Det nigerianske militæret har drept minst 72 personer i et luftangrep mot et marked i delstaten Zamfara søndag, opplyser en lokal leder til nyhetsbyrået AFP.\n\nAmnesty International sin avdeling i Nigeria skriver på X at minst 100 sivile ble drept i angrepet.\n\n– Å gjennomføre luftangrep er ikke en...",
+      "image": "https://images.unsplash.com/photo-1681798200567-2437430eb57b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg1MjIxNTZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/amnesty_-over-100-drept-i-flyangrep-mot-marked-i-nigeria-1.17880136",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-11T17:55:56.065Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778522154591.733,
+      "title": "Kjemperubin funnet i Myanmar",
+      "slug": "kjemperubin-funnet-i-myanmar",
+      "content": "En rubin på hele 11.000 karat er funnet i Myanmar og en av de største som noensinne er funnet i landet.\n\nMyanmar er kjent for sine edelstener, men den 2,2 kilo tunge rubinen som ble gravd opp i Mogok-dalen i Mandalay-provinsen, er likevel noe utenom det vanlige.\n\nDen forrige rekorden ble satt i 1996 da en rubin på hele 21.450 karat ble funnet i det samme område. Den nye steinen regnes likevel som mer verdifull på grunn av «sin overlegne farge, klarhet og generelle kvalitet», heter det i omtalen. Verdien er imidlertid ikke anslått.\n\nMogok-rubinene er de dyreste i verden, og juveler av høyeste kvalitet oppnår priser på flere millioner dollar i det som er kjent for å være en svært lite regulert bransje. (NTB)\n\nMyanmar\n\nMyanmar har vært preget av kaos, kamper og uro etter at militæret grep makten i et kupp i februar 2021 og satte landets leder Aung San Suu Kyi i husarrest. Etter kuppet har det vært store folkelige protester.",
+      "excerpt": "En rubin på hele 11.000 karat er funnet i Myanmar og en av de største som noensinne er funnet i landet.\n\nMyanmar er kjent for sine edelstener, men den 2,2 kilo tunge rubinen som ble gravd opp i Mogok-dalen i Mandalay-provinsen, er likevel noe utenom det vanlige.\n\nDen forrige rekorden ble satt i...",
+      "image": "https://images.unsplash.com/photo-1743179401043-8dae2a160e57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg1MjIxNTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/kjemperubin-funnet-i-myanmar-1.17880169",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-11T17:55:54.592Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778511518154.2366,
       "title": "Person påkjørt av tog: Stengt Tønsberg-Skoppum",
       "slug": "person-pkjrt-av-tog-stengt-tnsbergskoppum",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-09T14:53:01.301Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778338378666.002,
-      "title": "Russisk seiersmarkering på Svalbard vekker reaksjoner",
-      "slug": "russisk-seiersmarkering-p-svalbard-vekker-reaksjoner",
-      "content": "Russland markerte seiersdagen på Svalbard fredag kveld med russiske og sovjetiske flagg og ungdommer i marineuniformer, skriver Aftenposten\n\nRedaktør i Barents Observer, Thomas Nilsen, omtaler markeringen som en bevisst provokasjon, og mener Russland tester hvor langt de kan gå på norsk territorium.\n\nSvalbardtraktaten forbyr militær virksomhet på øygruppen. Spesialrådgiver ved Forsvarets forskningsinstitutt, Eskil Grendahl Sivertsen, sier til avisa at hendelsen føyer seg inn i et mønster av russisk selvhevdelse.\n\n– Slik utfordrer de Norges suverenitet med hendelser av lav intensitet og lav risiko. Og slik tester de norske reaksjoner på dette.\n\nSeremonien ble ledet av Russlands generalkonsul i Barentsburg og fant sted ved en norsk krigskanon uten historisk tilknytning til Sovjetunionen.",
-      "excerpt": "Russland markerte seiersdagen på Svalbard fredag kveld med russiske og sovjetiske flagg og ungdommer i marineuniformer, skriver Aftenposten\n\nRedaktør i Barents Observer, Thomas Nilsen, omtaler markeringen som en bevisst provokasjon, og mener Russland tester hvor langt de kan gå på norsk...",
-      "image": null,
-      "original_url": "https://www.nrk.no/tromsogfinnmark/russisk-seiersmarkering-pa-svalbard-vekker-reaksjoner-1.17877988",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-09T14:52:58.666Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778332936681.1917,
-      "title": "Voldshendelse i Oslo – Én person til sykehus",
-      "slug": "voldshendelse-i-oslo-n-person-til-sykehus",
-      "content": "Oslo-politiet er på Hauketo stasjon etter melding om slagsmål.\n\nDa politiet kom til stedet, lå én person på bakken.\n\n– Det fremstår som flere personer har gått til angrep på vedkommende, sier operasjonsleder Eirik Sannes.\n\nPersonen er kjørt til sykehus fordi det er mistanke om hodeskader.\n\nPolitiet fikk flere meldinger om hendelsen klokken 14.06.\n\nKlokken 14.29 forteller politiet at de har kontroll på flere personer som de knytter til hendelsen.\n\nOperasjonslederen opplyser at voldshendelsen ikke har noe med kveldens cupfinale å gjøre.",
-      "excerpt": "Oslo-politiet er på Hauketo stasjon etter melding om slagsmål.\n\nDa politiet kom til stedet, lå én person på bakken.\n\n– Det fremstår som flere personer har gått til angrep på vedkommende, sier operasjonsleder Eirik Sannes.\n\nPersonen er kjørt til sykehus fordi det er mistanke om hodeskader.\n\nPolitiet...",
-      "image": "https://images.unsplash.com/photo-1696693016655-6423e810bab7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgzMzI5MzZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/voldshendelse-i-oslo-_-en-person-til-sykehus-1.17877891",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-09T13:22:16.681Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778332935078.1533,
-      "title": "Storbritannia vil sende krigsskip til Midtøsten",
-      "slug": "storbritannia-vil-sende-krigsskip-til-midtsten",
-      "content": "Storbritannia sier de vil sende et krigsskip til Midtøsten for å være klare for eventuelle oppdrag i Hormuzstredet, skriver AFP.\n\nIfølge forsvarsdepartementet i landet er det snakk om krigsskipet «HMS Dragon».\n\n– Utstasjoneringen av HMS Dragon er en del av en fornuftig planlegging som skal sikre at Storbritannia er klare, som en del av en flernasjonal koalisjon ledet i fellesskap av Storbritannia og Frankrike, til å sikre stredet når forholdene tillater det, heter det i en uttalelse fra departementet til AFP.\n\nPresidentkontoret i Frankrike har tidligere uttalt at en internasjonal marinestyrke under fransk-britisk ledelse kan overta sikkerheten for skipstrafikken i det viktige stredet.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Storbritannia sier de vil sende et krigsskip til Midtøsten for å være klare for eventuelle oppdrag i Hormuzstredet, skriver AFP.\n\nIfølge forsvarsdepartementet i landet er det snakk om krigsskipet «HMS Dragon».\n\n– Utstasjoneringen av HMS Dragon er en del av en fornuftig planlegging som skal sikre at...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/storbritannia-vil-sende-krigsskip-til-midtosten-1.17877910",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-09T13:22:15.078Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1101,
+    "totalFetched": 1104,
     "totalPublished": 77,
-    "lastFetch": "2026-05-11T14:58:41.645Z",
+    "lastFetch": "2026-05-11T17:55:59.149Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
