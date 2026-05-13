@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1778683154494.079,
+      "title": "Tok ladegrep på toget - ble pågrepet",
+      "slug": "tok-ladegrep-p-toget-ble-pgrepet",
+      "content": "Etter å ha hørt noe som lignet et ladegrep, varslet en togpassasjer på Gjøvik politiet.\n\nPolitiet rykket ut og fant en mann som innrømmet å ha tatt frem en pistol på toget og tatt et ladegrep. Det var ikke ammunisjon i våpenet. Mannen er anmeldt, og våpenet beslaglagt.\n\nMeldingen kom til politiet klokken 14.30, og mannen skal ha forklart til politiet at han skulle undersøke nærmere en pistol han hadde kjøpt.\n\nVåpenregler\n\nI perioden januar – mai 2023 er det våpenamnesti i Norge. det betyr at du kan innlevere uregistrerte våpen uten å risikere straff.",
+      "excerpt": "Etter å ha hørt noe som lignet et ladegrep, varslet en togpassasjer på Gjøvik politiet.\n\nPolitiet rykket ut og fant en mann som innrømmet å ha tatt frem en pistol på toget og tatt et ladegrep. Det var ikke ammunisjon i våpenet. Mannen er anmeldt, og våpenet beslaglagt.\n\nMeldingen kom til politiet...",
+      "image": null,
+      "original_url": "https://www.nrk.no/innlandet/tok-ladegrep-pa-toget---ble-pagrepet-1.17883313",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-13T14:39:14.494Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778683153054.526,
+      "title": "Flyselskap gjenopptar flyvninger til Israel",
+      "slug": "flyselskap-gjenopptar-flyvninger-til-israel",
+      "content": "Wizz Air gjenopptar flyvninger til og fra Tel Aviv den 28. mai, og uttaler at dette er et viktig skritt for å koble Israel sammen med sentrale europeiske destinasjoner igjen.\n\nWizz Air og de fleste andre utenlandske flyselskaper stanset flyvningene etter USA- og Israel-ledede luftangrep mot Iran.\n\nMed en skjør våpenhvile på plass, har enkelte flyselskaper nå gjenopptatt flyvningene til Israel.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Wizz Air gjenopptar flyvninger til og fra Tel Aviv den 28. mai, og uttaler at dette er et viktig skritt for å koble Israel sammen med sentrale europeiske destinasjoner igjen.\n\nWizz Air og de fleste andre utenlandske flyselskaper stanset flyvningene etter USA- og Israel-ledede luftangrep mot...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/flyselskap-gjenopptar-flyvninger-til-israel--1.17883315",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-13T14:39:13.054Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778683151601.7153,
+      "title": "Barn drept i nye israelske angrep mot Libanon",
+      "slug": "barn-drept-i-nye-israelske-angrep-mot-libanon",
+      "content": "Tolv mennesker ble drept, blant dem to barn, i en rekke israelske angrep i Libanon onsdag, samtidig som det pågår USA-ledede samtaler mellom Israel og Libanon.\n\nIsrael gjennomførte blant annet tre droneangrep mot biler rundt 20 kilometer sør for Libanons hovedstad Beirut.\n\nÅtte mennesker ble ifølge Libanons helsedepartement drept i disse angrepene, blant dem to barn.\n\nEt fjerde angrep drepte en person utenfor kystbyen Saida, som ligger 40 kilometer sør for Beirut.\n\nTre mennesker ble også drept i israelske luftangrep mot biler sør for byen Tyr, opplyser helsedepartementet.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
+      "excerpt": "Tolv mennesker ble drept, blant dem to barn, i en rekke israelske angrep i Libanon onsdag, samtidig som det pågår USA-ledede samtaler mellom Israel og Libanon.\n\nIsrael gjennomførte blant annet tre droneangrep mot biler rundt 20 kilometer sør for Libanons hovedstad Beirut.\n\nÅtte mennesker ble ifølge...",
+      "image": "https://images.unsplash.com/photo-1567117438762-81cf32c54a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg2ODMxNTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/barn-drept-i-nye-israelske-angrep-mot-libanon-1.17883355",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-13T14:39:11.601Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778668200708.2036,
       "title": "Massivt droneangrep mot Ukraina",
       "slug": "massivt-droneangrep-mot-ukraina",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-11T03:43:08.765Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778453479822.4604,
-      "title": "Storbritannia og Frankrike kaller inn til krisemøte om Hormuzstredet",
-      "slug": "storbritannia-og-frankrike-kaller-inn-til-krisemte-om-hormuz",
-      "content": "Storbritannia og Frankrike skal være vertskap for et flernasjonalt forsvarsministermøte førstkommende tirsdag. Formålet er å legge militære planer for å sikre den internasjonale skipsfarten og gjenopprette handelsflyten gjennom det strategisk viktige Hormuzstredet. Over 40 nasjoner skal delta på møtet, melder nyhetsbyrået AFP.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Storbritannia og Frankrike skal være vertskap for et flernasjonalt forsvarsministermøte førstkommende tirsdag. Formålet er å legge militære planer for å sikre den internasjonale skipsfarten og gjenopprette handelsflyten gjennom det strategisk viktige Hormuzstredet. Over 40 nasjoner skal delta på...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/storbritannia-og-frankrike-kaller-inn-til-krisemote-om-hormuzstredet-1.17878931",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-10T22:51:19.822Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778446292295.6658,
-      "title": "Trump om Iran-forslag: – Fullstendig uakseptabelt",
-      "slug": "trump-om-iranforslag-fullstendig-uakseptabelt",
-      "content": "USAs president Donald Trump sier at han nettopp har lest Irans motforslag til en avtale for å få slutt på krigen.\n\n– Jeg liker det ikke – FULLSTENDIG UAKSEPTABELT! skriver han på Truth Social, uten å gå nærmere inn på deltajene i svaret fra Iran.\n\nTidligere søndag ble det meldt at Iran hadde levert et motforslag til USAs utkast til en avtale for å få slutt på krigen. Irans forslag er formidlet til USA via pakistanske meglere.\n\n– På dette stadiet vil forhandlingene ta sikte på å ende krigen, sa en talsperson for Irans utenriksdepartement ifølge det iransk-statlige nyhetsbyrået IRNA.\n\nDonald Trump skriver at han ikke liker Irans motforslag til en avtale for å få slutt på krigen.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "USAs president Donald Trump sier at han nettopp har lest Irans motforslag til en avtale for å få slutt på krigen.\n\n– Jeg liker det ikke – FULLSTENDIG UAKSEPTABELT! skriver han på Truth Social, uten å gå nærmere inn på deltajene i svaret fra Iran.\n\nTidligere søndag ble det meldt at Iran hadde levert...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump-om-iran-forslag_-_-fullstendig-uakseptabelt-1.17878607",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-10T20:51:32.296Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778440041916.9624,
-      "title": "Latvias forsvarsminister går av etter at ukrainsk drone traff oljeanlegg",
-      "slug": "latvias-forsvarsminister-gr-av-etter-at-ukrainsk-drone-traff",
-      "content": "Latvias forsvarsminister Andris Spruds gikk av søndag etter at to ukrainske droner fløy inn i latvisk luftrom fra Russland og traff flere oljelagre.\n\nBeslutningen kom etter at statsminister Evika Silina tidligere på dagen krevde at han trakk seg fordi landets anti-dronesystemer ikke hadde blitt aktivert raskt nok.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Latvias forsvarsminister Andris Spruds gikk av søndag etter at to ukrainske droner fløy inn i latvisk luftrom fra Russland og traff flere oljelagre.\n\nBeslutningen kom etter at statsminister Evika Silina tidligere på dagen krevde at han trakk seg fordi landets anti-dronesystemer ikke hadde blitt...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/latvias-forsvarsminister-gar-av-etter-at-ukrainsk-drone-traff-oljeanlegg-1.17878743",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-10T19:07:21.916Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1137,
+    "totalFetched": 1140,
     "totalPublished": 77,
-    "lastFetch": "2026-05-13T10:30:03.101Z",
+    "lastFetch": "2026-05-13T14:39:16.425Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
