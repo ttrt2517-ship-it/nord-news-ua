@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1778713569434.6646,
+      "title": "Partene i bryggerinæringen mekler på overtid",
+      "slug": "partene-i-bryggerinringen-mekler-p-overtid",
+      "content": "Partene i bryggerinæringen mekler nå på overtid, bekrefter Riksmeklerens kontor til NRK.\n\nHensikten er å bli enige om en avtale og dermed unngå en streik.\n\nDet er NHO Mat og drikke og Norsk Nærings- og Nytelsesmiddelarbeiderforbund som mekler hos Riksmekleren.\n\nOm ikke meklingen fører fram, kan øl- og bruskranene gå tørre midt i 17. mai-feiringen. Flere utesteder har allerede fylt opp lagrene.",
+      "excerpt": "Partene i bryggerinæringen mekler nå på overtid, bekrefter Riksmeklerens kontor til NRK.\n\nHensikten er å bli enige om en avtale og dermed unngå en streik.\n\nDet er NHO Mat og drikke og Norsk Nærings- og Nytelsesmiddelarbeiderforbund som mekler hos Riksmekleren.\n\nOm ikke meklingen fører fram, kan øl...",
+      "image": "https://images.unsplash.com/photo-1726079667649-6668ecea5cc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg3MTM1Njl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/partene-i-bryggerinaeringen-mekler-pa-overtid-1.17883763",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-13T23:06:09.434Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778707627122.4446,
       "title": "Ankar forvaringsdom etter påstandar om fleire valdtekter av barn",
       "slug": "ankar-forvaringsdom-etter-pstandar-om-fleire-valdtekter-av-b",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-11T11:25:09.589Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778498708130.0469,
-      "title": "EU normaliserer handelsforholdet til Syria",
-      "slug": "eu-normaliserer-handelsforholdet-til-syria",
-      "content": "Det europeiske råd kunngjorde mandag at de hadde opphevet den delvise suspensjonen av handelssamarbeidet mellom EU og Syria.\n\nSamarbeidsavtalen mellom Det europeiske økonomiske fellesskap, populært kalt Fellesmarkedet på norsk, og Syria, ble delvis suspendert under den syriske borgerkrigen.\n\nNå oppheves suspensjonen, og dermed både styrkes det bilaterale forholdet mellom EU og Syria, og handelsforholdet blir nærmere normalt.\n\nSyria\n\n8. desember 2024 rykket opprørsstyrker inn i hovedstaden Damaskus og styrtet Assad-regimet, etter at Bashar al-Assad hadde vært ved makten i 25 år.",
-      "excerpt": "Det europeiske råd kunngjorde mandag at de hadde opphevet den delvise suspensjonen av handelssamarbeidet mellom EU og Syria.\n\nSamarbeidsavtalen mellom Det europeiske økonomiske fellesskap, populært kalt Fellesmarkedet på norsk, og Syria, ble delvis suspendert under den syriske borgerkrigen.\n\nNå...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/eu-normaliserer-handelsforholdet-til-syria-1.17879479",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-11T11:25:08.130Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1146,
+    "totalFetched": 1147,
     "totalPublished": 77,
-    "lastFetch": "2026-05-13T21:27:09.941Z",
+    "lastFetch": "2026-05-13T23:06:12.066Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
