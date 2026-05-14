@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1778741238141.9707,
+      "title": "To drepne i russiske angrep mot Ukraina",
+      "slug": "to-drepne-i-russiske-angrep-mot-ukraina",
+      "content": "Minst ein person er drepen og 16 er såra etter eit omfattande russisk luftangrep mot Kyiv i Ukraina natt til torsdag, melder AFP.\n\nFleire bustadblokker og sivil infrastruktur fekk skadar i angrepa.\n\nOgså i Zaporizjzja-regionen søraust i Ukraina er ein person drepen i eit angrep natt til torsdag\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Minst ein person er drepen og 16 er såra etter eit omfattande russisk luftangrep mot Kyiv i Ukraina natt til torsdag, melder AFP.\n\nFleire bustadblokker og sivil infrastruktur fekk skadar i angrepa.\n\nOgså i Zaporizjzja-regionen søraust i Ukraina er ein person drepen i eit angrep natt til...",
+      "image": "https://images.unsplash.com/photo-1725751070169-a298ea3501ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg3NDEyMzh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-drepne-i-russiske-angrep-mot-ukraina-1.17883788",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-14T06:47:18.141Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778741236396.1353,
+      "title": "Reuters: Zelenskyjs tidligere stabssjef Andrij Jermak er pågrepet – siktet for hvitvasking",
+      "slug": "reuters-zelenskyjs-tidligere-stabssjef-andrij-jermak-er-pgre",
+      "content": "Ukrainas president Volodymyr Zelenskyjs tidligere stabssjef Andrij Jermak er pågrepet, siktet for hvitvasking av penger.\n\nNyhetsbyrået Reuters melder at det er Ukrainas antikorrupsjonsdomstol som har tatt beslutningen om pågripelsen.\n\nJermak har tidligere avvist korrupsjonsanklagene mot ham.\n\nUkraina\n\nUkraina er et land i Europa som grenser til Russland, Belarus, Polen, Moldova og Romania. Landet har nær 38 millioner innbyggere, ifølge data fra FN. I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina».",
+      "excerpt": "Ukrainas president Volodymyr Zelenskyjs tidligere stabssjef Andrij Jermak er pågrepet, siktet for hvitvasking av penger.\n\nNyhetsbyrået Reuters melder at det er Ukrainas antikorrupsjonsdomstol som har tatt beslutningen om pågripelsen.\n\nJermak har tidligere avvist korrupsjonsanklagene mot...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/reuters_-zelenskyjs-tidligere-stabssjef-andrij-jermak-er-pagrepet-_-siktet-for-hvitvasking-1.17883795",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-14T06:47:16.396Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778741234671.277,
+      "title": "To på sykehus etter brann i Bamble: Skal avhøres",
+      "slug": "to-p-sykehus-etter-brann-i-bamble-skal-avhres",
+      "content": "I natt fikk politiet melding om en brann i Bamble. Den ble raskt slukket, men to personer ble sendt på sykehus for behandling.\n\n– De må bli ferdig behandlet før vi kan avhøre de, sier operasjonsleder i politiet Lise Bjørnsund til NRK.\n\nPolitiet vet foreløpig ikke hva som er årsaken til brannen.\n\nDet ble sendt en luftambulanse til stedet, som brøt oppdraget da de skadde ble kjørt til sykehus.",
+      "excerpt": "I natt fikk politiet melding om en brann i Bamble. Den ble raskt slukket, men to personer ble sendt på sykehus for behandling.\n\n– De må bli ferdig behandlet før vi kan avhøre de, sier operasjonsleder i politiet Lise Bjørnsund til NRK.\n\nPolitiet vet foreløpig ikke hva som er årsaken til...",
+      "image": "https://images.unsplash.com/photo-1659424765812-c2932538a99a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg3NDEyMzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/to-pa-sykehus-etter-brann-i-bamble_-skal-avhores-1.17883801",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-14T06:47:14.671Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778729834389.178,
       "title": "Alle reddet etter flystyrt i havet utenfor Florida-kysten",
       "slug": "alle-reddet-etter-flystyrt-i-havet-utenfor-floridakysten",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-11T17:55:56.065Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778522154591.733,
-      "title": "Kjemperubin funnet i Myanmar",
-      "slug": "kjemperubin-funnet-i-myanmar",
-      "content": "En rubin på hele 11.000 karat er funnet i Myanmar og en av de største som noensinne er funnet i landet.\n\nMyanmar er kjent for sine edelstener, men den 2,2 kilo tunge rubinen som ble gravd opp i Mogok-dalen i Mandalay-provinsen, er likevel noe utenom det vanlige.\n\nDen forrige rekorden ble satt i 1996 da en rubin på hele 21.450 karat ble funnet i det samme område. Den nye steinen regnes likevel som mer verdifull på grunn av «sin overlegne farge, klarhet og generelle kvalitet», heter det i omtalen. Verdien er imidlertid ikke anslått.\n\nMogok-rubinene er de dyreste i verden, og juveler av høyeste kvalitet oppnår priser på flere millioner dollar i det som er kjent for å være en svært lite regulert bransje. (NTB)\n\nMyanmar\n\nMyanmar har vært preget av kaos, kamper og uro etter at militæret grep makten i et kupp i februar 2021 og satte landets leder Aung San Suu Kyi i husarrest. Etter kuppet har det vært store folkelige protester.",
-      "excerpt": "En rubin på hele 11.000 karat er funnet i Myanmar og en av de største som noensinne er funnet i landet.\n\nMyanmar er kjent for sine edelstener, men den 2,2 kilo tunge rubinen som ble gravd opp i Mogok-dalen i Mandalay-provinsen, er likevel noe utenom det vanlige.\n\nDen forrige rekorden ble satt i...",
-      "image": "https://images.unsplash.com/photo-1743179401043-8dae2a160e57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg1MjIxNTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/kjemperubin-funnet-i-myanmar-1.17880169",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-11T17:55:54.592Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778511518154.2366,
-      "title": "Person påkjørt av tog: Stengt Tønsberg-Skoppum",
-      "slug": "person-pkjrt-av-tog-stengt-tnsbergskoppum",
-      "content": "Nødetatene har rykket ut etter melding om at en person er påkjørt av toget.\n\n– Det jobbes på stedet av samtlige nødetater og skal ivareta involverte og vitner, ifølge operasjonsleder Ståle Olstad Fuglaas i Sør-Øst politidistrikt.\n\nVy opplyser at togtrafikken mellom Tønsberg og Skoppum er stengt. Reisende må regne med forsinkelser og at noen tog kan bli innstilt.  Vy opplyser at de har bestilt 15 busser.\n\nNødetatene har rykket ut etter at en person skal være påkjørt. Togtrafikken er stanset.",
-      "excerpt": "Nødetatene har rykket ut etter melding om at en person er påkjørt av toget.\n\n– Det jobbes på stedet av samtlige nødetater og skal ivareta involverte og vitner, ifølge operasjonsleder Ståle Olstad Fuglaas i Sør-Øst politidistrikt.\n\nVy opplyser at togtrafikken mellom Tønsberg og Skoppum er stengt....",
-      "image": "https://images.unsplash.com/photo-1691414203402-c8b329585ebc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg1MTE1MTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/person-pakjort-av-tog_-stengt-tonsberg-skoppum-1.17879956",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-11T14:58:38.154Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778511516512.3408,
-      "title": "VG: Det Norske Jentekor setter samarbeidet med kronprinsessen på pause",
-      "slug": "vg-det-norske-jentekor-setter-samarbeidet-med-kronprinsessen",
-      "content": "Det Norske Jentekor setter samarbeidet med kronprinsesse Mette-Marit på pause, skriver VG.\n\n– Vi kommer til å fortsette å ha det på pause til saken blir behandlet på neste års årsmøte, opplyser daglig leder Ingrid S. Østvang til avisen.\n\n– I pausen er det ingen aktive bindinger mellom oss og Kronprinsessen. Vi skal ha våre tradisjonelle julekonserter på Slottet, men disse er ikke knyttet til kongelige beskytterskap, sier Østvang videre.\n\nKronprinsessen har vært korets høyeste beskytter siden 2017.\n\nEtter at kronprinsessens omfattende kontakt med seksualforbryter Jeffrey Epstein ble kjent i januar, har en rekke organisasjoner valgt å avslutte samarbeidet med henne.",
-      "excerpt": "Det Norske Jentekor setter samarbeidet med kronprinsesse Mette-Marit på pause, skriver VG.\n\n– Vi kommer til å fortsette å ha det på pause til saken blir behandlet på neste års årsmøte, opplyser daglig leder Ingrid S. Østvang til avisen.\n\n– I pausen er det ingen aktive bindinger mellom oss og...",
-      "image": "https://images.unsplash.com/photo-1586711290195-8e73d2758c77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg1MTE1MTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/vg_-det-norske-jentekor-setter-samarbeidet-med-kronprinsessen-pa-pause-1.17879961",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-11T14:58:36.512Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1149,
+    "totalFetched": 1152,
     "totalPublished": 77,
-    "lastFetch": "2026-05-14T03:37:17.038Z",
+    "lastFetch": "2026-05-14T06:47:20.647Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
