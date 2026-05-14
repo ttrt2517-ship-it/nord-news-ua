@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1778799507636.8562,
+      "title": "Ny runde med samtaler mellom Israel og Libanon",
+      "slug": "ny-runde-med-samtaler-mellom-israel-og-libanon",
+      "content": "Få dager før våpenhvilen med Hizbollah utløper, møtte Israel Libanon til nye samtaler.\n\nEn amerikansk tjenestemann kaller dagen produktiv og positiv.\n\nLibanesiske tjenestemenn håper de to planlagte dagene med forhandlinger vil føre til en ny våpenhvile og bane vei for å takle vanskelige spørsmål som avvæpning av Hizbollah og israelsk tilbaketrekking fra Sør-Libanon.\n\nTrump-administrasjonen har presset på for å få til et gjennombrudd i forholdet mellom Israel og Libanon.\n\nIranskstøttede Hizbollah er imidlertid ikke part i samtalene og har høylytt motsatt seg at Libanon snakker direkte med israelerne.\n\nTross våpenhvilen USA forhandlet fram i midten av mars, har Israel og Hizbollah beskutt hverandre nesten daglig over grensen mellom de to landene.\n\nIsrael har også okkupert deler av det sørlige Libanon.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
+      "excerpt": "Få dager før våpenhvilen med Hizbollah utløper, møtte Israel Libanon til nye samtaler.\n\nEn amerikansk tjenestemann kaller dagen produktiv og positiv.\n\nLibanesiske tjenestemenn håper de to planlagte dagene med forhandlinger vil føre til en ny våpenhvile og bane vei for å takle vanskelige spørsmål...",
+      "image": "https://images.unsplash.com/photo-1582073389612-c18eb815b0e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg3OTk1MDd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ny-runde-med-samtaler-mellom-israel-og-libanon-1.17884424",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-14T22:58:27.636Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778788127097.5852,
       "title": "Minst ti drept i russisk angrepsbølge mot Kyiv",
       "slug": "minst-ti-drept-i-russisk-angrepsblge-mot-kyiv",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-12T06:38:17.367Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778567893744.5684,
-      "title": "Senterpartiet: – Skuffet over budsjettpartnerne",
-      "slug": "senterpartiet-skuffet-over-budsjettpartnerne",
-      "content": "– Det viser i alle fall at det var godt rom i norsk økonomi for å kutte drivstoffutgiftene, sier finanspolitisk talsperson Bjørn Arild Gram i Senterpartiet.\n\nSenterpartiet sikret tidligere i vår flertall på Stortinget for kutt i drivstoffavgiftene.\n\n– Det var et helt nødvendig tiltak. Egentlig er jeg skuffet over at budsjettpartnerne våre ikke var med og så behovet for å ta nye grep når det brøt ut krig, med de konsekvensene det har for familieøkonomien og bedriftene, sier han.",
-      "excerpt": "– Det viser i alle fall at det var godt rom i norsk økonomi for å kutte drivstoffutgiftene, sier finanspolitisk talsperson Bjørn Arild Gram i Senterpartiet.\n\nSenterpartiet sikret tidligere i vår flertall på Stortinget for kutt i drivstoffavgiftene.\n\n– Det var et helt nødvendig tiltak. Egentlig er...",
-      "image": "https://images.unsplash.com/photo-1764628475233-b7a329a6f17b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg1Njc4OTN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/senterpartiet_-_-skuffet-over-budsjettpartnerne-1.17880499",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-12T06:38:13.744Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1163,
+    "totalFetched": 1164,
     "totalPublished": 77,
-    "lastFetch": "2026-05-14T21:12:09.019Z",
+    "lastFetch": "2026-05-14T22:58:30.319Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
