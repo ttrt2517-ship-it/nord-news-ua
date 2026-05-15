@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1778866815828.01,
+      "title": "Ebola-utbrudd har spredd seg til Uganda",
+      "slug": "ebolautbrudd-har-spredd-seg-til-uganda",
+      "content": "Et utbrudd av ebola har spredd seg fra Kongo til nabolandet Uganda. Det melder helsedepartementet i Uganda.\n\nI Kongo er minst 60 mennesker døde i utbruddet, mens flere hundre kan være smittet.\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og Liberia. Etter at det store utbruddet var over, er det registrert flere sporadiske tilfeller av smitte.",
+      "excerpt": "Et utbrudd av ebola har spredd seg fra Kongo til nabolandet Uganda. Det melder helsedepartementet i Uganda.\n\nI Kongo er minst 60 mennesker døde i utbruddet, mens flere hundre kan være smittet.\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea...",
+      "image": "https://images.unsplash.com/photo-1611053307699-5f74280c0d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg4NjY4MTV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ebola-utbrudd-har-spredd-seg-til-uganda-1.17885699",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-15T17:40:15.828Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778866814190.4788,
+      "title": "Tapte søksmål mot Viggo Kristiansen",
+      "slug": "tapte-sksml-mot-viggo-kristiansen",
+      "content": "Tidligere Dagbladet-journalist Eivind Pedersen har ikke krav på betaling fra Viggo Kristiansen, for arbeidet Pedersen gjorde før gjenåpningen av Baneheia-saken\n\nDet kommer frem i en fersk dom fra Agder lagmannsrett, skriver Fædrelandsvennen.\n\nPedersen krevde over fire millioner kroner for rundt 3600 timers arbeid, men retten mener det ikke forelå noen avtale om betaling.\n\nPedersen må nå betale nær to millioner kroner til Kristiansen for advokatutgifter og andre kostnader etter behandling i både tingretten og lagmannsretten.\n\nDrapene i Baneheia\n\n19. mai 2000 ble Lena Sløgedal Paulsen (10) og Stine Sofie Sørstrønen (8) funnet voldtatt og drept i Baneheia. Jan Helge Andersen er nå dømt i lagmannsretten for å ha drept og voldtatt begge jentene på egenhånd.\nViggo Kristiansen ble frikjent i 2022.",
+      "excerpt": "Tidligere Dagbladet-journalist Eivind Pedersen har ikke krav på betaling fra Viggo Kristiansen, for arbeidet Pedersen gjorde før gjenåpningen av Baneheia-saken\n\nDet kommer frem i en fersk dom fra Agder lagmannsrett, skriver Fædrelandsvennen.\n\nPedersen krevde over fire millioner kroner for rundt...",
+      "image": "https://images.unsplash.com/photo-1661120458026-92d509c97805?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg4NjY4MTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/sorlandet/tapte-soksmal-mot-viggo-kristiansen-1.17885548",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-15T17:40:14.190Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778866812581.5942,
+      "title": "Ærespris til Travolta i Cannes",
+      "slug": "respris-til-travolta-i-cannes",
+      "content": "John Travolta mottok en æres-gullpalme under filmfestivalen i Cannes fredag.\n\n72-åringen fikk prisen for sin innsats for film gjennom karrieren.\n\nTravolta er i Cannes i forbindelse med premieren på «Propeller One-Way Night Coach», den første filmen han har regissert.\n\nFilm og serier\n\nInnhold om serier og film. Du finner alle anmeldelsene hos Filmpolitiet. Her finner du alle serier i NRK TV.\n\nFilmfestivalen i Cannes\n\nÅrets utgave av filmfestivalen i Cannes ble åpnet 13. mai. Norske «Affeksjonsverdi» er med i festivalens hovedkonkurranse og er blant 22 filmer som kan vinne Gullpalmen – en av filmverdenens gjeveste priser. Festivalen avsluttes 24. mai.",
+      "excerpt": "John Travolta mottok en æres-gullpalme under filmfestivalen i Cannes fredag.\n\n72-åringen fikk prisen for sin innsats for film gjennom karrieren.\n\nTravolta er i Cannes i forbindelse med premieren på «Propeller One-Way Night Coach», den første filmen han har regissert.\n\nFilm og serier\n\nInnhold om...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/aerespris-til-travolta-i-cannes-1.17885703",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-15T17:40:12.581Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778854270818.1052,
       "title": "Flere kjøretøy i alvorlig trafikkulykke i Oslo",
       "slug": "flere-kjrety-i-alvorlig-trafikkulykke-i-oslo",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-13T06:49:39.274Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778643472738.4402,
-      "title": "Australia skal delta i Hormuz-innsats",
-      "slug": "australia-skal-delta-i-hormuzinnsats",
-      "content": "Australia er blant landene som slutter seg til det planlagte oppdraget for å sikre skipstrafikken gjennom Hormuzstredet.\n\n– Australia er klar til å støtte en uavhengig og defensiv flernasjonal militær innsats, ledet av Storbritannia og Frankrike, så snart den er opprettet, sier Australias forsvarsminister Richard Marles i en uttalelse.\n\nDet australske bidraget skal være et overvåkingsfly.\n\nI går møttes rundt 40 land for å diskutere tiltak for å sikre fri ferdsel i Hormuzstredet.   (NTB)\n\nAustralia\n\nSosialdemokraten Anthony Albanese overtok som statsminister etter Scott Morrison etter valget 21. mai 2022. Albanese har lovet å trappe opp klimakampen, men han vil ikke love å stenge kullgruvene i landet.",
-      "excerpt": "Australia er blant landene som slutter seg til det planlagte oppdraget for å sikre skipstrafikken gjennom Hormuzstredet.\n\n– Australia er klar til å støtte en uavhengig og defensiv flernasjonal militær innsats, ledet av Storbritannia og Frankrike, så snart den er opprettet, sier Australias...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/australia-skal-delta-i-hormuz-innsats-1.17882185",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-13T03:37:52.738Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778643471195.8755,
-      "title": "Minst to drept i angrep mot Zelenskyjs hjemby",
-      "slug": "minst-to-drept-i-angrep-mot-zelenskyjs-hjemby",
-      "content": "Minst to mennesker ble drept i et russisk angrep mot Kryvyj Rih, hjembyen til Ukrainas president Volodymyr Zelenskyj, opplyser ukrainske myndigheter.\n\nYtterligere fire personer ble skal ha blitt skadet i angrepet, blant dem en ni måneder gammel jente, som er innlagt på sykehus. Tilstanden skal være kritisk.\n\n– Dette var et kynisk russisk droneangrep rettet mot en ordinær boligblokk i Kryvyj Rih, uten noe som helst militært formål, sier president Volodymyr Zelenskyj på X.\n\nRussland gjennomførte flere angrep mot Ukraina tirsdag etter at den korte våpenhvilen løp ut.   (NTB)\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Minst to mennesker ble drept i et russisk angrep mot Kryvyj Rih, hjembyen til Ukrainas president Volodymyr Zelenskyj, opplyser ukrainske myndigheter.\n\nYtterligere fire personer ble skal ha blitt skadet i angrepet, blant dem en ni måneder gammel jente, som er innlagt på sykehus. Tilstanden skal være...",
-      "image": "https://images.unsplash.com/photo-1599847740927-599426b94713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg2NDM0NzF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/minst-to-drept-i-angrep-mot-zelenskyjs-hjemby-1.17882186",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-13T03:37:51.196Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778643469601.7861,
-      "title": "Tek-topper på Trumps presidentfly",
-      "slug": "tektopper-p-trumps-presidentfly",
-      "content": "USAs president Donald Trump er på vei til Kina for å besøke president Xi Jinping.\n\nHan har med seg flere tek-topper på presidentflyet Air Force One:\n\nElon Musk og Nvidia-sjef Jensen Huang skal sitte på flyet til Beijing. Selskapene deres er sentrale i teknologikappløpet mellom Kina og USA.\n\nFlere andre næringslivsledere er invitert med på Kina-besøket.\n\nTrump varsler at han skal be Xi om å «åpne opp Kina» for handel.\n\nI tillegg ventes Iran-konflikten og forholdet til Taiwan å bli viktige temaer i hans samtaler med Xi.\n\nTrump skal besøke Kina fra 13. til 15. mai. Han besøkte også landet i 2017. Det var sist gang en amerikansk president besøkte stormaktsrivalen.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "USAs president Donald Trump er på vei til Kina for å besøke president Xi Jinping.\n\nHan har med seg flere tek-topper på presidentflyet Air Force One:\n\nElon Musk og Nvidia-sjef Jensen Huang skal sitte på flyet til Beijing. Selskapene deres er sentrale i teknologikappløpet mellom Kina og USA.\n\nFlere...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/tek-topper-pa-trumps-presidentfly-1.17882184",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-13T03:37:49.601Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1177,
+    "totalFetched": 1180,
     "totalPublished": 77,
-    "lastFetch": "2026-05-15T14:11:13.403Z",
+    "lastFetch": "2026-05-15T17:40:22.119Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
