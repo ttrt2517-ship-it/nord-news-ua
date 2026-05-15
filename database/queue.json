@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1778879020524.4802,
+      "title": "Oslo: Sigarett antente sengetøy",
+      "slug": "oslo-sigarett-antente-sengety",
+      "content": "Nødetatene er på Fredensborg i Oslo, der det er meldt om røykutvikling inne i en bolig.\n\nDet er en institusjon for rusavhengige i lokalene, ifølge politiet.\n\n– En sigarett har antent sengetøy. Politiet oppretter sak, skriver politiet i en oppdatering.",
+      "excerpt": "Nødetatene er på Fredensborg i Oslo, der det er meldt om røykutvikling inne i en bolig.\n\nDet er en institusjon for rusavhengige i lokalene, ifølge politiet.\n\n– En sigarett har antent sengetøy. Politiet oppretter sak, skriver politiet i en oppdatering.",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/oslo_-sigarett-antente-sengetoy--1.17885836",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-15T21:03:40.525Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778874078704.9514,
       "title": "Libanon: Tre helsearbeidere drept",
       "slug": "libanon-tre-helsearbeidere-drept",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-13T06:49:42.078Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778654980687.0586,
-      "title": "Russland: har skutt ned 286 ukrainske droner",
-      "slug": "russland-har-skutt-ned-286-ukrainske-droner",
-      "content": "Et gassanlegg står i brann etter nedfall fra droner i Krasnodar-regionen sør i landet.\n\nI følge russiske myndigheter skal det være skutt ned 286 ukrainske droner i løpet av natten.\n\nDet er foreløpig ikke rapportert om personskader som følge av angrepene.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Et gassanlegg står i brann etter nedfall fra droner i Krasnodar-regionen sør i landet.\n\nI følge russiske myndigheter skal det være skutt ned 286 ukrainske droner i løpet av natten.\n\nDet er foreløpig ikke rapportert om personskader som følge av angrepene.\n\nKrigen i Ukraina\n\nRussland invaderte Krim...",
-      "image": "https://images.unsplash.com/photo-1624719634868-d2089cc2fd8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg2NTQ5ODB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/russland_-har-skutt-ned-286-ukrainske-droner-1.17882241",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-13T06:49:40.687Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1181,
+    "totalFetched": 1182,
     "totalPublished": 77,
-    "lastFetch": "2026-05-15T19:41:21.306Z",
+    "lastFetch": "2026-05-15T21:03:42.781Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
