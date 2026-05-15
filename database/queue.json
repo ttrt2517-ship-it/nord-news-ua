@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1778874078704.9514,
+      "title": "Libanon: Tre helsearbeidere drept",
+      "slug": "libanon-tre-helsearbeidere-drept",
+      "content": "Tre helsearbeidere ble drept i et israelsk angrep sør i Libanon fredag. Det melder libanesiske myndigheter, ifølge AFP.\n\nDe tre ble drept til tross for at det tidligere fredag kveld ble meldt at Israel og Libanon har forlenget våpenhvilen i 45 dager.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
+      "excerpt": "Tre helsearbeidere ble drept i et israelsk angrep sør i Libanon fredag. Det melder libanesiske myndigheter, ifølge AFP.\n\nDe tre ble drept til tross for at det tidligere fredag kveld ble meldt at Israel og Libanon har forlenget våpenhvilen i 45 dager.\n\nLibanon og Israel\n\nAngrepene mellom Israel og...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/libanon_-tre-helsearbeidere-drept-1.17885805",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-15T19:41:18.704Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778866815828.01,
       "title": "Ebola-utbrudd har spredd seg til Uganda",
       "slug": "ebolautbrudd-har-spredd-seg-til-uganda",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-13T06:49:40.687Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778654979274.289,
-      "title": "Tvinger regjeringen til å fortsette flystøtte",
-      "slug": "tvinger-regjeringen-til-fortsette-flysttte",
-      "content": "Et flertall på Stortingetet krever at regjeringen snur og opprettholder flytilbudet i Sør-Norge.  Disse rutene skal sikre et nødvendig flytilbud i distriktene.  Det ble sterke reaksjoner da regjeringen ville heve prisen på de statsstøttede flyreisene og redusere antallet turer.  Det blir pressekonferanse på Stortinget om dette litt over klokken 9 i dag.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
-      "excerpt": "Et flertall på Stortingetet krever at regjeringen snur og opprettholder flytilbudet i Sør-Norge.  Disse rutene skal sikre et nødvendig flytilbud i distriktene.  Det ble sterke reaksjoner da regjeringen ville heve prisen på de statsstøttede flyreisene og redusere antallet turer.  Det blir...",
-      "image": "https://images.unsplash.com/photo-1715700266217-1b049c7fe2b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg2NTQ5Nzl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/tvinger-regjeringen-til-a-fortsette-flystotte-1.17882293",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-13T06:49:39.274Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1180,
+    "totalFetched": 1181,
     "totalPublished": 77,
-    "lastFetch": "2026-05-15T17:40:22.119Z",
+    "lastFetch": "2026-05-15T19:41:21.306Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
