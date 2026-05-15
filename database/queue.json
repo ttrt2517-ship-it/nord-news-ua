@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1778828203917.2615,
+      "title": "Russland: Skjøt ned 355 ukrainske droner",
+      "slug": "russland-skjt-ned-355-ukrainske-droner",
+      "content": "Det er det russiske forsvarsdepartementet som melder dette fredag.\n\nTre personer skal ha blitt drept og 12 skadd i droneangrepene, som blant annet rammet en boligblokk og et industriområde i byen Ryazan, rundt 20 mil sørøst for Moskva. Det melder guvernøren i området. Det melder Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Det er det russiske forsvarsdepartementet som melder dette fredag.\n\nTre personer skal ha blitt drept og 12 skadd i droneangrepene, som blant annet rammet en boligblokk og et industriområde i byen Ryazan, rundt 20 mil sørøst for Moskva. Det melder guvernøren i området. Det melder Reuters.\n\nKrigen i...",
+      "image": "https://images.unsplash.com/photo-1624719634868-d2089cc2fd8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg4MjgyMDN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/russland_-skjot-ned-355-ukrainske-droner-1.17884532",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-15T06:56:43.917Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778828202366.9053,
+      "title": "Politiet: Trusselsituasjon på Askøy i Bergen",
+      "slug": "politiet-trusselsituasjon-p-asky-i-bergen",
+      "content": "Like før klokka åtte fredag morgon meldte politiet om ein trusselsituasjon på Strusshamn på Askøy.\n\nSituasjonen er førebels uoversiktleg, opplyser operasjonsleiar Knut Dahl-Michelsen i Vest politidistrikt.\n\n–Kvinne i 80-åra skadd etter det som skal vera trusselsituasjon og valdshending på Askøy.\n\nKrim og hendingar i Vestland\n\nDet siste frå politiloggen og andre hendingar i Vestland fylke.",
+      "excerpt": "Like før klokka åtte fredag morgon meldte politiet om ein trusselsituasjon på Strusshamn på Askøy.\n\nSituasjonen er førebels uoversiktleg, opplyser operasjonsleiar Knut Dahl-Michelsen i Vest politidistrikt.\n\n–Kvinne i 80-åra skadd etter det som skal vera trusselsituasjon og valdshending på...",
+      "image": "https://images.unsplash.com/photo-1732362129913-88a5a52958cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg4MjgyMDJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestland/politiet_-trusselsituasjon-pa-askoy-i-bergen-1.17884569",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-15T06:56:42.366Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778828200754.0225,
+      "title": "SSB: Rekordhøy oljeeksport i april",
+      "slug": "ssb-rekordhy-oljeeksport-i-april",
+      "content": "Norge eksporterte varer for 176,7 milliarder kroner i april. Det er en oppgang på hele 20,9 prosent fra april 2025, melder Statistisk sentralbyrå.\n\n– Konflikten i Midtøsten og blokaden av Hormuzstredet har ført til at oljeprisen steg ytterligere i april. Gjennomsnittlig oljepris i april er den høyeste siden juli 2022, sier Jan Olav Rørhus, seniorrådgiver i Statistisk sentralbyrå.\n\nI april ble det eksportert råolje til en verdi av 61,4 milliarder kroner, som er hele 86 prosent høyere enn april i fjor. Det er samtidig den høyeste eksportverdien noensinne.\n\nVerdien av fastlandseksporten falt imidlertid, både sammenlignet med april i fjor og mars i år.\n\nNorsk eksport\n\nNorge er en liten og åpen økonomi med lang tradisjon for handel med andre land. Eksporten er høy og har satt flere rekorder de siste årene. EU er vårt viktigste eksportmarked.",
+      "excerpt": "Norge eksporterte varer for 176,7 milliarder kroner i april. Det er en oppgang på hele 20,9 prosent fra april 2025, melder Statistisk sentralbyrå.\n\n– Konflikten i Midtøsten og blokaden av Hormuzstredet har ført til at oljeprisen steg ytterligere i april. Gjennomsnittlig oljepris i april er den...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ssb_-rekordhoy-oljeeksport-i-april-1.17884553",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-15T06:56:40.755Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778816424588.519,
       "title": "Russland: Én drept i ukrainsk droneangrep",
       "slug": "russland-n-drept-i-ukrainsk-droneangrep",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-12T14:30:08.082Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778596206356.852,
-      "title": "Flere statssekretærer i den britiske regjeringen trekker seg",
-      "slug": "flere-statssekretrer-i-den-britiske-regjeringen-trekker-seg",
-      "content": "Jess Phillips og Alex Davies-Jones er de siste statssekretærene som forlater regjeringen tirsdag, mens Keir Starmer tviholder på statsministerjobben.\n\nFra før har også Miatta Fahnbulleh meldt sin avgang.\n\nBåde Davies-Jones og Phillips meddelte fratredelsen i hvert sitt brev adressert til Starmer selv.\n\n«Vi hadde trengt å gjøre mer, og det er derfor med et svært tungt hjerte jeg føler at jeg ikke har noe annet valg enn å gå av».\n\nDet skriver Alex Davies-Jones i et brev adressert til Starmer, som ble publisert på X.\n\nSå langt ser det ut til at tre statssekretærer og seks rådgivere i Starmers regjering har trukket seg.",
-      "excerpt": "Jess Phillips og Alex Davies-Jones er de siste statssekretærene som forlater regjeringen tirsdag, mens Keir Starmer tviholder på statsministerjobben.\n\nFra før har også Miatta Fahnbulleh meldt sin avgang.\n\nBåde Davies-Jones og Phillips meddelte fratredelsen i hvert sitt brev adressert til Starmer...",
-      "image": "https://images.unsplash.com/photo-1667400867422-6a72ea761439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg1OTYyMDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-statssekretaerer-i-den-britiske-regjeringen-trekker-seg-1.17881513",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-12T14:30:06.356Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778596203918.807,
-      "title": "Italiener innlagt på sykehus med mistenkt hantavirus",
-      "slug": "italiener-innlagt-p-sykehus-med-mistenkt-hantavirus",
-      "content": "En italiensk mann med mistenkt hantavirus blir overført til et sykehus for infeksjonssykdommer i Roma for testing.\n\n25-åringen fra den sørlige regionen Calabria hadde blitt satt i karantene etter å ha reist med et fly fra det nederlandske selskapet KLM.\n\nHan reiste sammen med en kvinne som senere døde av en hantavirus-infeksjon, la ANSA til.\n\nHantavirus\n\nI april 2026 brøt det ut hantavirus blant passasjerer på cruiseskipet «Hondius». 10. mai ankom passasjerer fra 23 ulike nasjoner til Tenerife der de ble fraktet videre til sine respektive land.",
-      "excerpt": "En italiensk mann med mistenkt hantavirus blir overført til et sykehus for infeksjonssykdommer i Roma for testing.\n\n25-åringen fra den sørlige regionen Calabria hadde blitt satt i karantene etter å ha reist med et fly fra det nederlandske selskapet KLM.\n\nHan reiste sammen med en kvinne som senere...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/italiener-innlagt-pa-sykehus-med-mistenkt-hantavirus-1.17881599",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-12T14:30:03.919Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778582007742.2048,
-      "title": "Epstein-granskingen får 22 millioner kroner i driftstilskudd i år",
-      "slug": "epsteingranskingen-fr-22-millioner-kroner-i-driftstilskudd-i",
-      "content": "Stortinget har opprettet en egen kommisjon for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene.\n\nI tråd med et vedtak i Stortingets presidentskap foreslås det å bevilge 22 millioner kroner til denne nye posten for budsjettåret 2026.\n\nStatsbudsjettet 2026\n\nI oktober la regjeringa fram sitt forslag til statsbudsjett for 2026. 29. november ble Arbeiderpartiet, Senterpartiet og Rødt enige om et budsjettforslag. SV og MDG er ikke med på forslaget.",
-      "excerpt": "Stortinget har opprettet en egen kommisjon for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene.\n\nI tråd med et vedtak i Stortingets presidentskap foreslås det å bevilge 22 millioner kroner til denne nye posten for budsjettåret 2026.\n\nStatsbudsjettet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/epstein-granskingen-far-22-millioner-kroner-i-driftstilskudd-i-ar-1.17881027",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-12T10:33:27.742Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1167,
+    "totalFetched": 1170,
     "totalPublished": 77,
-    "lastFetch": "2026-05-15T03:40:26.840Z",
+    "lastFetch": "2026-05-15T06:56:46.443Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
