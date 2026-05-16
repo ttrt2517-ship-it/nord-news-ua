@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1778943484360.0728,
+      "title": "Kvinne dømt for uaktsomt bildrap i Asker",
+      "slug": "kvinne-dmt-for-uaktsomt-bildrap-i-asker",
+      "content": "En 26 år gammel kvinne er dømt til åtte måneders fengsel for å ha kjørt bil med tre passasjerer hengende ut av vinduene.\n\nI tingretten i fjor høst erkjente kvinnen straffskyld, og hun ble dømt til åtte måneders fengsel.\n\nNå har Borgarting lagmannsrett sagt seg enig i tingrettens avgjørelse og dermed besluttet å forkaste anken.\n\nUlykken skjedde på vei fra Oslo til Heggedal i Asker natt til 11. august 2024.",
+      "excerpt": "En 26 år gammel kvinne er dømt til åtte måneders fengsel for å ha kjørt bil med tre passasjerer hengende ut av vinduene.\n\nI tingretten i fjor høst erkjente kvinnen straffskyld, og hun ble dømt til åtte måneders fengsel.\n\nNå har Borgarting lagmannsrett sagt seg enig i tingrettens avgjørelse og...",
+      "image": "https://images.unsplash.com/photo-1715700266217-1b049c7fe2b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg5NDM0ODR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/kvinne-domt-for-uaktsomt-bildrap-i-asker-1.17886219",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-16T14:58:04.360Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778938007232.2666,
       "title": "SV om jordbruksoppgjeret",
       "slug": "sv-om-jordbruksoppgjeret",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-13T23:06:09.434Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778707627122.4446,
-      "title": "Ankar forvaringsdom etter påstandar om fleire valdtekter av barn",
-      "slug": "ankar-forvaringsdom-etter-pstandar-om-fleire-valdtekter-av-b",
-      "content": "Ein mann i 40-åra ankar dommen på forvaring i 10 1/2 for valdtekt av fleire barn under 14 år.\n\nMannen sin forsvarar, Sjur Engelsen Lange, seier til NRK at mannen ankar skuldspørsmålet, subsidiært utmålinga.\n\n– Reaksjonen med forvaring er for strent alt tatt i betraktning, seier Lange på vegne av klienten sin.\n\nMannen er dømd for seksuell omgang med barn også tidlegare, og Sunnmøre tingrett konkluderte nyleg med at aktiviteten retta mot barn var ekskalerande og at det difor var rett med ein forvaringsdom.\n\nHan blei også dømd til å betale nesten 800.000 kroner totalt til fleire av barna, og miste retten til å ha Snapchat og Whatsapp i fem år.\n\nMannen tok kontakt med hundrevis av barn på Snapchat. No er han dømd for valdtekt av fleire under 14 år.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
-      "excerpt": "Ein mann i 40-åra ankar dommen på forvaring i 10 1/2 for valdtekt av fleire barn under 14 år.\n\nMannen sin forsvarar, Sjur Engelsen Lange, seier til NRK at mannen ankar skuldspørsmålet, subsidiært utmålinga.\n\n– Reaksjonen med forvaring er for strent alt tatt i betraktning, seier Lange på vegne av...",
-      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg3MDc2Mjd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/mr/ankar-forvaringsdom-etter-pastandar-om-fleire-valdtekter-av-barn-1.17883741",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-13T21:27:07.122Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1195,
+    "totalFetched": 1196,
     "totalPublished": 77,
-    "lastFetch": "2026-05-16T13:26:50.200Z",
+    "lastFetch": "2026-05-16T14:58:06.377Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
