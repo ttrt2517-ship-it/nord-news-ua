@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1778924546085.8616,
+      "title": "Mann død etter haiangrep i Australia",
+      "slug": "mann-dd-etter-haiangrep-i-australia",
+      "content": "Den 38 år gamle mannen ble angrepet av en fire meter lang hvithai ved Rottnest Island på vestkysten av Australia. Det opplyser myndighetene i Vest-Australia til AFP.\n\nHan ble fløyet til sykehus etter angrepet, som skjedde lørdag formiddag ved 10-tiden lokal tid, men døde av skadene. Det opplyser ambulansetjenesten i Perth.\n\nDette er det første dødelige haiangrepet i Vest-Australia siden mars i fjor.\n\nAustralia\n\nSosialdemokraten Anthony Albanese overtok som statsminister etter Scott Morrison etter valget 21. mai 2022. Albanese har lovet å trappe opp klimakampen, men han vil ikke love å stenge kullgruvene i landet.",
+      "excerpt": "Den 38 år gamle mannen ble angrepet av en fire meter lang hvithai ved Rottnest Island på vestkysten av Australia. Det opplyser myndighetene i Vest-Australia til AFP.\n\nHan ble fløyet til sykehus etter angrepet, som skjedde lørdag formiddag ved 10-tiden lokal tid, men døde av skadene. Det opplyser...",
+      "image": "https://images.unsplash.com/photo-1661451657699-28950f2f2fe8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg5MjQ1NDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-dod-etter-haiangrep-i-australia-1.17885969",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-16T09:42:26.085Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778924544441.6614,
+      "title": "Enighet i jordbruksoppgjøret",
+      "slug": "enighet-i-jordbruksoppgjret",
+      "content": "Begge de to bondeorganisasjonene, Norges Bondelag og Norsk Bonde- og Småbrukarlag, har inngått en ny jordbruksavtale med staten.\n\nAvtalen har en ramme på 3,66 milliarder kroner. Det er 460 millioner mer enn statens opprinnelige tilbud.\n\nStaten blar opp 3,66 milliarder kroner i årets jordbruksoppgjør. Avtalen er nesten en halv milliard over det opprinnelige tilbudet til staten.",
+      "excerpt": "Begge de to bondeorganisasjonene, Norges Bondelag og Norsk Bonde- og Småbrukarlag, har inngått en ny jordbruksavtale med staten.\n\nAvtalen har en ramme på 3,66 milliarder kroner. Det er 460 millioner mer enn statens opprinnelige tilbud.\n\nStaten blar opp 3,66 milliarder kroner i årets...",
+      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg5MjQ1NDR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/enighet-i-jordbruksoppgjoret---1.17886004",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-16T09:42:24.441Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778912607410.0125,
       "title": "Mann funnet død i leteaksjon i Jevnaker",
       "slug": "mann-funnet-dd-i-leteaksjon-i-jevnaker",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-05-13T18:03:27.552Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778683154494.079,
-      "title": "Tok ladegrep på toget - ble pågrepet",
-      "slug": "tok-ladegrep-p-toget-ble-pgrepet",
-      "content": "Etter å ha hørt noe som lignet et ladegrep, varslet en togpassasjer på Gjøvik politiet.\n\nPolitiet rykket ut og fant en mann som innrømmet å ha tatt frem en pistol på toget og tatt et ladegrep. Det var ikke ammunisjon i våpenet. Mannen er anmeldt, og våpenet beslaglagt.\n\nMeldingen kom til politiet klokken 14.30, og mannen skal ha forklart til politiet at han skulle undersøke nærmere en pistol han hadde kjøpt.\n\nVåpenregler\n\nI perioden januar – mai 2023 er det våpenamnesti i Norge. det betyr at du kan innlevere uregistrerte våpen uten å risikere straff.",
-      "excerpt": "Etter å ha hørt noe som lignet et ladegrep, varslet en togpassasjer på Gjøvik politiet.\n\nPolitiet rykket ut og fant en mann som innrømmet å ha tatt frem en pistol på toget og tatt et ladegrep. Det var ikke ammunisjon i våpenet. Mannen er anmeldt, og våpenet beslaglagt.\n\nMeldingen kom til politiet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/innlandet/tok-ladegrep-pa-toget---ble-pagrepet-1.17883313",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-13T14:39:14.494Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778683153054.526,
-      "title": "Flyselskap gjenopptar flyvninger til Israel",
-      "slug": "flyselskap-gjenopptar-flyvninger-til-israel",
-      "content": "Wizz Air gjenopptar flyvninger til og fra Tel Aviv den 28. mai, og uttaler at dette er et viktig skritt for å koble Israel sammen med sentrale europeiske destinasjoner igjen.\n\nWizz Air og de fleste andre utenlandske flyselskaper stanset flyvningene etter USA- og Israel-ledede luftangrep mot Iran.\n\nMed en skjør våpenhvile på plass, har enkelte flyselskaper nå gjenopptatt flyvningene til Israel.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Wizz Air gjenopptar flyvninger til og fra Tel Aviv den 28. mai, og uttaler at dette er et viktig skritt for å koble Israel sammen med sentrale europeiske destinasjoner igjen.\n\nWizz Air og de fleste andre utenlandske flyselskaper stanset flyvningene etter USA- og Israel-ledede luftangrep mot...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/flyselskap-gjenopptar-flyvninger-til-israel--1.17883315",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-13T14:39:13.054Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1188,
+    "totalFetched": 1190,
     "totalPublished": 77,
-    "lastFetch": "2026-05-16T06:23:29.487Z",
+    "lastFetch": "2026-05-16T09:42:28.145Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
