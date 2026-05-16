@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1778912607410.0125,
+      "title": "Mann funnet død i leteaksjon i Jevnaker",
+      "slug": "mann-funnet-dd-i-leteaksjon-i-jevnaker",
+      "content": "En mann som ikke kom hjem som avtalt, er funnet død i Jevnaker kommune i Akershus. De pårørende er varslet, opplyser politiet.\n\nLeteaksjonen ble satt i gang rett etter klokka halv to natt til lørdag.\n\n– Mannen ble funnet død av politiet. Ingen mistanke om noe kriminelt. Pårørende er varslet, opplyser operasjonsleder Ottar Steinstø i Sørøst politidistrikt\n\nPolitiet fikk hjelp av et redningshelikopter fra Rygge i letingen. (NTB)",
+      "excerpt": "En mann som ikke kom hjem som avtalt, er funnet død i Jevnaker kommune i Akershus. De pårørende er varslet, opplyser politiet.\n\nLeteaksjonen ble satt i gang rett etter klokka halv to natt til lørdag.\n\n– Mannen ble funnet død av politiet. Ingen mistanke om noe kriminelt. Pårørende er varslet...",
+      "image": "https://images.unsplash.com/photo-1665510234535-18adf8c921f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg5MTI2MDd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-funnet-dod-i-leteaksjon-i-jevnaker-1.17885874",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-16T06:23:27.410Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778912605880.8425,
+      "title": "Person funnet kritisk skadd i Stange",
+      "slug": "person-funnet-kritisk-skadd-i-stange",
+      "content": "En person er funnet kritisk skadd i veibanen på E6 i Stange, opplyser politiet. Personen er flydd til sykehus i Oslo, etter først å ha vært på Hamar sykehus.\n\nPolitiet ble varslet om saken klokka 02:36 natt til lørdag. Det var tilfeldig forbipasserende som fant den skadde personen.\n\nEtterforskning er igangsatt med avhør og kriminaltekniske undersøkelser på stedet, skriver politiet.",
+      "excerpt": "En person er funnet kritisk skadd i veibanen på E6 i Stange, opplyser politiet. Personen er flydd til sykehus i Oslo, etter først å ha vært på Hamar sykehus.\n\nPolitiet ble varslet om saken klokka 02:36 natt til lørdag. Det var tilfeldig forbipasserende som fant den skadde personen.\n\nEtterforskning...",
+      "image": "https://images.unsplash.com/photo-1619861907071-926d3117af64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg5MTI2MDV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/person-funnet-kritisk-skadd-i-stange-1.17885897",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-16T06:23:25.880Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1778912604260.0498,
+      "title": "16. mai verste bulkedag i fjor",
+      "slug": "16-mai-verste-bulkedag-i-fjor",
+      "content": "Totalt registrerte forsikringsbransjen 2336 bilskader 16. mai i fjor, til en kostnad på vel 50 millioner kroner. Bare bulkeskadene alene utgjorde over 13 millioner kroner.\n\n899 skader var påkjørsel på parkert bil og ryggeulykker, viser tall fra Finans Norge.\n\n– De siste årene har 16. mai vært i toppen i antall bulkeskader knyttet til påkjørsel av parkert bil og ryggeulykker. Skader som typisk skjer i parkeringshus og på parkeringsplasser ved kjøpesentre. 16. mai er en dag der «alle» skal ordne til nasjonaldagen, og mye handles i siste liten. Det er kø, dårlig tid, trangt og fulle parkeringsarealer. Da øker risikoen for små uhell, spesielt ved rygging og manøvrering på trange plasser, sier Torbjørn Brandeggen, kommunikasjonsrådgiver i Tryg Forsikring i en pressemelding.\n\nTrafikk i Norge\n\nVet du noe andre bør vite om trafikken? Tips oss her eller ring 800 99 999",
+      "excerpt": "Totalt registrerte forsikringsbransjen 2336 bilskader 16. mai i fjor, til en kostnad på vel 50 millioner kroner. Bare bulkeskadene alene utgjorde over 13 millioner kroner.\n\n899 skader var påkjørsel på parkert bil og ryggeulykker, viser tall fra Finans Norge.\n\n– De siste årene har 16. mai vært i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/16.-mai-verste-bulkedag-i-fjor-1.17885920",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-16T06:23:24.261Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778901895984.4368,
       "title": "Trump etter Xi-møte: Vil ikke at noen skal «go independent»",
       "slug": "trump-etter-ximte-vil-ikke-at-noen-skal-go-independent",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-13T14:39:13.054Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778683151601.7153,
-      "title": "Barn drept i nye israelske angrep mot Libanon",
-      "slug": "barn-drept-i-nye-israelske-angrep-mot-libanon",
-      "content": "Tolv mennesker ble drept, blant dem to barn, i en rekke israelske angrep i Libanon onsdag, samtidig som det pågår USA-ledede samtaler mellom Israel og Libanon.\n\nIsrael gjennomførte blant annet tre droneangrep mot biler rundt 20 kilometer sør for Libanons hovedstad Beirut.\n\nÅtte mennesker ble ifølge Libanons helsedepartement drept i disse angrepene, blant dem to barn.\n\nEt fjerde angrep drepte en person utenfor kystbyen Saida, som ligger 40 kilometer sør for Beirut.\n\nTre mennesker ble også drept i israelske luftangrep mot biler sør for byen Tyr, opplyser helsedepartementet.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
-      "excerpt": "Tolv mennesker ble drept, blant dem to barn, i en rekke israelske angrep i Libanon onsdag, samtidig som det pågår USA-ledede samtaler mellom Israel og Libanon.\n\nIsrael gjennomførte blant annet tre droneangrep mot biler rundt 20 kilometer sør for Libanons hovedstad Beirut.\n\nÅtte mennesker ble ifølge...",
-      "image": "https://images.unsplash.com/photo-1567117438762-81cf32c54a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg2ODMxNTF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/barn-drept-i-nye-israelske-angrep-mot-libanon-1.17883355",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-13T14:39:11.601Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778668200708.2036,
-      "title": "Massivt droneangrep mot Ukraina",
-      "slug": "massivt-droneangrep-mot-ukraina",
-      "content": "Russland har onsdag formiddag satt i gang et uvanlig omfattende droneangrep mot Ukraina i dagslys. Over 200 angrepsdroner krysset grensen like etter klokken 11:00 lokal tid, og det er meldt om eksplosjoner og luftvernaktivitet i hovedstaden Kyiv og Khmelnytskyj-regionen.\n\nI Khmelnytskyj er det meldt om minst to skadde, mens luftvernet i Tsjerkasy og Kyiv jobber med å slå tilbake flere bølger med droner.\n\n– Luftvernet opererer i regionen. To personer er rapportert skadet, skriver guvernør Serhij Tjurin i Khmelnytskyj på Telegram.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Russland har onsdag formiddag satt i gang et uvanlig omfattende droneangrep mot Ukraina i dagslys. Over 200 angrepsdroner krysset grensen like etter klokken 11:00 lokal tid, og det er meldt om eksplosjoner og luftvernaktivitet i hovedstaden Kyiv og Khmelnytskyj-regionen.\n\nI Khmelnytskyj er det...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/massivt-droneangrep-mot-ukraina--1.17882714",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-13T10:30:00.708Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778668199226.119,
-      "title": "Sverige senker bensinavgiften igjen",
-      "slug": "sverige-senker-bensinavgiften-igjen",
-      "content": "Sverige senker avgifter på bensin og diesel med tre kroner, kunngjør regjeringspartiene.\n\nEn krisepakke på 17,5 milliarder kroner skal bidra til å støtte svenske husholdninger og næringsliv med å stå av den globale energikrisen.\n\nFra før har Sverige senket drivstoffavgiften midlertidig. Fra 1. juli til 30. november senkes bensinavgiften ytterligere.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "Sverige senker avgifter på bensin og diesel med tre kroner, kunngjør regjeringspartiene.\n\nEn krisepakke på 17,5 milliarder kroner skal bidra til å støtte svenske husholdninger og næringsliv med å stå av den globale energikrisen.\n\nFra før har Sverige senket drivstoffavgiften midlertidig. Fra 1. juli...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/sverige-senker-bensinavgiften-igjen-1.17882749",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-13T10:29:59.226Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1185,
+    "totalFetched": 1188,
     "totalPublished": 77,
-    "lastFetch": "2026-05-16T03:24:57.668Z",
+    "lastFetch": "2026-05-16T06:23:29.487Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
