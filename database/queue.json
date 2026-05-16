@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1778901895984.4368,
+      "title": "Trump etter Xi-møte: Vil ikke at noen skal «go independent»",
+      "slug": "trump-etter-ximte-vil-ikke-at-noen-skal-go-independent",
+      "content": "Like etter toppmøtet med Xi Jinping i Kina, snakket Donald Trump om Taiwan i et nytt intervju med TV-kanalen Fox News.\n\n– Jeg er ikke ute etter at noen skal «go independent», sa Trump til Fox News, melder BBC.\n\nUSA har lenge støttet Taiwan, som lenge har vært et omstridt stridsspørsmål mellom USA og Kina. Kina ser på øya som en del av sitt territorium.\n\nI intervjuet sa Trump at det er forventet at USA skal reise 9.500 engelske mil «for å utkjempe en krig».\n\n– Det er ikke det jeg ønsker. Jeg vil at de skal roe seg ned. Jeg vil at Kina skal roe seg ned, sa Trump, skriver BBC.\n\nTaiwan\n\nVestlige land frykter at Kina kan ta Taiwan med militærmakt. Kina ser på Taiwan som sitt territorium. Taiwan har vært selvstyrt og atskilt fra Kina siden 1949. USA har tidligere sagt de vil forsvare Taiwan i tilfelle Kina angriper.",
+      "excerpt": "Like etter toppmøtet med Xi Jinping i Kina, snakket Donald Trump om Taiwan i et nytt intervju med TV-kanalen Fox News.\n\n– Jeg er ikke ute etter at noen skal «go independent», sa Trump til Fox News, melder BBC.\n\nUSA har lenge støttet Taiwan, som lenge har vært et omstridt stridsspørsmål mellom USA...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-etter-xi-mote_-vil-ikke-at-noen-skal-_go-independent_-1.17885864",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-16T03:24:55.985Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778885792481.7124,
       "title": "Israel: Hamas-topp var mål for angrep på Gaza",
       "slug": "israel-hamastopp-var-ml-for-angrep-p-gaza",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-13T10:29:59.226Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778668197108.1853,
-      "title": "Bama tilbakekaller røde Royal Gala-epler",
-      "slug": "bama-tilbakekaller-rde-royal-galaepler",
-      "content": "Royal Gala-epler som er solgt i hele landet tilbakekalles fordi de inneholder for høye nivåer av et plantevernmiddel, opplyser Bama.\n\nTilbakekallingen gjelder røde epler i løsvekt som er distribuert til Norgesgruppens butikker i hele Norge, bortsett fra Bergen og omegn, herunder Kiwi, Joker, Meny, Spar, Eurospar og Nærbutikken. Eplene er også distribuert til Bunnpris, skriver Bama i en pressemelding.\n\nTotalt er det sendt ut 100 kasser til butikkene. Det er for høye nivåer av plantevernmiddelet propargite i eplene.",
-      "excerpt": "Royal Gala-epler som er solgt i hele landet tilbakekalles fordi de inneholder for høye nivåer av et plantevernmiddel, opplyser Bama.\n\nTilbakekallingen gjelder røde epler i løsvekt som er distribuert til Norgesgruppens butikker i hele Norge, bortsett fra Bergen og omegn, herunder Kiwi, Joker, Meny...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/bama-tilbakekaller-rode-royal-gala-epler-1.17882832",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-13T10:29:57.108Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1184,
+    "totalFetched": 1185,
     "totalPublished": 77,
-    "lastFetch": "2026-05-15T22:56:34.743Z",
+    "lastFetch": "2026-05-16T03:24:57.668Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
