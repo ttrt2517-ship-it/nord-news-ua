@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1778958474700.235,
+      "title": "Hovedmistenkt etter folkemordet i Rwanda er død",
+      "slug": "hovedmistenkt-etter-folkemordet-i-rwanda-er-dd",
+      "content": "Félicien Kabuga, som var tiltalt for å ha vært med å finansiere folkemodet i Rwanda i 1994, er død.\n\nKabuga var i 90-årene, og døde på sykehus lørdag, ifølge en uttalelse fra Den internasjonale restmekanismen for straffedomstoler (IRMCT).\n\nIRMCT er et FN-organ som følger opp gjenværende saker etter Rwanda-domstolen og Jugoslavia-domstolen.\n\nRwanda\n\nPaul Kagame har vært president siden 2000, men har i praksis styrt Rwanda siden 1994. Da sto han i spissen for geriljaen som fikk slutt på huturegimets folkemord mot tutsi-befolkningen. Minst 800.000 hutuer og tutsier ble drept i konflikten.",
+      "excerpt": "Félicien Kabuga, som var tiltalt for å ha vært med å finansiere folkemodet i Rwanda i 1994, er død.\n\nKabuga var i 90-årene, og døde på sykehus lørdag, ifølge en uttalelse fra Den internasjonale restmekanismen for straffedomstoler (IRMCT).\n\nIRMCT er et FN-organ som følger opp gjenværende saker etter...",
+      "image": "https://images.unsplash.com/photo-1504371030037-bdfaf7feee16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg5NTg0NzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/hovedmistenkt-etter-folkemordet-i-rwanda-er-dod-1.17886410",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-16T19:07:54.700Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1778950810085.4307,
       "title": "Storbritannias tidligere helseminister Wes Streeting vil utfordre Starmer om ledervervet i Labour",
       "slug": "storbritannias-tidligere-helseminister-wes-streeting-vil-utf",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-14T06:47:16.396Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778741234671.277,
-      "title": "To på sykehus etter brann i Bamble: Skal avhøres",
-      "slug": "to-p-sykehus-etter-brann-i-bamble-skal-avhres",
-      "content": "I natt fikk politiet melding om en brann i Bamble. Den ble raskt slukket, men to personer ble sendt på sykehus for behandling.\n\n– De må bli ferdig behandlet før vi kan avhøre de, sier operasjonsleder i politiet Lise Bjørnsund til NRK.\n\nPolitiet vet foreløpig ikke hva som er årsaken til brannen.\n\nDet ble sendt en luftambulanse til stedet, som brøt oppdraget da de skadde ble kjørt til sykehus.",
-      "excerpt": "I natt fikk politiet melding om en brann i Bamble. Den ble raskt slukket, men to personer ble sendt på sykehus for behandling.\n\n– De må bli ferdig behandlet før vi kan avhøre de, sier operasjonsleder i politiet Lise Bjørnsund til NRK.\n\nPolitiet vet foreløpig ikke hva som er årsaken til...",
-      "image": "https://images.unsplash.com/photo-1659424765812-c2932538a99a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg3NDEyMzR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/to-pa-sykehus-etter-brann-i-bamble_-skal-avhores-1.17883801",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-14T06:47:14.671Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1199,
+    "totalFetched": 1200,
     "totalPublished": 77,
-    "lastFetch": "2026-05-16T17:00:11.717Z",
+    "lastFetch": "2026-05-16T19:07:57.383Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
