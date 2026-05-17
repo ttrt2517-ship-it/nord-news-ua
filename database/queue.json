@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1779051343798.2327,
+      "title": "To kampfly kolliderte under flyshow i USA",
+      "slug": "to-kampfly-kolliderte-under-flyshow-i-usa",
+      "content": "To fly av typen EA-18G Growler kolliderte søndag under et flyshow Mountain Home Air Force Base i den amerikanske delstaten Idaho. Det skriver Airshow News på X, ifølge Reuters.\n\nSå langt er det ikke klart hvordan det gikk med de om bord i flyet, men video viser fire fallkjerner som folder deg ut og lander på bakken.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "To fly av typen EA-18G Growler kolliderte søndag under et flyshow Mountain Home Air Force Base i den amerikanske delstaten Idaho. Det skriver Airshow News på X, ifølge Reuters.\n\nSå langt er det ikke klart hvordan det gikk med de om bord i flyet, men video viser fire fallkjerner som folder deg ut og...",
+      "image": "https://images.unsplash.com/photo-1753696278559-38efaeafab72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkwNTEzNDN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-kampfly-kolliderte-under-flyshow-i-usa-1.17887094",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-17T20:55:43.799Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779045140435.966,
       "title": "Alvorlig trafikkulykke i Nittedal",
       "slug": "alvorlig-trafikkulykke-i-nittedal",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-15T10:26:08.354Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778840766733.2837,
-      "title": "Prinsesse Astrid er lagt inn på sykehus",
-      "slug": "prinsesse-astrid-er-lagt-inn-p-sykehus",
-      "content": "Prinsesse Astrid, kong Haralds søster, er lagt inn på Rikshospitalet i Oslo på grunn av hjertesvikt, melder Kongehuset i en pressemelding.\n\nHun har i dag fått lagt inn en midlertidig pacemaker.\n\n– Prinsessen ønsker å formidle at hun er i de beste hender. Hun blir værende på Rikshospitalet en stund fremover, skriver Kongehuset.",
-      "excerpt": "Prinsesse Astrid, kong Haralds søster, er lagt inn på Rikshospitalet i Oslo på grunn av hjertesvikt, melder Kongehuset i en pressemelding.\n\nHun har i dag fått lagt inn en midlertidig pacemaker.\n\n– Prinsessen ønsker å formidle at hun er i de beste hender. Hun blir værende på Rikshospitalet en stund...",
-      "image": "https://images.unsplash.com/photo-1719412625717-b7cf868da671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg4NDA3NjZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/prinsesse-astrid-er-lagt-inn-pa-sykehus-1.17885014",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-15T10:26:06.733Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1220,
+    "totalFetched": 1221,
     "totalPublished": 77,
-    "lastFetch": "2026-05-17T19:12:23.092Z",
+    "lastFetch": "2026-05-17T20:55:46.597Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
