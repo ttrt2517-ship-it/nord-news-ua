@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1779029909223.8406,
+      "title": "FN slår sultalarm i Sudan",
+      "slug": "fn-slr-sultalarm-i-sudan",
+      "content": "To av fem innbyggere i Sudan, nærmere 19,5 millioner mennesker, opplever nå matusikkerhet på nivå tre eller høyere.\n\nDet advarer FNs mat- og landbruksorganisasjon (FAO), Verdens matvareprogram (WFP) og FNs barnefond i en felles kunngjøring.\n\nI de krigsherjede Darfur- og Sør-Kordofan-regionen opplever nesten 135.000 mennesker alt katastrofal matusikkerhet, og både der og enkelte andre steder i landet er det nå reell fare for hungersnød.\n\nSudan\n\nDet har vært krig i Sudan siden 15. april 2023. Da brøt det ut blodige kamper rundt hovedstaden Khartoum mellom regjeringsstyrker og den paramilitære gruppen RSF.",
+      "excerpt": "To av fem innbyggere i Sudan, nærmere 19,5 millioner mennesker, opplever nå matusikkerhet på nivå tre eller høyere.\n\nDet advarer FNs mat- og landbruksorganisasjon (FAO), Verdens matvareprogram (WFP) og FNs barnefond i en felles kunngjøring.\n\nI de krigsherjede Darfur- og Sør-Kordofan-regionen...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/fn-slar-sultalarm-i-sudan-1.17886885",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-17T14:58:29.223Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779029907442.5935,
+      "title": "Samanstøyt mellom to russebussar - tre til legevakt",
+      "slug": "samanstyt-mellom-to-russebussar-tre-til-legevakt",
+      "content": "Politiet har starta etterforsking etter to russebussar skal ha køyrd inn i kvarandre i Orkanger sentrum.\n\nUhellet skal ha skjedd i låg fart, men tre personar er køyrd til legevakt for sjekk etter at dei skal ha fått mindre skadar etter eit samanstøyt med interiøret på bussen.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/\n\nTrafikk i Trøndelag\n\nHar du bilder eller tips? Kontakt oss på 03030 eller trondelag@nrk.no",
+      "excerpt": "Politiet har starta etterforsking etter to russebussar skal ha køyrd inn i kvarandre i Orkanger sentrum.\n\nUhellet skal ha skjedd i låg fart, men tre personar er køyrd til legevakt for sjekk etter at dei skal ha fått mindre skadar etter eit samanstøyt med interiøret på bussen.\n\nNyhetssenter...",
+      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkwMjk5MDd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/trondelag/samanstoyt-mellom-to-russebussar---tre-til-legevakt-1.17886924",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-17T14:58:27.442Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779024299183.6736,
       "title": "Mahmoud Abbas gjenvalgt som Fatah-leder – sønnen inn i partiledelsen",
       "slug": "mahmoud-abbas-gjenvalgt-som-fatahleder-snnen-inn-i-partilede",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-05-15T06:56:40.755Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778816424588.519,
-      "title": "Russland: Én drept i ukrainsk droneangrep",
-      "slug": "russland-n-drept-i-ukrainsk-droneangrep",
-      "content": "En person ble drept og tre ble såret i to ulike ukrainske droneangrep i den russiske grenseregionen Belgorod, ifølge russiske lokale myndigheter.\n\nIfølge russiske myndigheter ble blant annet et bolighus angrepet med drone.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "En person ble drept og tre ble såret i to ulike ukrainske droneangrep i den russiske grenseregionen Belgorod, ifølge russiske lokale myndigheter.\n\nIfølge russiske myndigheter ble blant annet et bolighus angrepet med drone.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og...",
-      "image": "https://images.unsplash.com/photo-1623831134835-adb937642c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg4MTY0MjR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/russland_-en-drept-i-ukrainsk-droneangrep-1.17884436",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-15T03:40:24.588Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778816422924.7996,
-      "title": "Dronevarsel i Finland og Latvia",
-      "slug": "dronevarsel-i-finland-og-latvia",
-      "content": "Den finske kringkasteren Yle melder om en mulig drone nær Helsingfors, mens Latvia har rapportert om en mulig krenking av deres luftrom natt til fredag.\n\nFolk i den finske regionen Nyland, som altså omfatter hovedstaden Helsingfors, oppfordres til å holde seg innendørs, melder Yle.\n\nTidligere på natten ble det meldt om en mulig krenking av Latvias luftrom. Landets forsvarsdepartement skrev på X at deres luftforsvar og Nato-fly patruljerer luftrommet.\n\n– Så lenge Russlands aggresjon mot Ukraina fortsetter, kan det oppstå slike hendelser, skriver departementet.\n\nInnbyggere i særlig de østre delene av landet ble bedt om å holde seg innendørs og melde fra om mistenkte droner.  (NTB)\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Den finske kringkasteren Yle melder om en mulig drone nær Helsingfors, mens Latvia har rapportert om en mulig krenking av deres luftrom natt til fredag.\n\nFolk i den finske regionen Nyland, som altså omfatter hovedstaden Helsingfors, oppfordres til å holde seg innendørs, melder Yle.\n\nTidligere på...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/dronevarsel-i-finland-og-latvia-1.17884438",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-15T03:40:22.924Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1215,
+    "totalFetched": 1217,
     "totalPublished": 77,
-    "lastFetch": "2026-05-17T13:25:01.057Z",
+    "lastFetch": "2026-05-17T14:58:31.279Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
