@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1779045140435.966,
+      "title": "Alvorlig trafikkulykke i Nittedal",
+      "slug": "alvorlig-trafikkulykke-i-nittedal",
+      "content": "Nødetatene er på vei til Nittedal, der det har vært en trafikkulykke.\n\nFlere biler er involvert. Tre personer er kritisk skadd, mens to personer er lettere skadd, ifølge politiet.\n\nTotalt er fem personer involvert, forteller politiet.",
+      "excerpt": "Nødetatene er på vei til Nittedal, der det har vært en trafikkulykke.\n\nFlere biler er involvert. Tre personer er kritisk skadd, mens to personer er lettere skadd, ifølge politiet.\n\nTotalt er fem personer involvert, forteller politiet.",
+      "image": "https://images.unsplash.com/photo-1683797468338-5b6a0cf758f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkwNDUxNDB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/alvorlig-trafikkulykke-i-nittedal--1.17886999",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-17T19:12:20.435Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779037122832.2546,
       "title": "Masseslagsmål i Tromsø sentrum",
       "slug": "masseslagsml-i-troms-sentrum",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-15T10:26:06.733Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778828203917.2615,
-      "title": "Russland: Skjøt ned 355 ukrainske droner",
-      "slug": "russland-skjt-ned-355-ukrainske-droner",
-      "content": "Det er det russiske forsvarsdepartementet som melder dette fredag.\n\nTre personer skal ha blitt drept og 12 skadd i droneangrepene, som blant annet rammet en boligblokk og et industriområde i byen Ryazan, rundt 20 mil sørøst for Moskva. Det melder guvernøren i området. Det melder Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Det er det russiske forsvarsdepartementet som melder dette fredag.\n\nTre personer skal ha blitt drept og 12 skadd i droneangrepene, som blant annet rammet en boligblokk og et industriområde i byen Ryazan, rundt 20 mil sørøst for Moskva. Det melder guvernøren i området. Det melder Reuters.\n\nKrigen i...",
-      "image": "https://images.unsplash.com/photo-1624719634868-d2089cc2fd8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg4MjgyMDN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/russland_-skjot-ned-355-ukrainske-droner-1.17884532",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-15T06:56:43.917Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1219,
+    "totalFetched": 1220,
     "totalPublished": 77,
-    "lastFetch": "2026-05-17T16:58:45.703Z",
+    "lastFetch": "2026-05-17T19:12:23.092Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
