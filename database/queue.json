@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1779016131281.7014,
+      "title": "Lula ønsker respekt fra Trump",
+      "slug": "lula-nsker-respekt-fra-trump",
+      "content": "Brasils president Luiz Inacio Lula da Silva sier at hans personlige forhold til USAs president Donald Trump kan bidra til å skaffe amerikanske investeringer i Brasil og færre skatter på varer.\n\n– Trump vet at jeg er imot krigen mot Iran, og hans intervensjon i Venezuela og fordømmer folkemordet som skjer i Palestina, sier Lula i et intervju med Washington Post.\n\nLula legger til at hans politiske uenigheter med Trump ikke ødelegger hans forhold til Trump som statsleder.\n\n– Det jeg ønsker, er at han behandler Brasil med respekt, og forstår at jeg er den demokratisk valgte presidenten her\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president Jair Bolsonaro til angrep på Kongressen, presidentpalasset og høyesterett i hoevdstaden Brasília.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Brasils president Luiz Inacio Lula da Silva sier at hans personlige forhold til USAs president Donald Trump kan bidra til å skaffe amerikanske investeringer i Brasil og færre skatter på varer.\n\n– Trump vet at jeg er imot krigen mot Iran, og hans intervensjon i Venezuela og fordømmer folkemordet som...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/lula-onsker-respekt-fra-trump--1.17886809",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-17T11:08:51.281Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779011319293.9988,
       "title": "Fellesaksjon mot telekomsvindel i Dubai",
       "slug": "fellesaksjon-mot-telekomsvindel-i-dubai",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-14T19:48:47.097Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778788125356.9512,
-      "title": "41 personer i USA undersøkes for hantavirus",
-      "slug": "41-personer-i-usa-underskes-for-hantavirus",
-      "content": "USAs nasjonale folkehelseinstitutt (CDC) opplyser at de fleste som er under overvåking, bør holde seg hjemme og unngå folk under den 42 dager lange overvåkingsperioden, melder Reuters.\n\nDe 41 personene kommer fra tre hovedgrupper, sier David Fitter, innsatsleder for CDCs hantavirus-respons.\n\n– For det første, passasjerer som nylig ble repatriert (hentet hjem) og som nå befinner seg i Nebraska og på Emory. For det andre, passasjerer som allerede hadde forlatt skipet og reist hjem før utbruddet ble oppdaget. Og for det tredje, personer som kan ha blitt eksponert under reise, spesifikt på flyginger hvor et symptomatisk tilfelle var til stede, sier Fitter.",
-      "excerpt": "USAs nasjonale folkehelseinstitutt (CDC) opplyser at de fleste som er under overvåking, bør holde seg hjemme og unngå folk under den 42 dager lange overvåkingsperioden, melder Reuters.\n\nDe 41 personene kommer fra tre hovedgrupper, sier David Fitter, innsatsleder for CDCs hantavirus-respons.\n\n– For...",
-      "image": "https://images.unsplash.com/photo-1649872647782-0e875f9d9dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg3ODgxMjV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/41-personer-i-usa-undersokes-for-hantavirus-1.17884317",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-14T19:48:45.356Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1211,
+    "totalFetched": 1212,
     "totalPublished": 77,
-    "lastFetch": "2026-05-17T09:48:41.438Z",
+    "lastFetch": "2026-05-17T11:08:53.458Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
