@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1779058497875.5332,
+      "title": "Medier: Alle fire i jagerfly overlevde",
+      "slug": "medier-alle-fire-i-jagerfly-overlevde",
+      "content": "Alle de besetningsmedlemmene i de to jagerflyene som kolliderte på et flyshow i USA har overlevd, ifølge amerikanske Fox32 Chicago.\n\nOgså flere andre amerikanske medier melder det samme.\n\nDet var to fly av typen EA-18G Growler som kolliderte søndag under et flyshow Mountain Home Air Force Base i den amerikanske delstaten Idaho.",
+      "excerpt": "Alle de besetningsmedlemmene i de to jagerflyene som kolliderte på et flyshow i USA har overlevd, ifølge amerikanske Fox32 Chicago.\n\nOgså flere andre amerikanske medier melder det samme.\n\nDet var to fly av typen EA-18G Growler som kolliderte søndag under et flyshow Mountain Home Air Force Base i...",
+      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkwNTg0OTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/medier_-alle-fire-i-jagerfly-overlevde-1.17887131",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-17T22:54:57.875Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779058496043.3782,
+      "title": "Guvernør: Droneangrep i Odesa",
+      "slug": "guvernr-droneangrep-i-odesa",
+      "content": "Det pågår et droneangrep mot Odesa-regionen i Ukraina, ifølge en ukrainsk guvernør.\n\nBygninger med boliger har blitt truffet, ifølge guvernøren.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Det pågår et droneangrep mot Odesa-regionen i Ukraina, ifølge en ukrainsk guvernør.\n\nBygninger med boliger har blitt truffet, ifølge guvernøren.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala...",
+      "image": "https://images.unsplash.com/photo-1669697051903-2d997f5f9fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkwNTg0OTV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/guvernor_-droneangrep-i-odesa-1.17887158",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-17T22:54:56.044Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779051343798.2327,
       "title": "To kampfly kolliderte under flyshow i USA",
       "slug": "to-kampfly-kolliderte-under-flyshow-i-usa",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-05-15T10:26:14.629Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1778840770078.9438,
-      "title": "Norge slutter seg til EUs 20. sanksjonspakke mot Russland",
-      "slug": "norge-slutter-seg-til-eus-20-sanksjonspakke-mot-russland",
-      "content": "– Regjeringen arbeider nå med å innlemme tiltakene i norsk lov, skriver Utenriksdepartementet.\n\nPakken inneholder blant annet tiltak mot russisk energisektor, skyggeflåten og oljeeksport, mot finanssektoren og kryptohandel, russisk forsvarsindustri og eksport av en rekke industriprodukter. I tillegg listeføres flere personer som er involvert i den systematiske bortføringen av ukrainske barn i de okkuperte områdene.\n\n– Det er avgjørende for Ukraina at vi sammen med allierte og partnere øker presset på Russland og den russiske økonomien, sier utenriksminister Espen Barth Eide (Ap).\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "– Regjeringen arbeider nå med å innlemme tiltakene i norsk lov, skriver Utenriksdepartementet.\n\nPakken inneholder blant annet tiltak mot russisk energisektor, skyggeflåten og oljeeksport, mot finanssektoren og kryptohandel, russisk forsvarsindustri og eksport av en rekke industriprodukter. I...",
-      "image": "https://images.unsplash.com/photo-1765316994223-357ea22a9fca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg4NDA3Njl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/norge-slutter-seg-til-eus-20.-sanksjonspakke-mot-russland-1.17884899",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-15T10:26:10.078Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778840768354.8733,
-      "title": "Iran: - Alle skip kan passere Hormuzstredet, bortsett fra land som er i krig med oss",
-      "slug": "iran-alle-skip-kan-passere-hormuzstredet-bortsett-fra-land-s",
-      "content": "Det sier irans utenriksminister Abbas Araghchi til Reuters.\n\n– Situasjonen i Hormuzstredet er svært komplisert og vi forsøker å hjelpe til, sier han.\n\nSkipene som skal passere stredet må kontakte den iranske marinen.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Det sier irans utenriksminister Abbas Araghchi til Reuters.\n\n– Situasjonen i Hormuzstredet er svært komplisert og vi forsøker å hjelpe til, sier han.\n\nSkipene som skal passere stredet må kontakte den iranske marinen.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/iran_---alle-skip-kan-passere-hormuzstredet_-bortsett-fra-land-som-er-i-krig-med-oss-1.17884916",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-15T10:26:08.354Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1221,
+    "totalFetched": 1223,
     "totalPublished": 77,
-    "lastFetch": "2026-05-17T20:55:46.597Z",
+    "lastFetch": "2026-05-17T22:54:59.947Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
