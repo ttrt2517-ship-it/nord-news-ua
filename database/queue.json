@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1779231838906.0312,
+      "title": "Senatet åpner for avstemning om å tvinge Trump til å avslutte Iran-krigen",
+      "slug": "senatet-pner-for-avstemning-om-tvinge-trump-til-avslutte-ira",
+      "content": "Senatet i USA har stemt for å behandle et forslag som kan tvinge president Donald Trump til å avslutte krigen mot Iran.\n\nForslaget vil pålegge Trump å avslutte krigshandlingene eller be Kongressen om godkjenning til å fortsette dem.\n\nTirsdag stemte Senatet med 50 mot 47 stemmer for å ta opp resolusjonen til behandling. Det betyr at den kan debatteres og stemmes over i løpet av de kommende ukene.\n\nFire republikanere stemte sammen med demokratene for å gå videre med forslaget. Blant dem var senator Bill Cassidy fra Louisiana, som nylig tapte sitt nominasjonsvalg etter at Trump hadde gått inn for å få ham vraket.\n\nDe tre andre republikanske senatorene som stemte med demokratene, var Lisa Murkowski fra Alaska, Susan Collins fra Maine og Rand Paul fra Kentucky.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Senatet i USA har stemt for å behandle et forslag som kan tvinge president Donald Trump til å avslutte krigen mot Iran.\n\nForslaget vil pålegge Trump å avslutte krigshandlingene eller be Kongressen om godkjenning til å fortsette dem.\n\nTirsdag stemte Senatet med 50 mot 47 stemmer for å ta opp...",
+      "image": "https://images.unsplash.com/photo-1704323081531-2e28c0728a44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkyMzE4Mzh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/senatet-apner-for-avstemning-om-a-tvinge-trump-til-a-avslutte-iran-krigen-1.17890070",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-19T23:03:58.906Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779225663932.1025,
       "title": "Nortura varsler høyere priser på kjøtt og egg",
       "slug": "nortura-varsler-hyere-priser-p-kjtt-og-egg",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-17T11:08:51.281Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779011319293.9988,
-      "title": "Fellesaksjon mot telekomsvindel i Dubai",
-      "slug": "fellesaksjon-mot-telekomsvindel-i-dubai",
-      "content": "I en felles aksjon har politiet i Kina, USA og De forente arabiske emirater arrestert 276 personer mistenkt for telekomsvindel i Dubai, melder den kinesiske kringkasteren CCTV.\n\nDette er første gang de tre landene har samarbeidet i en slik operasjon, som har avdekket og stengt ni svindelnettverk. Ofrene ble lurt inn i falske kryptovaluta-investeringer.\n\nSvindel\n\nForsøk på svindel i form av mail, på SMS eller på telefon skjer stadig oftere.\n\nKina\n\nKina er verdens nest mest folkerike land, og blant de eldste kontinuerlige sivilisasjonene i verden. Landet ledes av kommunistpartiet og president Xi Jinping, som er den første lederen siden formann Mao som har sittet i tre 5-årsperioder.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nDe forente arabiske emirater\n\nDe forente arabiske emirater (Emiratene) er en føderasjon på den arabiske halvøy. Ni millioner av de ti millioner innbyggerne er utenlandsfødte. De sju emiratene er Abu Dhabi, Ajman, Dubai, Fujairah, Ras al-Khaimah, Sharjah og Umm al-Qaiwain.",
-      "excerpt": "I en felles aksjon har politiet i Kina, USA og De forente arabiske emirater arrestert 276 personer mistenkt for telekomsvindel i Dubai, melder den kinesiske kringkasteren CCTV.\n\nDette er første gang de tre landene har samarbeidet i en slik operasjon, som har avdekket og stengt ni svindelnettverk....",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/fellesaksjon-mot-telekomsvindel-i-dubai-1.17886744",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-17T09:48:39.293Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1260,
+    "totalFetched": 1261,
     "totalPublished": 77,
-    "lastFetch": "2026-05-19T21:21:06.463Z",
+    "lastFetch": "2026-05-19T23:04:01.639Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
