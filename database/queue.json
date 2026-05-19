@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1779214045985.0137,
+      "title": "175 drept i luftangrep mot IS i Nigeria",
+      "slug": "175-drept-i-luftangrep-mot-is-i-nigeria",
+      "content": "Det nigerianske militæret, i samarbeid med amerikanske styrker, utførte i helgen et luftangrep mot IS i Nigeria.\n\n– Per 19. mai 2026 viser vurderinger at 175 IS-militante er eliminert fra slagmarken, sa ledelsen i det nigerianske forsvaret i en uttalelse tirsdag.\n\nDet samme angrepet tok livet av ekstremistgruppens nestkommanderende Abu-Bilal al Minuki.\n\nBåde USAs president Donald Trump og Nigerias president Bola Tinubu bekreftet angrepet lørdag.\n\nNigeria\n\nNigeria er både den største økonomien og det mest folkerike landet i Afrika med en befolkning på over 200 millioner. Landet er et demokrati, men er preget av ulikhet. Nord i Nigeria skaper islamistgruppen Boko Haram stor uro.",
+      "excerpt": "Det nigerianske militæret, i samarbeid med amerikanske styrker, utførte i helgen et luftangrep mot IS i Nigeria.\n\n– Per 19. mai 2026 viser vurderinger at 175 IS-militante er eliminert fra slagmarken, sa ledelsen i det nigerianske forsvaret i en uttalelse tirsdag.\n\nDet samme angrepet tok livet av...",
+      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkyMTQwNDV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/175-drept-i-luftangrep-mot-is-i-nigeria-1.17889869",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-19T18:07:25.985Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779214044233.9404,
+      "title": "Ektepar løslatt etter anklager om mishandling av barn (2)",
+      "slug": "ektepar-lslatt-etter-anklager-om-mishandling-av-barn-2",
+      "content": "– Bakgrunnen for pågripelsen er at helsepersonell fant skader på barnet. Mannen ble pågrepet i går ettermiddag. Mor ble pågrepet natt til i dag, sier politiadvokat Marcus Monsen i Vest politidistrikt til Bergens Tidende tirsdag.\n\nBegge er avhørt og nekter straffskyld. Foreldrene, som er i 30-årene og bosatt i Sogn og Fjordane, skal ikke tidligere ha vært i politiets søkelys.\n\nBarnet som er skadet, ble først tatt hånd om av barnevernet, men er nå tilbake hos sine foreldre.\n\n– De er nå løslatt, sier vakthavende politiadvokat Trine Benedikte Opdal til VG like før klokken 17.\n\nAvisen har ikke lyktes i å få svar på om siktelsen er frafalt.\n\nVold mot barn\n\nJustisdepartementet vil ha raskere behandling av saker der barn er involvert. Blant annet skal det gjennomføres avhør innen 14-dager i alle saker.",
+      "excerpt": "– Bakgrunnen for pågripelsen er at helsepersonell fant skader på barnet. Mannen ble pågrepet i går ettermiddag. Mor ble pågrepet natt til i dag, sier politiadvokat Marcus Monsen i Vest politidistrikt til Bergens Tidende tirsdag.\n\nBegge er avhørt og nekter straffskyld. Foreldrene, som er i 30-årene...",
+      "image": "https://images.unsplash.com/photo-1582753799950-e73309a50b3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkyMTQwNDR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ektepar-loslatt-etter-anklager-om-mishandling-av-barn-_2_-1.17889874",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-19T18:07:24.233Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779214042555.196,
+      "title": "Rubio kommer til Nato-møte i Sverige",
+      "slug": "rubio-kommer-til-natomte-i-sverige",
+      "content": "USAs utenriksminister MarcoRubio skal delta på et møte for Nato-landenes utenriksministre i Helsingborg i Sverige fredag. På møtet vil Rubio diskutere behovet for «større byrdefordeling» innad i alliansen, opplyser USAs utenriksdepartement tirsdag.\n\nRubio vil også holde bilaterale møter med den svenske statsministeren Ulf Kristersson og Natos generalsekretær Mark Rutte.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "USAs utenriksminister MarcoRubio skal delta på et møte for Nato-landenes utenriksministre i Helsingborg i Sverige fredag. På møtet vil Rubio diskutere behovet for «større byrdefordeling» innad i alliansen, opplyser USAs utenriksdepartement tirsdag.\n\nRubio vil også holde bilaterale møter med den...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/rubio-kommer-til-nato-mote-i-sverige-1.17889890",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-19T18:07:22.555Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779204528525.9575,
       "title": "Nato-topp: USA trekker 5000 soldater ut av Europa",
       "slug": "natotopp-usa-trekker-5000-soldater-ut-av-europa",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-17T06:46:17.329Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779000375621.565,
-      "title": "Prinsesse Ingrid Alexandra hilser hjem til Norge",
-      "slug": "prinsesse-ingrid-alexandra-hilser-hjem-til-norge",
-      "content": "Prinsesse Ingrid Alexandra feirer nasjonaldagen i Sydney, og har sendt en hilsen hjem til Norge.\n\n– Kjære alle sammen, i dag har jeg litt ekstra hjemlengsel. I dag feirer jeg 17. mai i Sydney, og jeg håper alle dere har en fin feiring, enten dere feirer hjemme eller i utlandet, skriver prinsesse Ingrid Alexandra på kongehusets Facebook -side.\n\n17. mai-feiring\n\nNorges nasjonaldag feires med brask og bram. Se feiringen av grunnlovsdagen i NRK TV. Gratulerer med dagen!",
-      "excerpt": "Prinsesse Ingrid Alexandra feirer nasjonaldagen i Sydney, og har sendt en hilsen hjem til Norge.\n\n– Kjære alle sammen, i dag har jeg litt ekstra hjemlengsel. I dag feirer jeg 17. mai i Sydney, og jeg håper alle dere har en fin feiring, enten dere feirer hjemme eller i utlandet, skriver prinsesse...",
-      "image": "https://images.unsplash.com/photo-1738042184060-b1adeb334e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkwMDAzNzV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/prinsesse-ingrid-alexandra-hilser-hjem-til-norge--1.17886639",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-17T06:46:15.621Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779000373868.9565,
-      "title": "Kronprinsesse Mette-Marit med pustehjelp på Skaugum",
-      "slug": "kronprinsesse-mettemarit-med-pustehjelp-p-skaugum",
-      "content": "Kronprinsparet og prins Sverre Magnus hilste og vinket til Asker barnetog på Skaugum 17. mai.\n\nKronprinsesse Mette-Marit stilte på trappen med pustehjelp.\n\nTradisjonen tro hilste kronprinsfamilien barnetoget i Asker på morgenkvisten 17. mai. Kronprinsesse Mette-Marit møtte barnetoget med pustehjelp.\n\n17. mai-feiring\n\nNorges nasjonaldag feires med brask og bram. Se feiringen av grunnlovsdagen i NRK TV. Gratulerer med dagen!",
-      "excerpt": "Kronprinsparet og prins Sverre Magnus hilste og vinket til Asker barnetog på Skaugum 17. mai.\n\nKronprinsesse Mette-Marit stilte på trappen med pustehjelp.\n\nTradisjonen tro hilste kronprinsfamilien barnetoget i Asker på morgenkvisten 17. mai. Kronprinsesse Mette-Marit møtte barnetoget med...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kronprinsesse-mette-marit-med-pustehjelp-pa-skaugum-1.17886647",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-17T06:46:13.869Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1778989159590.5938,
-      "title": "Maduro-alliert utlevert til USA",
-      "slug": "maduroalliert-utlevert-til-usa",
-      "content": "Venezuela har ulevert landets tidligere industriminister, Maduro-støttespilleren Alex Saab, til USA.\n\n– Deporteringen ble vedtatt med henvisning til at denne colombianske statsborgeren er involvert i utførelsene av flere kriminelle handlinger i USA, noe som velkjent og offentlig omtalt, heter det i en uttalelse fra venezuelanske tjenestemenn.\n\nSaab er født i Venezuelas naboland Colombia og er statsborger i begge land.\n\nFor å kunne deportere ham har imidlertid Venezuelas immigrasjonsmyndigheter lagt vekt på hans colombianske nasjonalitet.\n\nLørdagens beslutning innebærer at han er utlevert til USA for andre gang. Sist det skjedde var i 2020.\n\nDa ble han pågrepet på Kapp Verde og utlevert året etter, anklaget for hvitvasking. Han ble løslatt i 2023 i en fangeutveksling med USA.\n\nSaab har vært en nær støttespiller for Nicolás Maduro, som var president i Venezuela fram til han og kona ble bortført i en amerikansk militæraksjon i januar.\n\nMaduro sitter for tiden varetektsfengslet i New York og er siktet for omfattende narkotikasmugling.",
-      "excerpt": "Venezuela har ulevert landets tidligere industriminister, Maduro-støttespilleren Alex Saab, til USA.\n\n– Deporteringen ble vedtatt med henvisning til at denne colombianske statsborgeren er involvert i utførelsene av flere kriminelle handlinger i USA, noe som velkjent og offentlig omtalt, heter det i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/maduro-alliert-utlevert-til-usa-1.17886611",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-17T03:39:19.590Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1254,
+    "totalFetched": 1257,
     "totalPublished": 77,
-    "lastFetch": "2026-05-19T15:28:50.681Z",
+    "lastFetch": "2026-05-19T18:07:28.472Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
