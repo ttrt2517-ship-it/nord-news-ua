@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1779301232524.5093,
+      "title": "Eide om de arresterte aktivistene i Israel",
+      "slug": "eide-om-de-arresterte-aktivistene-i-israel",
+      "content": "– Filmen som Israels innenriksminister Ben Gvir har publisert på X, hvor aktivistene fra Gaza-flotiljen er bundet på ryggen og lagt i bakken, gjør dypt inntrykk. Behandlingen av aktivistene er fullstendig uakseptabel. Det sier utenriksminister Espen Barth Eide (Ap)\n\n– Vi har i dag sagt tydelig fra til israelske myndigheter at vi krever at de anholdte norske borgerne blir behandlet med respekt og at deres rettigheter blir ivaretatt.\n\nEide sier at representanter fra Norges ambassade i Tel Aviv skal reise til fengselet hvor de arresterte sitter torsdag. – Vi forventer å få tilgang til de norske borgerne uten opphold, slik at vi kan gi de anholdte konsulær bistand. Vi vil arbeide for at de raskest mulig kan reise hjem igjen, sier Eide.\n\n«Ikke bry dere om skrikene deres» sier Israels sikkerhetsminister om anholdte Palestina-aktivister. Nå får han voldsom kritikk, blant annet fra Norge.",
+      "excerpt": "– Filmen som Israels innenriksminister Ben Gvir har publisert på X, hvor aktivistene fra Gaza-flotiljen er bundet på ryggen og lagt i bakken, gjør dypt inntrykk. Behandlingen av aktivistene er fullstendig uakseptabel. Det sier utenriksminister Espen Barth Eide (Ap)\n\n– Vi har i dag sagt tydelig fra...",
+      "image": "https://images.unsplash.com/photo-1721305485635-13f5100711e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzMDEyMzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/eide-om-de-arresterte-aktivistene-i-israel-1.17891484",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-20T18:20:32.524Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779301230970.82,
+      "title": "Trump sier olje fra Venezuela er på vei til USA",
+      "slug": "trump-sier-olje-fra-venezuela-er-p-vei-til-usa",
+      "content": "Olje fra Venezuela skal være på vei til oljeraffinerier i flere stater i USA, ifølge landets president Donald Trump.\n\nUttalelsen kom i en tale han holdt til uteksaminerte studenter fra den amerikanske kystvaktens akademi.\n\n– Vi har millioner av fat med olje som er på vei til deler av Texas, Louisiana og Alaska, sa Trump fra podiet, og kalte det et samarbeid med Venezuela.",
+      "excerpt": "Olje fra Venezuela skal være på vei til oljeraffinerier i flere stater i USA, ifølge landets president Donald Trump.\n\nUttalelsen kom i en tale han holdt til uteksaminerte studenter fra den amerikanske kystvaktens akademi.\n\n– Vi har millioner av fat med olje som er på vei til deler av Texas...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-sier-olje-fra-venezuela-er-pa-vei-til-usa-1.17891630",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-20T18:20:30.970Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779301229548.0195,
+      "title": "USA bordet iransk oljetanker",
+      "slug": "usa-bordet-iransk-oljetanker",
+      "content": "Amerikanske marinesoldater bordet skipet i Omanbukta utenfor Hormuzstredet, skriver hovedkommandoen for Midtøsten (Centcom) på X. De sier tankskipet forsøkte å bryte den amerikanske blokaden av Hormuzstredet.\n\nTankskipet Celestial Sea skal seile under iransk flagg, og var på vei til en havn i Iran, ifølge Centcom. Etter å ha søkt gjennom skipet og bedt mannskapet om å endre kurs friga de den.\n\n– Amerikanske styrker fortsetter å håndheve blokaden fullt ut og har nå omdirigert 91 handelsskip for å sikre etterlevelse, står det i uttalelsen.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Amerikanske marinesoldater bordet skipet i Omanbukta utenfor Hormuzstredet, skriver hovedkommandoen for Midtøsten (Centcom) på X. De sier tankskipet forsøkte å bryte den amerikanske blokaden av Hormuzstredet.\n\nTankskipet Celestial Sea skal seile under iransk flagg, og var på vei til en havn i Iran...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/usa-bordet-iransk-oljetanker-1.17891657",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-20T18:20:29.549Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779290791159.8298,
       "title": "Elektrikerne varsler nytt streikeuttak – frist ved midnatt",
       "slug": "elektrikerne-varsler-nytt-streikeuttak-frist-ved-midnatt",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-18T08:06:13.543Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779091571271.1797,
-      "title": "Nordmenn tjente mer i fjor",
-      "slug": "nordmenn-tjente-mer-i-fjor",
-      "content": "Gjennomsnittslønnen i Norge økte med 5,5 prosent i 2025, ifølge SSB. I snitt tjente nordmenn 620.900 kroner i fjor.\n\nVeksten skyldes i hovedsak høyere utbetalt kontantlønn, som økte med 5,7 prosent. Totalt mottok 3,1 millioner nordmenn kontantlønn i 2025, skriver SSB.\n\nMenn tjener fortsatt betydelig mer enn kvinner. Menn hadde i fjor i snitt 695.800 kroner i lønn, mot kvinners 539.500 kroner. Veksten var likevel omtrent like stor for begge kjønn.\n\nBærum topper lista med et snitt på 793.200 kroner. Sola, Asker, Stavanger og Oslo følger hakk i hæl.\n\nSamtidig viser tallene at stadig flere lever på arbeidsavklaringspenger (AAP). Siden 2020 har antallet økt hvert år. I 2025 mottok 211.000 personer AAP – opp fra 203.900 året før. Totalt ble det utbetalt 51 milliarder kroner i AAP. Snittet per mottaker var 240.300 kroner.\n\nNorsk økonomi\n\nPrisene stiger i Norge. Spesielt stor er økningen i drivstoffprisene. Tall fra SSB viser at drivstoffprisene har økt med 14,7 prosent siden samme tid i fjor.\n\nArbeidsliv\n\nSummen av de som jobber og de som er arbeidsledige kalles for arbeidstyrken. Sammenlignet med andre land er en stor del av befolkningen i Norge i arbeid. I juli 2018 var 70,3 prosent av befolkningen i arbeid eller arbeidsledig, ifølge SSB.",
-      "excerpt": "Gjennomsnittslønnen i Norge økte med 5,5 prosent i 2025, ifølge SSB. I snitt tjente nordmenn 620.900 kroner i fjor.\n\nVeksten skyldes i hovedsak høyere utbetalt kontantlønn, som økte med 5,7 prosent. Totalt mottok 3,1 millioner nordmenn kontantlønn i 2025, skriver SSB.\n\nMenn tjener fortsatt...",
-      "image": "https://images.unsplash.com/photo-1599847741258-1cabea52f6d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkwOTE1NzF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/nordmenn-tjente-mer-i-fjor-1.17887364",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-18T08:06:11.271Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779076437596.1199,
-      "title": "Ukrainske myndigheter: Flere såret i russiske luftangrep",
-      "slug": "ukrainske-myndigheter-flere-sret-i-russiske-luftangrep",
-      "content": "Flere mennesker er såret i russiske luftangrep mot de ukrainske byene Odesa og Dnipro, ifølge ukrainske myndigheter.\n\nI havnebyen Odesa traff droner en skole og en barnehage, ifølge myndighetene.\n\nEn 11 år gammel gutt og en 59 år gammel mann ble såret, ​ifølge den lokale militære lederen Serhiy Lysak, melder nyhetsbyrået.\n\nI Dnipro ble tre mennesker såret da missiler traff byen, ifølge den lokale guvernøren Oleksandr ​Hanzha, skriver Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Flere mennesker er såret i russiske luftangrep mot de ukrainske byene Odesa og Dnipro, ifølge ukrainske myndigheter.\n\nI havnebyen Odesa traff droner en skole og en barnehage, ifølge myndighetene.\n\nEn 11 år gammel gutt og en 59 år gammel mann ble såret, ​ifølge den lokale militære lederen Serhiy...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ukrainske-myndigheter_-flere-saret-i-russiske-luftangrep-1.17887166",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-18T03:53:57.596Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779076436043.9434,
-      "title": "USA henter ut amerikanere fra ebola-rammede Kongo",
-      "slug": "usa-henter-ut-amerikanere-fra-ebolarammede-kongo",
-      "content": "USA har startet å hente ut et mindre antall amerikanere fra ebola-rammede Kongo, opplyser USAs senter for sykdomskontroll og forebygging (CDC).\n\nAmerikanerne antas å ha vært i kontakt med personer som mistenkes for å ha ebola. De skal nå i isolasjon, men det er ennå uvisst om de er smittet.\n\nDen særlig dødelige ebolavarianten bundibugyo har spredd seg til flere byer og skal på få uker ha krevd over 80 menneskeliv i Kongo. Utbruddet er en internasjonal folkehelsekrise, ifølge Verdens helseorganisasjon (WHO).\n\nWHO frykter at utbruddet kan være langt større enn det som så langt er rapportert, og viser blant annet til den høye andelen positive smittetilfeller blant prøvene som hittil er tatt.  (NTB)\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og Liberia. Etter at det store utbruddet var over, er det registrert flere sporadiske tilfeller av smitte.",
-      "excerpt": "USA har startet å hente ut et mindre antall amerikanere fra ebola-rammede Kongo, opplyser USAs senter for sykdomskontroll og forebygging (CDC).\n\nAmerikanerne antas å ha vært i kontakt med personer som mistenkes for å ha ebola. De skal nå i isolasjon, men det er ennå uvisst om de er smittet.\n\nDen...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-henter-ut-amerikanere-fra-ebola-rammede-kongo-1.17887165",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-18T03:53:56.043Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1274,
+    "totalFetched": 1277,
     "totalPublished": 77,
-    "lastFetch": "2026-05-20T15:26:33.567Z",
+    "lastFetch": "2026-05-20T18:20:34.671Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
