@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1779248821045.713,
+      "title": "Avis: USA og Israel skal ha vurdert Ahmadinejad som ny leder i Iran",
+      "slug": "avis-usa-og-israel-skal-ha-vurdert-ahmadinejad-som-ny-leder-",
+      "content": "USA og Israel gikk inn i krigen mot Iran med en plan om å bidra til regimeskifte i Teheran, med tidligere president Mahmoud Ahmadinejad som mulig ny leder, ifølge amerikanske tjenestemenn.\n\nPlanen var utviklet av Israel, og Ahmadinejad skal ha vært konsultert, skriver The New York Times. Amerikanske tjenestemenn som er blitt orientert om saken, sier planen raskt gikk galt.\n\nAhmadinejad ble såret på krigens første dag i et israelsk angrep mot boligen hans i Teheran, ifølge flere kilder. Angrepet skulle ifølge kildene frigjøre ham fra husarrest, skriver NTB.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. 11. februar begynte fredsforhandlinger mellom landene.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "USA og Israel gikk inn i krigen mot Iran med en plan om å bidra til regimeskifte i Teheran, med tidligere president Mahmoud Ahmadinejad som mulig ny leder, ifølge amerikanske tjenestemenn.\n\nPlanen var utviklet av Israel, og Ahmadinejad skal ha vært konsultert, skriver The New York Times....",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/avis_-usa-og-israel-skal-ha-vurdert-ahmadinejad-som-ny-leder-i-iran-1.17890073",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-20T03:47:01.045Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779248819566.953,
+      "title": "Trumps-støttet kandidat vant republikanernes valg i Kentucky",
+      "slug": "trumpsstttet-kandidat-vant-republikanernes-valg-i-kentucky",
+      "content": "Den Trump-støttede kandidaten Ed Gallrein vant republikanernes primærvalg i delstaten Kentucky i USA. Han slår dermed ut den sittende politikeren Thomas Massie, ifølge flere amerikanske medier.\n\nGallrein blir nå Det republikanske partiets kandidat for sitt distrikt i høstens valg.\n\nDonald Trumps håndplukkede kandidat i Kentucky Ed Gallrein vant republikanernes primærvalg i delstaten.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Den Trump-støttede kandidaten Ed Gallrein vant republikanernes primærvalg i delstaten Kentucky i USA. Han slår dermed ut den sittende politikeren Thomas Massie, ifølge flere amerikanske medier.\n\nGallrein blir nå Det republikanske partiets kandidat for sitt distrikt i høstens valg.\n\nDonald Trumps...",
+      "image": "https://images.unsplash.com/photo-1679769767348-be52800f0601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkyNDg4MTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/trumps-stottet-kandidat-vant-republikanernes-valg-i-kentucky-1.17890074",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-20T03:46:59.566Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779248818038.1692,
+      "title": "Trump deltar på G7-toppmøte i Frankrike i juni",
+      "slug": "trump-deltar-p-g7toppmte-i-frankrike-i-juni",
+      "content": "USAs president Donald Trump skal delta på G7-toppmøtet i Frankrike neste måned, opplyser en tjenesteperson i Det hvite hus.\n\nToppmøtet holdes i Evian i de franske Alpene 15.–17. juni, skriver NTB.\n\nI tillegg til Frankrike og USA består G7 av Storbritannia, Tyskland, Japan, Italia og Canada. EU deltar også på G7-møtene.\n\nG7-landene\n\nGruppen som kalles G7-landene består av de sju rikeste demokratiske industrilandene i verden: Canada, Frankrike, Italia, Japan, Storbritannia, Tyskland og USA. Lederne for G7-landene møtes fysisk 19.-21. mai i Hiroshima i Japan.",
+      "excerpt": "USAs president Donald Trump skal delta på G7-toppmøtet i Frankrike neste måned, opplyser en tjenesteperson i Det hvite hus.\n\nToppmøtet holdes i Evian i de franske Alpene 15.–17. juni, skriver NTB.\n\nI tillegg til Frankrike og USA består G7 av Storbritannia, Tyskland, Japan, Italia og Canada. EU...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-deltar-pa-g7-toppmote-i-frankrike-i-juni-1.17890077",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-20T03:46:58.038Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779231838906.0312,
       "title": "Senatet åpner for avstemning om å tvinge Trump til å avslutte Iran-krigen",
       "slug": "senatet-pner-for-avstemning-om-tvinge-trump-til-avslutte-ira",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-17T13:24:59.183Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779024297736.5518,
-      "title": "Tiger skutt og drept av tysk politi",
-      "slug": "tiger-skutt-og-drept-av-tysk-politi",
-      "content": "Tysk politi har skutt og drept en tiger som rømte fra et privat anlegg i nærheten av byen Leipzig øst i Tyskland, ifølge en talsperson.\n\nEn person er skadet i det avisa Leipziger Volkszeitung beskriver som et tigerangrep i boligen til en tigertemmer i Dölzig søndag ettermiddag.\n\nOfferet var assistenten til en kvinne som er kjent som «Tigerdronningen» og som etterforskes for tigershow uten tillatelse, ifølge avisa. Tilstanden er ikke kjent. (NTB)",
-      "excerpt": "Tysk politi har skutt og drept en tiger som rømte fra et privat anlegg i nærheten av byen Leipzig øst i Tyskland, ifølge en talsperson.\n\nEn person er skadet i det avisa Leipziger Volkszeitung beskriver som et tigerangrep i boligen til en tigertemmer i Dölzig søndag ettermiddag.\n\nOfferet var...",
-      "image": "https://images.unsplash.com/photo-1738608872231-cee41fbe8a92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkwMjQyOTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/tiger-skutt-og-drept-av-tysk-politi-1.17886854",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-17T13:24:57.736Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779024296153.2139,
-      "title": "Politiet: – 20 personar slåst i Strandgaten",
-      "slug": "politiet-20-personar-slst-i-strandgaten",
-      "content": "Politiet melder om aukande uro blant rusa ungdommar fleire stader i Bergen sentrum laurdag ettermiddag.\n\nLitt over halv tre fekk politiet melding om at 20 ungdomar var involvert i ein slåtskamp utanfor Burger King i Strandgaten.\n\n– Ein person blør, og det blir meldt om flasker som blir knuste, opplyser politiet.\n\nDette er det siste i rekka av mange tilløp til slåstkamp i Bergen sentrum 17. mai.\n\nTidlegare har det kome fleire meldingar om ungdommar som er rusa og i konflikt med kvarandre, mellom anna ved Festningskaien, Lunds Tivoli og Skuteviken.\n\nPolitiet rykte ut både til Skuteviken og Bontelabo etter meldingar om uro. Ved sistnemnde fekk politiet melding om to rusa jenter. Den ein skal ha vore medvitslaus.\n\n– Jenta blir teken hand om fram til helsepersonell kjem fram, opplyser politiet.\n\nKrim og hendingar i Vestland\n\nDet siste frå politiloggen og andre hendingar i Vestland fylke.",
-      "excerpt": "Politiet melder om aukande uro blant rusa ungdommar fleire stader i Bergen sentrum laurdag ettermiddag.\n\nLitt over halv tre fekk politiet melding om at 20 ungdomar var involvert i ein slåtskamp utanfor Burger King i Strandgaten.\n\n– Ein person blør, og det blir meldt om flasker som blir knuste...",
-      "image": "https://images.unsplash.com/photo-1651837063913-7ca672ca539c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkwMjQyOTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestland/politiet_-_-20-personar-slast-i-strandgaten-1.17886881",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-17T13:24:56.153Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779016131281.7014,
-      "title": "Lula ønsker respekt fra Trump",
-      "slug": "lula-nsker-respekt-fra-trump",
-      "content": "Brasils president Luiz Inacio Lula da Silva sier at hans personlige forhold til USAs president Donald Trump kan bidra til å skaffe amerikanske investeringer i Brasil og færre skatter på varer.\n\n– Trump vet at jeg er imot krigen mot Iran, og hans intervensjon i Venezuela og fordømmer folkemordet som skjer i Palestina, sier Lula i et intervju med Washington Post.\n\nLula legger til at hans politiske uenigheter med Trump ikke ødelegger hans forhold til Trump som statsleder.\n\n– Det jeg ønsker, er at han behandler Brasil med respekt, og forstår at jeg er den demokratisk valgte presidenten her\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president Jair Bolsonaro til angrep på Kongressen, presidentpalasset og høyesterett i hoevdstaden Brasília.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Brasils president Luiz Inacio Lula da Silva sier at hans personlige forhold til USAs president Donald Trump kan bidra til å skaffe amerikanske investeringer i Brasil og færre skatter på varer.\n\n– Trump vet at jeg er imot krigen mot Iran, og hans intervensjon i Venezuela og fordømmer folkemordet som...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/lula-onsker-respekt-fra-trump--1.17886809",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-17T11:08:51.281Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1261,
+    "totalFetched": 1264,
     "totalPublished": 77,
-    "lastFetch": "2026-05-19T23:04:01.639Z",
+    "lastFetch": "2026-05-20T03:47:03.415Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
