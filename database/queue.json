@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1779335820971.1748,
+      "title": "SpaceX med milliardtap før mulig børsnotering",
+      "slug": "spacex-med-milliardtap-fr-mulig-brsnotering",
+      "content": "Nye regnskapstall viser at Elon Musks romfartsselskap SpaceX hadde et underskudd på 4,94 milliarder dollar i fjor, nesten 46 milliarder kroner.\n\nSamtidig hadde romfartsselskapet en omsetning på 18,67 milliarder dollar, ifølge dokumenter som er levert til det amerikanske finanstilsynet SEC i Washington.\n\nOgså første kvartal i år endte med stort underskudd. Selskapet tapte 4,28 milliarder dollar og hadde en omsetning på rundt 4,7 milliarder dollar.\n\nTallene blir gjort kjent før det som kan bli en svært stor børsnotering. Ifølge medierapporter ønsker SpaceX en verdsettelse på rundt 2000 milliarder dollar. Selskapet kan hente opptil 80 milliarder dollar i noteringen, som i så fall vil bli den største børsnoteringen noensinne. SpaceX skal sikte mot børsnotering i midten av juni.\n\nSpaceX\n\nDet private romfartsselskapet SpaceX, med Tesla-gründer Elon Musk i spissen, utvikler raketter og fartøyer for å bringe last og mennesker opp i verdensrommet.",
+      "excerpt": "Nye regnskapstall viser at Elon Musks romfartsselskap SpaceX hadde et underskudd på 4,94 milliarder dollar i fjor, nesten 46 milliarder kroner.\n\nSamtidig hadde romfartsselskapet en omsetning på 18,67 milliarder dollar, ifølge dokumenter som er levert til det amerikanske finanstilsynet SEC i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/spacex-med-milliardtap-for-mulig-borsnotering-1.17891849",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-21T03:57:00.971Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779335819522.8489,
+      "title": "Alvorlig MC-ulykke i Trondheim",
+      "slug": "alvorlig-mculykke-i-trondheim",
+      "content": "En mann i 40-årene er fraktet til sykehus etter en singelulykke med en MC på Byåsen i Trondheim natt til torsdag.\n\n– Spor på stedet tyder på at motorsykkelen har krasjet i en stolpe, ifølge politiet i Trøndelag.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "En mann i 40-årene er fraktet til sykehus etter en singelulykke med en MC på Byåsen i Trondheim natt til torsdag.\n\n– Spor på stedet tyder på at motorsykkelen har krasjet i en stolpe, ifølge politiet i Trøndelag.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video...",
+      "image": "https://images.unsplash.com/photo-1695982207685-d7e131ac14b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzMzU4MTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/alvorlig-mc-ulykke-i-trondheim-1.17891847",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-21T03:56:59.522Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779335818001.6438,
+      "title": "Brudd i lønnsforhandlinger på sokkelen – fare for streik",
+      "slug": "brudd-i-lnnsforhandlinger-p-sokkelen-fare-for-streik",
+      "content": "Det er brudd i lønnsforhandlingene mellom Styrke og Norges Rederiforbund om flyteriggavtalen. Forhandlingene ble brutt klokken 3.30 natt til torsdag.\n\n– Det var for stor avstand mellom partene, sier forbundsleder Frode Alfheim. Oppgjøret går nå til mekling hos Riksmekleren, og dersom partene ikke blir enige, kan det bli streik på sokkelen.",
+      "excerpt": "Det er brudd i lønnsforhandlingene mellom Styrke og Norges Rederiforbund om flyteriggavtalen. Forhandlingene ble brutt klokken 3.30 natt til torsdag.\n\n– Det var for stor avstand mellom partene, sier forbundsleder Frode Alfheim. Oppgjøret går nå til mekling hos Riksmekleren, og dersom partene ikke...",
+      "image": "https://images.unsplash.com/photo-1552394107-dca0e7a2d7bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzMzU4MTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/brudd-i-lonnsforhandlinger-pa-sokkelen-_-fare-for-streik-1.17891862",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-21T03:56:58.002Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779319133137.392,
       "title": "‘We are aware’: Norway&#039;s UDI responds to criticism over residency permit delays",
       "slug": "we-are-aware-norway039s-udi-responds-to-criticism-over-resid",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-18T16:48:01.179Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779122879635.0886,
-      "title": "Libanon: Over 3000 drept i israelske angrep siden mars",
-      "slug": "libanon-over-3000-drept-i-israelske-angrep-siden-mars",
-      "content": "Minst 3020 personer er drept og 9273 personer er skadd i israelske angrep siden mars, ifølge Libanons helsedepartement. 211 av dem var mindreårige og 116 var helsearbeidere.\n\nOver 600 er drept bare siden våpenhvilen trådte i kraft 17. april, opplyste Flyktninghjelpen i forrige uke. Våpenhvilen mellom Israel og Libanon ble nylig forlenget etter samtaler mellom partene i Washington.\n\nIfølge Israel er 17 israelske soldater drept i Hizbollah-angrep i Sør-Libanon siden 2. mars.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
-      "excerpt": "Minst 3020 personer er drept og 9273 personer er skadd i israelske angrep siden mars, ifølge Libanons helsedepartement. 211 av dem var mindreårige og 116 var helsearbeidere.\n\nOver 600 er drept bare siden våpenhvilen trådte i kraft 17. april, opplyste Flyktninghjelpen i forrige uke. Våpenhvilen...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/libanon_-over-3000-drept-i-israelske-angrep-siden-mars-1.17888197",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-18T16:47:59.635Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779122878065.1572,
-      "title": "VG: Norsk mann druknet i Irland",
-      "slug": "vg-norsk-mann-druknet-i-irland",
-      "content": "Nordmannen var om bord i en båt med to andre nordmenn og båten skal ha kantret utenfor Galway, på vestkysten av Irland lørdag, skriver det irske nyhetsmediet rte.ie.\n\nKjartan Sildnes, kommunikasjonssjef i Sjøforsvaret sier til VG at den omkomne jobbet i Sjøforsvaret.\n\nSildnes sier at ulykken skjedde på fritiden. De to andre nordmennene har også tilknytning til forsvarssektoren, ifølge kommunikasjonssjefen.\n\nDrukning og badeulykker\n\n38 mennesker mistet livet i drukning i Norge i første halvår 2023. I fjor døde 88 i drukningsulykker her i landet, viser Redningsselskapets drukningsstatistikk.",
-      "excerpt": "Nordmannen var om bord i en båt med to andre nordmenn og båten skal ha kantret utenfor Galway, på vestkysten av Irland lørdag, skriver det irske nyhetsmediet rte.ie.\n\nKjartan Sildnes, kommunikasjonssjef i Sjøforsvaret sier til VG at den omkomne jobbet i Sjøforsvaret.\n\nSildnes sier at ulykken...",
-      "image": "https://images.unsplash.com/photo-1742458498965-713e96e47f8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkxMjI4Nzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/vg_-norsk-mann-druknet-i-irland-1.17888231",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-18T16:47:58.065Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779112117891.8735,
-      "title": "Ryanair med gode kvartalsresultater",
-      "slug": "ryanair-med-gode-kvartalsresultater",
-      "content": "Inntektene etter skatt økte med 35 prosent til 2,17 milliarder euro, tilsvarende 23,44 milliarder kroner, sammenlignet med samme periode i fjor.\n\nResultatet før skatt steg med 36 prosent til 2,42 milliarder euro, tilsvarende 26,14 milliarder kroner.\n\nSamtidig uttrykker Ryanair-sjef Michael O'Leary usikkerhet rundt resten av året. Oljeprisene har skutt i været i på grunn Iran-krigen.\n\n– Konflikten i Midtøsten har ført til økonomisk usikkerhet, og vi vet fremdeles ikke når Hormuzstredet gjenåpnes, sier O'Leary.",
-      "excerpt": "Inntektene etter skatt økte med 35 prosent til 2,17 milliarder euro, tilsvarende 23,44 milliarder kroner, sammenlignet med samme periode i fjor.\n\nResultatet før skatt steg med 36 prosent til 2,42 milliarder euro, tilsvarende 26,14 milliarder kroner.\n\nSamtidig uttrykker Ryanair-sjef Michael O'Leary...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ryanair-med-gode-kvartalsresultater-1.17887918",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-18T13:48:37.891Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1282,
+    "totalFetched": 1285,
     "totalPublished": 77,
-    "lastFetch": "2026-05-20T23:18:54.138Z",
+    "lastFetch": "2026-05-21T03:57:03.333Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
