@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1779576891432.7876,
+      "title": "Massivt rakettangrep mot Kyiv",
+      "slug": "massivt-rakettangrep-mot-kyiv",
+      "content": "Ukrainas hovedstad Kyiv ble natt til søndag truffet av et massivt angrep med ballistiske raketter. Det opplyser militære myndigheter i byen, ifølge nyhetsbyrået AFP.\n\n– Hovedstaden er truffet av et stort angrep med ballistiske missiler. Det kan komme nye rakettutskytinger. Søk tilflukt, skriver Tymur Tkachenko på Telegram. Han er leder for militæradministrasjonen i Kyiv.\n\nAngrepet skjedde etter at Ukraina på forhånd hadde advart om at de ventet et stort russisk angrep.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainas hovedstad Kyiv ble natt til søndag truffet av et massivt angrep med ballistiske raketter. Det opplyser militære myndigheter i byen, ifølge nyhetsbyrået AFP.\n\n– Hovedstaden er truffet av et stort angrep med ballistiske missiler. Det kan komme nye rakettutskytinger. Søk tilflukt, skriver...",
+      "image": "https://images.unsplash.com/photo-1686731709928-a603b9ca9a82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk1NzY4OTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/massivt-rakettangrep-mot-kyiv-1.17895321",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-23T22:54:51.432Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779576889788.4138,
+      "title": "Luftambulanse på vei etter sparkesykkelulykke i Holmestrand",
+      "slug": "luftambulanse-p-vei-etter-sparkesykkelulykke-i-holmestrand",
+      "content": "En person er skadet etter en ulykke med en sparkesykkel i Holmestrand natt til søndag. Luftambulansen og nødetatene er på vei til stedet, opplyser Sør-Øst politidistrikt i politiloggen.\n\nUlykken har skjedd på Hvittingfossveien, og politiet fikk melding om hendelsen klokken 0.20.\n\nSkadeomfanget er foreløpig ukjent, ifølge operasjonsleder Marius Daffinrud Fosvold.",
+      "excerpt": "En person er skadet etter en ulykke med en sparkesykkel i Holmestrand natt til søndag. Luftambulansen og nødetatene er på vei til stedet, opplyser Sør-Øst politidistrikt i politiloggen.\n\nUlykken har skjedd på Hvittingfossveien, og politiet fikk melding om hendelsen klokken 0.20.\n\nSkadeomfanget er...",
+      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk1NzY4ODl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/luftambulanse-pa-vei-etter-sparkesykkelulykke-i-holmestrand-1.17895320",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-23T22:54:49.788Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779576888285.866,
+      "title": "Melding om skudd nær Det hvite hus",
+      "slug": "melding-om-skudd-nr-det-hvite-hus",
+      "content": "Politi og sikkerhetsstyrker rykket lørdag kveld ut til området rundt Det hvite hus i USA etter meldinger om skyting, skriver nyhetsbyrået AFP.\n\nRundt 20 skudd ble hørt like etter klokken 18 lokal tid, skriver CBS News.\n\nDe melder at skuddene trolig har kommet fra nordsiden av Det hvite hus-komplekset. Secret Service skal så ha ledet mediefolk inn i Det hvite hus.\n\nPresident Donald Trump var inne i bygningen da det skjedde. Han jobbet da med å forhandle frem en avtale med Iran.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Politi og sikkerhetsstyrker rykket lørdag kveld ut til området rundt Det hvite hus i USA etter meldinger om skyting, skriver nyhetsbyrået AFP.\n\nRundt 20 skudd ble hørt like etter klokken 18 lokal tid, skriver CBS News.\n\nDe melder at skuddene trolig har kommet fra nordsiden av Det hvite...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/melding-om-skudd-naer-det-hvite-hus-1.17895323",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-23T22:54:48.286Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779569741974.3687,
       "title": "Titusener i protest mot regjeringen i Serbia",
       "slug": "titusener-i-protest-mot-regjeringen-i-serbia",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-21T21:28:01.939Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779398880069.9258,
-      "title": "Trump: USA sender 5000 soldater til Polen likevel",
-      "slug": "trump-usa-sender-5000-soldater-til-polen-likevel",
-      "content": "USA skal likevel sende ytterligere 5000 soldater til Polen, kunngjør president Donald Trump torsdag.\n\nDet skjer dagen etter at det amerikanske forsvarsdepartementet sa at utplasseringen av amerikanske styrker i Polen var blitt utsatt.\n\nI meldingen på Truth Social gir Trump valget av den nasjonalkonservative kandidaten Karol Nawrocki som president æren for at han nå sender soldater til Polen.",
-      "excerpt": "USA skal likevel sende ytterligere 5000 soldater til Polen, kunngjør president Donald Trump torsdag.\n\nDet skjer dagen etter at det amerikanske forsvarsdepartementet sa at utplasseringen av amerikanske styrker i Polen var blitt utsatt.\n\nI meldingen på Truth Social gir Trump valget av den...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump_-usa-sender-5000-soldater-til-polen-likevel-1.17893207",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-21T21:28:00.069Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779386460401.2654,
-      "title": "Tor Magne Nesvik er valgt som ny biskop",
-      "slug": "tor-magne-nesvik-er-valgt-som-ny-biskop",
-      "content": "Tor Magne Nesvik ble torsdag ettermiddag valgt til ny biskop i Stavanger bispedømme.\n\n– Jeg har en enorm tro på Den norske kirke i Stavanger. Jesus, kirken og Bibelen er relevant og viktig i vår tid. Jeg vil peke på urett og urettferdighet og at vi må ta vare på hverandre og på skaperverket, sier Nesvik.\n\nEtter en avstemning i mars stod valget mellom Karen Margrethe E. Mestad, Vidar Mæland Bakke og Tor Magne Nesvik.\n\nDet var Kirkerådet som foretok den endelige utnevnelsen torsdag.\n\nIfølge Kirkerådet tilsetter de ny biskop ut i fra en helhetsvurdering. Avstemning, bispedømmerådets prioritering, biskopens uttalelser og intervjuene med bispekandidatene danner til sammen grunnlaget for Kirkerådets valg.\n\nNesvik blir presentert i Stavanger domkirke fredag 22. mai klokken 11.00.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
-      "excerpt": "Tor Magne Nesvik ble torsdag ettermiddag valgt til ny biskop i Stavanger bispedømme.\n\n– Jeg har en enorm tro på Den norske kirke i Stavanger. Jesus, kirken og Bibelen er relevant og viktig i vår tid. Jeg vil peke på urett og urettferdighet og at vi må ta vare på hverandre og på skaperverket, sier...",
-      "image": "https://images.unsplash.com/photo-1715835441806-6243646c9336?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzODY0NjB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/rogaland/tor-magne-nesvik-er-valgt-som-ny-biskop-1.17893050",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-21T18:01:00.401Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779386458901.1377,
-      "title": "Skoleelev dømt for millionsvindel",
-      "slug": "skoleelev-dmt-for-millionsvindel",
-      "content": "En videregående-elev er i Oslo tingrett dømt til fem år og ti måneders fengsel for å ha lurt nordmenn for over 15 millioner kroner.\n\nEleven sendte ut over 50.000 svindelmeldinger, blant annet mens han satt i klasserommet. Han må betale nesten sju millioner kroner i erstatning og fradømmes retten til å bruke appen Telegram i fem år.\n\nEleven tilsto i retten, men forsvarer Tom Barth-Hofstad sier til NRK at dommen vil bli anket. Klienten mener straffen er for streng og at retten i for liten grad har vektlagt psykiatriske vurderinger om muligheter for straff i frihet.\n\n– Han mener straffeutmålingen er for streng. Retten har lagt uriktig stor vekt på faren for tap og uriktig liten vekt på det reelle tapet, sier forsvareren.\n\nMens resten av klassen fulgte undervisningen, ledet en av elevene en massiv svindeloperasjon fra skolepulten.",
-      "excerpt": "En videregående-elev er i Oslo tingrett dømt til fem år og ti måneders fengsel for å ha lurt nordmenn for over 15 millioner kroner.\n\nEleven sendte ut over 50.000 svindelmeldinger, blant annet mens han satt i klasserommet. Han må betale nesten sju millioner kroner i erstatning og fradømmes retten...",
-      "image": "https://images.unsplash.com/photo-1582073389612-c18eb815b0e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzODY0NTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/skoleelev-domt-for-millionsvindel-1.17893052",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-21T18:00:58.901Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1345,
+    "totalFetched": 1348,
     "totalPublished": 77,
-    "lastFetch": "2026-05-23T20:55:44.340Z",
+    "lastFetch": "2026-05-23T22:54:53.636Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
