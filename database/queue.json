@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1779555714504.4587,
+      "title": "Trump: USA nærmer seg en avtale med Iran",
+      "slug": "trump-usa-nrmer-seg-en-avtale-med-iran",
+      "content": "President Donald Trump melder om fremgang i forhandlingene mellom USA og Iran og sier det nærmer seg en fredsavtale.\n\nTrump sier at han skal møte de amerikanske forhandlerne senere lørdag for å diskutere Irans siste forslag til en avtale. Han sier at han trolig bestemmer seg før søndag om USA skal gjenoppta krigen, skriver mediet.\n\nPresidenten vil ikke si noe om detaljene som ligger på bordet nå, men sier det blir «bedre og bedre for hver dag som går», skriver CBS News.\n\n– Jeg signerer bare en avtale hvor vi får alt vi vil ha, sier han i et telefonintervju med kanalen.\n\nEtter planen skal Trump ha en telefonsamtale med lederne av Saudi-Arabia, Qatar, De forente arabiske emirater, Egypt, Tyrkia og Pakistan senere lørdag, opplyser en ikke-navngitt arabisk tjenesteperson til Reuters.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
+      "excerpt": "President Donald Trump melder om fremgang i forhandlingene mellom USA og Iran og sier det nærmer seg en fredsavtale.\n\nTrump sier at han skal møte de amerikanske forhandlerne senere lørdag for å diskutere Irans siste forslag til en avtale. Han sier at han trolig bestemmer seg før søndag om USA skal...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump_-usa-naermer-seg-en-avtale-med-iran-1.17895110",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-23T17:01:54.504Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779555712856.533,
+      "title": "Jan Petter Bratsberg er død",
+      "slug": "jan-petter-bratsberg-er-dd",
+      "content": "Den anerkjente billedkunstneren og Skiensmannen Jan Petter Bratsberg døde på Skien Sykehus natt til fredag 22. mai etter kort tids sykeleie.\n\nHan ble akutt syk for noen uker siden mens han sto midt i forberedelsene til salgsutstilling på Galleri Nyhuus på Gvarv i juni.\n\nBratsberg var regnet som en av Norges fremste malere av natur og dyr.\n\nBratsberg ble født i Skien 1948, og etterlater seg ektefelle, datter og svigersønn.\n\nIfølge familien vil utstillingen i Gvarv bli gjennomført som planlagt.",
+      "excerpt": "Den anerkjente billedkunstneren og Skiensmannen Jan Petter Bratsberg døde på Skien Sykehus natt til fredag 22. mai etter kort tids sykeleie.\n\nHan ble akutt syk for noen uker siden mens han sto midt i forberedelsene til salgsutstilling på Galleri Nyhuus på Gvarv i juni.\n\nBratsberg var regnet som en...",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/jan-petter-bratsberg-er-dod-1.17895166",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-23T17:01:52.856Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779555711163.5635,
+      "title": "Over 50 skadet i trikkeulykke i Tyskland",
+      "slug": "over-50-skadet-i-trikkeulykke-i-tyskland",
+      "content": "To trikker frontkolliderte i den tyske storbyen Düsseldorf lørdag noe som førte til at mer enn 50 personer ble skadet.\n\nUlykken skjedde rundt 11.30 lørdag formiddag i et travelt veikryss, og nødetater kom raskt til stedet.\n\n28 av de skadede ble fraktet videre til sykehus for behandling, mens 28 andre slapp unna med lettere skader og fikk helsehjelp på stedet, opplyser brannvesenet i Düsseldorf.\n\nÅrsaken til ulykken er foreløpig ikke kjent, men politiet har startet en etterforskning.",
+      "excerpt": "To trikker frontkolliderte i den tyske storbyen Düsseldorf lørdag noe som førte til at mer enn 50 personer ble skadet.\n\nUlykken skjedde rundt 11.30 lørdag formiddag i et travelt veikryss, og nødetater kom raskt til stedet.\n\n28 av de skadede ble fraktet videre til sykehus for behandling, mens 28...",
+      "image": "https://images.unsplash.com/photo-1696280787445-ce3fc3f859f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk1NTU3MTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/over-50-skadet-i-trikkeulykke-i-tyskland-1.17895153",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-23T17:01:51.163Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779548557051.619,
       "title": "Rubio tror Iran-avtale kan landes snart",
       "slug": "rubio-tror-iranavtale-kan-landes-snart",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-21T11:34:26.476Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779363264893.7507,
-      "title": "Truer med streik i Oslo kommune – tar ut ansatte i skoler og barnehager",
-      "slug": "truer-med-streik-i-oslo-kommune-tar-ut-ansatte-i-skoler-og-b",
-      "content": "En rekke ansatte i kommunen kan bli tatt ut i streik.\n\nLO kommune Oslo truer med å ta 1965 ansatte ut i streik, dersom de ikke kommer til enighet med arbeidsgiver Oslo kommune.\n\n– Det er uaktuelt for oss å godta en løsning som ikke sikrer økt kjøpekraft for våre medlemmer, og som ikke gir de lavtlønnede et ekstra løft, uttaler Per Egil Johansen, leder av LO Kommune Oslo.\n\nStreiken vil begynne fredag 29. mai, dersom partene ikke kommer til enighet innen midnatt 28. mai.\n\nTjenester som vil bli rammet er blant annet barnehager, skoler, NAV, kommunale bad, gjenbruksstasjoner, administrasjonen i kommunen og mer.",
-      "excerpt": "En rekke ansatte i kommunen kan bli tatt ut i streik.\n\nLO kommune Oslo truer med å ta 1965 ansatte ut i streik, dersom de ikke kommer til enighet med arbeidsgiver Oslo kommune.\n\n– Det er uaktuelt for oss å godta en løsning som ikke sikrer økt kjøpekraft for våre medlemmer, og som ikke gir de...",
-      "image": "https://images.unsplash.com/photo-1724709253706-d846fc671309?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzNjMyNjR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/truer-med-streik-i-oslo-kommune-_-tar-ut-ansatte-i-skoler-og-barnehager-1.17892166",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-21T11:34:24.893Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779363263166.5986,
-      "title": "Kristersson: Sverige vil nå Nato-mål i 2030",
-      "slug": "kristersson-sverige-vil-n-natoml-i-2030",
-      "content": "Sverige kommer til å nå Natos femprosentmål allerede i 2030, fem år før tiden, sier statsminister Ulf Kristersson.\n\n– Vi tar vårt ansvar som Nato-alliert alvorlig, sa Kristersson på en felles pressekonferanse med Nato-sjef Mark Rutte.\n\nSom Natos ferskeste medlem er Sverige vertskap for Natos utenriksministermøte, som foregår i Helsingborg torsdag og fredag.",
-      "excerpt": "Sverige kommer til å nå Natos femprosentmål allerede i 2030, fem år før tiden, sier statsminister Ulf Kristersson.\n\n– Vi tar vårt ansvar som Nato-alliert alvorlig, sa Kristersson på en felles pressekonferanse med Nato-sjef Mark Rutte.\n\nSom Natos ferskeste medlem er Sverige vertskap for Natos...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kristersson_-sverige-vil-na-nato-mal-i-2030-1.17892189",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-21T11:34:23.166Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779350340548.76,
-      "title": "Rekordmange studenter fullfører høyere utdanning",
-      "slug": "rekordmange-studenter-fullfrer-hyere-utdanning",
-      "content": "Rekordmange studenter fullfører høyere utdanning, og flere masterstudenter enn noen gang fullfører graden sin på normert tid.\n\nDet viser tilstandsrapporten for høyere utdanning, som samler statistikk for statlige universiteter og høyskoler for året som gikk.\n\n– At stadig flere studenter fullfører høyere utdanning er viktig for Norges fremtid. Vi har økende kompetansemangel i det norske arbeidslivet, sier forsknings- og høyere utdanningsminister Sigrun Aasland (Ap).",
-      "excerpt": "Rekordmange studenter fullfører høyere utdanning, og flere masterstudenter enn noen gang fullfører graden sin på normert tid.\n\nDet viser tilstandsrapporten for høyere utdanning, som samler statistikk for statlige universiteter og høyskoler for året som gikk.\n\n– At stadig flere studenter fullfører...",
-      "image": "https://images.unsplash.com/photo-1611053307699-5f74280c0d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzNTAzNDB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/rekordmange-studenter-fullforer-hoyere-utdanning-1.17891978",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-21T07:59:00.548Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1337,
+    "totalFetched": 1340,
     "totalPublished": 77,
-    "lastFetch": "2026-05-23T15:02:39.282Z",
+    "lastFetch": "2026-05-23T17:01:56.845Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
