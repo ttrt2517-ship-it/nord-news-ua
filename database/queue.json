@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1779534834172.3533,
+      "title": "Russisk drone traff gravfølge: én drept og ni skadd",
+      "slug": "russisk-drone-traff-gravflge-n-drept-og-ni-skadd",
+      "content": "Dronen traff et begravelsesfølge i utkanten av den nordøstlige ukrainske byen Sumy, opplyster leder for den regionale militæradministrasjonen.\n\nLokale medier rapporterte at en styrt angrepsdrone hadde truffet veien i nærheten av en buss.\n\nSumy ligger 30 km fra den russiske grensen og har blitt regelmessig angrepet av russiske missiler og droner i løpet av krigens siste år.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Dronen traff et begravelsesfølge i utkanten av den nordøstlige ukrainske byen Sumy, opplyster leder for den regionale militæradministrasjonen.\n\nLokale medier rapporterte at en styrt angrepsdrone hadde truffet veien i nærheten av en buss.\n\nSumy ligger 30 km fra den russiske grensen og har blitt...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/russisk-drone-traff-gravfolge_-en-drept-og-ni-skadd-1.17894862",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-23T11:13:54.172Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779534832563.0244,
+      "title": "Mette Frederiksen bedt om å danne regjering, igjen",
+      "slug": "mette-frederiksen-bedt-om-danne-regjering-igjen",
+      "content": "Fungerende statsminister Mette Frederiksen blir nå bedt om å forsøke å danne en ny dansk regjering.\n\nLørdag var alle partiledere hos kongen for å si hvem de mener bør få oppdraget, og et flertall har pekt på henne.\n\nMette Fredriksens første forsøk gikk i vasken. Det gjorde også Venstre-leder og nåværende forsvarsminister Troels Lund Poulsens forsøk. Etter to uker ga han også opp forsøket på å danne regjering.\n\nDanmark har vært uten en regjering siden valget for 59 dager siden. Forhandlingene vil trolig starte allerede i morgen.",
+      "excerpt": "Fungerende statsminister Mette Frederiksen blir nå bedt om å forsøke å danne en ny dansk regjering.\n\nLørdag var alle partiledere hos kongen for å si hvem de mener bør få oppdraget, og et flertall har pekt på henne.\n\nMette Fredriksens første forsøk gikk i vasken. Det gjorde også Venstre-leder og...",
+      "image": "https://images.unsplash.com/photo-1734454736954-613612760edf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk1MzQ4MzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mette-frederiksen-bedt-om-a-danne-regjering_-igjen-1.17894912",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-23T11:13:52.563Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779530124530.4185,
       "title": "Dansk regjeringsdannelse starter på nytt for tredje gang",
       "slug": "dansk-regjeringsdannelse-starter-p-nytt-for-tredje-gang",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-05-21T03:56:59.522Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779335818001.6438,
-      "title": "Brudd i lønnsforhandlinger på sokkelen – fare for streik",
-      "slug": "brudd-i-lnnsforhandlinger-p-sokkelen-fare-for-streik",
-      "content": "Det er brudd i lønnsforhandlingene mellom Styrke og Norges Rederiforbund om flyteriggavtalen. Forhandlingene ble brutt klokken 3.30 natt til torsdag.\n\n– Det var for stor avstand mellom partene, sier forbundsleder Frode Alfheim. Oppgjøret går nå til mekling hos Riksmekleren, og dersom partene ikke blir enige, kan det bli streik på sokkelen.",
-      "excerpt": "Det er brudd i lønnsforhandlingene mellom Styrke og Norges Rederiforbund om flyteriggavtalen. Forhandlingene ble brutt klokken 3.30 natt til torsdag.\n\n– Det var for stor avstand mellom partene, sier forbundsleder Frode Alfheim. Oppgjøret går nå til mekling hos Riksmekleren, og dersom partene ikke...",
-      "image": "https://images.unsplash.com/photo-1552394107-dca0e7a2d7bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzMzU4MTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/brudd-i-lonnsforhandlinger-pa-sokkelen-_-fare-for-streik-1.17891862",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-21T03:56:58.002Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779319133137.392,
-      "title": "‘We are aware’: Norway&#039;s UDI responds to criticism over residency permit delays",
-      "slug": "we-are-aware-norway039s-udi-responds-to-criticism-over-resid",
-      "content": "After a recent survey by The Local revealed the harsh reality that foreigners face while waiting for residency permits in Norway, we asked the Norwegian Directorate of Immigration (UDI) to respond.\n\nReaders expressed profound frustrations over having to put their lives on hold while applying for any type of residency in the country.\n\nBeyond the administrative delay, the long wait carries a heavy toll, leading to mental health struggles, years apart from family, and serious financial stress for households.\n\nGiven these concerns, we wanted to find out if the UDI recognises the strains caused by these delays, and what, if anything, is being done to improve a system many see as broken.\n\nREAD MORE: 'It’s a joke': Foreigners in Norway warn against trusting UDI wait times\n\nIn our initial contact, the UDI requested clarification on specific cases. As they noted in our exchange, \"waiting times vary a lot, depending on the type of application that has been submitted and the nationality of the applicant,\" suggesting that analysing a single case would be more effective.\n\nHowever, our goal was to understand how the whole system works and to look into the backlog affecting all types of applications.\n\nWe asked the UDI how they see the situation for people stuck in this difficult 'limbo,' including feelings of being unwelcome and concerns about a lack of empathy from immigration authorities.\n\nNikos Rippis, Head of the Department for Residence at the UDI, responded: \"We are aware that it is challenging to wait for a response from the UDI when the applicant's application takes longer than expected.\"\n\n\"Over the course of a year, the UDI processes many applications, including family immigration, study stays, protection, and work permits,\" he said, pointing to the high volume of cases as a reason for delays.\n\nWhen we first reached out to the authorities directly, the standard response was: \"Please take a look at our ‘Want to apply’ section on our website\" (an experience that many applicants likely share).\n\nThe agency later explained that \"waiting times at the UDI vary by case type and the applicant's country of origin. Due to the large number of applications, the waiting times can be long in some cases.\"\n\nThis means that these estimates fluctuate depending on the applicant's nationality, the status of the \"reference person\" in Norway, and personal circumstances such as marital status or having children.\n\nBut apart from these individual characteristics, does the UDI determine specific timeframes to resolve certain cases faster?\n\nPerhaps the most controversial revelation in the UDI's response was that the processing order does not strictly follow a first-come, first-served rule.\n\n\"The UDI is also required by political leadership to prioritise certain cases and types of cases, which will naturally result in some applications having shorter waiting times and others having longer ones,\" Rippis explained. \"In addition to prioritisation, many of the applications we receive involve other public authorities that the applicants must deal with, such as the police and the foreign missions Norway has in various countries.\"\n\nHe did not, however, provide specific details on the criteria for these priorities or what kind of political pressure the UDI faces.\n\nREAD MORE: 'I am powerless': How waiting for answers from Norway's UDI impacts lives\n\nWhen we asked whether any real steps are being taken to fix the problem, Rippis said the agency is \"constantly working to reduce waiting times.\" Still, the solution appears to be a long-term effort.\n\n“The UDI, UD (Ministry of Foreign Affairs), UNE (The Immigration Appeals Board), and the police have received a large grant to modernise our professional systems and digitalise several application processes; in some cases, applications can be processed automatically, reducing waiting times for most applications. This is a project that will last for six years,” Rippis said.\n\nREAD ALSO: 'Hold on tight': What to do if you're stuck in UDI limbo in Norway\n\nAlthough he confirmed the approximate timeline, he provided no further details on the specific activities to be implemented, the bottlenecks they aim to resolve, or how.\n\nFor foreigners currently stuck in the backlog, this framework offers no immediate relief.\n\nWhile there is some hope that things might get better in the future, the present crisis remains unresolved.\n\nDo you have a specific question for the UDI, or is there a particular aspect you would like us to investigate further?  Let us know your thoughts in the comments below.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "After a recent survey by The Local revealed the harsh reality that foreigners face while waiting for residency permits in Norway, we asked the Norwegian Directorate of Immigration (UDI) to respond.\n\nReaders expressed profound frustrations over having to put their lives on hold while applying for...",
-      "image": "https://images.unsplash.com/photo-1732362129913-88a5a52958cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzMTkxMzN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260515/we-are-aware-norways-udi-responds-to-criticism-over-residency-permit-delays",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-05-20T23:18:53.137Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1331,
+    "totalFetched": 1333,
     "totalPublished": 77,
-    "lastFetch": "2026-05-23T09:55:26.724Z",
+    "lastFetch": "2026-05-23T11:13:57.694Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
