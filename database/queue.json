@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1779530124530.4185,
+      "title": "Dansk regjeringsdannelse starter på nytt for tredje gang",
+      "slug": "dansk-regjeringsdannelse-starter-p-nytt-for-tredje-gang",
+      "content": "59 dager etter valget kan fungerende statsminister Mette Frederiksen igjen bli spurt om å starte regjeringsforhandlinger. Etter to mislykkede forsøk på å danne regjering, samles danske partiledere hos kongen klokken 11 for å peke på hvem de mener bør danne ny regjering.\n\nUtenriksminister Lars Løkke Rasmussen, som leder sentrumspartiet Moderaterne, sa fredag kveld nei til å være støtteparti for en borgerlig trepartiregjering.\n\nVenstre-leder og nåværende forsvarsminister Troels Lund Poulsen har i to uker vært såkalt kongelig undersøker. Fredag kveld måtte han gå til kong Frederik og fortelle at han ga opp forsøket på å danne regjering.\n\nDet er ventet at Mette Frederiksen nå får oppgaven, selv om hun ikke lyktes i første runde.\n\nIfølge danske medier har regjeringsforhandlingene i Danmark aldri tatt så lang tid.",
+      "excerpt": "59 dager etter valget kan fungerende statsminister Mette Frederiksen igjen bli spurt om å starte regjeringsforhandlinger. Etter to mislykkede forsøk på å danne regjering, samles danske partiledere hos kongen klokken 11 for å peke på hvem de mener bør danne ny regjering.\n\nUtenriksminister Lars Løkke...",
+      "image": "https://images.unsplash.com/photo-1697308364285-994346ce5e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk1MzAxMjR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/dansk-regjeringsdannelse-starter-pa-nytt-for-tredje-gang-1.17894761",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-23T09:55:24.530Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779530122966.9263,
+      "title": "Tre personer skutt i Stockholm",
+      "slug": "tre-personer-skutt-i-stockholm",
+      "content": "Tre personer er funnet skutt i en enebolig i Stockholm, opplyser svensk politi ifølge Aftonbladet.\n\n– Det har oppstått en slags konflikt i en enebolig og det har ført til at en person mistenkes for å ha avfyrt et våpen, skriver politiet på X.\n\nAlle tre er sendt til sykehus. Én av dem er alvorlig skadd, mens to er lettere skadd, skriver politiet.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
+      "excerpt": "Tre personer er funnet skutt i en enebolig i Stockholm, opplyser svensk politi ifølge Aftonbladet.\n\n– Det har oppstått en slags konflikt i en enebolig og det har ført til at en person mistenkes for å ha avfyrt et våpen, skriver politiet på X.\n\nAlle tre er sendt til sykehus. Én av dem er alvorlig...",
+      "image": "https://images.unsplash.com/photo-1664790660158-8470f8bc548c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk1MzAxMjJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/tre-personer-skutt-i-stockholm-1.17894877",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-23T09:55:22.966Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779530121407.8347,
+      "title": "Zelenskyj bekrefter angrep mot russisk anlegg",
+      "slug": "zelenskyj-bekrefter-angrep-mot-russisk-anlegg",
+      "content": "President Volodymyr Zelenskyj bekrefter på Telegram at Ukraina har utført angrep mot et stort kjemisk anlegg i Perm-regionen i Russland.\n\nAnlegget ligger over 1500 kilometer fra den ukrainske grensa.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "President Volodymyr Zelenskyj bekrefter på Telegram at Ukraina har utført angrep mot et stort kjemisk anlegg i Perm-regionen i Russland.\n\nAnlegget ligger over 1500 kilometer fra den ukrainske grensa.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/zelenskyj-bekrefter-angrep-mot-russisk-anlegg-1.17894886",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-23T09:55:21.407Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779518077649.036,
       "title": "Minst 90 døde i gruveulykke i Kina",
       "slug": "minst-90-dde-i-gruveulykke-i-kina",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-20T23:18:53.137Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779319128420.8364,
-      "title": "Ny Frp-rådgiver slutter i partiet",
-      "slug": "ny-frprdgiver-slutter-i-partiet",
-      "content": "Kai-Morten Terning, som i flere år har vært rådgiver for Frp-leder Sylvi Listhaug, har sluttet som rådgiver i Fremskrittspartiets stortingsgruppe. Årsaken er ikke kjent.\n\n– Det er ingen dramatikk i dette, sier sekretariatsleder Liv Lønnum i Fremskrittspartiets stortingsgruppe til TV 2.\n\nTerning, som er en av Frps mest sentrale og erfarne rådgivere, sluttet i jobben kort tid etter at han var til stede da Frp-rådgiver Hårek Hansen kalte pakistanere «minusvarianter» i et skjult opptak som TV 2 publiserte.\n\nFremskrittspartiet\n\nFremskrittspartiet er et norsk politisk parti som beskriver seg som liberalistisk. Partiet ble grunnlagt i 1973 som Anders Langes Parti til sterk nedsettelse av skatter, avgifter og offentlige inngrep. Fra 2021 er Sylvi Listhaug partileder.",
-      "excerpt": "Kai-Morten Terning, som i flere år har vært rådgiver for Frp-leder Sylvi Listhaug, har sluttet som rådgiver i Fremskrittspartiets stortingsgruppe. Årsaken er ikke kjent.\n\n– Det er ingen dramatikk i dette, sier sekretariatsleder Liv Lønnum i Fremskrittspartiets stortingsgruppe til TV 2.\n\nTerning...",
-      "image": "https://images.unsplash.com/photo-1753696309884-e0e0b8f0ba89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzMTkxMjh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/ny-frp-radgiver-slutter-i-partiet-1.17891828",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-20T23:18:48.420Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779314218953.9038,
-      "title": "Cubas ekspresident Raul Castro tiltalt i USA",
-      "slug": "cubas-ekspresident-raul-castro-tiltalt-i-usa",
-      "content": "Tiltalen mot den 94 år gamle ekspresidenten og broren til avdøde Fidel Castro dreier seg i hovedsak om nedskyting av to amerikanske fly i 1996 med eksilcubanere. Fire personer i aktivistgruppen, blant dem tre amerikanere, ble drept.\n\nTiltalen bekreftes av rettsdokumenter og fra det amerikanske forsvarsdepartementet onsdag.\n\nUtenriksminister Marco Rubio snakket onsdag til det cubanske folk, og tok til orde for en ny vei videre for landene. Han anklagde landets kommunistiske ledere for tyveri, korrupsjon og undertrykkelse.\n\nCubas president Miguel Díaz-Canel kaller tiltalen mot Castro «en politisk manøver, helt uten rettslig grunnlag», som kun har til mål å fabrikkere en sak for å rettferdiggjøre militæraggresjonen mot landet.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Tiltalen mot den 94 år gamle ekspresidenten og broren til avdøde Fidel Castro dreier seg i hovedsak om nedskyting av to amerikanske fly i 1996 med eksilcubanere. Fire personer i aktivistgruppen, blant dem tre amerikanere, ble drept.\n\nTiltalen bekreftes av rettsdokumenter og fra det amerikanske...",
-      "image": "https://images.unsplash.com/photo-1657651315999-c1d9941f1faf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzMTQyMTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/cubas-ekspresident-raul-castro-tiltalt-i-usa--1.17891681",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-20T21:56:58.953Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779314217350.2197,
-      "title": "Staten gir 2,2 milliarder i lån til datasenter",
-      "slug": "staten-gir-22-milliarder-i-ln-til-datasenter",
-      "content": "Norske myndigheter bidrar med 2,2 milliarder i lånefinansiering til Nscales datasenter utenfor Narvik, ifølge NTB.\n\nLånet gis gjennom Eksfin (Eksportfinansiering Norge), som er en statlig forvaltningsbedrift som jobber med å fremme norsk eksport, skriver Nettavisen.\n\nNæringsminister Cecilie Myrseth (Ap) skriver i et skriftlig svar til energipolitiker Sofie Marhaug i Rødt at Eksfin skal bidra med finansiering sammen med fire private banker. Finansieringen for alle partene vil være om lag 7,3 milliarder kroner, hvorav Eksfins andel er rundt 2,2 milliarder kroner.\n\nDatasenter\n\nEt stort antall norske kommuner jobber med planer om å trekke til seg nye sentre for datalagring. Billig strøm og lavere elavgift skal friste databasert næringlsiv til å velge Norge.",
-      "excerpt": "Norske myndigheter bidrar med 2,2 milliarder i lånefinansiering til Nscales datasenter utenfor Narvik, ifølge NTB.\n\nLånet gis gjennom Eksfin (Eksportfinansiering Norge), som er en statlig forvaltningsbedrift som jobber med å fremme norsk eksport, skriver Nettavisen.\n\nNæringsminister Cecilie Myrseth...",
-      "image": "https://images.unsplash.com/photo-1661876053803-a210980314e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzMTQyMTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/tromsogfinnmark/staten-gir-2_2-milliarder-i-lan-til-datasenter-1.17891790",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-20T21:56:57.350Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1328,
+    "totalFetched": 1331,
     "totalPublished": 77,
-    "lastFetch": "2026-05-23T06:34:39.451Z",
+    "lastFetch": "2026-05-23T09:55:26.724Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
