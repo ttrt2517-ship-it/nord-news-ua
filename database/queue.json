@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1779543608558.8892,
+      "title": "Bilbrann stenger E6 i Rana",
+      "slug": "bilbrann-stenger-e6-i-rana",
+      "content": "Vegtrafikksentralen melder om brann i en bil på E6 Sørlandsveien, sør for Mo i Rana. Veien er stengt.\n\n– Nødetatene er på stedet hvor det meldes at en bil er i full fyr, sier trafikkoperatør Tommy Aufles til NRK.\n\nHan vet ikke om det var personer i bilen da brannen startet. Når veien åpner igjen er usikkert.\n\n– Når en bil er i full fyr så tar det litt tid før de klarer å slukke det, men det er vanskelig å si hvor lenge veien blir stengt.\n\n110-sentralen i Nordland opplyser at det ikke er snakk om personskade.\n\n– Bilen hadde en henger på, som vi fikk reddet. Men selve bilen er trolig utbrent, sier vaktleder Trond Rabben.",
+      "excerpt": "Vegtrafikksentralen melder om brann i en bil på E6 Sørlandsveien, sør for Mo i Rana. Veien er stengt.\n\n– Nødetatene er på stedet hvor det meldes at en bil er i full fyr, sier trafikkoperatør Tommy Aufles til NRK.\n\nHan vet ikke om det var personer i bilen da brannen startet. Når veien åpner igjen er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nordland/bilbrann-stenger-e6-i-rana-1.17895005",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-23T13:40:08.558Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779534834172.3533,
       "title": "Russisk drone traff gravfølge: én drept og ni skadd",
       "slug": "russisk-drone-traff-gravflge-n-drept-og-ni-skadd",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-21T03:57:00.971Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779335819522.8489,
-      "title": "Alvorlig MC-ulykke i Trondheim",
-      "slug": "alvorlig-mculykke-i-trondheim",
-      "content": "En mann i 40-årene er fraktet til sykehus etter en singelulykke med en MC på Byåsen i Trondheim natt til torsdag.\n\n– Spor på stedet tyder på at motorsykkelen har krasjet i en stolpe, ifølge politiet i Trøndelag.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "En mann i 40-årene er fraktet til sykehus etter en singelulykke med en MC på Byåsen i Trondheim natt til torsdag.\n\n– Spor på stedet tyder på at motorsykkelen har krasjet i en stolpe, ifølge politiet i Trøndelag.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video...",
-      "image": "https://images.unsplash.com/photo-1695982207685-d7e131ac14b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzMzU4MTl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/alvorlig-mc-ulykke-i-trondheim-1.17891847",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-21T03:56:59.522Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1333,
+    "totalFetched": 1334,
     "totalPublished": 77,
-    "lastFetch": "2026-05-23T11:13:57.694Z",
+    "lastFetch": "2026-05-23T13:40:10.679Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
