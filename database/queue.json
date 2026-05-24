@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1779650398464.099,
+      "title": "Amedias nettsider var nede",
+      "slug": "amedias-nettsider-var-nede",
+      "content": "Flere av nettavisene til mediekonsernet Amedia var nede søndag kveld.\n\n– Vi bekrefter at vi har tekniske utfordringer. Vi jobber med å feilsøke feilen, men vet foreløpig ikke årsaken til den, sa kommunikasjonssjef Hallgeir Westrum til NRK.\n\nWestrum opplyste at alt tilgjengelig mannskap er satt inn for å utbedre feilen.\n\nFlere av nettavisene var helt nede, mens enkelte fungerte i en forenklet utgave. Feilen rammet en periode også danske Berlingske, som konsernet eier.\n\nAmedia er Norges største mediekonsern og eier 108 av landets aviser, blant annet Nettavisen, Bergensavisen og Nordlys.\n\nI 19-tiden søndag kveld fungerte mediekonsernets nettaviser igjen som normalt.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
+      "excerpt": "Flere av nettavisene til mediekonsernet Amedia var nede søndag kveld.\n\n– Vi bekrefter at vi har tekniske utfordringer. Vi jobber med å feilsøke feilen, men vet foreløpig ikke årsaken til den, sa kommunikasjonssjef Hallgeir Westrum til NRK.\n\nWestrum opplyste at alt tilgjengelig mannskap er satt inn...",
+      "image": "https://images.unsplash.com/photo-1659424765389-a64c848ca038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk2NTAzOTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/innlandet/amedias-nettsider-var-nede-1.17895769",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-24T19:19:58.464Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779650396607.6746,
+      "title": "Strømproblemer på Sørlandsbanen",
+      "slug": "strmproblemer-p-srlandsbanen",
+      "content": "Sørlandsbanen sliter med strømforsyningen, dermed står togene stille.\n\n– En feil som påvirker kontaktledningen, vi vil komme med en ny oppdatering klokken 22. Frem til da er det stengt med Nedfland, sier pressekontakt Anna Langhammer i Banenor.\n\nFeilen vil gå utover tre tog, to i retning Kristiansand og ett i retning Oslo.\n\nProblemene ligger mellom Nelaug og Neslandsvatn i østre del av Agder.\n\nDet har ført til at det blir satt opp buss for tog til Kristiansand.",
+      "excerpt": "Sørlandsbanen sliter med strømforsyningen, dermed står togene stille.\n\n– En feil som påvirker kontaktledningen, vi vil komme med en ny oppdatering klokken 22. Frem til da er det stengt med Nedfland, sier pressekontakt Anna Langhammer i Banenor.\n\nFeilen vil gå utover tre tog, to i retning...",
+      "image": null,
+      "original_url": "https://www.nrk.no/sorlandet/stromproblemer-pa-sorlandsbanen--1.17895829",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-24T19:19:56.607Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779650394929.813,
+      "title": "Luftambulanse på vei etter mopedulykke: – Fremstår alvorlig",
+      "slug": "luftambulanse-p-vei-etter-mopedulykke-fremstr-alvorlig",
+      "content": "Veien er sperret i begge retninger etter at to mopeder har vært involvert i en trafikkulykke.\n\n– Ut i fra meldingen inn til nødsentralene fremstår dette som en alvorlig ulykke, skriver operasjonsleder Ole Robert Strandhagen.\n\nNødetatene rykker ut etter at de mottok meldingen. Hendelsen skjedde i Vennesla.\n\nLuftambulansen er kalt ut etter det som kan være en alvorlig mopedulykke i Vennesla.",
+      "excerpt": "Veien er sperret i begge retninger etter at to mopeder har vært involvert i en trafikkulykke.\n\n– Ut i fra meldingen inn til nødsentralene fremstår dette som en alvorlig ulykke, skriver operasjonsleder Ole Robert Strandhagen.\n\nNødetatene rykker ut etter at de mottok meldingen. Hendelsen skjedde i...",
+      "image": "https://images.unsplash.com/photo-1659628241351-e344b9ae443d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk2NTAzOTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/sorlandet/luftambulanse-pa-vei-etter-mopedulykke_-_-fremstar-alvorlig-1.17895875",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-24T19:19:54.930Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779642251421.382,
       "title": "Mann pågrepet for laksetyveri",
       "slug": "mann-pgrepet-for-laksetyveri",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-22T19:49:34.105Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779479372066.6873,
-      "title": "Tror Mette Frederiksen blir statsminister igjen",
-      "slug": "tror-mette-frederiksen-blir-statsminister-igjen",
-      "content": "Utenriksminister Lars Løkke Rasmussen sier han tror sittende statsminister Mette Frederiksen blir den som lykkes med å danne en ny regjering.\n\nLøkke Rasmussen, som leder sentrumspartiet Moderaterne, sa tidligere i kveld nei til å være støtteparti for en borgerlig trepartiregjering.\n\nVenstre-leder og nåværende forsvarsminister Troels Lund Poulsen har i to uker vært såkalt kongelig undersøker og møtte i kveld kong Frederik for å si fra seg oppgaven.\n\nPartilederne skal møte kongen lørdag kl. 11.00 for å gi råd om hvem som nå bør prøve. Det er ventet at Mette Frederiksen får oppgaven, selv om hun ikke lyktes i første runde.\n\nLars Løkke Rasmussen sier til Danmarks Radio at han er åpen for å finne en løsning med Frederiksen som fortsatt statsminister.\n\nVenstre, Moderaterne og Socialdemokratiet har de siste årene regjert sammen, på tvers av de politiske blokkene.",
-      "excerpt": "Utenriksminister Lars Løkke Rasmussen sier han tror sittende statsminister Mette Frederiksen blir den som lykkes med å danne en ny regjering.\n\nLøkke Rasmussen, som leder sentrumspartiet Moderaterne, sa tidligere i kveld nei til å være støtteparti for en borgerlig trepartiregjering.\n\nVenstre-leder...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/tror-mette-frederiksen-blir-statsminister-igjen-1.17894584",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-22T19:49:32.066Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779472421375.243,
-      "title": "Gir opp forsøket på borgerlig regjering i Danmark",
-      "slug": "gir-opp-forsket-p-borgerlig-regjering-i-danmark",
-      "content": "Venstre-leder Troels Lund Poulsen gir opp forsøket på å danne en borgerlig treparti-regjering i Danmark.\n\nDet kommer etter at Moderaterne-leder Lars Løkke Rasmussen sier nei til å støtte en regjering som består av partiene Venstre, Liberal Alliance og De konservative.\n\nDe tre partiene trenger støtte fra sentrumspartiet Moderaterne samt partier på ytre høyrefløy for å ha flertall i nasjonalforsamlingen.\n\nPoulsen, som er utgående forsvarsminister, møtte i ettermiddag Moderaterne-leder Lars Løkke Rasmussen, som er utgående utenriksminister.\n\nLøkke varte at Moderaterne ikke ønsker kun å være støtteparti til en regjering.\n\nDe to siste ukene har Venstre-leder Poulsen vært såkalt kongelig undersøker og ledet forhandlingene om å få til en ny regjering etter valget, som var i slutten av mars.\n\nHeller ikke nåværende statsminister Mette Frederiksen, som er leder for Socialdemokratiet, lyktes i sitt forsøk.",
-      "excerpt": "Venstre-leder Troels Lund Poulsen gir opp forsøket på å danne en borgerlig treparti-regjering i Danmark.\n\nDet kommer etter at Moderaterne-leder Lars Løkke Rasmussen sier nei til å støtte en regjering som består av partiene Venstre, Liberal Alliance og De konservative.\n\nDe tre partiene trenger...",
-      "image": "https://images.unsplash.com/photo-1727005214648-91e160493ef3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk0NzI0MjF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/gir-opp-forsoket-pa-borgerlig-regjering-i-danmark-1.17894459",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-22T17:53:41.375Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779472419754.9736,
-      "title": "USAs nye sentralbanksjef tatt i ed",
-      "slug": "usas-nye-sentralbanksjef-tatt-i-ed",
-      "content": "Kevin Warsh er tatt i ed som ny sjef for den amerikanske sentralbanken, Federal Reserve System (FED).\n\nDet skjedde under en seremoni i Det hvite hus, som ble ledet av president Donald Trump og høyesterettsdommer Clarence Thomas.\n\nWarsh er pekt ut av Trump og ble godkjent av Senatet for vel en uke siden.\n\nHan tar over for Jerome Powell, som har vært sentralbanksjef siden februar 2018. Powell vil fortsette sitte i bankens styre.\n\nTrump utnevnte Powell til FED-sjef i den første presidentperioden, men har flere ganger truet med å sparke ham fordi han og styret ikke har senket styringsrenten i tråd med presidentens ønsker.\n\nWarsh er utdannet jurist og har jobbet i finansnæringen. Han satt i styret til Federal Reserve fra 2006 til 2011, men gikk av på grunn av uenighet med deler av styret.\n\nWarsh lover «en reformorientert sentralbank», som han har hevdet er «for politisk».",
-      "excerpt": "Kevin Warsh er tatt i ed som ny sjef for den amerikanske sentralbanken, Federal Reserve System (FED).\n\nDet skjedde under en seremoni i Det hvite hus, som ble ledet av president Donald Trump og høyesterettsdommer Clarence Thomas.\n\nWarsh er pekt ut av Trump og ble godkjent av Senatet for vel en uke...",
-      "image": "https://images.unsplash.com/photo-1603482360662-38e34391247c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk0NzI0MTl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/usas-nye-sentralbanksjef-tatt-i-ed-1.17894471",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-22T17:53:39.754Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1366,
+    "totalFetched": 1369,
     "totalPublished": 77,
-    "lastFetch": "2026-05-24T17:04:13.516Z",
+    "lastFetch": "2026-05-24T19:20:00.169Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
