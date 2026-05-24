@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1779607329898.4062,
+      "title": "Fire drept og ni skadd i massivt russisk angrep mot Kyiv-regionen",
+      "slug": "fire-drept-og-ni-skadd-i-massivt-russisk-angrep-mot-kyivregi",
+      "content": "Flere er drept etter at Russland natt til søndag gjennomførte et omfattende missil- og droneangrep mot regionen rundt Ukrainas hovedstad Kyiv. Lokale myndigheter opplyser at antall skadde har steget til ni personer, deriblant en jente som er under ett år gammel.\n\nAngrepet har ført til store materielle ødeleggelser i en rekke distrikter, hvor både boligblokker, sykehus, skoler og private hjem har blitt truffet.\n\n– Fienden angrep fredelige bosettinger. Boligbygg, butikker, bedrifter, utdanningsinstitusjoner og medisinske institusjoner ble skadet, opplyser nødetatene i regionen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Flere er drept etter at Russland natt til søndag gjennomførte et omfattende missil- og droneangrep mot regionen rundt Ukrainas hovedstad Kyiv. Lokale myndigheter opplyser at antall skadde har steget til ni personer, deriblant en jente som er under ett år gammel.\n\nAngrepet har ført til store...",
+      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk2MDczMjl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fire-drept-og-ni-skadd-i-massivt-russisk-angrep-mot-kyiv-regionen-1.17895341",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-24T07:22:09.898Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779607328229.042,
+      "title": "Bombeangrep mot tog i Pakistan – minst 24 skal være drept",
+      "slug": "bombeangrep-mot-tog-i-pakistan-minst-24-skal-vre-drept",
+      "content": "Minst 24 mennesker er drept i et bombeangrep mot et tog i den urolige provinsen Balutsjistan sørvest i Pakistan, opplyser en høytstående tjenestemann til AFP.\n\nSoldater var om bord i toget og er blant ofrene for angrepet, ifølge tjenestemannen, som ikke er navngitt av det franske nyhetsbyrået.\n\nOver 50 personer skal være såret i angrepet, som skjedde i provinshovedstaden Quetta søndag,\n\nDet pakistanske nyhetsbyrået APP melder at over 16 personer er drept og flere såret, samt at det er barn og kvinner blant ofrene.",
+      "excerpt": "Minst 24 mennesker er drept i et bombeangrep mot et tog i den urolige provinsen Balutsjistan sørvest i Pakistan, opplyser en høytstående tjenestemann til AFP.\n\nSoldater var om bord i toget og er blant ofrene for angrepet, ifølge tjenestemannen, som ikke er navngitt av det franske...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/bombeangrep-mot-tog-i-pakistan-_-minst-24-skal-vaere-drept-1.17895360",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-24T07:22:08.230Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779607326529.3638,
+      "title": "Ukrainske medier: Russland brukte hypersonisk rakett i angrep",
+      "slug": "ukrainske-medier-russland-brukte-hypersonisk-rakett-i-angrep",
+      "content": "Søndag morgen opplyser en talsperson for det ukrainske luftforsvaret at Kyiv ble truffet av en russisk hypersonisk rakett av typen Oresjnik. Det melder to ukrainske medier ifølge nyhetsbyrået Reuters.\n\nI en offisiell uttalelse sier luftforsvaret at Russland brukte 600 droner og raketter i angrepet, og at en av rakettene var en ballistisk mellomdistanserakett, men uten at denne navngis.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Søndag morgen opplyser en talsperson for det ukrainske luftforsvaret at Kyiv ble truffet av en russisk hypersonisk rakett av typen Oresjnik. Det melder to ukrainske medier ifølge nyhetsbyrået Reuters.\n\nI en offisiell uttalelse sier luftforsvaret at Russland brukte 600 droner og raketter i angrepet...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukrainske-medier_-russland-brukte-hypersonisk-rakett-i-angrep--1.17895399",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-24T07:22:06.529Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779594647886.0923,
       "title": "Kvinne falt åtte meter ned i en sjakt – ukjent skadeomfang",
       "slug": "kvinne-falt-tte-meter-ned-i-en-sjakt-ukjent-skadeomfang",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-22T07:48:06.246Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779421994578.5916,
-      "title": "Norge gir 203 millioner til Røde Kors' arbeid i Ukraina",
-      "slug": "norge-gir-203-millioner-til-rde-kors-arbeid-i-ukraina",
-      "content": "Norge gir 203 millioner kroner til Røde Kors' arbeid med å dekke akutte humanitære behov hos den krigsrammede ukrainske befolkningen.\n\nRusslands angrepskrig i Ukraina fører nærmest daglig til omfattende ødeleggelser i landet og millioner av mennesker har behov for helsehjelp, beskyttelse, rent vann, et nytt sted å bo og støtte til livsopphold.\n\n– De humanitære behovene i Ukraina er enorme, og sivilbefolkningen betaler en høy pris for Russlands krigføring. Så lenge denne grusomme krigen varer, må vi fortsette å gjøre vårt ytterste for å redde liv og bidra til at humanitære aktører kan nå den krigsrammede befolkningen med nødhjelp, sier utenriksminister Espen Barth Eide.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Norge gir 203 millioner kroner til Røde Kors' arbeid med å dekke akutte humanitære behov hos den krigsrammede ukrainske befolkningen.\n\nRusslands angrepskrig i Ukraina fører nærmest daglig til omfattende ødeleggelser i landet og millioner av mennesker har behov for helsehjelp, beskyttelse, rent...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/norge-gir-203-millioner-til-rode-kors_-arbeid-i-ukraina-1.17893265",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-22T03:53:14.578Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779421992930.1104,
-      "title": "Bonnier bruker kunstig intelligens til å oversette bøker",
-      "slug": "bonnier-bruker-kunstig-intelligens-til-oversette-bker",
-      "content": "Bonnier Norsk Forlag har brukt kunstig intelligens (KI) til å oversette over ti bøker fra engelsk til norsk, skriver Klassekampen. Blant bøkene som er oversatt er Guinness rekordbok.\n\nIfølge seniorredaktør Ingrid Eia Ryvarden ville ikke disse bøkene blitt utgitt på norsk uten maskinoversettelse. Forlaget bruker programmet Deep L, og Ryvarden sier til avisen at kvaliteten ble god.\n\nHun avviser samtidig at bruken av kunstig intelligens ødelegger arbeidsmarkedet for menneskelige oversettere.\n\nLitteratur\n\nNotiser, saker, anmeldelser, omtale og annet innhold fra NRK om litteratur. Vil du heller lytte til programmer om Litteratur, så er alt samlet her i NRK Radio.",
-      "excerpt": "Bonnier Norsk Forlag har brukt kunstig intelligens (KI) til å oversette over ti bøker fra engelsk til norsk, skriver Klassekampen. Blant bøkene som er oversatt er Guinness rekordbok.\n\nIfølge seniorredaktør Ingrid Eia Ryvarden ville ikke disse bøkene blitt utgitt på norsk uten maskinoversettelse....",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/bonnier-bruker-kunstig-intelligens-til-a-oversette-boker-1.17893266",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-22T03:53:12.930Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779421991432.6113,
-      "title": "Avstemning om Iran-krigen i Representantenes hus utsatt",
-      "slug": "avstemning-om-irankrigen-i-representantenes-hus-utsatt",
-      "content": "Republikanske ledere i Representantenes hus har avlyst en planlagt avstemning om et forslag som ville kreve at president Donald Trump innhenter Kongressens godkjenning for Iran-krigen, skriver NTB.\n\n– Vi hadde uten tvil stemmene, og det visste de, sier demokraten Gregory W. Meeks etter at torsdagens avstemning ble avlyst. Republikanerne har utsatt avstemningen til begynnelsen av juni.\n\nSiden Trump beordret angrepet på Iran i slutten av februar, har demokrater flere ganger forsøkt å få gjennom resolusjoner som kan pålegge presidenten å skaffe godkjenning fra Kongressen, men republikanerne har hittil klart å stanse forslagene.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. 11. februar begynte fredsforhandlinger mellom landene.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Republikanske ledere i Representantenes hus har avlyst en planlagt avstemning om et forslag som ville kreve at president Donald Trump innhenter Kongressens godkjenning for Iran-krigen, skriver NTB.\n\n– Vi hadde uten tvil stemmene, og det visste de, sier demokraten Gregory W. Meeks etter at...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/avstemning-om-iran-krigen-i-representantenes-hus-utsatt-1.17893273",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-22T03:53:11.432Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1351,
+    "totalFetched": 1354,
     "totalPublished": 77,
-    "lastFetch": "2026-05-24T03:50:49.451Z",
+    "lastFetch": "2026-05-24T07:22:13.112Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
