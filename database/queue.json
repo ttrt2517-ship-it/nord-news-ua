@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1779616596354.159,
+      "title": "Russland bekrefter bruk av det fryktede «Oresjnik»-missilet i nattens storangrep",
+      "slug": "russland-bekrefter-bruk-av-det-fryktede-oresjnikmissilet-i-n",
+      "content": "Ukraina ble natt til søndag angrepet med 600 droner og 90 raketter, deriblant en hypersonisk rakett. Minst fire mennesker er drept i hovedstaden Kyiv og omegn.\n\nRussland bekrefter at de har angrepet mål over hele Ukraina med ulike typer avanserte missiler natt til søndag, inkludert det nye, hypersoniske «Oresjnik»-missilet. Det russiske forsvarsdepartementet hevder at angrepene er gjengjeldelse for ukrainske angrep mot sivile mål i Russland.\n\nUkrainske myndigheter melder samtidig om massive sivile ødeleggelser i Kyiv-regionen.\n\n– Angrepene ble utført mot ukrainske militære kommandofasiliteter, flybaser og andre virksomheter i Ukrainas militærindustrielle kompleks, hevder det russiske forsvarsdepartementet via nyhetsbyrået Interfax.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukraina ble natt til søndag angrepet med 600 droner og 90 raketter, deriblant en hypersonisk rakett. Minst fire mennesker er drept i hovedstaden Kyiv og omegn.\n\nRussland bekrefter at de har angrepet mål over hele Ukraina med ulike typer avanserte missiler natt til søndag, inkludert det nye...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/russland-bekrefter-bruk-av-det-fryktede-_oresjnik_-missilet-i-nattens-storangrep-1.17895446",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-24T09:56:36.354Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779616594853.9263,
+      "title": "Fisketyver i Eidsvoll stjal flere tonn laks",
+      "slug": "fisketyver-i-eidsvoll-stjal-flere-tonn-laks",
+      "content": "Søndag fikk politiet en uvanlig melding fra en sjømatbedrift på Dal i Eidsvoll.\n\n– De fortalte at de var blitt utsatt for et innbrudd og at det var stjålet 18 tonn med laks, sier oppdragsleder Kristian Nordby i Øst politidistrikt til Romerikes Blad.\n\nPrisen for 18 tonn laks er nesten 1,4 millioner kroner, hvis man tar utgangspunkt i SSB sin siste oppdaterte pris for eksport av fersk laks.\n\nPolitiet er nå på vei til stedet for å undersøke tyveriet.",
+      "excerpt": "Søndag fikk politiet en uvanlig melding fra en sjømatbedrift på Dal i Eidsvoll.\n\n– De fortalte at de var blitt utsatt for et innbrudd og at det var stjålet 18 tonn med laks, sier oppdragsleder Kristian Nordby i Øst politidistrikt til Romerikes Blad.\n\nPrisen for 18 tonn laks er nesten 1,4 millioner...",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/fisketyver-i-eidsvoll-stjal-flere-tonn-laks-1.17895449",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-24T09:56:34.853Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779616593331.1887,
+      "title": "Von der Leyen: Ønsker fremgang mellom USA og Iran velkommen",
+      "slug": "von-der-leyen-nsker-fremgang-mellom-usa-og-iran-velkommen",
+      "content": "EU-kommisjonens president, Ursula von der Leyen, ønsker den diplomatiske fremgangen mot en avtale mellom USA og Iran velkommen. Hun understreker at Europa vil fortsette samarbeidet med internasjonale partnere for å sikre en varig diplomatisk løsning på konflikten i Midtøsten.\n\nVon der Leyen gjentar samtidig at gjenåpningen av Hormuzstredet er helt avgjørende, og slår fast at Iran under ingen omstendigheter må tillates å utvikle atomvåpen.\n\nOgså britenes statsminister Keir Starmer har ønsket en mulig avtale velkommen.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.",
+      "excerpt": "EU-kommisjonens president, Ursula von der Leyen, ønsker den diplomatiske fremgangen mot en avtale mellom USA og Iran velkommen. Hun understreker at Europa vil fortsette samarbeidet med internasjonale partnere for å sikre en varig diplomatisk løsning på konflikten i Midtøsten.\n\nVon der Leyen gjentar...",
+      "image": "https://images.unsplash.com/photo-1554140781-33058d9962b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk2MTY1OTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/von-der-leyen_-onsker-fremgang-mellom-usa-og-iran-velkommen-1.17895479",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-24T09:56:33.331Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779607329898.4062,
       "title": "Fire drept og ni skadd i massivt russisk angrep mot Kyiv-regionen",
       "slug": "fire-drept-og-ni-skadd-i-massivt-russisk-angrep-mot-kyivregi",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-22T07:48:12.858Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779436089451.961,
-      "title": "Fløy ubemannet Nato-fly for første gang fra base i Norge",
-      "slug": "fly-ubemannet-natofly-for-frste-gang-fra-base-i-norge",
-      "content": "For aller første gang har et ubemannet fly av typen RQ-4D Phoenix operert ut fra en flybase i Norge.\n\nI en pressemelding fra Nato, beskrives dette som en betydelig milepæl for Nato sin etterretnings-, overvåkings- og rekognoseringsstyrke (NISRF).\n\nDette er første gang et ubemannet fly av denne typen har operert fra norsk territorium, og bare tredje gang systemet har hatt aktivitet utenfor den italienske flyvåpenbasen Sigonella i Italia.\n\n– Å operere RQ-4D Phoenix fra Norge understreker vår evne til å levere ISR-effekter der det er nødvendig for å støtte vår allianse, sier brigadegeneral John B. Creel, kommandør for NISRF, i pressemeldingen.\n\nNato har fem slike fjernstyrte fly av akkurat denne typen.\n\nFlyet er 14,5 meter langt, og veier i underkant av sju tonn.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "For aller første gang har et ubemannet fly av typen RQ-4D Phoenix operert ut fra en flybase i Norge.\n\nI en pressemelding fra Nato, beskrives dette som en betydelig milepæl for Nato sin etterretnings-, overvåkings- og rekognoseringsstyrke (NISRF).\n\nDette er første gang et ubemannet fly av denne...",
-      "image": "https://images.unsplash.com/photo-1645546739057-2855e6900aef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk0MzYwODl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/trondelag/floy-ubemannet-nato-fly-for-forste-gang-fra-base-i-norge--1.17893474",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-22T07:48:09.451Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779436087876.2578,
-      "title": "Nato-sjefen: – Vil bli mindre avhengig av én alliert",
-      "slug": "natosjefen-vil-bli-mindre-avhengig-av-n-alliert",
-      "content": "Rutte siktet til USA da han fredag uttalte seg i forkant av Natos utenriksministermøte i Helsingborg i Sverige.\n\n– Utviklingen vi er inne i, med et sterkere Europa og et sterkere Nato, som blir mindre avhengig av bare én alliert, vil fortsette, sa Rutte.\n\nNato-toppmøte\n\nDet neste Nato-toppmøtet skjer i Vilnius i Litauen 11. og 12. juli. Sveriges Nato-søknad står på planen. Ukrainas president Volodymyr Zelenskyj har takket ja til å være gjest på møtet.",
-      "excerpt": "Rutte siktet til USA da han fredag uttalte seg i forkant av Natos utenriksministermøte i Helsingborg i Sverige.\n\n– Utviklingen vi er inne i, med et sterkere Europa og et sterkere Nato, som blir mindre avhengig av bare én alliert, vil fortsette, sa Rutte.\n\nNato-toppmøte\n\nDet neste Nato-toppmøtet...",
-      "image": "https://images.unsplash.com/photo-1662710629511-7fe0705049ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk0MzYwODd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/nato-sjefen_-_-vil-bli-mindre-avhengig-av-en-alliert-1.17893392",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-22T07:48:07.876Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779436086246.6445,
-      "title": "USA: Våpensalg til Taiwan satt på vent på grunn av Iran-krigen",
-      "slug": "usa-vpensalg-til-taiwan-satt-p-vent-p-grunn-av-irankrigen",
-      "content": "Donald Trump har holdt igjen et våpensalg til Taiwan verdt 14 milliarder dollar. USAs marineminister sier nå det er på grunn av konflikten med Iran.\n\n– Akkurat nå pauser vi det for å sikre at vi har ammunisjonen vi trenger for «Epic Fury», sa fungerende minister Hung Cao under en kongresshøring torsdag.\n\n«Epic Fury» er USAs navn på deres militære operasjon i Iran.\n\n– Vi forsikrer oss bare om at vi har alt vi trenger, så vil det utenlandske våpensalget fortsette når administrasjonen anser det som nødvendig, la Cao til.\n\nDet amerikanske utenriksdepartementet har så langt ikke kommentert",
-      "excerpt": "Donald Trump har holdt igjen et våpensalg til Taiwan verdt 14 milliarder dollar. USAs marineminister sier nå det er på grunn av konflikten med Iran.\n\n– Akkurat nå pauser vi det for å sikre at vi har ammunisjonen vi trenger for «Epic Fury», sa fungerende minister Hung Cao under en kongresshøring...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa_-vapensalg-til-taiwan-satt-pa-vent-pa-grunn-av-iran-krigen-1.17893494",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-22T07:48:06.246Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1354,
+    "totalFetched": 1357,
     "totalPublished": 77,
-    "lastFetch": "2026-05-24T07:22:13.112Z",
+    "lastFetch": "2026-05-24T09:56:38.818Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
