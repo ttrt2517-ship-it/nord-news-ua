@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1779738209260.106,
+      "title": "Netanyahu varsler opptrapping av angrepene i Libanon",
+      "slug": "netanyahu-varsler-opptrapping-av-angrepene-i-libanon",
+      "content": "Israels statsminister Benjamin Netanyahu sier at landet fortsatt er i krig med Hizbollah og at angrepene mot dem i Libanon skal intensiveres.\n\n– Vi skal intensifiere våre slag, øke vår slagkraft og vi skal knuse dem., sier Netanyahu i et innlegg på Telegram.\n\nHan sier at Hizbollah angriper Israel med droner, inkludert fiberstyrte droner, men at Israel jobber med mottiltak.\n\nDet melder nyhetsbyråene AFP og Reuters mandag kveld.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
+      "excerpt": "Israels statsminister Benjamin Netanyahu sier at landet fortsatt er i krig med Hizbollah og at angrepene mot dem i Libanon skal intensiveres.\n\n– Vi skal intensifiere våre slag, øke vår slagkraft og vi skal knuse dem., sier Netanyahu i et innlegg på Telegram.\n\nHan sier at Hizbollah angriper Israel...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/netanyahu-varsler-opptrapping-av-angrepene-i-libanon-1.17896534",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-25T19:43:29.261Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779731124560.7969,
       "title": "Dronning Margrethe lagt inn på sykehus",
       "slug": "dronning-margrethe-lagt-inn-p-sykehus",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-23T15:02:35.526Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779548553734.4563,
-      "title": "Mer enn 500 barn døde i meslingutbrudd i Bangladesh",
-      "slug": "mer-enn-500-barn-dde-i-meslingutbrudd-i-bangladesh",
-      "content": "Totalt 512 barn har dødd av meslinger i Bangladesh de siste to månedene. Tallet stiger raskt i det som er landets største utbrudd på flere tiår.\n\nSykehusene i hovedstaden Dhaka sliter med å ta unna antallet pasienter og har desperat mangel på intensivsenger. Det siste døgnet har 13 barn dødd, ifølge helsedepartementet.\n\nBangladesh har satt i gang en massiv vaksineringskampanje for å stanse utbruddet.\n\nMinst 18 millioner barn er vaksinert, men det tar trolig flere måneder før det begynner å hjelpe for alvor.",
-      "excerpt": "Totalt 512 barn har dødd av meslinger i Bangladesh de siste to månedene. Tallet stiger raskt i det som er landets største utbrudd på flere tiår.\n\nSykehusene i hovedstaden Dhaka sliter med å ta unna antallet pasienter og har desperat mangel på intensivsenger. Det siste døgnet har 13 barn dødd...",
-      "image": "https://images.unsplash.com/photo-1697308364285-994346ce5e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk1NDg1NTN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/mer-enn-500-barn-dode-i-meslingutbrudd-i-bangladesh-1.17895052",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-23T15:02:33.734Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1384,
+    "totalFetched": 1385,
     "totalPublished": 77,
-    "lastFetch": "2026-05-25T17:45:27.145Z",
+    "lastFetch": "2026-05-25T19:43:32.186Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
