@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1779743421718.9368,
+      "title": "Brann i enebolig på Askøy: – Åpne flammer",
+      "slug": "brann-i-enebolig-p-asky-pne-flammer",
+      "content": "Brannvesenet rykker ut til melding om brann i en enebolig på Askøy.\n\n– Alle beboere evakuert ut, melder operasjonsleder i politiet, Tore-Andre Brakstad.\n\n– Det er åpne flammer på kjøkkenet. Røykdykkere går inn, melder Tore Fanebust i brannvesenet.",
+      "excerpt": "Brannvesenet rykker ut til melding om brann i en enebolig på Askøy.\n\n– Alle beboere evakuert ut, melder operasjonsleder i politiet, Tore-Andre Brakstad.\n\n– Det er åpne flammer på kjøkkenet. Røykdykkere går inn, melder Tore Fanebust i brannvesenet.",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestland/brann-i-enebolig-pa-askoy_-_-apne-flammer-1.17896542",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-25T21:10:21.718Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779738209260.106,
       "title": "Netanyahu varsler opptrapping av angrepene i Libanon",
       "slug": "netanyahu-varsler-opptrapping-av-angrepene-i-libanon",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-23T15:02:37.051Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779548555526.8179,
-      "title": "Mann frakta til sjukehus etter alvorleg valdshending i Stavanger",
-      "slug": "mann-frakta-til-sjukehus-etter-alvorleg-valdshending-i-stava",
-      "content": "Ein mann er frakta til Stavanger universitetssjukehus (SUS) med alvorlege skadar etter ei valdshending på ei adresse på Tjensvoll i Stavanger laurdag ettermiddag.\n\nIfølgje innsatsleiaren på staden vil kriminalteknikarar gjere undersøkingar på staden i løpet av kort tid.\n\nPolitiet rykte ut til staden med fleire patruljebilar etter at meldinga kom inn klokka 15.43.\n\n– Politiet har ikkje kontroll på gjerningspersonen og tar i mot forklaring frå personar på staden, seier operasjonsleiar Dag Steinkopf klokka 16.48.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
-      "excerpt": "Ein mann er frakta til Stavanger universitetssjukehus (SUS) med alvorlege skadar etter ei valdshending på ei adresse på Tjensvoll i Stavanger laurdag ettermiddag.\n\nIfølgje innsatsleiaren på staden vil kriminalteknikarar gjere undersøkingar på staden i løpet av kort tid.\n\nPolitiet rykte ut til...",
-      "image": null,
-      "original_url": "https://www.nrk.no/rogaland/mann-frakta-til-sjukehus-etter-alvorleg-valdshending-i-stavanger--1.17895045",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-23T15:02:35.526Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1385,
+    "totalFetched": 1386,
     "totalPublished": 77,
-    "lastFetch": "2026-05-25T19:43:32.186Z",
+    "lastFetch": "2026-05-25T21:10:24.712Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
