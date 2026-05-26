@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1779831999640.459,
+      "title": "Musk skal sikre internett til USAs romforsvar",
+      "slug": "musk-skal-sikre-internett-til-usas-romforsvar",
+      "content": "Det amerikanske romforsvaret har gitt SpaceX i oppdrag å bygge et sikkert høyhastighets satellitt­kommunikasjons­nettverk.\n\nSystemet skal koble sammen militære sensorer og våpenplattformer over hele kloden, og har en verdi på rundt 25 milliarder kroner.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Det amerikanske romforsvaret har gitt SpaceX i oppdrag å bygge et sikkert høyhastighets satellitt­kommunikasjons­nettverk.\n\nSystemet skal koble sammen militære sensorer og våpenplattformer over hele kloden, og har en verdi på rundt 25 milliarder kroner.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/musk-skal-sikre-internett-til-usas-romforsvar-1.17897871",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-26T21:46:39.640Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779831997875.9453,
+      "title": "31 drept i israelske angrep ved Libanon",
+      "slug": "31-drept-i-israelske-angrep-ved-libanon",
+      "content": "31 personer, deriblant minst fire barn, ble drept i israelske angrep sør i Libanon tirsdag. I tillegg ble 40 personer såret, opplyser Libanons helsedepartement.\n\nIsrael har varslet at de vil fortsette å angripe mot Hizbollah-mål i Libanon, til tross for våpenhvilen, melder nyhetsbyrået AFP.\n\nIsrael og Libanon ble enige om en våpenhvile 16. april.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "31 personer, deriblant minst fire barn, ble drept i israelske angrep sør i Libanon tirsdag. I tillegg ble 40 personer såret, opplyser Libanons helsedepartement.\n\nIsrael har varslet at de vil fortsette å angripe mot Hizbollah-mål i Libanon, til tross for våpenhvilen, melder nyhetsbyrået AFP.\n\nIsrael...",
+      "image": "https://images.unsplash.com/photo-1506967554512-fc1ad1c0b21b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk4MzE5OTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/31-drept-i-israelske-angrep-ved-libanon--1.17897926",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-26T21:46:37.875Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779831996141.2212,
+      "title": "Brudd i forhandlingene mellom HK Norge og NHO",
+      "slug": "brudd-i-forhandlingene-mellom-hk-norge-og-nho",
+      "content": "HK Norge og NHO kom ikke til enighet i årets forhandlinger om Standardoverenskomsten. Avstanden mellom partene ble for stor og lønnsoppgjøret går nå til mekling, melder HK Norge i en pressemelding tirsdag kveld\n\nStandardoverenskomsten gjelder for funksjonærer som er ansatte i kontorstillinger innen blant annet marked, salg, økonomi, administrasjon, logistikk og lager. .",
+      "excerpt": "HK Norge og NHO kom ikke til enighet i årets forhandlinger om Standardoverenskomsten. Avstanden mellom partene ble for stor og lønnsoppgjøret går nå til mekling, melder HK Norge i en pressemelding tirsdag kveld\n\nStandardoverenskomsten gjelder for funksjonærer som er ansatte i kontorstillinger innen...",
+      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk4MzE5OTZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/-brudd-i-forhandlingene-mellom-hk-norge-og-nho-1.17897929",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-26T21:46:36.141Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779820090870.1787,
       "title": "Avvikler normprisrådet: – Nå blir lakseskatten bedre for kysten",
       "slug": "avvikler-normprisrdet-n-blir-lakseskatten-bedre-for-kysten",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-24T09:56:33.331Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779607329898.4062,
-      "title": "Fire drept og ni skadd i massivt russisk angrep mot Kyiv-regionen",
-      "slug": "fire-drept-og-ni-skadd-i-massivt-russisk-angrep-mot-kyivregi",
-      "content": "Flere er drept etter at Russland natt til søndag gjennomførte et omfattende missil- og droneangrep mot regionen rundt Ukrainas hovedstad Kyiv. Lokale myndigheter opplyser at antall skadde har steget til ni personer, deriblant en jente som er under ett år gammel.\n\nAngrepet har ført til store materielle ødeleggelser i en rekke distrikter, hvor både boligblokker, sykehus, skoler og private hjem har blitt truffet.\n\n– Fienden angrep fredelige bosettinger. Boligbygg, butikker, bedrifter, utdanningsinstitusjoner og medisinske institusjoner ble skadet, opplyser nødetatene i regionen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Flere er drept etter at Russland natt til søndag gjennomførte et omfattende missil- og droneangrep mot regionen rundt Ukrainas hovedstad Kyiv. Lokale myndigheter opplyser at antall skadde har steget til ni personer, deriblant en jente som er under ett år gammel.\n\nAngrepet har ført til store...",
-      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk2MDczMjl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/fire-drept-og-ni-skadd-i-massivt-russisk-angrep-mot-kyiv-regionen-1.17895341",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-24T07:22:09.898Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779607328229.042,
-      "title": "Bombeangrep mot tog i Pakistan – minst 24 skal være drept",
-      "slug": "bombeangrep-mot-tog-i-pakistan-minst-24-skal-vre-drept",
-      "content": "Minst 24 mennesker er drept i et bombeangrep mot et tog i den urolige provinsen Balutsjistan sørvest i Pakistan, opplyser en høytstående tjenestemann til AFP.\n\nSoldater var om bord i toget og er blant ofrene for angrepet, ifølge tjenestemannen, som ikke er navngitt av det franske nyhetsbyrået.\n\nOver 50 personer skal være såret i angrepet, som skjedde i provinshovedstaden Quetta søndag,\n\nDet pakistanske nyhetsbyrået APP melder at over 16 personer er drept og flere såret, samt at det er barn og kvinner blant ofrene.",
-      "excerpt": "Minst 24 mennesker er drept i et bombeangrep mot et tog i den urolige provinsen Balutsjistan sørvest i Pakistan, opplyser en høytstående tjenestemann til AFP.\n\nSoldater var om bord i toget og er blant ofrene for angrepet, ifølge tjenestemannen, som ikke er navngitt av det franske...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/bombeangrep-mot-tog-i-pakistan-_-minst-24-skal-vaere-drept-1.17895360",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-24T07:22:08.230Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779607326529.3638,
-      "title": "Ukrainske medier: Russland brukte hypersonisk rakett i angrep",
-      "slug": "ukrainske-medier-russland-brukte-hypersonisk-rakett-i-angrep",
-      "content": "Søndag morgen opplyser en talsperson for det ukrainske luftforsvaret at Kyiv ble truffet av en russisk hypersonisk rakett av typen Oresjnik. Det melder to ukrainske medier ifølge nyhetsbyrået Reuters.\n\nI en offisiell uttalelse sier luftforsvaret at Russland brukte 600 droner og raketter i angrepet, og at en av rakettene var en ballistisk mellomdistanserakett, men uten at denne navngis.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Søndag morgen opplyser en talsperson for det ukrainske luftforsvaret at Kyiv ble truffet av en russisk hypersonisk rakett av typen Oresjnik. Det melder to ukrainske medier ifølge nyhetsbyrået Reuters.\n\nI en offisiell uttalelse sier luftforsvaret at Russland brukte 600 droner og raketter i angrepet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ukrainske-medier_-russland-brukte-hypersonisk-rakett-i-angrep--1.17895399",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-24T07:22:06.529Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1401,
+    "totalFetched": 1404,
     "totalPublished": 77,
-    "lastFetch": "2026-05-26T18:28:12.927Z",
+    "lastFetch": "2026-05-26T21:46:41.577Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
