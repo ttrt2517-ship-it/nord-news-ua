@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1779837076009.825,
+      "title": "FN fordømmer droneangrep mot kjernekraftverket i Abu Dhabi",
+      "slug": "fn-fordmmer-droneangrep-mot-kjernekraftverket-i-abu-dhabi",
+      "content": "FNs sikkerhetsråd kom tirsdag med en sterk fordømmelse av droneangrepet på Barakah kjernekraftverk i Abu Dhabi 17. mai. Seks droner ble avfyrt fra Irak, der én forårsaket en brann på anlegget.\n\nFN mener det er brudd på folkeretten. Til tross for fordømmelsen, ga de ingen spesifikke aktører skyld for angrepet.\n\nIrak, som huser flere iranskstøttede militsgrupper, har tidligere vært en base for angrep mot fiendtlige mål i regionen, særlig under den pågående amerikansk-israelske konflikten mot Iran, melder nyhetsbyrået AFP.\n\nDe forente arabiske emirater\n\nDe forente arabiske emirater (Emiratene) er en føderasjon på den arabiske halvøy. Ni millioner av de ti millioner innbyggerne er utenlandsfødte. De sju emiratene er Abu Dhabi, Ajman, Dubai, Fujairah, Ras al-Khaimah, Sharjah og Umm al-Qaiwain.\n\nAtomkraft\n\nAtomkraft, også kalt kjernekraft, er stadig et omdiskutert tema i både Norge og resten av verden. Atomkraftverk er svært kontroversielle på grunn av behovet for lagring av radioaktivt avfall i lang tid. Men slike kraftverk har lave CO2-utslipp.",
+      "excerpt": "FNs sikkerhetsråd kom tirsdag med en sterk fordømmelse av droneangrepet på Barakah kjernekraftverk i Abu Dhabi 17. mai. Seks droner ble avfyrt fra Irak, der én forårsaket en brann på anlegget.\n\nFN mener det er brudd på folkeretten. Til tross for fordømmelsen, ga de ingen spesifikke aktører skyld...",
+      "image": "https://images.unsplash.com/photo-1536683402757-75f8d0dfa419?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk4MzcwNzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fn-fordommer-droneangrep-mot-kjernekraftverket-i-abu-dhabi--1.17897930",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-26T23:11:16.009Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779831999640.459,
       "title": "Musk skal sikre internett til USAs romforsvar",
       "slug": "musk-skal-sikre-internett-til-usas-romforsvar",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-24T09:56:34.853Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779616593331.1887,
-      "title": "Von der Leyen: Ønsker fremgang mellom USA og Iran velkommen",
-      "slug": "von-der-leyen-nsker-fremgang-mellom-usa-og-iran-velkommen",
-      "content": "EU-kommisjonens president, Ursula von der Leyen, ønsker den diplomatiske fremgangen mot en avtale mellom USA og Iran velkommen. Hun understreker at Europa vil fortsette samarbeidet med internasjonale partnere for å sikre en varig diplomatisk løsning på konflikten i Midtøsten.\n\nVon der Leyen gjentar samtidig at gjenåpningen av Hormuzstredet er helt avgjørende, og slår fast at Iran under ingen omstendigheter må tillates å utvikle atomvåpen.\n\nOgså britenes statsminister Keir Starmer har ønsket en mulig avtale velkommen.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.",
-      "excerpt": "EU-kommisjonens president, Ursula von der Leyen, ønsker den diplomatiske fremgangen mot en avtale mellom USA og Iran velkommen. Hun understreker at Europa vil fortsette samarbeidet med internasjonale partnere for å sikre en varig diplomatisk løsning på konflikten i Midtøsten.\n\nVon der Leyen gjentar...",
-      "image": "https://images.unsplash.com/photo-1554140781-33058d9962b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk2MTY1OTN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/von-der-leyen_-onsker-fremgang-mellom-usa-og-iran-velkommen-1.17895479",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-24T09:56:33.331Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1404,
+    "totalFetched": 1405,
     "totalPublished": 77,
-    "lastFetch": "2026-05-26T21:46:41.577Z",
+    "lastFetch": "2026-05-26T23:11:17.544Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
