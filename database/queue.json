@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1779923929835.3115,
+      "title": "To døde og ni savnet etter at kjemikalietank imploderte",
+      "slug": "to-dde-og-ni-savnet-etter-at-kjemikalietank-imploderte",
+      "content": "Antall døde etter at en kjemikalietank imploderte ved en papirfabrikk i Longview i delstaten Washington tirsdag, er oppjustert til to.\n\nDet andre dødsfallet var en av de ni som ble fraktet til sykehus etter ulykken. Syv ansatte er innlagt, og én brannmann har fått behandling og blitt utskrevet. Myndighetene tror ikke lenger at det er håp om å finne overlevende.\n\n– Vi har gjennomsøkt området som er søkbart, sier brannsjef Scott Goldstein.\n\nHan sier videre at de ikke har oversikt over hvor de ni som fortsatt er savnet, befinner seg.\n\n– Vi forbereder oss på at dette blir den dødeligste industrielle tragedien i nyere tid i delstaten Washington, sier guvernør Bob Ferguson på en pressekonferanse onsdag.\n\nÅ implodere betyr at noe kollapser innover, i stedet for å eksplodere utover.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Antall døde etter at en kjemikalietank imploderte ved en papirfabrikk i Longview i delstaten Washington tirsdag, er oppjustert til to.\n\nDet andre dødsfallet var en av de ni som ble fraktet til sykehus etter ulykken. Syv ansatte er innlagt, og én brannmann har fått behandling og blitt utskrevet....",
+      "image": "https://images.unsplash.com/photo-1661120458026-92d509c97805?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk5MjM5Mjl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-dode-og-ni-savnet-etter-at-kjemikalietank-imploderte--1.17899282",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-27T23:18:49.835Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779923928116.2942,
+      "title": "Demokratene blokkerer Trumps foreslåtte triumfbue-prosjekt i Washington D.C.",
+      "slug": "demokratene-blokkerer-trumps-foresltte-triumfbueprosjekt-i-w",
+      "content": "Demokratene i Representantenes hus har fremmet et lovforslag som blokkerer byggingen av USAs president Donald Trumps foreslåtte triumfbue «Independence Arch» i Washington D.C., skriver AP News.\n\nLovforslaget kommer etter at en føderal kommisjon godkjente utformingen av prosjektet, som Trump ønsker skal fremstå som inngangen til landets hovedstad.\n\nRepresentantene Don Beyer og Dina Titus kalte buen et forfengelighetsprosjekt og hevder at finansieringen er ulovlig uten kongressens godkjenning, og i strid med loven om minnesmerker.\n\nDen foreslåtte 76 meter høye buen blir også omtalt som «Independence Arch».\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Demokratene i Representantenes hus har fremmet et lovforslag som blokkerer byggingen av USAs president Donald Trumps foreslåtte triumfbue «Independence Arch» i Washington D.C., skriver AP News.\n\nLovforslaget kommer etter at en føderal kommisjon godkjente utformingen av prosjektet, som Trump ønsker...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/demokratene-blokkerer-trumps-foreslatte-triumfbue-prosjekt-i-washington-d.c.-1.17899287",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-27T23:18:48.116Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779923926507.5083,
+      "title": "Brudd i forhandlingene mellom Styrke og Offshore Norge",
+      "slug": "brudd-i-forhandlingene-mellom-styrke-og-offshore-norge",
+      "content": "Offshore Norge og Forbundet Styrke klarte ikke å nå en enighet i forhandlingene om arbeidsvilkårene for ansatte på olje- og gassfeltbaser, og må dermed møtes hos Riksmekleren.\n\nDersom de ikke kommer til enighet hos Riksmekleren kan det bli streik på basene som forsyner offshorefeltene.\n\nLandbaseavtalen omfatter cirka 1750 Styrke-medlemmer, inkludert de som jobber i tilslutningsbedrifter utenfor Offshore Norge, skriver styrke på sine nettsider.",
+      "excerpt": "Offshore Norge og Forbundet Styrke klarte ikke å nå en enighet i forhandlingene om arbeidsvilkårene for ansatte på olje- og gassfeltbaser, og må dermed møtes hos Riksmekleren.\n\nDersom de ikke kommer til enighet hos Riksmekleren kan det bli streik på basene som forsyner...",
+      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk5MjM5MjZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/brudd-i-forhandlingene-mellom-styrke-og-offshore-norge-1.17899297",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-27T23:18:46.508Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779913261196.9824,
       "title": "Dømt for Matthew Perrys overdose",
       "slug": "dmt-for-matthew-perrys-overdose",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-25T04:02:11.107Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779663546706.888,
-      "title": "WHO: Over 900 mistenkte ebola-tilfeller i Kongo",
-      "slug": "who-over-900-mistenkte-ebolatilfeller-i-kongo",
-      "content": "Over 900 personer er mistenkt smittet av det dødelige ebolaviruset i Den demokratiske republikken Kongo. Så langt er 101 av tilfellene bekreftet. Det opplyser sjefen for Verdens helseorganisasjon (WHO), Tedros Adhanom Ghebreyesus, søndag, ifølge nyhetsbyrået Reuters.\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og Liberia. Etter at det store utbruddet var over, er det registrert flere sporadiske tilfeller av smitte.",
-      "excerpt": "Over 900 personer er mistenkt smittet av det dødelige ebolaviruset i Den demokratiske republikken Kongo. Så langt er 101 av tilfellene bekreftet. Det opplyser sjefen for Verdens helseorganisasjon (WHO), Tedros Adhanom Ghebreyesus, søndag, ifølge nyhetsbyrået Reuters.\n\nEbola\n\nEbolaepidemien i årene...",
-      "image": "https://images.unsplash.com/photo-1732362129913-88a5a52958cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk2NjM1NDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/who_-over-900-mistenkte-ebola-tilfeller-i-kongo-1.17895985",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-24T22:59:06.706Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779663544894.4631,
-      "title": "Oljeprisen faller etter Iran-meldinger",
-      "slug": "oljeprisen-faller-etter-iranmeldinger",
-      "content": "Oljeprisen falt til det laveste nivået på to uker da oljemarkedet åpnet natt til mandag norsk tid, etter meldinger om Iran og USA er nærmere en fredsavtale, skriver Reuters.\n\nPrisen på nordsjøolje falt rundt fem prosent fra rundt 103 til rundt 98 dollar pr. fat.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og Liberia. Etter at det store utbruddet var over, er det registrert flere sporadiske tilfeller av smitte.",
-      "excerpt": "Oljeprisen falt til det laveste nivået på to uker da oljemarkedet åpnet natt til mandag norsk tid, etter meldinger om Iran og USA er nærmere en fredsavtale, skriver Reuters.\n\nPrisen på nordsjøolje falt rundt fem prosent fra rundt 103 til rundt 98 dollar pr. fat.\n\nForholdet Iran – USA\n\nSiden USA og...",
-      "image": "https://images.unsplash.com/photo-1686731709928-a603b9ca9a82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk2NjM1NDR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/oljeprisen-faller-etter-iran-meldinger-1.17895997",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-24T22:59:04.894Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779656305725.7708,
-      "title": "Etterlyst ukrainsk banksjef pågrepet i Kristiansan",
-      "slug": "etterlyst-ukrainsk-banksjef-pgrepet-i-kristiansan",
-      "content": "En ukrainsk banksjef som har vært internasjonalt etterlyst siden september 2025, ble natt til søndag pågrepet da han ankom Kristiansand med danskebåten.\n\nPågripelsen skjedde på fergekaia, og mannen ble identifisert på bakgrunn av en Interpol-etterlysning.\n\n– Han identifiserte seg med navn og bilde. Nå blir ukrainske myndigheter varslet om pågripelsen, sier politiadvokat Hellek Rue i Agder politidistrikt til VG.\n\nMannen i 40-årene er mistenkt for systematisk økonomisk kriminalitet. Ifølge ukrainske rettsdokumenter har han misbrukt sin stilling som bankansatt til å tilegne seg kunders midler i årevis. (NTB)\n\nUkraina\n\nUkraina er et land i Europa som grenser til Russland, Belarus, Polen, Moldova og Romania. Landet har nær 38 millioner innbyggere, ifølge data fra FN. I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina».",
-      "excerpt": "En ukrainsk banksjef som har vært internasjonalt etterlyst siden september 2025, ble natt til søndag pågrepet da han ankom Kristiansand med danskebåten.\n\nPågripelsen skjedde på fergekaia, og mannen ble identifisert på bakgrunn av en Interpol-etterlysning.\n\n– Han identifiserte seg med navn og bilde....",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/etterlyst-ukrainsk-banksjef-pagrepet-i-kristiansan-1.17895907",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-24T20:58:25.725Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1421,
+    "totalFetched": 1424,
     "totalPublished": 77,
-    "lastFetch": "2026-05-27T20:21:03.493Z",
+    "lastFetch": "2026-05-27T23:18:51.145Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
