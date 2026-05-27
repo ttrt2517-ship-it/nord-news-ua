@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1779913261196.9824,
+      "title": "Dømt for Matthew Perrys overdose",
+      "slug": "dmt-for-matthew-perrys-overdose",
+      "content": "Den personlige assistenten til «Friends»-stjernen Matthew Perry, Kenneth Iwamasa (60), ble onsdag kveld dømt til tre år og fem måneders fengsel i Los Angeles.\n\nIwamasa har innrømmet at han ga Perry ketamin i oktober 2023, til tross for at han manglet medisinsk utdanning.\n\nPerry døde på grunn av overdose og påfølgende drukning, ifølge obduksjonsrapporten. Han ble funnet død i et boblebad i sitt eget hjem 28. oktober 2023.\n\n«Vi stolte på en man uten samvittighet, og sønnen min betalte prisen», skriver skuespillerens mor, Suzanne Morrison, i et brev til dommeren.\n\nKjendiser og underholdning\n\nNyheter om kjendiser og underholdningsbransjen.",
+      "excerpt": "Den personlige assistenten til «Friends»-stjernen Matthew Perry, Kenneth Iwamasa (60), ble onsdag kveld dømt til tre år og fem måneders fengsel i Los Angeles.\n\nIwamasa har innrømmet at han ga Perry ketamin i oktober 2023, til tross for at han manglet medisinsk utdanning.\n\nPerry døde på grunn av...",
+      "image": "https://images.unsplash.com/photo-1731779455735-7b9675d9e028?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk5MTMyNjF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/domt-for-matthew-perrys-overdose-1.17899190",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-27T20:21:01.196Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779913259560.6257,
+      "title": "Macron om Noreg: – Ein verdifull og uunnverleg partnar",
+      "slug": "macron-om-noreg-ein-verdifull-og-uunnverleg-partnar",
+      "content": "– Noreg er i dag ein verdifull og uunnverleg partnar for europearanes og franskmennenes kollektive tryggleik, seier den franske presidenten Emmanuel Macron.\n\nSaman med statsminister Jonas Gahr Støre (Ap) heldt han eit kort pressemøte i Paris onsdag kveld. Det skjedde i samband med at Noreg og Frankrike onsdag inngjekk ei forsvarsavtale og samarbeid om atomvåpen.\n\nAvtala går ut på at begge landa forpliktar seg til å hjelpa den andre ved behov, også militært.\n\n– Eg vil uttrykka kor sterkt Frankrike verdset vennskaps- og tillitsbanda som har foreint statane våre i 120 år, og våre nasjonar og folk i endå lengre tid, sa presidenten.\n\nStøre har omtalt avtala som historisk, men fleire av samarbeidspartia til regjeringa er svært kritiske til ho.",
+      "excerpt": "– Noreg er i dag ein verdifull og uunnverleg partnar for europearanes og franskmennenes kollektive tryggleik, seier den franske presidenten Emmanuel Macron.\n\nSaman med statsminister Jonas Gahr Støre (Ap) heldt han eit kort pressemøte i Paris onsdag kveld. Det skjedde i samband med at Noreg og...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/macron-om-noreg_-_-ein-verdifull-og-uunnverleg-partnar-1.17899094",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-27T20:20:59.560Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779913257949.115,
+      "title": "Støre om dronningen: – Håper hun blir fort frisk",
+      "slug": "stre-om-dronningen-hper-hun-blir-fort-frisk",
+      "content": "– Jeg vil ønske dronningen riktig god bedring. Jeg er glad for at hun får god hjelp på sykehuset og håper hun blir fort frisk, sier statsminister Jonas Gahr Støre til NRK.\n\nOnsdag ble det kjent at dronning Sonja legges inn på Rikshospitalet med hjerteflimmer og hjertesvikt.\n\nDronning Sonja (88) blei onsdag lagd inn på Rikshospitalet på grunn av hjarteproblem. Kongen held fram programmet sitt på Vestlandet som planlagt.",
+      "excerpt": "– Jeg vil ønske dronningen riktig god bedring. Jeg er glad for at hun får god hjelp på sykehuset og håper hun blir fort frisk, sier statsminister Jonas Gahr Støre til NRK.\n\nOnsdag ble det kjent at dronning Sonja legges inn på Rikshospitalet med hjerteflimmer og hjertesvikt.\n\nDronning Sonja (88)...",
+      "image": "https://images.unsplash.com/photo-1695725097795-19328f75e879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk5MTMyNTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/store-om-dronningen_-_-haper-hun-blir-fort-frisk-1.17899232",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-27T20:20:57.949Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779902395845.9392,
       "title": "REVEALED: The number of people in Norway still trapped in UDI Limbo in 2026",
       "slug": "revealed-the-number-of-people-in-norway-still-trapped-in-udi",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-24T20:58:25.725Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779656303984.8923,
-      "title": "Advarer om betydelig snøskredfare i Jotunheimen – flere store skred søndag",
-      "slug": "advarer-om-betydelig-snskredfare-i-jotunheimen-flere-store-s",
-      "content": "Norges vassdrags- og energidirektorat (NVE) har søndag kveld sendt ut oransje farevarsel for betydelig snøskredfare i Jotunheimen fra mandag.\n\n– Et høyt vanninnhold i snøen i kombinasjon med mye regn gjør at det ventes flere store naturlig utløste skred mellom 1400 og 1800 moh. som følge av at eldre svake lag blir gjennomfuktet. Unngå skredutsatt terreng, skriver NVE i sitt farevarsel.\n\nNVE opplyser at det søndag har blitt observert flere store skred.",
-      "excerpt": "Norges vassdrags- og energidirektorat (NVE) har søndag kveld sendt ut oransje farevarsel for betydelig snøskredfare i Jotunheimen fra mandag.\n\n– Et høyt vanninnhold i snøen i kombinasjon med mye regn gjør at det ventes flere store naturlig utløste skred mellom 1400 og 1800 moh. som følge av at...",
-      "image": "https://images.unsplash.com/photo-1698083781385-a8a7069c5cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk2NTYzMDN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/innlandet/advarer-om-betydelig-snoskredfare-i-jotunheimen-_-flere-store-skred-sondag-1.17895944",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-24T20:58:23.984Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779656302205.9094,
-      "title": "En omkommet i mopedulykke i Vennesla",
-      "slug": "en-omkommet-i-mopedulykke-i-vennesla",
-      "content": "En mann er omkommet etter at to mopeder var involvert i en ulykke i Vennesla søndag kveld.\n\n– Det ble utført livreddende førstehjelp, først av personer som kom til stedet like etter hendelsen, deretter av helse og øvrige nødetater, men livet stod dessverre ikke til å redde.\n\nDet opplyser operasjonsleder Ole Robert Strandhagen om trafikkulykken i Vennesla.\n\nEn mann er omkommet etter at to mopeder var involvert i en ulykke i Vennesla søndag kveld.",
-      "excerpt": "En mann er omkommet etter at to mopeder var involvert i en ulykke i Vennesla søndag kveld.\n\n– Det ble utført livreddende førstehjelp, først av personer som kom til stedet like etter hendelsen, deretter av helse og øvrige nødetater, men livet stod dessverre ikke til å redde.\n\nDet opplyser...",
-      "image": "https://images.unsplash.com/photo-1705413868961-d652425d6278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk2NTYzMDJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/en-omkommet-i-mopedulykke-i-vennesla-1.17895942",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-24T20:58:22.205Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779650398464.099,
-      "title": "Amedias nettsider var nede",
-      "slug": "amedias-nettsider-var-nede",
-      "content": "Flere av nettavisene til mediekonsernet Amedia var nede søndag kveld.\n\n– Vi bekrefter at vi har tekniske utfordringer. Vi jobber med å feilsøke feilen, men vet foreløpig ikke årsaken til den, sa kommunikasjonssjef Hallgeir Westrum til NRK.\n\nWestrum opplyste at alt tilgjengelig mannskap er satt inn for å utbedre feilen.\n\nFlere av nettavisene var helt nede, mens enkelte fungerte i en forenklet utgave. Feilen rammet en periode også danske Berlingske, som konsernet eier.\n\nAmedia er Norges største mediekonsern og eier 108 av landets aviser, blant annet Nettavisen, Bergensavisen og Nordlys.\n\nI 19-tiden søndag kveld fungerte mediekonsernets nettaviser igjen som normalt.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
-      "excerpt": "Flere av nettavisene til mediekonsernet Amedia var nede søndag kveld.\n\n– Vi bekrefter at vi har tekniske utfordringer. Vi jobber med å feilsøke feilen, men vet foreløpig ikke årsaken til den, sa kommunikasjonssjef Hallgeir Westrum til NRK.\n\nWestrum opplyste at alt tilgjengelig mannskap er satt inn...",
-      "image": "https://images.unsplash.com/photo-1659424765389-a64c848ca038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk2NTAzOTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/innlandet/amedias-nettsider-var-nede-1.17895769",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-24T19:19:58.464Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1418,
+    "totalFetched": 1421,
     "totalPublished": 77,
-    "lastFetch": "2026-05-27T17:19:56.847Z",
+    "lastFetch": "2026-05-27T20:21:03.493Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
