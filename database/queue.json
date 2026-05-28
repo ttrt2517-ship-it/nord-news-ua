@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1779955293700.9846,
+      "title": "Kronprinsparet på sykebesøk hos dronning Sonja",
+      "slug": "kronprinsparet-p-sykebesk-hos-dronning-sonja",
+      "content": "Kronprins Haakon og kronprinsesse Mette-Marit var torsdag formiddag på sykebesøk hos dronning Sonja, som er innlagt på Rikshospitalet.\n\nDronning Sonja ble innlagt onsdag på grunn av hjerteproblemer.\n\n– Dronningen har hjerteflimmer og hjertesvikt og er innlagt noen dager til undersøkelser og observasjon, skrev Kongehuset på sine nettsider.\n\nHun skulle etter planen ha vært med kong Harald på fylkesbesøk i Vestland, men droppet besøket da hun ble sykmeldt i helgen. Kongens besøk går som planlagt.",
+      "excerpt": "Kronprins Haakon og kronprinsesse Mette-Marit var torsdag formiddag på sykebesøk hos dronning Sonja, som er innlagt på Rikshospitalet.\n\nDronning Sonja ble innlagt onsdag på grunn av hjerteproblemer.\n\n– Dronningen har hjerteflimmer og hjertesvikt og er innlagt noen dager til undersøkelser og...",
+      "image": "https://images.unsplash.com/photo-1441861256423-eea295e53fe2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk5NTUyOTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/kronprinsparet-pa-sykebesok-hos-dronning-sonja-1.17899485",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-28T08:01:33.700Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779955291648.1938,
+      "title": "16 døde i skolebrann i Kenya",
+      "slug": "16-dde-i-skolebrann-i-kenya",
+      "content": "Dødstallet stiger etter en brann på en internatskole i Kenya. 16 er omkommet og 73 skadd, opplyser politikilder ifølge nyhetsbyrået AFP.\n\nBrannen brøt ut ved jenteskolen Utumishi Girls Academy rundt klokken 01.00 natt til torsdag lokal tid.\n\nKenya\n\nKenya er kjent som et relativt stabilt land i en urolig region. Landet sliter likevel med korrupsjon, fattigdom og etniske motsetninger.",
+      "excerpt": "Dødstallet stiger etter en brann på en internatskole i Kenya. 16 er omkommet og 73 skadd, opplyser politikilder ifølge nyhetsbyrået AFP.\n\nBrannen brøt ut ved jenteskolen Utumishi Girls Academy rundt klokken 01.00 natt til torsdag lokal tid.\n\nKenya\n\nKenya er kjent som et relativt stabilt land i en...",
+      "image": "https://images.unsplash.com/photo-1715700266217-1b049c7fe2b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk5NTUyOTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/16-dode-i-skolebrann-i-kenya-1.17899507",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-28T08:01:31.648Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1779955289539.7969,
+      "title": "Duterte for retten i ICC i slutten av november",
+      "slug": "duterte-for-retten-i-icc-i-slutten-av-november",
+      "content": "Rettssaken mot Filippinenes tidligere president Rodrigo Duterte starter i Den internasjonale straffedomstolen ICC i Haag 30. november.\n\nDet er dommere ved ICC som har fastsatt datoen for oppstarten av rettssaken, der Duterte er tiltalt for forbrytelser mot menneskeheten i forbindelse med den såkalte krigen mot narkotika i perioden 2016 til 2022.\n\nTiltalen inneholder tre punkter om forbrytelser mot menneskeheten og omfatter drap på minst 76 personer og drapsforsøk på to andre.\n\nFilippinene\n\nFilippinenes tidligere president Rodrigo Duterte er pågrepet etter en arrestordre fra Den internasjonale straffedomstolen (ICC).",
+      "excerpt": "Rettssaken mot Filippinenes tidligere president Rodrigo Duterte starter i Den internasjonale straffedomstolen ICC i Haag 30. november.\n\nDet er dommere ved ICC som har fastsatt datoen for oppstarten av rettssaken, der Duterte er tiltalt for forbrytelser mot menneskeheten i forbindelse med den...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/duterte-for-retten-i-icc-i-slutten-av-november-1.17899553",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-28T08:01:29.539Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1779940228786.6357,
       "title": "13 personer drept i trafikkulykke i Kina",
       "slug": "13-personer-drept-i-trafikkulykke-i-kina",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-25T14:56:47.645Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779703880575.8447,
-      "title": "Vet ikke når veien kan åpnes etter ras",
-      "slug": "vet-ikke-nr-veien-kan-pnes-etter-ras",
-      "content": "Fylkesvei 3420 Gaustavegen er fortsatt stengt i begge retninger, etter at et enormt ras ble utløst i området søndag.\n\nGeologer skal undersøke forholdene mandag formiddag.\n\n– Det må vurderes om det er trygt å begynne med opprydding. Det er for tidlig å si noe om når veien forventes åpen, sier Vemund Reinstaul.\n\nHan er teamleder ved seksjon for vegdrift i Telemark fylkeskommune.\n\nStedet der raset har gått ligger i et område som er svært populært som utfartssted for turer til Gaustatoppen i Tinn.\n\nEkspertene frykter at det kan komme flere ras, og forteller om ustabile forhold i det aktuelle fjellområdet.\n\nDet er gått et stort leirras over veien som mange bruker til Gaustatoppen. Politiet har stengt både hovedveien og Gaustabanen søndag.",
-      "excerpt": "Fylkesvei 3420 Gaustavegen er fortsatt stengt i begge retninger, etter at et enormt ras ble utløst i området søndag.\n\nGeologer skal undersøke forholdene mandag formiddag.\n\n– Det må vurderes om det er trygt å begynne med opprydding. Det er for tidlig å si noe om når veien forventes åpen, sier Vemund...",
-      "image": "https://images.unsplash.com/photo-1630015179789-7a4c880ae186?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk3MDM4ODB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/vet-ikke-nar-veien-kan-apnes-etter-ras-1.17896026",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-25T10:11:20.575Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779703878704.9094,
-      "title": "Iran sier de kan diskutere sitt atomprogram med USA",
-      "slug": "iran-sier-de-kan-diskutere-sitt-atomprogram-med-usa",
-      "content": "Iran vil diskutere sitt atomprogram med USA dersom Washington oppfyller sine forpliktelser i en potensielt intensjonsavtale som det forhandles om, opplyser en høytstående iransk diplomat, skriver Reuters.\n\nDet handler blant annet om oppheving av sanksjoner og frigjøring av iranske utenlandske midler.\n\nVidere sier Esmaeil Baghaei. talsperson for det iranske utenriksdepartementet, at Iran forhandler om en slutt på krigen og at det ikke er noen aktiv diskusjon om atomprogrammet.\n\nUSAs utenriksminister Marco Rubio har tidligere uttalt at en Iran-avtale kan være innen rekkevidde mandag.\n\nMen Iran på sin side sier at ingen kan si at en enighet mellom de to landene er nært forestående.\n\n– VI har blitt enige om mange av tingene vi har diskutert, men det betyr ikke at vi er nær en avtale, sier Baghaei.\n\nUSAs utenriksminister Marco Rubio sier det er en god mulighet for at Hormuzstredet blir åpnet gjennom en ny avtale mellom USA og Iran. Men Iran sier mye gjenstår.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
-      "excerpt": "Iran vil diskutere sitt atomprogram med USA dersom Washington oppfyller sine forpliktelser i en potensielt intensjonsavtale som det forhandles om, opplyser en høytstående iransk diplomat, skriver Reuters.\n\nDet handler blant annet om oppheving av sanksjoner og frigjøring av iranske utenlandske...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/iran-sier-de-kan-diskutere-sitt-atomprogram-med-usa--1.17896055",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-25T10:11:18.704Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779703877079.3904,
-      "title": "Elg på E6 avlivet",
-      "slug": "elg-p-e6-avlivet",
-      "content": "En ung elg hadde forvillet seg ut på E6 mellom Furuset og Karihaugen i Oslo.\n\n– Den beveger seg frem og tilbake ved midtdeleren og kan komme brått på, fortalte operatør ved Veitrafikksentralen, Gunnar Dovland.\n\nTrafikk i Stor-Oslo\n\nEr du ute på veiene, eller sitter på toget, bussen, trikken eller T-banen?\nHold deg oppdatert på trafikken i Oslo og Akershus.",
-      "excerpt": "En ung elg hadde forvillet seg ut på E6 mellom Furuset og Karihaugen i Oslo.\n\n– Den beveger seg frem og tilbake ved midtdeleren og kan komme brått på, fortalte operatør ved Veitrafikksentralen, Gunnar Dovland.\n\nTrafikk i Stor-Oslo\n\nEr du ute på veiene, eller sitter på toget, bussen, trikken eller...",
-      "image": null,
-      "original_url": "https://www.nrk.no/stor-oslo/elg-pa-e6-avlivet-1.17896021",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-25T10:11:17.079Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1427,
+    "totalFetched": 1430,
     "totalPublished": 77,
-    "lastFetch": "2026-05-28T03:50:30.811Z",
+    "lastFetch": "2026-05-28T08:01:36.390Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
