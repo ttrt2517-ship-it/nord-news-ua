@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1780123642167.3174,
+      "title": "Tre alvorlig skadd i front-mot-front-ulykke i Tynset",
+      "slug": "tre-alvorlig-skadd-i-frontmotfrontulykke-i-tynset",
+      "content": "Det har vært en front-mot-front-ulykke mellom en personbil og et vogntog i Tynset kommune i Innlandet.\n\nTotalt fire personer er involvert, ifølge politiet.\n\n– Fører av vogntoget fremstår som uskadet. Det ser ut som det er alvorlige skader for de som er i personbilen, sier operasjonsleder Per Solberg til NRK.\n\nSolberg sier de fikk melding om ulykken i 06-tiden. Nøedatetene og redningspersonell er på stedet og har startet sitt arbeid.\n\n– Vi er i kontakt med veitrafikksentralen, som vil varsle, og det blir nok stengt riksvei 3 utover formiddagen, sier operasjonslederen.\n\nDet blir sannsynligvis omkjøring om Gudbrandsdalen for hovedtrafikken fra Oslo til Trondheim, sier Solberg til NRK.\n\nRiksvei 3 er stengt ved Kvikne etter en alvorlig trafikkulykke lørdag morgen.",
+      "excerpt": "Det har vært en front-mot-front-ulykke mellom en personbil og et vogntog i Tynset kommune i Innlandet.\n\nTotalt fire personer er involvert, ifølge politiet.\n\n– Fører av vogntoget fremstår som uskadet. Det ser ut som det er alvorlige skader for de som er i personbilen, sier operasjonsleder Per...",
+      "image": "https://images.unsplash.com/photo-1693467084173-2071521fda73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAxMjM2NDJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/tre-alvorlig-skadd-i-front-mot-front-ulykke-i-tynset-1.17902185",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-30T06:47:22.167Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780123640531.6477,
+      "title": "Ghana godkjenner lov mot homofili",
+      "slug": "ghana-godkjenner-lov-mot-homofili",
+      "content": "Ghanas nasjonalforsamling vedtok fredag et lovforslag som hardt rammer homofile og transpersoner sine rettigheter. Bare presidentens underskift gjenstår.\n\nLovforslaget går ut på at forhold mellom personer av samme kjønn skal kunne straffes med fengsel i inntil tre år. I tillegg skal personer som på ulike måter støtter eller tar til orde for homofiles rettigheter kunne straffes med mellom tre og fem år i fengsel.\n\nForslaget ble også enstemmig godkjent i nasjonalforsamlingen i 2024, men da valgte den daværende presidenten Nana Akufo-Addo å ikke skrive under.\n\nSamleie mellom personer av samme kjønn er fra før forbudt i det vestafrikanske landet. Dersom president John Mahamas skriver under på forslaget, vil også den nye loven tre i kraft.",
+      "excerpt": "Ghanas nasjonalforsamling vedtok fredag et lovforslag som hardt rammer homofile og transpersoner sine rettigheter. Bare presidentens underskift gjenstår.\n\nLovforslaget går ut på at forhold mellom personer av samme kjønn skal kunne straffes med fengsel i inntil tre år. I tillegg skal personer som på...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ghana-godkjenner-lov-mot-homofili-1.17902186",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-30T06:47:20.531Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780123638987.1326,
+      "title": "18 mennesker døde i lastebilulykke i Afghanistan",
+      "slug": "18-mennesker-dde-i-lastebilulykke-i-afghanistan",
+      "content": "18 mennesker, deriblant ti barn, døde da en lastebil veltet øst i Afghanistan, opplyser en talsperson til nyhetsbyrået AFP.\n\nLastebilen fraktet familier som vendte tilbake fra Pakistan, ifølge Abdul Malik Niazay, som er talsperson for guvernøren i Laghman-provinsen.\n\nFlere afghanere forlater Pakistan som følge av strengere holdninger knyttet til afghanske migranter og flyktninger. Derfor er det flere lastebiler som frakter familier og deres eiendeler ut av landet.\n\nSiden årsskiftet har 447.400 afghanere vendt tilbake fra Pakistan, ifølge tall fra FN.",
+      "excerpt": "18 mennesker, deriblant ti barn, døde da en lastebil veltet øst i Afghanistan, opplyser en talsperson til nyhetsbyrået AFP.\n\nLastebilen fraktet familier som vendte tilbake fra Pakistan, ifølge Abdul Malik Niazay, som er talsperson for guvernøren i Laghman-provinsen.\n\nFlere afghanere forlater...",
+      "image": "https://images.unsplash.com/photo-1695725097795-19328f75e879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAxMjM2Mzh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/18-mennesker-dode-i-lastebilulykke-i-afghanistan-1.17902210",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-30T06:47:18.987Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780112228594.0818,
       "title": "Tre klatrere omkom på Nord-Amerikas høyeste fjell",
       "slug": "tre-klatrere-omkom-p-nordamerikas-hyeste-fjell",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-27T20:20:57.949Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779902395845.9392,
-      "title": "REVEALED: The number of people in Norway still trapped in UDI Limbo in 2026",
-      "slug": "revealed-the-number-of-people-in-norway-still-trapped-in-udi",
-      "content": "After a recent survey by The Local showed the difficulties foreigners in Norway face while waiting for answers from immigration authorities, we asked UDI for the hard numbers. How many cases are still open, and how long have people been waiting?\n\nWhen contacted, the UDI (Norwegian Directorate of Immigration) told The Local they are \"aware\" of the long waiting times and briefly outlined their plans to resolve the backlog.\n\nHowever, for many readers who expressed their desperation about being in an endless loop of checking their emails daily, waiting for an answer that never seems to arrive, this is not a concrete solution.\n\nAt The Local, we wanted to find out what the numbers really show, cutting through the bureaucratic noise to reveal what the international community is facing in 2026.\n\nREAD MORE: ‘We are aware’: Norway's UDI responds to criticism over residency permit delays\n\nThe data given to The Local Norway from the UDI in late April 2026 is startling.\n\nThe scale of the backlog is clear when looking at the duration of pending applications, as for many, the wait is no longer a matter of months, but years.\n\nThe numbers back up what our readers have told us, describing the impossibility of planning their futures, securing a job, or even travelling abroad while their lives depend on the response from the authorities.\n\nAs the figures show, family immigration cases make up the largest group.\n\nThere are 10,823 family immigration applications awaiting a response. Of these, 3,651 families have been waiting between one and two years, while 504 people have surpassed the two-year mark without knowing if they will be allowed to live legally with their loved ones.\n\nREAD MORE: 'I'm a prisoner': Foreigners in Norway left unable to work or travel as they wait for UDI\n\nThis means that over 38 percent of those waiting for family reunification have been in the queue for more than 12 months.\n\nWithin the total pool, 2,882 applicants have been waiting for up to a year and counting, while the remainder fall under the six-month mark.\n\nThe situation for Skilled Workers is equally frustrating. Out of 779 people currently waiting, 278 have already surpassed the one-to-two-year mark, with 83 waiting more than two years.\n\nStudent visas currently have the fewest active applicants (244 pending cases). However, there are still outliers: five cases have been waiting between one and two years, and three for more than two.\n\nWhile most students receive a response within 12 months, those stuck in the backlog find it almost impossible to advance in their careers and often have to look for opportunities in other countries.\n\nThe outlook for permanent residency is also difficult. Out of 5,515 pending applications, around 44 percent (2,438 people) have been waiting between one and two years, while 312 have been waiting for more than two years.\n\nAs our survey previously revealed, this generates a severe impact on people who have already been living in Norway for years. These delays can effectively pause the lives they have worked so hard to build in the country, in some cases even forcing them to start over from scratch.\n\nREAD MORE: 'It’s a joke': Foreigners in Norway warn against trusting UDI wait times\n\nThe UDI's figures showed that the number of applications has remained relatively stable over the last few years, suggesting that the backlog isn't due to a sudden surge, but a systemic slowdown within the processing framework.\n\nAccording to UDI data from 2021 to 2025, family reunification applications have averaged nearly 17,000 annually, with some fluctuations over the years. While 2022 saw the biggest volume (19,349), 2025 remained high at 17,852.\n\nThe lowest point was in 2024, with 14,045 applications.\n\nSkilled worker visas average around 9,000 annually, student visas hover at 4,700, and permanent residency applications average about 4,300.\n\nFor many, these steady figures can heighten the sense of what they describe as a digital irony, raising the inevitable question: How is this possible in 2026?\n\nIn a country where nearly all public services are digital, foreigners argue that waiting 18 to 24 months for a residency decision seems less like a technical problem and more like a choice.\n\nAs a 40-year-old respondent to our survey concluded: \"The waiting time is completely unreasonable. There are no processes in 2026 that should take this long when everything is digitised.\"\n\nDo you have a specific question for the UDI, or is there a particular aspect you would like us to investigate further?  Let us know your thoughts in the comments below.\n\nREAD MORE: 'I am powerless': How waiting for answers from Norway's UDI impacts lives\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "After a recent survey by The Local showed the difficulties foreigners in Norway face while waiting for answers from immigration authorities, we asked UDI for the hard numbers. How many cases are still open, and how long have people been waiting?\n\nWhen contacted, the UDI (Norwegian Directorate of...",
-      "image": "https://images.unsplash.com/photo-1686641944143-b82f19ad0c2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk5MDIzOTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260522/revealed-the-number-of-people-in-norway-still-trapped-in-udi-limbo-in-2026",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-05-27T17:19:55.845Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779902391325.9736,
-      "title": "USA: Framgang i Iran-forhandlinger",
-      "slug": "usa-framgang-i-iranforhandlinger",
-      "content": "Det hvite hus opplyser onsdag kveld at forhandlingene mellom USA og Iran har en god utvikling.\n\nTalskvinne for Det Hvite Hus, Olivia Wales, understreker samtidig at president Donald Trump har gjort sine «røde linjer» klare overfor motparten, ifølge Reuters.\n\nUttalelsen kommer kort tid etter at Det hvite hus kalte iransk TVs rapporteringen av rammeverket rundt avtalen for «fullstendig oppdiktet», skriver NTB.\n\nTrump sier også USA ikke vil lette sanksjonene mot Iran hvis de gir opp anriket uran, ifølge PBS\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Det hvite hus opplyser onsdag kveld at forhandlingene mellom USA og Iran har en god utvikling.\n\nTalskvinne for Det Hvite Hus, Olivia Wales, understreker samtidig at president Donald Trump har gjort sine «røde linjer» klare overfor motparten, ifølge Reuters.\n\nUttalelsen kommer kort tid etter at Det...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa_-framgang-i-iran-forhandlinger-1.17898958",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-27T17:19:51.325Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779902389801.9304,
-      "title": "Norge og Frankrike inngår forsvarsavtale",
-      "slug": "norge-og-frankrike-inngr-forsvarsavtale",
-      "content": "Landene forplikter seg til å stille opp for hverandre militært om det skulle bli behov.\n\nSammen med ni andre europeiske land vil Norge bli en del av en prosess for hvordan franske atomvåpen kan bidra til sikkerhet og avskrekking i Europa.\n\nStatsminister Jonas Gahr Støre (Ap) er likevel klar på at det ikke endrer Norges syn på atomvåpen.\n\n– Vi skal ikke ha atomvåpen på norsk jord i fredstid, sier han til NRK.\n\nAvtalen legger opp til tettere samarbeid om hybrid krigføring, maritim sikkerhet, romsamarbeid, cybersikkerhet, støtte til Ukraina og forsvarsindustrielt samarbeid.\n\n«Narvikavtalen», som den kalles, signeres klokken 20 i Frankrike i kveld av forsvarsminister Tore O. Sandvik og Frankrikes forsvars- og veteranminister.\n\nStøre er også på plass i Paris for å møte Frankrikes president Emmanuel Macron.\n\nHan mener Europa må ta større ansvar for egen sikkerhet framover. Statsministeren sier likevel det ikke er aktuelt for Norge å bidra med penger til det franske atomvåpenprogrammet.",
-      "excerpt": "Landene forplikter seg til å stille opp for hverandre militært om det skulle bli behov.\n\nSammen med ni andre europeiske land vil Norge bli en del av en prosess for hvordan franske atomvåpen kan bidra til sikkerhet og avskrekking i Europa.\n\nStatsminister Jonas Gahr Støre (Ap) er likevel klar på at...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/norge-og-frankrike-inngar-forsvarsavtale-1.17899059",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-27T17:19:49.801Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1465,
+    "totalFetched": 1468,
     "totalPublished": 77,
-    "lastFetch": "2026-05-30T03:37:10.409Z",
+    "lastFetch": "2026-05-30T06:47:24.049Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
