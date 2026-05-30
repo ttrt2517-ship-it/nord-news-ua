@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1780181949026.549,
+      "title": "IAEA er bekymret etter at drone traff atomkraftverket i Zaporizjzja",
+      "slug": "iaea-er-bekymret-etter-at-drone-traff-atomkraftverket-i-zapo",
+      "content": "Atomkraftverket i den ukrainske byen Zaporizjzja meldte lørdag om skader på en av turbinbygningene etter et droneangrep.\n\nDet internasjonale atomenergibyrået IAEA sier de er alvorlig bekymret over situasjonen og at angrep på atominstallasjoner er ekstremt risikabelt, melder Reuters.\n\nIAEA-teamet, som arbeider ved kraftverket kontrollert av russiske styrker, har bedt om å få inspisere den skadede bygningen for å vurdere omfanget av skadene.\n\nRussland anklager Ukraina for å droneangrepet på atomkraftverket.\n\nLørdag avviste det ukrainske militæret påstandende fra Russland.\n\nRussland har ikke lagt frem bevis for sine påstander, ifølge The Kyiv Independent.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Atomkraftverket i den ukrainske byen Zaporizjzja meldte lørdag om skader på en av turbinbygningene etter et droneangrep.\n\nDet internasjonale atomenergibyrået IAEA sier de er alvorlig bekymret over situasjonen og at angrep på atominstallasjoner er ekstremt risikabelt, melder Reuters.\n\nIAEA-teamet...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/iaea-er-bekymret-etter-at-drone-traff-atomkraftverket-i-zaporizjzja--1.17902854",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-30T22:59:09.026Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780181947436.4297,
+      "title": "Mekling i vekteroverenskomsten på overtid",
+      "slug": "mekling-i-vekteroverenskomsten-p-overtid",
+      "content": "Meklingen mellom Parat, Norsk arbeidsmandsforbund og arbeidsgiverforeningen NHO Service og Handel om Vekteroverenskomsten fortsetter på overtid hos Riksmekleren.\n\nMeklingsfristen gikk ut ved midnatt natt til søndag, men partene sitter fortsatt sammen i et forsøk på å komme til enighet.\n\nDersom meklingen ikke fører fram, blir vektere tatt ut i streik fra søndag morgen.",
+      "excerpt": "Meklingen mellom Parat, Norsk arbeidsmandsforbund og arbeidsgiverforeningen NHO Service og Handel om Vekteroverenskomsten fortsetter på overtid hos Riksmekleren.\n\nMeklingsfristen gikk ut ved midnatt natt til søndag, men partene sitter fortsatt sammen i et forsøk på å komme til enighet.\n\nDersom...",
+      "image": "https://images.unsplash.com/photo-1651837063913-7ca672ca539c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAxODE5NDd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mekling-i-vekteroverenskomsten-pa-overtid--1.17902862",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-30T22:59:07.436Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780174837332.3699,
       "title": "Fire skadd i eksplosjon ved bolig på Eidsvoll",
       "slug": "fire-skadd-i-eksplosjon-ved-bolig-p-eidsvoll",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-05-28T13:53:43.048Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1779976421391.7954,
-      "title": "Politiet trapper opp på sjøen: – Båtfolket vil se oss mye mer",
-      "slug": "politiet-trapper-opp-p-sjen-btfolket-vil-se-oss-mye-mer",
-      "content": "Sør-Øst politidistrikt utvider sjøtjenesten kraftig. Politibåten blir nå i drift hele året, med et langt bredere oppdrag enn før.\n\nGrensekontroll, miljø og arbeidslivskriminalitet står nå på agendaen, i tillegg til den tradisjonelle sjøsikkerheten.\n\nI kjølvannet av den endrede sikkerhetspolitiske situasjonen i verden, tar politiet i Sør-Øst nå nye grep.\n\nSjøtjenesten går fra å primært ha fokus på fart, rus og forebygging av drukning i sommermånedene, til å levere en komplett polititjeneste på vannet.\n\n– Nå skal vi drive med polititjeneste på sjø. Vi skal blant annet være en innsatslederplattform, kunne frakte nasjonale beredskapsressurser og drive grenseoppdrag, forklarer Henning Ødegård Johansen, fagansvarlig for sjø i Sør-Øst politidistrikt.\n\nDen oppdaterte instruksen betyr at politiet i større grad vil slå ned på grenseoverskridende kriminalitet og arbeidslivskriminalitet. Dette gjelder for eksempel bruk av ulovlig utenlandsk arbeidskraft ved hyttebygging i strandsonen.",
-      "excerpt": "Sør-Øst politidistrikt utvider sjøtjenesten kraftig. Politibåten blir nå i drift hele året, med et langt bredere oppdrag enn før.\n\nGrensekontroll, miljø og arbeidslivskriminalitet står nå på agendaen, i tillegg til den tradisjonelle sjøsikkerheten.\n\nI kjølvannet av den endrede sikkerhetspolitiske...",
-      "image": null,
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/politiet-trapper-opp-pa-sjoen_-_-batfolket-vil-se-oss-mye-mer-1.17900326",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-28T13:53:41.391Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1779976419726.5862,
-      "title": "USA nekter å gi landingstillatelse til iranske flyselskap",
-      "slug": "usa-nekter-gi-landingstillatelse-til-iranske-flyselskap",
-      "content": "USA øker presset på Iran og vil nekte iranske flyselskap å benytte amerikanske flyplasser, opplyser finansminister Scott Bessent.\n\n– USA vil både nekte iranske flyselskap landingstillatelse, drivstoff og billettsalg, skriver Bessent på X.\n\n– Kun et tilfredsstillende resultat i forhandlingene vil få slutt på denne nedadgående spiralen, legger han til.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
-      "excerpt": "USA øker presset på Iran og vil nekte iranske flyselskap å benytte amerikanske flyplasser, opplyser finansminister Scott Bessent.\n\n– USA vil både nekte iranske flyselskap landingstillatelse, drivstoff og billettsalg, skriver Bessent på X.\n\n– Kun et tilfredsstillende resultat i forhandlingene vil få...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-nekter-a-gi-landingstillatelse-til-iranske-flyselskap-1.17900323",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-28T13:53:39.726Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1480,
+    "totalFetched": 1482,
     "totalPublished": 77,
-    "lastFetch": "2026-05-30T21:00:39.828Z",
+    "lastFetch": "2026-05-30T22:59:10.937Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
