@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1780268495811.7363,
+      "title": "Valgopptellingen i gang i Colombia",
+      "slug": "valgopptellingen-i-gang-i-colombia",
+      "content": "Valglokalene i Colombia stenger etter søndagens presidentvalg.\n\nValget står mellom venstreorienterte senator Ivan Cepeda, som har hatt en liten ledelse på meningsmålingene, og høyreekstreme advokat Abelardo de la Espriella.\n\nEspriella leder knapt i den tidlige opptellingen med 43,6 % støtte etter at omtrent en femtedel av stemmene er telt opp, ifølge data fra landets nasjonale registerkontor.\n\nHvis ingen av kandidatene sikrer seg over halvparten av stemmene i første runde, vil det bli en runde nummer to 21. juni.",
+      "excerpt": "Valglokalene i Colombia stenger etter søndagens presidentvalg.\n\nValget står mellom venstreorienterte senator Ivan Cepeda, som har hatt en liten ledelse på meningsmålingene, og høyreekstreme advokat Abelardo de la Espriella.\n\nEspriella leder knapt i den tidlige opptellingen med 43,6 % støtte etter...",
+      "image": "https://images.unsplash.com/photo-1697308364285-994346ce5e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAyNjg0OTV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/valgopptellingen-i-gang-i-colombia-1.17903506",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-31T23:01:35.811Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780268494274.5217,
+      "title": "Flere skadde etter droneangrep i Kharkiv",
+      "slug": "flere-skadde-etter-droneangrep-i-kharkiv",
+      "content": "– En fem etasjers bygning er truffet av russiske droner i Osnovianskyi-distriktet i Kharkiv, skriver Kharkivs fylkesguvernør Oleh Synegubov på meldingstjenesten Telegram søndag kveld.\n\nIfølge byens ordfører Ihor Terekhov har en drone også truffet et garasjeanlegg nær boligblokker. Både garasjer og biler står i brann.\n\n– Det kommer meldinger om flere skadde i Osnovianskyi- og Slobidskyi-distriktene, skriver Terekhov på Telegram.\n\nDet er også registrert droneangrep i utkanten av Kharkiv\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "– En fem etasjers bygning er truffet av russiske droner i Osnovianskyi-distriktet i Kharkiv, skriver Kharkivs fylkesguvernør Oleh Synegubov på meldingstjenesten Telegram søndag kveld.\n\nIfølge byens ordfører Ihor Terekhov har en drone også truffet et garasjeanlegg nær boligblokker. Både garasjer og...",
+      "image": "https://images.unsplash.com/photo-1659424766030-385d22f8b0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAyNjg0OTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flere-skadde-etter-droneangrep-i-kharkiv-1.17903513",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-31T23:01:34.274Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780268492631.7668,
+      "title": "Bilfører hentet av luftambulanse etter trafikkulykke ved Sørreisa",
+      "slug": "bilfrer-hentet-av-luftambulanse-etter-trafikkulykke-ved-srre",
+      "content": "En ung bilfører har blitt hentet av luftambulansen og fløyet til Universitetssykehuset i Tromsø natt til mandag. Bilføreren mistet kontrollen og kjørte av vegen på fylkesvei ved Sørreisa.\n\n– Føreren var våken etter ulykken, melder operasjonsleder Karl Erik Thomassen i Troms politidistrikt",
+      "excerpt": "En ung bilfører har blitt hentet av luftambulansen og fløyet til Universitetssykehuset i Tromsø natt til mandag. Bilføreren mistet kontrollen og kjørte av vegen på fylkesvei ved Sørreisa.\n\n– Føreren var våken etter ulykken, melder operasjonsleder Karl Erik Thomassen i Troms politidistrikt",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/bilforer-hentet-av-luftambulanse-etter-trafikkulykke-ved-sorreisa-1.17903520",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-31T23:01:32.631Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780261300556.6538,
       "title": "Ålesund kommune går til rettssak mot staten",
       "slug": "lesund-kommune-gr-til-rettssak-mot-staten",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-29T15:39:57.988Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780069196441.5603,
-      "title": "Hamas kaller Netanyahus plan for etnisk rensing",
-      "slug": "hamas-kaller-netanyahus-plan-for-etnisk-rensing",
-      "content": "Hamas kaller Israels statsminister Benjamin Netanyahus uttalelse om at landet vil utvide sitt kontrollområde på Gazastripen, for en farlig opptrapping.\n\nOgså innbyggere i Det palestinske området uttrykker stor bekymring over planen.\n\nUnder våpenhvileavtalen i oktober skulle det israelske militæret beholde kontrollen over 53 prosent av Gaza, men Netanyahu sa fredag at dette området i første omgang vil utvides til 70 prosent, uten å legge frem detaljer eller en tidslinje, melder Reuters.\n\nHamas kaller uttalelsene hans en plan for etnisk rensing og tvangsforflytning av palestinere.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
-      "excerpt": "Hamas kaller Israels statsminister Benjamin Netanyahus uttalelse om at landet vil utvide sitt kontrollområde på Gazastripen, for en farlig opptrapping.\n\nOgså innbyggere i Det palestinske området uttrykker stor bekymring over planen.\n\nUnder våpenhvileavtalen i oktober skulle det israelske militæret...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/hamas-kaller-netanyahus-plan-for-etnisk-rensing--1.17901821",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-29T15:39:56.441Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780069194922.5854,
-      "title": "Brann i papirfabrikk i Hokksund",
-      "slug": "brann-i-papirfabrikk-i-hokksund",
-      "content": "Det brenner i taket på en papirfabrikk i Hokksund i Øvre Eiker kommune i Buskerud, opplyser politiet.\n\nBrannvesenet er på stedet. Det er bekreftet røykutvikling fra taket, men det jobbes med lokalisering.\n\nDet var fem personer i bygget som evakuerte seg selv før nødetatene kom frem, ifølge politiet.",
-      "excerpt": "Det brenner i taket på en papirfabrikk i Hokksund i Øvre Eiker kommune i Buskerud, opplyser politiet.\n\nBrannvesenet er på stedet. Det er bekreftet røykutvikling fra taket, men det jobbes med lokalisering.\n\nDet var fem personer i bygget som evakuerte seg selv før nødetatene kom frem, ifølge politiet.",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/brann-i-papirfabrikk-i-hokksund-1.17901850",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-29T15:39:54.923Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780054649691.1233,
-      "title": "Enighet i statsoppgjøret også for LO",
-      "slug": "enighet-i-statsoppgjret-ogs-for-lo",
-      "content": "Etter en krevende mekling valgte NTL og LO Stat å si ja til en løsning. Statens ansatte har nå likelydende tariffavtaler igjen, skriver LO-fagforbundet NTL i en pressemelding.\n\nRammen for oppgjøret endte på 4,4 prosent, det samme som frontfaget.\n\n– Staten har vært opptatt av å få på plass likelydende avtaler og å sikre lønnsutvikling til alle ansatte. Nå har vi lyktes med å få på plass fire likelydende avtaler, og det er jeg svært fornøyd med. Det har vært krevende og gode samtaler med alle parter, jeg vil berømme de for arbeidet, sier digitaliserings- og forvaltningsminister Karianne Tung (Ap).\n\nFor forhandlingsutvalget i LO Stat satt det langt inne å si ja til statens siste krav.\n\n– Jeg legger ikke skjul på at jeg er enormt skuffet over staten i årets oppgjør. Jeg sitter med en følelse av at vi er presset inn i en nesten umulig situasjon av staten. Og det er ingen god følelse å ha, sier LO Stat-leder Elisabeth Steen Onshus i en pressemelding.\n\nFor staten og LO, Unio, YS og Akademikerne er man kommet til enighet. Det blir heller ikke streik i kommunene.",
-      "excerpt": "Etter en krevende mekling valgte NTL og LO Stat å si ja til en løsning. Statens ansatte har nå likelydende tariffavtaler igjen, skriver LO-fagforbundet NTL i en pressemelding.\n\nRammen for oppgjøret endte på 4,4 prosent, det samme som frontfaget.\n\n– Staten har vært opptatt av å få på plass...",
-      "image": "https://images.unsplash.com/photo-1775892976875-c0d70cfac456?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAwNTQ2NDl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/enighet-i-statsoppgjoret-ogsa-for-lo-1.17901374",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-29T11:37:29.691Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1501,
+    "totalFetched": 1504,
     "totalPublished": 77,
-    "lastFetch": "2026-05-31T21:01:42.124Z",
+    "lastFetch": "2026-05-31T23:01:37.883Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
