@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1780261300556.6538,
+      "title": "Ålesund kommune går til rettssak mot staten",
+      "slug": "lesund-kommune-gr-til-rettssak-mot-staten",
+      "content": "Ålesund kommune har stemna Helse- og omsorgsdepartementet for retten for å få oppheva vedtaket om betaling for ein sterkt pleietrengande mann.\n\nMannen kom flyttande frå ein nabokommune, og i ettertid har dei to kommunane krangla om kven som skal betale.\n\nIngen har så langt ville ta rekninga på rundt ein million i månaden for å gje han eit tilbod.\n\nPengestriden har pågått i fleire år, og departementet slo nyleg fast at Ålesund skal betale, i staden for den tidlegare heimkommunen.\n\nDen sterkt pleietrengande mannen måtte flytte heimafrå og til byen for å få eit godt nok tilbod. Men no vil ingen av kommunane betale.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
+      "excerpt": "Ålesund kommune har stemna Helse- og omsorgsdepartementet for retten for å få oppheva vedtaket om betaling for ein sterkt pleietrengande mann.\n\nMannen kom flyttande frå ein nabokommune, og i ettertid har dei to kommunane krangla om kven som skal betale.\n\nIngen har så langt ville ta rekninga på...",
+      "image": null,
+      "original_url": "https://www.nrk.no/mr/alesund-kommune-gar-til-rettssak-mot-staten-1.17903465",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-31T21:01:40.556Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780261298915.8884,
+      "title": "Mann pågrepet for voldshendelse i Porsgrunn",
+      "slug": "mann-pgrepet-for-voldshendelse-i-porsgrunn",
+      "content": "Poitiet har pågrepet og siktet en mann i 30-årene i Porsgrunn for vold mot en mann som natt til søndag ble sendt hardt skadd til sykehus.\n\nOperasjonsleder Lise Bjørnsund i Sør-Øst politidistrikt opplyste om pågripelsen like før klokka 22 søndag kveld.\n\nÈn mann ble natt til søndag sendt hardt skadet til sykehus etter en voldshendelse i Porsgrunn. Søndag kveld er en mann pågrepet og siktet for hendelsen",
+      "excerpt": "Poitiet har pågrepet og siktet en mann i 30-årene i Porsgrunn for vold mot en mann som natt til søndag ble sendt hardt skadd til sykehus.\n\nOperasjonsleder Lise Bjørnsund i Sør-Øst politidistrikt opplyste om pågripelsen like før klokka 22 søndag kveld.\n\nÈn mann ble natt til søndag sendt hardt skadet...",
+      "image": "https://images.unsplash.com/photo-1704323081531-2e28c0728a44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAyNjEyOTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-pagrepet-for-voldshendelse-i-porsgrunn-1.17903494",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-31T21:01:38.915Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780261297094.2788,
+      "title": "Åtte drept i israelsk angrep, ifølge myndighetene i Libanon",
+      "slug": "tte-drept-i-israelsk-angrep-iflge-myndighetene-i-libanon",
+      "content": "Åtte personer ble drept i Israelsk angrep i Sør-Libanon søndag. Tre kvinner er blant de drepte, opplyser helsedepartementet i Libanon.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
+      "excerpt": "Åtte personer ble drept i Israelsk angrep i Sør-Libanon søndag. Tre kvinner er blant de drepte, opplyser helsedepartementet i Libanon.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det...",
+      "image": "https://images.unsplash.com/photo-1661698048430-8089caf24d39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAyNjEyOTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/atte-drept-i-israelsk-angrep_-ifolge-myndighetene-i-libanon-1.17903500",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-31T21:01:37.095Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780247320513.0464,
       "title": "Henta ut av redningshelikopter",
       "slug": "henta-ut-av-redningshelikopter",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-29T11:37:29.691Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780054647994.261,
-      "title": "F-16-leder fikk sluttavtale etter Støre-kritikk",
-      "slug": "f16leder-fikk-sluttavtale-etter-strekritikk",
-      "content": "Tidligere leder for F-16-vedlikehold i Bodø, Tommy Myrvoll, signerte i slutten av april en sluttavtale med Kongsberg Aviation Maintenance Services (KAMS).\n\nDet skjer dager etter at han anklaget statsminister Jonas Gahr Støre for løgn på Facebook, etter Støres uttalelser om donerte jagerfly til Ukraina.\n\nI april avslørte NRK at seks jagerfly som skulle hjelpe Ukraina i krigen med Russland ennå ikke hadde blitt satt i tjeneste.\n\n«Fantastisk at det går an å servere løgner i beste sendetid. De flya er IKKE ferdig snart Jonas. Må være bedre å bare innrømme at den regjeringa vi har ikke evner å innrømme at hele donasjonen er et spill som Forsvarsmateriell (FMA) har iscenesatt,» skrev Myrvoll i en kommentar.\n\nHverken Myrvoll eller KAMS vil kommentere om Facebook-posten utløste avgangen, men selskapet viser til retningslinjer for omtale av kunder.",
-      "excerpt": "Tidligere leder for F-16-vedlikehold i Bodø, Tommy Myrvoll, signerte i slutten av april en sluttavtale med Kongsberg Aviation Maintenance Services (KAMS).\n\nDet skjer dager etter at han anklaget statsminister Jonas Gahr Støre for løgn på Facebook, etter Støres uttalelser om donerte jagerfly til...",
-      "image": "https://images.unsplash.com/photo-1691397787798-4f95693dd37d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAwNTQ2NDd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nordland/f-16-leder-fikk-sluttavtale-etter-store-kritikk-1.17901392",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-29T11:37:27.994Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780054646185.3308,
-      "title": "Dronning Margrethe utskrevet fra sykehus",
-      "slug": "dronning-margrethe-utskrevet-fra-sykehus",
-      "content": "Det melder det danske kongehuset i en pressemelding.\n\n– Hennes Majestet har det bra, men skal fortsatt ta det med ro, melder kongehuset.\n\nHun ble innlagt 25. mai. Da viste røntgenundersøkelser en større blodansamling i hofteregionen som følge av et tidligere fall, opplyste kongehuset da.\n\nMargrethe er ikke lenger regent, men tituleres fortsatt som dronning.\n\nHun abdiserte 14. januar 2024. Hennes eldste sønn, Frederik, ble Danmarks nye konge.",
-      "excerpt": "Det melder det danske kongehuset i en pressemelding.\n\n– Hennes Majestet har det bra, men skal fortsatt ta det med ro, melder kongehuset.\n\nHun ble innlagt 25. mai. Da viste røntgenundersøkelser en større blodansamling i hofteregionen som følge av et tidligere fall, opplyste kongehuset da.\n\nMargrethe...",
-      "image": "https://images.unsplash.com/photo-1750261346363-02105b564e45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAwNTQ2NDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/dronning-margrethe-utskrevet-fra-sykehus-1.17901420",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-29T11:37:26.185Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780041578001.827,
-      "title": "Kronprinsen forkorter Japan-turen på grunn av kronprinsessens helse",
-      "slug": "kronprinsen-forkorter-japanturen-p-grunn-av-kronprinsessens-",
-      "content": "«Hans Kongelige Høyhet Kronprinsen korter ned sin offisielle reise til Japan med en dag på grunn av Hennes Kongelige Høyhet Kronprinsessens helsesituasjon», melder kongehuset i en pressemelding.\n\nKronprinsen opprettholder hele det offisielle programmet i Tokyo fra 1. til 3. juni, mens besøket til havnebyen Hachinohe 4. juni utgår.\n\nKronprinsessens kroniske sykdom lungefibrose er den siste tiden blitt kraftig forverret.\n\nHun har måttet bruke pustehjelp på de siste offisielle oppdragene.",
-      "excerpt": "«Hans Kongelige Høyhet Kronprinsen korter ned sin offisielle reise til Japan med en dag på grunn av Hennes Kongelige Høyhet Kronprinsessens helsesituasjon», melder kongehuset i en pressemelding.\n\nKronprinsen opprettholder hele det offisielle programmet i Tokyo fra 1. til 3. juni, mens besøket til...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kronprinsen-forkorter-japan-turen-pa-grunn-av-kronprinsessens-helse-1.17900941",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-29T07:59:38.002Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1498,
+    "totalFetched": 1501,
     "totalPublished": 77,
-    "lastFetch": "2026-05-31T19:19:51.025Z",
+    "lastFetch": "2026-05-31T21:01:42.124Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
