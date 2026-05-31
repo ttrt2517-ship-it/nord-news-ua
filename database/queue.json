@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1780240665595.2751,
+      "title": "Ulykke i svømmehall i Fredrikstad",
+      "slug": "ulykke-i-svmmehall-i-fredrikstad",
+      "content": "Et barn har vært i en drukningsulykke i en svømmehall i Fredrikstad.\n\nBarnet ble funnet på bunnen av et basseng og hjerte- og lungeredning ble igangsatt på stedet.\n\nUnder redningsarbeidet våknet barnet til, opplyste politiet klokken 16:14.\n\n– Kjøres til sykehuset Østold Kalnes i ambulanse, forteller operasjonsleder Henrik Larsen.\n\nDet har vært en drukningsulykke i en svømmehall i Fredrikstad. Et barn våknet opp igjen etter ulykken og ble kjørt vekk i ambulanse.",
+      "excerpt": "Et barn har vært i en drukningsulykke i en svømmehall i Fredrikstad.\n\nBarnet ble funnet på bunnen av et basseng og hjerte- og lungeredning ble igangsatt på stedet.\n\nUnder redningsarbeidet våknet barnet til, opplyste politiet klokken 16:14.\n\n– Kjøres til sykehuset Østold Kalnes i ambulanse...",
+      "image": null,
+      "original_url": "https://www.nrk.no/ostfold/ulykke-i-svommehall-i-fredrikstad-1.17903154",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-31T15:17:45.595Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780240663994.1418,
+      "title": "Politiet rykker ut til kjedekollisjon på E18 ved Grenlandsbrua",
+      "slug": "politiet-rykker-ut-til-kjedekollisjon-p-e18-ved-grenlandsbru",
+      "content": "Politiet rykket ut etter melding om en kjedekollisjon i nordgående felt på E18 ved Grenlandsbrua.\n\nFire biler var involvert i ulykken, og trafikken sto en periode stille i nordgående retning. Bilberger ble sendt til stedet for å fjerne de involverte kjøretøyene.\n\nTotalt sju personer var involvert i ulykken. Ingen av de involverte skal være kritisk skadd. Én person ble sendt til sykehus for videre oppfølging, mens tre personer ble sendt til legevakt for nærmere undersøkelse.\n\nVeibanen er nå ryddet, og begge kjørefelt er åpne for trafikk igjen.\n\nPolitiet opplyser at en kvinne i 30-årene er mistenkt for å ha forårsaket kollisjonen. Det opprettes sak på forholdet.",
+      "excerpt": "Politiet rykket ut etter melding om en kjedekollisjon i nordgående felt på E18 ved Grenlandsbrua.\n\nFire biler var involvert i ulykken, og trafikken sto en periode stille i nordgående retning. Bilberger ble sendt til stedet for å fjerne de involverte kjøretøyene.\n\nTotalt sju personer var involvert i...",
+      "image": "https://images.unsplash.com/photo-1681798200567-2437430eb57b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAyNDA2NjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/politiet-rykker-ut-til-kjedekollisjon-pa-e18-ved-grenlandsbrua-1.17903127",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-31T15:17:43.994Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780240662396.8225,
+      "title": "Valglokalene åpnet i Colombia",
+      "slug": "valglokalene-pnet-i-colombia",
+      "content": "Første runde av presidentvalget er i gang i Colombia.\n\nMeningsmålingene har vist en klar ledelse til senatoren Ivan Cepeda, som i likhet med sittende president Gustavo Petro tilhører den politiske venstresiden.\n\nHans fremste utfordrere er den konservative senatoren Paloma Valencia og advokaten Abelardo de la Espriella, som regnes som en ytrehøyre kandidat.\n\nValgkampen har vært preget av den verste voldsbølgen i landet siden den venstreradikale geriljagruppen FARC la ned våpnene i 2016. Utbrytere fra FARC kjemper om kontrollen over kokainhandel og ulovlig gruvedrift i jungelområder sørøst i landet.\n\nVoldsbølgen regnes som et nederlag for forhandlingslinjen til president Petro. Han har forsøkt å overtale ulike geriljagrupper til å slutte seg til fredsavtalen fra 2016, uten større suksess.\n\nHvis ingen av kandidatene sikrer seg over halvparten av stemmene i første runde, vil det bli en runde nummer to 21. juni.",
+      "excerpt": "Første runde av presidentvalget er i gang i Colombia.\n\nMeningsmålingene har vist en klar ledelse til senatoren Ivan Cepeda, som i likhet med sittende president Gustavo Petro tilhører den politiske venstresiden.\n\nHans fremste utfordrere er den konservative senatoren Paloma Valencia og advokaten...",
+      "image": "https://images.unsplash.com/photo-1738574603764-bbe948d18fbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAyNDA2NjJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/valglokalene-apnet-i-colombia-1.17903187",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-05-31T15:17:42.396Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780227673058.5642,
       "title": "UPDATE: Norway&#039;s Queen leaves hospital amidst mounting fears over princess",
       "slug": "update-norway039s-queen-leaves-hospital-amidst-mounting-fear",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-29T03:52:00.081Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780026718265.5942,
-      "title": "Stukket med kniv utenfor boligen",
-      "slug": "stukket-med-kniv-utenfor-boligen",
-      "content": "En mann er kjørt til sykehus etter at han ble utsatt for vold og er påført en stikkskade utenfor boligen sin i Vågsbygd i Kristiansand.\n\nFlere patruljer søkte etter gjerningspersonen i området.\n\nEtter søk med hund fant politiet den mistenkte gjerningsmannen, som er pågrepet, opplyser operasjonsleder Arve Johan Myklebust i Agder politidistrikt.",
-      "excerpt": "En mann er kjørt til sykehus etter at han ble utsatt for vold og er påført en stikkskade utenfor boligen sin i Vågsbygd i Kristiansand.\n\nFlere patruljer søkte etter gjerningspersonen i området.\n\nEtter søk med hund fant politiet den mistenkte gjerningsmannen, som er pågrepet, opplyser...",
-      "image": "https://images.unsplash.com/photo-1664790660158-8470f8bc548c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAwMjY3MTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/stukket-med-kniv-utenfor-boligen--1.17900756",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-29T03:51:58.266Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780026716467.3882,
-      "title": "Enighet i farmasioppgjøret",
-      "slug": "enighet-i-farmasioppgjret",
-      "content": "Parat/Farmasiforbundet og Virke er enige i forhandlingene om Farmasiavtalen.\n\nOppgjøret er i tråd med frontfagets ramme på 4,4 prosent.\n\nFarmasiavtalen gjelder ansatte i private apotek, blant annet apotekteknikere og apotekmedarbeidere.\n\n– Dette er et oppgjør som gir medlemmene økt kjøpekraft og bedre forutsigbarhet, sier Thomas Lilloe, forhandlingsleder i Parat i en pressemelding.",
-      "excerpt": "Parat/Farmasiforbundet og Virke er enige i forhandlingene om Farmasiavtalen.\n\nOppgjøret er i tråd med frontfagets ramme på 4,4 prosent.\n\nFarmasiavtalen gjelder ansatte i private apotek, blant annet apotekteknikere og apotekmedarbeidere.\n\n– Dette er et oppgjør som gir medlemmene økt kjøpekraft og...",
-      "image": "https://images.unsplash.com/photo-1611053307699-5f74280c0d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAwMjY3MTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/-enighet-i-farmasioppgjoret-1.17900759",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-29T03:51:56.467Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780010349637.9387,
-      "title": "JD Vance om Iran-forhandlinger: – Det er fremskritt",
-      "slug": "jd-vance-om-iranforhandlinger-det-er-fremskritt",
-      "content": "USA og Iran har gjort betydelige fremskritt mot en intensjonsavtale, men landene forhandler fortsatt om noen språklige punkter.\n\n– Jeg tror det er vanskelig å si nøyaktig når eller om presidenten kommer til å signere intensjonsavtalen. Vi diskuterer frem og tilbake på et par språklige punkter, sa USAs visepresident JD Vance til journalister torsdag.\n\nHan understreket at det har vært fremgang, men at det er noen viktige punkter angående Irans atomprogram og anriket uran som fortsatt er i endring\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
-      "excerpt": "USA og Iran har gjort betydelige fremskritt mot en intensjonsavtale, men landene forhandler fortsatt om noen språklige punkter.\n\n– Jeg tror det er vanskelig å si nøyaktig når eller om presidenten kommer til å signere intensjonsavtalen. Vi diskuterer frem og tilbake på et par språklige punkter, sa...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/jd-vance-om-iran-forhandlinger_-_-det-er-fremskritt-1.17900747",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-28T23:19:09.637Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1492,
+    "totalFetched": 1495,
     "totalPublished": 77,
-    "lastFetch": "2026-05-31T13:48:32.828Z",
+    "lastFetch": "2026-05-31T15:17:46.914Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
