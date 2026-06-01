@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1780349705392.664,
+      "title": "Enighet om ny regjering i Danmark",
+      "slug": "enighet-om-ny-regjering-i-danmark",
+      "content": "Mette Frederiksen bekrefter at hun mener det er grunnlag for å danne en ny regjering i Danmark.\n\nHun har meddelt den danske kongen at det kan dannes en ny regjering bestående av S (Socialdemokratiet), M (Moderaterne), SF (Socialistisk Folkeparti) og R (Radikale Venstre). Det sier hun etter et møte på kongeskipet «Dannebrog» i Odense, ifølge dansk TV2.\n\nDen danske kongen har oppfordret fungerende statsminister Mette Frederiksen til å danne en slik regjering.\n\nDet politiske programmet for regjeringen presenteres tirsdag, og de nye ministrene presenteres onsdag, opplyser Mette Frederiksen.",
+      "excerpt": "Mette Frederiksen bekrefter at hun mener det er grunnlag for å danne en ny regjering i Danmark.\n\nHun har meddelt den danske kongen at det kan dannes en ny regjering bestående av S (Socialdemokratiet), M (Moderaterne), SF (Socialistisk Folkeparti) og R (Radikale Venstre). Det sier hun etter et møte...",
+      "image": "https://images.unsplash.com/photo-1753696278559-38efaeafab72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAzNDk3MDV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/enighet-om-ny-regjering-i-danmark-1.17904819",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-01T21:35:05.392Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780349703697.9292,
+      "title": "EU strammer inn migrasjonsregelverket",
+      "slug": "eu-strammer-inn-migrasjonsregelverket",
+      "content": "EU kom mandag til enighet om en ny innskjerping av migrasjonsreglene, noe som åpner for å opprette såkalte «retursentre» utenfor unionen, skriver AFP.\n\n– Dagens historiske avtale styrker troverdigheten til EUs migrasjonspolitikk, sa Nicholas Ioannides, assisterende migrasjonsminister i Kypros, da han kunngjorde avtalen mellom EUs lovgivere og medlemslandene.\n\nKypros har for tiden det roterende formannskapet i EU.\n\nEU går inn for å kunne sende asylsøkere med avslag til sentre i land utenfor unionen. De er også enige om flere andre innstramminger.\n\nDen europeiske union (EU)\n\nDen europeiske union (EU) har 27 medlemsstater som er knyttet sammen i et tett økonomisk og politisk samarbeid. Unionen vokste fram av et handelssamarbeid som skulle hindre en ny konflikt mellom Frankrike og Tyskland etter 2. verdenskrig.",
+      "excerpt": "EU kom mandag til enighet om en ny innskjerping av migrasjonsreglene, noe som åpner for å opprette såkalte «retursentre» utenfor unionen, skriver AFP.\n\n– Dagens historiske avtale styrker troverdigheten til EUs migrasjonspolitikk, sa Nicholas Ioannides, assisterende migrasjonsminister i Kypros, da...",
+      "image": "https://images.unsplash.com/photo-1586711290195-8e73d2758c77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAzNDk3MDN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/eu-strammer-inn-migrasjonsregelverket-1.17904885",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-01T21:35:03.697Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780349701983.0447,
+      "title": "Boligbrann i Lillestrøm",
+      "slug": "boligbrann-i-lillestrm",
+      "content": "Nødetatene har rykket ut til boligbrann på Skedsmokorset i Lillestrøm.\n\nDet melder Øst politidistrikt like etter klokka 22.00 mandag kveld.\n\n– Brannvesenet har startet slukking. Beboer har kommet seg ut og er i sikkerhet, skriver oppdragsleder Kjetil Elnan Ringseth i politiloggen.\n\nRundt en halvtime senere melder politiet at brannvesenet virker å ha kontroll på brannen.\n\n– Det er uviss brannårsak per nå, vi gjør undersøkelser for å forsøke å avklare dette.",
+      "excerpt": "Nødetatene har rykket ut til boligbrann på Skedsmokorset i Lillestrøm.\n\nDet melder Øst politidistrikt like etter klokka 22.00 mandag kveld.\n\n– Brannvesenet har startet slukking. Beboer har kommet seg ut og er i sikkerhet, skriver oppdragsleder Kjetil Elnan Ringseth i politiloggen.\n\nRundt en...",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/boligbrann-i-lillestrom-1.17904843",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-01T21:35:01.983Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780335847191.4556,
       "title": "Trump om stans i Iran-samtaler: – Bryr meg ikke",
       "slug": "trump-om-stans-i-iransamtaler-bryr-meg-ikke",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-05-30T06:47:20.531Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780123638987.1326,
-      "title": "18 mennesker døde i lastebilulykke i Afghanistan",
-      "slug": "18-mennesker-dde-i-lastebilulykke-i-afghanistan",
-      "content": "18 mennesker, deriblant ti barn, døde da en lastebil veltet øst i Afghanistan, opplyser en talsperson til nyhetsbyrået AFP.\n\nLastebilen fraktet familier som vendte tilbake fra Pakistan, ifølge Abdul Malik Niazay, som er talsperson for guvernøren i Laghman-provinsen.\n\nFlere afghanere forlater Pakistan som følge av strengere holdninger knyttet til afghanske migranter og flyktninger. Derfor er det flere lastebiler som frakter familier og deres eiendeler ut av landet.\n\nSiden årsskiftet har 447.400 afghanere vendt tilbake fra Pakistan, ifølge tall fra FN.",
-      "excerpt": "18 mennesker, deriblant ti barn, døde da en lastebil veltet øst i Afghanistan, opplyser en talsperson til nyhetsbyrået AFP.\n\nLastebilen fraktet familier som vendte tilbake fra Pakistan, ifølge Abdul Malik Niazay, som er talsperson for guvernøren i Laghman-provinsen.\n\nFlere afghanere forlater...",
-      "image": "https://images.unsplash.com/photo-1695725097795-19328f75e879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAxMjM2Mzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/18-mennesker-dode-i-lastebilulykke-i-afghanistan-1.17902210",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-30T06:47:18.987Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780112228594.0818,
-      "title": "Tre klatrere omkom på Nord-Amerikas høyeste fjell",
-      "slug": "tre-klatrere-omkom-p-nordamerikas-hyeste-fjell",
-      "content": "Tre klatrere fra Latvia har omkommet i en ulykke på Nord-Amerikas høyeste fjell, som ligger i Alaska.\n\nEn fjerde person er funnet i live og sendt til sykehus. Tilstanden er kritisk, står det i en uttalelse fra Latvias fjellklatrerforbund.\n\nDe fire var del av et følge på sju personer. Torsdag kveld sendte turfølget ut nødmelding om at fire klatrere hadde falt på vei opp fra Denali Pass, som ligger på rundt 5500 meters høyde.\n\nKlatrerne skulle bestige Denali, også kjent som Mount McKinley, som med sine nesten 6200 meter over havet rager høyest i Nord-Amerika. (NTB)\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Tre klatrere fra Latvia har omkommet i en ulykke på Nord-Amerikas høyeste fjell, som ligger i Alaska.\n\nEn fjerde person er funnet i live og sendt til sykehus. Tilstanden er kritisk, står det i en uttalelse fra Latvias fjellklatrerforbund.\n\nDe fire var del av et følge på sju personer. Torsdag kveld...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/tre-klatrere-omkom-pa-nord-amerikas-hoyeste-fjell-1.17902174",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-30T03:37:08.594Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780112226727.0884,
-      "title": "En person til sykehus etter voldshendelse i Grimstad",
-      "slug": "en-person-til-sykehus-etter-voldshendelse-i-grimstad",
-      "content": "En person er kjørt til sykehus av ambulanse etter en voldshendelse ved en privatbolig i Grimstad natt til lørdag. En mistenkt er pågrepet og kjørt i arrest. Politiet foretar vitneavhør, melder operasjonsleder Ronny Aateigen Andersen i Agder politidistrikt.",
-      "excerpt": "En person er kjørt til sykehus av ambulanse etter en voldshendelse ved en privatbolig i Grimstad natt til lørdag. En mistenkt er pågrepet og kjørt i arrest. Politiet foretar vitneavhør, melder operasjonsleder Ronny Aateigen Andersen i Agder politidistrikt.",
-      "image": "https://images.unsplash.com/photo-1642508168789-010f910ce590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAxMTIyMjZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/en-person-til-sykehus-etter-voldshendelse-i-grimstad-1.17902170",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-30T03:37:06.728Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1513,
+    "totalFetched": 1516,
     "totalPublished": 77,
-    "lastFetch": "2026-06-01T17:44:09.998Z",
+    "lastFetch": "2026-06-01T21:35:08.512Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
