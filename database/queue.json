@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1780356496999.5613,
+      "title": "Flyalarm i Kyiv",
+      "slug": "flyalarm-i-kyiv",
+      "content": "Flyalarmen har gått i den ukrainske hovedstaden Kyiv, melder nyhetsbyrået Reuters.\n\nDen ukrainske presidenten Volodomyr Zelenskyj advarte tidligere mandag om et mulig russiske angrep, skriver nyhetsbyrået.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Flyalarmen har gått i den ukrainske hovedstaden Kyiv, melder nyhetsbyrået Reuters.\n\nDen ukrainske presidenten Volodomyr Zelenskyj advarte tidligere mandag om et mulig russiske angrep, skriver nyhetsbyrået.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/flyalarm-i-kyiv-1.17904984",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-01T23:28:16.999Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780356495497.135,
+      "title": "Ukrainsk avis: Eksplosjon i Kyiv",
+      "slug": "ukrainsk-avis-eksplosjon-i-kyiv",
+      "content": "Den ukrainske avisen The Kyiv Independent melder om en eksplosjon i Kyiv.\n\nEksplosjonen kunne høres i Kyiv rundt 00.30 norsk tid, melder avisen.\n\nEt øyenvtine melder også om en svart røyksky, skriver Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Den ukrainske avisen The Kyiv Independent melder om en eksplosjon i Kyiv.\n\nEksplosjonen kunne høres i Kyiv rundt 00.30 norsk tid, melder avisen.\n\nEt øyenvtine melder også om en svart røyksky, skriver Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukrainsk-avis_-eksplosjon-i-kyiv-1.17904987",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-01T23:28:15.497Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780349705392.664,
       "title": "Enighet om ny regjering i Danmark",
       "slug": "enighet-om-ny-regjering-i-danmark",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-05-30T10:02:14.035Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780123642167.3174,
-      "title": "Tre alvorlig skadd i front-mot-front-ulykke i Tynset",
-      "slug": "tre-alvorlig-skadd-i-frontmotfrontulykke-i-tynset",
-      "content": "Det har vært en front-mot-front-ulykke mellom en personbil og et vogntog i Tynset kommune i Innlandet.\n\nTotalt fire personer er involvert, ifølge politiet.\n\n– Fører av vogntoget fremstår som uskadet. Det ser ut som det er alvorlige skader for de som er i personbilen, sier operasjonsleder Per Solberg til NRK.\n\nSolberg sier de fikk melding om ulykken i 06-tiden. Nøedatetene og redningspersonell er på stedet og har startet sitt arbeid.\n\n– Vi er i kontakt med veitrafikksentralen, som vil varsle, og det blir nok stengt riksvei 3 utover formiddagen, sier operasjonslederen.\n\nDet blir sannsynligvis omkjøring om Gudbrandsdalen for hovedtrafikken fra Oslo til Trondheim, sier Solberg til NRK.\n\nRiksvei 3 er stengt ved Kvikne etter en alvorlig trafikkulykke lørdag morgen.",
-      "excerpt": "Det har vært en front-mot-front-ulykke mellom en personbil og et vogntog i Tynset kommune i Innlandet.\n\nTotalt fire personer er involvert, ifølge politiet.\n\n– Fører av vogntoget fremstår som uskadet. Det ser ut som det er alvorlige skader for de som er i personbilen, sier operasjonsleder Per...",
-      "image": "https://images.unsplash.com/photo-1693467084173-2071521fda73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAxMjM2NDJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/tre-alvorlig-skadd-i-front-mot-front-ulykke-i-tynset-1.17902185",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-30T06:47:22.167Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780123640531.6477,
-      "title": "Ghana godkjenner lov mot homofili",
-      "slug": "ghana-godkjenner-lov-mot-homofili",
-      "content": "Ghanas nasjonalforsamling vedtok fredag et lovforslag som hardt rammer homofile og transpersoner sine rettigheter. Bare presidentens underskift gjenstår.\n\nLovforslaget går ut på at forhold mellom personer av samme kjønn skal kunne straffes med fengsel i inntil tre år. I tillegg skal personer som på ulike måter støtter eller tar til orde for homofiles rettigheter kunne straffes med mellom tre og fem år i fengsel.\n\nForslaget ble også enstemmig godkjent i nasjonalforsamlingen i 2024, men da valgte den daværende presidenten Nana Akufo-Addo å ikke skrive under.\n\nSamleie mellom personer av samme kjønn er fra før forbudt i det vestafrikanske landet. Dersom president John Mahamas skriver under på forslaget, vil også den nye loven tre i kraft.",
-      "excerpt": "Ghanas nasjonalforsamling vedtok fredag et lovforslag som hardt rammer homofile og transpersoner sine rettigheter. Bare presidentens underskift gjenstår.\n\nLovforslaget går ut på at forhold mellom personer av samme kjønn skal kunne straffes med fengsel i inntil tre år. I tillegg skal personer som på...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ghana-godkjenner-lov-mot-homofili-1.17902186",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-30T06:47:20.531Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1516,
+    "totalFetched": 1518,
     "totalPublished": 77,
-    "lastFetch": "2026-06-01T21:35:08.512Z",
+    "lastFetch": "2026-06-01T23:28:18.630Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
