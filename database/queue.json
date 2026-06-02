@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1780444035646.0002,
+      "title": "USA: Avfyrte missil mot oljetanker ved Iran",
+      "slug": "usa-avfyrte-missil-mot-oljetanker-ved-iran",
+      "content": "Det amerikanske militæret avfyrte tirsdag et missil mot et skip som forsøkte å seile inn til en iransk havn. Om noen ble skadet i angrepet, er ikke kjent.\n\nOljetankeren, som ifølge det amerikanske militæret ikke hadde noen last, hadde «ignorert gjentatte advarsler» i løpet av en 24 timers periode, skriver nyhetsbyrået AFP.\n\nEt amerikansk jagerfly avfyrte et missil som traff skipet i motorrommet, ifølge militæret.\n\nSkipet seilte under botswansk flagg. Ifølge AFP er oljetankeren det sjette i rekken av skip som har blitt stanset med tvang siden 13. april, da USA innførte blokaden.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
+      "excerpt": "Det amerikanske militæret avfyrte tirsdag et missil mot et skip som forsøkte å seile inn til en iransk havn. Om noen ble skadet i angrepet, er ikke kjent.\n\nOljetankeren, som ifølge det amerikanske militæret ikke hadde noen last, hadde «ignorert gjentatte advarsler» i løpet av en 24 timers periode...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/usa_-avfyrte-missil-mot-oljetanker-ved-iran-1.17906286",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-02T23:47:15.647Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780433499149.9487,
       "title": "Mange vil eta på tostjerners Michelin-restaurant",
       "slug": "mange-vil-eta-p-tostjerners-michelinrestaurant",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-05-30T22:59:09.026Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780181947436.4297,
-      "title": "Mekling i vekteroverenskomsten på overtid",
-      "slug": "mekling-i-vekteroverenskomsten-p-overtid",
-      "content": "Meklingen mellom Parat, Norsk arbeidsmandsforbund og arbeidsgiverforeningen NHO Service og Handel om Vekteroverenskomsten fortsetter på overtid hos Riksmekleren.\n\nMeklingsfristen gikk ut ved midnatt natt til søndag, men partene sitter fortsatt sammen i et forsøk på å komme til enighet.\n\nDersom meklingen ikke fører fram, blir vektere tatt ut i streik fra søndag morgen.",
-      "excerpt": "Meklingen mellom Parat, Norsk arbeidsmandsforbund og arbeidsgiverforeningen NHO Service og Handel om Vekteroverenskomsten fortsetter på overtid hos Riksmekleren.\n\nMeklingsfristen gikk ut ved midnatt natt til søndag, men partene sitter fortsatt sammen i et forsøk på å komme til enighet.\n\nDersom...",
-      "image": "https://images.unsplash.com/photo-1651837063913-7ca672ca539c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAxODE5NDd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/mekling-i-vekteroverenskomsten-pa-overtid--1.17902862",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-05-30T22:59:07.436Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1530,
+    "totalFetched": 1531,
     "totalPublished": 77,
-    "lastFetch": "2026-06-02T20:51:41.669Z",
+    "lastFetch": "2026-06-02T23:47:18.192Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
