@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1780614630749.6401,
+      "title": "Trump vil ha sin egen promenade i hovedstaden",
+      "slug": "trump-vil-ha-sin-egen-promenade-i-hovedstaden",
+      "content": "Torsdag kunngjorde president Donald Trump planer om å bygge en gangvei, en såkalt promenade, til det ikoniske Lincoln-monumentet i Washington.\n\nPromenaden skal etter planen gå mellom den enorme marmorsøylen og Potomac-elven, og vil bære Trumps navn.\n\n– De ønsker å kalle det Trump-promenaden, sa han, uten å gå nærmere inn på hvem som ønsker det.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.",
+      "excerpt": "Torsdag kunngjorde president Donald Trump planer om å bygge en gangvei, en såkalt promenade, til det ikoniske Lincoln-monumentet i Washington.\n\nPromenaden skal etter planen gå mellom den enorme marmorsøylen og Potomac-elven, og vil bære Trumps navn.\n\n– De ønsker å kalle det Trump-promenaden, sa...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-vil-ha-sin-egen-promenade-i-hovedstaden-1.17909068",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-04T23:10:30.749Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780614629104.8623,
+      "title": "Elleve drept i israelske angrep i Gaza",
+      "slug": "elleve-drept-i-israelske-angrep-i-gaza",
+      "content": "Ni mennesker ble drept i et angrep mot flere leiligheter i Gaza by, sier sivilforsvarets talsperson Mahmoud Bassal.\n\nTo andre ble drept i droneangrep rettet mot politifolk i byen, sier han.\n\n15 mennesker ble såret i torsdagens israelske angrep, ifølge sivilforsvaret.\n\nEn våpenhvile mellom Israel og Hamas har eksistert på papiret siden oktober, men Israel angriper nærmest daglig mål på Gazastripen.\n\nIfølge det palestinske helsedepartementet er minst 936 mennesker drept og tusenvis såret siden oktober.\n\nIsraelske styrker okkuperer nå drøyt 60 prosent av landstripen, og statsminister Benjamin Netanyahu beordret i forrige uke ytterligere framrykking.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Ni mennesker ble drept i et angrep mot flere leiligheter i Gaza by, sier sivilforsvarets talsperson Mahmoud Bassal.\n\nTo andre ble drept i droneangrep rettet mot politifolk i byen, sier han.\n\n15 mennesker ble såret i torsdagens israelske angrep, ifølge sivilforsvaret.\n\nEn våpenhvile mellom Israel og...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/elleve-drept-i-israelske-angrep-i-gaza-1.17909081",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-04T23:10:29.105Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780614627591.5295,
+      "title": "Mekler på overtid om sokkelavtaler",
+      "slug": "mekler-p-overtid-om-sokkelavtaler",
+      "content": "Partene som mekler om lønn og arbeidsavtaler for arbeidere som jobber på den norske sokkelen, diskuterer nå på overtid hos Riksmekleren.\n\nDet opplyser Riksmeklerens kontor til NRK. Meklingsfristen gikk ut ved midnatt.\n\nDet er arbeidsgiverorganisasjonen Offshore Norge og fagforeningene Styrke, Safe og Lederne som forsøker å bli enige.\n\nHvis det ikke skjer, er det varslet at over 600 arbeidere vil gå ut i streik fredag.",
+      "excerpt": "Partene som mekler om lønn og arbeidsavtaler for arbeidere som jobber på den norske sokkelen, diskuterer nå på overtid hos Riksmekleren.\n\nDet opplyser Riksmeklerens kontor til NRK. Meklingsfristen gikk ut ved midnatt.\n\nDet er arbeidsgiverorganisasjonen Offshore Norge og fagforeningene Styrke, Safe...",
+      "image": "https://images.unsplash.com/photo-1659424765812-c2932538a99a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2MTQ2Mjd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mekler-pa-overtid-om-sokkelavtaler-1.17909092",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-04T23:10:27.591Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780603675581.4001,
       "title": "Kraftig økning i erstatningene fra forsikringsselskaper",
       "slug": "kraftig-kning-i-erstatningene-fra-forsikringsselskaper",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-01T17:44:07.191Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780335845677.2947,
-      "title": "Trump hevder avtale med Israel og Hizbollah",
-      "slug": "trump-hevder-avtale-med-israel-og-hizbollah",
-      "content": "– Jeg hadde en svært produktiv samtale med Israels statsminister Bibi Netanyahu, og det vil ikke bli sendt noen soldater til Beirut, skriver USAs president på Truth Social.\n\nHan skriver videre at eventuelle soldater som var på vei har snudd.\n\n– På samme måte hadde jeg, gjennom høytstående representanter, en svært god samtale med Hizbollah, og de var enige om at all skyting skal stanse – at Israel ikke skal angripe dem, og at de ikke skal angripe Israel, skriver Trump.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.",
-      "excerpt": "– Jeg hadde en svært produktiv samtale med Israels statsminister Bibi Netanyahu, og det vil ikke bli sendt noen soldater til Beirut, skriver USAs president på Truth Social.\n\nHan skriver videre at eventuelle soldater som var på vei har snudd.\n\n– På samme måte hadde jeg, gjennom høytstående...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump-hevder-avtale-med-israel-og-hizbollah-1.17904801",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-01T17:44:05.678Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780313942226.595,
-      "title": "From boning to fokk: The Norwegian words that sound wrong in English",
-      "slug": "from-boning-to-fokk-the-norwegian-words-that-sound-wrong-in-",
-      "content": "Moving to a new country always comes with a learning curve, but for English speakers in Norway, the local language can lead to some truly surprising and hilarious moments, as Irene Andrade explains.\n\nDue to a mix of shared Germanic roots and, in other cases, some funny coincidences, several entirely innocent Norwegian words and traditional names can sound rude, strange, bizarre or even inappropriate to foreigners.\n\nWhile learning Norwegian and trying to meet the locals, I’ve had plenty of laughs over these awkward moments (though they make for great anecdotes later).\n\nIn the world of driving and transportation, Norwegian vocabulary is an absolute minefield for English speakers.\n\nThis coincidence gave birth to one of the most famous memes in Norwegian history.\n\nDuring an international interview, the legendary Norwegian rally driver Petter Solberg tried to explain a racing accident by translating literally: \"It’s not the fart that kills, it’s the smell.\"\n\nWhat he actually meant to say in Norwegian was, \"It's not the speed that kills, it's the crash\" (Det er ikke farten som dreper, det er smellet).\n\nInstead, he delivered a timeless joke that has even inspired comedy sketches on NRK, Norway’s national TV channel.\n\nUna publicación compartida de Unlock Norway (Gabriella Mikiewicz) (@unlocknorway)\n\nIf a Norwegian tells you they spent the whole Sunday \"boning\", do not panic. They were simply polishing or waxing their floors (å bone gulvet).\n\nHowever, they should be careful with their spelling and context when using the expression in an office setting (especially at a state agency in Norway), as shown in this (possibily fake) photo shared with The Local. We probably do not need to explain why context matters so much here.\n\nThis word can trip up English speakers in two ways. In winter, it means drifting or blowing snow. When storms hit Norway, meteorologists often warn about heavy fokk in the mountains (the usual term is snøfokk).\n\nAt sea, en fokk is a foresail on a sailboat, with types like stormfokk (storm jib) or rullefokk (roller jib).\n\nThis means dirt or rubbish. It’s also a mild swear word, like \"crap\", and you’ll hear it in the phrase wishing fishermen good luck: Skitt fiske!\n\nThe tricky part is the pronunciation. In most Norwegian dialects, when \"sk\" comes before an \"i\", it sounds just like the English word \"shit\".\n\nThis word means a dot, but it’s also used for a penalty point on your driving licence.\n\nTelling an English speaker you got a prikk from the police will definitely require some immediate context.\n\nThis word translates to boiling or cooking; however, for some English speakers, reading it can instantly cause a double-take.\n\nIt also happens to be the name of one of Norway’s most famous floating saunas (KOK), which can lead to some funny misunderstandings. Asking your British or American friend to \"spend a warm afternoon inside the hot KOK\" might not be the best icebreaker.\n\nIn Norwegian, ass is a very common slang abbreviation for the word altså (which can have several meanings, including \"though\").\n\nUsed at the end of a sentence for emphasis, it can also be a way of sounding cool and more modern, meaning \"dude\" or \"man\".\n\nFor example, \"Det var en kul fest, ass\" translates to \"That was a cool party, man\". However, when Norwegians casually carry this over into English conversations, sentences like \"She was great, ass\" can leave foreigners a bit confused.\n\nSome of Norway’s oldest and most respected names can get lots of laughs abroad. If you already live in Norway and have met a few locals, you have almost certainly had that awkward moment of thinking, \"Sorry, could you repeat that?\"\n\nIt is an ancient male name derived from the Old Norse word for the \"point of an arrow or sword.\" Unfortunately, introducing yourself in London or New York with \"Hi, I'm Odd\" usually leaves people wondering what’s so strange about you.\n\nFun fact, 15,904 men have Odd as part of their first name in Norway. I checked.\n\nThen we have the opposite side of the coin with the name Even.\n\nWhile perfectly normal in Norway, the absolute peak of this phonetic coincidence was shared by a Reddit user who confirmed: \"My neighbour's name is literally Odd Even...\"\n\nThis is the Norwegian variant of the classic name Simon.\n\nIt’s a common and respected name across Scandinavia, with 8,652 men named Simen in Norway.\n\nHowever, because it shares its exact pronunciation with the male biological term in English, international business introductions can lead to some highly uncomfortable situations.\n\nAs one Reddit user shared: \"I laughed so much when I met my first Simen in Norway. I was like wtf, why doesn't anyone else notice it?!\"\n\nThose were the names that first caught my eye, but then I stumbled upon a question online that I just couldn't ignore: “Wondering if there are any Bent Christians out there?”\n\nI couldn't leave it at that. And well, I'm so glad I looked it up. There are exactly 12 men in Norway whose only first name is indeed Bent Christian.\n\nAre we forgetting any? Have you had a \"WTF\" moment while living or travelling in Norway? Let us know in the comments and (pretty please!) share your photos.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Moving to a new country always comes with a learning curve, but for English speakers in Norway, the local language can lead to some truly surprising and hilarious moments, as Irene Andrade explains.\n\nDue to a mix of shared Germanic roots and, in other cases, some funny coincidences, several...",
-      "image": "https://images.unsplash.com/photo-1641341155664-d8956cfd232b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAzMTM5NDJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260529/boning-and-other-norwegian-words-that-sound-wrong-in-english",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-06-01T11:39:02.226Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780313938987.0452,
-      "title": "Prinsesse Ingrid Alexandra kjem heim for å vere med mora",
-      "slug": "prinsesse-ingrid-alexandra-kjem-heim-for-vere-med-mora",
-      "content": "Prinsesse Ingrid Alexandra har planar om å komme heim frå studia i Australia ein tur, sa kronprins Haakon på eit pressetreff i Tokyo måndag.\n\n– Ho planlegg å kome heim snart. Det har med familiesituasjonen å gjere. Ho ønsker å vere saman man mora si.\n\nKronprinsen er for tida på eit offisielt besøk til Japan, men reisa er korta ned med ein dag på grunn av helsesituasjonen til kronprinsesse Mette-Marit.\n\nMen prinsessa skal etter kvart reise tilbake for å halde fram med å studere.\n\n– Ho har planar om å fullføre studiet i Australia. Men kor lenge ho blir heime, det får vi komme tilbake til, sa kronprinsen.",
-      "excerpt": "Prinsesse Ingrid Alexandra har planar om å komme heim frå studia i Australia ein tur, sa kronprins Haakon på eit pressetreff i Tokyo måndag.\n\n– Ho planlegg å kome heim snart. Det har med familiesituasjonen å gjere. Ho ønsker å vere saman man mora si.\n\nKronprinsen er for tida på eit offisielt besøk...",
-      "image": "https://images.unsplash.com/photo-1700159337432-57fa20740d1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAzMTM5Mzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/prinsesse-ingrid-alexandra-kjem-heim-for-a-vere-med-mora-1.17903871",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-01T11:38:58.987Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1559,
+    "totalFetched": 1562,
     "totalPublished": 77,
-    "lastFetch": "2026-06-04T20:07:56.805Z",
+    "lastFetch": "2026-06-04T23:10:31.993Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
