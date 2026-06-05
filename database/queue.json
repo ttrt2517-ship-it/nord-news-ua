@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1780647206677.7043,
+      "title": "Kronprinsessen på liste for lungetransplantasjon",
+      "slug": "kronprinsessen-p-liste-for-lungetransplantasjon",
+      "content": "Som følge av kronprinsessens livstruende kroniske lungesykdom og etter grundige helseundersøkelser er Hennes Kongelige Høyhet Kronprinsesse Mette-Marit satt på liste for lungetransplantasjon.\n\n– Utviklingen av Kronprinsessens lungesykdom er alvorlig. Etter en samlet medisinsk vurdering har hun nå kommet på listen over personer som vil gjennomgå lungetransplantasjon så fort det lar seg gjøre, sier overlege og lungespesialist Are Holm ved Rikshospitalet.\n\nKronprinsparet utsetter feiringen av sin sølvbryllupsdag som var planlagt i august 2026, og Kronprinsessen vil ikke delta på den planlagte fylkesturen i september.",
+      "excerpt": "Som følge av kronprinsessens livstruende kroniske lungesykdom og etter grundige helseundersøkelser er Hennes Kongelige Høyhet Kronprinsesse Mette-Marit satt på liste for lungetransplantasjon.\n\n– Utviklingen av Kronprinsessens lungesykdom er alvorlig. Etter en samlet medisinsk vurdering har hun nå...",
+      "image": "https://images.unsplash.com/photo-1659424766030-385d22f8b0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2NDcyMDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/kronprinsessen-pa-liste-for-lungetransplantasjon-1.17909450",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-05T08:13:26.677Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780647205044.245,
+      "title": "Prinsesse Ingrid Alexandra på utveksling fra universitetet i Sydney til Universitetet i Oslo",
+      "slug": "prinsesse-ingrid-alexandra-p-utveksling-fra-universitetet-i-",
+      "content": "For å kunne være nærmere familien sin, har Hennes Kongelige Høyhet Prinsesse Ingrid Alexandra reist tilbake til Norge, og vil være på utveksling fra Universitetet i Sydney til Universitetet i Oslo høstsemesteret 2026, heter det i en pressemelding fra kongehuset.",
+      "excerpt": "For å kunne være nærmere familien sin, har Hennes Kongelige Høyhet Prinsesse Ingrid Alexandra reist tilbake til Norge, og vil være på utveksling fra Universitetet i Sydney til Universitetet i Oslo høstsemesteret 2026, heter det i en pressemelding fra kongehuset.",
+      "image": "https://images.unsplash.com/photo-1719412625724-bc03ed4dcf0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2NDcyMDR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/prinsesse-ingrid-alexandra-pa-utveksling-fra-universitetet-i-sydney-til-universitetet-i-oslo-1.17909377",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-05T08:13:25.044Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780647203406.7117,
+      "title": "Marius Borg Høiby ber om å løslates",
+      "slug": "marius-borg-hiby-ber-om-lslates",
+      "content": "Høibys forsvarer Ellen Holager Andenæs sier de ber om at han blir løslatt fra varetekt.\n\n– Vi har bedt om at politiet gjør det og hvis ikke politiet gjør det må vi gå til retten. Jeg har vondt for å tro at de ikke seriøst vil overveie det nå, sier Andenæs til NRK.\n\nHøiby har siden 1. februar sittet i varetekt. Han ønsket å fortsette varetektsperioden med fotlenke på Skaugum for å være nærmere familie og venner, noe Oslo tingrett avslo. Saken ble anket til Borgarting lagmannsrett, som forkastet den.\n\nRettssaken mot Høiby er avsluttet, en dom er ventet 15. juni.",
+      "excerpt": "Høibys forsvarer Ellen Holager Andenæs sier de ber om at han blir løslatt fra varetekt.\n\n– Vi har bedt om at politiet gjør det og hvis ikke politiet gjør det må vi gå til retten. Jeg har vondt for å tro at de ikke seriøst vil overveie det nå, sier Andenæs til NRK.\n\nHøiby har siden 1. februar sittet...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/marius-borg-hoiby-ber-om-a-loslates-1.17909465",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-05T08:13:23.406Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780631940277.6455,
       "title": "Politiet: – Forfølgelse før trafikkulykke i Orkland",
       "slug": "politiet-forflgelse-fr-trafikkulykke-i-orkland",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-02T04:10:50.878Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780356496999.5613,
-      "title": "Flyalarm i Kyiv",
-      "slug": "flyalarm-i-kyiv",
-      "content": "Flyalarmen har gått i den ukrainske hovedstaden Kyiv, melder nyhetsbyrået Reuters.\n\nDen ukrainske presidenten Volodomyr Zelenskyj advarte tidligere mandag om et mulig russiske angrep, skriver nyhetsbyrået.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Flyalarmen har gått i den ukrainske hovedstaden Kyiv, melder nyhetsbyrået Reuters.\n\nDen ukrainske presidenten Volodomyr Zelenskyj advarte tidligere mandag om et mulig russiske angrep, skriver nyhetsbyrået.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/flyalarm-i-kyiv-1.17904984",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-01T23:28:16.999Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780356495497.135,
-      "title": "Ukrainsk avis: Eksplosjon i Kyiv",
-      "slug": "ukrainsk-avis-eksplosjon-i-kyiv",
-      "content": "Den ukrainske avisen The Kyiv Independent melder om en eksplosjon i Kyiv.\n\nEksplosjonen kunne høres i Kyiv rundt 00.30 norsk tid, melder avisen.\n\nEt øyenvtine melder også om en svart røyksky, skriver Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Den ukrainske avisen The Kyiv Independent melder om en eksplosjon i Kyiv.\n\nEksplosjonen kunne høres i Kyiv rundt 00.30 norsk tid, melder avisen.\n\nEt øyenvtine melder også om en svart røyksky, skriver Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ukrainsk-avis_-eksplosjon-i-kyiv-1.17904987",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-01T23:28:15.497Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780349705392.664,
-      "title": "Enighet om ny regjering i Danmark",
-      "slug": "enighet-om-ny-regjering-i-danmark",
-      "content": "Mette Frederiksen bekrefter at hun mener det er grunnlag for å danne en ny regjering i Danmark.\n\nHun har meddelt den danske kongen at det kan dannes en ny regjering bestående av S (Socialdemokratiet), M (Moderaterne), SF (Socialistisk Folkeparti) og R (Radikale Venstre). Det sier hun etter et møte på kongeskipet «Dannebrog» i Odense, ifølge dansk TV2.\n\nDen danske kongen har oppfordret fungerende statsminister Mette Frederiksen til å danne en slik regjering.\n\nDet politiske programmet for regjeringen presenteres tirsdag, og de nye ministrene presenteres onsdag, opplyser Mette Frederiksen.",
-      "excerpt": "Mette Frederiksen bekrefter at hun mener det er grunnlag for å danne en ny regjering i Danmark.\n\nHun har meddelt den danske kongen at det kan dannes en ny regjering bestående av S (Socialdemokratiet), M (Moderaterne), SF (Socialistisk Folkeparti) og R (Radikale Venstre). Det sier hun etter et møte...",
-      "image": "https://images.unsplash.com/photo-1753696278559-38efaeafab72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAzNDk3MDV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/enighet-om-ny-regjering-i-danmark-1.17904819",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-01T21:35:05.392Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1565,
+    "totalFetched": 1568,
     "totalPublished": 77,
-    "lastFetch": "2026-06-05T03:59:02.624Z",
+    "lastFetch": "2026-06-05T08:13:28.919Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
