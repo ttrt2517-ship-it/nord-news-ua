@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1780701098668.117,
+      "title": "NRK erfarer: Budsjettforhandlinger fortsetter på overtid",
+      "slug": "nrk-erfarer-budsjettforhandlinger-fortsetter-p-overtid",
+      "content": "Forhandlingene om revidert nasjonalbudsjett på Stortinget pågikk fortsatt etter midnatt natt til lørdag.\n\nEtter det NRK får opplyst er det fortsatt avstand mellom Arbeiderpartiet, SV, Rødt, Senterpartiet og MDG, som utgjør budsjettflertallet.\n\nDet krevende er særlig diskusjonen om klimatiltak, fortsatt støtte til havvind og hvor store pengebeløp som må til for å få til en avtale.",
+      "excerpt": "Forhandlingene om revidert nasjonalbudsjett på Stortinget pågikk fortsatt etter midnatt natt til lørdag.\n\nEtter det NRK får opplyst er det fortsatt avstand mellom Arbeiderpartiet, SV, Rødt, Senterpartiet og MDG, som utgjør budsjettflertallet.\n\nDet krevende er særlig diskusjonen om klimatiltak...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/nrk-erfarer_-budsjettforhandlinger-fortsetter-pa-overtid-1.17910613",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-05T23:11:38.668Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780695603751.0896,
       "title": "Dømt for råkjøring like før dødsulykke",
       "slug": "dmt-for-rkjring-like-fr-ddsulykke",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-03T04:20:42.500Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780460440362.788,
-      "title": "Omkom i arbeidsulykke i Heim",
-      "slug": "omkom-i-arbeidsulykke-i-heim",
-      "content": "En mann i 50-åra er død etter ei arbeidsulykke på Kyrksæterøra i Heim kommune.\n\nNødetatene ble varsla om ulykka 23:31 tirsdag kveld.\n\nEt helikopter fra Norsk luftambulanse ble sendt til stedet.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "En mann i 50-åra er død etter ei arbeidsulykke på Kyrksæterøra i Heim kommune.\n\nNødetatene ble varsla om ulykka 23:31 tirsdag kveld.\n\nEt helikopter fra Norsk luftambulanse ble sendt til stedet.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på...",
-      "image": null,
-      "original_url": "https://www.nrk.no/trondelag/omkom-i-arbeidsulykke-i-heim-1.17906356",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-03T04:20:40.362Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1581,
+    "totalFetched": 1582,
     "totalPublished": 77,
-    "lastFetch": "2026-06-05T21:40:05.282Z",
+    "lastFetch": "2026-06-05T23:11:41.154Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
