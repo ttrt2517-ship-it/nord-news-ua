@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1780695603751.0896,
+      "title": "Dømt for råkjøring like før dødsulykke",
+      "slug": "dmt-for-rkjring-like-fr-ddsulykke",
+      "content": "En ung mann fra Tromsø er dømt til 75 dagers fengsel for flere brudd på veitrafikkloven.\n\nRetten mener han kjørte «meget uforsvarlig» på E8 mot Hundbergan i oktober i fjor, like før en frontkollisjon der fem personer omkom. Ifølge dommen holdt han høy hastighet og måtte bråbremse ved ulykkesstedet.\n\nNRK kjenner ikke til hvordan mannen stiller seg til dommen.\n\nLike før midnatt lørdag kolliderte to biler på E8 sør for Tromsø. Tre av de omkomne er 18 år gamle menn hjemmehørende i Ramfjord i Tromsø kommune.",
+      "excerpt": "En ung mann fra Tromsø er dømt til 75 dagers fengsel for flere brudd på veitrafikkloven.\n\nRetten mener han kjørte «meget uforsvarlig» på E8 mot Hundbergan i oktober i fjor, like før en frontkollisjon der fem personer omkom. Ifølge dommen holdt han høy hastighet og måtte bråbremse ved...",
+      "image": "https://images.unsplash.com/photo-1743179401211-6e001fa4d5e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2OTU2MDN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/tromsogfinnmark/domt-for-rakjoring-like-for-dodsulykke--1.17910514",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-05T21:40:03.751Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780695601843.7893,
+      "title": "Nye israelske angrep i Libanon",
+      "slug": "nye-israelske-angrep-i-libanon",
+      "content": "Det israelske militæret (IDF) sendte fredag ut såkalte evakueringsordrer for ni byer og landsbyer i Sør-Libanon, melder det statlige libanesiske nyhetsbyrået NNA.\n\nFlere områder i Sør-Libanon ble deretter rammet av angrep fra det israelske luftvåpenet. Ifølge nyhetsbyrået AP har NNA meldt om til sammen seks drepte.\n\nKrigen fortsetter selv om USA, Israel og Libanons regjering nylig kom med en ny erklæring om en våpenhvileavtale.\n\nDen libanesiske, Iran-støttede Hizbollah-militsen avviser innholdet i erklæringen og har sagt at de fortsetter sine operasjoner så lenge israelske styrker er i Sør-Libanon.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Det israelske militæret (IDF) sendte fredag ut såkalte evakueringsordrer for ni byer og landsbyer i Sør-Libanon, melder det statlige libanesiske nyhetsbyrået NNA.\n\nFlere områder i Sør-Libanon ble deretter rammet av angrep fra det israelske luftvåpenet. Ifølge nyhetsbyrået AP har NNA meldt om til...",
+      "image": "https://images.unsplash.com/photo-1664790659991-11ae450bbea7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2OTU2MDF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/nye-israelske-angrep-i-libanon---1.17910591",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-05T21:40:01.843Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780695599968.5017,
+      "title": "NRK erfarer: Ligger an til budsjettforhandlinger i natt",
+      "slug": "nrk-erfarer-ligger-an-til-budsjettforhandlinger-i-natt",
+      "content": "Forhandlingene om revidert nasjonalbudsjett på Stortinget ligger an til å fortsette utover fristen ved midnatt.\n\nEtter det NRK får opplyst er det fortsatt avstand mellom Arbeiderpartiet, SV, Rødt, Senterpartiet og MDG, som utgjør budsjettflertallet.\n\nDet krevende er særlig diskusjonen om klimatiltak, fortsatt støtte til havvind og hvor store pengebeløp som må til for å få til en avtale.",
+      "excerpt": "Forhandlingene om revidert nasjonalbudsjett på Stortinget ligger an til å fortsette utover fristen ved midnatt.\n\nEtter det NRK får opplyst er det fortsatt avstand mellom Arbeiderpartiet, SV, Rødt, Senterpartiet og MDG, som utgjør budsjettflertallet.\n\nDet krevende er særlig diskusjonen om...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/nrk-erfarer_-ligger-an-til-budsjettforhandlinger-i-natt-1.17910612",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-05T21:39:59.969Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780689443039.9258,
       "title": "Suel Kassembo er lauslaten frå Trandum",
       "slug": "suel-kassembo-er-lauslaten-fr-trandum",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-03T04:20:40.362Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780444035646.0002,
-      "title": "USA: Avfyrte missil mot oljetanker ved Iran",
-      "slug": "usa-avfyrte-missil-mot-oljetanker-ved-iran",
-      "content": "Det amerikanske militæret avfyrte tirsdag et missil mot et skip som forsøkte å seile inn til en iransk havn. Om noen ble skadet i angrepet, er ikke kjent.\n\nOljetankeren, som ifølge det amerikanske militæret ikke hadde noen last, hadde «ignorert gjentatte advarsler» i løpet av en 24 timers periode, skriver nyhetsbyrået AFP.\n\nEt amerikansk jagerfly avfyrte et missil som traff skipet i motorrommet, ifølge militæret.\n\nSkipet seilte under botswansk flagg. Ifølge AFP er oljetankeren det sjette i rekken av skip som har blitt stanset med tvang siden 13. april, da USA innførte blokaden.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
-      "excerpt": "Det amerikanske militæret avfyrte tirsdag et missil mot et skip som forsøkte å seile inn til en iransk havn. Om noen ble skadet i angrepet, er ikke kjent.\n\nOljetankeren, som ifølge det amerikanske militæret ikke hadde noen last, hadde «ignorert gjentatte advarsler» i løpet av en 24 timers periode...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa_-avfyrte-missil-mot-oljetanker-ved-iran-1.17906286",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-02T23:47:15.647Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780433499149.9487,
-      "title": "Mange vil eta på tostjerners Michelin-restaurant",
-      "slug": "mange-vil-eta-p-tostjerners-michelinrestaurant",
-      "content": "Det strøymer inn med bestillingar til Gaptrast i Bergen, etter at restauranten fekk dobla talet på Michelin-stjerner i går. Dei fekk stjerne nummer to i den kjente Michelin-guiden.\n\nI fjor fekk dei den første stjerna. Gaptrast er den første restauranten i Bergen med to stjerner.\n\n- For meg betyr det enormt mykje. Det er veldig, veldig, veldig stort, seier dagleg leiar Øystein Ellingsen, som deler æra med kjøkkensjef Kristian Vangen og dei andre som jobbar der.\n\nRestauranten merka at folk heiv seg rundt då stjerna var i boks.\n\n- I fjor fikk vi nærare 1500 bookingar på eitt døgn. Eg trur ikkje vi er så langt bak i år, utan at eg har telt og sjekka. Det er mykje bookingar, og dei bestiller langt frem i tid, langt ut i september, seier Ellingsen til NRK.\n\nMichelinguiden\n\nMichelinguiden er oversikten over de beste restaurantene i verden, i følge Michelin sine anmeldere.",
-      "excerpt": "Det strøymer inn med bestillingar til Gaptrast i Bergen, etter at restauranten fekk dobla talet på Michelin-stjerner i går. Dei fekk stjerne nummer to i den kjente Michelin-guiden.\n\nI fjor fekk dei den første stjerna. Gaptrast er den første restauranten i Bergen med to stjerner.\n\n- For meg betyr...",
-      "image": "https://images.unsplash.com/photo-1665929458538-790753504cc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA0MzM0OTl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestland/mange-vil-eta-pa-tostjerners-michelin-restaurant-1.17906204",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-02T20:51:39.149Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780433497442.0366,
-      "title": "Politiet advarer: Flere eldre kvinner frastjålet gullsmykker",
-      "slug": "politiet-advarer-flere-eldre-kvinner-frastjlet-gullsmykker",
-      "content": "Øst politidistrikt ser tre hendelser fra de siste to dagene i sammenheng:\n\nI alle tilfellene ble eldre kvinner frastjålet, eller forsøkt frastjålet, gullsmykker.\n\nDen ene av de fornærmede, en kvinne i slutten av 70 -årene, ble frastjålet et smykke til en verdi av 80 000 kroner.\n\nTirsdag ettermiddag fikk politiet melding om at en eldre dame hadde blitt forsøkt frastjålet gullringene sine da hun var ute og gikk tur i Vestby.\n\n– Fornærmede merket hva som skjedde og fikk tilbake smykkene sine, skriver politiet i loggen sin.\n\nDen mistenkte ble beskrevet som en dame med gulltenner som snakket gebrokkent engelsk, skriver politiet videre.\n\nMandag skjedde to liknende tyverier, denne gangen på Kolbotn og Kjeller, på parkeringsplasser utenfor butikker.\n\nOgså her var de fornærmede eldre kvinner, og de ble frastjålet gullsmykker.\n\n«Modus er at den eller de mistenkte vil gi smykker til de fornærmede, samtidig som de stjeler smykkene de allerede har på seg», forklarer politiet.\n\n– Vi mistenker at dette er mobile vinningskriminelle, og at det er stor sannsynlighet for at de vil gjøre dette flere ganger.\n\nDe oppfordrer at folk som har tips eller observasjoner kontakter politiet på 02800.",
-      "excerpt": "Øst politidistrikt ser tre hendelser fra de siste to dagene i sammenheng:\n\nI alle tilfellene ble eldre kvinner frastjålet, eller forsøkt frastjålet, gullsmykker.\n\nDen ene av de fornærmede, en kvinne i slutten av 70 -årene, ble frastjålet et smykke til en verdi av 80 000 kroner.\n\nTirsdag ettermiddag...",
-      "image": "https://images.unsplash.com/photo-1609864485895-0cdcfb877296?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA0MzM0OTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/politiet-advarer_-flere-eldre-kvinner-frastjalet-gullsmykker-1.17906137",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-02T20:51:37.442Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1578,
+    "totalFetched": 1581,
     "totalPublished": 77,
-    "lastFetch": "2026-06-05T19:57:25.399Z",
+    "lastFetch": "2026-06-05T21:40:05.282Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
