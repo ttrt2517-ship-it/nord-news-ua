@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1780773976065.999,
+      "title": "Sparkesykkelulukke i Lørenskog",
+      "slug": "sparkesykkelulukke-i-lrenskog",
+      "content": "Politi og ambulanse er på staden. Ein person blir kjørt til Ullevål sjukehus med hodeskader. Den andre er uskadd.\n\nPolitiet skriv i sin logg at sparkesyklane skal ha hatt ein toppfart på 50 km/t.\n\nSyklene er tatt i beslag, og skal bli undersøkt vidare.",
+      "excerpt": "Politi og ambulanse er på staden. Ein person blir kjørt til Ullevål sjukehus med hodeskader. Den andre er uskadd.\n\nPolitiet skriv i sin logg at sparkesyklane skal ha hatt ein toppfart på 50 km/t.\n\nSyklene er tatt i beslag, og skal bli undersøkt vidare.",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/sparkesykkelulukke-i-lorenskog-1.17911057",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-06T19:26:16.065Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780773974228.9297,
+      "title": "Baby skutt og drept av israelsk soldat",
+      "slug": "baby-skutt-og-drept-av-israelsk-soldat",
+      "content": "En sju måneder palestinsk baby er skutt og drept på den okkuperte Vestbredden.\n\nEn israelsk soldat skjøt mot bilen gutten satt i sammen med foreldrene sine. Bilen hadde stanset ved en kontrollpost i nærheten av Hebron slik de hadde fått ordre om, men ble likevel beskutt, ifølge faren til gutten.\n\nKula gikk igjennom armen til far og traff så gutten. Han ble brakt til sykehus, men livet hans stod ikke til å redde.\n\nDet israelske militæret beklager hendelsen, skriver flere israelske medier.\n\nVestbredden\n\nIsraelske myndigheter kontrollerer Vestbredden som har vært okkupert av Israel siden 1967, i strid med Folkeretten. Enkelte områder har begrenset palestinsk selvstyre. Store områder på Vestbredden er dominert av nye israelske bosettinger.",
+      "excerpt": "En sju måneder palestinsk baby er skutt og drept på den okkuperte Vestbredden.\n\nEn israelsk soldat skjøt mot bilen gutten satt i sammen med foreldrene sine. Bilen hadde stanset ved en kontrollpost i nærheten av Hebron slik de hadde fått ordre om, men ble likevel beskutt, ifølge faren til...",
+      "image": "https://images.unsplash.com/photo-1571073026905-d4feeeddd7cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA3NzM5NzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/baby-skutt-og-drept-av-israelsk-soldat-1.17911170",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-06T19:26:14.228Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780773972500.65,
+      "title": "Talet på nye organdonorar eksplodert i Noreg",
+      "slug": "talet-p-nye-organdonorar-eksplodert-i-noreg",
+      "content": "Fredag fortalde kongehuset at kronprinsesse Mette-Marit står på lista for lungetransplantasjon.\n\nI etterkant har talet på nye registrerte donorar eksplodert.\n\n– Torsdag enda me på 312 donorkort på Helsenorge, og i går var me oppe i 2178, som er 31 gonger høgare enn snittet for mai, seier Aleksander Sekowski i Stiftelsen Organdonasjon til Dagbladet.\n\nSnittet i mai var 70 utfylte donorkort dagleg på Helsenorge.\n\nDet er enorm interesse for å bli organdonor etter nyheten om at kronprinsessen venter på nye lunger.\n\nOrgandonasjon\n\nNye tall fra fra Oslo universitetssykehus viser at 84 prosent svarte ja på forespørsel om organidonasjon i fjor. De 113 donasjonene som ble gjennomført i 2019 ga til sammen 439 pasienter livet tilbake.",
+      "excerpt": "Fredag fortalde kongehuset at kronprinsesse Mette-Marit står på lista for lungetransplantasjon.\n\nI etterkant har talet på nye registrerte donorar eksplodert.\n\n– Torsdag enda me på 312 donorkort på Helsenorge, og i går var me oppe i 2178, som er 31 gonger høgare enn snittet for mai, seier Aleksander...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/talet-pa-nye-organdonorar-eksplodert-i-noreg-1.17911002",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-06T19:26:12.500Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780766227535.0598,
       "title": "Familie gikk på E18",
       "slug": "familie-gikk-p-e18",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-04T09:58:49.652Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780567128018.883,
-      "title": "Danske dømt for likskjending – kastet død kompis i komposthaug",
-      "slug": "danske-dmt-for-likskjending-kastet-dd-kompis-i-komposthaug",
-      "content": "En 61 år gammel dansk mann er i tingretten i Danmark dømt til tvungent psykisk helsevern. Bakgrunnen er at han i juli 2023 unnlot å hjelpe sin 44 år gamle kamerat som satte mat i halsen og døde.\n\n61-åringen unnlot å varsle nødetatene og gjemte senere liket i en komposthaug på eiendommen, hvor det ble funnet fem måneder senere.\n\nMannen ble funnet skyldig i hensettelse i hjelpeløs tilstand. Det er ikke kjent hvordan mannen stiller seg til dommen.",
-      "excerpt": "En 61 år gammel dansk mann er i tingretten i Danmark dømt til tvungent psykisk helsevern. Bakgrunnen er at han i juli 2023 unnlot å hjelpe sin 44 år gamle kamerat som satte mat i halsen og døde.\n\n61-åringen unnlot å varsle nødetatene og gjemte senere liket i en komposthaug på eiendommen, hvor det...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/danske-domt-for-likskjending-_-kastet-dod-kompis-i-komposthaug-1.17907984",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-04T09:58:48.018Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780567126230.8506,
-      "title": "Norge og ti land krever stopp i russiske turistvisum",
-      "slug": "norge-og-ti-land-krever-stopp-i-russiske-turistvisum",
-      "content": "Norge, Island og ni EU-land krever nå en langt mer restriktiv og samordnet visumpolitikk overfor russiske statsborgere. Landene har undertegnet et felles brev som legges frem på EUs innenriksministermøte torsdag, etter at nesten 480 000 Schengen-visum ble utstedt til russere i fjor.\n\n«Det har vært dypt urovekkende å være vitne til et økende antall russiske turister som nyter livet på europeiske strender og feriesteder mens missiler og droner rammer sivile i Ukraina», heter det i brevet ifølge NTB.",
-      "excerpt": "Norge, Island og ni EU-land krever nå en langt mer restriktiv og samordnet visumpolitikk overfor russiske statsborgere. Landene har undertegnet et felles brev som legges frem på EUs innenriksministermøte torsdag, etter at nesten 480 000 Schengen-visum ble utstedt til russere i fjor.\n\n«Det har vært...",
-      "image": "https://images.unsplash.com/photo-1660661715565-5d08184f5955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA1NjcxMjZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/norge-og-ti-land-krever-stopp-i-russiske-turistvisum-1.17908144",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-04T09:58:46.231Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780546517050.4917,
-      "title": "Ukraina: EU-land gir grønt lys til forhandlinger",
-      "slug": "ukraina-euland-gir-grnt-lys-til-forhandlinger",
-      "content": "Alle EU-landene har nå gitt grønt lys til å starte forhandlinger om et ukrainsk medlemskap i EU.\n\nDet skriver statsminister ‌Yulia Svyrydenko i et innlegg på meldingstjenesten X.\n\n– Vi er ett skritt nærmere EU-medlemskap: på stødig vei mot målet vårt, skriver hun.\n\nDet er fortsatt en lang formell prosess som må gjennomføres før Ukraina eventuelt skal kunne bli medlem av EU.\n\nUkraina og Moldova, som begge ønsker å bli med i EU, er plassert i det som kalles klynge 1.\n\nDet er landene i denne gruppen EU nå skal ha sagt ja til å starte en formell forhanlingsprosess for.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.\n\nUkraina\n\nUkraina er et land i Europa som grenser til Russland, Belarus, Polen, Moldova og Romania. Landet har nær 38 millioner innbyggere, ifølge data fra FN. I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina».",
-      "excerpt": "Alle EU-landene har nå gitt grønt lys til å starte forhandlinger om et ukrainsk medlemskap i EU.\n\nDet skriver statsminister ‌Yulia Svyrydenko i et innlegg på meldingstjenesten X.\n\n– Vi er ett skritt nærmere EU-medlemskap: på stødig vei mot målet vårt, skriver hun.\n\nDet er fortsatt en lang formell...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ukraina_-eu-land-gir-gront-lys-til-forhandlinger-1.17907644",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-04T04:15:17.050Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1596,
+    "totalFetched": 1599,
     "totalPublished": 77,
-    "lastFetch": "2026-06-06T17:17:08.723Z",
+    "lastFetch": "2026-06-06T19:26:18.281Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
