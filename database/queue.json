@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1780766227535.0598,
+      "title": "Familie gikk på E18",
+      "slug": "familie-gikk-p-e18",
+      "content": "Politiet rykket i ettermiddag ut til Fosskolltunellen på E18, etter melding om fotgjengere som gikk i veibanen.\n\nDet viste seg at dreide seg om en familie som lette etter en mobiltelefon.\n\nDe ble vist tilbake til bilen, opplyser politiet. Fosskolltunnelen ble stengt en kort periode i sørgående løp, på grunn av hendelsen.\n\nBilføreren som slapp ut personene på E-18 blir anmeldt.",
+      "excerpt": "Politiet rykket i ettermiddag ut til Fosskolltunellen på E18, etter melding om fotgjengere som gikk i veibanen.\n\nDet viste seg at dreide seg om en familie som lette etter en mobiltelefon.\n\nDe ble vist tilbake til bilen, opplyser politiet. Fosskolltunnelen ble stengt en kort periode i sørgående løp...",
+      "image": "https://images.unsplash.com/photo-1654489519380-df012c053367?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA3NjYyMjd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/buskerud/familie-gikk-pa-e18-1.17911044",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-06T17:17:07.535Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780759066573.541,
       "title": "VG: Fly med norske turistar måtte naudlande i Athen",
       "slug": "vg-fly-med-norske-turistar-mtte-naudlande-i-athen",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-04T04:15:17.050Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780546514312.4263,
-      "title": "Meldinger om flere drepte etter angrep på Gaza",
-      "slug": "meldinger-om-flere-drepte-etter-angrep-p-gaza",
-      "content": "Minst åtte mennesker er drept israelske luftangrep på Gaza, ifølge det palestinske sivilforsvaret.\n\nSju personer ble drept i et bolighus i Gaza by, mens en ble drept i en flyktningsleir vest for byen, sier en talsperson til nyhetsbyrået AFP.\n\nOgså kanalen Al Jazeera melder om et israelsk angrep på Gaza by.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
-      "excerpt": "Minst åtte mennesker er drept israelske luftangrep på Gaza, ifølge det palestinske sivilforsvaret.\n\nSju personer ble drept i et bolighus i Gaza by, mens en ble drept i en flyktningsleir vest for byen, sier en talsperson til nyhetsbyrået AFP.\n\nOgså kanalen Al Jazeera melder om et israelsk angrep på...",
-      "image": "https://images.unsplash.com/photo-1742857848733-d5129d150bfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA1NDY1MTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/meldinger-om-flere-drepte-etter-angrep-pa-gaza-1.17907652",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-04T04:15:14.312Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1595,
+    "totalFetched": 1596,
     "totalPublished": 77,
-    "lastFetch": "2026-06-06T15:17:49.167Z",
+    "lastFetch": "2026-06-06T17:17:08.723Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
