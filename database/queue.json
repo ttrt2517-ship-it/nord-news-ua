@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1780787130112.2407,
+      "title": "Savnet etter kanovelt i Sarpsborg",
+      "slug": "savnet-etter-kanovelt-i-sarpsborg",
+      "content": "En person er savnet etter en kanovelt i Sarpsborg, opplyser politiet. AMK fikk meldingen litt før klokken 23, opplyser politiet til NRK.\n\n– Alle nødetatene er på vei mot stedet. Redningshelikopter vil også snart være over området, skriver operasjonsleder Håkon Hatlen i Øst politidistrikt i politiloggen klokken 23.05.\n\nDet var flere personer i ulike kanoer som var del av et turfølge i området, ifølge dem som ringte inn til nødetatene.\n\nEt redningshelikopter og nødetatene er kommet frem til stedet, opplyser Hatlen til NRK klokken 23.15 lørdag kveld.\n\nEn savnet person er hentet opp av vannet etter en kanovelt i Sarpsborg.",
+      "excerpt": "En person er savnet etter en kanovelt i Sarpsborg, opplyser politiet. AMK fikk meldingen litt før klokken 23, opplyser politiet til NRK.\n\n– Alle nødetatene er på vei mot stedet. Redningshelikopter vil også snart være over området, skriver operasjonsleder Håkon Hatlen i Øst politidistrikt i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/savnet-etter-kanovelt-i-sarpsborg-1.17911232",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-06T23:05:30.113Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780780026977.2314,
       "title": "Talet på nye organdonorar har eksplodert i Noreg",
       "slug": "talet-p-nye-organdonorar-har-eksplodert-i-noreg",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-04T16:54:53.391Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780577393072.1443,
-      "title": "Politiet etterforsker drap i Stavanger – ikke kontroll på gjerningsperson",
-      "slug": "politiet-etterforsker-drap-i-stavanger-ikke-kontroll-p-gjern",
-      "content": "En person ble i dag tidlig funnet død på en adresse i Stavanger.\n\nKrimteknikere ble sendt til stedet. Personen ble funnet død med skader som kan tyde på vold.\n\nDen avdøde er en mann i begynnelsen av 40-årene. Pårørende er varslet.\n\n– Ut ifra skadene avdøde har, mener politiet det er sannsynlig at han er drept. Politiet har ikke kontroll på gjerningsperson. Det er ingen mistenkte i saken per nå. Politiet har store ressurser som jobber med saken, sier politiadvokat Fredrik Martin Soma.\n\nPolitiet har ingen mistenkte i saken og derfor ikke kontroll på eventuell gjerningsperson.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
-      "excerpt": "En person ble i dag tidlig funnet død på en adresse i Stavanger.\n\nKrimteknikere ble sendt til stedet. Personen ble funnet død med skader som kan tyde på vold.\n\nDen avdøde er en mann i begynnelsen av 40-årene. Pårørende er varslet.\n\n– Ut ifra skadene avdøde har, mener politiet det er sannsynlig at...",
-      "image": "https://images.unsplash.com/photo-1752583584999-9d645e9f8672?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA1NzczOTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/rogaland/politiet-etterforsker-drap-i-stavanger-_-ikke-kontroll-pa-gjerningsperson-1.17908175",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-04T12:49:53.072Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1602,
+    "totalFetched": 1603,
     "totalPublished": 77,
-    "lastFetch": "2026-06-06T21:07:09.668Z",
+    "lastFetch": "2026-06-06T23:05:32.687Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
