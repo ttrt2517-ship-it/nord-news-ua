@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1780728868978.466,
+      "title": "Dykker angrepet av hai i Australia",
+      "slug": "dykker-angrepet-av-hai-i-australia",
+      "content": "En dykker i 30-årene er fraktet til sykehus med alvorlige skader etter å ha blitt angrepet av en hai.\n\nAngrepet skjedde på Michaelmas Island, en øy nær den australske byen Albany i Vest-Australia.\n\nAustralia\n\nSosialdemokraten Anthony Albanese overtok som statsminister etter Scott Morrison etter valget 21. mai 2022. Albanese har lovet å trappe opp klimakampen, men han vil ikke love å stenge kullgruvene i landet.",
+      "excerpt": "En dykker i 30-årene er fraktet til sykehus med alvorlige skader etter å ha blitt angrepet av en hai.\n\nAngrepet skjedde på Michaelmas Island, en øy nær den australske byen Albany i Vest-Australia.\n\nAustralia\n\nSosialdemokraten Anthony Albanese overtok som statsminister etter Scott Morrison etter...",
+      "image": "https://images.unsplash.com/photo-1663610804918-c87cd25f6040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA3Mjg4Njh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/dykker-angrepet-av-hai-i-australia-1.17910641",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-06T06:54:28.978Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780728867066.3757,
+      "title": "Russland sier de har skutt ned hundrevis av droner",
+      "slug": "russland-sier-de-har-skutt-ned-hundrevis-av-droner",
+      "content": "376 ukrainske droner skal være skutt ned over Russland i løpet av natten, ifølge forsvarsdepartementet i Moskva.\n\nDronene skal ha blitt stanset i en lang rekke fylker. Flere av dem grenser til Ukraina, men også i områdene rundt Moskva og St. Petersburg skal det ha vært droner.\n\n86 droner skal ha blitt skutt ned i fylket Leningrad, som ligger rett ved storbyen St. Petersburg ved Finskebukta.\n\n– Kamoperasjonene fortsetter, skriver regionens guvernør Aleksandr Drozdenko i en Telegram-melding om nedskytingen av dronene.\n\nSt. Petersburg er for tiden vertskap for en stor internasjonal økonomikonferanse.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "376 ukrainske droner skal være skutt ned over Russland i løpet av natten, ifølge forsvarsdepartementet i Moskva.\n\nDronene skal ha blitt stanset i en lang rekke fylker. Flere av dem grenser til Ukraina, men også i områdene rundt Moskva og St. Petersburg skal det ha vært droner.\n\n86 droner skal ha...",
+      "image": "https://images.unsplash.com/photo-1623831134835-adb937642c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA3Mjg4Njd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/russland-sier-de-har-skutt-ned-hundrevis-av-droner-1.17910649",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-06T06:54:27.066Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780728865478.299,
+      "title": "Libanesiske soldater drept i israelsk angrep",
+      "slug": "libanesiske-soldater-drept-i-israelsk-angrep",
+      "content": "Flere libanesiske soldater, inkludert en offiser, ble drept i et israelsk angrep, ifølge den libanesiske hæren.\n\nAngrepet var rettet mot et militært kjøretøy på veien mellom Khardali og Nabatieh i Sør-Libanon.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
+      "excerpt": "Flere libanesiske soldater, inkludert en offiser, ble drept i et israelsk angrep, ifølge den libanesiske hæren.\n\nAngrepet var rettet mot et militært kjøretøy på veien mellom Khardali og Nabatieh i Sør-Libanon.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet...",
+      "image": "https://images.unsplash.com/photo-1654581065105-b904eee78d9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA3Mjg4NjV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/libanesiske-soldater-drept-i-israelsk-angrep-1.17910680",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-06T06:54:25.479Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780717261398.9954,
       "title": "Alvorlig trafikkulykke på Røros",
       "slug": "alvorlig-trafikkulykke-p-rros",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-03T16:53:18.741Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780505596969.9124,
-      "title": "Tyskland tapte – Østerrike og Portugal nye medlemsland i FNs sikkerhetsråd",
-      "slug": "tyskland-tapte-sterrike-og-portugal-nye-medlemsland-i-fns-si",
-      "content": "I 2027 og 2028 blir de rullerende medlemslandene i Sikkerhetsrådet Østerrike, Portugal, Zimbabwe og Trinidad og Tobago.\n\nDet ble klart under hovedforsamlingen i FN onsdag. Tyskland prøvde også å komme med fra gruppen av vestlige land, men tapte altså avstemningen for Østerrike og Portugal.\n\nFor å avgjøre hvem som får det femte og siste setet må det holdes en ekstra valgrunde. Det står mellom Filippinene og Kirgisistan.\n\nI tillegg kommer de permanente medlemmene Frankrike, Storbritannia, USA, Kina og Russland.\n\nFNs sikkerhetsråd\n\nSikkerhetsrådet består av 15 medlemmer: Fem faste og ti valgte, som velges for to år om gangen. Frankrike, Kina, Russland, Storbritannia og USA er faste medlemmer. Norge satt i Sikkerhetsrådet fra 1. januar 2021 til 31. desember 2022.\n\nDe forente nasjoner (FN)\n\nFN ble opprettet like etter andre verdenskrig, i hovedsak for å unngå lignende krigssituasjoner i framtiden. Hovedkontoret ligger i New York i USA, og organisasjonen har 193 medlemsland.",
-      "excerpt": "I 2027 og 2028 blir de rullerende medlemslandene i Sikkerhetsrådet Østerrike, Portugal, Zimbabwe og Trinidad og Tobago.\n\nDet ble klart under hovedforsamlingen i FN onsdag. Tyskland prøvde også å komme med fra gruppen av vestlige land, men tapte altså avstemningen for Østerrike og Portugal.\n\nFor å...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/tyskland-tapte-_-osterrike-og-portugal-nye-medlemsland-i-fns-sikkerhetsrad-1.17907422",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-03T16:53:16.969Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780484615935.6238,
-      "title": "Stoltenberg i budsjettmøter på Stortinget",
-      "slug": "stoltenberg-i-budsjettmter-p-stortinget",
-      "content": "Forhandlingene om revidert nasjonalbudsjett er innspurten på Stortinget, og i dag var også finansminister Jens Stoltenberg (Ap) på plass.\n\nPå vei inn til samtaler med Arbeiderpartiets folk på Stortinget ble han spurt om hvordan det går i forhandlingene.\n\n– Jeg tror ikke jeg skal karakterisere de samtalene. Jeg skal nå snakke med forhandlingslederne og de som står for forhandlingene fra Arbeiderpartiets side.\n\n– Det er kommet mange dyre krav, hvordan ser du på muligheten for å bli enige?\n\nForhandlingene mellom Arbeiderpartiet og budsjettpartnerne Rødt, SV, Sp og MDG har frist til midnatt fredag, men det er også mulig at det blir samtaler på overtid gjennom helgen.\n\n– Vi er ikke i mål ennå, men vi har konstruktive samtaler. Men det er fortsatt et stykke igjen, sa SVs forhandlingsleder Marthe Hammer til NRK etter et forhandlingsmøte i statsrådssalen på Stortinget i formiddag.\n\nHun sier flere saker er vanskelige i innspurten, etter en trøblete rødgrønn vår.\n\n– Det har vært en vår som har utfordret både ramme og samarbeid, sier Hammer.\n\nSenterpartiet gikk i mars sammen med de borgerlige partiene om avgiftskutt på bensin og diesel. Tiltaket koster 5,5 milliarder kroner og må dekkes inn i revidert budsjett.\n\nBare dager før fristen slår SV alarm: Forhandlingene om revidert nasjonalbudsjett står i stampe når det gjelder klimakutt.\n\nStatsbudsjettet 2026\n\nI oktober la regjeringa fram sitt forslag til statsbudsjett for 2026. 3. desember ble Arbeiderpartiet, Senterpartiet, Rødt, SV og MDG enige om et budsjettforslag.",
-      "excerpt": "Forhandlingene om revidert nasjonalbudsjett er innspurten på Stortinget, og i dag var også finansminister Jens Stoltenberg (Ap) på plass.\n\nPå vei inn til samtaler med Arbeiderpartiets folk på Stortinget ble han spurt om hvordan det går i forhandlingene.\n\n– Jeg tror ikke jeg skal karakterisere de...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/stoltenberg-i-budsjettmoter-pa-stortinget-1.17906772",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-03T11:03:35.935Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780484614393.6428,
-      "title": "Expressen: Runar Søgaard dømt til fengsel",
-      "slug": "expressen-runar-sgaard-dmt-til-fengsel",
-      "content": "Den tidligere predikanten Runar Søgaard ble dømt til to måneders fengsel for hvitvasking av penger av tingretten i 2025.\n\nBakgrunnen er at Sørgård mottok 72 000 kroner, som ifølge aktor stammer fra svindel mot eldre personer.\n\nSøgaard anket til Svea lagmannsrett, som nå har kunngjort at dommen opprettholdes.",
-      "excerpt": "Den tidligere predikanten Runar Søgaard ble dømt til to måneders fengsel for hvitvasking av penger av tingretten i 2025.\n\nBakgrunnen er at Sørgård mottok 72 000 kroner, som ifølge aktor stammer fra svindel mot eldre personer.\n\nSøgaard anket til Svea lagmannsrett, som nå har kunngjort at dommen...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/expressen_-runar-sogaard-domt-til-fengsel-1.17906776",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-03T11:03:34.393Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1585,
+    "totalFetched": 1588,
     "totalPublished": 77,
-    "lastFetch": "2026-06-06T03:41:03.943Z",
+    "lastFetch": "2026-06-06T06:54:31.610Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
