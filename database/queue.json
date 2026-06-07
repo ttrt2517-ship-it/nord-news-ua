@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1780845998214.968,
+      "title": "Fem drepne i israelsk angrep på Gazastripa",
+      "slug": "fem-drepne-i-israelsk-angrep-p-gazastripa",
+      "content": "Minst fem personar er drepne i eit israelsk luftangrep på ein politistasjon på Gazastripa, ifølgje sivilforsvaret i det palestinske området.\n\nNTB meler at opplysningane vert bekrefta av helsepersonell på Gazastripa.\n\nAngrepet ramma ein politistasjon rett ved ein teltleir for fordrivne familiar i Khan Younis.\n\nFleire enn femten personar vart såra, ifølgje helsepersonell.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
+      "excerpt": "Minst fem personar er drepne i eit israelsk luftangrep på ein politistasjon på Gazastripa, ifølgje sivilforsvaret i det palestinske området.\n\nNTB meler at opplysningane vert bekrefta av helsepersonell på Gazastripa.\n\nAngrepet ramma ein politistasjon rett ved ein teltleir for fordrivne familiar i...",
+      "image": "https://images.unsplash.com/photo-1750261346363-02105b564e45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA4NDU5OTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fem-drepne-i-israelsk-angrep-pa-gazastripa-1.17911573",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-07T15:26:38.214Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780845996466.0037,
+      "title": "Noreg har evakuert 4000 ukrainarar",
+      "slug": "noreg-har-evakuert-4000-ukrainarar",
+      "content": "Sidan fullskalainnovasjonen av Ukraina starta i 2022, har Forsvaret gjennomført medisinsk evakuering av 4000 ukrainske pasientar og pårørande, opplyser forsvaret ifølgje Forsvarets forum.\n\nNærmare 3000 av desse er pasientar som har fått tilgang til naudsynt behandling i Noreg og andre europeiske land.\n\nArbeidet skjer i samband med EU og andre allierte land, og har vore ein sentral del av Europa si støtte til Ukraina. Evakueringa er med på å avlaste det ukrainske helsevesenet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Sidan fullskalainnovasjonen av Ukraina starta i 2022, har Forsvaret gjennomført medisinsk evakuering av 4000 ukrainske pasientar og pårørande, opplyser forsvaret ifølgje Forsvarets forum.\n\nNærmare 3000 av desse er pasientar som har fått tilgang til naudsynt behandling i Noreg og andre europeiske...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/noreg-har-evakuert-4000-ukrainarar-1.17911515",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-07T15:26:36.467Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780840626423.9155,
       "title": "TV 2: Kronprinsesse Mette-Marit og kronprins Haakon er på besøk i Oslo fengsel",
       "slug": "tv-2-kronprinsesse-mettemarit-og-kronprins-haakon-er-p-besk-",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-06-05T03:59:00.277Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780631938490.6963,
-      "title": "Enighet i lønnsoppgjør for ansatte på sokkelen",
-      "slug": "enighet-i-lnnsoppgjr-for-ansatte-p-sokkelen",
-      "content": "Det er enighet i sokkeloppgjøret, bekrefter riksmekler Mats Ruland til NRK.\n\nPartene som meklet om lønn og arbeidsavtaler for arbeidere som jobber på den norske sokkelen meklet på overtid natt til fredag.\n\nDet er arbeidsgiverorganisasjonen Offshore Norge og fagforeningene Styrke, Safe og Lederne som har meklet.\n\nFristen gikk ut ved midnatt. Nå bekrefter Mats Ruland til NRK at partene er enige.\n\nDet var varslet at over 600 arbeidere ville gå ut i streik fredag hvis partene ikke ble enige.",
-      "excerpt": "Det er enighet i sokkeloppgjøret, bekrefter riksmekler Mats Ruland til NRK.\n\nPartene som meklet om lønn og arbeidsavtaler for arbeidere som jobber på den norske sokkelen meklet på overtid natt til fredag.\n\nDet er arbeidsgiverorganisasjonen Offshore Norge og fagforeningene Styrke, Safe og Lederne...",
-      "image": "https://images.unsplash.com/photo-1635031431742-8c78f7076a8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2MzE5Mzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/enighet-i-lonnsoppgjor-for-ansatte-pa-sokkelen-1.17909128",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-05T03:58:58.490Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780631936829.518,
-      "title": "Stemte for mer Ukraina-støtte",
-      "slug": "stemte-for-mer-ukrainasttte",
-      "content": "Representantenes hus vedtok torsdag et forslag om fornyet støtte til Ukraina og nye sanksjoner mot Russland.\n\nDet er ikke ventet at forslaget blir endelig vedtatt.\n\nForslaget fikk flertall i underhuset i den amerikanske Kongressen etter at 18 republikanere og en uavhengig representant sluttet seg til demokratene.\n\nEtter flere måneders venting endte saken med 226 mot 195 stemmer.\n\nTorsdagens avstemning anses som et nytt tegn på at den nærmest enstemmige republikanske støtten til president Donald Trumps politikk begynner å slå sprekker.\n\nHva som skjer videre med forslaget er likevel langt fra sikkert.\n\nFor å bli endelig vedtatt, må det også gjennom Senatet, der den republikanske ledelsen har nektet å ta opp saker med tverrpolitisk støtte om sanksjoner mot Russland til votering.\n\nSkulle Senatet slutte seg til vedtaket i Representantenes hus, er det ventet at Trump vil legge ned veto.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Representantenes hus vedtok torsdag et forslag om fornyet støtte til Ukraina og nye sanksjoner mot Russland.\n\nDet er ikke ventet at forslaget blir endelig vedtatt.\n\nForslaget fikk flertall i underhuset i den amerikanske Kongressen etter at 18 republikanere og en uavhengig representant sluttet seg...",
-      "image": "https://images.unsplash.com/photo-1567083843479-45e23b916117?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2MzE5MzZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/stemte-for-mer-ukraina-stotte-1.17909129",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-05T03:58:56.829Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1612,
+    "totalFetched": 1614,
     "totalPublished": 77,
-    "lastFetch": "2026-06-07T13:57:09.143Z",
+    "lastFetch": "2026-06-07T15:26:39.441Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
