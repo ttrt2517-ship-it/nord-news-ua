@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1780860349908.932,
+      "title": "Einigheit om revidert nasjonalbudsjett",
+      "slug": "einigheit-om-revidert-nasjonalbudsjett",
+      "content": "Halvanna døgn på overtid er Arbeiderpartiet, SV, Raudt, Senterpartiet og MDP blitt einige om nasjonalbudsjettet.\n\nHalvannet døgn på overtid er Arbeiderpartiet, SV, Rødt, Senterpartiet og MDG blitt enige om nasjonalbudsjettet. Tunnel gjennom Stad og billigere månedskort noe av det de har blitt enige om.\n\nStatsbudsjettet 2026\n\nI oktober la regjeringa fram sitt forslag til statsbudsjett for 2026. 3. desember ble Arbeiderpartiet, Senterpartiet, Rødt, SV og MDG enige om et budsjettforslag.",
+      "excerpt": "Halvanna døgn på overtid er Arbeiderpartiet, SV, Raudt, Senterpartiet og MDP blitt einige om nasjonalbudsjettet.\n\nHalvannet døgn på overtid er Arbeiderpartiet, SV, Rødt, Senterpartiet og MDG blitt enige om nasjonalbudsjettet. Tunnel gjennom Stad og billigere månedskort noe av det de har blitt enige...",
+      "image": "https://images.unsplash.com/photo-1659424765812-c2932538a99a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA4NjAzNDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/einigheit-om-revidert-nasjonalbudsjett-1.17911617",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-07T19:25:49.909Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780860348212.7288,
+      "title": "Trump vurderer å kjøpe Chagosøyene",
+      "slug": "trump-vurderer-kjpe-chagosyene",
+      "content": "Det kvite huset skal vurdere ein plan om å kjøpa Chagosøyene frå Mauritius.\n\nStorbritannia og USA har vore ueinige om den viktige militærbasen Diego Garcia, der landa delar ein felles base.\n\nI 2024 varsla den britiske regjeringa at dei ville overlate suvereniteten over Chagosøyene til Mauritius. Trump var svært kritisk til denne planen, skriv NTB.\n\nNo vurderer USA og kjøpe øygruppa direkte frå Mauritius, og dermed omgå Storbritannia.",
+      "excerpt": "Det kvite huset skal vurdere ein plan om å kjøpa Chagosøyene frå Mauritius.\n\nStorbritannia og USA har vore ueinige om den viktige militærbasen Diego Garcia, der landa delar ein felles base.\n\nI 2024 varsla den britiske regjeringa at dei ville overlate suvereniteten over Chagosøyene til Mauritius....",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-vurderer-a-kjope-chagosoyene-1.17911717",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-07T19:25:48.212Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780860346510.4192,
+      "title": "Støre om revidert nasjonalbudsjett: – Eg er glad me er einige",
+      "slug": "stre-om-revidert-nasjonalbudsjett-eg-er-glad-me-er-einige",
+      "content": "Statsminister Jonas Gahr Støre takkar Senterpartiet, SV, Raudt og MDG for samtalane rundt det reviderte nasjonalbudsjettet.\n\n– Eg er glad for at me er blitt einige om revidert nasjonalbudsjett. Denne einigheita trygger landet sin økonomi, folk sin økonomi og våre felles velferdstenester.\n\nDei raudgrøne partia vart søndag kveld einige om det reviderte nasjonalbudsjettet, eit halvanna døgn på overtid.\n\nHalvannet døgn på overtid er Arbeiderpartiet, SV, Rødt, Senterpartiet og MDG blitt enige om nasjonalbudsjettet. Tunnel gjennom Stad og billigere månedskort noe av det de har blitt enige om.\n\nStatsbudsjettet 2026\n\nI oktober la regjeringa fram sitt forslag til statsbudsjett for 2026. 3. desember ble Arbeiderpartiet, Senterpartiet, Rødt, SV og MDG enige om et budsjettforslag.",
+      "excerpt": "Statsminister Jonas Gahr Støre takkar Senterpartiet, SV, Raudt og MDG for samtalane rundt det reviderte nasjonalbudsjettet.\n\n– Eg er glad for at me er blitt einige om revidert nasjonalbudsjett. Denne einigheita trygger landet sin økonomi, folk sin økonomi og våre felles velferdstenester.\n\nDei...",
+      "image": "https://images.unsplash.com/photo-1695725097795-19328f75e879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA4NjAzNDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/store-om-revidert-nasjonalbudsjett_-_-eg-er-glad-me-er-einige-1.17911772",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-07T19:25:46.510Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780852761924.67,
       "title": "Bennbar væske kastet mot bolig i Arendal",
       "slug": "bennbar-vske-kastet-mot-bolig-i-arendal",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-05T12:39:57.863Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780663196325.5657,
-      "title": "Christian (40) funnet død i Stavanger – politiet ønsker tips",
-      "slug": "christian-40-funnet-dd-i-stavanger-politiet-nsker-tips",
-      "content": "Det var Christian Rydningen Auklend (40) som ble funnet død i en kommunal bolig på Våland i Stavanger i går morges.\n\n– Siste sikre observasjon av Auklend er på Coop Extra Paradis i Lagårdsveien 80 i Stavanger. Her ble han observert handlende rundt klokken 20.00 fredag 29. mai, sier politiadvokat Fredrik Martin Soma.\n\nHan hadde da på seg en blå, åpen jakke, en lys, rutete bukse til knærne og blå Vans-sko. Håret var barbert på sidene og bak, med lyst hår på toppen av hodet samlet i dreads i en hårstrikk.\n\n– Vi er svært interessert i observasjoner av Auklend etter at bildet på Coop Extra ble tatt. Vi jobber med å identifisere gjerningspersonen, eller gjerningspersoner, og kartlegge avdødes bevegelser de siste dagene, sier Soma.\n\nPolitiet har i samråd med de pårørende fått lov å dele navn og bilde av Auklend.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
-      "excerpt": "Det var Christian Rydningen Auklend (40) som ble funnet død i en kommunal bolig på Våland i Stavanger i går morges.\n\n– Siste sikre observasjon av Auklend er på Coop Extra Paradis i Lagårdsveien 80 i Stavanger. Her ble han observert handlende rundt klokken 20.00 fredag 29. mai, sier politiadvokat...",
-      "image": "https://images.unsplash.com/photo-1664169088037-bb282b188568?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2NjMxOTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/rogaland/christian-_40_-funnet-dod-i-stavanger-_-politiet-onsker-tips-1.17910023",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-05T12:39:56.326Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780647206677.7043,
-      "title": "Kronprinsessen på liste for lungetransplantasjon",
-      "slug": "kronprinsessen-p-liste-for-lungetransplantasjon",
-      "content": "Som følge av kronprinsessens livstruende kroniske lungesykdom og etter grundige helseundersøkelser er Hennes Kongelige Høyhet Kronprinsesse Mette-Marit satt på liste for lungetransplantasjon.\n\n– Utviklingen av Kronprinsessens lungesykdom er alvorlig. Etter en samlet medisinsk vurdering har hun nå kommet på listen over personer som vil gjennomgå lungetransplantasjon så fort det lar seg gjøre, sier overlege og lungespesialist Are Holm ved Rikshospitalet.\n\nKronprinsparet utsetter feiringen av sin sølvbryllupsdag som var planlagt i august 2026, og Kronprinsessen vil ikke delta på den planlagte fylkesturen i september.",
-      "excerpt": "Som følge av kronprinsessens livstruende kroniske lungesykdom og etter grundige helseundersøkelser er Hennes Kongelige Høyhet Kronprinsesse Mette-Marit satt på liste for lungetransplantasjon.\n\n– Utviklingen av Kronprinsessens lungesykdom er alvorlig. Etter en samlet medisinsk vurdering har hun nå...",
-      "image": "https://images.unsplash.com/photo-1659424766030-385d22f8b0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2NDcyMDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/kronprinsessen-pa-liste-for-lungetransplantasjon-1.17909450",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-05T08:13:26.677Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780647205044.245,
-      "title": "Prinsesse Ingrid Alexandra på utveksling fra universitetet i Sydney til Universitetet i Oslo",
-      "slug": "prinsesse-ingrid-alexandra-p-utveksling-fra-universitetet-i-",
-      "content": "For å kunne være nærmere familien sin, har Hennes Kongelige Høyhet Prinsesse Ingrid Alexandra reist tilbake til Norge, og vil være på utveksling fra Universitetet i Sydney til Universitetet i Oslo høstsemesteret 2026, heter det i en pressemelding fra kongehuset.",
-      "excerpt": "For å kunne være nærmere familien sin, har Hennes Kongelige Høyhet Prinsesse Ingrid Alexandra reist tilbake til Norge, og vil være på utveksling fra Universitetet i Sydney til Universitetet i Oslo høstsemesteret 2026, heter det i en pressemelding fra kongehuset.",
-      "image": "https://images.unsplash.com/photo-1719412625724-bc03ed4dcf0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2NDcyMDR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/prinsesse-ingrid-alexandra-pa-utveksling-fra-universitetet-i-sydney-til-universitetet-i-oslo-1.17909377",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-05T08:13:25.044Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1616,
+    "totalFetched": 1619,
     "totalPublished": 77,
-    "lastFetch": "2026-06-07T17:19:23.645Z",
+    "lastFetch": "2026-06-07T19:25:52.392Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
