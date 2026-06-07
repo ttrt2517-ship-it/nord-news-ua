@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1780805344233.859,
+      "title": "Utforkjøring i Troms",
+      "slug": "utforkjring-i-troms",
+      "content": "Nødetatene rykket lørdag kveld ut til et ulykkessted nord i Troms etter at en bil kjørte av veien.\n\nPolitiet beskriver ulykken som alvorlig.  Klokken 23.45 opplyste operasjonsleder Øyvind Mevåg i Troms politidistrikt at én person er bevisstløs.  I en oppdatering ved 1-tiden opplyser Mevåg at alle de tre som var i bilen, er fløyet til Tromsø med helikopter.\n\nEn av dem fremstår som livstruende skadet, mens de andre skal være utenfor livsfare.\n\nTo av de involverte er under 18 år gamle, mens den tredje er i 20-årene. Det skal ikke ha vært andre kjøretøy involvert i ulykken.",
+      "excerpt": "Nødetatene rykket lørdag kveld ut til et ulykkessted nord i Troms etter at en bil kjørte av veien.\n\nPolitiet beskriver ulykken som alvorlig.  Klokken 23.45 opplyste operasjonsleder Øyvind Mevåg i Troms politidistrikt at én person er bevisstløs.  I en oppdatering ved 1-tiden opplyser Mevåg at alle...",
+      "image": "https://images.unsplash.com/photo-1734535880331-8d791417b835?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA4MDUzNDR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/utforkjoring-i-troms-1.17911243",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-07T04:09:04.233Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780805342537.0552,
+      "title": "Trafikkulykken i Skjervøy: To utenfor livsfare",
+      "slug": "trafikkulykken-i-skjervy-to-utenfor-livsfare",
+      "content": "To personer som var i bilen som var i bilen som kjørte av veien i Skjervøy er utenfor livsfare.\n\nDet sier operasjonsleder i Troms politidistrikt, Øyvind Mevåg, til NRK.\n\nEn tredje person skal være livstruende skadet etter trafikkulykken.\n\nAlle tre ble sendt til Universitetssykehuset Nord-Norge (UNN) i Tromsø etter ulykken med luftambulanse.\n\nDet skal ikke ha vært noen andre kjøretøy involvert i ulykken.",
+      "excerpt": "To personer som var i bilen som var i bilen som kjørte av veien i Skjervøy er utenfor livsfare.\n\nDet sier operasjonsleder i Troms politidistrikt, Øyvind Mevåg, til NRK.\n\nEn tredje person skal være livstruende skadet etter trafikkulykken.\n\nAlle tre ble sendt til Universitetssykehuset Nord-Norge...",
+      "image": "https://images.unsplash.com/photo-1771418711120-0a09a59f07b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA4MDUzNDJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/trafikkulykken-i-skjervoy_-to-utenfor-livsfare-1.17911254",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-07T04:09:02.537Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780787130112.2407,
       "title": "Savnet etter kanovelt i Sarpsborg",
       "slug": "savnet-etter-kanovelt-i-sarpsborg",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-06-04T16:54:56.850Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780592095085.0642,
-      "title": "Tyskland: Ber om livstid for tiltalt i angrep mot julemarked",
-      "slug": "tyskland-ber-om-livstid-for-tiltalt-i-angrep-mot-julemarked",
-      "content": "Påtalemyndigheten i Tyskland ba torsdag om at mannen som er tiltalt for angrepet på et julemarked i Magdeburg i 2024, dømmes til livstid i fengsel.\n\nSeks mennesker ble drept da mannen kjørte en bil inn i folkemengden på markedet 20. desember 2024. Hundrevis av mennesker ble skadd. Mannen er også tiltalt for 338 drapsforsøk.\n\nAktor mener angrepet «ble planlagt lenge i forveien», og de ba derfor domstolen dømme den tiltalte til strengest mulig straff.",
-      "excerpt": "Påtalemyndigheten i Tyskland ba torsdag om at mannen som er tiltalt for angrepet på et julemarked i Magdeburg i 2024, dømmes til livstid i fengsel.\n\nSeks mennesker ble drept da mannen kjørte en bil inn i folkemengden på markedet 20. desember 2024. Hundrevis av mennesker ble skadd. Mannen er også...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/tyskland_-ber-om-livstid-for-tiltalt-i-angrep-mot-julemarked-1.17908879",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-04T16:54:55.085Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780592093391.6636,
-      "title": "Trump vil gi millioner i støtte til kullindustrien",
-      "slug": "trump-vil-gi-millioner-i-sttte-til-kullindustrien",
-      "content": "Ifølge kilden planlegger USAs president Donald Trump å bruke ytterligere 700 millioner dollar, drøyt 6,5 milliarder kroner, for å holde liv i den forurensende kullindustrien.\n\nDette akter Trump angivelig å gjøre med henvisning til forsvarsproduksjonsloven fra 1950 som gir presidenter vide fullmakter over næringer knyttet til nasjonal sikkerhet.\n\nDen siste støttepakken skal gå til 13 kullkraftverk rundt omkring i USA, samt til bygging av nye kraftverk i Alaska og West Virginia.\n\nPengene skal også bidra til å restarte et kullkraftverk i Maryland og støtte bygging av en lenge forsinket terminal for eksport av kull i Oakland i California.\n\nDet er ventet at Trump kommer med en kunngjøring torsdag kveld.\n\nSatsingen på kullkraft kommer samtidig med kutt i støtten til fornybar energi.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nKullkraft\n\nG7-landene, som består av USA, Canada, Japan, Storbritannia, Frankrike, Italia og Tyskland, er enige om å avvikle all statsstøtte til kullkraftverk i løpet av 2021.\n\nKlima og miljø\n\nVerden opplever allerede klimaendringene, slår FNs klimapanel fast. Mer ekstremvær, høyere havnivå og økte helseproblemer er noen av konsekvensene, ifølge deres siste hovedrapport.",
-      "excerpt": "Ifølge kilden planlegger USAs president Donald Trump å bruke ytterligere 700 millioner dollar, drøyt 6,5 milliarder kroner, for å holde liv i den forurensende kullindustrien.\n\nDette akter Trump angivelig å gjøre med henvisning til forsvarsproduksjonsloven fra 1950 som gir presidenter vide...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump-vil-gi-millioner-i-stotte-til-kullindustrien-1.17908909",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-04T16:54:53.391Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1603,
+    "totalFetched": 1605,
     "totalPublished": 77,
-    "lastFetch": "2026-06-06T23:05:32.687Z",
+    "lastFetch": "2026-06-07T04:09:06.549Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
