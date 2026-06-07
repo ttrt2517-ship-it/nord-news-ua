@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1780866939172.1797,
+      "title": "Trafikkulykke mellom elsparkesykkel og bil i Nittedal",
+      "slug": "trafikkulykke-mellom-elsparkesykkel-og-bil-i-nittedal",
+      "content": "En person er kjørt til Ullevål sykehus med alvorlige hodeskader, etter en trafikkulykke mellom elsparkesykkel og bil, i Stasjonsveien i Nittedal.\n\n– En person er bevisstløs og får helsehjelp, opplyste politiet da de først meldte om ulykken.\n\nTrafikk i Stor-Oslo\n\nEr du ute på veiene, eller sitter på toget, bussen, trikken eller T-banen?\nHold deg oppdatert på trafikken i Oslo og Akershus.",
+      "excerpt": "En person er kjørt til Ullevål sykehus med alvorlige hodeskader, etter en trafikkulykke mellom elsparkesykkel og bil, i Stasjonsveien i Nittedal.\n\n– En person er bevisstløs og får helsehjelp, opplyste politiet da de først meldte om ulykken.\n\nTrafikk i Stor-Oslo\n\nEr du ute på veiene, eller sitter på...",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/trafikkulykke-mellom-elsparkesykkel-og-bil-i-nittedal-1.17911715",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-07T21:15:39.172Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780860349908.932,
       "title": "Einigheit om revidert nasjonalbudsjett",
       "slug": "einigheit-om-revidert-nasjonalbudsjett",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-05T12:39:59.675Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780663197863.537,
-      "title": "Sier kronprinsessen blir ikke prioritert foran andre",
-      "slug": "sier-kronprinsessen-blir-ikke-prioritert-foran-andre",
-      "content": "– Vi prioriterer alltid den som er sykest, den som ikke har tid til å vente, sier overlege Arne Holm.\n\nHan sier sykehuset har retningslinjer for hvordan man skal prioritere.\n\n– Vi følger protokoll nøyaktig i dette tilfellet. Og i alle tilfeller. Grunnen til det er at det er det som er best. Det er ingen som er tjent med at vi improviserer eller gjør avvik fra denne protokollen, sier han.",
-      "excerpt": "– Vi prioriterer alltid den som er sykest, den som ikke har tid til å vente, sier overlege Arne Holm.\n\nHan sier sykehuset har retningslinjer for hvordan man skal prioritere.\n\n– Vi følger protokoll nøyaktig i dette tilfellet. Og i alle tilfeller. Grunnen til det er at det er det som er best. Det er...",
-      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2NjMxOTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/sier-kronprinsessen-blir-ikke-prioritert-foran-andre-1.17909960",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-05T12:39:57.863Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1619,
+    "totalFetched": 1620,
     "totalPublished": 77,
-    "lastFetch": "2026-06-07T19:25:52.392Z",
+    "lastFetch": "2026-06-07T21:15:41.746Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
