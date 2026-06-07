@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1780840626423.9155,
+      "title": "TV 2: Kronprinsesse Mette-Marit og kronprins Haakon er på besøk i Oslo fengsel",
+      "slug": "tv-2-kronprinsesse-mettemarit-og-kronprins-haakon-er-p-besk-",
+      "content": "Søndag ettermiddag er kronprinsesse Mette-Marit og kronprins Haakon på besøk hos Marius Borg Høiby i Oslo fengsel, melder TV 2.\n\nHøiby har sete i varetekt i fengselet sidan byrjinga av februar.\n\nLaurdag vart det kjend at Høiby ikkje får lov til å delta på eit møte utanfor fengselet om kronprinsessa sin helsesituasjon.\n\nKriminalomsorgen har gitt grønt lys til at han kan bli framstilt for eit slikt møte. Framstilling vil seie at ein innsett, i følge av fengselsbetjentar, slepp ut av fengsel i ein avgrensa periode.",
+      "excerpt": "Søndag ettermiddag er kronprinsesse Mette-Marit og kronprins Haakon på besøk hos Marius Borg Høiby i Oslo fengsel, melder TV 2.\n\nHøiby har sete i varetekt i fengselet sidan byrjinga av februar.\n\nLaurdag vart det kjend at Høiby ikkje får lov til å delta på eit møte utanfor fengselet om kronprinsessa...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/tv-2_-kronprinsesse-mette-marit-og-kronprins-haakon-er-pa-besok-i-oslo-fengsel-1.17911562",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-07T13:57:06.423Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780832972391.6445,
       "title": "Bellona mangler 4 millioner",
       "slug": "bellona-mangler-4-millioner",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-05T03:58:56.829Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780614630749.6401,
-      "title": "Trump vil ha sin egen promenade i hovedstaden",
-      "slug": "trump-vil-ha-sin-egen-promenade-i-hovedstaden",
-      "content": "Torsdag kunngjorde president Donald Trump planer om å bygge en gangvei, en såkalt promenade, til det ikoniske Lincoln-monumentet i Washington.\n\nPromenaden skal etter planen gå mellom den enorme marmorsøylen og Potomac-elven, og vil bære Trumps navn.\n\n– De ønsker å kalle det Trump-promenaden, sa han, uten å gå nærmere inn på hvem som ønsker det.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.",
-      "excerpt": "Torsdag kunngjorde president Donald Trump planer om å bygge en gangvei, en såkalt promenade, til det ikoniske Lincoln-monumentet i Washington.\n\nPromenaden skal etter planen gå mellom den enorme marmorsøylen og Potomac-elven, og vil bære Trumps navn.\n\n– De ønsker å kalle det Trump-promenaden, sa...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump-vil-ha-sin-egen-promenade-i-hovedstaden-1.17909068",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-04T23:10:30.749Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1611,
+    "totalFetched": 1612,
     "totalPublished": 77,
-    "lastFetch": "2026-06-07T11:49:34.533Z",
+    "lastFetch": "2026-06-07T13:57:09.143Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
