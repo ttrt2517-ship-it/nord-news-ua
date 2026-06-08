@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1780955463123.7214,
+      "title": "Minst seks drept i israelske angrep i Gaza",
+      "slug": "minst-seks-drept-i-israelske-angrep-i-gaza",
+      "content": "Minst seks personer ble mandag drept i flere israelske angrep på Gazastripen. Blant de drepte er en åtte år gammel gutt, opplyser lokale helsemyndigheter, ifølge NTB.\n\nSamtidig melder nyhetsbyrået Reuters at den israelske hæren utvider området de okkuperer i Gaza.\n\nDet israelske militæret har foreløpig ikke kommentert mandagens angrep.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
+      "excerpt": "Minst seks personer ble mandag drept i flere israelske angrep på Gazastripen. Blant de drepte er en åtte år gammel gutt, opplyser lokale helsemyndigheter, ifølge NTB.\n\nSamtidig melder nyhetsbyrået Reuters at den israelske hæren utvider området de okkuperer i Gaza.\n\nDet israelske militæret har...",
+      "image": "https://images.unsplash.com/photo-1737798388229-2524c7777c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA5NTU0NjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/minst-seks-drept-i-israelske-angrep-i-gaza-1.17913215",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-08T21:51:03.123Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780955461397.714,
+      "title": "Minst 12 drept i israelske angrep i Libanon",
+      "slug": "minst-12-drept-i-israelske-angrep-i-libanon",
+      "content": "Minst fem personer ble drept i et nytt israelsk angrep mot byen Tyr i Sør-Libanon mandag kveld, opplyser det libanesiske helsedepartementet, melder NTB.\n\nAngrepet skjedde etter at Israel lovet å fortsette kampene mot Hizbollah-militsen, til tross for advarsler fra Iran. Tidligere mandag ble også sju personer, blant dem et barn, drept i et annet israelsk angrep i regionen. Søndag ble i tillegg et av Unescos verdensarvsteder i Tyr skadet i et angrep, ifølge Libanons kulturdepartement.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Minst fem personer ble drept i et nytt israelsk angrep mot byen Tyr i Sør-Libanon mandag kveld, opplyser det libanesiske helsedepartementet, melder NTB.\n\nAngrepet skjedde etter at Israel lovet å fortsette kampene mot Hizbollah-militsen, til tross for advarsler fra Iran. Tidligere mandag ble også...",
+      "image": "https://images.unsplash.com/photo-1777160191500-c86e28985fa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA5NTU0NjF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/minst-12-drept-i-israelske-angrep-i-libanon-1.17913234",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-08T21:51:01.397Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1780955459746.2324,
+      "title": "Trump advarte Netanyahu mot Iran-krig",
+      "slug": "trump-advarte-netanyahu-mot-irankrig",
+      "content": "USA-president Donald Trump advarer Israels statsminister Benjamin Netanyahu om at Israel risikerer å måtte kjempe alene dersom landet går til krig mot Iran igjen. Det sa Trump i et intervju med det amerikanske nyhetsnettstedet Axios, publisert mandag.\n\nIfølge Axios skal Trump ha sagt direkte til Netanyahu: «Bibi, du bør være forsiktig, ellers står du alene veldig snart». Uttalelsen kommer etter at spenningen mellom Israel og Iran har økt kraftig de siste dagene.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "USA-president Donald Trump advarer Israels statsminister Benjamin Netanyahu om at Israel risikerer å måtte kjempe alene dersom landet går til krig mot Iran igjen. Det sa Trump i et intervju med det amerikanske nyhetsnettstedet Axios, publisert mandag.\n\nIfølge Axios skal Trump ha sagt direkte til...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-advarte-netanyahu-mot-iran-krig-1.17913235",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-08T21:50:59.746Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1780934189236.238,
       "title": "Summer travel in Norway threatened by potential airport and airline strikes",
       "slug": "summer-travel-in-norway-threatened-by-potential-airport-and-",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-06T03:41:01.398Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780717259788.112,
-      "title": "Flyalarm i Bahrain",
-      "slug": "flyalarm-i-bahrain",
-      "content": "Flyalarmen har gått i Bahrain, opplyser landets innenriksdepartement på meldingstjenesten X.\n\n– Flyalarmen har gått. Folk bes om å forholde seg rolig å dra til et sikkert sted i nærheten, skriver myndighetene i uttalelsen.\n\nDet er ikke kjent hva flyalarmen skyldes. Litt tidligere natt til lørdag meldte kuwaitiske myndigheter om luftvernet var aktivert for å avskjære missil- og droneangrep.\n\nBåde Bahrain og Kuwait har nylig blitt utsatt for luftangrep fra Iran.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
-      "excerpt": "Flyalarmen har gått i Bahrain, opplyser landets innenriksdepartement på meldingstjenesten X.\n\n– Flyalarmen har gått. Folk bes om å forholde seg rolig å dra til et sikkert sted i nærheten, skriver myndighetene i uttalelsen.\n\nDet er ikke kjent hva flyalarmen skyldes. Litt tidligere natt til lørdag...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/flyalarm-i-bahrain-1.17910628",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-06T03:40:59.788Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780717258286.3904,
-      "title": "Russland: Nytt ukrainsk angrep mot St. Petersburg",
-      "slug": "russland-nytt-ukrainsk-angrep-mot-st-petersburg",
-      "content": "Russisk forsvar skal ha skutt ned 25 droner i regionen rundt St. Petersburg i natt til lørdag.\n\nDet opplyser regionens guvernør, Aleksandr Drozdenko, på meldingstjenesten Telegram, melder AFP.\n\nDroneangrepet samtidig som russiske myndigheter arrangerer et stort og viktig økonomisk forum i byen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Russisk forsvar skal ha skutt ned 25 droner i regionen rundt St. Petersburg i natt til lørdag.\n\nDet opplyser regionens guvernør, Aleksandr Drozdenko, på meldingstjenesten Telegram, melder AFP.\n\nDroneangrepet samtidig som russiske myndigheter arrangerer et stort og viktig økonomisk forum i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russland_-nytt-ukrainsk-angrep-mot-st.-petersburg-1.17910632",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-06T03:40:58.286Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780701098668.117,
-      "title": "NRK erfarer: Budsjettforhandlinger fortsetter på overtid",
-      "slug": "nrk-erfarer-budsjettforhandlinger-fortsetter-p-overtid",
-      "content": "Forhandlingene om revidert nasjonalbudsjett på Stortinget pågikk fortsatt etter midnatt natt til lørdag.\n\nEtter det NRK får opplyst er det fortsatt avstand mellom Arbeiderpartiet, SV, Rødt, Senterpartiet og MDG, som utgjør budsjettflertallet.\n\nDet krevende er særlig diskusjonen om klimatiltak, fortsatt støtte til havvind og hvor store pengebeløp som må til for å få til en avtale.",
-      "excerpt": "Forhandlingene om revidert nasjonalbudsjett på Stortinget pågikk fortsatt etter midnatt natt til lørdag.\n\nEtter det NRK får opplyst er det fortsatt avstand mellom Arbeiderpartiet, SV, Rødt, Senterpartiet og MDG, som utgjør budsjettflertallet.\n\nDet krevende er særlig diskusjonen om klimatiltak...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/nrk-erfarer_-budsjettforhandlinger-fortsetter-pa-overtid-1.17910613",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-05T23:11:38.668Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1631,
+    "totalFetched": 1634,
     "totalPublished": 77,
-    "lastFetch": "2026-06-08T18:28:25.953Z",
+    "lastFetch": "2026-06-08T21:51:04.603Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
