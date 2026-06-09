@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1781047054040.4595,
+      "title": "Mann til sykehus etter trafikkulykke på Hitra",
+      "slug": "mann-til-sykehus-etter-trafikkulykke-p-hitra",
+      "content": "En mann i 20-årene er fraktet til sykehus med luftambulanse, mens passasjeren er kjørt til sykehus med ambulanse etter en singelulykke på Hitra i Trøndelag tirsdag kveld.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "En mann i 20-årene er fraktet til sykehus med luftambulanse, mens passasjeren er kjørt til sykehus med ambulanse etter en singelulykke på Hitra i Trøndelag tirsdag kveld.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "image": "https://images.unsplash.com/photo-1717331758759-5272fffa204f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEwNDcwNTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-til-sykehus-etter-trafikkulykke-pa-hitra-1.17914714",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-09T23:17:34.041Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781041732422.2278,
       "title": "Krisemøte i Helse Stavanger etter knusende dom",
       "slug": "krisemte-i-helse-stavanger-etter-knusende-dom",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-07T09:15:51.891Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780823750423.573,
-      "title": "Russisk drone skal ha truffet lager for atomavfall",
-      "slug": "russisk-drone-skal-ha-truffet-lager-for-atomavfall",
-      "content": "En russisk drone skal ha truffet et lager for radioaktivt avfall nær Tsjornobyl, ifølge ukrainske myndigheter.\n\nDet skal ikke være påvist økt stråling som følge av angrepet.\n\nRepresentanter for Det internasjonale atomenergibyrået (IAEA) gjør undersøkelser på stedet.\n\nPresident Volodomyr Zelenskyj beskriver angrepet som «nedrig».\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "En russisk drone skal ha truffet et lager for radioaktivt avfall nær Tsjornobyl, ifølge ukrainske myndigheter.\n\nDet skal ikke være påvist økt stråling som følge av angrepet.\n\nRepresentanter for Det internasjonale atomenergibyrået (IAEA) gjør undersøkelser på stedet.\n\nPresident Volodomyr Zelenskyj...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russisk-drone-skal-ha-truffet-lager-for-atomavfall-1.17911282",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-07T09:15:50.423Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1655,
+    "totalFetched": 1656,
     "totalPublished": 77,
-    "lastFetch": "2026-06-09T21:48:53.825Z",
+    "lastFetch": "2026-06-09T23:17:36.138Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
