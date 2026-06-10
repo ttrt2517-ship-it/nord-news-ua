@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1781079073676.9558,
+      "title": "Mann pågrepet etter knivstikking på Rjukan",
+      "slug": "mann-pgrepet-etter-knivstikking-p-rjukan",
+      "content": "En mann er siktet for kroppsskade etter at en mann i 20-årene ble knivstukket på Rjukan mandag kveld.\n\nDet var opplysninger fra vitner og undersøkelser i området som førte til at den siktede mannen ble pågrepet i en leilighet på Rjukan, opplyser politifullmektig Bård Tangen Nilsson i Sør-Øst politidistrikt.\n\nDen siktede mannen er foreløpig ikke avhørt. Politiet jobber med å kartlegge hendelsesforløpet og ønsker å finne ut om det er noen relasjon mellom de involverte.\n\nPolitiet håper det er mulig å gjennomføre et avhør med den fornærmede mannen i dag.\n\nHendelsen skjedde utenfor en dagligvarebutikk ved 22.10-tiden mandag kveld. Fornærmede ble sendt til sykehus med sårskader i mageregionen.",
+      "excerpt": "En mann er siktet for kroppsskade etter at en mann i 20-årene ble knivstukket på Rjukan mandag kveld.\n\nDet var opplysninger fra vitner og undersøkelser i området som førte til at den siktede mannen ble pågrepet i en leilighet på Rjukan, opplyser politifullmektig Bård Tangen Nilsson i Sør-Øst...",
+      "image": "https://images.unsplash.com/photo-1679996584558-514d267a8a29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEwNzkwNzN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/mann-pagrepet-etter-knivstikking-pa-rjukan-1.17914858",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-10T08:11:13.676Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781079071967.2434,
+      "title": "Dørene på Nasjonalgalleriet åpnes igjen til høsten",
+      "slug": "drene-p-nasjonalgalleriet-pnes-igjen-til-hsten",
+      "content": "For første gang på over seks år skal dørene på Nasjonalgalleriet igjen åpnes på fast basis.\n\n– Vi skal fylle Nasjonalgalleriet med kunst, kulturelle opplevelser, live-musikk og samvær, sier Espen Øksby.\n\nHan er styreleder i i Analogue og daglig leder i Nasjonalgalleriet Drift AS som sammen skal leie bygget av Statsbygg.\n\nDermed blir det en komersiell driver i de historiske lokalene. Øksby sier de vil komme med mer detaljer etter hvert, men avslører at det er planer om å gjennoppta kafeen i Den franske sal.\n\n– Vi trenger litt tid på å komme i hus. Men vi regner med at de første aktivitetene kommer i oktober, forteller Øksby\n\nHuset har stort sett stått tomt etter flyttingen til det nye Nasjonalmuseet ved Aker brygge i 2019.\n\n– Vi er ikke så veldig opptatt av at alt skal være så strøkent, på en måte. Rommene og bygget i seg selv er vakre nok til å kunne huse fin kunst og kultur.",
+      "excerpt": "For første gang på over seks år skal dørene på Nasjonalgalleriet igjen åpnes på fast basis.\n\n– Vi skal fylle Nasjonalgalleriet med kunst, kulturelle opplevelser, live-musikk og samvær, sier Espen Øksby.\n\nHan er styreleder i i Analogue og daglig leder i Nasjonalgalleriet Drift AS som sammen skal...",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/dorene-pa-nasjonalgalleriet-apnes-igjen-til-hosten-1.17915003",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-10T08:11:11.967Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781079070200.3296,
+      "title": "Telenor kjøper bredbåndsaktør til 2,5 milliarder kroner",
+      "slug": "telenor-kjper-bredbndsaktr-til-25-milliarder-kroner",
+      "content": "Telenor kjøper fiber- og bredbåndsaktøren Enivest for 2,5 milliarder kroner.\n\nOppkjøpet omfatter fibernettet og om lag 28.000 kunder på Vestlandet. Enivest skal foreløpig fortsette å operere som et eget selskap med dagens ledelse.\n\n– Dette er et viktig strategisk grep for Telenor. Vi fortsetter å investere i robust digital infrastruktur i Norge og har tydelige ambisjoner om å vokse på bredbåndsområdet, sier konsernsjef Benedicte Schilbred Fasmer i Telenor.",
+      "excerpt": "Telenor kjøper fiber- og bredbåndsaktøren Enivest for 2,5 milliarder kroner.\n\nOppkjøpet omfatter fibernettet og om lag 28.000 kunder på Vestlandet. Enivest skal foreløpig fortsette å operere som et eget selskap med dagens ledelse.\n\n– Dette er et viktig strategisk grep for Telenor. Vi fortsetter å...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/telenor-kjoper-bredbandsaktor-til-2_5-milliarder-kroner-1.17915050",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-10T08:11:10.200Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781063770408.9087,
       "title": "Alvorlig MC-ulykke i Suldal",
       "slug": "alvorlig-mculykke-i-suldal",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-07T15:26:36.467Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780840626423.9155,
-      "title": "TV 2: Kronprinsesse Mette-Marit og kronprins Haakon er på besøk i Oslo fengsel",
-      "slug": "tv-2-kronprinsesse-mettemarit-og-kronprins-haakon-er-p-besk-",
-      "content": "Søndag ettermiddag er kronprinsesse Mette-Marit og kronprins Haakon på besøk hos Marius Borg Høiby i Oslo fengsel, melder TV 2.\n\nHøiby har sete i varetekt i fengselet sidan byrjinga av februar.\n\nLaurdag vart det kjend at Høiby ikkje får lov til å delta på eit møte utanfor fengselet om kronprinsessa sin helsesituasjon.\n\nKriminalomsorgen har gitt grønt lys til at han kan bli framstilt for eit slikt møte. Framstilling vil seie at ein innsett, i følge av fengselsbetjentar, slepp ut av fengsel i ein avgrensa periode.",
-      "excerpt": "Søndag ettermiddag er kronprinsesse Mette-Marit og kronprins Haakon på besøk hos Marius Borg Høiby i Oslo fengsel, melder TV 2.\n\nHøiby har sete i varetekt i fengselet sidan byrjinga av februar.\n\nLaurdag vart det kjend at Høiby ikkje får lov til å delta på eit møte utanfor fengselet om kronprinsessa...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/tv-2_-kronprinsesse-mette-marit-og-kronprins-haakon-er-pa-besok-i-oslo-fengsel-1.17911562",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-07T13:57:06.423Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780832972391.6445,
-      "title": "Bellona mangler 4 millioner",
-      "slug": "bellona-mangler-4-millioner",
-      "content": "Mandag ble det kjent at miljøstiftelsen Bellona må skaffe til veie 8 millioner kroner innen en uke for å unngå konkurs. Miljøorganisasjonen opprettet en spleis for å samle inn penger.\n\nSiden har det ifølge organisasjonen blitt samlet inn knappe 4 millioner kroner fra over 4000 givere. Miljøstiftelsen er bare halvveis til målet dagen før fristen går.\n\nKlima og miljø\n\nVerden opplever allerede klimaendringene, slår FNs klimapanel fast. Mer ekstremvær, høyere havnivå og økte helseproblemer er noen av konsekvensene, ifølge deres siste hovedrapport.",
-      "excerpt": "Mandag ble det kjent at miljøstiftelsen Bellona må skaffe til veie 8 millioner kroner innen en uke for å unngå konkurs. Miljøorganisasjonen opprettet en spleis for å samle inn penger.\n\nSiden har det ifølge organisasjonen blitt samlet inn knappe 4 millioner kroner fra over 4000 givere....",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/bellona-mangler-4-millioner-1.17911384",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-07T11:49:32.391Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780832970878.501,
-      "title": "Jordras i Troms: – E6 blir stengt i lang tid",
-      "slug": "jordras-i-troms-e6-blir-stengt-i-lang-tid",
-      "content": "Det har gått jordras over E6 ved Nordnes i Kåfjord, melder politiet i Troms.\n\n– Det fremstår som om Huppaselva har gått over sine bredder og dratt med seg store jordmasser. Raset er ca 25-30 meter bredt og vil medføre at E6 blir stengt i lang tid fremover.\n\nPolitiet opplyser videre at det ikke er grunn til å tro at noen er tatt i raset.\n\n– Det er stor kødannelse på begge sider av raset. Politiet er på vei til stedet.\n\nEt jordras blokkerer E6 i Kåfjord, Troms. Veien blir stengt i lang tid, sier politiet.",
-      "excerpt": "Det har gått jordras over E6 ved Nordnes i Kåfjord, melder politiet i Troms.\n\n– Det fremstår som om Huppaselva har gått over sine bredder og dratt med seg store jordmasser. Raset er ca 25-30 meter bredt og vil medføre at E6 blir stengt i lang tid fremover.\n\nPolitiet opplyser videre at det ikke er...",
-      "image": null,
-      "original_url": "https://www.nrk.no/tromsogfinnmark/jordras-i-troms_-_-e6-blir-stengt-i-lang-tid-1.17911412",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-07T11:49:30.878Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1659,
+    "totalFetched": 1662,
     "totalPublished": 77,
-    "lastFetch": "2026-06-10T03:56:12.925Z",
+    "lastFetch": "2026-06-10T08:11:16.250Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
