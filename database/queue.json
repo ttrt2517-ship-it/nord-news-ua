@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1781096285361.5393,
+      "title": "Trump: Iran må betale prisen",
+      "slug": "trump-iran-m-betale-prisen",
+      "content": "– De har brukt for lang tid til å forhandle en avtale som ville vært bra for dem, skriver USAs president Donald Trump på Truth Social.\n\nHan skriver også at store deler av Irans millitære er ødelagt.\n\n– Iran er bare prat uten handling. Midtøstens bølle er død.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "– De har brukt for lang tid til å forhandle en avtale som ville vært bra for dem, skriver USAs president Donald Trump på Truth Social.\n\nHan skriver også at store deler av Irans millitære er ødelagt.\n\n– Iran er bare prat uten handling. Midtøstens bølle er død.\n\nKrigen i Midtøsten\n\n28. februar...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump_-iran-ma-betale-prisen-1.17915539",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-10T12:58:05.361Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781096283883.1296,
+      "title": "Nye angrep mot Libanon – 12 døde",
+      "slug": "nye-angrep-mot-libanon-12-dde",
+      "content": "12 personar er drepne i israelske angrep mot Sør-Libanon, melder AFP.\n\nByen Saida i Sør-Libanon har til no vore skåna for store angrep, men var hardt råka av angrepa onsdag, skriv NTB. Sayda husar den største palestinske flyktningleiren i Libanon.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "12 personar er drepne i israelske angrep mot Sør-Libanon, melder AFP.\n\nByen Saida i Sør-Libanon har til no vore skåna for store angrep, men var hardt råka av angrepa onsdag, skriv NTB. Sayda husar den største palestinske flyktningleiren i Libanon.\n\nLibanon og Israel\n\nAngrepene mellom Israel og...",
+      "image": "https://images.unsplash.com/photo-1669697051903-2d997f5f9fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEwOTYyODN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/nye-angrep-mot-libanon-_-12-dode-1.17915679",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-10T12:58:03.883Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781096282284.7512,
+      "title": "Dansk kvinne dømt til fengsel for svindel",
+      "slug": "dansk-kvinne-dmt-til-fengsel-for-svindel",
+      "content": "Ei dansk kvinne i 50-åra er dømt til fengsel i 2 år og 6 månader etter at ei eldre kvinne frå Romsdal blei svindla.\n\nHo er dømt for å ha medverka til ein millionsvindel, for å ha hevda ho var frå politiet og for å ha lurt den fornærma med til Tyrkia.\n\nHo er dømt for eit grovt bedrageri som gjeld tap eller fare for tap av nesten 4,6 millionar kroner.\n\nKvinna er også dømt for å ha medverka til å ta opp lån på rundt ein million i kvinna sitt namn.\n\nDette meiner politiet har skjedd som ledd i aktiviteten til ei organisert kriminell gruppe.\n\nRomsdalskvinna i 70-åra reiste til Tyrkia i den tru at ho samarbeida med politiet. No er ei dansk kvinne dømt til fengsel.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
+      "excerpt": "Ei dansk kvinne i 50-åra er dømt til fengsel i 2 år og 6 månader etter at ei eldre kvinne frå Romsdal blei svindla.\n\nHo er dømt for å ha medverka til ein millionsvindel, for å ha hevda ho var frå politiet og for å ha lurt den fornærma med til Tyrkia.\n\nHo er dømt for eit grovt bedrageri som gjeld...",
+      "image": null,
+      "original_url": "https://www.nrk.no/mr/dansk-kvinne-domt-til-fengsel-for-svindel-1.17915550",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-10T12:58:02.285Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781079073676.9558,
       "title": "Mann pågrepet etter knivstikking på Rjukan",
       "slug": "mann-pgrepet-etter-knivstikking-p-rjukan",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-07T17:19:21.924Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780852760427.616,
-      "title": "Motorsyklist skal ha kollidert med elg",
-      "slug": "motorsyklist-skal-ha-kollidert-med-elg",
-      "content": "Politiet har mottatt melding om en trafikkulykke på Selbuvegen. En motorsyklist skal ha kollidert med en elg.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "Politiet har mottatt melding om en trafikkulykke på Selbuvegen. En motorsyklist skal ha kollidert med en elg.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "image": "https://images.unsplash.com/photo-1567083843685-044886193ef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA4NTI3NjB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/trondelag/motorsyklist-skal-ha-kollidert-med-elg-1.17911682",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-07T17:19:20.427Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780845998214.968,
-      "title": "Fem drepne i israelsk angrep på Gazastripa",
-      "slug": "fem-drepne-i-israelsk-angrep-p-gazastripa",
-      "content": "Minst fem personar er drepne i eit israelsk luftangrep på ein politistasjon på Gazastripa, ifølgje sivilforsvaret i det palestinske området.\n\nNTB meler at opplysningane vert bekrefta av helsepersonell på Gazastripa.\n\nAngrepet ramma ein politistasjon rett ved ein teltleir for fordrivne familiar i Khan Younis.\n\nFleire enn femten personar vart såra, ifølgje helsepersonell.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
-      "excerpt": "Minst fem personar er drepne i eit israelsk luftangrep på ein politistasjon på Gazastripa, ifølgje sivilforsvaret i det palestinske området.\n\nNTB meler at opplysningane vert bekrefta av helsepersonell på Gazastripa.\n\nAngrepet ramma ein politistasjon rett ved ein teltleir for fordrivne familiar i...",
-      "image": "https://images.unsplash.com/photo-1750261346363-02105b564e45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA4NDU5OTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/fem-drepne-i-israelsk-angrep-pa-gazastripa-1.17911573",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-07T15:26:38.214Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780845996466.0037,
-      "title": "Noreg har evakuert 4000 ukrainarar",
-      "slug": "noreg-har-evakuert-4000-ukrainarar",
-      "content": "Sidan fullskalainnovasjonen av Ukraina starta i 2022, har Forsvaret gjennomført medisinsk evakuering av 4000 ukrainske pasientar og pårørande, opplyser forsvaret ifølgje Forsvarets forum.\n\nNærmare 3000 av desse er pasientar som har fått tilgang til naudsynt behandling i Noreg og andre europeiske land.\n\nArbeidet skjer i samband med EU og andre allierte land, og har vore ein sentral del av Europa si støtte til Ukraina. Evakueringa er med på å avlaste det ukrainske helsevesenet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Sidan fullskalainnovasjonen av Ukraina starta i 2022, har Forsvaret gjennomført medisinsk evakuering av 4000 ukrainske pasientar og pårørande, opplyser forsvaret ifølgje Forsvarets forum.\n\nNærmare 3000 av desse er pasientar som har fått tilgang til naudsynt behandling i Noreg og andre europeiske...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/noreg-har-evakuert-4000-ukrainarar-1.17911515",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-07T15:26:36.467Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1662,
+    "totalFetched": 1665,
     "totalPublished": 77,
-    "lastFetch": "2026-06-10T08:11:16.250Z",
+    "lastFetch": "2026-06-10T12:58:07.429Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
