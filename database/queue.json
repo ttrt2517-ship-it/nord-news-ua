@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1781063770408.9087,
+      "title": "Alvorlig MC-ulykke i Suldal",
+      "slug": "alvorlig-mculykke-i-suldal",
+      "content": "Nødetatene rykket onsdag morgen ut til fylkesvei 46 i Suldal i Rogaland etter melding om en alvorlig motorsykkelulykke.\n\n– Føreren er våken, men ulykken fremstår som alvorlig, opplyser operasjonsleder Jostein Jaarvik Reiestad i Sørvest politidistrikt.\n\nUlykken skjedde like før klokken 4.30 onsdag morgen.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
+      "excerpt": "Nødetatene rykket onsdag morgen ut til fylkesvei 46 i Suldal i Rogaland etter melding om en alvorlig motorsykkelulykke.\n\n– Føreren er våken, men ulykken fremstår som alvorlig, opplyser operasjonsleder Jostein Jaarvik Reiestad i Sørvest politidistrikt.\n\nUlykken skjedde like før klokken 4.30 onsdag...",
+      "image": "https://images.unsplash.com/photo-1611053307699-5f74280c0d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEwNjM3NzB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/alvorlig-mc-ulykke-i-suldal-1.17914759",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-10T03:56:10.408Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781063768675.0552,
+      "title": "Minst 13 drept i pakistanske angrep i Afghanistan",
+      "slug": "minst-13-drept-i-pakistanske-angrep-i-afghanistan",
+      "content": "Minst 13 mennesker er drept og 14 er såret etter pakistanske flyangrep i Afghanistan.\n\nDet opplyser Talibans talsperson Zabihullah Mujahid onsdag, skriver nyhetsbyrået Reuters.\n\nDet pakistanske forsvaret skal ha bombet mål i tre ulike afghanske provinser. Det har over lengre tid vært en svært spent situasjon mellom de to nabolandene, med mye uroligheter i områdene langs grensen.",
+      "excerpt": "Minst 13 mennesker er drept og 14 er såret etter pakistanske flyangrep i Afghanistan.\n\nDet opplyser Talibans talsperson Zabihullah Mujahid onsdag, skriver nyhetsbyrået Reuters.\n\nDet pakistanske forsvaret skal ha bombet mål i tre ulike afghanske provinser. Det har over lengre tid vært en svært spent...",
+      "image": "https://images.unsplash.com/photo-1737798388229-2524c7777c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEwNjM3Njh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/minst-13-drept-i-pakistanske-angrep-i-afghanistan-1.17914771",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-10T03:56:08.675Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781063767160.6484,
+      "title": "Fremstilles for varetekt etter knivangrep i Belfast",
+      "slug": "fremstilles-for-varetekt-etter-knivangrep-i-belfast",
+      "content": "En 30 år gammel mann som er siktet for drapsforsøk etter et knivangrep i Belfast framstilles for varetekt onsdag.\n\nHendelsen har utløst voldsomme opptøyer i den nordirske byen I går kveld ble politiet angrepet, og biler, hus og en buss ble satt i brann, ifølge BBC.\n\nDen siktede mannen er fra Sudan, men politiet opplyser at de ikke mistenker terror.\n\nDet har brutt ut opptøyer i den nord-irske hovedstaden etter at en mann i 40-årene ble alvorlig skadd etter å ha blitt angrepet av en sudansk innvandrer.",
+      "excerpt": "En 30 år gammel mann som er siktet for drapsforsøk etter et knivangrep i Belfast framstilles for varetekt onsdag.\n\nHendelsen har utløst voldsomme opptøyer i den nordirske byen I går kveld ble politiet angrepet, og biler, hus og en buss ble satt i brann, ifølge BBC.\n\nDen siktede mannen er fra Sudan...",
+      "image": "https://images.unsplash.com/photo-1539541995125-a7a54acd108b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEwNjM3Njd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fremstilles-for-varetekt-etter-knivangrep-i-belfast-1.17914780",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-10T03:56:07.161Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781047054040.4595,
       "title": "Mann til sykehus etter trafikkulykke på Hitra",
       "slug": "mann-til-sykehus-etter-trafikkulykke-p-hitra",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-07T11:49:30.878Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1780832969314.9714,
-      "title": "Gaute Skjervø tar ikke gjenvalg som AUF-leder",
-      "slug": "gaute-skjerv-tar-ikke-gjenvalg-som-aufleder",
-      "content": "– Jeg har landet på at min tid er over når AUFere fra hele landet samles til landsmøte i oktober. skriver Skjervø i et innegg på Facebook.\n\nSkjervø ble innvalgt i AUFs sentralstyre i 2018 og har vært nestleder i fire år og leder i to år.\n\nAUF\n\nArbeidernes Ungdomsfylking (AUF) er Arbeiderpartiets ungdomsorganisasjon. Organisasjonen ble dannet i 1927. Ina Langønes Libak fra Akershus ble valgt til leder i 2018, men tar ikke gjenvalg i 2020.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "– Jeg har landet på at min tid er over når AUFere fra hele landet samles til landsmøte i oktober. skriver Skjervø i et innegg på Facebook.\n\nSkjervø ble innvalgt i AUFs sentralstyre i 2018 og har vært nestleder i fire år og leder i to år.\n\nAUF\n\nArbeidernes Ungdomsfylking (AUF) er Arbeiderpartiets...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/gaute-skjervo-tar-ikke-gjenvalg-som-auf-leder-1.17911490",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-07T11:49:29.314Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780823753417.7932,
-      "title": "Russ falt ut av russebuss i Agder",
-      "slug": "russ-falt-ut-av-russebuss-i-agder",
-      "content": "En russ falt av en russebuss i Brattheiatunnelen på E18 i Lillesand i natt.\n\nIfølge politiet har russen trolig falt ut en av sidedørene på bussen.\n\n– Undersøkelser per nå tyder på at vedkommende kan ha falt ut av en sidedør, opplyser operasjonsleder Arve Johan Myklebust.\n\nPersonen ble fraktet til sykehuset i Kristiansand. Skadeomfanget er foreløpig ukjent.\n\nPatrulje har gjort undersøkelser og avhørt vitner. Det opprettes sak.",
-      "excerpt": "En russ falt av en russebuss i Brattheiatunnelen på E18 i Lillesand i natt.\n\nIfølge politiet har russen trolig falt ut en av sidedørene på bussen.\n\n– Undersøkelser per nå tyder på at vedkommende kan ha falt ut av en sidedør, opplyser operasjonsleder Arve Johan Myklebust.\n\nPersonen ble fraktet til...",
-      "image": "https://images.unsplash.com/photo-1599847741258-1cabea52f6d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA4MjM3NTN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/russ-falt-ut-av-russebuss-i-agder-1.17911270",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-07T09:15:53.417Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1780823751891.473,
-      "title": "Streik i butikkbransjen avverget",
-      "slug": "streik-i-butikkbransjen-avverget",
-      "content": "Handel og Kontor kom til enighet med NHO Service og Handel i butikkmeklingen.\n\nNHO Service og Handel kom til enighet med alle de tre arbeidstakerorganisasjonene i meklingene som gikk over ni timer på overtid søndag.\n\n– Det har vært tøffe forhandlinger, men vi er godt fornøyd med å levere det medlemmene forventer, sier forbundsleder i HK Norge, Christopher Beckham.\n\n– NHO Service og Handel er glade for at det ble enighet etter nesten ti timer på overtid, sier forhandlingsleder for NHO Service og Handel, Sigbjørn Mygland.\n\nMygland sier til NRK at det vanskeligste var å få på plass forskuttering av sykelønn, foreldre- og pleiepenger, og lønnsøkningene.",
-      "excerpt": "Handel og Kontor kom til enighet med NHO Service og Handel i butikkmeklingen.\n\nNHO Service og Handel kom til enighet med alle de tre arbeidstakerorganisasjonene i meklingene som gikk over ni timer på overtid søndag.\n\n– Det har vært tøffe forhandlinger, men vi er godt fornøyd med å levere det...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/streik-i-butikkbransjen-avverget-1.17911356",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-07T09:15:51.891Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1656,
+    "totalFetched": 1659,
     "totalPublished": 77,
-    "lastFetch": "2026-06-09T23:17:36.138Z",
+    "lastFetch": "2026-06-10T03:56:12.925Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
