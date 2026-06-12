@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1781259409711.6245,
+      "title": "Regjeringens nye plan: Økt stillingsprosent kan skaffe 22.000 årsverk i helsevesenet",
+      "slug": "regjeringens-nye-plan-kt-stillingsprosent-kan-skaffe-22000-r",
+      "content": "Regjeringen mener det enkelttiltaket som kan ha størst effekt for økt tilbud av arbeidskraft, er økt stillingsprosent for ansatte i helse- og omsorgstjenestene som i dag ikke arbeider i en fulltidsstilling.\n\n– Dersom stillingsprosenten øker med 10 prosent for alle alders- og utdanningsgrupper, kan det gi opptil 22.000 flere årsverk i 2040, sier helse- og omsorgsminister Jan Christian Vestre (Ap).\n\nForslaget er en del av Helsepersonellplan 2040 som tar for seg hvordan man skal møte mangelen på personell i helse- og omsorgstjenestene.",
+      "excerpt": "Regjeringen mener det enkelttiltaket som kan ha størst effekt for økt tilbud av arbeidskraft, er økt stillingsprosent for ansatte i helse- og omsorgstjenestene som i dag ikke arbeider i en fulltidsstilling.\n\n– Dersom stillingsprosenten øker med 10 prosent for alle alders- og utdanningsgrupper, kan...",
+      "image": "https://images.unsplash.com/photo-1733846049281-99b36f565e46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEyNTk0MDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/regjeringens-nye-plan_-okt-stillingsprosent-kan-skaffe-22.000-arsverk-i-helsevesenet-1.17918626",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-12T10:16:49.711Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781259407988.1204,
+      "title": "Bloomberg: USA og Iran kan signere avtale i helga",
+      "slug": "bloomberg-usa-og-iran-kan-signere-avtale-i-helga",
+      "content": "Det er venta at intensjonsavtalen mellom USA og Iran kan bli signert i forbindelse med G7-møtet i Evian i Frankrike, skriv Bloomberg.\n\nIfølge nyheitsbyrået er det forventa at signeringa kan skje i løpet av helga eller tidleg neste veke.\n\nGenève i Sveits blir nemnd som ein potensiell stad for sjølve underteikninga av avtalen.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Det er venta at intensjonsavtalen mellom USA og Iran kan bli signert i forbindelse med G7-møtet i Evian i Frankrike, skriv Bloomberg.\n\nIfølge nyheitsbyrået er det forventa at signeringa kan skje i løpet av helga eller tidleg neste veke.\n\nGenève i Sveits blir nemnd som ein potensiell stad for sjølve...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/bloomberg_-usa-og-iran-kan-signere-avtale-i-helga-1.17918593",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-12T10:16:47.988Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781259406378.7837,
+      "title": "Kunstnaren David Hockney er død",
+      "slug": "kunstnaren-david-hockney-er-dd",
+      "content": "Den britiske kunstnaren David Hockney er død 88 år gammal, opplyser agenten hans, Erica Bolton, ifølge AFP.\n\nHockney blir rekna som ein av dei mest innflytelsesrike og toneangivande kunstnarane innan samtidskunsten.\n\nBolten seier Hockney sovna fredfullt inn heime i London, ein månad før han skulle ha fylt 89 år.\n\nKunst\n\nNotiser, artikler, anmeldelser, omtale og innhold om kunstverk.",
+      "excerpt": "Den britiske kunstnaren David Hockney er død 88 år gammal, opplyser agenten hans, Erica Bolton, ifølge AFP.\n\nHockney blir rekna som ein av dei mest innflytelsesrike og toneangivande kunstnarane innan samtidskunsten.\n\nBolten seier Hockney sovna fredfullt inn heime i London, ein månad før han skulle...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/kunstnaren-david-hockney-er-dod-1.17918632",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-12T10:16:46.378Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781237483998.4434,
       "title": "Det blir ingen streik i anleggsbransjen",
       "slug": "det-blir-ingen-streik-i-anleggsbransjen",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-09T14:55:45.604Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781003873712.913,
-      "title": "Aasland ut mot Høyre: – Uforståelig og ufattelig",
-      "slug": "aasland-ut-mot-hyre-uforstelig-og-ufattelig",
-      "content": "Det blir i dag flertall for Høyre-forslag om å gjøre en ekstern kvalitetssikring av de økonomiske aspektene ved den norske satsingen på flytende havvind. Frp, KrF og Rødt støtter Høyres forslag.\n\n– Det er helt uforståelig og helt ufattelig at Høyre bidrar til å skape denne uforutsigbarheten, sa energiminister Terje Aasland (Ap) i debatten i Stortinget.\n\n– De må bære konsekvensen av forslaget sitt på sine skuldre, hvis det skulle gjøre at noen av de som utvikler dette, endrer oppfatning av stabiliteten og forutsigbarheten i Norge, sa statsråden.\n\nMen Høyres Nikolai Astrup er glad det blir flertall for forslaget.\n\n– Stortinget må faktisk kunne forvente at Finansdepartementet følger sine egne regler for store, statlige investeringsprosjekter. Ap må bære ansvaret for at de ikke selv har lagt frem den informasjonen, sier han til NRK.\n\nNo har Frp bestemt seg: saman med Høgre, KrF og Raudt vil dei sikre fleirtal for eit forslag som industri og fagrørsle fryktar vil gi full stopp for norsk satsing på havvind.",
-      "excerpt": "Det blir i dag flertall for Høyre-forslag om å gjøre en ekstern kvalitetssikring av de økonomiske aspektene ved den norske satsingen på flytende havvind. Frp, KrF og Rødt støtter Høyres forslag.\n\n– Det er helt uforståelig og helt ufattelig at Høyre bidrar til å skape denne uforutsigbarheten, sa...",
-      "image": "https://images.unsplash.com/photo-1714169399428-b4674bee4c81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEwMDM4NzN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/aasland-ut-mot-hoyre_-_-uforstaelig-og-ufattelig_-1.17913772",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-09T11:17:53.712Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781003872177.291,
-      "title": "Libanesisk by angrepet",
-      "slug": "libanesisk-by-angrepet",
-      "content": "Israelske krigsfly har tirsdag gjennomført et luftangrep mot den libanesiske kystbyen Tyr, hevder det statlige libanesiske nyhetsbyrået NNA.\n\nTidligere i dag sendte Israel en evakueringsordre til byen Tyr og andre byer i området. Angrepet skjedde kort tid etter.\n\nNyhetsbyrået AFP melder at de gjenværende innbyggerne flyktet raskt, og at det har vært store trafikkorker ut av byen.\n\nDette skjer dagen etter at Iran advarte om at de ville angripe Israel hvis de fortsatte angrepene mot Libanon.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Israelske krigsfly har tirsdag gjennomført et luftangrep mot den libanesiske kystbyen Tyr, hevder det statlige libanesiske nyhetsbyrået NNA.\n\nTidligere i dag sendte Israel en evakueringsordre til byen Tyr og andre byer i området. Angrepet skjedde kort tid etter.\n\nNyhetsbyrået AFP melder at de...",
-      "image": "https://images.unsplash.com/photo-1649872647782-0e875f9d9dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEwMDM4NzJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/libanesisk-by-angrepet--1.17913666",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-09T11:17:52.177Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781003870663.057,
-      "title": "Kommunene er ikke forberedt på eldrebølgen",
-      "slug": "kommunene-er-ikke-forberedt-p-eldreblgen",
-      "content": "Norske kommuner er ikke forberedt på den kommende eldrebølgen.\n\nDet konkluderer Riksrevisjonen med i en ny undersøkelse.\n\nDe har undersøkt kommunene for å se hvor godt forberedt de er på å håndtere eldrebølgen.\n\n– Det kan se ut som at noen tror at det er lenge til eldrebølgen kommer, men det stemmer ikke. Eldrebølgen er her nå, og norske kommuner er ikke forberedt, sier riksrevisor Karl Eirik Schjøtt-Pedersen.\n\nEn gjennomgang av 60 kommuner viser at flere mangler planer for fremtidig behov for sykehjemsplasser, omsorgsboliger og ansatte.\n\n70 prosent av kommunene oppgir at de mangler tid og ressurser til planleggingen.\n\nRiksrevisjonen\n\nRiksrevisjonen har i oppdrag å revidere den statlige forvaltningens regnskaper og oppgaveløsning, og er helt sentral i Stortingets kontroll av regjeringen og departementer. I 2022 ble Karl Eirik Schjøtt-Pedersen riksrevisor. (SNL.no)\n\nEldreomsorg i Noreg\n\nDebatten om eldreomsorg er igjen aktuell etter dokumentarserien «Omsorg bak lukkede dører». Her avdekker brennpunkt fleire kritikkverdige forhold i heimetenesta og ved sjukeheimar i Noreg.",
-      "excerpt": "Norske kommuner er ikke forberedt på den kommende eldrebølgen.\n\nDet konkluderer Riksrevisjonen med i en ny undersøkelse.\n\nDe har undersøkt kommunene for å se hvor godt forberedt de er på å håndtere eldrebølgen.\n\n– Det kan se ut som at noen tror at det er lenge til eldrebølgen kommer, men det...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kommunene-er-ikke-forberedt-pa-eldrebolgen--1.17913881",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-09T11:17:50.663Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1693,
+    "totalFetched": 1696,
     "totalPublished": 77,
-    "lastFetch": "2026-06-12T04:11:26.368Z",
+    "lastFetch": "2026-06-12T10:16:50.970Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
