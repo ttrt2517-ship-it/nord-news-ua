@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1781346687874.6677,
+      "title": "Nå fjernes navnet til Trump fra Kennedy Center",
+      "slug": "n-fjernes-navnet-til-trump-fra-kennedy-center",
+      "content": "Arbeidet er i gang med å fjerne Trump-navnet fra det ikoniske kulturhuset Kennedy Center i Washington.\n\nBygget har tidligere fått tilføyd president Donald Trumps navn, slik at navnet ble «Trump Kennedy Center». Dette har en dommer bestemt at er ulovlig, og han har beordret bokstavene fjernet.\n\nFredag opplyste Trump-administrasjonen at arbeidet med å fjerne bokstavene var utsatt på grunn av dårlig vær. Men lørdag melder nyhetsbyrået AP at arbeidet er i gang.\n\nEgentlig er kultursenteret oppkalt etter den demokratiske presidenten John F. Kennedy.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Arbeidet er i gang med å fjerne Trump-navnet fra det ikoniske kulturhuset Kennedy Center i Washington.\n\nBygget har tidligere fått tilføyd president Donald Trumps navn, slik at navnet ble «Trump Kennedy Center». Dette har en dommer bestemt at er ulovlig, og han har beordret bokstavene...",
+      "image": "https://images.unsplash.com/photo-1719412625724-bc03ed4dcf0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEzNDY2ODd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/na-fjernes-navnet-til-trump-fra-kennedy-center-1.17919707",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-13T10:31:27.874Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781346685919.1858,
+      "title": "Fem døde i flykrasj i India",
+      "slug": "fem-dde-i-flykrasj-i-india",
+      "content": "Fem personer omkom da et militært transportfly krasjet under landing på en base nordøst i India.\n\n– Det indiske luftforsvaret beklager dypt tapet av fem personer, heter det i en uttalelse fra militæret.\n\nUlykken skjedde i byen Jorhat i delstaten Assam. Det var et russisk Antonov An-32-fly som krasjet.",
+      "excerpt": "Fem personer omkom da et militært transportfly krasjet under landing på en base nordøst i India.\n\n– Det indiske luftforsvaret beklager dypt tapet av fem personer, heter det i en uttalelse fra militæret.\n\nUlykken skjedde i byen Jorhat i delstaten Assam. Det var et russisk Antonov An-32-fly som...",
+      "image": "https://images.unsplash.com/photo-1651009276328-dbba8f5dc783?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEzNDY2ODV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fem-dode-i-flykrasj-i-india-1.17919775",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-13T10:31:25.919Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781346684077.7275,
+      "title": "Mann antatt omkommet etter båtvelt i Valdres",
+      "slug": "mann-antatt-omkommet-etter-btvelt-i-valdres",
+      "content": "En mann i 40-årene fra Oslo er antatt omkommet etter at en båt kantret i et fiskevann i Sør-Aurdal i Valdres i natt.\n\nRedningsaksjonen er avsluttet. De pårørende er varslet.\n\n– Det er foretatt søk i vannet og i terrenget rundt med bistand fra Sivilforsvaret, brannvesenet og organiserte frivillige, skriver operasjonsleder Jannicke Silseth Eide i politiloggen.\n\n– Norsk Luftambulanse og redningshelikopter SAR Queen har gjort søk fra lufta. Politiet jobber med planlegging for søk etter antatt omkommet person.\n\nEin mann i 40-åra er sakna etter ein båtvelt i Sør-Aurdal i natt. Leiteaksjonen er nå avslutta",
+      "excerpt": "En mann i 40-årene fra Oslo er antatt omkommet etter at en båt kantret i et fiskevann i Sør-Aurdal i Valdres i natt.\n\nRedningsaksjonen er avsluttet. De pårørende er varslet.\n\n– Det er foretatt søk i vannet og i terrenget rundt med bistand fra Sivilforsvaret, brannvesenet og organiserte frivillige...",
+      "image": "https://images.unsplash.com/photo-1622795969840-9a906fe5a9b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEzNDY2ODN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-antatt-omkommet-etter-batvelt-i-valdres-1.17919811",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-13T10:31:24.078Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781337224046.3853,
       "title": "Én drept og tre såret i droneangrep mot russisk havneby",
       "slug": "n-drept-og-tre-sret-i-droneangrep-mot-russisk-havneby",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-10T17:22:15.899Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781112134245.4875,
-      "title": "Ni av ti europearar reknar ikkje USA som ein alliert",
-      "slug": "ni-av-ti-europearar-reknar-ikkje-usa-som-ein-alliert",
-      "content": "Fleirtalet i 15 europeiske land trur ikkje at amerikanarane vil kome dei til unnsetning dersom landet deira vert angripen.\n\nDet viser ei undersøking frå tenketanken European Council on Foreign Relations (ECFR).\n\n19481 personar frå 15 europeiske land svarte på undersøkinga. Av desse er det berre éin av ti som skildrar USA som ein alliert.\n\nHalvparten av respondentane ser ikkje på USA som ein alliert, men som ein «nødvendig partnar». I spesielt Danmark, Frankrike, Spania og Sveits ser fleire på USA som ein rival eller ein fiende.\n\nI dei fleste landa har tilliten gått ned over tid, utanom i Polen og Ungarn, der tillitsbrotet er eit nyare fenomen.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Fleirtalet i 15 europeiske land trur ikkje at amerikanarane vil kome dei til unnsetning dersom landet deira vert angripen.\n\nDet viser ei undersøking frå tenketanken European Council on Foreign Relations (ECFR).\n\n19481 personar frå 15 europeiske land svarte på undersøkinga. Av desse er det berre éin...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ni-av-ti-europearar-reknar-ikkje-usa-som-ein-alliert-1.17916115",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-10T17:22:14.245Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781112132599.5725,
-      "title": "Skatteetaten seier dei av avdekka omfattande og organisert kriminalitet – fem personar meldt til politiet",
-      "slug": "skatteetaten-seier-dei-av-avdekka-omfattande-og-organisert-k",
-      "content": "Skatteetaten meiner å ha avdekka omfattande og organisert kriminalitet etter å ha gjennomført fleire tusen frådragskontrollar.\n\nFem personar er til no meldt til politiet, men det kan bli fleire, skriv etaten i ei pressemelding.\n\n– Dette er ein av Skatteetaten sine mest alvorlege kontrollsaker på mange år, og me har avdekka omfattande skattekriminalitet. Me har funne feil i meir enn sju av ti av dei målretta kontrollane våre, seier skattedirektør Nina Schanke Funnemark.\n\nKontrollane har avdekka feilaktige frådrag på 1,9 milliardar kroner, noko som tilsvarar nærmare 420 millionar kroner i skattemessig verd.\n\n– Til no har me politimeldt fem personar som har fungert som tilretteleggarar og bidrege til at skattepliktige har levert feilaktige og fiktive frådrag, seier Funnemark.",
-      "excerpt": "Skatteetaten meiner å ha avdekka omfattande og organisert kriminalitet etter å ha gjennomført fleire tusen frådragskontrollar.\n\nFem personar er til no meldt til politiet, men det kan bli fleire, skriv etaten i ei pressemelding.\n\n– Dette er ein av Skatteetaten sine mest alvorlege kontrollsaker på...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/skatteetaten-seier-dei-av-avdekka-omfattande-og-organisert-kriminalitet-_-fem-personar-meldt-til-politiet-1.17916139",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-10T17:22:12.599Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781096285361.5393,
-      "title": "Trump: Iran må betale prisen",
-      "slug": "trump-iran-m-betale-prisen",
-      "content": "– De har brukt for lang tid til å forhandle en avtale som ville vært bra for dem, skriver USAs president Donald Trump på Truth Social.\n\nHan skriver også at store deler av Irans millitære er ødelagt.\n\n– Iran er bare prat uten handling. Midtøstens bølle er død.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "– De har brukt for lang tid til å forhandle en avtale som ville vært bra for dem, skriver USAs president Donald Trump på Truth Social.\n\nHan skriver også at store deler av Irans millitære er ødelagt.\n\n– Iran er bare prat uten handling. Midtøstens bølle er død.\n\nKrigen i Midtøsten\n\n28. februar...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump_-iran-ma-betale-prisen-1.17915539",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-10T12:58:05.361Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1714,
+    "totalFetched": 1717,
     "totalPublished": 77,
-    "lastFetch": "2026-06-13T07:53:46.890Z",
+    "lastFetch": "2026-06-13T10:31:29.093Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
