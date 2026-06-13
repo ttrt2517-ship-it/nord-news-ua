@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1781379557108.0083,
+      "title": "Politibil i trafikkulykke",
+      "slug": "politibil-i-trafikkulykke",
+      "content": "Ulykken skjedde i forbindelse med en politiutrykning, i krysset Vogts gate og Christian Michelsens gate på Torshov i Oslo.\n\n– Begge bilene er såpass skadet at de må taues inn, sier operasjonsleder Sven Christian Lie til NRK.\n\n– Det vil bli etterforsket av vår ulykkespatrulje i første omgang, og så muligens overtatt av Spesialenheten.\n\n– Det er uklart for oss. Det har skjedd under uttrykning.\n\n– Per nå vil det få litt trafikale utfordringer inntil vi har fått ryddet opp og fjernet bilene, men vi skal nok få trafikken til å gli.",
+      "excerpt": "Ulykken skjedde i forbindelse med en politiutrykning, i krysset Vogts gate og Christian Michelsens gate på Torshov i Oslo.\n\n– Begge bilene er såpass skadet at de må taues inn, sier operasjonsleder Sven Christian Lie til NRK.\n\n– Det vil bli etterforsket av vår ulykkespatrulje i første omgang, og så...",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/politibil-i-trafikkulykke-1.17920056",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-13T19:39:17.108Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781371498528.4617,
       "title": "Nordbytunnelen åpnet igjen – fortsatt lange køer i området",
       "slug": "nordbytunnelen-pnet-igjen-fortsatt-lange-ker-i-omrdet",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-11T04:09:44.796Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781150983247.7397,
-      "title": "Sju døde i eksplosjon i Kina",
-      "slug": "sju-dde-i-eksplosjon-i-kina",
-      "content": "Sju personer har mistet livet og 17 er skadet etter en eksplosjon sørvest i Kina, skriver nyhetsbyrået Reuters.\n\nEksplosjonen skjedde i Guangxi-regionen. De skadede er kjørt til sykehus, men ingen av dem skal ha livstruende skader.\n\nLokale myndigheter undersøker nå hva som har skjedd. De opplyser at de foreløpig ikke vet årsaken, men at det ikke skyldes feil på gassrør i området.\n\nKina\n\nKina er verdens nest mest folkerike land, og blant de eldste kontinuerlige sivilisasjonene i verden. Landet ledes av kommunistpartiet og president Xi Jinping, som er den første lederen siden formann Mao som har sittet i tre 5-årsperioder.",
-      "excerpt": "Sju personer har mistet livet og 17 er skadet etter en eksplosjon sørvest i Kina, skriver nyhetsbyrået Reuters.\n\nEksplosjonen skjedde i Guangxi-regionen. De skadede er kjørt til sykehus, men ingen av dem skal ha livstruende skader.\n\nLokale myndigheter undersøker nå hva som har skjedd. De opplyser...",
-      "image": "https://images.unsplash.com/photo-1697650041996-46f2ab2e415f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODExNTA5ODN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/sju-dode-i-eksplosjon-i-kina-1.17916378",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-11T04:09:43.248Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1723,
+    "totalFetched": 1724,
     "totalPublished": 77,
-    "lastFetch": "2026-06-13T17:24:59.822Z",
+    "lastFetch": "2026-06-13T19:39:19.469Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
