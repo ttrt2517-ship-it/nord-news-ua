@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1781359416598.7136,
+      "title": "Irans tidligere leder Ali Khamenei gravlegges 9. juli",
+      "slug": "irans-tidligere-leder-ali-khamenei-gravlegges-9-juli",
+      "content": "Ayatolla Ali Khamenei, som ble drept i et israelsk og amerikansk luftangrep mot Iran i morgentimene 28. februar, skal ta sin siste reise i juli.\n\nDa er det lagt opp til en flere dager lang begravelse i Iran, som begynner i Teheran 4. juli og konkluderer i hjembyens hans Mashhad 9. juli, når Khamenei legges i graven.\n\nDet melder iransk-statlige medier lørdag, ifølge Reuters.\n\nDrapet på Khamenei ble et startskudd for den pågående krigen mellom USA, Iran og Israel, som har pågått i flere måneder.\n\nSiden 8. mars er det Khameneis sønn Mojtaba Khamenei som har vært Irans øverste leder.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.",
+      "excerpt": "Ayatolla Ali Khamenei, som ble drept i et israelsk og amerikansk luftangrep mot Iran i morgentimene 28. februar, skal ta sin siste reise i juli.\n\nDa er det lagt opp til en flere dager lang begravelse i Iran, som begynner i Teheran 4. juli og konkluderer i hjembyens hans Mashhad 9. juli, når...",
+      "image": "https://images.unsplash.com/photo-1663610804918-c87cd25f6040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEzNTk0MTZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/irans-tidligere-leder-ali-khamenei-gravlegges-9.-juli-1.17919820",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-13T14:03:36.598Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781359414774.417,
+      "title": "Evakuerte i Kåfjord får flytte tilbake",
+      "slug": "evakuerte-i-kfjord-fr-flytte-tilbake",
+      "content": "De evakuerte etter jord- og flomskredet i Indre Nordnes i Kåfjord får flytte tilbake.\n\nDet bekrefter beredskapsrådgiver i Kåfjord kommune, Karin Karlsen til NRK.\n\nDe har vært evakuert siden skredet gikk natt til onsdag.\n\n– Den kommunale veien opp til boligene må ryddes, det er vi i gang med, påpeker hun.\n\nTidligere i dag var E6 i Indre Nordnes stengt. Da hadde Veitrafikksentralen mannskap på stedet for å sjekke ut forholdene i området ved elvenedløpet.\n\nTotalt sju personer ble evakuert. Seks av de bor fast i området, én person ble evakuert fra en fritidsbolig.",
+      "excerpt": "De evakuerte etter jord- og flomskredet i Indre Nordnes i Kåfjord får flytte tilbake.\n\nDet bekrefter beredskapsrådgiver i Kåfjord kommune, Karin Karlsen til NRK.\n\nDe har vært evakuert siden skredet gikk natt til onsdag.\n\n– Den kommunale veien opp til boligene må ryddes, det er vi i gang med...",
+      "image": null,
+      "original_url": "https://www.nrk.no/tromsogfinnmark/evakuerte-i-kafjord-far-flytte-tilbake-1.17919812",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-13T14:03:34.775Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781359413033.053,
+      "title": "Strømbrudd rammer Tusenfryd",
+      "slug": "strmbrudd-rammer-tusenfryd",
+      "content": "Strømmen gikk lørdag ettermiddag i et område i Ås kommune. Fornøyelsesparken Tusenfryd er rammet, og alle attraksjoner står stille.\n\nDet har ført til at folk blant annet må gå ned fra Tømmerrenna, forteller besøkende Magnus Bjørkås til VG.\n\nMarkedssjef Erik Røhne Andersen bekrefter overfor avisen at parken er berørt. De ansatte følger rutiner og standardprosedyre når strømmen blir borte, blant annet å få gjestene ut av karusellene, forteller han.\n\n– Alt blir startet opp igjen når strømmen kommer tilbake. Elvia jobber med saken, så det er det ikke noe særlig mye mer vi får gjort enn å vente til de har fått lokalisert strømbruddet, sier han.\n\nIfølge nettselskapet Elvia er et område rundt Tusenfryd omfattet av strømbruddet. 686 kunder er uten strøm, ifølge selskapets nettside.\n\nElvia melder på sin nettside at strømbruddet er kjent. Personell jobber med å lokalisere og rette feilen.",
+      "excerpt": "Strømmen gikk lørdag ettermiddag i et område i Ås kommune. Fornøyelsesparken Tusenfryd er rammet, og alle attraksjoner står stille.\n\nDet har ført til at folk blant annet må gå ned fra Tømmerrenna, forteller besøkende Magnus Bjørkås til VG.\n\nMarkedssjef Erik Røhne Andersen bekrefter overfor avisen...",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/strombrudd-rammer_tusenfryd-1.17919984",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-13T14:03:33.033Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781346687874.6677,
       "title": "Nå fjernes navnet til Trump fra Kennedy Center",
       "slug": "n-fjernes-navnet-til-trump-fra-kennedy-center",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-10T20:32:39.510Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781123557934.0308,
-      "title": "Forsvarsministeren: Enig i at det ikke går fort nok",
-      "slug": "forsvarsministeren-enig-i-at-det-ikke-gr-fort-nok",
-      "content": "– Vi er alle enige om at det ikke går fort nok, sier forsvarsminister Tore O. Sandvik som svar til forsvarssjef Eirik Kristoffersen som ikke fornøyd med beredskapen i Forsvaret.\n\nKristoffersen forteller om et tidspress og mangel på materiell og ammunisjon, på tross av store investeringer i Forsvaret.\n\nSandvik sier Stortinget nå skal vedta en forsterket langtidsplan, blant annet for å få opp industriproduksjonen knyttet til Forsvaret.",
-      "excerpt": "– Vi er alle enige om at det ikke går fort nok, sier forsvarsminister Tore O. Sandvik som svar til forsvarssjef Eirik Kristoffersen som ikke fornøyd med beredskapen i Forsvaret.\n\nKristoffersen forteller om et tidspress og mangel på materiell og ammunisjon, på tross av store investeringer i...",
-      "image": "https://images.unsplash.com/photo-1655802521623-03ffe99c95bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODExMjM1NTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/forsvarsministeren_-enig-i-at-det-ikke-gar-fort-nok-1.17916199",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-10T20:32:37.935Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781123556249.7795,
-      "title": "Paven velsignar Sagrada Familia: – Me kan ikkje tru på Jesus og promotere krig",
-      "slug": "paven-velsignar-sagrada-familia-me-kan-ikkje-tru-p-jesus-og-",
-      "content": "Pave Leo XIV var onsdag på plass i Barcelona for å velsigne det nye tårnet i basilikaen Sagrada Familia.\n\n– Me kan ikkje tru på Jesus og promotere krig. Me kan ikkje tru på Jesus og drepe uskuldige, sa paven frå talarstolen.\n\nPaven sitt besøk samantreff med 100-års jubileet av Gaudi sin død 10. juni 1926.\n\nBygginga av Sagrada Familia starta i 1882 og er framleis ikkje ferdig.",
-      "excerpt": "Pave Leo XIV var onsdag på plass i Barcelona for å velsigne det nye tårnet i basilikaen Sagrada Familia.\n\n– Me kan ikkje tru på Jesus og promotere krig. Me kan ikkje tru på Jesus og drepe uskuldige, sa paven frå talarstolen.\n\nPaven sitt besøk samantreff med 100-års jubileet av Gaudi sin død 10....",
-      "image": "https://images.unsplash.com/photo-1704323081531-2e28c0728a44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODExMjM1NTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/paven-velsignar-sagrada-familia_-_-me-kan-ikkje-tru-pa-jesus-og-promotere-krig-1.17916191",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-10T20:32:36.249Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781112135899.4822,
-      "title": "Bill Gates om Epstein-kopling: – Eg har aldri gjort nokon til offer",
-      "slug": "bill-gates-om-epsteinkopling-eg-har-aldri-gjort-nokon-til-of",
-      "content": "Microsoft-gründer Bill Gates sa onsdag at han «aldri har gjort nokon til offer», under utspørjinga i Representanthuset om koplingane sine til Jeffrey Epstein.\n\n– Eg har aldri vore vitne til eller hatt nokon indikasjon på at Epstein var involvert i pågåande kriminelle handlingar. Eg reiste aldri til øya hans, ranchen hans eller heimen hans i Florida. Eg har aldri gjort nokon til offer, seier Gates i høyringa, ifølgje AFP.\n\nGates sa under høyringa at han vart introdusert for Epstein i 2011, tre år etter at finansmannen sa seg skuldig i å ha kjøpt seksuelle tenester frå ein mindreårig.\n\n– Eg var klar over at Epstein tidlegare hadde hatt rettslege problem, men eg forstod ikkje omfanget av det han hadde gjort, seier Gates.\n\nEt nytt bilde viser Bill Gates i Thorbjørn Jaglands bolig i Europarådet. Gates ønsket seg fredsprisen, ifølge medier.\n\nJeffrey Epstein-saken\n\nUSAs justisdepartement har offentliggjort flere millioner dokumenter i etterforskingen av den overgrepsdømte milliardæren Jeffrey Epstein. Han var tiltalt for nye overgrep mot mindreårige og menneskehandel før han i 2019 tok livet sitt i fengsel.",
-      "excerpt": "Microsoft-gründer Bill Gates sa onsdag at han «aldri har gjort nokon til offer», under utspørjinga i Representanthuset om koplingane sine til Jeffrey Epstein.\n\n– Eg har aldri vore vitne til eller hatt nokon indikasjon på at Epstein var involvert i pågåande kriminelle handlingar. Eg reiste aldri til...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/bill-gates-om-epstein-kopling_-_-eg-har-aldri-gjort-nokon-til-offer--1.17916085",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-10T17:22:15.899Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1717,
+    "totalFetched": 1720,
     "totalPublished": 77,
-    "lastFetch": "2026-06-13T10:31:29.093Z",
+    "lastFetch": "2026-06-13T14:03:38.947Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
