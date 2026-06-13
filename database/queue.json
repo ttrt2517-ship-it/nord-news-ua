@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1781392057794.945,
+      "title": "47 ungdommer bortvist fra Rådhusplassen i Oslo",
+      "slug": "47-ungdommer-bortvist-fra-rdhusplassen-i-oslo",
+      "content": "Til sammen 47 personer ble bortvist av politiet på grunn av ordensforstyrrelser under VG-lista på Rådhusplassen i Oslo lørdag kveld.\n\nDe bortviste var stort sett mindreårige, ifølge oppdragsleder Martine Sanden Tørdal i Oslo politidistrikt.\n\nOm lag 20.000 tilskuere var til stede under arrangementet lørdag kveld. Politiet avsluttet sin innsats på stedet ved 23.30-tiden.",
+      "excerpt": "Til sammen 47 personer ble bortvist av politiet på grunn av ordensforstyrrelser under VG-lista på Rådhusplassen i Oslo lørdag kveld.\n\nDe bortviste var stort sett mindreårige, ifølge oppdragsleder Martine Sanden Tørdal i Oslo politidistrikt.\n\nOm lag 20.000 tilskuere var til stede under arrangementet...",
+      "image": "https://images.unsplash.com/photo-1625222700053-9e718e2981ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEzOTIwNTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/47-ungdommer-bortvist-fra-radhusplassen-i-oslo-1.17920215",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-13T23:07:37.794Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781379557108.0083,
       "title": "Politibil i trafikkulykke",
       "slug": "politibil-i-trafikkulykke",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-11T04:09:46.396Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781150984796.5876,
-      "title": "Høyrekandidat leder på målingene i Colombia",
-      "slug": "hyrekandidat-leder-p-mlingene-i-colombia",
-      "content": "Den colombianske ytre høyre-kandidaten Abelardo de la Espriella leder komfortabelt over venstresidens kandidat Ivan Cepeda, viser en måling ti dager før valget, skriver NTB.\n\nDe la Espriella får støtte fra 52,6 prosent av de spurte. Cepeda får 44,8 prosent på målingen fra meningsmålingsinstituttet AtlasIntel onsdag.",
-      "excerpt": "Den colombianske ytre høyre-kandidaten Abelardo de la Espriella leder komfortabelt over venstresidens kandidat Ivan Cepeda, viser en måling ti dager før valget, skriver NTB.\n\nDe la Espriella får støtte fra 52,6 prosent av de spurte. Cepeda får 44,8 prosent på målingen fra meningsmålingsinstituttet...",
-      "image": "https://images.unsplash.com/photo-1664790659991-11ae450bbea7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODExNTA5ODR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/hoyrekandidat-leder-pa-malingene-i-colombia-1.17916375",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-11T04:09:44.796Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1724,
+    "totalFetched": 1725,
     "totalPublished": 77,
-    "lastFetch": "2026-06-13T21:18:44.213Z",
+    "lastFetch": "2026-06-13T23:07:39.069Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
