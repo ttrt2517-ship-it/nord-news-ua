@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1781478642084.5518,
+      "title": "Luftangrep stanset over Kyiv - boligblokk i brann",
+      "slug": "luftangrep-stanset-over-kyiv-boligblokk-i-brann",
+      "content": "Ukrainsk luftforsvar har slått tilbake et luftangrep over hovedstaden Kyiv natt til mandag. Det opplyser byens ordfører, Vitali Klitschko, på meldingstjenesten Telegram.\n\nOrdføreren ba innbyggerne om å søke dekning i tilfluktsrom.\n\nEn boligblokk har begynt å brenne etter angrepet, i tillegg til flere biler som har blitt truffet av vrakrester fra droner som ble skutt ned, skriver nyhetsbyrået Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainsk luftforsvar har slått tilbake et luftangrep over hovedstaden Kyiv natt til mandag. Det opplyser byens ordfører, Vitali Klitschko, på meldingstjenesten Telegram.\n\nOrdføreren ba innbyggerne om å søke dekning i tilfluktsrom.\n\nEn boligblokk har begynt å brenne etter angrepet, i tillegg til...",
+      "image": "https://images.unsplash.com/photo-1632243392669-849a04b60780?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE0Nzg2NDJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/luftangrep-stanset-over-kyiv---boligblokk-i-brann-1.17920850",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-14T23:10:42.084Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781478640508.597,
+      "title": "Historisk kloster i brann etter angrep mot Kyiv",
+      "slug": "historisk-kloster-i-brann-etter-angrep-mot-kyiv",
+      "content": "Det kjente Huleklosteret i Kyiv brenner etter et luftangrep natt til mandag. Det opplyser byens ordfører, Vitali Klitschko, ifølge nyhetsbyrået Reuters.\n\nHuleklosteret, Kyiv Pechersk Lavra, står på UNESCOs verdensarvliste og er et av de viktigste historiske byggene i Ukraina. Ordføreren har foreløpig ikke delt detaljer om hvor store skadene på det gamle klosteret er.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Det kjente Huleklosteret i Kyiv brenner etter et luftangrep natt til mandag. Det opplyser byens ordfører, Vitali Klitschko, ifølge nyhetsbyrået Reuters.\n\nHuleklosteret, Kyiv Pechersk Lavra, står på UNESCOs verdensarvliste og er et av de viktigste historiske byggene i Ukraina. Ordføreren har...",
+      "image": "https://images.unsplash.com/photo-1742458498570-c5517f692b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE0Nzg2NDB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/historisk-kloster-i-brann-etter-angrep-mot-kyiv-1.17920851",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-14T23:10:40.508Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781478638892.0264,
+      "title": "Europeiske ledere: Klar til å heve sanksjoner mot Iran",
+      "slug": "europeiske-ledere-klar-til-heve-sanksjoner-mot-iran",
+      "content": "Storbritannia, Frankrike, Tyskland og Italia er klare til å oppheve aktuelle sanksjoner mot Iran som et svar på klare endringer i atomprogrammet.\n\nDet kommer fram i en felles uttalelse fra lederne i landene kjent som E4 natt til mandag, kort tid etter at både USA og Iran bekreftet at landene er kommet fram til en fredsavtale.\n\n- Iran må aldri skaffe seg atomvåpen. Vi står klare til å samarbeide med USA, Iran og IAEA om dette, heter det i uttalelsen.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Storbritannia, Frankrike, Tyskland og Italia er klare til å oppheve aktuelle sanksjoner mot Iran som et svar på klare endringer i atomprogrammet.\n\nDet kommer fram i en felles uttalelse fra lederne i landene kjent som E4 natt til mandag, kort tid etter at både USA og Iran bekreftet at landene er...",
+      "image": "https://images.unsplash.com/photo-1723390600988-37012f3e9b99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE0Nzg2Mzh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/europeiske-ledere_-klar-til-a-heve-sanksjoner-mot-iran-1.17920843",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-14T23:10:38.892Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781471681064.9492,
       "title": "Motstridende meldinger om luftromsrestriksjoner i Iran",
       "slug": "motstridende-meldinger-om-luftromsrestriksjoner-i-iran",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-12T10:16:47.988Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781259406378.7837,
-      "title": "Kunstnaren David Hockney er død",
-      "slug": "kunstnaren-david-hockney-er-dd",
-      "content": "Den britiske kunstnaren David Hockney er død 88 år gammal, opplyser agenten hans, Erica Bolton, ifølge AFP.\n\nHockney blir rekna som ein av dei mest innflytelsesrike og toneangivande kunstnarane innan samtidskunsten.\n\nBolten seier Hockney sovna fredfullt inn heime i London, ein månad før han skulle ha fylt 89 år.\n\nKunst\n\nNotiser, artikler, anmeldelser, omtale og innhold om kunstverk.",
-      "excerpt": "Den britiske kunstnaren David Hockney er død 88 år gammal, opplyser agenten hans, Erica Bolton, ifølge AFP.\n\nHockney blir rekna som ein av dei mest innflytelsesrike og toneangivande kunstnarane innan samtidskunsten.\n\nBolten seier Hockney sovna fredfullt inn heime i London, ein månad før han skulle...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kunstnaren-david-hockney-er-dod-1.17918632",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-12T10:16:46.378Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781237483998.4434,
-      "title": "Det blir ingen streik i anleggsbransjen",
-      "slug": "det-blir-ingen-streik-i-anleggsbransjen",
-      "content": "Det blir ingen streik for nær 7000 anleggsarbeidere. Natt til fredag ble NHO Byggenæringen og Norsk Arbeidsmandsforbund enige i lønnsforhandlingene, melder NTB.\n\nPartene kom til enighet klokken halv fire i natt etter en vanskelig mekling. De ansatte får et lønnstillegg på 6,50 kroner mer i timen. I tillegg har partene blitt enige om nye regler for utbetaling av sykepenger.",
-      "excerpt": "Det blir ingen streik for nær 7000 anleggsarbeidere. Natt til fredag ble NHO Byggenæringen og Norsk Arbeidsmandsforbund enige i lønnsforhandlingene, melder NTB.\n\nPartene kom til enighet klokken halv fire i natt etter en vanskelig mekling. De ansatte får et lønnstillegg på 6,50 kroner mer i timen. I...",
-      "image": "https://images.unsplash.com/photo-1440524984794-6e0aa2c476c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEyMzc0ODN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/det-blir-ingen-streik-i-anleggsbransjen-1.17918065",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-12T04:11:23.998Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781237482417.3948,
-      "title": "Førerkortbeslag for tre russebussjåfører",
-      "slug": "frerkortbeslag-for-tre-russebussjfrer",
-      "content": "Tre russebussjåfører mistet førerkortet natt til fredag etter at politiet avdekket at bussene hadde for mange passasjerer.\n\nPolitiet kontrollerte flere russebusser på Darbu i Øvre Eiker i 04:30-tiden.\n\nDen ene bussen var registrert for 26 passasjerer, men hadde 50 personer om bord.\n\nPolitiet bestemte i samråd med jourhavende jurist førerkortbeslag på tre av sjåførene.\n\nBussene blir stående på stedet, og russen måtte ordne transport fra stedet på egen hånd.\n\nPolitiet oppfordrer alle russebussjåfører om å tenke over faren ved å kjøre med for mange passasjerer hvis bussen må foreta en brå oppbremsing.\n\nTrafikk i Buskerud\n\nNRK gir deg de siste meldingene om trafikksituasjonen i Buskerud.",
-      "excerpt": "Tre russebussjåfører mistet førerkortet natt til fredag etter at politiet avdekket at bussene hadde for mange passasjerer.\n\nPolitiet kontrollerte flere russebusser på Darbu i Øvre Eiker i 04:30-tiden.\n\nDen ene bussen var registrert for 26 passasjerer, men hadde 50 personer om bord.\n\nPolitiet...",
-      "image": "https://images.unsplash.com/photo-1645546739057-2855e6900aef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEyMzc0ODJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/buskerud/forerkortbeslag-for-tre-russebussjaforer-1.17918090",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-12T04:11:22.417Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1741,
+    "totalFetched": 1744,
     "totalPublished": 77,
-    "lastFetch": "2026-06-14T21:14:43.825Z",
+    "lastFetch": "2026-06-14T23:10:43.911Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
