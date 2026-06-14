@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1781446921150.95,
+      "title": "Libanon: Tre drept i israelsk angrep mot Beirut",
+      "slug": "libanon-tre-drept-i-israelsk-angrep-mot-beirut",
+      "content": "Tre personer ble drept i et israelsk angrep mot hovedstaden Beirut søndag, sier det libanesiske sivilforsvaret, ifølge AFP.\n\nIsrael har uttalt at de har gjennomført angrep mot Hizbollah.\n\nAngrepene skjer mens USA og Iran er i sluttspurten av fredsforhandlinger. Libanon er alliert med Iran, og iranske forhandlere har vært tydelig på at angrep mot Libanon må opphøre dersom de skal signere noen fredsavtale.\n\nUSA og Israel var sammen om å innlede krigen mot Iran tidligere i år.\n\nDen iranske toppdiplomaten Mohammad Baqer Qalibaf sier i en uttalelse at angrepene mot Libanon viser USAs manglende vilje til å innfri sin del av avtalen.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
+      "excerpt": "Tre personer ble drept i et israelsk angrep mot hovedstaden Beirut søndag, sier det libanesiske sivilforsvaret, ifølge AFP.\n\nIsrael har uttalt at de har gjennomført angrep mot Hizbollah.\n\nAngrepene skjer mens USA og Iran er i sluttspurten av fredsforhandlinger. Libanon er alliert med Iran, og...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/libanon_-tre-drept-i-israelsk-angrep-mot-beirut-1.17920549",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-14T14:22:01.151Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781438307038.9707,
       "title": "Person syklet inn i autovern i Gjesdal - flydd til sykehus",
       "slug": "person-syklet-inn-i-autovern-i-gjesdal-flydd-til-sykehus",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-11T20:24:19.585Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781193934475.882,
-      "title": "Retter sterk kritikk mot Emilie Enger Mehl",
-      "slug": "retter-sterk-kritikk-mot-emilie-enger-mehl",
-      "content": "Kontroll- og konstitusjonskomiteen på Stortinget har torsdag blitt enige om å rette sterk kritikk mot tidligere justisminister Emilie Enger Mehl fra Hedmark.\n\n– Kontrollkomiteen er ikke samlet enig. Men et flertall er enige om å rette sterk kritikk, sier saksordfører Julie Stuestøl fra MDG til NRK.\n\n– Det handler om manglende oppfølging av innspill fra PST om budsjettbehov for å være godt nok rusta for å stå i den sikkerhetspolitiske situasjonen.\n\nKritikken mot Mehl er et såkalt daddelvedtak, som er den sterkeste form for kritikk som Stortinget kan komme med, uten å erklære mistillit.\n\n– Jeg har sjelden vært borti en sak som det er nødvendig å reise sterk kritikk, sier Per-Willy Amundsen (Frp) leder av Stortingets kontroll- og konstitusjonskomité.\n\n– Men overordnet er det jo Jonas Gahr Støre sin regjering som får denne sterke kritikken.\n\nEt flertall av kontrollkomiteen på Stortinget gir tidligere justisminister Emilie Enger Mehl (Sp) og regjeringen sterk kritikk",
-      "excerpt": "Kontroll- og konstitusjonskomiteen på Stortinget har torsdag blitt enige om å rette sterk kritikk mot tidligere justisminister Emilie Enger Mehl fra Hedmark.\n\n– Kontrollkomiteen er ikke samlet enig. Men et flertall er enige om å rette sterk kritikk, sier saksordfører Julie Stuestøl fra MDG til...",
-      "image": "https://images.unsplash.com/photo-1528965448683-8a1c70fddef7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODExOTM5MzR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/innlandet/retter-sterk-kritikk-mot-emilie-enger-mehl-1.17917580",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-11T16:05:34.475Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1733,
+    "totalFetched": 1734,
     "totalPublished": 77,
-    "lastFetch": "2026-06-14T11:58:28.253Z",
+    "lastFetch": "2026-06-14T14:22:04.001Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
