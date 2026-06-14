@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1781410671080.6953,
+      "title": "Japan vil til Grønland for å lete etter sjeldne metaller",
+      "slug": "japan-vil-til-grnland-for-lete-etter-sjeldne-metaller",
+      "content": "Japan sender i sommer en delegasjon til Grønland for å se på mulighetene for å utvinne sjeldne jordarter, skriver den japanske avisen Nikkei. Dette er spesielle metaller som trengs for å lage for eksempel elbiler.\n\nMålet er å finne ut hvor mye metaller som finnes på Grønland, slik at japanske bedrifter kan investere der. Japan ønsker å bli mindre avhengig av Kina, som i dag kontrollerer hele 70 prosent av verdensproduksjonen av disse metallene, ifølge Nikkei. Kina har nylig strammet inn på eksporten, noe som presser Japan til å finne nye samarbeidspartnere, skriver NTB.\n\nGrønland\n\nGrønland er en del av Danmark, men har selvstyre. Landet har den siste tiden vært under stort press etter at Donald Trump har truet med at USA skal overta øya.",
+      "excerpt": "Japan sender i sommer en delegasjon til Grønland for å se på mulighetene for å utvinne sjeldne jordarter, skriver den japanske avisen Nikkei. Dette er spesielle metaller som trengs for å lage for eksempel elbiler.\n\nMålet er å finne ut hvor mye metaller som finnes på Grønland, slik at japanske...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/japan-vil-til-gronland-for-a-lete-etter-sjeldne-metaller-1.17920260",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-14T04:17:51.080Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781410669538.9485,
+      "title": "Motorsyklist til sykehus etter utforkjøring på Sunnmøre",
+      "slug": "motorsyklist-til-sykehus-etter-utforkjring-p-sunnmre",
+      "content": "En motorsyklist er fraktet med luftambulanse til sykehus etter en utforkjøring på fylkesvei 654 i Herøy på Sunnmøre natt til søndag.\n\nEn patrulje fra politiet oppdaget ulykken som skjedde ved Berge bedehus i Fosnavåg, like etter klokken 3.30 natt til søndag.\n\n– Ambulansen kom til stedet kort tid etterpå, opplyser operasjonsleder Eivind Klokkersund i Møre og Romsdal politidistrikt.\n\nMotorsyklisten er ikke livstruende skadet og har ifølge politiet fått skader i en arm.",
+      "excerpt": "En motorsyklist er fraktet med luftambulanse til sykehus etter en utforkjøring på fylkesvei 654 i Herøy på Sunnmøre natt til søndag.\n\nEn patrulje fra politiet oppdaget ulykken som skjedde ved Berge bedehus i Fosnavåg, like etter klokken 3.30 natt til søndag.\n\n– Ambulansen kom til stedet kort tid...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/motorsyklist-til-sykehus-etter-utforkjoring-pa-sunnmore-1.17920262",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-14T04:17:49.538Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781410668067.1953,
+      "title": "Flyalarmer utløst i Jordan",
+      "slug": "flyalarmer-utlst-i-jordan",
+      "content": "Det har gått flyalarmer i Jordan natt til søndag. Det melder landets statlige TV-kanal, ifølge nyhetsbyrået Reuters.\n\nDet er foreløpig ikke kjent hvorfor sirenene ble utløst, ettersom TV-kanalen foreløpig ikke har gitt flere detaljer om hva som har skjedd.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Det har gått flyalarmer i Jordan natt til søndag. Det melder landets statlige TV-kanal, ifølge nyhetsbyrået Reuters.\n\nDet er foreløpig ikke kjent hvorfor sirenene ble utløst, ettersom TV-kanalen foreløpig ikke har gitt flere detaljer om hva som har skjedd.\n\nKrigen i Midtøsten\n\n28. februar utførte...",
+      "image": "https://images.unsplash.com/photo-1735401077319-a33336fb2c05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE0MTA2Njh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flyalarmer-utlost-i-jordan-1.17920250",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-14T04:17:48.067Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781392057794.945,
       "title": "47 ungdommer bortvist fra Rådhusplassen i Oslo",
       "slug": "47-ungdommer-bortvist-fra-rdhusplassen-i-oslo",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-11T10:39:27.956Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781174366419.362,
-      "title": "Dronenedfall skadet barn i Bahrain",
-      "slug": "dronenedfall-skadet-barn-i-bahrain",
-      "content": "Rester fra en nedskutt iransk drone påførte en elleve år gammel jente mindre skader i Bahrain torsdag, opplyser landets innenriksdepartement.\n\nI tillegg førte til at et kjøretøy tok fyr og boliger i byen Hamad ble skadet, melder Reuters.\n\nDepartementet har publisert bilder som viser brannmannskaper som forsøker å få kontroll på flammene i flere boliger.\n\nIran har gjennomført flere luftangrep gjennom natten, som blant annet har rammet Bahrain. Dronene ble avskåret og ødelagt, ifølge myndighetene i Bahrain.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.\n\nBahrain\n\nBahrain har vært preget av politisk uro siden myndighetene slo ned et demokratiopprør under den arabiske våren i 2011. Landet ledes av en sunnimuslimsk minoritet med kong Hamad bin Isa al-Khalifa i spissen. Bahrain er alliert med USA og Saudi-Arabia.",
-      "excerpt": "Rester fra en nedskutt iransk drone påførte en elleve år gammel jente mindre skader i Bahrain torsdag, opplyser landets innenriksdepartement.\n\nI tillegg førte til at et kjøretøy tok fyr og boliger i byen Hamad ble skadet, melder Reuters.\n\nDepartementet har publisert bilder som viser brannmannskaper...",
-      "image": "https://images.unsplash.com/photo-1762456566308-45de15fe1d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODExNzQzNjZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/dronenedfall-skadet-barn-i-bahrain-1.17916585",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-11T10:39:26.419Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781174364935.6306,
-      "title": "Sverige skroter forslag om å senke den kriminelle lavalderen til 13 år",
-      "slug": "sverige-skroter-forslag-om-senke-den-kriminelle-lavalderen-t",
-      "content": "Den svenske regjeringen og Sverigedemokraterna trekker forslaget om at 13-åringer skal kunne fengsles i Sverige, ifølge Aftonbladet og SVT.\n\nI stedet foreslås det å senke den strafferettslige lavalderen til 14 år, sier justisminister Gunnar Strömmer på en pressekonferanse torsdag.\n\nÅrsaken til at regjeringen snur, er at forslaget om 13 år trolig ikke ville fått nok støtte i Riksdagen, og dermed ikke blitt vedtatt.\n\nRegjeringen foreslo tiltaket i fjor høst, men høstet voldsom kritikk fra flere hold, deriblant Kriminalvården, tilsvarende den norske Kriminalomsorgen.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "Den svenske regjeringen og Sverigedemokraterna trekker forslaget om at 13-åringer skal kunne fengsles i Sverige, ifølge Aftonbladet og SVT.\n\nI stedet foreslås det å senke den strafferettslige lavalderen til 14 år, sier justisminister Gunnar Strömmer på en pressekonferanse torsdag.\n\nÅrsaken til at...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/sverige-skroter-forslag-om-a-senke-den-kriminelle-lavalderen-til-13-ar-1.17916678",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-11T10:39:24.935Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781150986396.8484,
-      "title": "Motorsyklist funnet på legevakten i Trondheim etter ulykke",
-      "slug": "motorsyklist-funnet-p-legevakten-i-trondheim-etter-ulykke",
-      "content": "Politiet har funnet en mann på legevakten i Trondheim som de mener har vært involvert i en motorsykkelulykke på Byneset i Trondheim onsdag kveld.\n\nMannen i starten av 20-årene ble funnet på legevakten i Trondheim natt til torsdag. Han er ikke alvorlig skadet, men har skader som er forenlige med MC-ulykken tidligere på kvelden, opplyser politiet.\n\nPolitiet lette tidligere natt til torsdag etter føreren av en motorsykkel som ble funnet ved siden av veien på Bosberg i Trondheim.\n\nMotorsykkelen ble funnet i Hangerslettvegen. Innringere meldte til politiet klokken 23.04 onsdag kveld at de hadde kommet over en skadet motorsykkel og en ødelagt hjelm.\n\nVed 2-tiden opplyste politiet at de hadde kontroll på mannen på legevakten. Han anmeldes både for kjøring uten gyldig førerkort og for å ha unnlatt å varsle om trafikkulykke, skriver NTB.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "Politiet har funnet en mann på legevakten i Trondheim som de mener har vært involvert i en motorsykkelulykke på Byneset i Trondheim onsdag kveld.\n\nMannen i starten av 20-årene ble funnet på legevakten i Trondheim natt til torsdag. Han er ikke alvorlig skadet, men har skader som er forenlige med...",
-      "image": "https://images.unsplash.com/photo-1743179401043-8dae2a160e57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODExNTA5ODZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/motorsyklist-funnet-pa-legevakten-i-trondheim-etter-ulykke-1.17916349",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-11T04:09:46.396Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1725,
+    "totalFetched": 1728,
     "totalPublished": 77,
-    "lastFetch": "2026-06-13T23:07:39.069Z",
+    "lastFetch": "2026-06-14T04:17:52.291Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
