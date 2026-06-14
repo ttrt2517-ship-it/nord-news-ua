@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1781465962448.881,
+      "title": "Brann i Bergen sentrum",
+      "slug": "brann-i-bergen-sentrum",
+      "content": "En brann i Bergen sentrum er slukket, melder politiet. Brannen førte til evakuering av bygget det brant i og boliger i nærheten.\n\n– Det er evakuert totalt ti personer, en hund samt gjester og ansatte ved en restaurant som ligger i nærheten, skriver politiet.",
+      "excerpt": "En brann i Bergen sentrum er slukket, melder politiet. Brannen førte til evakuering av bygget det brant i og boliger i nærheten.\n\n– Det er evakuert totalt ti personer, en hund samt gjester og ansatte ved en restaurant som ligger i nærheten, skriver politiet.",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestland/brann-i-bergen-sentrum-1.17920742",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-14T19:39:22.448Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781465960851.5454,
+      "title": "Tolv trolig døde etter flystyrt i Missouri",
+      "slug": "tolv-trolig-dde-etter-flystyrt-i-missouri",
+      "content": "Tolv personer er trolig døde i en flystyrt i nærheten av en flyplass i Butler i delstaten Missouri i USA, ifølge lokale myndigheter, skriver CNN,\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Tolv personer er trolig døde i en flystyrt i nærheten av en flyplass i Butler i delstaten Missouri i USA, ifølge lokale myndigheter, skriver CNN,\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "image": "https://images.unsplash.com/photo-1752492071653-010a95d865a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE0NjU5NjB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/tolv-trolig-dode-etter-flystyrt-i-missouri-1.17920722",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-14T19:39:20.851Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781457713460.945,
       "title": "Trump har snakket med Zelenskyj og Putin",
       "slug": "trump-har-snakket-med-zelenskyj-og-putin",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-06-11T23:24:48.974Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781220283982.8696,
-      "title": "Brudd i helikopteroppgjøret offshore",
-      "slug": "brudd-i-helikopteroppgjret-offshore",
-      "content": "Det ble natt til fredag brudd i lønnsforhandlingene for ansatte i helikopterbransjen offshore. Oppgjøret går nå til mekling.\n\nBruddet kom i forhandlingene mellom Styrke og NHO Luftfart om trafikkavtalen, som gjelder trafikkpersonell, funksjonærer og redningsmenn.\n\nAvtalen omfatter drøyt 90 Styrke-medlemmer i helikopterbransjen, fordelt på selskapene CHC Helikopter Service, Bristow og HeliOne, skriver NTB.",
-      "excerpt": "Det ble natt til fredag brudd i lønnsforhandlingene for ansatte i helikopterbransjen offshore. Oppgjøret går nå til mekling.\n\nBruddet kom i forhandlingene mellom Styrke og NHO Luftfart om trafikkavtalen, som gjelder trafikkpersonell, funksjonærer og redningsmenn.\n\nAvtalen omfatter drøyt 90...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/brudd-i-helikopteroppgjoret-offshore-1.17918026",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-11T23:24:43.982Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781220282228.6206,
-      "title": "Russland: To drept i angrep i Brjansk",
-      "slug": "russland-to-drept-i-angrep-i-brjansk",
-      "content": "To personer er drept og to andre såret i et angrep i den russiske regionen Brjansk, sier lokale myndigheter.\n\nOpplysningene kommer fra fungerende guvernør Jegor Kovaltsjuk i et innlegg i meldingstjenesten Telegram sent torsdag kveld.\n\nBjransk er en russisk region som grenser til Ukraina.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "To personer er drept og to andre såret i et angrep i den russiske regionen Brjansk, sier lokale myndigheter.\n\nOpplysningene kommer fra fungerende guvernør Jegor Kovaltsjuk i et innlegg i meldingstjenesten Telegram sent torsdag kveld.\n\nBjransk er en russisk region som grenser til Ukraina.\n\nKrigen i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russland_-to-drept-i-angrep-i-brjansk-1.17918030",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-11T23:24:42.228Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1737,
+    "totalFetched": 1739,
     "totalPublished": 77,
-    "lastFetch": "2026-06-14T17:21:56.308Z",
+    "lastFetch": "2026-06-14T19:39:23.620Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
