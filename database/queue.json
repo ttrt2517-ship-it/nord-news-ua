@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1781498457674.2002,
+      "title": "Alvorlig ulykke på E16 i Lunner",
+      "slug": "alvorlig-ulykke-p-e16-i-lunner",
+      "content": "Lunnertunnelen på E16 i Akershus kommer til å være stengt i lengre tid på grunn av en trafikkulykke.\n\nInnlandet politidistrikt meldte om ulykken klokka 3.49 natt til mandag. Ett kjøretøy og én person er involvert. Skadegraden er ukjent, opplyser operasjonssentralen i politiloggen.\n\nOverfor NTB betegner operasjonsleder Bård Einar Hoft ulykken som alvorlig.",
+      "excerpt": "Lunnertunnelen på E16 i Akershus kommer til å være stengt i lengre tid på grunn av en trafikkulykke.\n\nInnlandet politidistrikt meldte om ulykken klokka 3.49 natt til mandag. Ett kjøretøy og én person er involvert. Skadegraden er ukjent, opplyser operasjonssentralen i politiloggen.\n\nOverfor NTB...",
+      "image": "https://images.unsplash.com/photo-1661698048095-de683d582ea0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE0OTg0NTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/alvorlig-ulykke-pa-e16-i-lunner-1.17920871",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-15T04:40:57.674Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781498455955.0964,
+      "title": "Safe-organiserte går ut i streik på sokkelen",
+      "slug": "safeorganiserte-gr-ut-i-streik-p-sokkelen",
+      "content": "Mens Offshore Norge kom til enighet med Styrke, ble det brudd i meklingen med Safe. Dermed går 154 medlemmer under brønnserviceavtalen ut i streik.\n\nDet ble klart klokka 5 natt til mandag. I første uttak er det medlemmer fra bedriftene SLB, DOF Subsea, Halliburton, Weatherford, Tios og DeepOcean som tas ut.\n\n- Vi kan ikke akseptere utviklingen og hadde klare forventninger før årets oppgjør om at trenden måtte snus. Vi havner bak økonomisk, samt på arbeidsvilkår og rettigheter, sier områdeleder Martin Skogland i Safe i en pressemelding.",
+      "excerpt": "Mens Offshore Norge kom til enighet med Styrke, ble det brudd i meklingen med Safe. Dermed går 154 medlemmer under brønnserviceavtalen ut i streik.\n\nDet ble klart klokka 5 natt til mandag. I første uttak er det medlemmer fra bedriftene SLB, DOF Subsea, Halliburton, Weatherford, Tios og DeepOcean...",
+      "image": "https://images.unsplash.com/photo-1662710629511-7fe0705049ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE0OTg0NTV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/safe-organiserte-gar-ut-i-streik-pa-sokkelen-1.17920878",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-15T04:40:55.955Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781498454348.5105,
+      "title": "Venter spent på kreft-avgjørelse i dag",
+      "slug": "venter-spent-p-kreftavgjrelse-i-dag",
+      "content": "I dag, mandag 15. juni, skal Beslutningsforum for nye metoder avgjøre om en ny kreftbehandling mot beinmargskreft skal innføres i Norge.\n\nBeslutningsforum har sagt nei to ganger på grunn av pris, til kreftbehandlingen som er allerede er innført i Danmark og Sverige.\n\nGeneralsekretær i Kreftforeningen, Ingrid Stenstadvold Ross, sier til NRK at de har et inderlig håp om at det blir ja denne gangen og at de er i kontakt med flere pasienter og pårørende som sitter spente og venter.",
+      "excerpt": "I dag, mandag 15. juni, skal Beslutningsforum for nye metoder avgjøre om en ny kreftbehandling mot beinmargskreft skal innføres i Norge.\n\nBeslutningsforum har sagt nei to ganger på grunn av pris, til kreftbehandlingen som er allerede er innført i Danmark og Sverige.\n\nGeneralsekretær i...",
+      "image": "https://images.unsplash.com/photo-1587382452724-62132e9565b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE0OTg0NTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/rogaland/venter-spent-pa-kreft-avgjorelse-i-dag-1.17920920",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-15T04:40:54.348Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781478642084.5518,
       "title": "Luftangrep stanset over Kyiv - boligblokk i brann",
       "slug": "luftangrep-stanset-over-kyiv-boligblokk-i-brann",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-12T15:19:26.287Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781277564218.0938,
-      "title": "Putin innrømmer at ukrainske angrep skader økonomien",
-      "slug": "putin-innrmmer-at-ukrainske-angrep-skader-konomien",
-      "content": "Russlands president Vladimir Putin uttaler via det statlige nyhetsbyrået TASS at ukrainske militærangrep påfører den russiske økonomien skade. Han hevder imidlertid samtidig at økonomien henter seg raskt inn igjen og at angrepene ikke utgjør noen varig trussel.\n\nUkraina har den siste tiden målrettet sine angrep mot Russland, og har ødelagt infrastruktur og oljeanlegg langt inne i Russland.\n\nDenne uken innførte Russland rasjonering på drivstoff mange steder.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Russlands president Vladimir Putin uttaler via det statlige nyhetsbyrået TASS at ukrainske militærangrep påfører den russiske økonomien skade. Han hevder imidlertid samtidig at økonomien henter seg raskt inn igjen og at angrepene ikke utgjør noen varig trussel.\n\nUkraina har den siste tiden...",
-      "image": "https://images.unsplash.com/photo-1632243392669-849a04b60780?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEyNzc1NjR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/putin-innrommer-at-ukrainske-angrep-skader-okonomien-1.17919217",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-12T15:19:24.218Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781259409711.6245,
-      "title": "Regjeringens nye plan: Økt stillingsprosent kan skaffe 22.000 årsverk i helsevesenet",
-      "slug": "regjeringens-nye-plan-kt-stillingsprosent-kan-skaffe-22000-r",
-      "content": "Regjeringen mener det enkelttiltaket som kan ha størst effekt for økt tilbud av arbeidskraft, er økt stillingsprosent for ansatte i helse- og omsorgstjenestene som i dag ikke arbeider i en fulltidsstilling.\n\n– Dersom stillingsprosenten øker med 10 prosent for alle alders- og utdanningsgrupper, kan det gi opptil 22.000 flere årsverk i 2040, sier helse- og omsorgsminister Jan Christian Vestre (Ap).\n\nForslaget er en del av Helsepersonellplan 2040 som tar for seg hvordan man skal møte mangelen på personell i helse- og omsorgstjenestene.",
-      "excerpt": "Regjeringen mener det enkelttiltaket som kan ha størst effekt for økt tilbud av arbeidskraft, er økt stillingsprosent for ansatte i helse- og omsorgstjenestene som i dag ikke arbeider i en fulltidsstilling.\n\n– Dersom stillingsprosenten øker med 10 prosent for alle alders- og utdanningsgrupper, kan...",
-      "image": "https://images.unsplash.com/photo-1733846049281-99b36f565e46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEyNTk0MDl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/regjeringens-nye-plan_-okt-stillingsprosent-kan-skaffe-22.000-arsverk-i-helsevesenet-1.17918626",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-12T10:16:49.711Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781259407988.1204,
-      "title": "Bloomberg: USA og Iran kan signere avtale i helga",
-      "slug": "bloomberg-usa-og-iran-kan-signere-avtale-i-helga",
-      "content": "Det er venta at intensjonsavtalen mellom USA og Iran kan bli signert i forbindelse med G7-møtet i Evian i Frankrike, skriv Bloomberg.\n\nIfølge nyheitsbyrået er det forventa at signeringa kan skje i løpet av helga eller tidleg neste veke.\n\nGenève i Sveits blir nemnd som ein potensiell stad for sjølve underteikninga av avtalen.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Det er venta at intensjonsavtalen mellom USA og Iran kan bli signert i forbindelse med G7-møtet i Evian i Frankrike, skriv Bloomberg.\n\nIfølge nyheitsbyrået er det forventa at signeringa kan skje i løpet av helga eller tidleg neste veke.\n\nGenève i Sveits blir nemnd som ein potensiell stad for sjølve...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/bloomberg_-usa-og-iran-kan-signere-avtale-i-helga-1.17918593",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-12T10:16:47.988Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1744,
+    "totalFetched": 1747,
     "totalPublished": 77,
-    "lastFetch": "2026-06-14T23:10:43.911Z",
+    "lastFetch": "2026-06-15T04:41:00.159Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
