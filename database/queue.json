@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1781755873024.1594,
+      "title": "En person pågrepet etter voldshendelse",
+      "slug": "en-person-pgrepet-etter-voldshendelse",
+      "content": "En person er pågrepet av politiet etter en voldshendelse på Nodeland i Kristiansand onsdag kveld.\n\n– Skadeomfanget på de to som er kjørt til helsevesenet er fortsatt uavklart, opplyser operasjonsleder Vegard Heyn.\n\nPolitiloggen i Agder\n\nHendelser i Agder politidistrikt.",
+      "excerpt": "En person er pågrepet av politiet etter en voldshendelse på Nodeland i Kristiansand onsdag kveld.\n\n– Skadeomfanget på de to som er kjørt til helsevesenet er fortsatt uavklart, opplyser operasjonsleder Vegard Heyn.\n\nPolitiloggen i Agder\n\nHendelser i Agder politidistrikt.",
+      "image": "https://images.unsplash.com/photo-1651837063913-7ca672ca539c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE3NTU4NzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/sorlandet/en-person-pagrepet-etter-voldshendelse-1.17925963",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-18T04:11:13.024Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781755871223.0134,
+      "title": "Lønnsavtale i havn for helse, utdanning og kultur",
+      "slug": "lnnsavtale-i-havn-for-helse-utdanning-og-kultur",
+      "content": "Etter forhandlinger siden mandag har Parat kommet til enighet med Virke i HUK-oppgjøret. Resultatet sikrer medlemmene reallønnsvekst.\n\nForhandlingsleder i Parat, Bjørn Are Sæther, sier i en pressemelding at han er fornøyd med at partene kom fram til en løsning.\n\n– Dette er et resultat som sikrer medlemmene våre reallønnsvekst, og som følger opp viktige elementer fra tariffområdene HUK-avtalene bygger på, sier Sæther.\n\nHUK står for helse, utdanning og kultur. Avtalene omfatter blant annet barnehager, helse- og sosiale tjenester, høyskoler, utdanning, virksomheter, museer og kulturinstitusjoner.",
+      "excerpt": "Etter forhandlinger siden mandag har Parat kommet til enighet med Virke i HUK-oppgjøret. Resultatet sikrer medlemmene reallønnsvekst.\n\nForhandlingsleder i Parat, Bjørn Are Sæther, sier i en pressemelding at han er fornøyd med at partene kom fram til en løsning.\n\n– Dette er et resultat som sikrer...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/lonnsavtale-i-havn-for-helse_-utdanning-og-kultur-1.17925946",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-18T04:11:11.223Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781755869251.445,
+      "title": "Oljeraffineri ved Moskva truffet av drone",
+      "slug": "oljeraffineri-ved-moskva-truffet-av-drone",
+      "content": "Et droneangrep rammet et oljeraffineri ved den russiske hovedstaden Moskva natt til torsdag, ifølge byens ordfører. En boligblokk skal også være truffet.\n\nMyndighetene sier det ikke er meldt om personskader etter at en drone traff en boligblokk i hovedstadsregionen, melder NTB.\n\nOpplysningen fra Sergej Sobjanin om at et raffineri er utsatt for et droneangrep, er gjengitt av det statlige nyhetsbyrået Tass.\n\nVitner sier til Reuters at flammer og tjukk svart røyk var synlig over distriktet Kapotnja, sørøst i Moskva.",
+      "excerpt": "Et droneangrep rammet et oljeraffineri ved den russiske hovedstaden Moskva natt til torsdag, ifølge byens ordfører. En boligblokk skal også være truffet.\n\nMyndighetene sier det ikke er meldt om personskader etter at en drone traff en boligblokk i hovedstadsregionen, melder NTB.\n\nOpplysningen fra...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/oljeraffineri-ved-moskva-truffet-av-drone-1.17925974",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-18T04:11:09.251Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781733696557.3286,
       "title": "«The Ring»-stjerne død",
       "slug": "the-ringstjerne-dd",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-14T23:10:40.508Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781478638892.0264,
-      "title": "Europeiske ledere: Klar til å heve sanksjoner mot Iran",
-      "slug": "europeiske-ledere-klar-til-heve-sanksjoner-mot-iran",
-      "content": "Storbritannia, Frankrike, Tyskland og Italia er klare til å oppheve aktuelle sanksjoner mot Iran som et svar på klare endringer i atomprogrammet.\n\nDet kommer fram i en felles uttalelse fra lederne i landene kjent som E4 natt til mandag, kort tid etter at både USA og Iran bekreftet at landene er kommet fram til en fredsavtale.\n\n- Iran må aldri skaffe seg atomvåpen. Vi står klare til å samarbeide med USA, Iran og IAEA om dette, heter det i uttalelsen.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Storbritannia, Frankrike, Tyskland og Italia er klare til å oppheve aktuelle sanksjoner mot Iran som et svar på klare endringer i atomprogrammet.\n\nDet kommer fram i en felles uttalelse fra lederne i landene kjent som E4 natt til mandag, kort tid etter at både USA og Iran bekreftet at landene er...",
-      "image": "https://images.unsplash.com/photo-1723390600988-37012f3e9b99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE0Nzg2Mzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/europeiske-ledere_-klar-til-a-heve-sanksjoner-mot-iran-1.17920843",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-14T23:10:38.892Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781471681064.9492,
-      "title": "Motstridende meldinger om luftromsrestriksjoner i Iran",
-      "slug": "motstridende-meldinger-om-luftromsrestriksjoner-i-iran",
-      "content": "Det er full forvirring om flygninger vest i Iran er kansellert. Det skjer etter at landet varslet et hevnangrep mot Israel søndag, skriver NTB.\n\nDet statlige nyhetsbyrået Tasnim meldte først at luftrommet var stengt. Kort tid etter meldte nyhetsbyrået Isna at flyene går som normalt. Bakgrunnen er et israelsk angrep i Libanon. USAs president Donald Trump skal ha skjelt ut Israels statsminister etter angrepet, skriver nettstedet Axios.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Det er full forvirring om flygninger vest i Iran er kansellert. Det skjer etter at landet varslet et hevnangrep mot Israel søndag, skriver NTB.\n\nDet statlige nyhetsbyrået Tasnim meldte først at luftrommet var stengt. Kort tid etter meldte nyhetsbyrået Isna at flyene går som normalt. Bakgrunnen er...",
-      "image": "https://images.unsplash.com/photo-1779388926158-37fee6c8cc1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE0NzE2ODB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/motstridende-meldinger-om-luftromsrestriksjoner-i-iran-1.17920818",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-14T21:14:41.064Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781471678976.0398,
-      "title": "Trump har snakket med Netanyahu om Iran-avtale",
-      "slug": "trump-har-snakket-med-netanyahu-om-iranavtale",
-      "content": "USAs president Donald Trump har oppdatert Israels statsminister Benjamin Netanyahu om arbeidet med en avtale med Iran. Det sier en anonym toppkilde til den israelske TV-kanalen N12.\n\nIfølge kanalen skal Trump ha fortalt om god fremgang mot en faktisk signering av avtalen mellom USA og Iran.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "USAs president Donald Trump har oppdatert Israels statsminister Benjamin Netanyahu om arbeidet med en avtale med Iran. Det sier en anonym toppkilde til den israelske TV-kanalen N12.\n\nIfølge kanalen skal Trump ha fortalt om god fremgang mot en faktisk signering av avtalen mellom USA og Iran.\n\nKrigen...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump-har-snakket-med-netanyahu-om-iran-avtale-1.17920820",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-14T21:14:38.976Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1789,
+    "totalFetched": 1792,
     "totalPublished": 77,
-    "lastFetch": "2026-06-17T22:01:38.186Z",
+    "lastFetch": "2026-06-18T04:11:14.236Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
