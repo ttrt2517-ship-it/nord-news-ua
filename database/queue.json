@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1781778214793.3125,
+      "title": "Mann pågrepet etter grovt tyveri fra Elkjøp-butikk",
+      "slug": "mann-pgrepet-etter-grovt-tyveri-fra-elkjpbutikk",
+      "content": "Politiet har pågrepet en person som de mistenker står bak innbruddet hos Elkjøp i Glasmagasinet på Stortorvet i Oslo natt til 7. juni.\n\nPolitiet har sporet bevegelsesmønsteret til mannen, og slik klart å identifisere han, sier politiadvokat Jenny Noren Solgaard.\n\nDe har også ransaket boligen til mannen, og beslaglagt flere gjenstander de mener stammer fra tyveriet, blant annet flere nye mobiltelefoner.\n\nOslo politidistrikt\n\nOslo politidistrikt omfatter kommunene Oslo, Asker og Bærum. Politimester i Oslo siden mai 2023 er Ida Melbo Øystese.",
+      "excerpt": "Politiet har pågrepet en person som de mistenker står bak innbruddet hos Elkjøp i Glasmagasinet på Stortorvet i Oslo natt til 7. juni.\n\nPolitiet har sporet bevegelsesmønsteret til mannen, og slik klart å identifisere han, sier politiadvokat Jenny Noren Solgaard.\n\nDe har også ransaket boligen til...",
+      "image": "https://images.unsplash.com/photo-1742857848733-d5129d150bfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE3NzgyMTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/mann-pagrepet-etter-grovt-tyveri-fra-elkjop-butikk-1.17926081",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-18T10:23:34.793Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781778213021.0925,
+      "title": "Israel kutter all kontakt med EUs utenrikssjef",
+      "slug": "israel-kutter-all-kontakt-med-eus-utenrikssjef",
+      "content": "Israels utenriksminister Gideon Saar sa torsdag at han bryter «all kontakt» med EUs utenrikssjef Kaja Kallas på grunn av det han sa var nylige uttalelser tilskrevet henne som sammenligner Israel med Sør-Afrika under apartheidtiden.\n\nNyhetsnettstedet Euractiv har tidligere sitert kilder som hevdet at Kallas trakk denne sammenligningen i et møte bak lukkede dører under et besøk i Mexico.\n\nKallas sier i et svar på X, at en to-statsløsning er eneste veien videre.",
+      "excerpt": "Israels utenriksminister Gideon Saar sa torsdag at han bryter «all kontakt» med EUs utenrikssjef Kaja Kallas på grunn av det han sa var nylige uttalelser tilskrevet henne som sammenligner Israel med Sør-Afrika under apartheidtiden.\n\nNyhetsnettstedet Euractiv har tidligere sitert kilder som hevdet...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/israel-kutter-all-kontakt-med-eus-utenrikssjef-1.17926282",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-18T10:23:33.021Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781778211348.1272,
+      "title": "Nordmann dømt til fengsel i Taiwan",
+      "slug": "nordmann-dmt-til-fengsel-i-taiwan",
+      "content": "En nordmann er dømt til fem år og seks måneders fengsel i Taiwan for narkotikasmugling. I Norge har han status som offer for menneskehandel.\n\nPolitiet mener at mannen har handlet under tvang fra svenske gjengkriminelle, skriver Dagbladet. Han skal ha utført oppdraget for å for å slette uoppgjort narkotikagjeld.\n\n15. desember i fjor ble mannen pågrepet på en flyplass i Taipei med i underkant av 11 kilo marihuana. Farid Bouras er oppnevnt som bistandsadvokat i saken.\n\n– Det innebærer at min klient skal anses som fornærmet, og at det foreligger en klar mistanke om at han kan være utsatt for menneskehandel. Denne vurderingen støttes også av norsk politi, sier Bouras.",
+      "excerpt": "En nordmann er dømt til fem år og seks måneders fengsel i Taiwan for narkotikasmugling. I Norge har han status som offer for menneskehandel.\n\nPolitiet mener at mannen har handlet under tvang fra svenske gjengkriminelle, skriver Dagbladet. Han skal ha utført oppdraget for å for å slette uoppgjort...",
+      "image": "https://images.unsplash.com/photo-1639688173678-360d43d9134c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE3NzgyMTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/nordmann-domt-til-fengsel-i-taiwan-1.17926428",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-18T10:23:31.348Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781755873024.1594,
       "title": "En person pågrepet etter voldshendelse",
       "slug": "en-person-pgrepet-etter-voldshendelse",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-15T04:40:55.955Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781498454348.5105,
-      "title": "Venter spent på kreft-avgjørelse i dag",
-      "slug": "venter-spent-p-kreftavgjrelse-i-dag",
-      "content": "I dag, mandag 15. juni, skal Beslutningsforum for nye metoder avgjøre om en ny kreftbehandling mot beinmargskreft skal innføres i Norge.\n\nBeslutningsforum har sagt nei to ganger på grunn av pris, til kreftbehandlingen som er allerede er innført i Danmark og Sverige.\n\nGeneralsekretær i Kreftforeningen, Ingrid Stenstadvold Ross, sier til NRK at de har et inderlig håp om at det blir ja denne gangen og at de er i kontakt med flere pasienter og pårørende som sitter spente og venter.",
-      "excerpt": "I dag, mandag 15. juni, skal Beslutningsforum for nye metoder avgjøre om en ny kreftbehandling mot beinmargskreft skal innføres i Norge.\n\nBeslutningsforum har sagt nei to ganger på grunn av pris, til kreftbehandlingen som er allerede er innført i Danmark og Sverige.\n\nGeneralsekretær i...",
-      "image": "https://images.unsplash.com/photo-1587382452724-62132e9565b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE0OTg0NTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/rogaland/venter-spent-pa-kreft-avgjorelse-i-dag-1.17920920",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-15T04:40:54.348Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781478642084.5518,
-      "title": "Luftangrep stanset over Kyiv - boligblokk i brann",
-      "slug": "luftangrep-stanset-over-kyiv-boligblokk-i-brann",
-      "content": "Ukrainsk luftforsvar har slått tilbake et luftangrep over hovedstaden Kyiv natt til mandag. Det opplyser byens ordfører, Vitali Klitschko, på meldingstjenesten Telegram.\n\nOrdføreren ba innbyggerne om å søke dekning i tilfluktsrom.\n\nEn boligblokk har begynt å brenne etter angrepet, i tillegg til flere biler som har blitt truffet av vrakrester fra droner som ble skutt ned, skriver nyhetsbyrået Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ukrainsk luftforsvar har slått tilbake et luftangrep over hovedstaden Kyiv natt til mandag. Det opplyser byens ordfører, Vitali Klitschko, på meldingstjenesten Telegram.\n\nOrdføreren ba innbyggerne om å søke dekning i tilfluktsrom.\n\nEn boligblokk har begynt å brenne etter angrepet, i tillegg til...",
-      "image": "https://images.unsplash.com/photo-1632243392669-849a04b60780?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE0Nzg2NDJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/luftangrep-stanset-over-kyiv---boligblokk-i-brann-1.17920850",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-14T23:10:42.084Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781478640508.597,
-      "title": "Historisk kloster i brann etter angrep mot Kyiv",
-      "slug": "historisk-kloster-i-brann-etter-angrep-mot-kyiv",
-      "content": "Det kjente Huleklosteret i Kyiv brenner etter et luftangrep natt til mandag. Det opplyser byens ordfører, Vitali Klitschko, ifølge nyhetsbyrået Reuters.\n\nHuleklosteret, Kyiv Pechersk Lavra, står på UNESCOs verdensarvliste og er et av de viktigste historiske byggene i Ukraina. Ordføreren har foreløpig ikke delt detaljer om hvor store skadene på det gamle klosteret er.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Det kjente Huleklosteret i Kyiv brenner etter et luftangrep natt til mandag. Det opplyser byens ordfører, Vitali Klitschko, ifølge nyhetsbyrået Reuters.\n\nHuleklosteret, Kyiv Pechersk Lavra, står på UNESCOs verdensarvliste og er et av de viktigste historiske byggene i Ukraina. Ordføreren har...",
-      "image": "https://images.unsplash.com/photo-1742458498570-c5517f692b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE0Nzg2NDB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/historisk-kloster-i-brann-etter-angrep-mot-kyiv-1.17920851",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-14T23:10:40.508Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1792,
+    "totalFetched": 1795,
     "totalPublished": 77,
-    "lastFetch": "2026-06-18T04:11:14.236Z",
+    "lastFetch": "2026-06-18T10:23:36.386Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
