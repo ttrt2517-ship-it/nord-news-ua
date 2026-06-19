@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1781882585543.7158,
+      "title": "Eide reagerer på uttalelse fra israelsk minister",
+      "slug": "eide-reagerer-p-uttalelse-fra-israelsk-minister",
+      "content": "Utenriksminister Espen Barth Eide fordømmer utsagn fra Israels sikkerhetsminister Itamar Ben-Gvir.\n\nBen-Gvir skrev i et innlegg på X at han ikke respekterer intensjonsavtalen USA har inngått med Iran, og som innebærer våpenhvile i Libanon. Han insisterer på at krigen i Midtøsten ikke kan vinnes ved å være tilbakeholden.\n\n– De føyer seg inn i en lang rekke utspill fra den israelske sikkerhetsministeren som bidrar til frykt og usikkerhet, ikke bare i Libanon, men i hele Midtøsten. Denne typen utspill undergraver forsøkene på å skape fred i Midtøsten, og det undergraver også sikkerheten til israelere og til Israel, sier Eide til NTB.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Utenriksminister Espen Barth Eide fordømmer utsagn fra Israels sikkerhetsminister Itamar Ben-Gvir.\n\nBen-Gvir skrev i et innlegg på X at han ikke respekterer intensjonsavtalen USA har inngått med Iran, og som innebærer våpenhvile i Libanon. Han insisterer på at krigen i Midtøsten ikke kan vinnes ved...",
+      "image": "https://images.unsplash.com/photo-1737798388229-2524c7777c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE4ODI1ODV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/eide-reagerer-pa-uttalelse-fra-israelsk-minister-1.17928605",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-19T15:23:05.543Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781882583779.1821,
+      "title": "Israel og Hizbollah enige om våpenhvile",
+      "slug": "israel-og-hizbollah-enige-om-vpenhvile",
+      "content": "Våpenhvilen skal ifølge Reuters tre i kraft i ettermiddag.\n\nNyhetsbyrået siterer en ikke navngitt amerikansk tjenestemann på opplysningen.\n\nTo kilder fra Hizbollah opplyser også til Reuters at de har implementert våpenhvileavtalen for sin del.\n\nNRK har bedt IDF om en kommentar, men har foreløpig ikke fått svar. Israels militære bekrefter våpenhvilen, melder BBC.\n\nIsrael gjennomførte fredag omfattende luftangrep mot Sør-Libanon. Minst 47 mennesker er drept og 97 er skadet, ifølge helsedepartementet i Libanon.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Våpenhvilen skal ifølge Reuters tre i kraft i ettermiddag.\n\nNyhetsbyrået siterer en ikke navngitt amerikansk tjenestemann på opplysningen.\n\nTo kilder fra Hizbollah opplyser også til Reuters at de har implementert våpenhvileavtalen for sin del.\n\nNRK har bedt IDF om en kommentar, men har foreløpig...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/israel-og-hizbollah-enige-om-vapenhvile-1.17928655",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-19T15:23:03.779Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781882582261.579,
+      "title": "Unngikk streik for flytankere",
+      "slug": "unngikk-streik-for-flytankere",
+      "content": "Det blir ingen streik blant dem som fyller drivstoff på fly på flyplasser i Norge denne sommeren.\n\nNHO og Parat ble fredag enige om en ny oljetransportavtale, som blant annet gjelder dem som jobber med flytankingen.\n\nDet kan likevel bli streik i andre deler av bransjen. Fredag varslet Fellesforbundet mulig streik blant kabinansatte i SAS fra onsdag kommende uke.",
+      "excerpt": "Det blir ingen streik blant dem som fyller drivstoff på fly på flyplasser i Norge denne sommeren.\n\nNHO og Parat ble fredag enige om en ny oljetransportavtale, som blant annet gjelder dem som jobber med flytankingen.\n\nDet kan likevel bli streik i andre deler av bransjen. Fredag varslet...",
+      "image": "https://images.unsplash.com/photo-1727625800584-4edd7b080a14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE4ODI1ODJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/unngikk-streik-for-flytankere-1.17928857",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-19T15:23:02.261Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781865586309.852,
       "title": "Today in Norway: A roundup of the latest news on Friday",
       "slug": "today-in-norway-a-roundup-of-the-latest-news-on-friday",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-16T11:14:06.218Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781608442948.608,
-      "title": "Norsk helsenett har problemer – rammer Helsenorge og andre digitale helsetjenester",
-      "slug": "norsk-helsenett-har-problemer-rammer-helsenorge-og-andre-dig",
-      "content": "Norsk helsenett har problemer ved sitt hoveddatasenter, noe som rammer blant annet innloggede sider på Helsenorge tirsdag ettermiddag.\n\n– Du kan for tiden oppleve at innloggede sider på Helsenorge kan være utilgjenglige. Får du ikke logget inn, kan du prøve igjen senere. Vi beklager ulempene dette medfølger, skriver de på sine nettsider.",
-      "excerpt": "Norsk helsenett har problemer ved sitt hoveddatasenter, noe som rammer blant annet innloggede sider på Helsenorge tirsdag ettermiddag.\n\n– Du kan for tiden oppleve at innloggede sider på Helsenorge kan være utilgjenglige. Får du ikke logget inn, kan du prøve igjen senere. Vi beklager ulempene dette...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/norsk-helsenett-har-problemer-_-rammer-helsenorge-og-andre-digitale-helsetjenester-1.17923100",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-16T11:14:02.948Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781608441383.4573,
-      "title": "Scandinavian Star-dom ankes i Danmark",
-      "slug": "scandinavian-stardom-ankes-i-danmark",
-      "content": "Alle de 47 overlevende og pårørende i erstatningssaken etter Scandinavian Star-brannen anker frifinnelsen av Søfartsstyrelsen i Danmark.\n\nDen danske Søfartsstyrelsen ble frifunnet i en domstol i byen Næstved i mai. Kravet om erstatning på 450.000 danske kroner til hver av saksøkerne ble avvist.\n\nTirsdag opplyser advokat Lisa Edl Dalgas fra Pramming Advokater, som representerer de 47 saksøkerne, til Ritzau at saken ankes.\n\n159 mennesker omkom i brannen på ferja i april 1990. 136 av de omkomne var nordmenn.\n\nBrannen på «Scandinavian Star»\n\n159 menneske, dei fleste norske, omkom i brannen på danskebåten Scandinavian Star natt til 7. april 1990.",
-      "excerpt": "Alle de 47 overlevende og pårørende i erstatningssaken etter Scandinavian Star-brannen anker frifinnelsen av Søfartsstyrelsen i Danmark.\n\nDen danske Søfartsstyrelsen ble frifunnet i en domstol i byen Næstved i mai. Kravet om erstatning på 450.000 danske kroner til hver av saksøkerne ble...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/scandinavian-star-dom-ankes-i-danmark-1.17923102",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-16T11:14:01.383Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781608439621.7454,
-      "title": "Riksrevisjonen: Etter 10 års skule: Urovekkjande mange elevar har ikkje lært å lese, skrive og rekne",
-      "slug": "riksrevisjonen-etter-10-rs-skule-urovekkjande-mange-elevar-h",
-      "content": "Trass i ei langvarig satsing og høg prioritet frå Stortinget, har svært mange elevar svake grunnleggjande ferdigheiter etter grunnskulen.\n\n– Grunnleggjande ferdigheiter i lesing, skriving og rekning er viktig for å gjere elevane i stand til å meistre livet og å delta i arbeid og samfunnet, seier riksrevisor Karl Eirik Schjøtt-Pedersen.\n\nNesten kvar tredje elev – 31 prosent av elevane i matematikk og 27 prosent i lesing – har ferdigheiter på det lågaste meistringsnivået i 2022. Dette er 12 til 14 prosentpoeng fleire enn i 2015.\n\nKunnskapsminister Kari Nessa Nordtun (Ap) sier hun ikke er fornøyd med innholdet i rapporten.\n\nRiksrevisjonen legger fram sin rapport om norske elevers grunnleggende ferdigheter i lesing, skriving og regning.\n\nRiksrevisjonen\n\nRiksrevisjonen har i oppdrag å revidere den statlige forvaltningens regnskaper og oppgaveløsning, og er helt sentral i Stortingets kontroll av regjeringen og departementer. I 2022 ble Karl Eirik Schjøtt-Pedersen riksrevisor. (SNL.no)",
-      "excerpt": "Trass i ei langvarig satsing og høg prioritet frå Stortinget, har svært mange elevar svake grunnleggjande ferdigheiter etter grunnskulen.\n\n– Grunnleggjande ferdigheiter i lesing, skriving og rekning er viktig for å gjere elevane i stand til å meistre livet og å delta i arbeid og samfunnet, seier...",
-      "image": "https://images.unsplash.com/photo-1768257308832-f6068221eea8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE2MDg0Mzl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/riksrevisjonen_-etter-10-ars-skule_-urovekkjande-mange-elevar-har-ikkje-laert-a-lese_-skrive-og-rekne-1.17923105",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-16T11:13:59.622Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1812,
+    "totalFetched": 1815,
     "totalPublished": 77,
-    "lastFetch": "2026-06-19T10:39:47.311Z",
+    "lastFetch": "2026-06-19T15:23:06.732Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
