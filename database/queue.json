@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1781997049686.1194,
+      "title": "Ingen løsning på nettverksproblemer – en rekke offentlige tjenester nede",
+      "slug": "ingen-lsning-p-nettverksproblemer-en-rekke-offentlige-tjenes",
+      "content": "Flere offentlige tjenester ligge fortsatt nede etter nettverksproblemer.\n\nVed 22.30-tiden jobbet Digitaliseringsdirektoratet fremdeles med å rette feilen.\n\n– Det er fortsatt usikkert hva som er rotårsaken, men Vivicta jobber aktivt med å løse problemet, sier kommunikasjonsrådgiver Sara Neziri i Digdir til NTB.\n\nDigdir opplyser på sine nettsider at ID-porten, Kontakt- og reservasjonsregisteret, Maskinporten, MinID, ELMA, eInnsyn, Ansattporten og Selvbetjeningsløsninger er utilgjengelige.\n\nDigitale løsninger\n\nØkende bruk av digitale tjenester krever at både skolen, arbeidslivet og innbyggerne i landet har digital kompetanse. Men mange faller utenfor og trenger hjelp til enkle offentlige tjenester, noe bibliotekene erfarer.",
+      "excerpt": "Flere offentlige tjenester ligge fortsatt nede etter nettverksproblemer.\n\nVed 22.30-tiden jobbet Digitaliseringsdirektoratet fremdeles med å rette feilen.\n\n– Det er fortsatt usikkert hva som er rotårsaken, men Vivicta jobber aktivt med å løse problemet, sier kommunikasjonsrådgiver Sara Neziri i...",
+      "image": "https://images.unsplash.com/photo-1716471035199-7ef519c5d035?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE5OTcwNDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ingen-losning-pa-nettverksproblemer-_-en-rekke-offentlige-tjenester-nede-1.17929869",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-20T23:10:49.686Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781997047989.0698,
+      "title": "Myndighetene i Libanon: Syv personer drept i israelske angrep",
+      "slug": "myndighetene-i-libanon-syv-personer-drept-i-israelske-angrep",
+      "content": "Helsedepartementet i Libanon melder at syv personer ble drept i nye israelske angrep sør og øst i landet lørdag kveld.\n\nFem personer, inkludert en kvinne og et barn, ble drept øst i landet, mens to palestinere ble drept i Tyr-regionen i sør, ifølge departementet, melder nyhetsbyreået AFP.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
+      "excerpt": "Helsedepartementet i Libanon melder at syv personer ble drept i nye israelske angrep sør og øst i landet lørdag kveld.\n\nFem personer, inkludert en kvinne og et barn, ble drept øst i landet, mens to palestinere ble drept i Tyr-regionen i sør, ifølge departementet, melder nyhetsbyreået AFP.\n\nLibanon...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/myndighetene-i-libanon_-syv-personer-drept-i-israelske-angrep-1.17929872",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-20T23:10:47.989Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1781997046290.722,
+      "title": "Trafikkulykke i Enebakk",
+      "slug": "trafikkulykke-i-enebakk",
+      "content": "Nødetatene rykket ut etter melding om en trafikkulykke i Enebakk i Akershus natt til søndag.  En bil har kjørt inn i et tre.\n\nEn person er flydd til Ullevål sykehus en annen er kjørt til Akershus universitetssykehus.\n\nUlykken fremstår alvorlig, opplyser operasjonsleder Kent Bele i Øst politidistrikt.",
+      "excerpt": "Nødetatene rykket ut etter melding om en trafikkulykke i Enebakk i Akershus natt til søndag.  En bil har kjørt inn i et tre.\n\nEn person er flydd til Ullevål sykehus en annen er kjørt til Akershus universitetssykehus.\n\nUlykken fremstår alvorlig, opplyser operasjonsleder Kent Bele i Øst...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trafikkulykke-i-enebakk--1.17929874",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-20T23:10:46.291Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781990358154.696,
       "title": "Etterforsker voldshendelse på Youngstorget",
       "slug": "etterforsker-voldshendelse-p-youngstorget",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-18T15:29:41.534Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781796579563.3345,
-      "title": "Strømmestiftelsen er tildelt NRK TV-aksjonen for 2027",
-      "slug": "strmmestiftelsen-er-tildelt-nrk-tvaksjonen-for-2027",
-      "content": "Pengene som samles inn skal gå til å gi barn i seks land utdanning. Det er første gang Strømmestfitelsen har TV-aksjonen.\n\nKringkastingssjef Vibeke Fürst Haugen er glad for tildelingen.\n\n– TV-aksjonen er en årlig dugnad som setter fokus på et viktig humanitært prosjekt, denne gang skolegang for barn. Aksjonen er ikke bare en pengeinnsamling, men også en kampanje som skal gi kunnskap om et viktig tema, sier Haugen.",
-      "excerpt": "Pengene som samles inn skal gå til å gi barn i seks land utdanning. Det er første gang Strømmestfitelsen har TV-aksjonen.\n\nKringkastingssjef Vibeke Fürst Haugen er glad for tildelingen.\n\n– TV-aksjonen er en årlig dugnad som setter fokus på et viktig humanitært prosjekt, denne gang skolegang for...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/strommestiftelsen-er-tildelt-nrk-tv-aksjonen-for-2027-1.17927226",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-18T15:29:39.564Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781778214793.3125,
-      "title": "Mann pågrepet etter grovt tyveri fra Elkjøp-butikk",
-      "slug": "mann-pgrepet-etter-grovt-tyveri-fra-elkjpbutikk",
-      "content": "Politiet har pågrepet en person som de mistenker står bak innbruddet hos Elkjøp i Glasmagasinet på Stortorvet i Oslo natt til 7. juni.\n\nPolitiet har sporet bevegelsesmønsteret til mannen, og slik klart å identifisere han, sier politiadvokat Jenny Noren Solgaard.\n\nDe har også ransaket boligen til mannen, og beslaglagt flere gjenstander de mener stammer fra tyveriet, blant annet flere nye mobiltelefoner.\n\nOslo politidistrikt\n\nOslo politidistrikt omfatter kommunene Oslo, Asker og Bærum. Politimester i Oslo siden mai 2023 er Ida Melbo Øystese.",
-      "excerpt": "Politiet har pågrepet en person som de mistenker står bak innbruddet hos Elkjøp i Glasmagasinet på Stortorvet i Oslo natt til 7. juni.\n\nPolitiet har sporet bevegelsesmønsteret til mannen, og slik klart å identifisere han, sier politiadvokat Jenny Noren Solgaard.\n\nDe har også ransaket boligen til...",
-      "image": "https://images.unsplash.com/photo-1742857848733-d5129d150bfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE3NzgyMTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/mann-pagrepet-etter-grovt-tyveri-fra-elkjop-butikk-1.17926081",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-18T10:23:34.793Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781778213021.0925,
-      "title": "Israel kutter all kontakt med EUs utenrikssjef",
-      "slug": "israel-kutter-all-kontakt-med-eus-utenrikssjef",
-      "content": "Israels utenriksminister Gideon Saar sa torsdag at han bryter «all kontakt» med EUs utenrikssjef Kaja Kallas på grunn av det han sa var nylige uttalelser tilskrevet henne som sammenligner Israel med Sør-Afrika under apartheidtiden.\n\nNyhetsnettstedet Euractiv har tidligere sitert kilder som hevdet at Kallas trakk denne sammenligningen i et møte bak lukkede dører under et besøk i Mexico.\n\nKallas sier i et svar på X, at en to-statsløsning er eneste veien videre.",
-      "excerpt": "Israels utenriksminister Gideon Saar sa torsdag at han bryter «all kontakt» med EUs utenrikssjef Kaja Kallas på grunn av det han sa var nylige uttalelser tilskrevet henne som sammenligner Israel med Sør-Afrika under apartheidtiden.\n\nNyhetsnettstedet Euractiv har tidligere sitert kilder som hevdet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/israel-kutter-all-kontakt-med-eus-utenrikssjef-1.17926282",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-18T10:23:33.021Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1843,
+    "totalFetched": 1846,
     "totalPublished": 77,
-    "lastFetch": "2026-06-20T21:19:19.684Z",
+    "lastFetch": "2026-06-20T23:10:52.111Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
