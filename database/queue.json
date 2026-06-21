@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782035569225.6704,
+      "title": "Offentlige tjenester var nede – løsninger tilgjengelig igjen",
+      "slug": "offentlige-tjenester-var-nede-lsninger-tilgjengelig-igjen",
+      "content": "Nettverksfeil førte i nesten et døgn til trøbbel hos en rekke offentlige datatjenester. Søndag er de på vei opp igjen.\n\nIT-trøbbelet oppsto i 13-tiden lørdag. Feilen skyldtes et nettverksproblem hos Digdirs leverandør Vivicta.\n\nDigdir opplyste på sine nettsider at ID-porten, Kontakt- og reservasjonsregisteret, Maskinporten, MinID, ELMA, eInnsyn, Ansattporten og Selvbetjeningsløsninger var utilgjengelige.\n\nKlokken 8.48 lørdag morgen opplyste Digdir at løsninger var tilgjengelig igjen, og at mer informasjon kommer.",
+      "excerpt": "Nettverksfeil førte i nesten et døgn til trøbbel hos en rekke offentlige datatjenester. Søndag er de på vei opp igjen.\n\nIT-trøbbelet oppsto i 13-tiden lørdag. Feilen skyldtes et nettverksproblem hos Digdirs leverandør Vivicta.\n\nDigdir opplyste på sine nettsider at ID-porten, Kontakt- og...",
+      "image": "https://images.unsplash.com/photo-1586711290195-8e73d2758c77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIwMzU1Njl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/offentlige-tjenester-var-nede-_-losninger-tilgjengelig-igjen-1.17930026",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-21T09:52:49.225Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782035567677.727,
+      "title": "Medier: Starmer kan trekke seg allerede mandag",
+      "slug": "medier-starmer-kan-trekke-seg-allerede-mandag",
+      "content": "Den britiske statsministeren Keir Starmer kan komme til å trekke seg allerede mandag. Det melder flere britiske aviser, blant dem Telegraph og Daily Mail.\n\nNæringsminister Peter Kyle utelukket ikke dette da han ble spurt om det på både Sky News og BBC søndag morgen.\n\nFredag ble det klart at Andy Burnham overlegent vant en plass i det britiske parlamentet, noe som gjør det mulig for ham å overta lederskapet i regjeringspartiet Labour.\n\nDet er ventet at Starmer annonserer en tidsplan for en maktovertakelse samtidig som han eventuelt trekker seg.",
+      "excerpt": "Den britiske statsministeren Keir Starmer kan komme til å trekke seg allerede mandag. Det melder flere britiske aviser, blant dem Telegraph og Daily Mail.\n\nNæringsminister Peter Kyle utelukket ikke dette da han ble spurt om det på både Sky News og BBC søndag morgen.\n\nFredag ble det klart at Andy...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/medier_-starmer-kan-trekke-seg-allerede-mandag-1.17930062",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-21T09:52:47.677Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782035566193.0244,
+      "title": "Sakna mann i Kvam funnen død",
+      "slug": "sakna-mann-i-kvam-funnen-dd",
+      "content": "Mannen i 70-åra som har vore sakna i Kvam-fjella, blei funnen død i natt, melder Vest politidistrikt.\n\nMannen blei funnen død utandørs i Botnadalen, ifølge operasjonsleiar Morten Rebnord.\n\nDet blei sett i gang redningsaksjon etter mannen klokka 17 i går ettermiddag. Han hadde då vore til fjells sidan tysdag utan at nokon hadde høyrt frå han.\n\nDet er ikkje mistanke om at det har skjedd noko straffbart, men politiet veit ikkje kva som er dødsårsaka. Mannen vil verte obdusert.",
+      "excerpt": "Mannen i 70-åra som har vore sakna i Kvam-fjella, blei funnen død i natt, melder Vest politidistrikt.\n\nMannen blei funnen død utandørs i Botnadalen, ifølge operasjonsleiar Morten Rebnord.\n\nDet blei sett i gang redningsaksjon etter mannen klokka 17 i går ettermiddag. Han hadde då vore til fjells...",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestland/sakna-mann-i-kvam-funnen-dod---1.17930045",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-21T09:52:46.193Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782015880980.4905,
       "title": "«Cheers»-regissør James Burrows er død, 85 år gammel",
       "slug": "cheersregissr-james-burrows-er-dd-85-r-gammel",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-18T22:10:59.995Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781820658384.1484,
-      "title": "Fotgjenger til sykehus etter påkjørsel på Andøy",
-      "slug": "fotgjenger-til-sykehus-etter-pkjrsel-p-andy",
-      "content": "Én person er kjørt til sykehus etter en påkjørsel på Andøy i Nordland sent torsdag kveld.\n\nDa politiet kom frem til stedet, var det tre fotgjengere og to personer i det involverte kjøretøyet.\n\nAlle fotgjengerne var oppegående, men en av dem ble undersøkt av ambulansepersonell og deretter sendt til sykehus for videre oppfølging, opplyser operasjonsleder June Strand Jensen i Nordland politidistrikt.",
-      "excerpt": "Én person er kjørt til sykehus etter en påkjørsel på Andøy i Nordland sent torsdag kveld.\n\nDa politiet kom frem til stedet, var det tre fotgjengere og to personer i det involverte kjøretøyet.\n\nAlle fotgjengerne var oppegående, men en av dem ble undersøkt av ambulansepersonell og deretter sendt til...",
-      "image": "https://images.unsplash.com/photo-1718341501796-e26059de00cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE4MjA2NTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/fotgjenger-til-sykehus-etter-pakjorsel-pa-andoy-1.17927720",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-18T22:10:58.384Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781807204898.9421,
-      "title": "Riksvei 7 er åpen igjen etter trafikkulykke",
-      "slug": "riksvei-7-er-pen-igjen-etter-trafikkulykke",
-      "content": "Nødetatene rykket ut etter melding om en trafikkulykke på riksvei 7 i Ål. Først ble det meldt om tre biler involvert i en frontkollisjon. Skadeomfanget var da ukjent, og veien ble stengt.\n\nSenere opplyste politiet at fire biler er involvert. En bil skal ha kommet over i motgående kjørefelt i en sving og kollidert med møtende trafikk. Seks personer blir undersøkt av lege. Ingen fremstår som alvorlig skadd, men flere av bilene har store materielle skader.\n\nRiksvei 7 er fortsatt stengt på stedet, men det er omkjøringsmuligheter på stedet, melder politiet.\n\nOppdatering kl. 18.56: Veien er ryddet og åpen i begge retninger. En mann i 40 -årene var fører av bilen som kom over i motgående. Han blir anmeldt og førerkortet beslaglagt.\n\nTrafikk i Buskerud\n\nNRK gir deg de siste meldingene om trafikksituasjonen i Buskerud.",
-      "excerpt": "Nødetatene rykket ut etter melding om en trafikkulykke på riksvei 7 i Ål. Først ble det meldt om tre biler involvert i en frontkollisjon. Skadeomfanget var da ukjent, og veien ble stengt.\n\nSenere opplyste politiet at fire biler er involvert. En bil skal ha kommet over i motgående kjørefelt i en...",
-      "image": "https://images.unsplash.com/photo-1697992895319-1be1ebf87959?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE4MDcyMDR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/buskerud/riksvei-7-er-apen-igjen-etter-trafikkulykke-1.17927323",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-18T18:26:44.898Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781807203187.652,
-      "title": "Politiet ute på dyreoppdrag",
-      "slug": "politiet-ute-p-dyreoppdrag",
-      "content": "– Vi er på vei inn i sommerferien, ler operasjonsleder Vidar Flokenes når NRK ringer om den noe uvanlige oppdateringen i politiloggen.\n\nFor torsdag kveld meldte politiet om to redningsoppdrag som involverte fjærkledde og firbeinte vesener.\n\nPå Hamar hadde en andefamilie forvillet seg inn i bytrafikken i Holsetgata og på Lillehammer løp en gris langs Saksumdalsvegen.\n\n– Vi har rettledet endene som bare det, sier Flokenes.\n\nLitt etter kl. 19 melder politiet at andefamilien ble fulgt tilbake til Mjøsa og at grisen er gjenforent med eier.",
-      "excerpt": "– Vi er på vei inn i sommerferien, ler operasjonsleder Vidar Flokenes når NRK ringer om den noe uvanlige oppdateringen i politiloggen.\n\nFor torsdag kveld meldte politiet om to redningsoppdrag som involverte fjærkledde og firbeinte vesener.\n\nPå Hamar hadde en andefamilie forvillet seg inn i...",
-      "image": "https://images.unsplash.com/photo-1666634489542-543911f99f25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE4MDcyMDN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/innlandet/politiet-ute-pa-dyreoppdrag-1.17927309",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-18T18:26:43.187Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1849,
+    "totalFetched": 1852,
     "totalPublished": 77,
-    "lastFetch": "2026-06-21T04:24:43.629Z",
+    "lastFetch": "2026-06-21T09:52:51.112Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
