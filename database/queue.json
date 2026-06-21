@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1782063649875.414,
+      "title": "Tasnim: Den iranske delegasjonen har forlatt samtalene",
+      "slug": "tasnim-den-iranske-delegasjonen-har-forlatt-samtalene",
+      "content": "Det iranske statlige nyhetsbyrået Tasnim skriver i en melding på Telegram at den iranske delegasjonen har forlatt fredssamtalene med USA.\n\nDet skal ha kommet som en reaksjon på at Trump truet med nye angrep mot landet tidligere i dag.\n\nEt medlem av den iranske delegasjonen sier samtidig til Tasnim at det ikke blir forhandlinger om andre temaer, dersom krigføringen i Libanon ikke tar slutt.\n\nIran og USA er i Sveits og forhandler om en varig fred. Qatar og Pakistan er også med som meklere i samtalene.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Det iranske statlige nyhetsbyrået Tasnim skriver i en melding på Telegram at den iranske delegasjonen har forlatt fredssamtalene med USA.\n\nDet skal ha kommet som en reaksjon på at Trump truet med nye angrep mot landet tidligere i dag.\n\nEt medlem av den iranske delegasjonen sier samtidig til Tasnim...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/tasnim_-den-iranske-delegasjonen-har-forlatt-samtalene-1.17930389",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-21T17:40:49.875Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782057218733.198,
       "title": "Fredssamtalene: – Jeg tror vi får gode diskusjoner",
       "slug": "fredssamtalene-jeg-tror-vi-fr-gode-diskusjoner",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-19T04:40:23.562Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781844022016.72,
-      "title": "Enighet på Grossistoverenskomsten",
-      "slug": "enighet-p-grossistoverenskomsten",
-      "content": "Fire timer på overtid kom Fellesforbundet og Virke til enighet på Grossistoverenskomsten. Streikefaren er dermed avblåst.\n\n– Forhandlingsdelegasjonen er tilfreds med at vi har landet en tariffavtale som sikrer medlemmene reallønnsvekst i en periode med høy prisvekst, og som ivaretar sentrale prinsippkrav vi har arbeidet for over tid, sier forhandlingsleder Espe i en pressemelding.",
-      "excerpt": "Fire timer på overtid kom Fellesforbundet og Virke til enighet på Grossistoverenskomsten. Streikefaren er dermed avblåst.\n\n– Forhandlingsdelegasjonen er tilfreds med at vi har landet en tariffavtale som sikrer medlemmene reallønnsvekst i en periode med høy prisvekst, og som ivaretar sentrale...",
-      "image": "https://images.unsplash.com/photo-1670874103167-31cff21eb845?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE4NDQwMjF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/enighet-pa-grossistoverenskomsten-1.17927771",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-19T04:40:22.016Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1855,
+    "totalFetched": 1856,
     "totalPublished": 77,
-    "lastFetch": "2026-06-21T15:53:40.008Z",
+    "lastFetch": "2026-06-21T17:40:52.495Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
