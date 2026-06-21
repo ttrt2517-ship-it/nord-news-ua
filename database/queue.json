@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782015880980.4905,
+      "title": "«Cheers»-regissør James Burrows er død, 85 år gammel",
+      "slug": "cheersregissr-james-burrows-er-dd-85-r-gammel",
+      "content": "Den kjente TV-regissøren James Burrows er død. Han ble 85 år gammel.\n\nBurrows har i en årrekke jobbet med flere store og kjente TV-produksjoner og var blant annet med på å skape den populære serien «Cheers». Han har også jobbet med kamerat på serier som «Taxi», «Frasier» og «Fiends».\n\nHan har vunnet 11 Emmy-priser og vært nominert 47 ganger.\n\n– Vi feirer det ekstraordinære livet og den varige arven etter James «Jimmy»Burrows, som døde fredelig omgitt av sin kjærlige familie, heter det i en uttalelse fra familien, melder nettstedet «People»\n\nFilm og serier\n\nInnhold om serier og film. Du finner alle anmeldelsene hos Filmpolitiet. Her finner du alle serier i NRK TV.",
+      "excerpt": "Den kjente TV-regissøren James Burrows er død. Han ble 85 år gammel.\n\nBurrows har i en årrekke jobbet med flere store og kjente TV-produksjoner og var blant annet med på å skape den populære serien «Cheers». Han har også jobbet med kamerat på serier som «Taxi», «Frasier» og «Fiends».\n\nHan har...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/_cheers_-regissor-james-burrows-er-dod_-85-ar-gammel-1.17929918",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-21T04:24:40.980Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782015879296.7798,
+      "title": "Leteaksjon - firehjuling i vannet på Sunnmøre",
+      "slug": "leteaksjon-firehjuling-i-vannet-p-sunnmre",
+      "content": "Politiet i Møre og Romsdal melder om en ATV i en elv ved Ørsta. Nødetater er på vei til stedet.\n\nDet er ikke personer å se i nærheten av ATVen, melder politiet. Det er satt i gang søk med drone. Luftambulanse er også på vei.",
+      "excerpt": "Politiet i Møre og Romsdal melder om en ATV i en elv ved Ørsta. Nødetater er på vei til stedet.\n\nDet er ikke personer å se i nærheten av ATVen, melder politiet. Det er satt i gang søk med drone. Luftambulanse er også på vei.",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/leteaksjon---firehjuling-i-vannet-pa-sunnmore-1.17929929",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-21T04:24:39.296Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782015877599.3264,
+      "title": "J.D. Vance har ankommet Sveits for Iran-samtaler",
+      "slug": "jd-vance-har-ankommet-sveits-for-iransamtaler",
+      "content": "USAs visepresident J.D. Vance har ankommet Sveits for samtaler om Iran, sier en talsperson for visepresidenten ifølge Reuters.\n\nLørdag uttalte han at forhandlerne skulle diskutere Irans atomprogram og våpenhvilen i Libanon.\n\nUSA og Iran inngikk nylig en intensjonsavtale om våpenhvile. De skulle egentlig diskutere denne i Sveits fredag, men møtet ble avlyst.\n\nIranske medier meldte lørdag kveld at den iranske forhandlingsdelegasjonen hadde ankommet, skrev Reuters.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.",
+      "excerpt": "USAs visepresident J.D. Vance har ankommet Sveits for samtaler om Iran, sier en talsperson for visepresidenten ifølge Reuters.\n\nLørdag uttalte han at forhandlerne skulle diskutere Irans atomprogram og våpenhvilen i Libanon.\n\nUSA og Iran inngikk nylig en intensjonsavtale om våpenhvile. De skulle...",
+      "image": "https://images.unsplash.com/photo-1642508168789-010f910ce590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIwMTU4Nzd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/j.d.-vance-har-ankommet-sveits-for-iran-samtaler-1.17929932",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-21T04:24:37.599Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1781997049686.1194,
       "title": "Ingen løsning på nettverksproblemer – en rekke offentlige tjenester nede",
       "slug": "ingen-lsning-p-nettverksproblemer-en-rekke-offentlige-tjenes",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-18T18:26:43.187Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781807201289.709,
-      "title": "Norge frykter massive overgrep i Sudan: – 500.000 sivile i fare",
-      "slug": "norge-frykter-massive-overgrep-i-sudan-500000-sivile-i-fare",
-      "content": "Norge er blant nesten 30 land som advarer om at RSF-militsen i Sudan er i ferd med å gjennomføre brutale overgrep mot sivile i byen El-Obeid.\n\nOgså FNs menneskerettsjef Volker Türk er dypt bekymret for hva som kommer til å skje i byen, som har en halv million innbyggere.\n\n– Stans denne galskapen, sier han og advarer om at det nok en gang kan bli begått alvorlige krigsforbrytelser, i likhet med de RSF-militsen har gjennomført i andre byer.\n\nSudan\n\nDet har vært krig i Sudan siden 15. april 2023. Da brøt det ut blodige kamper rundt hovedstaden Khartoum mellom regjeringsstyrker og den paramilitære gruppen RSF.",
-      "excerpt": "Norge er blant nesten 30 land som advarer om at RSF-militsen i Sudan er i ferd med å gjennomføre brutale overgrep mot sivile i byen El-Obeid.\n\nOgså FNs menneskerettsjef Volker Türk er dypt bekymret for hva som kommer til å skje i byen, som har en halv million innbyggere.\n\n– Stans denne galskapen...",
-      "image": "https://images.unsplash.com/photo-1610963566222-1837b2728b02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE4MDcyMDF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/norge-frykter-massive-overgrep-i-sudan_-_-500.000-sivile-i-fare-1.17927382",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-18T18:26:41.289Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781796583273.8354,
-      "title": "Psykolog dømt for overgrep mot datter gjennom syv år",
-      "slug": "psykolog-dmt-for-overgrep-mot-datter-gjennom-syv-r",
-      "content": "Tingretten har funnet en mann skyldig i gjentatte seksuelle overgrep mot sin egen datter, over en periode på syv år.\n\nHan dømmes nå til fengsel i seks år og seks måneder, men har anket saken.\n\n– Vi har anket. Han nekter fortsatt straffskyld, sier forsvarer Øystein Storrvik til NRK.\n\nDa tiltalen kom i fjor omtalte NRK at mannen tidligere har vært sakkyndig i en rekke rettssaker rundt om i landet.\n\nMannen har arbeidet med forskning på avhør av barn, troverdighetsvurderinger og spørsmålet om falske minner.\n\nHan har hevdet at datterens forklaring dreier seg om falske minner. Retten ser det «som helt utelukket at minnene om overgrep fra faren er falske minner».\n\nIfølge dommen startet overgrepene da datteren var i 6-7-årsalderen. Overgrepene omfatter også samleier, fra 11-12-årsalderen, ifølge dommen.\n\n– Hun er glad for å være ferdig med saken og glad for at retten har lagt hennes forklaring til grunn. Hun synes selvfølgelig det er trist at saken er anket fordi hun hadde sett frem til å legge saken bak seg, sier bistandsadvokat Monica Lindbeck til NRK.\n\nPsykologen har tidligere vært sakkyndig i en rekke rettssaker rundt om i landet. Minst to av sakene han vitnet i handlet om incest.",
-      "excerpt": "Tingretten har funnet en mann skyldig i gjentatte seksuelle overgrep mot sin egen datter, over en periode på syv år.\n\nHan dømmes nå til fengsel i seks år og seks måneder, men har anket saken.\n\n– Vi har anket. Han nekter fortsatt straffskyld, sier forsvarer Øystein Storrvik til NRK.\n\nDa tiltalen kom...",
-      "image": "https://images.unsplash.com/photo-1736067729758-34590b2c69c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE3OTY1ODN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/psykolog-domt-for-overgrep-mot-datter-gjennom-syv-ar-1.17926849",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-18T15:29:43.273Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781796581534.6785,
-      "title": "Stortinget øker egen lønn",
-      "slug": "stortinget-ker-egen-lnn",
-      "content": "Stortinget har stemt gjennom en økning i egen lønn. Rødt og SV stemte mot lønnsøkningen.\n\nDen nye lønna til stortingsrepresentanter er nå på 1.272.209 kroner.\n\nDen nye statsministerlønna er på 2.234.978 kroner, mens øvrige regjeringsmedlemmer får 1.815.703 kroner.\n\nStortinget\n\nRiksrevisjonen har undersøkt 500 stortingsrepresentanters bruk av blant annet pendlerboliger, reiseutgifter og etterlønn. Over 60 har fått for mye utbetalt og kontrollen har vært for dårlig, konkluderer riksrevisoren.",
-      "excerpt": "Stortinget har stemt gjennom en økning i egen lønn. Rødt og SV stemte mot lønnsøkningen.\n\nDen nye lønna til stortingsrepresentanter er nå på 1.272.209 kroner.\n\nDen nye statsministerlønna er på 2.234.978 kroner, mens øvrige regjeringsmedlemmer får 1.815.703 kroner.\n\nStortinget\n\nRiksrevisjonen har...",
-      "image": "https://images.unsplash.com/photo-1651009276328-dbba8f5dc783?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE3OTY1ODF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/stortinget-oker-egen-lonn-1.17927103",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-18T15:29:41.534Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1846,
+    "totalFetched": 1849,
     "totalPublished": 77,
-    "lastFetch": "2026-06-20T23:10:52.111Z",
+    "lastFetch": "2026-06-21T04:24:43.629Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
