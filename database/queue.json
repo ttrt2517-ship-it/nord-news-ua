@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1782057218733.198,
+      "title": "Fredssamtalene: – Jeg tror vi får gode diskusjoner",
+      "slug": "fredssamtalene-jeg-tror-vi-fr-gode-diskusjoner",
+      "content": "USA og Iran begynner i dag forhandlingene om en fredsavtale i Sveits.\n\nDen pakistanske statsministeren Shehbaz Sharif er med for å bistå i forhandlingene. Under en felles pressekonferanse i dag takket han de fremmøtte:\n\n– Jeg tror vi får gode diskusjoner her, som forhåpentligvis vil gi produktive resultater i tiden som kommer.\n\nDen amerikanske visepresidenten J.D. Vance deltok også på pressemøtet. Han brukte blant annet anledningen til å takke president Donald Trump.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "USA og Iran begynner i dag forhandlingene om en fredsavtale i Sveits.\n\nDen pakistanske statsministeren Shehbaz Sharif er med for å bistå i forhandlingene. Under en felles pressekonferanse i dag takket han de fremmøtte:\n\n– Jeg tror vi får gode diskusjoner her, som forhåpentligvis vil gi produktive...",
+      "image": "https://images.unsplash.com/photo-1506967554512-fc1ad1c0b21b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIwNTcyMTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fredssamtalene_-_-jeg-tror-vi-far-gode-diskusjoner-1.17930172",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-21T15:53:38.734Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782043862828.68,
       "title": "Full fyr i bolig i Oslo – mulig eksplosjon",
       "slug": "full-fyr-i-bolig-i-oslo-mulig-eksplosjon",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-19T04:40:22.016Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781844020479.1345,
-      "title": "Sveits: Samtaler mellom Iran og USA avlyst",
-      "slug": "sveits-samtaler-mellom-iran-og-usa-avlyst",
-      "content": "Det sveitsiske utenriksdepartementet melder at samtalene mellom USA og Iran som var planlagt fredag er avlyst. Det melder Reuters.\n\nNyheten kom etter at Det hvite hus sin talsperson i natt annonserte at visepresident J.D. Vance ikke ville delta i møtet.\n\nTidligere denne uken signerte de to landene en intensjonsavtale om å avslutte krigen.",
-      "excerpt": "Det sveitsiske utenriksdepartementet melder at samtalene mellom USA og Iran som var planlagt fredag er avlyst. Det melder Reuters.\n\nNyheten kom etter at Det hvite hus sin talsperson i natt annonserte at visepresident J.D. Vance ikke ville delta i møtet.\n\nTidligere denne uken signerte de to landene...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/sveits_-samtaler-mellom-iran-og-usa-avlyst--1.17927840",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-19T04:40:20.480Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1854,
+    "totalFetched": 1855,
     "totalPublished": 77,
-    "lastFetch": "2026-06-21T12:11:05.103Z",
+    "lastFetch": "2026-06-21T15:53:40.008Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
