@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1782043862828.68,
+      "title": "Full fyr i bolig i Oslo – mulig eksplosjon",
+      "slug": "full-fyr-i-bolig-i-oslo-mulig-eksplosjon",
+      "content": "Det er meldt om brann og en mulig eksplosjon i en bolig på Brenna i Oslo.\n\n– Det er full fyr. Det siste vi har fått nå er at det er store åpne flammer.\n\n– Det er fare for spredning. Vi ber folk om å trekke unna, sier Tor Grøttum, operasjonsleder i politiet.\n\nDet er foreløpig ikke meldt om skadde. Beboere skal ha evakuert seg selv, skriver politiet.\n\nDet er fare for spredning til et boligbygg i nærheten. Beboerne her er evakuert.\n\n– Det er mye røyk i området grunnet brannen. Beboere i området bes om å holde vinduer lukket og slå av aircondition, skriver politiet.\n\nEn bolig på Søndre Nordstrand er totalskadd etter en brann. Ingen personer er skadet.",
+      "excerpt": "Det er meldt om brann og en mulig eksplosjon i en bolig på Brenna i Oslo.\n\n– Det er full fyr. Det siste vi har fått nå er at det er store åpne flammer.\n\n– Det er fare for spredning. Vi ber folk om å trekke unna, sier Tor Grøttum, operasjonsleder i politiet.\n\nDet er foreløpig ikke meldt om skadde....",
+      "image": "https://images.unsplash.com/photo-1678057058628-e5669d6864ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIwNDM4NjJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/full-fyr-i-bolig-i-oslo-_-mulig-eksplosjon-1.17930133",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-21T12:11:02.828Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782043861131.706,
+      "title": "Qatar: Iran-samtaler har startet i Sveits",
+      "slug": "qatar-iransamtaler-har-startet-i-sveits",
+      "content": "Samtalene mellom USA og Iran har startet i Sveits, ifølge det qatarske utenriksdepartementet skriver Al Jazeera.\n\nDen amerikanske visepresidenten J.D. Vance ankom Sveits tidlig i morges, mens en iransk delegasjon ankom lørdag.\n\nOgså den pakistanske statsministeren er på plass for å delta i samtalene, som er et ledd i arbeidet med en våpenhvileavtale mellom USA og Iran.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Samtalene mellom USA og Iran har startet i Sveits, ifølge det qatarske utenriksdepartementet skriver Al Jazeera.\n\nDen amerikanske visepresidenten J.D. Vance ankom Sveits tidlig i morges, mens en iransk delegasjon ankom lørdag.\n\nOgså den pakistanske statsministeren er på plass for å delta i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/qatar_-iran-samtaler-har-startet-i-sveits-1.17930068",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-21T12:11:01.131Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782035569225.6704,
       "title": "Offentlige tjenester var nede – løsninger tilgjengelig igjen",
       "slug": "offentlige-tjenester-var-nede-lsninger-tilgjengelig-igjen",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-06-19T04:40:20.480Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781820661666.4124,
-      "title": "Mann pågrepet etter at treåring havnet hos krokodiller",
-      "slug": "mann-pgrepet-etter-at-trering-havnet-hos-krokodiller",
-      "content": "En 30 år gammel mann er pågrepet og mistenkt for drapsforsøk etter at en tre år gammel gutt ble kritisk skadet da han havnet innenfor en innhegning for krokodiller i en dyrehage i nærheten av Huntingdon i Storbritannia, melder BBC News.\n\nPolitiet tror ikke at mannen og gutten kjente hverandre.\n\nGutten ble fraktet til sykehus med alvorlige skader, og tilstanden hans er kritisk, men stabil, opplyser politiet.",
-      "excerpt": "En 30 år gammel mann er pågrepet og mistenkt for drapsforsøk etter at en tre år gammel gutt ble kritisk skadet da han havnet innenfor en innhegning for krokodiller i en dyrehage i nærheten av Huntingdon i Storbritannia, melder BBC News.\n\nPolitiet tror ikke at mannen og gutten kjente...",
-      "image": "https://images.unsplash.com/photo-1661451657699-28950f2f2fe8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE4MjA2NjF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/mann-pagrepet-etter-at-trearing-havnet-hos-krokodiller-1.17927672",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-18T22:11:01.666Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781820659995.0142,
-      "title": "USA varsler gjennomgang av militærstyrkene i Europa",
-      "slug": "usa-varsler-gjennomgang-av-militrstyrkene-i-europa",
-      "content": "USAs forsvarsminister Pete Hegseth varslet torsdag at de i løpet av de neste seks månedene vil vurdere alle sine militærstyrker og baser i Europa på nytt, skriver CNN.\n\nMeldingen kom under Natos forsvarsministermøte i Brussel.\n\nIfølge Hegseth er målet med gjennomgangen å tvinge Europa til å ta hovedansvaret for sin egen sikkerhet og omstille Nato til en allianse med fokus på militær styrke.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "USAs forsvarsminister Pete Hegseth varslet torsdag at de i løpet av de neste seks månedene vil vurdere alle sine militærstyrker og baser i Europa på nytt, skriver CNN.\n\nMeldingen kom under Natos forsvarsministermøte i Brussel.\n\nIfølge Hegseth er målet med gjennomgangen å tvinge Europa til å ta...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-varsler-gjennomgang-av-militaerstyrkene-i-europa-1.17927717",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-18T22:10:59.995Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1852,
+    "totalFetched": 1854,
     "totalPublished": 77,
-    "lastFetch": "2026-06-21T09:52:51.112Z",
+    "lastFetch": "2026-06-21T12:11:05.103Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
