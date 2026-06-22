@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782151935899.9424,
+      "title": "Tsjekkia vil ha mobilforbud i skolen",
+      "slug": "tsjekkia-vil-ha-mobilforbud-i-skolen",
+      "content": "Regjeringen i Tsjekkia har lagt fram et lovforslag om å forby all bruk av mobiltelefoner i landets skoler fra september 2027.\n\nForbudet vil med få unntak gjelde både i klasserommet og i friminuttene, opplyser statsminister Andrej Babis.\n\nTsjekkia vil dermed i likhet med stadig flere land innføre tiltak for å begrense barns mobilbruk og tilgang til sosiale medier. (NTB)",
+      "excerpt": "Regjeringen i Tsjekkia har lagt fram et lovforslag om å forby all bruk av mobiltelefoner i landets skoler fra september 2027.\n\nForbudet vil med få unntak gjelde både i klasserommet og i friminuttene, opplyser statsminister Andrej Babis.\n\nTsjekkia vil dermed i likhet med stadig flere land innføre...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/tsjekkia-vil-ha-mobilforbud-i-skolen-1.17931405",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-22T18:12:15.900Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782151934436.633,
+      "title": "Funn av død person i Hustadvika",
+      "slug": "funn-av-dd-person-i-hustadvika",
+      "content": "Det er gjort funn av en død person i Litlevatnet i Elnesvågen i Hustadvika kommune. Det melder politiet mandag kveld.\n\nDet har tidligere vært gjennomført søk etter en savna person i området. Politiet vil ikke bekrefte at det er den savna personen som er funnet, men opplyser om at de pårørende til den savna er varslet om funnet. Avdøde vil bli sendt til obduksjon.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
+      "excerpt": "Det er gjort funn av en død person i Litlevatnet i Elnesvågen i Hustadvika kommune. Det melder politiet mandag kveld.\n\nDet har tidligere vært gjennomført søk etter en savna person i området. Politiet vil ikke bekrefte at det er den savna personen som er funnet, men opplyser om at de pårørende til...",
+      "image": "https://images.unsplash.com/photo-1695725097795-19328f75e879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIxNTE5MzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/mr/funn-av-dod-person-i-hustadvika--1.17931740",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-22T18:12:14.436Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782151932822.6858,
+      "title": "Stanser stevning fra Trump-administrasjonen – mener den framstår som hevn",
+      "slug": "stanser-stevning-fra-trumpadministrasjonen-mener-den-framstr",
+      "content": "En dommer setter en stopper for en stevning fra Trump-administrasjonen mot Minnesota-guvernør Tim Walz og flere andre statsansatte, skriver nyhetsbyrået AP.\n\nStevningen framstår som trakassering og hevn for å ikke ha bistått føderale immigrasjonsmyndigheter, mener dommer Patrick Schlitz.\n\nStevningen er en del av etterforskninga av om Walz og andre hindret arbeidet til immigrasjonspolitiet ICE.\n\nI kjennelsen heter det at justisdepartementet ikke gjennomfører en etterforskning, men at de bruker storjuryen for andre ulovlige hensikter, skriver AP.\n\nDe lokale myndighetene var svært kritiske til Trump-administrasjonens håndtering av opptøyer i Minneapolis i forbindelse med at to personer ble skutt og drept av immigrasjonspolitiet og grensepolitiet.\n\nUro i Minneapolis etter ICE-drap\n\nDet pågår demonstrasjoner mot USAs føderale immigrasjonspoliti (ICE) og Trump-administrasjonen i Minneapolis i delstaten Minnesota.\nProtestene har eskalert etter at to personer er blitt skutt og drept av føderale agenter og ICE på kort tid.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "En dommer setter en stopper for en stevning fra Trump-administrasjonen mot Minnesota-guvernør Tim Walz og flere andre statsansatte, skriver nyhetsbyrået AP.\n\nStevningen framstår som trakassering og hevn for å ikke ha bistått føderale immigrasjonsmyndigheter, mener dommer Patrick...",
+      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIxNTE5MzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/stanser-stevning-fra-trump-administrasjonen-_-mener-den-framstar-som-hevn-1.17931599",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-22T18:12:12.823Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782130087087.3706,
       "title": "VIDEO: World Cup fever takes over the Norwegian Storting",
       "slug": "video-world-cup-fever-takes-over-the-norwegian-storting",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-19T22:59:54.842Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781903472034.81,
-      "title": "Trump sier han vil reise til Kina igjen",
-      "slug": "trump-sier-han-vil-reise-til-kina-igjen",
-      "content": "USAs president Donald Trump kunngjorde fredag at han vil reise til Tyrkia og ta en ny tur til Kina i løpet av året.\n\n– Vi skal på mange reiser, sa Trump på Join Base Andrews i Maryland.\n\nTrump avduket et Boeing 747-fly, som er en gave fra Qatar og som skal innlemmes i Air Force One-flåten.\n\n– Kinas president Xi Jinping kommer hit i September, men vi skal tilbake i forbindelse med en stor konferanse som holdes i Kina, la Trump til.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "USAs president Donald Trump kunngjorde fredag at han vil reise til Tyrkia og ta en ny tur til Kina i løpet av året.\n\n– Vi skal på mange reiser, sa Trump på Join Base Andrews i Maryland.\n\nTrump avduket et Boeing 747-fly, som er en gave fra Qatar og som skal innlemmes i Air Force One-flåten.\n\n– Kinas...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump-sier-han-vil-reise-til-kina-igjen-1.17929145",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-19T21:11:12.034Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781903470367.666,
-      "title": "Én person omkom i en togkollisjon i Storbritannia",
-      "slug": "n-person-omkom-i-en-togkollisjon-i-storbritannia",
-      "content": "Én person omkom i en togkollisjon nær Bedford i Storbritannia fredag, det opplyser myndighetene. Flere skal ha blitt alvorlig skadet da et East Midlands Railways-tog kolliderte med et annet tog bakfra.\n\n– Det er erklært en større hendelse, og en betydelig redningsaksjon pågår, sier nestleder Stuart Cundy i det britiske transportpolitiet, ifølge BBC News.",
-      "excerpt": "Én person omkom i en togkollisjon nær Bedford i Storbritannia fredag, det opplyser myndighetene. Flere skal ha blitt alvorlig skadet da et East Midlands Railways-tog kolliderte med et annet tog bakfra.\n\n– Det er erklært en større hendelse, og en betydelig redningsaksjon pågår, sier nestleder Stuart...",
-      "image": "https://images.unsplash.com/photo-1659424766030-385d22f8b0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE5MDM0NzB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/en-person-omkom-i-en-togkollisjon-i-storbritannia-1.17929148",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-19T21:11:10.367Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781903468000.2085,
-      "title": "To personer skadd etter å ha blitt angrepet av en ku i Molde",
-      "slug": "to-personer-skadd-etter-ha-blitt-angrepet-av-en-ku-i-molde",
-      "content": "Nødetater rykket ut etter melding om en arbeidsulykke på en gård i Molde fredag kveld.\n\n– To personer er skadet, en av dem kritisk og er fraktet til sykehus, opplyser Tove Susann Brunvold Holst-Dyrnes i Møre og Romsdal politidistrikt.\n\nÅrsaken skal være en ku som har gått til angrep i forbindelse med arbeid på gården.",
-      "excerpt": "Nødetater rykket ut etter melding om en arbeidsulykke på en gård i Molde fredag kveld.\n\n– To personer er skadet, en av dem kritisk og er fraktet til sykehus, opplyser Tove Susann Brunvold Holst-Dyrnes i Møre og Romsdal politidistrikt.\n\nÅrsaken skal være en ku som har gått til angrep i forbindelse...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/to-personer-skadd-etter-a-ha-blitt-angrepet-av-en-ku-i-molde-1.17929158",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-19T21:11:08.000Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1867,
+    "totalFetched": 1870,
     "totalPublished": 77,
-    "lastFetch": "2026-06-22T12:08:08.088Z",
+    "lastFetch": "2026-06-22T18:12:17.083Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
