@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782213551647.9011,
+      "title": "Styrket tilbud i Lofoten gir dyrere flybilletter",
+      "slug": "styrket-tilbud-i-lofoten-gir-dyrere-flybilletter",
+      "content": "Regjeringen setter inn en ekstra daglig rundtur seks dager i uken på flyrutene fra Leknes og Svolvær til Bodø fra 1. januar 2027.\n\nTiltaket skal løse de store kapasitetsutfordringene i regionen, og øke antall seter med 15 prosent, skriver regjeringa i ei pressemelding.\n\n– Det er viktig å sikre et godt flytilbud for folks reisehverdag og konkurransekraft for næringslivet, sier samferdselsminister Jon-Ivar Nygård (Ap).\n\nFor å finansiere tilbudet økes maksimalprisen på billettene med i underkant av 180 kroner. I tillegg er det satt av to millioner kroner til Avinor for å utrede en forlengelse av rullebanen på Leknes lufthavn.",
+      "excerpt": "Regjeringen setter inn en ekstra daglig rundtur seks dager i uken på flyrutene fra Leknes og Svolvær til Bodø fra 1. januar 2027.\n\nTiltaket skal løse de store kapasitetsutfordringene i regionen, og øke antall seter med 15 prosent, skriver regjeringa i ei pressemelding.\n\n– Det er viktig å sikre et...",
+      "image": "https://images.unsplash.com/photo-1781634201648-f995ed73905c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIyMTM1NTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nordland/styrket-tilbud-i-lofoten-gir-dyrere-flybilletter-1.17932394",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-23T11:19:11.647Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782213549936.0288,
+      "title": "Mann tiltalt for tre drapsforsøk etter skytingen på Tveita",
+      "slug": "mann-tiltalt-for-tre-drapsforsk-etter-skytingen-p-tveita",
+      "content": "En mann i 20-årene er tiltalt for tre drapsforsøk etter skytingen på Tveita i fjor sommer, melder Avisa Oslo.\n\nMannen har tidligere nektet straffskyld, skriver avisa.\n\n– Min klient er ikke enig i det som kommer frem i tiltalen. Ingen ytterligere kommentar i dag, skriver hans forsvarer Mohamed Hamzaoui i en melding.\n\nTo personer er nå pågrepet for skytingen på Tveita senter i Oslo. Mannen som skal ha avfyrt skuddene, vil ikke la seg avhøre.",
+      "excerpt": "En mann i 20-årene er tiltalt for tre drapsforsøk etter skytingen på Tveita i fjor sommer, melder Avisa Oslo.\n\nMannen har tidligere nektet straffskyld, skriver avisa.\n\n– Min klient er ikke enig i det som kommer frem i tiltalen. Ingen ytterligere kommentar i dag, skriver hans forsvarer Mohamed...",
+      "image": "https://images.unsplash.com/photo-1681798200567-2437430eb57b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIyMTM1NDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/mann-tiltalt-for-tre-drapsforsok-etter-skytingen-pa-tveita--1.17932312",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-23T11:19:09.936Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782213548125.9236,
+      "title": "FN-kommisjon mener Israel gjennomførte målrettede angrep mot barn",
+      "slug": "fnkommisjon-mener-israel-gjennomfrte-mlrettede-angrep-mot-ba",
+      "content": "En uavhengig FN-gransking mener israelske styrker gjennomførte målrettede angrep mot barn i Gaza, melder Reuters.\n\nKommisjonen begrunner sin konklusjon med at Israel fortsatte å bruke kraftigere våpen med stor spredning i tettbefolkede boligområder, tross at mange barn var blitt drept.\n\nDette tilsier at angrepene var intensjonelle, mener kommisjonen.\n\nKommisjonen mener at omfattende angrep, fordrivelse og utsulting som følge av blokaden, har påført barna alvorlige skader. Israel avviser disse påstandene.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
+      "excerpt": "En uavhengig FN-gransking mener israelske styrker gjennomførte målrettede angrep mot barn i Gaza, melder Reuters.\n\nKommisjonen begrunner sin konklusjon med at Israel fortsatte å bruke kraftigere våpen med stor spredning i tettbefolkede boligområder, tross at mange barn var blitt drept.\n\nDette...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/fn-kommisjon-mener-israel-gjennomforte-malrettede-angrep-mot-barn-1.17932517",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-23T11:19:08.125Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782201070030.33,
       "title": "Russiske luftangrep natt til tirsdag",
       "slug": "russiske-luftangrep-natt-til-tirsdag",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-20T07:52:02.663Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781941920727.873,
-      "title": "Erklærer nødssituasjon i Bolivia",
-      "slug": "erklrer-ndssituasjon-i-bolivia",
-      "content": "Bolivias president Rodrigo Paz erklærer en nødssituasjon i landet, melder lokale medier.\n\nBakgrunnen er en flere ukers konflikt og veiblokader som har skapt store problemer for landets økonomi, med krav om at presidenten skulle gå av.\n\nErklæringen om nødssituasjon kommer få timer etter at det ble meldt at regjeringa hadde kommet fram til en avtale med landets største fagforening, som var en av partene. Men de har ikke kommet fram til en avtale med de andre partene, ifølge lokale medier.\n\nEn nødssituasjon innebærer at presidenten kan sette inn militæret mot demonstranter.",
-      "excerpt": "Bolivias president Rodrigo Paz erklærer en nødssituasjon i landet, melder lokale medier.\n\nBakgrunnen er en flere ukers konflikt og veiblokader som har skapt store problemer for landets økonomi, med krav om at presidenten skulle gå av.\n\nErklæringen om nødssituasjon kommer få timer etter at det ble...",
-      "image": "https://images.unsplash.com/photo-1585501528855-b9184c98a504?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE5NDE5MjB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/erklaerer-nodssituasjon-i-bolivia-1.17929242",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-20T07:52:00.727Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781941918796.1726,
-      "title": "Pakistans innenriksminister på vei til Iran for samtaler",
-      "slug": "pakistans-innenriksminister-p-vei-til-iran-for-samtaler",
-      "content": "Den pakistanske innenriksministeren Mohsan Naqvi er på vei til Iran for samtaler, melder det statlige iranske nyhetsbyrået IRNA. Det skriver Reuters. Han skal blant annet møte den iranske utenriksministeren ifølge det iranske nyhetsbyrået Isna.\n\nNaqvi skal diskutere utviklingen i våpenhvilesamtalene mellom USA og Iran.\n\nTidligere denne uka signerte USA og Iran en intensjonsavtale om å få på plass en våpenhvile.\n\nPakistan har vært en sentral del av fredsforhandlingene mellom partene.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.",
-      "excerpt": "Den pakistanske innenriksministeren Mohsan Naqvi er på vei til Iran for samtaler, melder det statlige iranske nyhetsbyrået IRNA. Det skriver Reuters. Han skal blant annet møte den iranske utenriksministeren ifølge det iranske nyhetsbyrået Isna.\n\nNaqvi skal diskutere utviklingen i...",
-      "image": "https://images.unsplash.com/photo-1765315163412-d60dcb828fe5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE5NDE5MTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/pakistans-innenriksminister-pa-vei-til-iran-for-samtaler-1.17929248",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-20T07:51:58.796Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781927632481.2192,
-      "title": "Norway opens landmark ‘cycling highway’",
-      "slug": "norway-opens-landmark-cycling-highway",
-      "content": "After twenty-five years of anticipation, Norway’s first dedicated cycling motorway, the Sykkelstamveien, officially opened on Tuesday, June 16th.\n\nConnecting Stavanger and Sandnes, this major pilot project has attracted national attention from urban planners.\n\nThe Sykkelstamveien is Norway’s first fully separated main road for bicycle traffic between two major cities.\n\nFor a country where many people enjoy cycling and which welcomes adventurous cycle tourists, the new highway provides a unique experience as cyclists can travel 13 kilometres without encountering cars or pedestrians.\n\nPurpose-built bridges, tunnels, and underpasses allow cyclists to ride continuously without traffic lights, roundabouts, or car queues.\n\nThrough Auglendshøyden, riders even pass through a dedicated, 380-metre-long bicycle tunnel.\n\nThe route is reserved for cyclists and electric scooters who will be able to ride at a steady speed of 30 km/h. Walkers, joggers, strollers, and even roller-ski users are not permitted. This means no more ringing the bell for pedestrians or prams.\n\nThe project cost approximately 2.1 billion kroner and was funded by the state. This amount breaks down to 162 million kroner per kilometre, or about 160,000 kroner per metre, sparking debate over its high cost.\n\nInterestingly, project planners said that the highway was not mainly intended for existing cyclists. The primary target is drivers currently experiencing daily congestion on the adjacent E39 motorway.\n\nAuthorities hope the congestion-free commute will encourage motorists to switch to two wheels, especially as the Forus business hub is only a 15 minute bike ride from both Stavanger and Sandnes.\n\nThis comes as the region wants to achieve its \"zero-growth target\" for car traffic, ensuring congestion remains stable even as the population increases.\n\nFor tourists seeking a unique adventure en route to Stavanger (the gateway to the fjords and iconic destinations like Preikestolen), this summer may bring a significant rise in visitors choosing to arrive by bicycle.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "After twenty-five years of anticipation, Norway’s first dedicated cycling motorway, the Sykkelstamveien, officially opened on Tuesday, June 16th.\n\nConnecting Stavanger and Sandnes, this major pilot project has attracted national attention from urban planners.\n\nThe Sykkelstamveien is Norway’s first...",
-      "image": "https://images.unsplash.com/photo-1657788913371-1f2051447e55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE5Mjc2MzJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260616/norway-opens-landmark-cycling-highway",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-06-20T03:53:52.481Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1876,
+    "totalFetched": 1879,
     "totalPublished": 77,
-    "lastFetch": "2026-06-23T07:51:12.025Z",
+    "lastFetch": "2026-06-23T11:19:12.883Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
