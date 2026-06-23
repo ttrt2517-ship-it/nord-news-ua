@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1782256182089.3538,
+      "title": "Togstans i hele Tyskland",
+      "slug": "togstans-i-hele-tyskland",
+      "content": "Togtrafikken i hele Tyskland ble stanset tirsdag kveld på grunn av feil i jernbanens digitale radiosystem, som brukes til kommunikasjon og styring av togene.\n\nDet opplyser det statlige jernbaneselskapet Deutsche Bahn.\n\nAlle tog ble holdt igjen på stasjonene mens teknikere jobbet med å fikse problemet.\n\nDet er ukjent hvor lenge togstansen vil vare, skriver NTB.",
+      "excerpt": "Togtrafikken i hele Tyskland ble stanset tirsdag kveld på grunn av feil i jernbanens digitale radiosystem, som brukes til kommunikasjon og styring av togene.\n\nDet opplyser det statlige jernbaneselskapet Deutsche Bahn.\n\nAlle tog ble holdt igjen på stasjonene mens teknikere jobbet med å fikse...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/togstans-i-hele-tyskland-1.17933332",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-23T23:09:42.089Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782245842007.9941,
       "title": "Motorsyklist omkom etter å ha kollidert med elg",
       "slug": "motorsyklist-omkom-etter-ha-kollidert-med-elg",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-20T17:27:17.177Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781976435474.5925,
-      "title": "Flere drept i russiske angrep",
-      "slug": "flere-drept-i-russiske-angrep",
-      "content": "Fire personer skal være drept og seks skadet etter russiske angrep mot den ukrainske byen Zaporizjzja, ifølge byens guvernør Ivan Fedorov.\n\nHan frykter at flere ligger fanget i ruinene og at dødstallet kan øke.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Fire personer skal være drept og seks skadet etter russiske angrep mot den ukrainske byen Zaporizjzja, ifølge byens guvernør Ivan Fedorov.\n\nHan frykter at flere ligger fanget i ruinene og at dødstallet kan øke.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i...",
-      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE5NzY0MzV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-drept-i-russiske-angrep-1.17929642",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-20T17:27:15.474Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1886,
+    "totalFetched": 1887,
     "totalPublished": 77,
-    "lastFetch": "2026-06-23T20:17:24.309Z",
+    "lastFetch": "2026-06-23T23:09:44.955Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
