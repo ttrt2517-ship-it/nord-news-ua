@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782272860799.1533,
+      "title": "YouTube inngår forlik etter søksmål fra 16-åring",
+      "slug": "youtube-inngr-forlik-etter-sksml-fra-16ring",
+      "content": "YouTube har inngått et hemmelig forlik med en 16 år gammel gutt som saksøkte dem for å ha skadet hans psykiske helse, skriver nyhetsbyrået Reuters.\n\nGutten hevder han ble avhengig av sosiale medier som åtteåring, og at han fikk angst og depresjon. YouTube-eier Google sier saken er løst, men vil ikke si hvor mye penger det er snakk om.\n\nSøksmålet gjelder også Meta (Instagram), Snapchat og TikTok. Disse tre selskapene må etter planen møte i en rettssak i California i juli. De avviser anklagene og sier de gjør mye for å beskytte unge brukere. Selskapene opplever nå en bølge av tusenvis av lignende søksmål i USA.",
+      "excerpt": "YouTube har inngått et hemmelig forlik med en 16 år gammel gutt som saksøkte dem for å ha skadet hans psykiske helse, skriver nyhetsbyrået Reuters.\n\nGutten hevder han ble avhengig av sosiale medier som åtteåring, og at han fikk angst og depresjon. YouTube-eier Google sier saken er løst, men vil...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/youtube-inngar-forlik-etter-soksmal-fra-16-aring-1.17933338",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-24T03:47:40.799Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782272859015.6572,
+      "title": "Vogntogsjåfør pågrepet etter 14 brudd på hvilebestemmelser",
+      "slug": "vogntogsjfr-pgrepet-etter-14-brudd-p-hvilebestemmelser",
+      "content": "En tyrkisk vogntogsjåfør i 40-årene ble natt til onsdag pågrepet og satt i arresten, opplyser Øst politidistrikt.\n\nMannen er anmeldt av Statens vegvesen, som under kontroller har avdekket 14 alvorlige brudd på reglene for kjøre- og hviletid den siste måneden.\n\nSjåføren har innrømmet overfor Vegvesenet at han var klar over lovbruddene, ifølge politiloggen. Reglene for kjøre- og hviletid skal passe på at sjåfører ikke kjører når de er for trøtte.",
+      "excerpt": "En tyrkisk vogntogsjåfør i 40-årene ble natt til onsdag pågrepet og satt i arresten, opplyser Øst politidistrikt.\n\nMannen er anmeldt av Statens vegvesen, som under kontroller har avdekket 14 alvorlige brudd på reglene for kjøre- og hviletid den siste måneden.\n\nSjåføren har innrømmet overfor...",
+      "image": "https://images.unsplash.com/photo-1619907478843-317441713686?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIyNzI4NTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/vogntogsjafor-pagrepet-etter-14-brudd-pa-hvilebestemmelser-1.17933353",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-24T03:47:39.016Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782272857091.7913,
+      "title": "Strømbrudd etter droneangrep på Krym",
+      "slug": "strmbrudd-etter-droneangrep-p-krym",
+      "content": "Deler av byen Sevastopol på den russisk-okkuperte Krym-halvøya har mistet strømmen etter et ukrainsk droneangrep natt til onsdag. Det melder nyhetsbyrået Reuters.\n\nIfølge den russisk-innsatte guvernøren i byen, Mikhail Razvozjajev, skal luftvernet ha skutt ned ni ukrainske droner.\n\nKrym-halvøya tilhører egentlig Ukraina, men Russland okkuperte området i 2014.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Deler av byen Sevastopol på den russisk-okkuperte Krym-halvøya har mistet strømmen etter et ukrainsk droneangrep natt til onsdag. Det melder nyhetsbyrået Reuters.\n\nIfølge den russisk-innsatte guvernøren i byen, Mikhail Razvozjajev, skal luftvernet ha skutt ned ni ukrainske droner.\n\nKrym-halvøya...",
+      "image": "https://images.unsplash.com/photo-1781444554216-60fa5ac34903?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIyNzI4NTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/strombrudd-etter-droneangrep-pa-krym-1.17933354",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-24T03:47:37.091Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782256182089.3538,
       "title": "Togstans i hele Tyskland",
       "slug": "togstans-i-hele-tyskland",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-20T19:39:40.147Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781984378382.8074,
-      "title": "Medier: Journalist drept i Gaza",
-      "slug": "medier-journalist-drept-i-gaza",
-      "content": "Ahmed Wishah, en fotograf som jobbet for Al Jazeera, ble lørdag drept i et israelsk angrep på Gazastripen, melder flere medier, blant annet Al Jazeera selv.\n\nDet israelske angrepet rammet et hus i en flyktningleir sentralt i Gaza hvor Wishah oppholdt seg, ifølge avisen.\n\nDet israelske militæret hevder på sin side at fotografen var en terrorist, skriver nyhetsbyrået AFP.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
-      "excerpt": "Ahmed Wishah, en fotograf som jobbet for Al Jazeera, ble lørdag drept i et israelsk angrep på Gazastripen, melder flere medier, blant annet Al Jazeera selv.\n\nDet israelske angrepet rammet et hus i en flyktningleir sentralt i Gaza hvor Wishah oppholdt seg, ifølge avisen.\n\nDet israelske militæret...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/medier_-journalist-drept-i-gaza-1.17929697",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-20T19:39:38.382Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781976438847.259,
-      "title": "Nicolai Østeby ny Unge Høyre-leder",
-      "slug": "nicolai-steby-ny-unge-hyreleder",
-      "content": "Unge Høyres Landsmøte har valgt Nicolai Østeby som ny partileder.\n\nValgkomiteen la frem en enstemmig innstilling på Oda Røhme Sivertsen. Som ventet kastet 23 år gamle Østeby fra Kristiansand seg inn i lederkampen. Etter skriftlig votering ble han også valgt.\n\nTil NRK sier Østeby at han er stolt og ydmyk over å ha fått landsmøtets tillit.\n\n– Vi skal vise Høyre at veien tilbake til å bli største parti på borgerlig side er gjennom å velge de rette svarene – ikke de lette.\n\nPartiet Høyre\n\nHøyre ble stiftet i 1884. Ine Eriksen Søreide ble valgt til partiets leder februar 2026. I Stortingsvalget 2025 ble partiet tredje størst med 14,6 prosent.",
-      "excerpt": "Unge Høyres Landsmøte har valgt Nicolai Østeby som ny partileder.\n\nValgkomiteen la frem en enstemmig innstilling på Oda Røhme Sivertsen. Som ventet kastet 23 år gamle Østeby fra Kristiansand seg inn i lederkampen. Etter skriftlig votering ble han også valgt.\n\nTil NRK sier Østeby at han er stolt og...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/nicolai-osteby-ny-unge-hoyre-leder-1.17929628",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-20T17:27:18.847Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781976437177.764,
-      "title": "Dronning Sonja om kronprinsessens operasjon: – Helt fantastisk",
-      "slug": "dronning-sonja-om-kronprinsessens-operasjon-helt-fantastisk",
-      "content": "Dronning Sonja er i Kristiansand i forbindelse med åpningen av en kunstutstilling på Galleri Bi-Z, der hun viser 77 verk.\n\nUnder besøket kommenterte hun også at kronprinsesse Mette-Marit nylig har gjennomgått en vellykket lungetransplantasjon.\n\n– Det er bare helt fantastisk. Det er fantastisk at det har skjedd så godt på den måten, sier hun.\n\nKronprinsessen ble tidligere i år satt på venteliste for transplantasjon etter en alvorlig forverring i helsetilstanden, og ble denne uka operert på Rikshospitalet.\n\nKronprinsessen ble i starten av juni satt på venteliste for transplantasjon etter en alvorlig forverring i helsetilstanden. Tidligere denne uka ble det kjent at hun hadde transplantert.",
-      "excerpt": "Dronning Sonja er i Kristiansand i forbindelse med åpningen av en kunstutstilling på Galleri Bi-Z, der hun viser 77 verk.\n\nUnder besøket kommenterte hun også at kronprinsesse Mette-Marit nylig har gjennomgått en vellykket lungetransplantasjon.\n\n– Det er bare helt fantastisk. Det er fantastisk at...",
-      "image": null,
-      "original_url": "https://www.nrk.no/sorlandet/dronning-sonja-om-kronprinsessens-operasjon_-_-helt-fantastisk-1.17929647",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-20T17:27:17.177Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1887,
+    "totalFetched": 1890,
     "totalPublished": 77,
-    "lastFetch": "2026-06-23T23:09:44.955Z",
+    "lastFetch": "2026-06-24T03:47:43.735Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
