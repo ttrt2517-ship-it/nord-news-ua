@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782298322427.2288,
+      "title": "Rødt farevarsel utstedt i Storbritannia: Venter 39 grader i dag",
+      "slug": "rdt-farevarsel-utstedt-i-storbritannia-venter-39-grader-i-da",
+      "content": "Temperaturer opp mot 39 grader er ventet i den sørlige delen av Storbritannia onsdag og torsdag.\n\nVed rødt farevarsel regnes varmen som så ekstrem at det er fare for liv hos den generelle befolkningen – ikke bare blant risikogrupper og eldre, skriver BBC.\n\nHundrevis av skoler er helt eller delvis stengt på grunn av varmen, og britiske myndigheter oppfordrer folk til å unngå alle unødvendige reiser disse dagene.\n\nHetebølge og varmerekorder\n\nVi følger hetebølge og varmerekorder direkte.\nEr du et sted med hetebølge? Ta kontakt med NRK her.",
+      "excerpt": "Temperaturer opp mot 39 grader er ventet i den sørlige delen av Storbritannia onsdag og torsdag.\n\nVed rødt farevarsel regnes varmen som så ekstrem at det er fare for liv hos den generelle befolkningen – ikke bare blant risikogrupper og eldre, skriver BBC.\n\nHundrevis av skoler er helt eller delvis...",
+      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIyOTgzMjJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/rodt-farevarsel-utstedt-i-storbritannia_-venter-39-grader-i-dag-1.17933889",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-24T10:52:02.427Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782298320711.2441,
+      "title": "Vil ha moms på Airbnb-utleie",
+      "slug": "vil-ha-moms-p-airbnbutleie",
+      "content": "Skattekommisjonen vil utrede innføring av merverdiavgift (moms) på korttidsutleie av hus og hytter gjennom delingsplattformer.\n\nTypisk skjer slik utleie i dag via tjenester som Airbnb eller Booking.com.\n\nKommisjonen skriver at utredningen skal skje med sikte på at endringen skal gjennomføres.\n\nI dag er korttidsutleie av rom, hus og hytter fritatt for moms, mens det er moms på utleie av hotellrom.\n\nForslaget antas å innbringe 1 milliard kroner til statskassen hvis momssatsen som innføres blir 25 prosent, og 600 millioner dersom momsen som legges på korttidsutleie blir 15 prosent.\n\nSkattedebatt\n\n24. juni overrekker skattekommisjonens leder Eigil Knutsen kommisjonens rapport til finansminister Jens Stoltenberg (Ap). Kommisjonen har det siste halve året jobbet med anbefalinger fra Stortinget, som skal forsøke å få på plass et skatteforlik.",
+      "excerpt": "Skattekommisjonen vil utrede innføring av merverdiavgift (moms) på korttidsutleie av hus og hytter gjennom delingsplattformer.\n\nTypisk skjer slik utleie i dag via tjenester som Airbnb eller Booking.com.\n\nKommisjonen skriver at utredningen skal skje med sikte på at endringen skal gjennomføres.\n\nI...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/vil-ha-moms-pa-airbnb-utleie-1.17933845",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-24T10:52:00.711Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782298318937.4893,
+      "title": "Alvorlig arbeidsulykke i Oslo",
+      "slug": "alvorlig-arbeidsulykke-i-oslo",
+      "content": "Nødetatene er på Stovner etter melding om en arbeidsulykke.\n\n– En person har fått en stor tung gjenstand over seg, skriver operasjonsleder Eirik Sannes.\n\nVedkommende er frigjort, men beskrives som alvorlig skadet.\n\n– Vi jobber med innledende etterforskning på stedet, skriver Sannes.",
+      "excerpt": "Nødetatene er på Stovner etter melding om en arbeidsulykke.\n\n– En person har fått en stor tung gjenstand over seg, skriver operasjonsleder Eirik Sannes.\n\nVedkommende er frigjort, men beskrives som alvorlig skadet.\n\n– Vi jobber med innledende etterforskning på stedet, skriver Sannes.",
+      "image": "https://images.unsplash.com/photo-1645546739057-2855e6900aef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIyOTgzMTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/alvorlig-arbeidsulykke-i-oslo-1.17934079",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-24T10:51:58.937Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782286947377.259,
       "title": "Trump krever kutt i bensinprisene",
       "slug": "trump-krever-kutt-i-bensinprisene",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-21T04:24:37.599Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1781997049686.1194,
-      "title": "Ingen løsning på nettverksproblemer – en rekke offentlige tjenester nede",
-      "slug": "ingen-lsning-p-nettverksproblemer-en-rekke-offentlige-tjenes",
-      "content": "Flere offentlige tjenester ligge fortsatt nede etter nettverksproblemer.\n\nVed 22.30-tiden jobbet Digitaliseringsdirektoratet fremdeles med å rette feilen.\n\n– Det er fortsatt usikkert hva som er rotårsaken, men Vivicta jobber aktivt med å løse problemet, sier kommunikasjonsrådgiver Sara Neziri i Digdir til NTB.\n\nDigdir opplyser på sine nettsider at ID-porten, Kontakt- og reservasjonsregisteret, Maskinporten, MinID, ELMA, eInnsyn, Ansattporten og Selvbetjeningsløsninger er utilgjengelige.\n\nDigitale løsninger\n\nØkende bruk av digitale tjenester krever at både skolen, arbeidslivet og innbyggerne i landet har digital kompetanse. Men mange faller utenfor og trenger hjelp til enkle offentlige tjenester, noe bibliotekene erfarer.",
-      "excerpt": "Flere offentlige tjenester ligge fortsatt nede etter nettverksproblemer.\n\nVed 22.30-tiden jobbet Digitaliseringsdirektoratet fremdeles med å rette feilen.\n\n– Det er fortsatt usikkert hva som er rotårsaken, men Vivicta jobber aktivt med å løse problemet, sier kommunikasjonsrådgiver Sara Neziri i...",
-      "image": "https://images.unsplash.com/photo-1716471035199-7ef519c5d035?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE5OTcwNDl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/ingen-losning-pa-nettverksproblemer-_-en-rekke-offentlige-tjenester-nede-1.17929869",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-20T23:10:49.686Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781997047989.0698,
-      "title": "Myndighetene i Libanon: Syv personer drept i israelske angrep",
-      "slug": "myndighetene-i-libanon-syv-personer-drept-i-israelske-angrep",
-      "content": "Helsedepartementet i Libanon melder at syv personer ble drept i nye israelske angrep sør og øst i landet lørdag kveld.\n\nFem personer, inkludert en kvinne og et barn, ble drept øst i landet, mens to palestinere ble drept i Tyr-regionen i sør, ifølge departementet, melder nyhetsbyreået AFP.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
-      "excerpt": "Helsedepartementet i Libanon melder at syv personer ble drept i nye israelske angrep sør og øst i landet lørdag kveld.\n\nFem personer, inkludert en kvinne og et barn, ble drept øst i landet, mens to palestinere ble drept i Tyr-regionen i sør, ifølge departementet, melder nyhetsbyreået AFP.\n\nLibanon...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/myndighetene-i-libanon_-syv-personer-drept-i-israelske-angrep-1.17929872",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-20T23:10:47.989Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1781997046290.722,
-      "title": "Trafikkulykke i Enebakk",
-      "slug": "trafikkulykke-i-enebakk",
-      "content": "Nødetatene rykket ut etter melding om en trafikkulykke i Enebakk i Akershus natt til søndag.  En bil har kjørt inn i et tre.\n\nEn person er flydd til Ullevål sykehus en annen er kjørt til Akershus universitetssykehus.\n\nUlykken fremstår alvorlig, opplyser operasjonsleder Kent Bele i Øst politidistrikt.",
-      "excerpt": "Nødetatene rykket ut etter melding om en trafikkulykke i Enebakk i Akershus natt til søndag.  En bil har kjørt inn i et tre.\n\nEn person er flydd til Ullevål sykehus en annen er kjørt til Akershus universitetssykehus.\n\nUlykken fremstår alvorlig, opplyser operasjonsleder Kent Bele i Øst...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trafikkulykke-i-enebakk--1.17929874",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-20T23:10:46.291Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1893,
+    "totalFetched": 1896,
     "totalPublished": 77,
-    "lastFetch": "2026-06-24T07:42:29.730Z",
+    "lastFetch": "2026-06-24T10:52:04.784Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
