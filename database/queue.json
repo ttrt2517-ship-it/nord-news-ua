@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782503431119.9167,
+      "title": "Israel nekter å trekke seg ut av Sør-Libanon",
+      "slug": "israel-nekter-trekke-seg-ut-av-srlibanon",
+      "content": "Israels statsminister Benjamin Netanyahu sier Israel kommer til å bli værende i Sør-Libanon inntil Hizbollah er avvæpnet.\n\nNetanyahu sier også at libanesiske sivilister som er fordrevet fra den såkalte «sikkerhetssonen» som israelske styrker har opprettet i Sør-Libanon, ikke vil få lov til å vende hjem.\n\nUttalelsen kom etter at en ny avtale mellom Libanon, USA og Israel ble kunngjort.\n\nMyndighetene kan ikke tvinge gjennom Washington-avtalen, med mindre de går til borgerkrig med USA-støtte, sa Hizbollah-politiker Hassan Fadlallah til TV-kanalen Al-Mayadeen.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
+      "excerpt": "Israels statsminister Benjamin Netanyahu sier Israel kommer til å bli værende i Sør-Libanon inntil Hizbollah er avvæpnet.\n\nNetanyahu sier også at libanesiske sivilister som er fordrevet fra den såkalte «sikkerhetssonen» som israelske styrker har opprettet i Sør-Libanon, ikke vil få lov til å vende...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/israel-nekter-a-trekke-seg-ut-av-sor-libanon--1.17937953",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-26T19:50:31.119Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782503429619.479,
+      "title": "EU forsvarer digitalskatten",
+      "slug": "eu-forsvarer-digitalskatten",
+      "content": "Europakommisjonen uttalte fredag at EU og medlemslandene har en suveren rett til å regulere sin økonomiske aktivitet.\n\nUttalelsen kom etter at USAs president Donald Trumps truet med å innføre hundre prosent toll på land som innfører digital tjenesteavgift på amerikanske selskaper.\n\nDen europeiske union (EU)\n\nDen europeiske union (EU) har 27 medlemsstater som er knyttet sammen i et tett økonomisk og politisk samarbeid. Unionen vokste fram av et handelssamarbeid som skulle hindre en ny konflikt mellom Frankrike og Tyskland etter 2. verdenskrig.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Europakommisjonen uttalte fredag at EU og medlemslandene har en suveren rett til å regulere sin økonomiske aktivitet.\n\nUttalelsen kom etter at USAs president Donald Trumps truet med å innføre hundre prosent toll på land som innfører digital tjenesteavgift på amerikanske selskaper.\n\nDen europeiske...",
+      "image": "https://images.unsplash.com/photo-1590988854351-1e0e4f95a8d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI1MDM0Mjl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/eu-forsvarer-digitalskatten-1.17938204",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-26T19:50:29.619Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782503427878.9426,
+      "title": "Nye varmerekorder i flere europeiske land",
+      "slug": "nye-varmerekorder-i-flere-europeiske-land",
+      "content": "Tyskland, Storbritannia og Sveits satte alle nye varmerekorder fredag.\n\nI Saarbrücken i Vest-Tyskland ble det målt 41, 3 grader, som kan bli den høyeste temperaturen registrert i Tyskland noen gang. Målingen må bekreftes før den blir offisiell.\n\nStorbritannia satte varmerekord for juni for tredje dag på rad, med 37, 3 grader i Santon Downham.\n\nI Basel i Sveits ble det målt 38, 8 grader, den høyeste temperaturen ved målestasjonen siden 1897.\n\nHetebølge og varmerekorder\n\nVi følger hetebølge og varmerekorder direkte.\nEr du et sted med hetebølge? Ta kontakt med NRK her.",
+      "excerpt": "Tyskland, Storbritannia og Sveits satte alle nye varmerekorder fredag.\n\nI Saarbrücken i Vest-Tyskland ble det målt 41, 3 grader, som kan bli den høyeste temperaturen registrert i Tyskland noen gang. Målingen må bekreftes før den blir offisiell.\n\nStorbritannia satte varmerekord for juni for tredje...",
+      "image": "https://images.unsplash.com/photo-1742857848733-d5129d150bfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI1MDM0Mjd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/nye-varmerekorder-i-flere-europeiske-land-1.17938292",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-26T19:50:27.879Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782496196389.5422,
       "title": "Offshore Norge iverksetter lockout",
       "slug": "offshore-norge-iverksetter-lockout",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-24T10:51:58.937Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782286947377.259,
-      "title": "Trump krever kutt i bensinprisene",
-      "slug": "trump-krever-kutt-i-bensinprisene",
-      "content": "USAs president Donald Trump er misfornøyd med bensinprisene, og mener de ikke gjenspeiler fallet i oljeprisene de siste dagene.\n\nHan mener at oljeselskapene ikke har senket prisene sine i takt med de lavere prisene som de betaler for oljen.\n\nHan ønsker nå at justisdepartementet skal undersøke saken.\n\nPrisen på olje har økt som følge av krigen mellom USA og Iran. men på grunn av de nylige fredsforhandlingene har prisen på råolje falt kraftig.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "USAs president Donald Trump er misfornøyd med bensinprisene, og mener de ikke gjenspeiler fallet i oljeprisene de siste dagene.\n\nHan mener at oljeselskapene ikke har senket prisene sine i takt med de lavere prisene som de betaler for oljen.\n\nHan ønsker nå at justisdepartementet skal undersøke...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump-krever-kutt-i-bensinprisene-1.17933492",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-24T07:42:27.377Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782286945612.448,
-      "title": "Nye bilder viser prinsesse Ingrid Alexandra og prins Sverre Magnus som heier på Norge",
-      "slug": "nye-bilder-viser-prinsesse-ingrid-alexandra-og-prins-sverre-",
-      "content": "Prinsesse Ingrid Alexandra og prins Sverre Magnus var på plass på MetLife Stadium da Norge slo Senegal i sin andre gruppespillkamp.\n\nNye bilder som er publisert av kongehuset viser prinsessen og prinsen på tribunen kledd for anledningen i rødt, blått og hvitt.\n\nDe fikk også møte fotballpresident Lise Klavenes før kampen.",
-      "excerpt": "Prinsesse Ingrid Alexandra og prins Sverre Magnus var på plass på MetLife Stadium da Norge slo Senegal i sin andre gruppespillkamp.\n\nNye bilder som er publisert av kongehuset viser prinsessen og prinsen på tribunen kledd for anledningen i rødt, blått og hvitt.\n\nDe fikk også møte fotballpresident...",
-      "image": "https://images.unsplash.com/photo-1752583584999-9d645e9f8672?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIyODY5NDV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/nye-bilder-viser-prinsesse-ingrid-alexandra-og-prins-sverre-magnus-som-heier-pa-norge-1.17933515",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-24T07:42:25.612Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782286943754.4312,
-      "title": "Fujimori mot valgseier i Peru",
-      "slug": "fujimori-mot-valgseier-i-peru",
-      "content": "Den høyreorienterte presidentkandidaten Keiko Fujimori øker sitt forsprang i stemmeopptellingen i Peru.\n\nDet ventes at hun erklæres som vinner av presidentvalget i Peru innen kort tid.\n\nHennes venstreorienterte opponent Roberto Sanchez har tidligere uttalt at han ikke kommer til å anerkjenne en regjering som er ledet av Fujimori. Dette er fordi han mener det har foregått «alvorlige brudd på valgprosessen».\n\nLandet har vært preget av politisk uro og flere tidligere presidenter har blitt fengslet og avsatt.",
-      "excerpt": "Den høyreorienterte presidentkandidaten Keiko Fujimori øker sitt forsprang i stemmeopptellingen i Peru.\n\nDet ventes at hun erklæres som vinner av presidentvalget i Peru innen kort tid.\n\nHennes venstreorienterte opponent Roberto Sanchez har tidligere uttalt at han ikke kommer til å anerkjenne en...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/fujimori-mot-valgseier-i-peru-1.17933564",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-24T07:42:23.754Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1940,
+    "totalFetched": 1943,
     "totalPublished": 77,
-    "lastFetch": "2026-06-26T17:49:59.052Z",
+    "lastFetch": "2026-06-26T19:50:34.043Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
