@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782588182309.8755,
+      "title": "Serbias president går av – varsler nyvalg",
+      "slug": "serbias-president-gr-av-varsler-nyvalg",
+      "content": "Serbias president Aleksandar Vučić sier at han vil trekke seg i løpet av få uker. Samtidig varsler han at det vil bli skrevet ut nyvalg i landet.\n\nDet skjer etter enorme protester mot den serbiske regjeringen. Demonstrasjonene har sine røtter i en anti-korrupsjonsbevegelse blant studenter, som ble utløst etter en dødelig jernbaneulykke i november 2024. Ulykken kostet 16 mennesker livet.\n\nDet som begynte med et krav om en grundig etterforskning av ulykken, har siden utviklet seg til å bli en protestbølge mot Vučić.",
+      "excerpt": "Serbias president Aleksandar Vučić sier at han vil trekke seg i løpet av få uker. Samtidig varsler han at det vil bli skrevet ut nyvalg i landet.\n\nDet skjer etter enorme protester mot den serbiske regjeringen. Demonstrasjonene har sine røtter i en anti-korrupsjonsbevegelse blant studenter, som ble...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/serbias-president-gar-av-_-varsler-nyvalg-1.17938959",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-27T19:23:02.309Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782588180818.6511,
+      "title": "Trafikkulykke i Drammen: – Fremstår alvorlig",
+      "slug": "trafikkulykke-i-drammen-fremstr-alvorlig",
+      "content": "Nødetatene har rykket ut etter melding om trafikkulykke mellom syklist og bil i Drammen.\n\nSyklisten er skadet og luftambulansen er varslet, skriver politiet i loggen.\n\n– Det fremstår alvorlig, sier operasjonsleder Tom Richard Skuggedal til NRK.\n\nKlokken 19:42 sier han at luftambulansen trolig straks er på stedet.\n\n– Trafikken står helt stille på stedet, skriver Skuggedal i loggen.\n\nOppdatert 20.31: Politiet har snakket med flere vitner som har observert syklisten. Det fremstår som at syklisten har falt av sykkelen og at det ikke har vært noe sammenstøt med bil. Pasienten er flydd til Ullevål sykehus, alvorlig skadet.",
+      "excerpt": "Nødetatene har rykket ut etter melding om trafikkulykke mellom syklist og bil i Drammen.\n\nSyklisten er skadet og luftambulansen er varslet, skriver politiet i loggen.\n\n– Det fremstår alvorlig, sier operasjonsleder Tom Richard Skuggedal til NRK.\n\nKlokken 19:42 sier han at luftambulansen trolig...",
+      "image": "https://images.unsplash.com/photo-1697056480182-d8da34215c04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI1ODgxODB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/trafikkulykke-i-drammen_-_-fremstar-alvorlig-1.17939007",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-27T19:23:00.818Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782588179043.1255,
+      "title": "Drukningsulykke på Sognsvann: Mann i 70-årene sendt til sykehus",
+      "slug": "drukningsulykke-p-sognsvann-mann-i-70rene-sendt-til-sykehus",
+      "content": "En mann i slutten av 70-årene blir behandlet på sykehus etter en drukningsulykke på Sognsvann i Oslo.\n\nMannen ble først meldt savnet til nødetatene klokken 19.34. Kort tid etter rykket nødetetatene ut med store ressurser.\n\n– Vi fant ham under vann, og fikk han raskt opp på land hvor vi utførte livreddende førstehjelp, sier innsatsleder Kristoffer Bang i Oslo politidistrikt.\n\nMange sivile bidro i letingen etter den savnede mannen. Han ble til slutt lokalisert av en drone.\n\n– Vi har ingen grunn til å tro at dette er noe annet enn en ulykke, sier Bang.",
+      "excerpt": "En mann i slutten av 70-årene blir behandlet på sykehus etter en drukningsulykke på Sognsvann i Oslo.\n\nMannen ble først meldt savnet til nødetatene klokken 19.34. Kort tid etter rykket nødetetatene ut med store ressurser.\n\n– Vi fant ham under vann, og fikk han raskt opp på land hvor vi utførte...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/drukningsulykke-pa-sognsvann_-mann-i-70-arene-sendt-til-sykehus-1.17939014",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-27T19:22:59.043Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782573394424.9504,
       "title": "Esker, ikke ekser, i veibanen på E6",
       "slug": "esker-ikke-ekser-i-veibanen-p-e6",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-25T10:43:50.635Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782373604933.3926,
-      "title": "Leieprisene stiger – størst vekst i Oslo",
-      "slug": "leieprisene-stiger-strst-vekst-i-oslo",
-      "content": "Leieprisene i de fire store byene steg med 2,8 prosent i andre kvartal 2026.\n\nOslo hadde sterkest vekst i perioden med en oppgang på 3,6 prosent etterfulgt av Trondheim og Stavanger og Sandnes med en oppgang på 2,3 prosent.\n\nDe siste fire kvartalene har leieprisene økt med 4,8 prosent.\n\nDirektøren i Eiendom Norge, Henning Lauridsen, sier at høy etterspørsel og færre boliger på markedet er årsaken til prisveksten.\n\n– Høyere renter, økte skatter, økte kostnader og lite boligbygging bidrar til redusert tilbudet, poengterer Lauridsen.\n\nBoligmarkedet\n\nBoligprisene i Norge måles av bransjeorganisasjonen Eiendom Norge, som presenterer boligprisstatistikk hver måned. Boligprisene er historisk høye flere steder i Norge og i landet generelt.",
-      "excerpt": "Leieprisene i de fire store byene steg med 2,8 prosent i andre kvartal 2026.\n\nOslo hadde sterkest vekst i perioden med en oppgang på 3,6 prosent etterfulgt av Trondheim og Stavanger og Sandnes med en oppgang på 2,3 prosent.\n\nDe siste fire kvartalene har leieprisene økt med 4,8 prosent.\n\nDirektøren...",
-      "image": "https://images.unsplash.com/photo-1569690262769-16c7bc5dbc65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIzNzM2MDR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/leieprisene-stiger-_-storst-vekst-i-oslo-1.17935251",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-25T07:46:44.933Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782373603258.2852,
-      "title": "Undersøkelse viser narkotikabruk, vold og trusler på videregående skoler",
-      "slug": "underskelse-viser-narkotikabruk-vold-og-trusler-p-videregend",
-      "content": "Nesten hver tredje videregående skole har hatt tilfeller der elever har brukt narkotika eller andre illegale rusmidler, og to av ti skoler har også opplevd omsetning på skolens område.\n\nDette viser Utdanningsdirektoratets nye undersøkelse.\n\n20 prosent oppgir at elever noen ganger har vært involvert i omsetning av narkotika og andre illegale rusmidler på skolens område.\n\nVed hver femte videregående skole oppgir ledelsen at elever har blitt utsatt for trusler fra medelever.\n\n16 prosent har opplevd at elever hatt med våpen på skolen.\n\nVideregående opplæring\n\nVideregående opplæring er all opplæring som bygger på fullført 10-årig grunnskole. Begrepet omfatter de videregående skolene, opplæring i lærebedrift og ved voksenopplæringssentre.",
-      "excerpt": "Nesten hver tredje videregående skole har hatt tilfeller der elever har brukt narkotika eller andre illegale rusmidler, og to av ti skoler har også opplevd omsetning på skolens område.\n\nDette viser Utdanningsdirektoratets nye undersøkelse.\n\n20 prosent oppgir at elever noen ganger har vært involvert...",
-      "image": "https://images.unsplash.com/photo-1642508168789-010f910ce590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIzNzM2MDN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/undersokelse-viser-narkotikabruk_-vold-og-trusler-pa-videregaende-skoler-1.17935226",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-25T07:46:43.258Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782373601438.8774,
-      "title": "Regjeringen vil gjøre det obligatorisk å registrere alle fritidsbåter",
-      "slug": "regjeringen-vil-gjre-det-obligatorisk-registrere-alle-fritid",
-      "content": "Regjeringen vil innføre obligatorisk registrering av fritidsbåter. Hensikten er å gjøre det enklere å ansvarliggjøre dem som forurenser og styrke sikkerheten til sjøs.\n\nRegistreringsplikten skal forankres i småbåtloven. Sjøfartsdirektoratet skal levere forslag til høringsnotat innen 30. november 2026.",
-      "excerpt": "Regjeringen vil innføre obligatorisk registrering av fritidsbåter. Hensikten er å gjøre det enklere å ansvarliggjøre dem som forurenser og styrke sikkerheten til sjøs.\n\nRegistreringsplikten skal forankres i småbåtloven. Sjøfartsdirektoratet skal levere forslag til høringsnotat innen 30. november...",
-      "image": "https://images.unsplash.com/photo-1619861907071-926d3117af64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIzNzM2MDF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/regjeringen-vil-gjore-det-obligatorisk-a-registrere-alle-fritidsbater-1.17935269",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-25T07:46:41.438Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1958,
+    "totalFetched": 1961,
     "totalPublished": 77,
-    "lastFetch": "2026-06-27T17:12:22.347Z",
+    "lastFetch": "2026-06-27T19:23:04.890Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
