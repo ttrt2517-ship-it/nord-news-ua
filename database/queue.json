@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782555065129.479,
+      "title": "ABC News: Minst fire skutt i Massachusetts etter Norge-kampen",
+      "slug": "abc-news-minst-fire-skutt-i-massachusetts-etter-norgekampen",
+      "content": "Minst fire personer er skutt i en folkemengde etter VM-kampen mellom Norge og Frankrike, ifølge Brockton-politiet.\n\nDet melder ABC News, som skriver at hendelsen skjedde omtrent 2 mil fra stadion.\n\nAlle fire ble fraktet til sykehus. Tilstanden deres er ikke kjent.\n\nFlere hundre var samlet etter VM-kampen fredag kveld, ifølge politiet.\n\nFotball-VM 2026\n\nEtter 28 år er Norges herrelandslag endelig klare for fotball-VM, som spilles i USA, Canada og Mexico sommeren 2026.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Minst fire personer er skutt i en folkemengde etter VM-kampen mellom Norge og Frankrike, ifølge Brockton-politiet.\n\nDet melder ABC News, som skriver at hendelsen skjedde omtrent 2 mil fra stadion.\n\nAlle fire ble fraktet til sykehus. Tilstanden deres er ikke kjent.\n\nFlere hundre var samlet etter...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/abc-news_-minst-fire-skutt-i-massachusetts-etter-norge-kampen-1.17938607",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-27T10:11:05.129Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782555063387.5754,
+      "title": "En bekreftet død og 13 skadet etter fly krasjet i Kina",
+      "slug": "en-bekreftet-dd-og-13-skadet-etter-fly-krasjet-i-kina",
+      "content": "Et småfly krasjet fredag ettermiddag norsk tid inn i det 109 etasjer høye CITIC Tower, en bygning som også er kjent som China Zun.\n\nLørdag formiddag meldes det at 1 person skal være død og 13 skadet som følge av hendelsen.\n\nDet opplyser lokale myndigheter i Chaoyang-distriktet i Beijing i en uttalelse.\n\nKina\n\nKina er verdens nest mest folkerike land, og blant de eldste kontinuerlige sivilisasjonene i verden. Landet ledes av kommunistpartiet og president Xi Jinping, som er den første lederen siden formann Mao som har sittet i tre 5-årsperioder.",
+      "excerpt": "Et småfly krasjet fredag ettermiddag norsk tid inn i det 109 etasjer høye CITIC Tower, en bygning som også er kjent som China Zun.\n\nLørdag formiddag meldes det at 1 person skal være død og 13 skadet som følge av hendelsen.\n\nDet opplyser lokale myndigheter i Chaoyang-distriktet i Beijing i en...",
+      "image": "https://images.unsplash.com/photo-1616263675956-c81aca7fbd76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI1NTUwNjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/en-bekreftet-dod-og-13-skadet-etter-fly-krasjet-i-kina-1.17938610",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-27T10:11:03.387Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782555061155.446,
+      "title": "26 studier trekkes fra årets opptak til høyere utdanning",
+      "slug": "26-studier-trekkes-fra-rets-opptak-til-hyere-utdanning",
+      "content": "Ti universiteter og høgskoler trekker til sammen 26 studier fra årets Samordna opptak.\n\nDet er ti flere enn i fjor. Flest trekk er det i fagfeltene teologi og pedagogikk, ifølge Khrono.\n\nHøgskulen på Vestlandet (HVL) trekker flest studier, med sju trekk innen blant annet informasjonsteknologi, drama og idrettsfag.\n\nAndelen trukne studier har de siste fem årene ligget mellom 1,1 og 1,9 prosent av det totale studietilbudet, ifølge NTB.\n\nStudieplassar i Noreg\n\n108.000 søkarar har fått tilbod om studieplass i Noreg. Dette er ny rekord, og 8.000 fleire enn i fjor.",
+      "excerpt": "Ti universiteter og høgskoler trekker til sammen 26 studier fra årets Samordna opptak.\n\nDet er ti flere enn i fjor. Flest trekk er det i fagfeltene teologi og pedagogikk, ifølge Khrono.\n\nHøgskulen på Vestlandet (HVL) trekker flest studier, med sju trekk innen blant annet informasjonsteknologi...",
+      "image": "https://images.unsplash.com/photo-1742458498143-14ae8de88e75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI1NTUwNjF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/26-studier-trekkes-fra-arets-opptak-til-hoyere-utdanning-1.17938641",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-27T10:11:01.155Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782543213717.5203,
       "title": "EXPLAINED: Where to get free immigration advice in Norway",
       "slug": "explained-where-to-get-free-immigration-advice-in-norway",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-24T23:05:05.165Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782342303516.943,
-      "title": "Trump skrøt av Zelenskyj",
-      "slug": "trump-skrt-av-zelenskyj",
-      "content": "Donald Trump mener Ukrainas president Volodymyr Zelenskyj gjør en god jobb i krigen mot Russland.\n\nDet sa den amerikanske presidenten under en pressekonferanse i Det hvite hus onsdag. På spørsmål om Ukraina er i ferd med å vinne krigen, svarte presidenten at Zelenskyj klarer å holde stand.\n\n– Han gjør det ganske bra. Han holder stand, i hvert fall. Det er mange som dør på begge sider, men jeg synes han gjør det ganske bra, sa Trump om den ukrainske presidenten, melder AFP.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Donald Trump mener Ukrainas president Volodymyr Zelenskyj gjør en god jobb i krigen mot Russland.\n\nDet sa den amerikanske presidenten under en pressekonferanse i Det hvite hus onsdag. På spørsmål om Ukraina er i ferd med å vinne krigen, svarte presidenten at Zelenskyj klarer å holde stand.\n\n– Han...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/-trump-skrot-av-zelenskyj-1.17934984",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-24T23:05:03.516Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782330616726.9167,
-      "title": "Arbeidstilsynet oppretter tilsyn mot Foodora og Wolt",
-      "slug": "arbeidstilsynet-oppretter-tilsyn-mot-foodora-og-wolt",
-      "content": "Arbeidstilsynet har opprettet tilsynssaker mot Foodora og Wolt etter kontroll av arbeidsforhold i matleveringstjenestene.\n\nI mai gjennomførte A-krimsenteret i Vestland kontroll av matbud fra de to selskapene i Bergen.\n\nKontrollene avdekket forhold som indikerer sosial dumping og mulig utnytting av arbeidstakere.\n\nBlant funnene var svart arbeid, manglende momsregistrering og manglende eller feil rapportering av omsetning.\n\nBåde Wolt og Foodora har uttalt til NRK at de tar funnene på alvor.\n\nKontrollørar stoppa ei lang rekke matbod på gata i Bergen. Funna får dei til å slå alarm om bransjen.",
-      "excerpt": "Arbeidstilsynet har opprettet tilsynssaker mot Foodora og Wolt etter kontroll av arbeidsforhold i matleveringstjenestene.\n\nI mai gjennomførte A-krimsenteret i Vestland kontroll av matbud fra de to selskapene i Bergen.\n\nKontrollene avdekket forhold som indikerer sosial dumping og mulig utnytting av...",
-      "image": "https://images.unsplash.com/photo-1516661409277-43412190c2fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIzMzA2MTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestland/arbeidstilsynet-oppretter-tilsyn-mot-foodora-og-wolt-1.17934802",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-24T19:50:16.726Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782323742311.501,
-      "title": "Strømmen gikk på Tons of Rock – igjen",
-      "slug": "strmmen-gikk-p-tons-of-rock-igjen",
-      "content": "Rundt 17.15 gikk strømmen på Tons of Rock igjen, opplyser NRKs reporter på stedet. Cirka tjue minutter senere var strømmen tilbake på scenene.\n\nDet er andre gang i ettermiddag at strømmen går. Den første gangen var strømmen borte i noen minutter før den kom tilbake.\n\nKonserten til Babymetal er forsinket på grunn av strømbruddet. Forventet starttid er 17.45, skriver festivalen i en oppdatering.\n\n– Konsertene på Scream og Moonlight spiller som normalt, skrev festivalen på Facebook etter første strømbrudd.\n\nStrømbruddet førte til at det var stille på scenene en periode. Også pariserhjulet på området stoppet opp.\n\nFestivalen startet tidligere onsdag, med Black Debbath som første band ut på hovedscena.",
-      "excerpt": "Rundt 17.15 gikk strømmen på Tons of Rock igjen, opplyser NRKs reporter på stedet. Cirka tjue minutter senere var strømmen tilbake på scenene.\n\nDet er andre gang i ettermiddag at strømmen går. Den første gangen var strømmen borte i noen minutter før den kom tilbake.\n\nKonserten til Babymetal er...",
-      "image": "https://images.unsplash.com/photo-1697650041996-46f2ab2e415f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIzMjM3NDJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/strommen-gikk-pa-tons-of-rock-_-igjen-1.17934637",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-24T17:55:42.311Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1951,
+    "totalFetched": 1954,
     "totalPublished": 77,
-    "lastFetch": "2026-06-27T06:53:34.719Z",
+    "lastFetch": "2026-06-27T10:11:06.771Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
