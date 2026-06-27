@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782568000046.6296,
+      "title": "Lockout rammer 1000 oljearbeidere: – Vi er beredt på å stå i dette",
+      "slug": "lockout-rammer-1000-oljearbeidere-vi-er-beredt-p-st-i-dette",
+      "content": "Lørdag morgen iverksatte Offshore Norge lockout av rundt 1000 Safe-medlemmer som omfattes av brønnserviceavtalen.\n\nEn lockout innebærer at arbeidsgiver stenger de ansatte ute fra arbeidsplassen. De har ikke krav på lønn fra arbeidsplassen så lenge lockouten varer.\n\n– Vi ivaretar medlemmene og kompenserer streikerne og dem som er tatt ut i lockout, sier forhandlingsleder Kai Morten Anda i fagforeningen Safe.\n\nStreiken og lockouten omfatter ti tjenesteleverandører: SLB, DOF, Halliburton, Weatherford, Tios, DeepOcean, Subsea7, Cactus, Vetco Gray Scandinavia og Baker Hughes.\n\nRegjeringen kan gripe inn i en lockout bare ved svært alvorlige konsekvenser, som fare for liv og helse eller hvis viktige samfunnsfunksjoner rammes.\n\n– Ansvaret for lønnsdannelsen ligger hos partene i arbeidslivet, sier arbeids- og inkluderingsminister Kjersti Stenseng (Ap) i en kommentar til NTB.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
+      "excerpt": "Lørdag morgen iverksatte Offshore Norge lockout av rundt 1000 Safe-medlemmer som omfattes av brønnserviceavtalen.\n\nEn lockout innebærer at arbeidsgiver stenger de ansatte ute fra arbeidsplassen. De har ikke krav på lønn fra arbeidsplassen så lenge lockouten varer.\n\n– Vi ivaretar medlemmene og...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/lockout-rammer-1000-oljearbeidere_-_-vi-er-beredt-pa-a-sta-i-dette-1.17938697",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-27T13:46:40.046Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782567998444.8792,
+      "title": "Gutt funnet i Drammen",
+      "slug": "gutt-funnet-i-drammen",
+      "content": "En gutt på 7 år er savnet etter å ha blitt borte fra foreldrene sine i løpet av den siste timen på Torgeier Vraas Plass i Drammen.\n\nGutten er autist og har ikke språk. Han beskrives som av afrikansk opprinnelse. Han har på seg en T-skjorte med hvitt og blått mønster, sandaler og har en grønn lenke til nøkler rundt halsen.\n\nRing 112 ved observasjon eller informasjon i saken. Politiet er på stedet og er i gang med søk etter savnede.\n\nGutten er til rette i god behold, takket være tips fra publikum. Han blir ivaretatt av foreldre.",
+      "excerpt": "En gutt på 7 år er savnet etter å ha blitt borte fra foreldrene sine i løpet av den siste timen på Torgeier Vraas Plass i Drammen.\n\nGutten er autist og har ikke språk. Han beskrives som av afrikansk opprinnelse. Han har på seg en T-skjorte med hvitt og blått mønster, sandaler og har en grønn lenke...",
+      "image": "https://images.unsplash.com/photo-1737798388229-2524c7777c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI1Njc5OTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/buskerud/gutt-funnet-i-drammen-1.17938714",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-27T13:46:38.444Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782567996860.084,
+      "title": "Svensk politi: Roc Boyz er ikke anmeldt for konsertvideo",
+      "slug": "svensk-politi-roc-boyz-er-ikke-anmeldt-for-konsertvideo",
+      "content": "Svensk politi avkrefter at den norske hiphop-trioen Roc Boyz er anmeldt etter at en animert video der samer blir sparket og slått, ble vist på storskjerm under en konsert i Umeå.\n\n– Det finnes ingen mistenkte i saken på nåværende tidspunkt, sier pressetalsperson Elisabeth Glaas til avisen. Politiet jobber med å avkalre hvem som var ansvarlig for det som ble vist.\n\nFestivalens arrangør er avhørt om hendelsen, som skjedde tidligere i juni. Roc Boyz er ikke avhørt og trioens manager Dennis Kiil sier bandet ikke ønsker å uttale seg.\n\nNRK har tidligere meldt at det var bandet som ble anmeldt. Svensk politi tydeliggjør lørdag at det er hendelsen som er anmeldt, ikke trioen.\n\nOđđasat - norsk\n\nKorte nyhetsmeldinger fra NRK Sápmi.",
+      "excerpt": "Svensk politi avkrefter at den norske hiphop-trioen Roc Boyz er anmeldt etter at en animert video der samer blir sparket og slått, ble vist på storskjerm under en konsert i Umeå.\n\n– Det finnes ingen mistenkte i saken på nåværende tidspunkt, sier pressetalsperson Elisabeth Glaas til avisen. Politiet...",
+      "image": null,
+      "original_url": "https://www.nrk.no/sapmi/svensk-politi_-roc-boyz-er-ikke-anmeldt-for-konsertvideo-1.17938732",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-27T13:46:36.860Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782555065129.479,
       "title": "ABC News: Minst fire skutt i Massachusetts etter Norge-kampen",
       "slug": "abc-news-minst-fire-skutt-i-massachusetts-etter-norgekampen",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-25T03:46:43.922Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782359202310.2617,
-      "title": "Drivstofflager brenner i Russland etter droneangrep",
-      "slug": "drivstofflager-brenner-i-russland-etter-droneangrep",
-      "content": "Oljelageret Poltavskaja i står i brann i Krasnodar-regionen sør i Russland etter at rester fra en nedskutt drone traff anlegget.\n\nDet opplyser lokale tjenestepersoner til det statlige russiske nyhetsbyrået Tass, ifølge Reuters.\n\nAngrepet skjedde natt til torsdag. Krasnodar ligger nær den okkuperte Krym-halvøya, et område der Ukraina den siste tiden har trappet opp angrepene mot russisk energiinfrastruktur.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Oljelageret Poltavskaja i står i brann i Krasnodar-regionen sør i Russland etter at rester fra en nedskutt drone traff anlegget.\n\nDet opplyser lokale tjenestepersoner til det statlige russiske nyhetsbyrået Tass, ifølge Reuters.\n\nAngrepet skjedde natt til torsdag. Krasnodar ligger nær den okkuperte...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/drivstofflager-brenner-i-russland-etter-droneangrep-1.17935029",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-25T03:46:42.310Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782359200874.1018,
-      "title": "USA vil hjelpe Venezuela etter jordskjelvene",
-      "slug": "usa-vil-hjelpe-venezuela-etter-jordskjelvene",
-      "content": "USA er i kontakt med myndighetene i Venezuela og gjør klar hjelp til landet etter de kraftige jordskjelvene.\n\nDet opplyser USAs viseutenriksminister, Christopher Landau, ifølge nyhetsbyrået Reuters. To kraftige skjelv rammet Venezuela natt til torsdag norsk tid, og førte til at mange bygninger og bolighus raste sammen.\n\nDet fryktes omfattende ødeleggelser og svært høye dødstall som følge av katastrofen.\n\nVenezuela\n\nNicolás Maduro har vært president siden 2013. Han har tatt landet i autoritær retning, og anklages for valgfusk. Norge er blant mange land som sier regimet mangler demokratisk legitimitet. 3. januar 2026 angrep USA og tok Maduro til fange.",
-      "excerpt": "USA er i kontakt med myndighetene i Venezuela og gjør klar hjelp til landet etter de kraftige jordskjelvene.\n\nDet opplyser USAs viseutenriksminister, Christopher Landau, ifølge nyhetsbyrået Reuters. To kraftige skjelv rammet Venezuela natt til torsdag norsk tid, og førte til at mange bygninger og...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-vil-hjelpe-venezuela-etter-jordskjelvene-1.17935032",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-25T03:46:40.875Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782342305165.4124,
-      "title": "Smittetallene stiger i DR Kongo",
-      "slug": "smittetallene-stiger-i-dr-kongo",
-      "content": "I DR Kongo er tallet på mennesker som er bekreftet smittet med ebolaviruset steget til 1118.\n\nDet melder nyhetsbyrået Reuters, som viser til tall fra lokale helsemyndigheter.\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og Liberia. Etter at det store utbruddet var over, er det registrert flere sporadiske tilfeller av smitte.",
-      "excerpt": "I DR Kongo er tallet på mennesker som er bekreftet smittet med ebolaviruset steget til 1118.\n\nDet melder nyhetsbyrået Reuters, som viser til tall fra lokale helsemyndigheter.\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og...",
-      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIzNDIzMDV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/smittetallene-stiger-i-dr-kongo-1.17934930",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-24T23:05:05.165Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1954,
+    "totalFetched": 1957,
     "totalPublished": 77,
-    "lastFetch": "2026-06-27T10:11:06.771Z",
+    "lastFetch": "2026-06-27T13:46:41.364Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
