@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1782659940707.5286,
+      "title": "Motorsyklist kjørt til sykehus etter utforkjøring på Notodden",
+      "slug": "motorsyklist-kjrt-til-sykehus-etter-utforkjring-p-notodden",
+      "content": "Nødetatene har rykket ut til Notodden etter melding om at en motorsykkel har kjørt i en grøft. Det er store skader på motorsykkelen, og det fremstår som en alvorlig ulykke, opplyser politiet.\n\nSenere opplyser politiet at ulykken ikke er så alvorlig som først antatt.\n\nIngen andre er innblandet i hendelsen som skjedde på E134.\n\nDet var store trafikale utfordringer på stedet og køen ble dirigert av brannvesenet en periode. Like før klokken 16.00 skal trafikken flyte greit på stedet, opplyser Skuggedal.\n\nNødetatene har rykket til Notodden etter melding om at en motorsykkel har kjørt i en grøft søndag ettermiddag.",
+      "excerpt": "Nødetatene har rykket ut til Notodden etter melding om at en motorsykkel har kjørt i en grøft. Det er store skader på motorsykkelen, og det fremstår som en alvorlig ulykke, opplyser politiet.\n\nSenere opplyser politiet at ulykken ikke er så alvorlig som først antatt.\n\nIngen andre er innblandet i...",
+      "image": "https://images.unsplash.com/photo-1683797466570-ccaab622991a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI2NTk5NDB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/motorsyklist-kjort-til-sykehus-etter-utforkjoring-pa-notodden--1.17939447",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-28T15:19:00.707Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782659938924.4412,
+      "title": "Funn av død person i Porsgrunn",
+      "slug": "funn-av-dd-person-i-porsgrunn",
+      "content": "Politiet undersøker hva som har skjedd etter at en person ble funnet død i et hus i Porsgrunn søndag ettermiddag.\n\nSå langt kjenner ikke politiet til hva som har skjedd og kjenner heller ikke til personens identitet.\n\nPolitiet opplyser at det ikke har holdepunkter for at det har skjedd noe straffbart og jobber ut ifra flere hypoteser.\n\nEn person er funnet død på en privat adresse i Porsgrunn søndag ettermiddag.",
+      "excerpt": "Politiet undersøker hva som har skjedd etter at en person ble funnet død i et hus i Porsgrunn søndag ettermiddag.\n\nSå langt kjenner ikke politiet til hva som har skjedd og kjenner heller ikke til personens identitet.\n\nPolitiet opplyser at det ikke har holdepunkter for at det har skjedd noe...",
+      "image": "https://images.unsplash.com/photo-1781444510899-ecf56f2bf1b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI2NTk5Mzh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/funn-av-dod-person-i-porsgrunn--1.17939399",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-28T15:18:58.924Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782654634146.1548,
       "title": "Alvorlig sykkelulykke i Sandefjord",
       "slug": "alvorlig-sykkelulykke-i-sandefjord",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-06-25T23:19:59.237Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782423889856.873,
-      "title": "Strømbrudd på Statfjord B: 74 personer fraktes bort med helikopter",
-      "slug": "strmbrudd-p-statfjord-b-74-personer-fraktes-bort-med-helikop",
-      "content": "74 personer flyttes fra Statfjord B til de nærliggende plattformene Statfjord A og C etter et strømbrudd torsdag kveld, bekrefter Equinor overfor NRK.\n\nOljeplattformen Statfjord B ligger i den nordlige delen av Nordsjøen, omtrent 210 kilometer vest for Bergen.\n\nEt redningshelikopter er på vei fra Bergen mot området, viser Flight Radar.\n\n– Det er en kontrollert forflytning, opplyser kommunikasjonsdirektør i Equinor, Sissel Rinde til NRK.\n\nTotalt 137 mennesker var på Statfjord B da strømmen gikk.\n\n74 mennesker fraktes nå til nærliggende plattformer.",
-      "excerpt": "74 personer flyttes fra Statfjord B til de nærliggende plattformene Statfjord A og C etter et strømbrudd torsdag kveld, bekrefter Equinor overfor NRK.\n\nOljeplattformen Statfjord B ligger i den nordlige delen av Nordsjøen, omtrent 210 kilometer vest for Bergen.\n\nEt redningshelikopter er på vei fra...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/strombrudd-pa-statfjord-b_-74-personer-fraktes-bort-med-helikopter-1.17936386",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-25T21:44:49.856Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782423888371.1821,
-      "title": "Alvorlig voldshendelse i Fredrikstad",
-      "slug": "alvorlig-voldshendelse-i-fredrikstad",
-      "content": "Politiet bekrefter at det har vært en alvorlig voldshendelse i Fredrikstad.\n\n– Vi har hatt en knivstikking, sier Stein Roger Lunde, innsatsleder Øst politidistrikt til NRK.\n\nEn gjerningsperson skal være pågrepet. Fornærmede er sendt til Kalnes sykehus.\n\nPolitiet bekrefter at det har vært en knivstikking i Fredrikstad torsdag kveld.",
-      "excerpt": "Politiet bekrefter at det har vært en alvorlig voldshendelse i Fredrikstad.\n\n– Vi har hatt en knivstikking, sier Stein Roger Lunde, innsatsleder Øst politidistrikt til NRK.\n\nEn gjerningsperson skal være pågrepet. Fornærmede er sendt til Kalnes sykehus.\n\nPolitiet bekrefter at det har vært en...",
-      "image": "https://images.unsplash.com/photo-1681025277420-8120763b3e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI0MjM4ODh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/ostfold/alvorlig-voldshendelse-i-fredrikstad-1.17936574",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-25T21:44:48.371Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1972,
+    "totalFetched": 1974,
     "totalPublished": 77,
-    "lastFetch": "2026-06-28T13:50:35.691Z",
+    "lastFetch": "2026-06-28T15:19:03.352Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
