@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1782680601124.1487,
+      "title": "En person er siktet etter en voldshendelse i Trondheim",
+      "slug": "en-person-er-siktet-etter-en-voldshendelse-i-trondheim",
+      "content": "Politiet rykket klokken 21.21 ut til en adresse på Persaunet i Trondheim etter melding om at to personer har gått til angrep mot personer med et slagvåpen.\n\nTo personer er skadd og blir tatt hånd om av helsepersonell.\n\n– En navngitt person er besluttet pågrepet i saken og er nå siktet for kroppsskade, melder Johnsen 22.25.\n\nPolitiets forståelse er at det dreier seg om personer som er kjent for hverandre. Det er således ingen fare for andre.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "Politiet rykket klokken 21.21 ut til en adresse på Persaunet i Trondheim etter melding om at to personer har gått til angrep mot personer med et slagvåpen.\n\nTo personer er skadd og blir tatt hånd om av helsepersonell.\n\n– En navngitt person er besluttet pågrepet i saken og er nå siktet for...",
+      "image": "https://images.unsplash.com/photo-1698171474543-00caa2d153d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI2ODA2MDB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/trondelag/en-person-er-siktet-etter-en-voldshendelse-i-trondheim-1.17939644",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-28T21:03:21.124Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782674597763.3955,
       "title": "Trafikken sto helt stille på E18 i Tønsberg",
       "slug": "trafikken-sto-helt-stille-p-e18-i-tnsberg",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-26T07:55:59.286Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782446109223.709,
-      "title": "USA sender krigsskip til Venezuela",
-      "slug": "usa-sender-krigsskip-til-venezuela",
-      "content": "Det amerikanske militæret sender flere krigsskip til Venezuela etter jordskjelvene natt til torsdag.\n\nSkipene skal bistå i redningsarbeidet, skriver den amerikanske militærkommandoen Southcom på X.\n\nOgså amerikanske militærfly og helikoptre skal sendes til området, ifølge militæret.\n\nMinst 188 er bekreftet omkommet, men eksperter frykter at langt flere kan ha mistet livet i skjelvene.\n\nVenezuela\n\nNatt til torsdag rammet to store jordskjelv Venezuela Eksperter frykter svært høye dødstall 188 personer er så langt bekreftet omkommet Flere land har tilbudt det allerede kriserammede landet nødhjelp Regjeringen har erklært unntakstilstand",
-      "excerpt": "Det amerikanske militæret sender flere krigsskip til Venezuela etter jordskjelvene natt til torsdag.\n\nSkipene skal bistå i redningsarbeidet, skriver den amerikanske militærkommandoen Southcom på X.\n\nOgså amerikanske militærfly og helikoptre skal sendes til området, ifølge militæret.\n\nMinst 188 er...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-sender-krigsskip-til-venezuela-1.17936710",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-26T03:55:09.223Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1978,
+    "totalFetched": 1979,
     "totalPublished": 77,
-    "lastFetch": "2026-06-28T19:23:20.100Z",
+    "lastFetch": "2026-06-28T21:03:23.540Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
