@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1782647251579.6257,
+      "title": "E39 stengt etter ulykke",
+      "slug": "e39-stengt-etter-ulykke",
+      "content": "To biler er involvert i en ulykke på E39 ved Feda. Ulykken har skjedd ved Fosselandstunellen i Kvinesdal.\n\nDet skal være en front mot front kollisjon og politiet opplyser at det er store materielle skader.\n\n– De fremstår med lite skader, men kjøres til sykehuset i Kristiansand da de er utsatt for høy energi, skriver operasjonsleder Frode Vang.\n\nBilberger er på vei og antas å være på stedet etter klokken 12.",
+      "excerpt": "To biler er involvert i en ulykke på E39 ved Feda. Ulykken har skjedd ved Fosselandstunellen i Kvinesdal.\n\nDet skal være en front mot front kollisjon og politiet opplyser at det er store materielle skader.\n\n– De fremstår med lite skader, men kjøres til sykehuset i Kristiansand da de er utsatt for...",
+      "image": null,
+      "original_url": "https://www.nrk.no/sorlandet/e39-stengt-etter-ulykke-1.17939263",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-28T11:47:31.579Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782636915822.1365,
       "title": "Five unexpected things you learn living with Norwegians",
       "slug": "five-unexpected-things-you-learn-living-with-norwegians",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-25T18:11:17.288Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782411075529.3655,
-      "title": "«Alligator Alcatraz» er stengt",
-      "slug": "alligator-alcatraz-er-stengt",
-      "content": "Den omstridte interneringsleiren for immigranter «Alligator Alcatraz» er stengt etter under et års drift, uttalte Floridas guvernør Ron DeSantis torsdag.\n\nDeSantis, som stilte opp på det avsidesliggende stedet i Everglades sammen med Det hvite hus' «grensesjef» Tom Homan og andre embetspersoner, sa at anlegget ikke lenger huser noen internerte, og at det har oppfylt den nødrollen det ble bygget for å tjene.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Den omstridte interneringsleiren for immigranter «Alligator Alcatraz» er stengt etter under et års drift, uttalte Floridas guvernør Ron DeSantis torsdag.\n\nDeSantis, som stilte opp på det avsidesliggende stedet i Everglades sammen med Det hvite hus' «grensesjef» Tom Homan og andre embetspersoner, sa...",
-      "image": "https://images.unsplash.com/photo-1751310239931-9ddbfa6d0f91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI0MTEwNzV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/_alligator-alcatraz_-er-stengt--1.17936340",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-25T18:11:15.529Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1968,
+    "totalFetched": 1969,
     "totalPublished": 77,
-    "lastFetch": "2026-06-28T08:55:16.824Z",
+    "lastFetch": "2026-06-28T11:47:34.222Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
