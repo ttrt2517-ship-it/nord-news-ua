@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782654634146.1548,
+      "title": "Alvorlig sykkelulykke i Sandefjord",
+      "slug": "alvorlig-sykkelulykke-i-sandefjord",
+      "content": "En person fremstår som alvorlig skadet etter en ulykke på sykkel i Sandefjord, opplyser politiet. Nødetater er på stedet.\n\nUndersøkelser på stedet tilsier at årsaken til hendelsen er helsemessige årsaker, opplyser politiet klokka 14.11.",
+      "excerpt": "En person fremstår som alvorlig skadet etter en ulykke på sykkel i Sandefjord, opplyser politiet. Nødetater er på stedet.\n\nUndersøkelser på stedet tilsier at årsaken til hendelsen er helsemessige årsaker, opplyser politiet klokka 14.11.",
+      "image": "https://images.unsplash.com/photo-1662710629511-7fe0705049ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI2NTQ2MzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/alvorlig-sykkelulykke-i-sandefjord--1.17939397",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-28T13:50:34.146Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782654632490.778,
+      "title": "Mer enn 1300 døde i hetebølge",
+      "slug": "mer-enn-1300-dde-i-heteblge",
+      "content": "Ifølge Verdens helseorganisasjon (WHO) er det regisert mer enn 1300 ekstra dødsfall siden 21. juni. Dødsfallene knyttes til hetebølgen som rammer Europa.\n\nTidligere i dag meldte Det franske folkehelseinstituttet (SPF) om at det er registrert 1000 flere dødsfall i løpet av hetebølgen enn det som er normalt.\n\nHetebølgen i Frankrike har slått flere rekorder, og mange steder har det vært over 40 grader den siste uken.\n\nDet har blitt satt en rekke varmerekorder i Europa de siste dagene, blant annet i Tyskland med 41,5 grader og i Danmark med 37 grader.\n\nHetebølge og varmerekorder\n\nVi følger hetebølge og varmerekorder direkte.\nEr du et sted med hetebølge? Ta kontakt med NRK her.",
+      "excerpt": "Ifølge Verdens helseorganisasjon (WHO) er det regisert mer enn 1300 ekstra dødsfall siden 21. juni. Dødsfallene knyttes til hetebølgen som rammer Europa.\n\nTidligere i dag meldte Det franske folkehelseinstituttet (SPF) om at det er registrert 1000 flere dødsfall i løpet av hetebølgen enn det som er...",
+      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI2NTQ2MzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mer-enn-1300-dode-i-hetebolge-1.17939434",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-28T13:50:32.490Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782654630579.4956,
+      "title": "Lynnedslag traff sommerland i Sverige",
+      "slug": "lynnedslag-traff-sommerland-i-sverige",
+      "content": "Flere personer ble skadet da lyn slo ned i Tosselilla sommarland i Sverige.\n\nEn kvinne i 40-årene ble alvorlig skadet, skriver Aftonbladet.\n\nTo personer ble kjørt til sykehus med ambulanse, mens sju andre har oppsøkt legevakten selv, skriver Aftonbladet. Disse skal være lettere skadet.\n\nParken, som ligger nord for Ystad, opplyser selv at den ble rammet av et kraftig tordenvær.\n\n– Det har ført til noen personskader, og derfor har vi mange ambulanser på stedet, skriver parken i sosiale medier.\n\nLynnedslaget skjedde omtrent klokken 10.30 søndag, kort tid etter at parken åpnet. De opplyser at flere lyn slo ned inne i parken.\n\nHetebølge og varmerekorder\n\nVi følger hetebølge og varmerekorder direkte.\nEr du et sted med hetebølge? Ta kontakt med NRK her.",
+      "excerpt": "Flere personer ble skadet da lyn slo ned i Tosselilla sommarland i Sverige.\n\nEn kvinne i 40-årene ble alvorlig skadet, skriver Aftonbladet.\n\nTo personer ble kjørt til sykehus med ambulanse, mens sju andre har oppsøkt legevakten selv, skriver Aftonbladet. Disse skal være lettere skadet.\n\nParken, som...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/lynnedslag-traff-sommerland-i-sverige-1.17939497",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-28T13:50:30.579Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782647251579.6257,
       "title": "E39 stengt etter ulykke",
       "slug": "e39-stengt-etter-ulykke",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-25T21:44:48.371Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782423886746.5835,
-      "title": "Helseministeren lover bedre helsehjelp til transpersoner",
-      "slug": "helseministeren-lover-bedre-helsehjelp-til-transpersoner",
-      "content": "Under minnemarkeringen for 25. juni-terroren lovet helseminister Jan Christian Vestre (Ap) å sikre transpersoner bedre helsehjelp.\n\n– Hjelp skal være tilgjengelig for alle som trenger det. La meg derfor si det tydelig til dere i dag: Den hjelpen har ikke vært god nok, den er ikke god nok, og nå må vi gjøre noe med det.\n\nUttalelsen kommer samme uke som forskere ved Oslo universitetssykehus (OUS) ble felt for grov uaktsomhet, etter å ha brukt pasientopplysninger uten samtykke i artikler om transpersoner.\n\n– Når tilliten til helsetjenestene våre svikter, er det vårt ansvar å brette opp ermene. Vi kan mye bedre enn dette. Det er et løfte, sa vestre.\n\nTranspersoner\n\nTranspersoner er personer med en kjønnsidentitet som er forskjellig fra det kjønn de er registrert med fra fødselen av.\n\nHelsetjenester\n\nHelsevesenet er det samlede system av tjenester, institusjoner og lovgivning som samfunnet har bygd ut for å styrke folkehelsen, yte diagnostikk, behandling, rehabilitering og omsorg ved akutte og kroniske sykdommer og skade. (SNL.no)\n\nPride\n\nPride er ein årleg festival for dei som er del av eller støttar LHBTI+-rørsla. Høgdepunktet under Oslo Pride 2025 var ein stor parade med over 100.000 deltakarar. I 2022 vart paraden avlyst etter eit terrorangrep.",
-      "excerpt": "Under minnemarkeringen for 25. juni-terroren lovet helseminister Jan Christian Vestre (Ap) å sikre transpersoner bedre helsehjelp.\n\n– Hjelp skal være tilgjengelig for alle som trenger det. La meg derfor si det tydelig til dere i dag: Den hjelpen har ikke vært god nok, den er ikke god nok, og nå må...",
-      "image": "https://images.unsplash.com/photo-1735387273482-751d3f16f2f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI0MjM4ODZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/helseministeren-lover-bedre-helsehjelp-til-transpersoner-1.17936569",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-25T21:44:46.747Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782411078806.0984,
-      "title": "Frankrike og Italia enige om koalisjon for å støtte Libanon",
-      "slug": "frankrike-og-italia-enige-om-koalisjon-for-sttte-libanon",
-      "content": "Italia og Frankrike har blitt enige om å opprette en ny koalisjon for å støtte Libanon etter at FNs fredsbevarende UNIFIL-oppdrag avsluttes i landet ved årsslutt.\n\nDet uttalte Italias statsminister Giorgia Meloni torsdag, melder Reuters.\n\nMeloni har torsdag vært i samtaler med Frankrikes statsminister Emmanuel Macron i Antibes.\n\nDe to skal også ha snakket om muligheten for å holde en internasjonal konferanse om saken.\n\n– Vi ønsker å lansere en koalisjon for ordningen etter UNIFIL, selvfølgelig i samråd med Den europeiske union og De forente nasjoner, for å styrke Libanons suverenitet og landets væpnede styrker, sa Macron etter samtalene med Meloni.\n\nLibanon\n\nDen iranskstøttede Hizbollah-militsen angrep Israel med raketter for å svare på det israelske angrepet på Iran 28. februar. Angrepene mot Libanon har tiltatt i styrke fra israelsk side etter våpenhvileavtalen mellom USA, Israel og Iran 8. april.",
-      "excerpt": "Italia og Frankrike har blitt enige om å opprette en ny koalisjon for å støtte Libanon etter at FNs fredsbevarende UNIFIL-oppdrag avsluttes i landet ved årsslutt.\n\nDet uttalte Italias statsminister Giorgia Meloni torsdag, melder Reuters.\n\nMeloni har torsdag vært i samtaler med Frankrikes...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/frankrike-og-italia-enige-om-koalisjon-for-a-stotte-libanon-1.17936154",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-25T18:11:18.806Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782411077288.1533,
-      "title": "FNs sjøfartsorganisasjon: Evakuering av sjøfolk i Hormuzstredet stanser",
-      "slug": "fns-sjfartsorganisasjon-evakuering-av-sjfolk-i-hormuzstredet",
-      "content": "FNs sjøfartsorganisasjon stanset torsdag arbeidet med å evakuere strandede skip og sjøfolk i Hormuzstredet, melder Reuters.\n\nÅrsaken til stansen er at lasteskip torsdag ble truffet av en ukjent prosjektil utenfor Oman i Hormuzstredet. Båten fikk materielle skader, men det er ikke meldt om personskader.\n\n– Jeg har besluttet å midlertidig sette iverksettelsen på pause, for å bekrefte at de nødvendige sikkerhetsgarantiene fortsatt er på plass for skipene på vår evakueringsliste og alle andre i regionen, sa Arsenio Dominguez, generalsekretær i FNs internasjonale sjøfartsorganisasjon (IMO), i en uttalelse.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "FNs sjøfartsorganisasjon stanset torsdag arbeidet med å evakuere strandede skip og sjøfolk i Hormuzstredet, melder Reuters.\n\nÅrsaken til stansen er at lasteskip torsdag ble truffet av en ukjent prosjektil utenfor Oman i Hormuzstredet. Båten fikk materielle skader, men det er ikke meldt om...",
-      "image": "https://images.unsplash.com/photo-1571171307515-ea967318c581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI0MTEwNzd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/fns-sjofartsorganisasjon_-evakuering-av-sjofolk-i-hormuzstredet-stanser-1.17936401",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-25T18:11:17.288Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1969,
+    "totalFetched": 1972,
     "totalPublished": 77,
-    "lastFetch": "2026-06-28T11:47:34.222Z",
+    "lastFetch": "2026-06-28T13:50:35.691Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
