@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782748233377.6777,
+      "title": "Åtte drept og 35 skadet i russiske angrep mandag",
+      "slug": "tte-drept-og-35-skadet-i-russiske-angrep-mandag",
+      "content": "Ukrainas president Volodymyr Zelenskyj skriver på sosiale medier at fem mennesker er drept og 29 såret etter at et russisk missilangrep rammet infrastruktur i byen Dnipro mandag formiddag.\n\nI tillegg skal droner ha truffet en minibuss i byen Zaporizjzja, sør i Ukraina. Der er tre drept og seks såret, skriver NTB.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainas president Volodymyr Zelenskyj skriver på sosiale medier at fem mennesker er drept og 29 såret etter at et russisk missilangrep rammet infrastruktur i byen Dnipro mandag formiddag.\n\nI tillegg skal droner ha truffet en minibuss i byen Zaporizjzja, sør i Ukraina. Der er tre drept og seks...",
+      "image": "https://images.unsplash.com/photo-1693467084173-2071521fda73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI3NDgyMzN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/atte-drept-og-35-skadet-i-russiske-angrep-mandag-1.17940822",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-29T15:50:33.377Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782748231847.6038,
+      "title": "Sentralbanktopp får beholde jobben i USA",
+      "slug": "sentralbanktopp-fr-beholde-jobben-i-usa",
+      "content": "USAs høyesterett blokkerer president Donald Trumps forsøk på å sparke Lisa Cook fra styret i landets sentralbank.\n\nDomstolens beslutning ble kjent mandag. Samtidig som Cook inntil videre får beholde jobben, utvider høyesterett presidentens mulighet til å sparke sjefer for føderale etater, skriver nyhetsbyrået AP.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "USAs høyesterett blokkerer president Donald Trumps forsøk på å sparke Lisa Cook fra styret i landets sentralbank.\n\nDomstolens beslutning ble kjent mandag. Samtidig som Cook inntil videre får beholde jobben, utvider høyesterett presidentens mulighet til å sparke sjefer for føderale etater, skriver...",
+      "image": "https://images.unsplash.com/photo-1765316994223-357ea22a9fca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI3NDgyMzF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/sentralbanktopp-far-beholde-jobben-i-usa-1.17940846",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-29T15:50:31.847Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782748230051.641,
+      "title": "Redningsaksjon i Bergen",
+      "slug": "redningsaksjon-i-bergen",
+      "content": "Politiet og Hovedredningssentralen har satt i gang en redningsaksjon i Biskopshavn i Bergen. Det er funnet en sparkesykkel og diverse eiendeler på land som ikke kobles til noen som bader.\n\nPolitipatruljer, brannvesen med dykkere, ambulanse og luftambulanse er med på redningsaksjonen.\n\nPolitiet oppfordrer folk som kan ha informasjon om gjenstandene om å ringe politiet på 112.",
+      "excerpt": "Politiet og Hovedredningssentralen har satt i gang en redningsaksjon i Biskopshavn i Bergen. Det er funnet en sparkesykkel og diverse eiendeler på land som ikke kobles til noen som bader.\n\nPolitipatruljer, brannvesen med dykkere, ambulanse og luftambulanse er med på redningsaksjonen.\n\nPolitiet...",
+      "image": "https://images.unsplash.com/photo-1724968865954-a75c61d9187a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI3NDgyMzB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestland/redningsaksjon-i-bergen-1.17940869",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-06-29T15:50:30.052Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782731017207.5486,
       "title": "Togtrafikken mot Oslo lufthavn åpnet igjen etter brann",
       "slug": "togtrafikken-mot-oslo-lufthavn-pnet-igjen-etter-brann",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-26T17:49:52.527Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782484101644.218,
-      "title": "CNN: Et småfly har krasjet inn i Bejings høyeste skyskraper",
-      "slug": "cnn-et-smfly-har-krasjet-inn-i-bejings-hyeste-skyskraper",
-      "content": "CNN viser til bilder lagt ut i sosiale medier, som viser vrakgods som faller ned fra 109 etasjer høye CITIC Tower, en bygning som også er kjent som China Zun.\n\nPolitiet i Bejing har stengt enkelte veier som fører inn til den høyeste bygningen i byens sentrale forretningsdistrikt.\n\nEt vitne observerte at et glasspanel manglet i en høy etasje på siden av bygningen, melder Reuters.\n\nBygningen er hovedkvarteret til det statseide konglomeratet CITIC Group og er den høyeste bygningen i den kinesiske hovedstaden.\n\nBygningen er den høyeste i den kinesiske hovedstaden.\n\nKina\n\nKina er verdens nest mest folkerike land, og blant de eldste kontinuerlige sivilisasjonene i verden. Landet ledes av kommunistpartiet og president Xi Jinping, som er den første lederen siden formann Mao som har sittet i tre 5-årsperioder.",
-      "excerpt": "CNN viser til bilder lagt ut i sosiale medier, som viser vrakgods som faller ned fra 109 etasjer høye CITIC Tower, en bygning som også er kjent som China Zun.\n\nPolitiet i Bejing har stengt enkelte veier som fører inn til den høyeste bygningen i byens sentrale forretningsdistrikt.\n\nEt vitne...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/cnn_-et-smafly-har-krasjet-inn-i-bejings-hoyeste-skyskraper-1.17937780",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-26T14:28:21.644Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782484100128.3047,
-      "title": "Dømt til fengsel for drapsforsøk i Tromsø",
-      "slug": "dmt-til-fengsel-for-drapsforsk-i-troms",
-      "content": "To menn i 30-årene er i Nord-Troms og Senja tingrett dømt til fengsel i henholdsvis 7 år og 8 år for drapsforsøk.  Det var i september i fjor en mann i 20-årene ble angrepet med kniv i en bolig på Tromsøya.  Han fikk varige skader som følge av fem knivstikk.\n\nBegge de to mennene har nektet straffskyld etter tiltalen.\n\nTo menn er dømt til fengsel i syv og åtte år for drapsforsøk på en mann i 20-årene i Tromsø.",
-      "excerpt": "To menn i 30-årene er i Nord-Troms og Senja tingrett dømt til fengsel i henholdsvis 7 år og 8 år for drapsforsøk.  Det var i september i fjor en mann i 20-årene ble angrepet med kniv i en bolig på Tromsøya.  Han fikk varige skader som følge av fem knivstikk.\n\nBegge de to mennene har nektet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/tromsogfinnmark/domt-til-fengsel-for-drapsforsok-i-tromso-1.17937849",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-26T14:28:20.128Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782484098591.17,
-      "title": "Foreslår forenklet forelegg i mindre alvorlige narkotikasaker",
-      "slug": "foreslr-forenklet-forelegg-i-mindre-alvorlige-narkotikasaker",
-      "content": "Justis- og beredskapsdepartementet sendte fredag et forslag på høring om en ordning med forenklet forelegg i mindre alvorlige narkotikasaker.\n\nRegjeringen foreslår at det skal gis et forenklet forelegg ved overtredelse av straffebestemmelsen i legemiddelloven om befatning med mindre mengder narkotika til eget bruk.\n\nI høringsnotatet står det at ordningen primært skal gjelde når «politiet mer eller mindre uventet kommer i møte med åpenlys eller erkjent bruk eller innehav av narkotika».\n\nForslaget følger opp lovendringene som ble vedtatt av Stortinget i juni 2025, og som ennå ikke er trådt i kraft.\n\nRusreform\n\nBesittelse og bruk av små mengder narkotika skal ikke lenger straffeforfølges, har Høyesterett bestemt. Salg og smugling skal fortsatt straffeforfølges som nå.",
-      "excerpt": "Justis- og beredskapsdepartementet sendte fredag et forslag på høring om en ordning med forenklet forelegg i mindre alvorlige narkotikasaker.\n\nRegjeringen foreslår at det skal gis et forenklet forelegg ved overtredelse av straffebestemmelsen i legemiddelloven om befatning med mindre mengder...",
-      "image": "https://images.unsplash.com/photo-1765315163406-09613aedae03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI0ODQwOTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/foreslar-forenklet-forelegg-i-mindre-alvorlige-narkotikasaker-1.17937936",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-26T14:28:18.591Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 1984,
+    "totalFetched": 1987,
     "totalPublished": 77,
-    "lastFetch": "2026-06-29T11:03:39.102Z",
+    "lastFetch": "2026-06-29T15:50:35.154Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
