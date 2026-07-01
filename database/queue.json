@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782878708472.3333,
+      "title": "USA opphever Anthropic-restriksjoner",
+      "slug": "usa-opphever-anthropicrestriksjoner",
+      "content": "Det amerikanske KI-selskapet Anthropic vil onsdag åpne opp igjen tilgangen til sine nyeste modeller.\n\nDet opplyser selskapet selv. Amerikanske myndigheter har nemlig fjernet et eksportforbud som blokkerte modellene «Claude Fable 5» og «Mythos 5».\n\nIfølge Anthropic har de fått grønt lys fra handelsdepartementet i USA, og arbeidet med å gi brukerne tilgang igjen starter onsdag.\n\nKunstig intelligens\n\nChatGPT er en kunstig intelligens-basert tekstgenereringsmodell fra selskapet OpenAI. Den kan brukes til å generere svar på spørsmål, skrive samtaler eller til å komplettere tekst.",
+      "excerpt": "Det amerikanske KI-selskapet Anthropic vil onsdag åpne opp igjen tilgangen til sine nyeste modeller.\n\nDet opplyser selskapet selv. Amerikanske myndigheter har nemlig fjernet et eksportforbud som blokkerte modellene «Claude Fable 5» og «Mythos 5».\n\nIfølge Anthropic har de fått grønt lys fra...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/usa-opphever-anthropic-restriksjoner-1.17942779",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-01T04:05:08.472Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782878706982.3828,
+      "title": "AFP: Presidentvalg i Frankrike i april neste år",
+      "slug": "afp-presidentvalg-i-frankrike-i-april-neste-r",
+      "content": "Presidentvalget i Frankrike neste år skal holdes 18. april og 2. mai, sier en regjeringskilde.\n\n– Det blir offentliggjort i morgen (onsdag), sier kilden til nyhetsbyrået AFP.\n\nPresident Emmanuel Macron er nå inne i sin andre og siste femårsperiode. Grunnloven slår fast at et valg må holdes mellom 20 og 35 dager før perioden utløper, skriver NTB.",
+      "excerpt": "Presidentvalget i Frankrike neste år skal holdes 18. april og 2. mai, sier en regjeringskilde.\n\n– Det blir offentliggjort i morgen (onsdag), sier kilden til nyhetsbyrået AFP.\n\nPresident Emmanuel Macron er nå inne i sin andre og siste femårsperiode. Grunnloven slår fast at et valg må holdes mellom...",
+      "image": "https://images.unsplash.com/photo-1679769705477-47435d90155d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI4Nzg3MDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/afp_-presidentvalg-i-frankrike-i-april-neste-ar-1.17942799",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-01T04:05:06.982Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782878705429.7456,
+      "title": "Sverige og Ukraina inngår kampflyavtale",
+      "slug": "sverige-og-ukraina-inngr-kampflyavtale",
+      "content": "Saab har signert en kontrakt om levering av 16 kampfly av typen Gripen til Ukraina. Avtalen er verdt rundt 24,6 milliarder svenske kroner.\n\nSaab opplyser at leveringen av flyene skal skje i 2029 og 2030.\n\nAvtalen omfatter levering av 16 Gripen-kampfly, samt reservedeler, utstyr og teknisk støtte.\n\nUkrainas president Volodymyr Zelenskyj skriver i et innlegg i meldingstjenesten Telegram at han har diskutert implementering av avtalen, samt et bredere forsvarssamarbeid, med Sveriges forsvarsminister Pål Jonson i et møte i Kyiv tirsdag. Samtalene omfattet drone- og rakettforsvarsprosjekter.\n\n– Dette er et stort steg for Ukrainas frihet og Europas sikkerhet: Gripen vil styrke Ukrainas evne til å forsvare luftrommet sitt, sier Jonson i en uttalelse i meldingstjenesten X.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
+      "excerpt": "Saab har signert en kontrakt om levering av 16 kampfly av typen Gripen til Ukraina. Avtalen er verdt rundt 24,6 milliarder svenske kroner.\n\nSaab opplyser at leveringen av flyene skal skje i 2029 og 2030.\n\nAvtalen omfatter levering av 16 Gripen-kampfly, samt reservedeler, utstyr og teknisk...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/sverige-og-ukraina-inngar-kampflyavtale-1.17942801",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-01T04:05:05.429Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782861313953.4653,
       "title": "USA gratulerer Fujimori med valgseieren i Peru",
       "slug": "usa-gratulerer-fujimori-med-valgseieren-i-peru",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-28T13:50:32.490Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782654630579.4956,
-      "title": "Lynnedslag traff sommerland i Sverige",
-      "slug": "lynnedslag-traff-sommerland-i-sverige",
-      "content": "Flere personer ble skadet da lyn slo ned i Tosselilla sommarland i Sverige.\n\nEn kvinne i 40-årene ble alvorlig skadet, skriver Aftonbladet.\n\nTo personer ble kjørt til sykehus med ambulanse, mens sju andre har oppsøkt legevakten selv, skriver Aftonbladet. Disse skal være lettere skadet.\n\nParken, som ligger nord for Ystad, opplyser selv at den ble rammet av et kraftig tordenvær.\n\n– Det har ført til noen personskader, og derfor har vi mange ambulanser på stedet, skriver parken i sosiale medier.\n\nLynnedslaget skjedde omtrent klokken 10.30 søndag, kort tid etter at parken åpnet. De opplyser at flere lyn slo ned inne i parken.\n\nHetebølge og varmerekorder\n\nVi følger hetebølge og varmerekorder direkte.\nEr du et sted med hetebølge? Ta kontakt med NRK her.",
-      "excerpt": "Flere personer ble skadet da lyn slo ned i Tosselilla sommarland i Sverige.\n\nEn kvinne i 40-årene ble alvorlig skadet, skriver Aftonbladet.\n\nTo personer ble kjørt til sykehus med ambulanse, mens sju andre har oppsøkt legevakten selv, skriver Aftonbladet. Disse skal være lettere skadet.\n\nParken, som...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/lynnedslag-traff-sommerland-i-sverige-1.17939497",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-28T13:50:30.579Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782647251579.6257,
-      "title": "E39 stengt etter ulykke",
-      "slug": "e39-stengt-etter-ulykke",
-      "content": "To biler er involvert i en ulykke på E39 ved Feda. Ulykken har skjedd ved Fosselandstunellen i Kvinesdal.\n\nDet skal være en front mot front kollisjon og politiet opplyser at det er store materielle skader.\n\n– De fremstår med lite skader, men kjøres til sykehuset i Kristiansand da de er utsatt for høy energi, skriver operasjonsleder Frode Vang.\n\nBilberger er på vei og antas å være på stedet etter klokken 12.",
-      "excerpt": "To biler er involvert i en ulykke på E39 ved Feda. Ulykken har skjedd ved Fosselandstunellen i Kvinesdal.\n\nDet skal være en front mot front kollisjon og politiet opplyser at det er store materielle skader.\n\n– De fremstår med lite skader, men kjøres til sykehuset i Kristiansand da de er utsatt for...",
-      "image": null,
-      "original_url": "https://www.nrk.no/sorlandet/e39-stengt-etter-ulykke-1.17939263",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-28T11:47:31.579Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782636915822.1365,
-      "title": "Five unexpected things you learn living with Norwegians",
-      "slug": "five-unexpected-things-you-learn-living-with-norwegians",
-      "content": "Norway is a country full of unique cultural traditions and quirks, so it should be no surprise that living with Norwegians can come with a few surprises.\n\nThe best way to immerse yourself in another culture is living among the locals, while Norway is known for its welcoming attitude, people who move to the country often encounter aspects of daily life that are a tad surprising and might require a bit of adjustment.\n\nREAD MORE: Six questions that will answer whether Norway is the place for you\n\nFor some, these differences might take some getting used to, while others find the Norwegian way of living fits them right from the start.\n\nFrom their love for the great outdoors to their straightforward communication style, many aspects of Norwegian culture are both intriguing and attractive, and Norwegians often make headlines for their quirky habits and impressive health statistics.\n\nOver time, these habits can rub off on newcomers – sometimes without them even realising it. One day, you just find yourself making sure your clothing is suited for a sudden rainstorm or filling your weekends with hikes regardless of how cold it is outside...\n\nWhy staying active (even when you don't feel like it) is important\n\nNorway's weather can be unpredictable, and sunny, pleasant days are often few and far between (especially if you live in western, northern, or central Norway).\n\nThis makes it crucial to seize the opportunity to get outside whenever the weather is nice.\n\nNorwegians have mastered the art of appreciating the outdoors, whether it's a sunny summer day or a snowy winter afternoon.\n\nThis friluftsliv (outdoor life) philosophy teaches you the importance of staying active, even when you'd rather stay inside.\n\nDespite the cold, you'll learn to bundle up, lace up your boots, and go for that hike, run, or ski trip.\n\nIf you skip out on these precious days, you'll likely regret it once the weather turns rainy again.\n\nComing from a place where trust (in politicians, for example) is often in short supply, you might initially find Norway's emphasis on social trust a bit naive.\n\nFrom honour-system payment setups in small markets and cabins to leaving babies in strollers outside cafés for fresh air, Norwegians display a high level of confidence in each other.\n\nIt can be unusual to see, but it works surprisingly well.\n\nWhile it may take some getting used to, this trust-based approach fosters a sense of community and personal responsibility that is both refreshing and comforting once you accept it.\n\nNorwegians are known for their bluntness and straightforward communication style.\n\nAt first, this directness can appear rude to some, especially if you come from a culture where people tend to sugarcoat things (here's looking at you, Great Britain).\n\nIn Norway, people say what they mean, whether giving feedback at work or making plans with friends.\n\nTherefore, \"No, I don't want to hang out tomorrow - I'm feeling tired,\" with no additional explanation added, is a perfectly normal response from a Norwegian friend and should not be taken personally.\n\nOver time, you'll come to appreciate this honesty. It eliminates the guessing games and makes conversations more efficient.\n\nREAD MORE: Why never saying 'please' doesn't make Norwegians rude\n\nNorwegian cuisine has its share of unique dishes and foods, from lutefisk (stockfish cured in lye) and rakfisk (salted and fermented freshwater fish, such as trout) to smalahove (a salt-cured, smoked and steamed sheep's head) and brunost (brown cheese).\n\nNorwegians take pride in their traditional foods and will probably encourage you to give them a try.\n\nThey'll appreciate you sampling their delicacies with a smile, even if you're not a fan.\n\nThis can teach you to approach the (culinary) unknown with an open mind. While some dishes might be an acquired taste, your willingness to try them will earn you respect from your Norwegian social circle.\n\nEven if you end up not enjoying the foods in question, the locals will still be impressed and appreciate that you tried.\n\nREAD ALSO: Five odd Norwegian delicacies you might think twice about trying\n\nLets be honest, learning to dress yourself as an adult can be a humbling experience, but Norwegian weather can be unforgiving and the locals have mastered the art of dressing for it.\n\nLiving in Norway, you'll quickly learn that it's not just about putting on a warm jacket.\n\nLayering is essential, and the materials you choose are crucial. Checking clothing labels for wool content and investing in windproof and waterproof items quickly becomes second nature.\n\nNorwegians are also particular about their footwear, whether it's waterproof boots for rainy days or sturdy hiking boots for weekend trips.\n\nYou'll learn that being prepared for the elements isn't just practical – it's a way of embracing the Norwegian lifestyle.\n\nAfter all, as the old Norwegian adage goes: Det finnes ikke dårlig vær, bare dårlig klær (there's no such thing as bad weather, only bad clothing).\n\nREAD MORE: Six tips on how to dress like a Norwegian\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Norway is a country full of unique cultural traditions and quirks, so it should be no surprise that living with Norwegians can come with a few surprises.\n\nThe best way to immerse yourself in another culture is living among the locals, while Norway is known for its welcoming attitude, people who...",
-      "image": "https://images.unsplash.com/photo-1732362129913-88a5a52958cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI2MzY5MTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20241004/five-unexpected-things-you-learn-living-with-norwegians",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-06-28T08:55:15.823Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2017,
+    "totalFetched": 2020,
     "totalPublished": 77,
-    "lastFetch": "2026-06-30T23:15:15.922Z",
+    "lastFetch": "2026-07-01T04:05:10.942Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
