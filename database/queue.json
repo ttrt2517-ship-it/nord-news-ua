@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1782942190169.0205,
+      "title": "Russisk droneangrep mot Kyiv",
+      "slug": "russisk-droneangrep-mot-kyiv",
+      "content": "Det ukrainske luftforsvaret kjempet onsdag kveld mot et russisk droneangrep over hovedstaden Kyiv, melder nyhetsbyrået Reuters.\n\nVrakrester har falt ned i to bydeler, og et tak på en bygning i sentrum brenner.\n\nDet skal også ha vært eksplosjoner vest i byen, opplyser lederen for den militære administrasjonen og øyenvitner på stedet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Det ukrainske luftforsvaret kjempet onsdag kveld mot et russisk droneangrep over hovedstaden Kyiv, melder nyhetsbyrået Reuters.\n\nVrakrester har falt ned i to bydeler, og et tak på en bygning i sentrum brenner.\n\nDet skal også ha vært eksplosjoner vest i byen, opplyser lederen for den militære...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/russisk-droneangrep-mot-kyiv-1.17944358",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-01T21:43:10.169Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782935912221.8943,
       "title": "To personer klatret opp i spiret på Empire State Building",
       "slug": "to-personer-klatret-opp-i-spiret-p-empire-state-building",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-06-29T15:50:31.847Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782748230051.641,
-      "title": "Redningsaksjon i Bergen",
-      "slug": "redningsaksjon-i-bergen",
-      "content": "Politiet og Hovedredningssentralen har satt i gang en redningsaksjon i Biskopshavn i Bergen. Det er funnet en sparkesykkel og diverse eiendeler på land som ikke kobles til noen som bader.\n\nPolitipatruljer, brannvesen med dykkere, ambulanse og luftambulanse er med på redningsaksjonen.\n\nPolitiet oppfordrer folk som kan ha informasjon om gjenstandene om å ringe politiet på 112.",
-      "excerpt": "Politiet og Hovedredningssentralen har satt i gang en redningsaksjon i Biskopshavn i Bergen. Det er funnet en sparkesykkel og diverse eiendeler på land som ikke kobles til noen som bader.\n\nPolitipatruljer, brannvesen med dykkere, ambulanse og luftambulanse er med på redningsaksjonen.\n\nPolitiet...",
-      "image": "https://images.unsplash.com/photo-1724968865954-a75c61d9187a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI3NDgyMzB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestland/redningsaksjon-i-bergen-1.17940869",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-29T15:50:30.052Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2034,
+    "totalFetched": 2035,
     "totalPublished": 77,
-    "lastFetch": "2026-07-01T19:58:34.024Z",
+    "lastFetch": "2026-07-01T21:43:11.768Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
