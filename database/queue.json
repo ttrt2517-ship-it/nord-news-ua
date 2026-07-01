@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782935912221.8943,
+      "title": "To personer klatret opp i spiret på Empire State Building",
+      "slug": "to-personer-klatret-opp-i-spiret-p-empire-state-building",
+      "content": "To personer har klatret opp i Empire State Building i New York, viser direktebilder fra stedet, hos blant andre ABC.\n\nDe to er tilsynelatende maskerte og hadde med seg et stort sort banner.\n\n«Når makten av kjærlighet slår kjærligheten for makt blir det fred i verden», står det på banneret.\n\nVed 18.35-tiden er de på vei ned fra spiret, sammen med banneret.\n\n– Det er ikke århundrets lovbrudd. Det er ikke voldelig. Men det tar opp kapasiteten til politiet, sier nyhetsoppleseren hos ABC.\n\nPå et tidspunkt går mannen ned på kne for kvinnen. Deretter kysser og klemmer de.\n\n– Hvis det er et frieri, er det et overdrevet et, sier nyhetsoppleseren.\n\nLitt etter klokken 19 ble de møtt av politiet ved bunnen av tårnet, som tilsynelatende tok kontroll på dem.",
+      "excerpt": "To personer har klatret opp i Empire State Building i New York, viser direktebilder fra stedet, hos blant andre ABC.\n\nDe to er tilsynelatende maskerte og hadde med seg et stort sort banner.\n\n«Når makten av kjærlighet slår kjærligheten for makt blir det fred i verden», står det på banneret.\n\nVed...",
+      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI5MzU5MTJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-personer-klatret-opp-i-spiret-pa-empire-state-building-1.17944147",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-01T19:58:32.221Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782935910364.5535,
+      "title": "IT-selskap ble hacket – slipper millionerstatning",
+      "slug": "itselskap-ble-hacket-slipper-millionerstatning",
+      "content": "Hvem har ansvaret når IT-leverandøren blir hacket og alle dine data går tapt?\n\nEn fersk dom fra Gulating lagmannsrett slår i alle fall fast at IT-selskapet Nordlo i Haugesund slipper å betale millionerstatning etter at hackere brøt seg inn i systemene deres i 2021.\n\nHackerne ødela data som tilhørte selskapet Btec – som derfor gikk til sak mot Haugesund-selskapet for å ha hatt for dårlige sikkerhetsrutiner.\n\nBtec hevder at de tapte rundt 60 millioner kroner på angrepet og krevde erstatning for tapet, men tapte altså ankesaken i lagmannsretten og må i stedet betale Nordlos saksomkostninger på drøyt 2,3 millioner kroner.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
+      "excerpt": "Hvem har ansvaret når IT-leverandøren blir hacket og alle dine data går tapt?\n\nEn fersk dom fra Gulating lagmannsrett slår i alle fall fast at IT-selskapet Nordlo i Haugesund slipper å betale millionerstatning etter at hackere brøt seg inn i systemene deres i 2021.\n\nHackerne ødela data som tilhørte...",
+      "image": null,
+      "original_url": "https://www.nrk.no/rogaland/it-selskap-ble-hacket-_-slipper-millionerstatning-1.17944067",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-01T19:58:30.365Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782935908581.9402,
+      "title": "Bama tilbakekaller babyspinat og babyleaf-miks",
+      "slug": "bama-tilbakekaller-babyspinat-og-babyleafmiks",
+      "content": "Årsaken er funn av listeria etter intern prøvetaking, skriver Bama i en pressemelding.\n\nDet gjelder ferdigvasket babyspinat og babyleaf-miks i pose og i salatbarer.\n\nProduktene er solgt i Rema 1000 sine butikker og i Norgesgruppens kjeder Kiwi, Meny, Spar og Joker, samt i Bunnpris-butikker over hele landet.\n\nDe berørte produktene har produksjonsdato 22.–23. juni 2026 og siste forbruksdato i tidsrommet 02.–03. juli 2026.\n\nBama ber deg kaste produktene om du har kjøpt dem og kontakte helsepersonell om du er engstelig for egen helse.",
+      "excerpt": "Årsaken er funn av listeria etter intern prøvetaking, skriver Bama i en pressemelding.\n\nDet gjelder ferdigvasket babyspinat og babyleaf-miks i pose og i salatbarer.\n\nProduktene er solgt i Rema 1000 sine butikker og i Norgesgruppens kjeder Kiwi, Meny, Spar og Joker, samt i Bunnpris-butikker over...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/bama-tilbakekaller-babyspinat-og-babyleaf-miks-1.17944191",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-01T19:58:28.582Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782923250555.6787,
       "title": "Lystgassforbud fra onsdag",
       "slug": "lystgassforbud-fra-onsdag",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-29T15:50:30.052Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782731017207.5486,
-      "title": "Togtrafikken mot Oslo lufthavn åpnet igjen etter brann",
-      "slug": "togtrafikken-mot-oslo-lufthavn-pnet-igjen-etter-brann",
-      "content": "Togtrafikken mellom Lillestrøm og Gardermoen var mandag morgen stengt etter en brann ved sporet i nærheten av Ullersmo fengsel.\n\n– Togene kjører, men det kan ta litt tid før de er i rute. Du må derfor regne med forsinkelser, og at enkelte avganger kan bli innstilt, skriver Vy på sine sider.\n\nTil NRK bekrefter brannvesenet at brannen er slukket.\n\n– Det var røykutvikling i gresset. Trafikken ble stanset mens arbeidet pågikk, opplyser vaktleder Espen Stabell.\n\nBrannvesenet fikk melding om røykutviklingen klokken 09.57.",
-      "excerpt": "Togtrafikken mellom Lillestrøm og Gardermoen var mandag morgen stengt etter en brann ved sporet i nærheten av Ullersmo fengsel.\n\n– Togene kjører, men det kan ta litt tid før de er i rute. Du må derfor regne med forsinkelser, og at enkelte avganger kan bli innstilt, skriver Vy på sine sider.\n\nTil...",
-      "image": "https://images.unsplash.com/photo-1698937983899-b4b34e84abd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI3MzEwMTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/togtrafikken-mot-oslo-lufthavn-apnet-igjen-etter-brann-1.17939982",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-29T11:03:37.207Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782731015199.6267,
-      "title": "Fire drept i angrep mot Dnipro i Ukraina",
-      "slug": "fire-drept-i-angrep-mot-dnipro-i-ukraina",
-      "content": "Et russisk angrep mot byen Dnipro i sørøstlige Ukraina har kostet fire mennesker livet.\n\nDet opplyser den lokale guvernøren Oleksandr Hanzha, ifølge Reuters.\n\nI tillegg til de drepte, er minst ti andre såret i mandagens angrep, ifølge guvernøren.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Et russisk angrep mot byen Dnipro i sørøstlige Ukraina har kostet fire mennesker livet.\n\nDet opplyser den lokale guvernøren Oleksandr Hanzha, ifølge Reuters.\n\nI tillegg til de drepte, er minst ti andre såret i mandagens angrep, ifølge guvernøren.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler...",
-      "image": "https://images.unsplash.com/photo-1522865080725-2a9ea1fcb94e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI3MzEwMTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/fire-drept-i-angrep-mot-dnipro-i-ukraina-1.17939975",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-29T11:03:35.199Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782731013618.3887,
-      "title": "Erdogan: Tyrkia må inkluderes når Europa samarbeider om sikkerhet",
-      "slug": "erdogan-tyrkia-m-inkluderes-nr-europa-samarbeider-om-sikkerh",
-      "content": "Med rundt én uke igjen før Nato-toppmøtet går av stabelen i Ankara, anmoder Tyrkias president til økt samarbeid med Europa om forsvar og sikkerhet.\n\n– Som et av landene som har innflytelse over utviklingen av alliansens europeiske pilar, ønsker å delta i alle forsvars- og sikkerhetsinitiativer på kontinentet.\n\nDet sa Recep Tayyip Erdogan da han mandag talte til parlamentarikere fra de 32 Nato-landene i Istanbul, skriver AFP.\n\n– Vi forventer deres støtte som folkevalgte, slik at Tyrkia blir inkludert i EU-initiativer som gjelder forsvar og sikkerhet, la han til.\n\nÅrets Nato-toppmøte går av stabelen 7. juli i den tyrkiske hovedstaden.\n\nForholdet Tyrkia – EU\n\nEU-president Jean Claude Juncker sier at Tyrkias ønske om å bli medlem i EU, ligger langt unna, og at alle forhandlinger vil stoppe dersom Tyrkia gjeninnfører dødstraff. EU krever at Tyrkia oppfyller en rekke krav før landet får visumfrihet til EU.\n\nNato-toppmøte\n\nDet neste Nato-toppmøtet skjer i Vilnius i Litauen 11. og 12. juli. Sveriges Nato-søknad står på planen. Ukrainas president Volodymyr Zelenskyj har takket ja til å være gjest på møtet.",
-      "excerpt": "Med rundt én uke igjen før Nato-toppmøtet går av stabelen i Ankara, anmoder Tyrkias president til økt samarbeid med Europa om forsvar og sikkerhet.\n\n– Som et av landene som har innflytelse over utviklingen av alliansens europeiske pilar, ønsker å delta i alle forsvars- og sikkerhetsinitiativer på...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/erdogan_-tyrkia-ma-inkluderes-nar-europa-samarbeider-om-sikkerhet-1.17940212",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-29T11:03:33.619Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2031,
+    "totalFetched": 2034,
     "totalPublished": 77,
-    "lastFetch": "2026-07-01T16:27:32.489Z",
+    "lastFetch": "2026-07-01T19:58:34.024Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
