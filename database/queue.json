@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1783033764107.295,
+      "title": "Væpnet politiaksjon i Bergen",
+      "slug": "vpnet-politiaksjon-i-bergen",
+      "content": "Væpnet politi rykket ved 22-tiden torsdag kveld ut til en bensinstasjon i Åsane etter melding om et slagsmål mellom flere personer.\n\n– Vi fikk melding om at det muligens var observert et våpen og valgte derfor å bevæpne oss. Da vi kom til stedet løp flere personer fra stedet og en bil forsvant i høy hastighet, sier operasjonsleder Dan Erik Johannessen i Vest politidistrikt til NRK.\n\nPolitiet har ikke kommet i kontakt med de involverte.\n\n– Vi har hentet inn vinteopplysninger og har funnet den aktuelle bilen, og vi føler oss trygge på at ingen er skadet, forteller operasjonslederen.",
+      "excerpt": "Væpnet politi rykket ved 22-tiden torsdag kveld ut til en bensinstasjon i Åsane etter melding om et slagsmål mellom flere personer.\n\n– Vi fikk melding om at det muligens var observert et våpen og valgte derfor å bevæpne oss. Da vi kom til stedet løp flere personer fra stedet og en bil forsvant i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/vaepnet-politiaksjon-i-bergen-1.17945674",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-02T23:09:24.108Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783033762533.8328,
+      "title": "Alvorlig ulykke med terrengkjøretøy i Levanger",
+      "slug": "alvorlig-ulykke-med-terrengkjrety-i-levanger",
+      "content": "En gutt i tenårene er fraktet til sykehus etter en ulykke med UTV i Levanger natt til fredag, opplyser Trøndelag politidistrikt.\n\nOperasjonsleder Ellen Maria Brende beskriver ulykken som alvorlig.\n\nUlykken skjedde på fylkesvei 6878 i Okkenhaug da føreren svingte unna et rådyr og havnet av veien. En annen tenåringsgutt var passasjer og ble fraktet til legevakt.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "En gutt i tenårene er fraktet til sykehus etter en ulykke med UTV i Levanger natt til fredag, opplyser Trøndelag politidistrikt.\n\nOperasjonsleder Ellen Maria Brende beskriver ulykken som alvorlig.\n\nUlykken skjedde på fylkesvei 6878 i Okkenhaug da føreren svingte unna et rådyr og havnet av veien. En...",
+      "image": "https://images.unsplash.com/photo-1679769767348-be52800f0601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwMzM3NjJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/alvorlig-ulykke-med-terrengkjoretoy-i-levanger-1.17945683",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-02T23:09:22.533Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783026550199.6006,
       "title": "Alvorlig skadet etter slåsskamp utenfor Stavernfestivalen",
       "slug": "alvorlig-skadet-etter-slsskamp-utenfor-stavernfestivalen",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-06-30T14:23:06.354Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782829384742.1948,
-      "title": "Eldre mann til Haukeland etter voldshendelse i Åsane",
-      "slug": "eldre-mann-til-haukeland-etter-voldshendelse-i-sane",
-      "content": "Nødetatene rykket ut til Åsane i Bergen etter en melding om en eldre mann som skal ha blitt utsatt for vold av en ung gutt.\n\n– Dette skal ha skjedd uprovosert. En person skal ha gått inn på bussen, angrepet mannen, og så gått av, opplyser operasjonsleder Steinar Hausvik i Vest politidistrikt til NRK.\n\nDen fornærmede mannen er oppegående, men har fått et kutt i hodet og lettere blødninger, opplyser politiet.\n\nHendelsen skal ha skjedd på en buss med flere vitner til stede. Politiet tar vitneavhør og etterforsker på stedet.\n\nMannen er fraktet til Haukeland universitetssykehus for videre undersøkelser.\n\nKjenner du til denne saken eller har video av hendelsen?",
-      "excerpt": "Nødetatene rykket ut til Åsane i Bergen etter en melding om en eldre mann som skal ha blitt utsatt for vold av en ung gutt.\n\n– Dette skal ha skjedd uprovosert. En person skal ha gått inn på bussen, angrepet mannen, og så gått av, opplyser operasjonsleder Steinar Hausvik i Vest politidistrikt til...",
-      "image": "https://images.unsplash.com/photo-1735243451430-7a669fb4b98e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI4MjkzODR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestland/eldre-mann-til-haukeland-etter-voldshendelse-i-asane-1.17942125",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-30T14:23:04.742Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782817906315.284,
-      "title": "Bergen life hacks: Five things that make life in the city easier",
-      "slug": "bergen-life-hacks-five-things-that-make-life-in-the-city-eas",
-      "content": "Life in Norway's second-largest city can be challenging at times. We've put together a list of life hacks to help you acclimate to day-to-day life in the \"rain capital of Norway.\"\n\nThere are a lot of good reasons to move to Bergen. It's a dynamic but safe city with a thriving international community. It has fantastic and easily accessible nature, and the food – especially the seafood – is globally revered for its quality.\n\nThat being said, some elements of life in the city can present a challenge to newcomers. In this article, we look at five simple hacks that can make your life in Bergen – and the transition to the city – less stressful.\n\nNorwegian cities are notoriously expensive – and Bergen is no exception. Eating out in Bergen is particularly costly, so if you want to save money, you need to start cooking your meals at home.\n\nMake a habit of shopping at the Bunpriss, Extra, and Kiwi supermarket chains – higher-end chains, such as Meny, tend to be pricier, so avoid them if you're trying to live in Bergen on a budget.\n\nKeep eating at restaurants and pubs at a minimum, as a dinner for two (with drinks included) can quickly end up costing you more than 1000 kroner, especially in the city centre.\n\nIf you want to treat yourself, consider going to a restaurant earlier in the day, preferably during lunchtime, as many places have more affordable lunch offers.\n\nIf you're renting a flat, try to get one that has a kitchen, and prepare your meals at home in advance. You'll end up saving a fortune.\n\nThe locals know that many of the most beautiful spots in the city become overcrowded during the tourist season, which usually spans from May to August.\n\nTherefore, if you want to enjoy the Old Town, the city centre, and the prettiest parks, make sure to make the most out of April and September when the tourist pressure subsides (at least to a certain degree).\n\nDon't worry about missing out on the best weather – both early Spring and Autumn often provide locals with an abundance of lovely days without (or with minimal) rain.\n\nOne of the advantages of living in Bergen is that it offers excellent possibilities for day trips to islets and fjords where you'll almost certainly be able to enjoy some quiet and peaceful time in nature.\n\nAustevoll, Osteroy, and Fensfjorden are all great options to escape the city buzz!\n\nBergen is called the \"rain capital of Norway\" for a reason – it's the wettest city in the country! Due to its position – it's surrounded by seven mountains and situated on the coast – the city gets an obscene amount of rain every year.\n\nAccording to some estimates, Bergen experiences more than 230 rainy days a year, making it virtually impossible to \"wait out\" the bad weather. Therefore, the locals have adapted a \"rain can't stop me\" attitude to life.\n\nIn order to avoid being stuck indoors all the time, you'd be well advised to do the same. Make sure to always pack an umbrella or a raincoat if you're heading out, as the Bergen weather can change multiple times in a single hour.\n\nAt a certain point – some people say it's after the first year of life in Bergen – you'll start to ignore the bad weather to a certain extent.\n\nAs the locals say, a bit of water and wind can't stop you if you're well dressed, so invest in water-resistant clothing, start wearing multiple layers of clothes, and you'll be well on your way to becoming a real bergenser (Bergen local) very soon.\n\nDon't try to experience the city's nightlife before 10pm\n\nBergen's residents tend to take their time \"warming up\" at house parties before hitting the streets and enjoying the city's nightlife.\n\nThis makes sense as most (young) people are also looking to save money, and drinks in bars and pubs can be ludicrously expensive.\n\nPartygoers in Bergen tend to arrive at popular nightlife venues after 10pm. So if you're there before 10, don't be surprised to find clubs half empty.\n\nHowever, remember to make reservations for your group if you want to get a chance to spend the night in some of the more popular venues, especially on weekends. By 10.30pm, most places tend to be packed.\n\nPssst! Most venues close at 2 or 3am, so plan accordingly.\n\nOn sunny days in Bergen, you'd be forgiven for thinking that everyone in the city has a dog. While that certainly isn't the case, the city has a number of beautiful parks where dog owners routinely take their four-legged friends for walks.\n\nEven if some Norwegians come off as reserved, you'll be amazed at how many locals will approach you if you're walking a dog.\n\nSo, if you're a dog owner or thinking about getting a dog, Bergen might be an amazing place for you to expand your social circle.\n\nWhether it's getting to know the neighbours a bit better or meeting new people in local dog owner groups, having a dog can be your ticket to establishing new connections with people that share your love of animals.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Life in Norway's second-largest city can be challenging at times. We've put together a list of life hacks to help you acclimate to day-to-day life in the \"rain capital of Norway.\"\n\nThere are a lot of good reasons to move to Bergen. It's a dynamic but safe city with a thriving international...",
-      "image": "https://images.unsplash.com/photo-1738574603764-bbe948d18fbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI4MTc5MDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20221123/bergen-life-hacks-five-things-that-make-life-in-the-city-easier",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-06-30T11:11:46.315Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2053,
+    "totalFetched": 2055,
     "totalPublished": 77,
-    "lastFetch": "2026-07-02T21:09:11.761Z",
+    "lastFetch": "2026-07-02T23:09:26.066Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
