@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1782977650253.8572,
+      "title": "Skogbrann herjer i Sørvest-Frankrike",
+      "slug": "skogbrann-herjer-i-srvestfrankrike",
+      "content": "Brannene herjer i områdene Hérault og Aude, omtrent halvannen time fra Toulouse. Det er to skogbranner i området, cirka 20 kilometer fra hverandre.\n\nRundt 200 personer er evakuert fra landsbyene Pouzols‑Minervois og Mailha, melder nyhetsbyrået AP.\n\nOnsdag kveld dekket brannen 800 hektar, ifølge lokale myndigheter. Hundrevis av brannfolk jobber med å temme flammene, med bistand fra brannfly.\n\nTerrenget beskrives som vanskelig, ettersom det er ulendt og uten veier. Brannen har fått drahjelp fra tørke og kraftig vind.\n\nSkogbrannen kommer etter fjorårets svært kraftige brann i samme område. Det var den kraftigste skogbrannen i Frankrike på 80 år.\n\nHetebølge og varmerekorder\n\nVi følger hetebølge og varmerekorder direkte.\nEr du et sted med hetebølge? Ta kontakt med NRK her.",
+      "excerpt": "Brannene herjer i områdene Hérault og Aude, omtrent halvannen time fra Toulouse. Det er to skogbranner i området, cirka 20 kilometer fra hverandre.\n\nRundt 200 personer er evakuert fra landsbyene Pouzols‑Minervois og Mailha, melder nyhetsbyrået AP.\n\nOnsdag kveld dekket brannen 800 hektar, ifølge...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/skogbrann-herjer-i-sorvest-frankrike-1.17944472",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-02T07:34:10.253Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782977648510.8499,
+      "title": "Travleste år for Riksmekleren på over 20 år",
+      "slug": "travleste-r-for-riksmekleren-p-over-20-r",
+      "content": "Over 100 lønnsoppgjør har gått til mekling så langt i år. Det er det største antallet på 22 år.\n\nRiksmekleren leder forhandlinger i lønnsoppgjøret mellom partene i arbeidslivet, dersom de ikke blir enige i egne forhandlinger. I år er det hovedoppgjør, som betyr at både lønn og vilkår i tariffavtaler skal forhandles.\n\n– At partene da har behov for mekling i større grad enn ved et mellomoppgjør, hvor det kun forhandles om lønnsjusteringer, tenker jeg er helt naturlig, sier LOs nestleder Are Tomasgard til NTB.\n\n– Det tjener alle på. At partene kan få bistand hos Riksmekleren hvis forhandlingene står fast, er en viktig del av trepartssamarbeidet og demonstrerer godt hvorfor den norske modellen har så stor verdi, sier Tomasgard.",
+      "excerpt": "Over 100 lønnsoppgjør har gått til mekling så langt i år. Det er det største antallet på 22 år.\n\nRiksmekleren leder forhandlinger i lønnsoppgjøret mellom partene i arbeidslivet, dersom de ikke blir enige i egne forhandlinger. I år er det hovedoppgjør, som betyr at både lønn og vilkår i...",
+      "image": "https://images.unsplash.com/photo-1727005218251-6dc1d45b6c8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI5Nzc2NDh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/travleste-ar-for-riksmekleren-pa-over-20-ar-1.17944499",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-02T07:34:08.510Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1782977646669.6924,
+      "title": "Ny handlingsplan mot voldtekt",
+      "slug": "ny-handlingsplan-mot-voldtekt",
+      "content": "Regjeringen skal neste sommer legge frem en handlingsplan mot voldtekt.\n\n– Vi har ikke lykkes med å forebygge og bekjempe voldtekt i Norge. Bak tallene ligger hendelser som rammer enkeltmennesker hardt, sier justis- og beredskapsminister Astri Aas-Hansen (Ap) i en pressemelding.\n\nDet er økende bekymring for utviklingen i ungdomsmiljøer, der flere rapporter peker på en økning i seksuell vold blant unge, heter det i meldingen.\n\nAas-Hansen sier det er behov for tiltak for å avdekke, etterforske og straffeforfølge gjerningspersoner.",
+      "excerpt": "Regjeringen skal neste sommer legge frem en handlingsplan mot voldtekt.\n\n– Vi har ikke lykkes med å forebygge og bekjempe voldtekt i Norge. Bak tallene ligger hendelser som rammer enkeltmennesker hardt, sier justis- og beredskapsminister Astri Aas-Hansen (Ap) i en pressemelding.\n\nDet er økende...",
+      "image": "https://images.unsplash.com/photo-1698171474543-00caa2d153d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI5Nzc2NDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ny-handlingsplan-mot-voldtekt-1.17944513",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-02T07:34:06.669Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1782963982100.618,
       "title": "Minst 59 har mistet livet i flom i Elfenbenskysten",
       "slug": "minst-59-har-mistet-livet-i-flom-i-elfenbenskysten",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-29T21:27:15.866Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782768434172.1357,
-      "title": "Fujimori har vunnet presidentvalget i Peru",
-      "slug": "fujimori-har-vunnet-presidentvalget-i-peru",
-      "content": "Den høyreorienterte presidentkandidaten Keiko Fujimori ble mandag kveld erklært som vinner av presidentvalget i Peru.\n\nHennes venstreorienterte motkandidat, Roberto Sánchez, har allerede varslet at han nektet å anerkjenne en Fujimori-ledet regjering. Sánchez hevder det har foregått «alvorlige brudd på valgprosessen».\n\nPeru har i en årrekke vært preget av dyp politisk uro, der en rekke tidligere presidenter har endt opp med å bli enten avsatt eller fengslet.",
-      "excerpt": "Den høyreorienterte presidentkandidaten Keiko Fujimori ble mandag kveld erklært som vinner av presidentvalget i Peru.\n\nHennes venstreorienterte motkandidat, Roberto Sánchez, har allerede varslet at han nektet å anerkjenne en Fujimori-ledet regjering. Sánchez hevder det har foregått «alvorlige brudd...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/fujimori-har-vunnet-presidentvalget-i-peru-1.17941088",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-29T21:27:14.172Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782768432541.9087,
-      "title": "Minst åtte drept i nye angrep mot Gaza",
-      "slug": "minst-tte-drept-i-nye-angrep-mot-gaza",
-      "content": "Minst åtte personer, blant dem to barn, er drept i nye israelske angrep på Gazastripen mandag. Det opplyser helsemyndighetene i Gaza, ifølge NTB.\n\nTre av ofrene ble drept da en drone traff en gruppe sivile, ifølge Al-Aqsa-sykehuset. Det israelske militæret (IDF) bekrefter angrepet overfor nyhetsbyrået AFP, men hevder at målet var terrorister.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
-      "excerpt": "Minst åtte personer, blant dem to barn, er drept i nye israelske angrep på Gazastripen mandag. Det opplyser helsemyndighetene i Gaza, ifølge NTB.\n\nTre av ofrene ble drept da en drone traff en gruppe sivile, ifølge Al-Aqsa-sykehuset. Det israelske militæret (IDF) bekrefter angrepet overfor...",
-      "image": "https://images.unsplash.com/photo-1781634201648-f995ed73905c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI3Njg0MzJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/minst-atte-drept-i-nye-angrep-mot-gaza-1.17941125",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-29T21:27:12.541Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782756557254.5647,
-      "title": "Bevisst hevnaksjon gikk utover uskyldig mann",
-      "slug": "bevisst-hevnaksjon-gikk-utover-uskyldig-mann",
-      "content": "I desember 2022 kjørte en mann med vilje gjennom en garasjeport i høy fart på Ulefoss. Han ønsket å gjøre skade på eiendommen til en mann han mente hadde behandlet en venninne dårlig.\n\nInne i garasjen lå en uskyldig mann under en bil, og sammenstøtet førte til at bilen falt over ham.\n\nMekanikeren fikk livstruende ryggskader og har hatt flere operasjoner etter ulykken.\n\nRetten mente handlingen var villet og aggressiv, men mannen slipper fengsel på grunn av lang saksbehandlingstid.\n\nHan ble dømt til 88 timers samfunnsstraff og må betale 110.000 kroner i oppreisningserstatning.\n\nEn bevisst hevnaksjon en desembernatt i 2022 fikk katastrofale følger for en uskyldig mann fra Telemark.",
-      "excerpt": "I desember 2022 kjørte en mann med vilje gjennom en garasjeport i høy fart på Ulefoss. Han ønsket å gjøre skade på eiendommen til en mann han mente hadde behandlet en venninne dårlig.\n\nInne i garasjen lå en uskyldig mann under en bil, og sammenstøtet førte til at bilen falt over ham.\n\nMekanikeren...",
-      "image": "https://images.unsplash.com/photo-1670874103167-31cff21eb845?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI3NTY1NTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/bevisst-hevnaksjon-gikk-utover-uskyldig-mann-1.17940659",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-29T18:09:17.254Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2038,
+    "totalFetched": 2041,
     "totalPublished": 77,
-    "lastFetch": "2026-07-02T03:46:23.980Z",
+    "lastFetch": "2026-07-02T07:34:12.789Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
