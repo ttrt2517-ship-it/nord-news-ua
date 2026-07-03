@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1783112932098.3008,
+      "title": "Over 600.000 libanesere har vendt hjem siden våpenhvilen",
+      "slug": "over-600000-libanesere-har-vendt-hjem-siden-vpenhvilen",
+      "content": "Mer enn 640.000 av dem som ble drevet på flukt i Libanon gjennom våren, har nå vendt tilbake til sine hjem, melder FNs flyktningorganisasjon IOM.\n\nOver en halv million andre fortsatt er fordrevet, ifølge IOM.\n\nDet er fortsatt umulig for libaneserne å vende tilbake til en rekke byer og landsbyer lengst sør i landet.\n\nDet er både på grunn av ødeleggelser, og fordi israelske styrker har okkupert en «sikkerhetssone» ti kilometer inn i Libanon.\n\nLibanon ble uforvarende trukket inn i krigen mellom USA, Israel og Iran 2. mars, da Hizbollah-militsen avfyrte raketter mot Israel og sistnevnte svarte med en rekke angrep mot Sør-Libanon og hovedstaden Beirut.\n\nLibanon\n\nDen iranskstøttede Hizbollah-militsen angrep Israel med raketter for å svare på det israelske angrepet på Iran 28. februar. Angrepene mot Libanon har tiltatt i styrke fra israelsk side etter våpenhvileavtalen mellom USA, Israel og Iran 8. april.",
+      "excerpt": "Mer enn 640.000 av dem som ble drevet på flukt i Libanon gjennom våren, har nå vendt tilbake til sine hjem, melder FNs flyktningorganisasjon IOM.\n\nOver en halv million andre fortsatt er fordrevet, ifølge IOM.\n\nDet er fortsatt umulig for libaneserne å vende tilbake til en rekke byer og landsbyer...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/over-600.000-libanesere-har-vendt-hjem-siden-vapenhvilen-1.17946872",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-03T21:08:52.098Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783112930479.7754,
+      "title": "Kraftig brann i einebustad - fleire hus evakuert",
+      "slug": "kraftig-brann-i-einebustad-fleire-hus-evakuert",
+      "content": "Nødetatar har rykt ut etter melding om kraftig røyk frå ein einebustad i Bjørnafjorden kommune.\n\n– Det kjem grå røyk frå andre etasje i bustaden. Brannvesenet er på staden og har sendt inn røykdykkarar, opplyser politiet\n\nEin person har evakuert seg ut frå den brennande bustaden.\n\n- Me har evakuert tre personar frå to nærliggande bustader, opplyser politiet.\n\nDet skal vere aukande røykutvikling frå taket. Bebuarar i området blir bedne om å halde seg innandørs og lukke vindauge.",
+      "excerpt": "Nødetatar har rykt ut etter melding om kraftig røyk frå ein einebustad i Bjørnafjorden kommune.\n\n– Det kjem grå røyk frå andre etasje i bustaden. Brannvesenet er på staden og har sendt inn røykdykkarar, opplyser politiet\n\nEin person har evakuert seg ut frå den brennande bustaden.\n\n- Me har evakuert...",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestland/kraftig-brann-i-einebustad---fleire-hus-evakuert-1.17947034",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-03T21:08:50.479Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783099643551.4604,
       "title": "Pave Leo XIV med oppfordring til amerikanere: – Finn felles grunn",
       "slug": "pave-leo-xiv-med-oppfordring-til-amerikanere-finn-felles-gru",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-07-01T09:51:11.904Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782899470096.7488,
-      "title": "Brannbomber mot politikerboliger i Hellas",
-      "slug": "brannbomber-mot-politikerboliger-i-hellas",
-      "content": "Boligene til medlemmer av det konservative greske regjeringspartiet Nytt demokrati var tilsynelatende mål for tre brannbombeangrep i Thessaloniki natt til onsdag.\n\nAngriperne brukte enkle sprengladninger laget med gassbeholdere, opplyser politiet.\n\nEn av bilene skal ha tilhørt en av Nytt Demokratis kandidater til den greske nasjonalforsamlingen. Hun fikk brannskader, og moren hennes ble lagt inn på intensivavdeling med brannskader.\n\nTre andre beboere ble lagt inn på sykehus etter å ha pustet inn røyk, opplyser politiet.\n\nMilitante grupper i Hellas gjennomfører forholdsvis ofte angrep mot maktsymboler og politikeres eiendommer. De fleste angrepene fører kun til materielle skader.",
-      "excerpt": "Boligene til medlemmer av det konservative greske regjeringspartiet Nytt demokrati var tilsynelatende mål for tre brannbombeangrep i Thessaloniki natt til onsdag.\n\nAngriperne brukte enkle sprengladninger laget med gassbeholdere, opplyser politiet.\n\nEn av bilene skal ha tilhørt en av Nytt Demokratis...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/brannbomber-mot-politikerboliger-i-hellas-1.17943367",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-01T09:51:10.096Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782878708472.3333,
-      "title": "USA opphever Anthropic-restriksjoner",
-      "slug": "usa-opphever-anthropicrestriksjoner",
-      "content": "Det amerikanske KI-selskapet Anthropic vil onsdag åpne opp igjen tilgangen til sine nyeste modeller.\n\nDet opplyser selskapet selv. Amerikanske myndigheter har nemlig fjernet et eksportforbud som blokkerte modellene «Claude Fable 5» og «Mythos 5».\n\nIfølge Anthropic har de fått grønt lys fra handelsdepartementet i USA, og arbeidet med å gi brukerne tilgang igjen starter onsdag.\n\nKunstig intelligens\n\nChatGPT er en kunstig intelligens-basert tekstgenereringsmodell fra selskapet OpenAI. Den kan brukes til å generere svar på spørsmål, skrive samtaler eller til å komplettere tekst.",
-      "excerpt": "Det amerikanske KI-selskapet Anthropic vil onsdag åpne opp igjen tilgangen til sine nyeste modeller.\n\nDet opplyser selskapet selv. Amerikanske myndigheter har nemlig fjernet et eksportforbud som blokkerte modellene «Claude Fable 5» og «Mythos 5».\n\nIfølge Anthropic har de fått grønt lys fra...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-opphever-anthropic-restriksjoner-1.17942779",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-01T04:05:08.472Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2069,
+    "totalFetched": 2071,
     "totalPublished": 77,
-    "lastFetch": "2026-07-03T19:25:20.046Z",
+    "lastFetch": "2026-07-03T21:08:53.821Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
