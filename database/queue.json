@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783099643551.4604,
+      "title": "Pave Leo XIV med oppfordring til amerikanere: – Finn felles grunn",
+      "slug": "pave-leo-xiv-med-oppfordring-til-amerikanere-finn-felles-gru",
+      "content": "I sin første tale med fokus på amerikansk politikk oppfordret pave Leo XIV til «moderasjon» i det offentlige ordskiftet i USA.\n\nDen amerikanske paven oppfordret samtidig amerikanerne til å finne «felles grunn» og «enhet», og snakket om hvordan «påfølgende bølger av immigranter» har formet landets fremtid.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "I sin første tale med fokus på amerikansk politikk oppfordret pave Leo XIV til «moderasjon» i det offentlige ordskiftet i USA.\n\nDen amerikanske paven oppfordret samtidig amerikanerne til å finne «felles grunn» og «enhet», og snakket om hvordan «påfølgende bølger av immigranter» har formet landets...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/pave-leo-xiv-med-oppfordring-til-amerikanere_-_-finn-felles-grunn-1.17946777",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-03T17:27:23.551Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783099641891.9265,
+      "title": "Aftenbladet: Erkjenner straffskyld for Lagård-drapet",
+      "slug": "aftenbladet-erkjenner-straffskyld-for-lagrddrapet",
+      "content": "Mannen som er siktet for drapet på Christian Rydningen Auklend i en bolig i Lagårdsveien i Stavanger tidligere sommer, har erkjent straffskyld.\n\nTil Stavanger Aftenblad bekrefter politiadvokat Christine Kleppa at den siktede har erkjent straffskyld. Han tok selv kontakt med politiet, og ønsket å endre sin opprinnelige forklaring.\n\nForsvarer Odd Rune Torstrup vil ikke gå inn på hva den sikta har forklart.\n\n– Jeg vil ikke gå inn i detaljer fordi saken fortsatt er under etterforskning og det kan ødelegge for saken, sier Torstrup til NRK.\n\n– Det har jeg ingen oppfatning om. Den sikta har erkjent at han har gjort handlingene han er siktet for, så får vi se om han er strafferettslig tilregnelig, sier Odd Rune Torstrup.",
+      "excerpt": "Mannen som er siktet for drapet på Christian Rydningen Auklend i en bolig i Lagårdsveien i Stavanger tidligere sommer, har erkjent straffskyld.\n\nTil Stavanger Aftenblad bekrefter politiadvokat Christine Kleppa at den siktede har erkjent straffskyld. Han tok selv kontakt med politiet, og ønsket å...",
+      "image": null,
+      "original_url": "https://www.nrk.no/rogaland/aftenbladet_-erkjenner-straffskyld-for-lagard-drapet-1.17946825",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-03T17:27:21.891Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783099640301.2283,
+      "title": "Ni personer involvert i trafikkulykke, en alvorlig skadet",
+      "slug": "ni-personer-involvert-i-trafikkulykke-en-alvorlig-skadet",
+      "content": "To personer er fraktet til Kalnes sykehus, etter en trafikkulykke på E6 i Moss. Skadegraden er ukjent, utover at den ene er alvorlig skadet. Den ene er en kvinne i 50-årene fra Oslo og den andre er et barn.\n\nBegge kjørefelt var en periode stengt, men er nå åpen igjen.Når det gjelder hendelsesforløpet så var det en klassisk kjedekollisjon hvor første bil stanset for tett trafikk og bilene bak kjørte inn i hverandre.\n\nUlykken skjedde kort tid etter at veien var åpnet etter en annen trafikkulykke tidligere fredag ettermiddag.",
+      "excerpt": "To personer er fraktet til Kalnes sykehus, etter en trafikkulykke på E6 i Moss. Skadegraden er ukjent, utover at den ene er alvorlig skadet. Den ene er en kvinne i 50-årene fra Oslo og den andre er et barn.\n\nBegge kjørefelt var en periode stengt, men er nå åpen igjen.Når det gjelder...",
+      "image": "https://images.unsplash.com/photo-1507313341988-c2e71899a8fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwOTk2NDB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/ostfold/ni-personer-involvert-i-trafikkulykke_-en-alvorlig-skadet-1.17946500",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-03T17:27:20.301Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783087769353.5303,
       "title": "Det blir folkefest på Stortorget i Tromsø",
       "slug": "det-blir-folkefest-p-stortorget-i-troms",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-01T04:05:08.472Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782878706982.3828,
-      "title": "AFP: Presidentvalg i Frankrike i april neste år",
-      "slug": "afp-presidentvalg-i-frankrike-i-april-neste-r",
-      "content": "Presidentvalget i Frankrike neste år skal holdes 18. april og 2. mai, sier en regjeringskilde.\n\n– Det blir offentliggjort i morgen (onsdag), sier kilden til nyhetsbyrået AFP.\n\nPresident Emmanuel Macron er nå inne i sin andre og siste femårsperiode. Grunnloven slår fast at et valg må holdes mellom 20 og 35 dager før perioden utløper, skriver NTB.",
-      "excerpt": "Presidentvalget i Frankrike neste år skal holdes 18. april og 2. mai, sier en regjeringskilde.\n\n– Det blir offentliggjort i morgen (onsdag), sier kilden til nyhetsbyrået AFP.\n\nPresident Emmanuel Macron er nå inne i sin andre og siste femårsperiode. Grunnloven slår fast at et valg må holdes mellom...",
-      "image": "https://images.unsplash.com/photo-1679769705477-47435d90155d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI4Nzg3MDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/afp_-presidentvalg-i-frankrike-i-april-neste-ar-1.17942799",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-01T04:05:06.982Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782878705429.7456,
-      "title": "Sverige og Ukraina inngår kampflyavtale",
-      "slug": "sverige-og-ukraina-inngr-kampflyavtale",
-      "content": "Saab har signert en kontrakt om levering av 16 kampfly av typen Gripen til Ukraina. Avtalen er verdt rundt 24,6 milliarder svenske kroner.\n\nSaab opplyser at leveringen av flyene skal skje i 2029 og 2030.\n\nAvtalen omfatter levering av 16 Gripen-kampfly, samt reservedeler, utstyr og teknisk støtte.\n\nUkrainas president Volodymyr Zelenskyj skriver i et innlegg i meldingstjenesten Telegram at han har diskutert implementering av avtalen, samt et bredere forsvarssamarbeid, med Sveriges forsvarsminister Pål Jonson i et møte i Kyiv tirsdag. Samtalene omfattet drone- og rakettforsvarsprosjekter.\n\n– Dette er et stort steg for Ukrainas frihet og Europas sikkerhet: Gripen vil styrke Ukrainas evne til å forsvare luftrommet sitt, sier Jonson i en uttalelse i meldingstjenesten X.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "Saab har signert en kontrakt om levering av 16 kampfly av typen Gripen til Ukraina. Avtalen er verdt rundt 24,6 milliarder svenske kroner.\n\nSaab opplyser at leveringen av flyene skal skje i 2029 og 2030.\n\nAvtalen omfatter levering av 16 Gripen-kampfly, samt reservedeler, utstyr og teknisk...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/sverige-og-ukraina-inngar-kampflyavtale-1.17942801",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-01T04:05:05.429Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782861313953.4653,
-      "title": "USA gratulerer Fujimori med valgseieren i Peru",
-      "slug": "usa-gratulerer-fujimori-med-valgseieren-i-peru",
-      "content": "USAs utenriksminister Marco Rubio gratulerer Keiko Fujimori med seieren i presidentvalget i Peru, melder nyhetsbyrået AFP.\n\nRubio kaller det en viktig seier og opplyser at den amerikanske Trump-administrasjonen ser frem til et tettere samarbeid med Peru om både sikkerhet og handel i tiden fremover.",
-      "excerpt": "USAs utenriksminister Marco Rubio gratulerer Keiko Fujimori med seieren i presidentvalget i Peru, melder nyhetsbyrået AFP.\n\nRubio kaller det en viktig seier og opplyser at den amerikanske Trump-administrasjonen ser frem til et tettere samarbeid med Peru om både sikkerhet og handel i tiden fremover.",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-gratulerer-fujimori-med-valgseieren-i-peru-1.17942714",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-30T23:15:13.953Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2066,
+    "totalFetched": 2069,
     "totalPublished": 77,
-    "lastFetch": "2026-07-03T14:09:31.506Z",
+    "lastFetch": "2026-07-03T17:27:25.829Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
