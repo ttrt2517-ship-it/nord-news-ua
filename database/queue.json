@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783063314872.3108,
+      "title": "Over 2000 ekstra dødsfall under hetebølgen i Frankrike",
+      "slug": "over-2000-ekstra-ddsfall-under-heteblgen-i-frankrike",
+      "content": "Det ble registrert en overdødelighet på 2025 dødsfall knyttet til hetebølgen som rammet landet fra 18. juni til 28. juni, opplyser helseminister Stéphanie Rist til den franske kringkasteren TF1.\n\nIfølge helseministeren har det også vært en markant økning i dødeligheten blant personer over 45 år.\n\nHetebølge og varmerekorder\n\nVi følger hetebølge og varmerekorder direkte.\nEr du et sted med hetebølge? Ta kontakt med NRK her.",
+      "excerpt": "Det ble registrert en overdødelighet på 2025 dødsfall knyttet til hetebølgen som rammet landet fra 18. juni til 28. juni, opplyser helseminister Stéphanie Rist til den franske kringkasteren TF1.\n\nIfølge helseministeren har det også vært en markant økning i dødeligheten blant personer over 45...",
+      "image": "https://images.unsplash.com/photo-1631004150792-c24d0a04693c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwNjMzMTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/over-2000-ekstra-dodsfall-under-hetebolgen-i-frankrike-1.17945817",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-03T07:21:54.872Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783063313174.9717,
+      "title": "1000 dager med krig på Gazastripen – 21.000 barn drept",
+      "slug": "1000-dager-med-krig-p-gazastripen-21000-barn-drept",
+      "content": "21.000 palestinske barn er drept i israelske angrep, ifølge tall fra Gazas helsedepartementet. Totalt er 73 000 palestinere drept siden 7. oktober.\n\n– Jeg er forferdet over bildene som kommer fra Gaza, og den håpløse situasjonen som sivilbefolkningen befinner seg i, sier UDs statssekretær Andreas Motzfeldt Kravik i en uttalelse til NTB.\n\nDet er 1000 dager siden Hamas gikk til angrep på Israel og utløste krigen i Gaza. Over 1200 mennesker ble drept i angrepet hvorav 815 sivile.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
+      "excerpt": "21.000 palestinske barn er drept i israelske angrep, ifølge tall fra Gazas helsedepartementet. Totalt er 73 000 palestinere drept siden 7. oktober.\n\n– Jeg er forferdet over bildene som kommer fra Gaza, og den håpløse situasjonen som sivilbefolkningen befinner seg i, sier UDs statssekretær Andreas...",
+      "image": "https://images.unsplash.com/photo-1697650041996-46f2ab2e415f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwNjMzMTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/1000-dager-med-krig-pa-gazastripen-_-21.000-barn-drept-1.17945881",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-03T07:21:53.174Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783063311493.9863,
+      "title": "Flere lærere opplever vold på jobb",
+      "slug": "flere-lrere-opplever-vold-p-jobb",
+      "content": "41 prosent av grunnskolelærere har opplevd vold, trusler, seksuell trakassering eller mobbing på jobb i løpet av det siste året.\n\n28 prosent bekrefter at de har opplevd vold på jobb i 2025. I 2022 var tallet 12 prosent.\n\nDet kommer frem i levekårsundersøkelsen om arbeidsmiljø for 2025 som er gjennomført av Statistisk Sentralbyrå.\n\nGrunnskolelærere og ansatte i omsorgs- og sikkerhetsyrker er blant de mest utsatte, viser tallene. De opplever slike hendelser rundt dobbelt så ofte som snittet.",
+      "excerpt": "41 prosent av grunnskolelærere har opplevd vold, trusler, seksuell trakassering eller mobbing på jobb i løpet av det siste året.\n\n28 prosent bekrefter at de har opplevd vold på jobb i 2025. I 2022 var tallet 12 prosent.\n\nDet kommer frem i levekårsundersøkelsen om arbeidsmiljø for 2025 som er...",
+      "image": "https://images.unsplash.com/photo-1691055712477-7f4dea1c6faa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwNjMzMTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flere-laerere-opplever-vold-pa-jobb-1.17945929",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-03T07:21:51.494Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783049250494.7246,
       "title": "To drept i nye angrep mot Ukraina",
       "slug": "to-drept-i-nye-angrep-mot-ukraina",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-06-30T17:56:53.152Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782842211472.8528,
-      "title": "Nigeria: 37 studenter kidnappet",
-      "slug": "nigeria-37-studenter-kidnappet",
-      "content": "37 studenter er savnet i Nigeria etter å ha blitt kidnappet av en jihadist-gruppe, opplyser lokale myndigheter, ifølge AFP.\n\nJihadist-gruppen skal ha stormet skolen elevene går på mens de avla eksamen. Hendelsen skjedde i byen Lassa i Askira Uba-distriktet.\n\nTre personer ble drept, inkludert en soldat og en lærer, opplyser militæret i Nigeria.\n\nNigeria\n\nNigeria er både den største økonomien og det mest folkerike landet i Afrika med en befolkning på over 200 millioner. Landet er et demokrati, men er preget av ulikhet. Nord i Nigeria skaper islamistgruppen Boko Haram stor uro.",
-      "excerpt": "37 studenter er savnet i Nigeria etter å ha blitt kidnappet av en jihadist-gruppe, opplyser lokale myndigheter, ifølge AFP.\n\nJihadist-gruppen skal ha stormet skolen elevene går på mens de avla eksamen. Hendelsen skjedde i byen Lassa i Askira Uba-distriktet.\n\nTre personer ble drept, inkludert en...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/nigeria_-37-studenter-kidnappet-1.17942408",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-30T17:56:51.472Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782842209966.1528,
-      "title": "Melding om brann i Maridalsveien i Oslo",
-      "slug": "melding-om-brann-i-maridalsveien-i-oslo",
-      "content": "Politiet er på vei til Maridalsveien i Oslo, hvor det er meldt om brann i bygård.\n\nDet skal brenne i tredje etasje i en fem etasjes blokk.\n\n– Det er meldt at noen har sett flammer, opplyser politiet til NRK.\n\nBrannvesenet er kommet frem og har begynt slukkningsarbeidet.",
-      "excerpt": "Politiet er på vei til Maridalsveien i Oslo, hvor det er meldt om brann i bygård.\n\nDet skal brenne i tredje etasje i en fem etasjes blokk.\n\n– Det er meldt at noen har sett flammer, opplyser politiet til NRK.\n\nBrannvesenet er kommet frem og har begynt slukkningsarbeidet.",
-      "image": null,
-      "original_url": "https://www.nrk.no/stor-oslo/melding-om-brann-i-maridalsveien-i-oslo-1.17942566",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-06-30T17:56:49.966Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1782829391446.8323,
-      "title": "EXPLAINED: Where to get free immigration advice in Norway",
-      "slug": "explained-where-to-get-free-immigration-advice-in-norway",
-      "content": "Navigating Norway's immigration laws can be complex. Fortunately, several organisations provide free guidance to people facing immigration challenges.\n\nAs is the case in most European countries, immigrants and asylum seekers in Norway are fortunate to have access to a number of organisations dedicated to providing free guidance, support, and legal aid.\n\nWhether you're seeking assistance with asylum claims, family immigration cases, permanent residence permits, or citizenship applications, here's where to look if you need free expert advice and support.\n\nREAD MORE: Do you need a lawyer in Norway for work permit or residency problems?\n\nNOAS usually supports people navigating the asylum process in Norway. They specialise in asylum cases and offer legal aid to those whose asylum claims have been rejected by the Norwegian Directorate of Immigration (UDI) or the Immigration Appeals Board (UNE).\r\n\r\nFurthermore, NOAS extends its services to family immigration cases, permanent residence permits, and citizenship matters.\n\nYou can contact them via phone at +47 22 36 56 60 or through their email at noas@noas.org.\n\nAdditionally, if you want to book face-to-face assistance, you can visit NOAS's office at Torggata 22, Oslo, during office hours.\n\nOperated by dedicated students in Oslo, Jussbuss is a great resource for people seeking free legal aid, including assistance with immigration-related matters.\n\nJussbuss accepts new cases and offers guidance on various legal issues through phone consultations (+47 22 84 29 00) or in-person visits during their office hours at Skippergata 23 in Oslo.\r\n\r\nThey specialise in immigration, labour, debt issues, social security, tenancy, and prison law.\n\nLaunched with the objective of empowering immigrants and refugees, SEIF operates as a voluntary organisation committed to providing support and guidance.\n\nWith offices across Norway, SEIF offers a number of services, ranging from information dissemination to assistance with complex immigration matters.\n\nTheir areas of assistance include issues with the Norwegian Labour and Welfare Administration (NAV), school, work, residence permits, family reunification, financial problems, forced marriage and honour-related violence, coercion, and more.\n\nThey have an open-door policy and commitment to confidentiality.\n\nSeveral other organisations across Norway offer free support for immigration-related issues. These include:\n\nJURK (Juridisk rådgivning for kvinner): Catering specifically to women, JURK provides free legal assistance on a number of issues, including immigration matters, thereby addressing the often unique needs of female immigrants and asylum seekers. Along with free legal aid, JURK examines women's need for legal assistance, works to improve the legal position of women, and provides practical legal training for law students.\n\nJussformidlingen: Staffed by students from the University of Bergen Faculty of Law, Jussformidlingen extends its services to people across Norway, leveraging its expertise to offer guidance and assistance on a wide scope of legal issues, including immigration challenges. It aims to provide free legal aid, meet the public demand for legal assistance, and offer law students practical experience opportunities.\n\nGratis Rettshjelp: Serving as the umbrella organisation for various student legal aid entities, Gratis Rettshjelp coordinates efforts to provide assistance on various matters, including immigration. It receives approximately 20,000 inquiries annually.\n\nAdvokatvakten: Offering free legal counsel in multiple cities throughout Norway, Advokatvakten allows people to consult with private lawyers who are members of the Norwegian Bar Association for up to 30 minutes free of charge.\n\nOslo Kommune Fri Rettshjelp: Exclusive to Oslo residents, this municipal service offers free legal advice from private lawyers funded by the Norwegian government. Appointments can be scheduled via phone, online, or through drop-in hours at their office in Storgata 19, Oslo.\n\nREAD MORE: The most common reason Norwegian permanent residence applications are rejected\n\nCaritas Resource Centre: Caritas, an independent humanitarian foundation, operates multiple info centres across Norway, including Oslo, Bergen, Trondheim, Stavanger, and Drammen. Several times a week, they offer free legal assistance with specialised lawyers.\n\nJushjelpa i Nord-Norge: Catering to residents of northern Norway, this organisation provides legal help facilitated by law students from the University of Tromsø. You can seek their assistance by calling or submitting cases online.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Navigating Norway's immigration laws can be complex. Fortunately, several organisations provide free guidance to people facing immigration challenges.\n\nAs is the case in most European countries, immigrants and asylum seekers in Norway are fortunate to have access to a number of organisations...",
-      "image": "https://images.unsplash.com/photo-1536683402757-75f8d0dfa419?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI4MjkzOTF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20240213/explained-where-to-get-free-immigration-advice-in-norway",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-06-30T14:23:11.446Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2057,
+    "totalFetched": 2060,
     "totalPublished": 77,
-    "lastFetch": "2026-07-03T03:27:32.273Z",
+    "lastFetch": "2026-07-03T07:21:56.499Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
