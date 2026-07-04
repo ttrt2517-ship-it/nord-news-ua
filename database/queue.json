@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1783177583726.9575,
+      "title": "Brann i buss på riksvei 3",
+      "slug": "brann-i-buss-p-riksvei-3",
+      "content": "Det brenner i en buss på riksvei 3, nord for Koppang.\n\nEn personbil kjørte ifølge politiet inn i bussen etter at den hadde stanset, ingen personskader i uhellet.\n\nVegen er midlertidig stengt, opplyser politiet kl. 16.31 lørdag.\n\nEn buss tok lørdag ettermiddag fyr nord for Koppang. Kort tid etter kjørte en personbil inn i bussen, men politiet melder at alle involverte har sluppet fra hendelsene uten skader.",
+      "excerpt": "Det brenner i en buss på riksvei 3, nord for Koppang.\n\nEn personbil kjørte ifølge politiet inn i bussen etter at den hadde stanset, ingen personskader i uhellet.\n\nVegen er midlertidig stengt, opplyser politiet kl. 16.31 lørdag.\n\nEn buss tok lørdag ettermiddag fyr nord for Koppang. Kort tid etter...",
+      "image": "https://images.unsplash.com/photo-1659424765411-2ae87f5d1c06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMxNzc1ODN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/brann-i-buss-pa-riksvei-3--1.17947524",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-04T15:06:23.726Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783172229817.3613,
       "title": "Is the &#039;Oslo Pass&#039; worth getting when visiting the Norwegian capital?",
       "slug": "is-the-039oslo-pass039-worth-getting-when-visiting-the-norwe",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-02T03:46:20.386Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1782963978819.2092,
-      "title": "USA-diplomat: – Droner skal gjøre Taiwan til et «vepsebol»",
-      "slug": "usadiplomat-droner-skal-gjre-taiwan-til-et-vepsebol",
-      "content": "Militære droner skal gjøre Taiwan til et «vepsebol» og skremme Kina fra å gå til angrep. Det sier Raymond Greene, USAs øverste diplomat på Taiwan, under en konferanse torsdag ifølge Reuters.\n\nGreene mener at en stor mengde droner i lufta, på bakken og i havet er det mest effektive verktøyet for å hindre en krig. Forholdet mellom Taiwan og Kina er svært spent, ettersom Kina ser på den selvstyrte øya som et område som tilhører Kina.\n\nTaiwan\n\nVestlige land frykter at Kina kan ta Taiwan med militærmakt. Kina ser på Taiwan som sitt territorium. Taiwan har vært selvstyrt og atskilt fra Kina siden 1949. USA har tidligere sagt de vil forsvare Taiwan i tilfelle Kina angriper.",
-      "excerpt": "Militære droner skal gjøre Taiwan til et «vepsebol» og skremme Kina fra å gå til angrep. Det sier Raymond Greene, USAs øverste diplomat på Taiwan, under en konferanse torsdag ifølge Reuters.\n\nGreene mener at en stor mengde droner i lufta, på bakken og i havet er det mest effektive verktøyet for å...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-diplomat_-_-droner-skal-gjore-taiwan-til-et-_vepsebol_-1.17944412",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-02T03:46:18.819Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2085,
+    "totalFetched": 2086,
     "totalPublished": 77,
-    "lastFetch": "2026-07-04T13:37:10.817Z",
+    "lastFetch": "2026-07-04T15:06:26.095Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
