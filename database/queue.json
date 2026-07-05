@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783222604897.802,
+      "title": "Titusener i 4. juli-demonstrasjon i Albania",
+      "slug": "titusener-i-4-julidemonstrasjon-i-albania",
+      "content": "Titusener av albanere gikk lørdag ut i gatene i hovedstaden Tirana for å protestere mot statsminister Edi Rama og et omstridt Trump-byggeprosjekt.\n\nDette var 35. kveld på rad med demonstrasjoner, melder nyhetsbyrået Reuters. Protestene startet mot et luksusanlegg i et naturreservat, som knyttes til Donald Trumps svigersønn, Jared Kushner. Nå krever folk at regjeringen går av på grunn av korrupsjon. Under markeringen ble en stor byste av statsministeren symbolsk veltet med tau.\n\nPolitiet brukte vannkanoner etter at demonstranter knuste vinduer på en politistasjon, skriver NTB.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Titusener av albanere gikk lørdag ut i gatene i hovedstaden Tirana for å protestere mot statsminister Edi Rama og et omstridt Trump-byggeprosjekt.\n\nDette var 35. kveld på rad med demonstrasjoner, melder nyhetsbyrået Reuters. Protestene startet mot et luksusanlegg i et naturreservat, som knyttes til...",
+      "image": "https://images.unsplash.com/photo-1727625801807-06a38a752b8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyMjI2MDR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/titusener-i-4.-juli-demonstrasjon-i-albania-1.17947894",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-05T03:36:44.897Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783222603177.436,
+      "title": "Enighet i lønnsoppgjøret for flyteknikerne",
+      "slug": "enighet-i-lnnsoppgjret-for-flyteknikerne",
+      "content": "Meklingen mellom NHO Luftfart og Norsk Flyteknikerorganisasjon (NFO) er i mål, nesten fem timer på overtid. Dermed blir det ingen streik, skriver NTB.\n\nFlytrafikken sto i fare for å bli påvirket av streik allerede fra søndag.\n\nNFO organiserer om lag 500 flyteknikere i Norge, i første omgang ville åtte av dem blitt tatt ut.",
+      "excerpt": "Meklingen mellom NHO Luftfart og Norsk Flyteknikerorganisasjon (NFO) er i mål, nesten fem timer på overtid. Dermed blir det ingen streik, skriver NTB.\n\nFlytrafikken sto i fare for å bli påvirket av streik allerede fra søndag.\n\nNFO organiserer om lag 500 flyteknikere i Norge, i første omgang ville...",
+      "image": "https://images.unsplash.com/photo-1726079667649-6668ecea5cc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyMjI2MDN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/enighet-i-lonnsoppgjoret-for-flyteknikerne-1.17947889",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-05T03:36:43.177Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783222601455.1743,
+      "title": "Brann i hus på Skjervøy",
+      "slug": "brann-i-hus-p-skjervy",
+      "content": "Det brenner søndag morgen i et hus på Skjervøy i Troms.\n\n– Brannmannskaper er fremme på stedet og i gang med slukking. Det skal ikke være spredningsfare, opplyser operasjonsleder Eirik Kileng i Troms politidistrikt.\n\nPolitiet opplyser til Nordlys at det er uavklart om det er personer inne i huset.",
+      "excerpt": "Det brenner søndag morgen i et hus på Skjervøy i Troms.\n\n– Brannmannskaper er fremme på stedet og i gang med slukking. Det skal ikke være spredningsfare, opplyser operasjonsleder Eirik Kileng i Troms politidistrikt.\n\nPolitiet opplyser til Nordlys at det er uavklart om det er personer inne i huset.",
+      "image": "https://images.unsplash.com/photo-1697650041996-46f2ab2e415f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyMjI2MDF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/brann-i-hus-pa-skjervoy-1.17947897",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-05T03:36:41.456Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783205940919.2039,
       "title": "Trump og Putin har snakket sammen om Ukraina",
       "slug": "trump-og-putin-har-snakket-sammen-om-ukraina",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-02T17:49:59.023Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783014597412.4968,
-      "title": "Libanon: Israelsk droneangrep ved sykehus",
-      "slug": "libanon-israelsk-droneangrep-ved-sykehus",
-      "content": "Det hevder Libanons statlige nyhetsbyrå, ifølge Reuters.\n\nAngrepet skal ha skjedd sør i landet ved byen Nabatiyeh.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
-      "excerpt": "Det hevder Libanons statlige nyhetsbyrå, ifølge Reuters.\n\nAngrepet skal ha skjedd sør i landet ved byen Nabatiyeh.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/libanon_-israelsk-droneangrep-ved-sykehus-1.17945451",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-02T17:49:57.413Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783014595714.1504,
-      "title": "Rigg-ansatte får mer lønn og pensjon",
-      "slug": "riggansatte-fr-mer-lnn-og-pensjon",
-      "content": "Forbundet Styrke og Norges Rederiforbund er enige om ny flyteriggavtale etter mekling.\n\nAvtalen omfatter ansatte på mobile offshoreinnretninger som flyterigger og borerigger.\n\nOppgjøret gir et generelt tillegg på 5,2 prosent. I tillegg økes innskuddspensjonen fra fire til 5 prosent, og skal videre opp til 7 prosent innen 2029.\n\nFlere tekniske tillegg økes også i det forbundsleder Frode Alfheim kaller et svært bra oppgjør for medlemmene.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
-      "excerpt": "Forbundet Styrke og Norges Rederiforbund er enige om ny flyteriggavtale etter mekling.\n\nAvtalen omfatter ansatte på mobile offshoreinnretninger som flyterigger og borerigger.\n\nOppgjøret gir et generelt tillegg på 5,2 prosent. I tillegg økes innskuddspensjonen fra fire til 5 prosent, og skal videre...",
-      "image": null,
-      "original_url": "https://www.nrk.no/rogaland/rigg-ansatte-far-mer-lonn-og-pensjon-1.17945390",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-02T17:49:55.714Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783001120763.1775,
-      "title": "Peru erklærer unntakstilstand i 40 prosent av landet",
-      "slug": "peru-erklrer-unntakstilstand-i-40-prosent-av-landet",
-      "content": "Perus regjering har torsdag erklært unntakstilstand i 796 distrikter, på grunn av kraftig regn som følge av værfenomenet El Niño.\n\nMålet er å redusere den «svært høye» risikoen befolkningen nå står overfor, ifølge regjeringen.",
-      "excerpt": "Perus regjering har torsdag erklært unntakstilstand i 796 distrikter, på grunn av kraftig regn som følge av værfenomenet El Niño.\n\nMålet er å redusere den «svært høye» risikoen befolkningen nå står overfor, ifølge regjeringen.",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/peru-erklaerer-unntakstilstand-i-40-prosent-av-landet-1.17945244",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-02T14:05:20.763Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2096,
+    "totalFetched": 2099,
     "totalPublished": 77,
-    "lastFetch": "2026-07-04T22:59:03.309Z",
+    "lastFetch": "2026-07-05T03:36:46.356Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
