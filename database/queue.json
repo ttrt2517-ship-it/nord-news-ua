@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783271578701.461,
+      "title": "Tysk ytre høyre-leder forsvarer likekjønnede forhold",
+      "slug": "tysk-ytre-hyreleder-forsvarer-likekjnnede-forhold",
+      "content": "Leder Alice Weidel i ytre høyre-partiet Alternativ for Tyskland (AfD) går imot sitt eget parti i Sachsen-Anhalt, som er motstandere av at likekjønnede par blir foreldre.\n\n– De kan skrive det de vil. Jeg lever i noe annet, sier Weidel, som selv er samboer med en kvinne og har to barn med henne.\n\nI delstaten Sachsen-Anhalt, der AfD ligger an til valgseier senere i år, hevder partilaget i sitt program at «en hel familie som består av mor, far og barn, har vist seg å være det beste grunnlaget for et barns utvikling».\n\nWeidel hevder hun kan være forkjemper for den tradisjonelle familien uten å motsi seg selv.",
+      "excerpt": "Leder Alice Weidel i ytre høyre-partiet Alternativ for Tyskland (AfD) går imot sitt eget parti i Sachsen-Anhalt, som er motstandere av at likekjønnede par blir foreldre.\n\n– De kan skrive det de vil. Jeg lever i noe annet, sier Weidel, som selv er samboer med en kvinne og har to barn med henne.\n\nI...",
+      "image": "https://images.unsplash.com/photo-1651837063913-7ca672ca539c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyNzE1Nzh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/tysk-ytre-hoyre-leder-forsvarer-likekjonnede-forhold-1.17948277",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-05T17:12:58.701Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783271576720.0825,
+      "title": "Aske fra vulkanutbrudd forstyrrer italiensk flytrafikk",
+      "slug": "aske-fra-vulkanutbrudd-forstyrrer-italiensk-flytrafikk",
+      "content": "Flyavganger til og fra Catania på Sicilia blir innstilt og omdirigert på grunn av store mengder aske fra et utbrudd fra vulkanen Etna.\n\nI et område som er særlig rammet, er luftrommet stengt fram til klokka 19 søndag. Fram til klokka 21 får bare fem fly i timen lov til å lande på flyplassen, ifølge den italienske flyplassoperatøren SAC.\n\nMange flyavganger omdirigeres til Palermo, som ligger lenger vest på Sicilia og i le for vulkanutbruddet.",
+      "excerpt": "Flyavganger til og fra Catania på Sicilia blir innstilt og omdirigert på grunn av store mengder aske fra et utbrudd fra vulkanen Etna.\n\nI et område som er særlig rammet, er luftrommet stengt fram til klokka 19 søndag. Fram til klokka 21 får bare fem fly i timen lov til å lande på flyplassen, ifølge...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/aske-fra-vulkanutbrudd-forstyrrer-italiensk-flytrafikk-1.17948299",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-05T17:12:56.720Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783271575172.3684,
+      "title": "To drept i israelske angrep i Gaza by",
+      "slug": "to-drept-i-israelske-angrep-i-gaza-by",
+      "content": "Minst to palestinere ble drept i et israelsk luftangrep i Gaza by søndag, opplyser helsemyndigheter til Reuters.\n\nHelsepersonell uttalte at de to personene ble drept da et luftangrep traff en gruppe mennesker i Omar Al-Mokhtar-gaten i hjertet av byen, nord på Gaza. Flere andre ble såret, la de til.\n\nDet israelske militæret har foreløpig ikke kommentert hendelsen.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
+      "excerpt": "Minst to palestinere ble drept i et israelsk luftangrep i Gaza by søndag, opplyser helsemyndigheter til Reuters.\n\nHelsepersonell uttalte at de to personene ble drept da et luftangrep traff en gruppe mennesker i Omar Al-Mokhtar-gaten i hjertet av byen, nord på Gaza. Flere andre ble såret, la de...",
+      "image": "https://images.unsplash.com/photo-1582753799950-e73309a50b3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyNzE1NzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-drept-i-israelske-angrep-i-gaza-by-1.17948316",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-05T17:12:55.173Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783264428625.0723,
       "title": "Trafikkulykke mellom bil og lastebil i Stad",
       "slug": "trafikkulykke-mellom-bil-og-lastebil-i-stad",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-03T10:37:46.240Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783075064644.2559,
-      "title": "Kvinne mistenkt for bombeattentatet i Monaco",
-      "slug": "kvinne-mistenkt-for-bombeattentatet-i-monaco",
-      "content": "En 39 år gammel ukrainsk kvinne er internasjonalt etterlyst av Interpol, mistenkt for å stå bak bombeangrepet i Monaco.\n\n– Den mistenkte som ettersøkes etter bombeangrepet i Monaco denne uken er en ukrainsk kvinne som forkledde seg som en mann, sier advokat Morgan Raymond i Monaco, melder Reuters.\n\nMandag kveld ble tre personer skadet etter en eksplosjon ved inngangen til et boligbygg i Monaco.\n\nDet skal ha vært en bombe plassert i en pakke som eksploderte.",
-      "excerpt": "En 39 år gammel ukrainsk kvinne er internasjonalt etterlyst av Interpol, mistenkt for å stå bak bombeangrepet i Monaco.\n\n– Den mistenkte som ettersøkes etter bombeangrepet i Monaco denne uken er en ukrainsk kvinne som forkledde seg som en mann, sier advokat Morgan Raymond i Monaco, melder...",
-      "image": "https://images.unsplash.com/photo-1765316994213-68da669e6d65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwNzUwNjR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/kvinne-mistenkt-for-bombeattentatet-i-monaco-1.17946193",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-03T10:37:44.644Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783075062960.6567,
-      "title": "Kontaktet gutt (14) på Snapchat: Tiltalt for overgrep",
-      "slug": "kontaktet-gutt-14-p-snapchat-tiltalt-for-overgrep",
-      "content": "En mann i 40-årene fra en kommune utenfor Bergen er tiltalt i Hordaland tingrett for å ha hatt seksuell omgang med en 14 år gammel gutt.\n\nMellom oktober og november 2025 skal mannen ha fått gutten til å ha seksuell omgang med seg selv i bytte mot penger.\n\nDeretter skal den fornærmede gutten ha sendt seksualiserte bilder og videoer til mannen i 40-årene.\n\nIfølge BA skal guttens foreldre ha oppdaget aktiviteten da de fant store pengeoverføringer på Vipps.\n\nTotalt skal 14-åringen ha fått tilsendt 3000 kroner fra mannen.\n\nI tillegg er mannen tiltalt for å ha kjøpt seksuelle tjenester fra mindreårige, for å ha vist seksuell krenkende atferd overfor barn under 16 år og for å ha produsert overgrepsmateriale av barn.\n\nKrim og hendingar i Vestland\n\nDet siste frå politiloggen og andre hendingar i Vestland fylke.",
-      "excerpt": "En mann i 40-årene fra en kommune utenfor Bergen er tiltalt i Hordaland tingrett for å ha hatt seksuell omgang med en 14 år gammel gutt.\n\nMellom oktober og november 2025 skal mannen ha fått gutten til å ha seksuell omgang med seg selv i bytte mot penger.\n\nDeretter skal den fornærmede gutten ha...",
-      "image": "https://images.unsplash.com/photo-1659424766030-385d22f8b0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwNzUwNjJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestland/kontaktet-gutt-_14_-pa-snapchat_-tiltalt-for-overgrep-1.17946083",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-03T10:37:42.961Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783063314872.3108,
-      "title": "Over 2000 ekstra dødsfall under hetebølgen i Frankrike",
-      "slug": "over-2000-ekstra-ddsfall-under-heteblgen-i-frankrike",
-      "content": "Det ble registrert en overdødelighet på 2025 dødsfall knyttet til hetebølgen som rammet landet fra 18. juni til 28. juni, opplyser helseminister Stéphanie Rist til den franske kringkasteren TF1.\n\nIfølge helseministeren har det også vært en markant økning i dødeligheten blant personer over 45 år.\n\nHetebølge og varmerekorder\n\nVi følger hetebølge og varmerekorder direkte.\nEr du et sted med hetebølge? Ta kontakt med NRK her.",
-      "excerpt": "Det ble registrert en overdødelighet på 2025 dødsfall knyttet til hetebølgen som rammet landet fra 18. juni til 28. juni, opplyser helseminister Stéphanie Rist til den franske kringkasteren TF1.\n\nIfølge helseministeren har det også vært en markant økning i dødeligheten blant personer over 45...",
-      "image": "https://images.unsplash.com/photo-1631004150792-c24d0a04693c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwNjMzMTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/over-2000-ekstra-dodsfall-under-hetebolgen-i-frankrike-1.17945817",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-03T07:21:54.872Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2109,
+    "totalFetched": 2112,
     "totalPublished": 77,
-    "lastFetch": "2026-07-05T15:13:50.538Z",
+    "lastFetch": "2026-07-05T17:13:01.025Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
