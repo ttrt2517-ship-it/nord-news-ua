@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783264428625.0723,
+      "title": "Trafikkulykke mellom bil og lastebil i Stad",
+      "slug": "trafikkulykke-mellom-bil-og-lastebil-i-stad",
+      "content": "Nødetatene rykker ut til en trafikkulykke mellom bil og lastebil på Fjordavegen ved Nordfjordeid i Stad kommune.\n\nPoliti og brannvesen er på stedet og er i kontakt med de involverte.\n\nEn kvinne er kjørt til legevakten før videre undersøkelser. Det er ikke meldt om andre personskader, bekrefter politiet til NRK.",
+      "excerpt": "Nødetatene rykker ut til en trafikkulykke mellom bil og lastebil på Fjordavegen ved Nordfjordeid i Stad kommune.\n\nPoliti og brannvesen er på stedet og er i kontakt med de involverte.\n\nEn kvinne er kjørt til legevakten før videre undersøkelser. Det er ikke meldt om andre personskader, bekrefter...",
+      "image": "https://images.unsplash.com/photo-1670874103167-31cff21eb845?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyNjQ0Mjh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestland/trafikkulykke-mellom-bil-og-lastebil-i-stad-1.17948171",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-05T15:13:48.625Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783264426460.312,
+      "title": "Dronefører bøtelagt for ulovlig flyvning",
+      "slug": "dronefrer-btelagt-for-ulovlig-flyvning",
+      "content": "Politiet har beslaglagt en drone etter at det ble observert ulovlig flyvning ved Oksebåsen på Andøya.\n\nDet er i nærheten av Andøya Spaces oppskytningsrampe.\n\nDronepiloten er avhørt, og dronen er beslaglagt. Vedkommende kan vente seg et forelegg, opplyser politiet.\n\nDet er forbudt å fly drone på hele den nordlige delen av øya. Også Andøya lufthavn ligger i området og har mye militær aktivitet.\n\nForbudssonen for droneflyvning er på fem kilometer rundt flyplassen.\n\nDroner\n\nFra 1. januar 2021 må alle dronepiloter med drone med kamera eller tyngde over 250 gram registrere seg på nettsiden flydrone.no. Tidligere skilte man mellom hobbybruk og næringsbruk.",
+      "excerpt": "Politiet har beslaglagt en drone etter at det ble observert ulovlig flyvning ved Oksebåsen på Andøya.\n\nDet er i nærheten av Andøya Spaces oppskytningsrampe.\n\nDronepiloten er avhørt, og dronen er beslaglagt. Vedkommende kan vente seg et forelegg, opplyser politiet.\n\nDet er forbudt å fly drone på...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/droneforer-botelagt-for-ulovlig-flyvning-1.17948234",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-05T15:13:46.460Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783264424798.7341,
+      "title": "Den danske staten griper inn mot «larven fra helvete»",
+      "slug": "den-danske-staten-griper-inn-mot-larven-fra-helvete",
+      "content": "Danske kommuner skal få hjelp fra staten med å bekjempe eikeprosesjonsspinneren, som regnes som et skadedyr.\n\nDen giftige larven har blant annet inntatt Odense til stor plage for innbyggerne.\n\nLarven, som av odensianerne kalles «larven fra helvete», lever i store kolonier på eiketrær og forflytter seg i lange, slangelignende prosesjoner, derav navnet.\n\nHårene kan forårsake utslett, irritasjon i øynene og i verste fall pusteproblemer hos mennesker og dyr.\n\nDen ventes å bre seg ytterligere, og da også til Sverige.",
+      "excerpt": "Danske kommuner skal få hjelp fra staten med å bekjempe eikeprosesjonsspinneren, som regnes som et skadedyr.\n\nDen giftige larven har blant annet inntatt Odense til stor plage for innbyggerne.\n\nLarven, som av odensianerne kalles «larven fra helvete», lever i store kolonier på eiketrær og forflytter...",
+      "image": "https://images.unsplash.com/photo-1663544466915-47e24ca1eb5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyNjQ0MjR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/den-danske-staten-griper-inn-mot-_larven-fra-helvete_-1.17948235",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-05T15:13:44.798Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783259001599.2793,
       "title": "Alvorlig ulykke i Holmestrand",
       "slug": "alvorlig-ulykke-i-holmestrand",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-03T07:21:54.872Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783063313174.9717,
-      "title": "1000 dager med krig på Gazastripen – 21.000 barn drept",
-      "slug": "1000-dager-med-krig-p-gazastripen-21000-barn-drept",
-      "content": "21.000 palestinske barn er drept i israelske angrep, ifølge tall fra Gazas helsedepartementet. Totalt er 73 000 palestinere drept siden 7. oktober.\n\n– Jeg er forferdet over bildene som kommer fra Gaza, og den håpløse situasjonen som sivilbefolkningen befinner seg i, sier UDs statssekretær Andreas Motzfeldt Kravik i en uttalelse til NTB.\n\nDet er 1000 dager siden Hamas gikk til angrep på Israel og utløste krigen i Gaza. Over 1200 mennesker ble drept i angrepet hvorav 815 sivile.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
-      "excerpt": "21.000 palestinske barn er drept i israelske angrep, ifølge tall fra Gazas helsedepartementet. Totalt er 73 000 palestinere drept siden 7. oktober.\n\n– Jeg er forferdet over bildene som kommer fra Gaza, og den håpløse situasjonen som sivilbefolkningen befinner seg i, sier UDs statssekretær Andreas...",
-      "image": "https://images.unsplash.com/photo-1697650041996-46f2ab2e415f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwNjMzMTN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/1000-dager-med-krig-pa-gazastripen-_-21.000-barn-drept-1.17945881",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-03T07:21:53.174Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783063311493.9863,
-      "title": "Flere lærere opplever vold på jobb",
-      "slug": "flere-lrere-opplever-vold-p-jobb",
-      "content": "41 prosent av grunnskolelærere har opplevd vold, trusler, seksuell trakassering eller mobbing på jobb i løpet av det siste året.\n\n28 prosent bekrefter at de har opplevd vold på jobb i 2025. I 2022 var tallet 12 prosent.\n\nDet kommer frem i levekårsundersøkelsen om arbeidsmiljø for 2025 som er gjennomført av Statistisk Sentralbyrå.\n\nGrunnskolelærere og ansatte i omsorgs- og sikkerhetsyrker er blant de mest utsatte, viser tallene. De opplever slike hendelser rundt dobbelt så ofte som snittet.",
-      "excerpt": "41 prosent av grunnskolelærere har opplevd vold, trusler, seksuell trakassering eller mobbing på jobb i løpet av det siste året.\n\n28 prosent bekrefter at de har opplevd vold på jobb i 2025. I 2022 var tallet 12 prosent.\n\nDet kommer frem i levekårsundersøkelsen om arbeidsmiljø for 2025 som er...",
-      "image": "https://images.unsplash.com/photo-1691055712477-7f4dea1c6faa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwNjMzMTF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-laerere-opplever-vold-pa-jobb-1.17945929",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-03T07:21:51.494Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783049250494.7246,
-      "title": "To drept i nye angrep mot Ukraina",
-      "slug": "to-drept-i-nye-angrep-mot-ukraina",
-      "content": "To personer er drept og åtte såret i nye russiske angrep i Ukraina natt til fredag. Det opplyser ukrainske myndigheter, ifølge Reuters.\n\nI regionen Sumy ble to personer drept da en drone traff et hus.\n\nFredag er det også sørgedag i hovedstaden Kyiv. Det skjer etter et voldsomt angrep torsdag der minst 27 mennesker mistet livet, opplyser byens ordfører Vitalij Klitsjko.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "To personer er drept og åtte såret i nye russiske angrep i Ukraina natt til fredag. Det opplyser ukrainske myndigheter, ifølge Reuters.\n\nI regionen Sumy ble to personer drept da en drone traff et hus.\n\nFredag er det også sørgedag i hovedstaden Kyiv. Det skjer etter et voldsomt angrep torsdag der...",
-      "image": "https://images.unsplash.com/photo-1716471035199-7ef519c5d035?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwNDkyNTB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/to-drept-i-nye-angrep-mot-ukraina-1.17945708",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-03T03:27:30.494Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2106,
+    "totalFetched": 2109,
     "totalPublished": 77,
-    "lastFetch": "2026-07-05T13:43:24.608Z",
+    "lastFetch": "2026-07-05T15:13:50.538Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
