@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1783246565136.2554,
+      "title": "8 skadet etter skyteepisode i New York",
+      "slug": "8-skadet-etter-skyteepisode-i-new-york",
+      "content": "Fire barn og fire voksne ble skutt og såret i en skyteepisode på Coney Island i New York, skriver ABC News.\n\nPolitiet i New York bekrefter hendelsen overfor CBS News.\n\nSkytingen fant sted rundt klokken 22.37 lokal tid 4. juli (04.37 natt til søndag norsk tid).\n\nSamtlige ofre ble fraktet til lokale sykehus av ambulansepersonell. Tilstanden skal være stabil for sju av de skadde. For en 21 år gammel kvinne er tilstanden imidlertid kritisk, opplyser politiet i New York.\n\nPolitiet har beslaglagt et våpen, men har foreløpig ikke pågrepet noen.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Fire barn og fire voksne ble skutt og såret i en skyteepisode på Coney Island i New York, skriver ABC News.\n\nPolitiet i New York bekrefter hendelsen overfor CBS News.\n\nSkytingen fant sted rundt klokken 22.37 lokal tid 4. juli (04.37 natt til søndag norsk tid).\n\nSamtlige ofre ble fraktet til lokale...",
+      "image": "https://images.unsplash.com/photo-1691397787798-4f95693dd37d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyNDY1NjV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/8-skadet-etter-skyteepisode-i-new-york-1.17948025",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-05T10:16:05.136Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783236495356.0974,
       "title": "Trump 250-årstale utsatt på grunn av uvær",
       "slug": "trump-250rstale-utsatt-p-grunn-av-uvr",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-02T23:09:22.533Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783026550199.6006,
-      "title": "Alvorlig skadet etter slåsskamp utenfor Stavernfestivalen",
-      "slug": "alvorlig-skadet-etter-slsskamp-utenfor-stavernfestivalen",
-      "content": "Klokken 20:42 rykket politi og ambulanse ut til en slåsskamp utenfor Stavernfestivalen i Larvik.\n\nFem personer involvert, én ung mann er av helse betegnet som alvorlig skadet og sendt til sykehus, skriver operasjonsleder Lise Bjørnsund i politiloggen.\n\n– Politiet jobber med etterforskningsskritt på stedet for å avdekke hendelsesforløpet, melder politiet.\n\nFire unge menn er besluttet pågrepet i saken, ifølge operasjonslederen.",
-      "excerpt": "Klokken 20:42 rykket politi og ambulanse ut til en slåsskamp utenfor Stavernfestivalen i Larvik.\n\nFem personer involvert, én ung mann er av helse betegnet som alvorlig skadet og sendt til sykehus, skriver operasjonsleder Lise Bjørnsund i politiloggen.\n\n– Politiet jobber med etterforskningsskritt på...",
-      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwMjY1NTB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/alvorlig-skadet-etter-slasskamp-utenfor-stavernfestivalen-1.17945458",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-02T21:09:10.199Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2102,
+    "totalFetched": 2103,
     "totalPublished": 77,
-    "lastFetch": "2026-07-05T07:28:17.393Z",
+    "lastFetch": "2026-07-05T10:16:08.347Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
