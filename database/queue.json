@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783259001599.2793,
+      "title": "Alvorlig ulykke i Holmestrand",
+      "slug": "alvorlig-ulykke-i-holmestrand",
+      "content": "En bil og en motorsykkel har kollidert i Holmestrand.\n\n– Ulykken fremstår alvorlig, melder Sør-Øst politidistrikt.\n\nForbipasserende på stedet hjelper nå til med livreddende førstehjelp, ifølge politiet.\n\nNødetatene er på stedet for å ivareta de involverte .\n\nVeien ved ulykken er stengt og politiet forventer at veien blir stengt i flere timer. Ved 15.20-tiden er det 500 meter med kø, melder politiet.",
+      "excerpt": "En bil og en motorsykkel har kollidert i Holmestrand.\n\n– Ulykken fremstår alvorlig, melder Sør-Øst politidistrikt.\n\nForbipasserende på stedet hjelper nå til med livreddende førstehjelp, ifølge politiet.\n\nNødetatene er på stedet for å ivareta de involverte .\n\nVeien ved ulykken er stengt og politiet...",
+      "image": "https://images.unsplash.com/photo-1679672082444-ae0f57f93b5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyNTkwMDF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/alvorlig-ulykke-i-holmestrand-1.17948192",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-05T13:43:21.599Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783258999754.286,
+      "title": "Hegnar gir seg som administrerende direktør",
+      "slug": "hegnar-gir-seg-som-administrerende-direktr",
+      "content": "Trygve Hegnar (82) gir seg som administrerende direktør i Hegnar Media, men fortsetter som styreleder og ansvarlig redaktør.\n\nMedier24 har tidligere fått nyheten bekreftet fra flere kilder.\n\nSønnen hans, Jonn Trygve Hegnar, som i dag er operasjonell direktør, overtar jobben som administrerende direktør etter faren.\n\nHegnars datter, Margrethe Schmidt Hegnar, som i dag er produktredaktør, overtar brorens jobb som operasjonell direktør.\n\nFinansavisen, Kapital Interiørmagasinet og Hegnar Bokforlag er alle under paraplyen til Hegnar Media.",
+      "excerpt": "Trygve Hegnar (82) gir seg som administrerende direktør i Hegnar Media, men fortsetter som styreleder og ansvarlig redaktør.\n\nMedier24 har tidligere fått nyheten bekreftet fra flere kilder.\n\nSønnen hans, Jonn Trygve Hegnar, som i dag er operasjonell direktør, overtar jobben som administrerende...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/hegnar-gir-seg-som-administrerende-direktor--1.17948164",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-05T13:43:19.754Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783258997992.8635,
+      "title": "Skal jage vekk bjørn",
+      "slug": "skal-jage-vekk-bjrn",
+      "content": "De neste dagene skal ei bjørnebinne med unger jages vekk fra et større område i Høylandet og Grong.\n\nDet er bestemt av departementet. Et 30-talls sauer er revet av binna i området, men bondelagene har fått nei til å felle binna i det beiteprioriterte området.\n\nRovviltansvarlig i styret i Norges Bondelag, Erlend Fiskum, forventer at Statens naturoppsyn setter på nok mannskap til å drive vekk binna fra området.\n\nHan forventer også at de passer på slik at den ikke kommer tilbake.\n\n– Jeg tror det vil være en veldig krevende jobb. Det er ei binne som har gått jevnt i dette området helt siden 2020.\n\nFiskum sier binna er vant til å ta sau og vant til at det er folk og hunder i skogen.\n\nDepartementet har bedt om at Miljødirektoratet raskt gjennomfører skremmetiltak. Det står i ei pressemelding sendt ut lørdag.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "De neste dagene skal ei bjørnebinne med unger jages vekk fra et større område i Høylandet og Grong.\n\nDet er bestemt av departementet. Et 30-talls sauer er revet av binna i området, men bondelagene har fått nei til å felle binna i det beiteprioriterte området.\n\nRovviltansvarlig i styret i Norges...",
+      "image": "https://images.unsplash.com/photo-1700514077723-91ce2096dbc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyNTg5OTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/trondelag/skal-jage-vekk-bjorn-1.17948190",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-05T13:43:17.992Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783246565136.2554,
       "title": "8 skadet etter skyteepisode i New York",
       "slug": "8-skadet-etter-skyteepisode-i-new-york",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-03T03:27:30.494Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783049248336.1108,
-      "title": "Trump: «Latterlig» at USA skal opprettholde dagens støtte til Nato",
-      "slug": "trump-latterlig-at-usa-skal-opprettholde-dagens-sttte-til-na",
-      "content": "President Donald Trump kaller det «latterlig» at USA skal fortsatt opprettholde dagens støtte til forsvarsalliansen Nato.\n\n– Det er latterlig at USA skal fortsette denne ensidige veien når forholdet ikke er gjensidig. De var ikke der for oss, skriver Trump i et innlegg i meldingstjenesten Truth Social.\n\nI det to setninger lange innlegget har presidenten lagt ved en graf som viser USAs bidrag til Nato, sammenlignet med Storbritannia, Frankrike, Italia, og Polens bidrag til alliansen.\n\nTrump har kommet med lignende uttalelser flere ganger før.",
-      "excerpt": "President Donald Trump kaller det «latterlig» at USA skal fortsatt opprettholde dagens støtte til forsvarsalliansen Nato.\n\n– Det er latterlig at USA skal fortsette denne ensidige veien når forholdet ikke er gjensidig. De var ikke der for oss, skriver Trump i et innlegg i meldingstjenesten Truth...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump_-_latterlig_-at-usa-skal-opprettholde-dagens-stotte-til-nato-1.17945751",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-03T03:27:28.336Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783033764107.295,
-      "title": "Væpnet politiaksjon i Bergen",
-      "slug": "vpnet-politiaksjon-i-bergen",
-      "content": "Væpnet politi rykket ved 22-tiden torsdag kveld ut til en bensinstasjon i Åsane etter melding om et slagsmål mellom flere personer.\n\n– Vi fikk melding om at det muligens var observert et våpen og valgte derfor å bevæpne oss. Da vi kom til stedet løp flere personer fra stedet og en bil forsvant i høy hastighet, sier operasjonsleder Dan Erik Johannessen i Vest politidistrikt til NRK.\n\nPolitiet har ikke kommet i kontakt med de involverte.\n\n– Vi har hentet inn vinteopplysninger og har funnet den aktuelle bilen, og vi føler oss trygge på at ingen er skadet, forteller operasjonslederen.",
-      "excerpt": "Væpnet politi rykket ved 22-tiden torsdag kveld ut til en bensinstasjon i Åsane etter melding om et slagsmål mellom flere personer.\n\n– Vi fikk melding om at det muligens var observert et våpen og valgte derfor å bevæpne oss. Da vi kom til stedet løp flere personer fra stedet og en bil forsvant i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/vaepnet-politiaksjon-i-bergen-1.17945674",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-02T23:09:24.108Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783033762533.8328,
-      "title": "Alvorlig ulykke med terrengkjøretøy i Levanger",
-      "slug": "alvorlig-ulykke-med-terrengkjrety-i-levanger",
-      "content": "En gutt i tenårene er fraktet til sykehus etter en ulykke med UTV i Levanger natt til fredag, opplyser Trøndelag politidistrikt.\n\nOperasjonsleder Ellen Maria Brende beskriver ulykken som alvorlig.\n\nUlykken skjedde på fylkesvei 6878 i Okkenhaug da føreren svingte unna et rådyr og havnet av veien. En annen tenåringsgutt var passasjer og ble fraktet til legevakt.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "En gutt i tenårene er fraktet til sykehus etter en ulykke med UTV i Levanger natt til fredag, opplyser Trøndelag politidistrikt.\n\nOperasjonsleder Ellen Maria Brende beskriver ulykken som alvorlig.\n\nUlykken skjedde på fylkesvei 6878 i Okkenhaug da føreren svingte unna et rådyr og havnet av veien. En...",
-      "image": "https://images.unsplash.com/photo-1679769767348-be52800f0601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwMzM3NjJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/alvorlig-ulykke-med-terrengkjoretoy-i-levanger-1.17945683",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-02T23:09:22.533Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2103,
+    "totalFetched": 2106,
     "totalPublished": 77,
-    "lastFetch": "2026-07-05T10:16:08.347Z",
+    "lastFetch": "2026-07-05T13:43:24.608Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
