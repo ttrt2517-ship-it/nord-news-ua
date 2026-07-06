@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783368018394.271,
+      "title": "Kvinne i 60-årene omkom i boligbrann i Fredrikstad",
+      "slug": "kvinne-i-60rene-omkom-i-boligbrann-i-fredrikstad",
+      "content": "Nødetatene rykket ut til en bolig i Fredrikstad etter melding om brann.\n\n– Det skal være åpne flammer og mye røyk i området, fortyalte operasjonsleder i Øst politidistrikt Håkon Hatlen kort tid etter meldingen.\n\nKvinnens pårørende er varslet og ivaretas av helsepersonell.\n\nEn kvinne i 60-årene omkom etter en boligbrann i Fredrikstad mandag kveld. Kvinnens pårørende er varslet.",
+      "excerpt": "Nødetatene rykket ut til en bolig i Fredrikstad etter melding om brann.\n\n– Det skal være åpne flammer og mye røyk i området, fortyalte operasjonsleder i Øst politidistrikt Håkon Hatlen kort tid etter meldingen.\n\nKvinnens pårørende er varslet og ivaretas av helsepersonell.\n\nEn kvinne i 60-årene...",
+      "image": "https://images.unsplash.com/photo-1686731709928-a603b9ca9a82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzNjgwMTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/ostfold/kvinne-i-60-arene-omkom-i-boligbrann-i-fredrikstad-1.17949666",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-06T20:00:18.394Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783368016148.3228,
+      "title": "Khameneis kropp fraktet til hellig by",
+      "slug": "khameneis-kropp-fraktet-til-hellig-by",
+      "content": "Kroppen til Irans avdøde øverste leder, ayatolla Ali Khamenei, ankom den hellige byen Qom mandag kveld i forkant av en planlagt prosesjon påfølgende dag.\n\n«Kroppen til den martyrdrepte lederen har ankommet Qom,» sør for hovedstaden Teheran», opplyste statlig TV på sosiale medier, sammen med videoopptak som viser et helikopter som frakter Khameneis kropp lande i byen.\n\nAyatolla Ali Khamenei ble drept på krigens første dag da USA og Israel gikk til krig mot Iran 28. februar.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.",
+      "excerpt": "Kroppen til Irans avdøde øverste leder, ayatolla Ali Khamenei, ankom den hellige byen Qom mandag kveld i forkant av en planlagt prosesjon påfølgende dag.\n\n«Kroppen til den martyrdrepte lederen har ankommet Qom,» sør for hovedstaden Teheran», opplyste statlig TV på sosiale medier, sammen med...",
+      "image": "https://images.unsplash.com/photo-1751562761816-828d84789374?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzNjgwMTZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/khameneis-kropp-fraktet-til-hellig-by-1.17949654",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-06T20:00:16.148Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783368014174.9756,
+      "title": "Passasjer-fly til Kirkenes måtte snu",
+      "slug": "passasjerfly-til-kirkenes-mtte-snu",
+      "content": "Et SAS-fly fra Oslo til Kirkenes måtte snu på grunn av kraftig vind, og fløy heller mot Tromsø.\n\nForventet ankomst var 20:15, men flyvningen er nå utsatt til 22:15 ifølge Flightrader24.\n\nAvgangen Kirkenes til Oslo er dermed også utsatt på ubestemt tid. SAS skriver til sine passasjerer at ny informasjon blir gitt 21:50",
+      "excerpt": "Et SAS-fly fra Oslo til Kirkenes måtte snu på grunn av kraftig vind, og fløy heller mot Tromsø.\n\nForventet ankomst var 20:15, men flyvningen er nå utsatt til 22:15 ifølge Flightrader24.\n\nAvgangen Kirkenes til Oslo er dermed også utsatt på ubestemt tid. SAS skriver til sine passasjerer at ny...",
+      "image": "https://images.unsplash.com/photo-1748366615020-b2c2a4b1590c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzNjgwMTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/tromsogfinnmark/passasjer-fly-til-kirkenes-matte-snu-1.17949768",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-06T20:00:14.174Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783356750151.7866,
       "title": "COMPARE: What is the best way to travel around Norway",
       "slug": "compare-what-is-the-best-way-to-travel-around-norway",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-04T17:07:46.429Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783184864693.1208,
-      "title": "Rykket ut til bolig etter melding om røyk - var svidd mat",
-      "slug": "rykket-ut-til-bolig-etter-melding-om-ryk-var-svidd-mat",
-      "content": "Nødetatene rykket ut til en bolig i Aure etter melding om mye røyk fra den, meldte politiet.\n\nKlokken 18:12 sier brannvesenet at de er på plass på stedet, og at det ikke pågår en brann. Røykvarsleren hadde gått på grunn av svidd mat.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr\n\nBrann i Møre og Romsdal\n\nHer blir du oppdatert når det blir meldt om brann i Møre og Romsdal.",
-      "excerpt": "Nødetatene rykket ut til en bolig i Aure etter melding om mye røyk fra den, meldte politiet.\n\nKlokken 18:12 sier brannvesenet at de er på plass på stedet, og at det ikke pågår en brann. Røykvarsleren hadde gått på grunn av svidd mat.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal....",
-      "image": "https://images.unsplash.com/photo-1670874103167-31cff21eb845?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMxODQ4NjR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/mr/rykket-ut-til-bolig-etter-melding-om-royk---var-svidd-mat-1.17947596",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-04T17:07:44.693Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783177583726.9575,
-      "title": "Brann i buss på riksvei 3",
-      "slug": "brann-i-buss-p-riksvei-3",
-      "content": "Det brenner i en buss på riksvei 3, nord for Koppang.\n\nEn personbil kjørte ifølge politiet inn i bussen etter at den hadde stanset, ingen personskader i uhellet.\n\nVegen er midlertidig stengt, opplyser politiet kl. 16.31 lørdag.\n\nEn buss tok lørdag ettermiddag fyr nord for Koppang. Kort tid etter kjørte en personbil inn i bussen, men politiet melder at alle involverte har sluppet fra hendelsene uten skader.",
-      "excerpt": "Det brenner i en buss på riksvei 3, nord for Koppang.\n\nEn personbil kjørte ifølge politiet inn i bussen etter at den hadde stanset, ingen personskader i uhellet.\n\nVegen er midlertidig stengt, opplyser politiet kl. 16.31 lørdag.\n\nEn buss tok lørdag ettermiddag fyr nord for Koppang. Kort tid etter...",
-      "image": "https://images.unsplash.com/photo-1659424765411-2ae87f5d1c06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMxNzc1ODN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/brann-i-buss-pa-riksvei-3--1.17947524",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-04T15:06:23.726Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783172229817.3613,
-      "title": "Is the &#039;Oslo Pass&#039; worth getting when visiting the Norwegian capital?",
-      "slug": "is-the-039oslo-pass039-worth-getting-when-visiting-the-norwe",
-      "content": "Are you planning a trip to Oslo? The Oslo Pass may be just what you need. It could help you save money on top attractions and transport, depending on your itinerary and how long you intend to stay.\n\nOslo is quickly becoming a popular destination, attracting both international tourists and residents of other Norwegian cities seeking a weekend getaway. However, the capital isn't exactly known for being \"budget-friendly.\"\n\nWith tickets to major museums now about 200 kroner each, a day of sightseeing can get expensive, especially if you have four or five \"must-see\" spots on your list.\n\nIs it really a good deal? Here’s what you should know.\n\nThe Oslo Pass is the city’s official all-access card and is a great way to explore Oslo’s art, culture, history, and more. It makes things easier by putting everything you need into one QR code on your phone.\n\nThe main perks include free entry to over 30 museums and attractions, such as the Munch Museum, the National Museum, and the Ski Museum in Holmenkollen, which are landmark destinations for most visitors.\n\nThe pass allows for one entry per attraction per 24-hour period.\n\nGetting around the city can be much easier with the pass, since it gives you free public transport with Ruter (Oslo’s public transport company) in zones 1, 2, 3, 4V, and 4N. This covers the metro, trams, buses (including night buses), and ferries for island hopping.\n\nYou can use the Oslo Pass on boats to Bygdøy for the museum district, the Oslo Fjord islands, Asker, Nesodden, and Drøbak in the summer.\n\nThe pass also covers free travel to and from Oslo Airport (Gardermoen) on local Vy trains. Just remember, it does not include the Flytoget Airport Express or the Flybussen.\n\nTo help you discover more of the city, the card also offers multiple discounts at over 30 locations, including sightseeing tours, activities, and selected restaurants and shops.\n\nKeep in mind that some activities and tours need to be booked in advance or registered on-site. The app will give you clear instructions and explain what you need to do for each one.\n\nREAD MORE: The 'Jacket Hotel': How to ditch your winter coat at Oslo Airport\n\nThe pass is fully digital. You buy it in the app “Oslo Pass” and only activate it when you’re ready to start your first activity.\n\nThe app is available for download on both iOS and Android.\n\nYou can buy the pass for 24, 48, or 72 hours. As of March 2026, adult prices are 580, 845, and 995 kroner, respectively.\n\nThere are group discounts: children’s rates are for ages 6 – 17, and seniors’ rates start at age 67.\n\nIf you’re under 30 and have a valid student ID, you can get a 20 percent discount. This offer is only available if you buy the pass in person at the Oslo Visitor Centre near the Central Station (Oslo S).\n\nOne big advantage is that the app works offline, but you need to connect to the internet each morning to download the daily animation that shows your ticket is valid.\n\nWhen you visit museums, restaurants, or use public transport, just show your QR code to the staff or controllers.\n\nIf you have visitors coming, the app has an additional option. You can buy passes for others and transfer them to their own app before they’re activated. Just use the “transfer pass” button.\n\nREAD MORE: The biggest and best events in Oslo in 2026\n\nLet’s look at the costs for a typical day of sightseeing in Central Oslo (zone 1) with March 2026 prices:\n\nThe total for individual bookings comes to 584 kroner, whereas a 24-hour Oslo Pass costs 580 kroner.\n\nBasically, if you visit at least two museums and use the metro or tram four times, the card already pays for itself. If you add a discounted tour or an airport transfer, you are well into the savings.\n\nHowever, Ruter also has its own 24-hour ticket (available via the Ruter app). Instead of paying 184 kroner for four single trips, a 24-hour Ruter pass costs just 137 kroner and gives you unlimited travel.\n\nBecause of this, the Oslo Pass may not be the best solution for everyone.\n\nIf you plan to visit only one museum and spend the rest of your day walking or sitting in a park, you would be better off buying a 24-hour Ruter ticket and a single museum entry. In that scenario, you would spend roughly 337 kroner, significantly cheaper than the 580 kroner for an Oslo Pass.\n\nThe pass really pays off if you stay for a longer period as the daily rate decreases for the 48- and 72-hour cards. This also applies if you want to travel outside Zone 1.\n\nSo, if you are the type of traveller who wants to fit in tours, visit as many museums as possible, explore various corners of the city, and take a boat to the islands, the Oslo Pass is a no-brainer. However, for those who prefer a slow-paced trip with minimal museum visits, individual tickets remain the more economical choice.\n\nA quick heads-up. If your phone runs out of battery, you'll be left without your digital pass. So, make sure to keep an eye on your battery level or bring a power bank along.\n\nREAD ALSO: Public transport passes to get cheaper in Oslo and Akershus\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Are you planning a trip to Oslo? The Oslo Pass may be just what you need. It could help you save money on top attractions and transport, depending on your itinerary and how long you intend to stay.\n\nOslo is quickly becoming a popular destination, attracting both international tourists and residents...",
-      "image": null,
-      "original_url": "https://www.thelocal.no/20260316/is-the-oslo-pass-worth-getting-when-visiting-the-norwegian-capital",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-07-04T13:37:09.817Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2134,
+    "totalFetched": 2137,
     "totalPublished": 77,
-    "lastFetch": "2026-07-06T16:52:31.152Z",
+    "lastFetch": "2026-07-06T20:00:21.396Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
