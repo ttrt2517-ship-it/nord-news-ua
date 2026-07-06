@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1783374257247.0078,
+      "title": "Dødsulykke i Nordland",
+      "slug": "ddsulykke-i-nordland",
+      "content": "Mandag ettermiddag melder Nordland politidistrikt at en person er bekreftet omkommet.\n\n– En person hjemmehørende i Bodø omkom dessverre i ulykken. Pårørende er varslet, skriver politiet.\n\nKl. 17 ble det først varslet om en alvorlig trafikkulykke på Kystriksveien i Nordland, ca. 13 kilometer sør for Saltstraumen.\n\nVeien var stengt i flere timer og er nå åpen igjen.\n\nFylkesvei 17 har vært stengt i flere timer etter trafikkulykken.",
+      "excerpt": "Mandag ettermiddag melder Nordland politidistrikt at en person er bekreftet omkommet.\n\n– En person hjemmehørende i Bodø omkom dessverre i ulykken. Pårørende er varslet, skriver politiet.\n\nKl. 17 ble det først varslet om en alvorlig trafikkulykke på Kystriksveien i Nordland, ca. 13 kilometer sør for...",
+      "image": "https://images.unsplash.com/photo-1608502917957-cfe1b25ae497?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzNzQyNTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nordland/dodsulykke-i-nordland-1.17949560",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-06T21:44:17.247Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783368018394.271,
       "title": "Kvinne i 60-årene omkom i boligbrann i Fredrikstad",
       "slug": "kvinne-i-60rene-omkom-i-boligbrann-i-fredrikstad",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-04T17:07:48.101Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783184866428.9363,
-      "title": "VG: Fotballfesten kan bli flyttet fra Ullevaal til Frogner stadion",
-      "slug": "vg-fotballfesten-kan-bli-flyttet-fra-ullevaal-til-frogner-st",
-      "content": "Flere formaliteter gjenstår før arrangementet Fotballfesten eventuelt kan flyttes til Frogner stadion.\n\nDaglig leder i Fotballfesten, Geir Oterhals, sier til VG at de både mangler å inngå kontrakt og å få innvilget en støydispensasjon.\n\nKapasiteten blir på 22.000 gjester, og Oterhals sier de vil legge ut billetter rett etter kampslutt om Norge vinner.\n\nÅrsaken til at arrangementet ikke kan foregå på Ullevaal stadion, er at nytt gress må gro før NM-finalen for kvinner 6. september.\n\nEtter at det ble klart at kampen ikke vil kunne vises på Ullevaal, har arrangøren funnet en mulig erstatter.",
-      "excerpt": "Flere formaliteter gjenstår før arrangementet Fotballfesten eventuelt kan flyttes til Frogner stadion.\n\nDaglig leder i Fotballfesten, Geir Oterhals, sier til VG at de både mangler å inngå kontrakt og å få innvilget en støydispensasjon.\n\nKapasiteten blir på 22.000 gjester, og Oterhals sier de vil...",
-      "image": "https://images.unsplash.com/photo-1661336581027-ffdb71741444?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMxODQ4NjZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/vg_-fotballfesten-kan-bli-flyttet-fra-ullevaal-til-frogner-stadion-1.17947474",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-04T17:07:46.429Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2137,
+    "totalFetched": 2138,
     "totalPublished": 77,
-    "lastFetch": "2026-07-06T20:00:21.396Z",
+    "lastFetch": "2026-07-06T21:44:19.161Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
