@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783459549303.4478,
+      "title": "Fire drept i israelske angrep i Gaza tirsdag",
+      "slug": "fire-drept-i-israelske-angrep-i-gaza-tirsdag",
+      "content": "Det israelske militæret har tirsdag utført flere angrep mot Gaza.\n\nTotalt tre personer er drept i et luftangrep og én person er drept i en skyteepisode, opplyser palestinske helsemyndigheter.\n\nDet israelske militæret sier at alle luftangrepene var rettet mot Hamas-militante. De har ikke kommentert skytingen.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
+      "excerpt": "Det israelske militæret har tirsdag utført flere angrep mot Gaza.\n\nTotalt tre personer er drept i et luftangrep og én person er drept i en skyteepisode, opplyser palestinske helsemyndigheter.\n\nDet israelske militæret sier at alle luftangrepene var rettet mot Hamas-militante. De har ikke kommentert...",
+      "image": "https://images.unsplash.com/photo-1681076307102-a1597df14b89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0NTk1NDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fire-drept-i-israelske-angrep-i-gaza-tirsdag-1.17951002",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-07T21:25:49.303Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783459547421.474,
+      "title": "USA tilbakekaller lisens som tillater salg av iransk olje",
+      "slug": "usa-tilbakekaller-lisens-som-tillater-salg-av-iransk-olje",
+      "content": "Det amerikanske finansdepartementet har tilbakekalt lisensen som autoriserte salg av iransk olje, ifølge en uttalelse fra departementet.\n\n– Med virkning fra 7. juli 2026 er den generelle lisensen opphevet i sin helhet og erstattet av en ny og innskjerpet lisens, heter det i meldingen.\n\nI intensjonsavtalen USA og Iran ble enige om i juni, skulle Iran få lov til å selge olje i 60 dager så lenge samtalene mellom landene fortsatte.\n\nUttalelsen om å tilbakekalle lisensen kommer etter flere angrep i Hormuzstredet det siste døgnet. Nyheten førte umiddelbart til at oljeprisene økte med nesten 6%, melder CNN.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
+      "excerpt": "Det amerikanske finansdepartementet har tilbakekalt lisensen som autoriserte salg av iransk olje, ifølge en uttalelse fra departementet.\n\n– Med virkning fra 7. juli 2026 er den generelle lisensen opphevet i sin helhet og erstattet av en ny og innskjerpet lisens, heter det i meldingen.\n\nI...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/usa-tilbakekaller-lisens-som-tillater-salg-av-iransk-olje-1.17951030",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-07T21:25:47.421Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783459545517.5815,
+      "title": "Brann på campingplass",
+      "slug": "brann-p-campingplass",
+      "content": "Operasjonsleder Rune Vegard Huse opplyser at det er snakk om full fyr i to campingvogner/hytter. Brannen har spredt seg til skogen i nærheten, men brannvesenet har kontroll.\n\nDet skal ikke være noen personer som er skadd, eller i vognene, så langt politiet er kjent med.\n\nKlokken 23.12 opplyser politiet at brannen er slukket, og at en campingvogn med telt er utbrent. Brannårsaken er foreløpig ukjent.\n\nIfølge Hamar Arbeiderblad ble det hørt flere eksplosjoner på stedet.\n\n– Det er gassflasker som går i lufta, sier politiets oppdragsleder Geir Rune Ekse til avisa klokken 22:43.",
+      "excerpt": "Operasjonsleder Rune Vegard Huse opplyser at det er snakk om full fyr i to campingvogner/hytter. Brannen har spredt seg til skogen i nærheten, men brannvesenet har kontroll.\n\nDet skal ikke være noen personer som er skadd, eller i vognene, så langt politiet er kjent med.\n\nKlokken 23.12 opplyser...",
+      "image": "https://images.unsplash.com/photo-1781444510899-ecf56f2bf1b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0NTk1NDV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/innlandet/brann-pa-campingplass-1.17951063",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-07T21:25:45.517Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783447278813.1582,
       "title": "Ungarsk statskringkasting stanser nyhetssendingene midlertidig",
       "slug": "ungarsk-statskringkasting-stanser-nyhetssendingene-midlertid",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-05T17:12:58.701Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783271576720.0825,
-      "title": "Aske fra vulkanutbrudd forstyrrer italiensk flytrafikk",
-      "slug": "aske-fra-vulkanutbrudd-forstyrrer-italiensk-flytrafikk",
-      "content": "Flyavganger til og fra Catania på Sicilia blir innstilt og omdirigert på grunn av store mengder aske fra et utbrudd fra vulkanen Etna.\n\nI et område som er særlig rammet, er luftrommet stengt fram til klokka 19 søndag. Fram til klokka 21 får bare fem fly i timen lov til å lande på flyplassen, ifølge den italienske flyplassoperatøren SAC.\n\nMange flyavganger omdirigeres til Palermo, som ligger lenger vest på Sicilia og i le for vulkanutbruddet.",
-      "excerpt": "Flyavganger til og fra Catania på Sicilia blir innstilt og omdirigert på grunn av store mengder aske fra et utbrudd fra vulkanen Etna.\n\nI et område som er særlig rammet, er luftrommet stengt fram til klokka 19 søndag. Fram til klokka 21 får bare fem fly i timen lov til å lande på flyplassen, ifølge...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/aske-fra-vulkanutbrudd-forstyrrer-italiensk-flytrafikk-1.17948299",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-05T17:12:56.720Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783271575172.3684,
-      "title": "To drept i israelske angrep i Gaza by",
-      "slug": "to-drept-i-israelske-angrep-i-gaza-by",
-      "content": "Minst to palestinere ble drept i et israelsk luftangrep i Gaza by søndag, opplyser helsemyndigheter til Reuters.\n\nHelsepersonell uttalte at de to personene ble drept da et luftangrep traff en gruppe mennesker i Omar Al-Mokhtar-gaten i hjertet av byen, nord på Gaza. Flere andre ble såret, la de til.\n\nDet israelske militæret har foreløpig ikke kommentert hendelsen.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
-      "excerpt": "Minst to palestinere ble drept i et israelsk luftangrep i Gaza by søndag, opplyser helsemyndigheter til Reuters.\n\nHelsepersonell uttalte at de to personene ble drept da et luftangrep traff en gruppe mennesker i Omar Al-Mokhtar-gaten i hjertet av byen, nord på Gaza. Flere andre ble såret, la de...",
-      "image": "https://images.unsplash.com/photo-1582753799950-e73309a50b3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyNzE1NzV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/to-drept-i-israelske-angrep-i-gaza-by-1.17948316",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-05T17:12:55.173Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783264428625.0723,
-      "title": "Trafikkulykke mellom bil og lastebil i Stad",
-      "slug": "trafikkulykke-mellom-bil-og-lastebil-i-stad",
-      "content": "Nødetatene rykker ut til en trafikkulykke mellom bil og lastebil på Fjordavegen ved Nordfjordeid i Stad kommune.\n\nPoliti og brannvesen er på stedet og er i kontakt med de involverte.\n\nEn kvinne er kjørt til legevakten før videre undersøkelser. Det er ikke meldt om andre personskader, bekrefter politiet til NRK.",
-      "excerpt": "Nødetatene rykker ut til en trafikkulykke mellom bil og lastebil på Fjordavegen ved Nordfjordeid i Stad kommune.\n\nPoliti og brannvesen er på stedet og er i kontakt med de involverte.\n\nEn kvinne er kjørt til legevakten før videre undersøkelser. Det er ikke meldt om andre personskader, bekrefter...",
-      "image": "https://images.unsplash.com/photo-1670874103167-31cff21eb845?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyNjQ0Mjh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestland/trafikkulykke-mellom-bil-og-lastebil-i-stad-1.17948171",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-05T15:13:48.625Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2158,
+    "totalFetched": 2161,
     "totalPublished": 77,
-    "lastFetch": "2026-07-07T18:01:21.781Z",
+    "lastFetch": "2026-07-07T21:25:51.815Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
