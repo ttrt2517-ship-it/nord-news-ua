@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783395334806.3936,
+      "title": "Gjødselutslipp kan nå Mandalselva",
+      "slug": "gjdselutslipp-kan-n-mandalselva",
+      "content": "4,5 tonn gjødsel har rent ut i en elv i Finsland, og utslippet kan treffe Mandalselva ved Bue i Marnardal.\n\nLindesnes kommune anbefaler innbyggere med brønn å koke vannet, og det anbefales ikke å bade i elva eller nærliggende vann. Kommunalt vann påvirkes ikke.\n\nKommunen skriver at utslippet trolig vil fortynnes på vei mot bebyggelse, og at tester av vannkvaliteten vil være klar om 3–4 dager.",
+      "excerpt": "4,5 tonn gjødsel har rent ut i en elv i Finsland, og utslippet kan treffe Mandalselva ved Bue i Marnardal.\n\nLindesnes kommune anbefaler innbyggere med brønn å koke vannet, og det anbefales ikke å bade i elva eller nærliggende vann. Kommunalt vann påvirkes ikke.\n\nKommunen skriver at utslippet trolig...",
+      "image": "https://images.unsplash.com/photo-1663919606372-9b915419ba9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTUzMzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/sorlandet/gjodselutslipp-kan-na-mandalselva-1.17949895",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-07T03:35:34.806Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783395332887.2644,
+      "title": "Mistenkes for promillekjøring med tre barn i bilen",
+      "slug": "mistenkes-for-promillekjring-med-tre-barn-i-bilen",
+      "content": "Politiet fikk i natt melding om en bil som hadde kjørt av veien flere ganger i Holmestrand.\n\nBilen kjørte inn i en hekk i Sande før den kjørte ut på E18.\n\nKlokken 00.10 fikk politiet kontroll på kvinnen som hadde med seg tre mindreårige barn i bilen.\n\nHun mistenkes for kjøring i alkoholpåvirket tilstand og blir fremstilt for prøvetaking.\n\nBarna blir ivaretatt helsevesen og barnevernsvakta.",
+      "excerpt": "Politiet fikk i natt melding om en bil som hadde kjørt av veien flere ganger i Holmestrand.\n\nBilen kjørte inn i en hekk i Sande før den kjørte ut på E18.\n\nKlokken 00.10 fikk politiet kontroll på kvinnen som hadde med seg tre mindreårige barn i bilen.\n\nHun mistenkes for kjøring i alkoholpåvirket...",
+      "image": "https://images.unsplash.com/photo-1743179397328-8694e9cba91c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTUzMzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/mistenkes-for-promillekjoring-med-tre-barn-i-bilen-1.17949908",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-07T03:35:32.887Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783395331052.7349,
+      "title": "Én drept i angrep mot Belgorod – droner stanset mot Moskva",
+      "slug": "n-drept-i-angrep-mot-belgorod-droner-stanset-mot-moskva",
+      "content": "Én person er drept i ukrainske angrep mot mål ved den russiske byen Belgorod, ifølge russiske myndigheter. Flere ukrainske rakettangrep skal ha blitt rettet mot regionen, og det begynte å brenne i et infrastrukturanlegg i byen. Belgorod er hovedstaden i grenseregionen med samme navn, skriver NTB.\n\nI tillegg opplyser Moskvas ordfører, Sergej Sobjanin, på meldingstjenesten Telegram at en rekke droner er stanset rundt den russiske hovedstaden.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Én person er drept i ukrainske angrep mot mål ved den russiske byen Belgorod, ifølge russiske myndigheter. Flere ukrainske rakettangrep skal ha blitt rettet mot regionen, og det begynte å brenne i et infrastrukturanlegg i byen. Belgorod er hovedstaden i grenseregionen med samme navn, skriver...",
+      "image": "https://images.unsplash.com/photo-1661876053803-a210980314e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTUzMzB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/en-drept-i-angrep-mot-belgorod-_-droner-stanset-mot-moskva-1.17949902",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-07T03:35:31.052Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783379400144.1543,
       "title": "Krever at kandidat til Senatet trekker seg etter overgrepsanklager",
       "slug": "krever-at-kandidat-til-senatet-trekker-seg-etter-overgrepsan",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-04T22:58:59.362Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783205937637.789,
-      "title": "Al-Qaida-tilknyttet islamistgruppe sier den sto bak angrep i Mali",
-      "slug": "alqaidatilknyttet-islamistgruppe-sier-den-sto-bak-angrep-i-m",
-      "content": "En islamistgruppe med bånd til Al-Qaida sier de står bak helgens voldsomme angrep mot militæret i Mali. Gruppen hevder de har tatt kontroll over tre militærbaser, skriver nyhetsbyrået Reuters.\n\nBåde regjeringssoldater og russiske styrker skal ha blitt angrepet. Sikkerhetssituasjonen i Mali beskrives nå som kritisk, ifølge NTB.\n\nMali\n\nSiden august 2020 har Mali vært styrt av en militærjunta. En planlagt folkeavstemning om ny grunnlov i mars 2023, er utsatt. Mali er et av verdens fattigste land og kjemper mot et jihadistopprør som har vart i et tiår.",
-      "excerpt": "En islamistgruppe med bånd til Al-Qaida sier de står bak helgens voldsomme angrep mot militæret i Mali. Gruppen hevder de har tatt kontroll over tre militærbaser, skriver nyhetsbyrået Reuters.\n\nBåde regjeringssoldater og russiske styrker skal ha blitt angrepet. Sikkerhetssituasjonen i Mali...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/al-qaida-tilknyttet-islamistgruppe-sier-den-sto-bak-angrep-i-mali-1.17947821",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-04T22:58:57.637Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783198759278.475,
-      "title": "Maskerte menn med sørstatsflagg marsjerte på USAs nasjonaldag",
-      "slug": "maskerte-menn-med-srstatsflagg-marsjerte-p-usas-nasjonaldag",
-      "content": "Maskerte menn med amerikanske flagg og sørstatsflagg marsjerte lørdag gjennom USAs hovedstad Washington D.C. på landets nasjonaldag.\n\nMennene ropte slagord som «ta tilbake Amerika» og kjørte T-bane sammen, ifølge NBC Washington.\n\nGruppen skal ha båret symboler for ytre høyre-gruppa «Patriot Front», som regnes som en hvit makt-gruppe. De ropte også slagord mot innvandrere, ifølge kanalen.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Maskerte menn med amerikanske flagg og sørstatsflagg marsjerte lørdag gjennom USAs hovedstad Washington D.C. på landets nasjonaldag.\n\nMennene ropte slagord som «ta tilbake Amerika» og kjørte T-bane sammen, ifølge NBC Washington.\n\nGruppen skal ha båret symboler for ytre høyre-gruppa «Patriot Front»...",
-      "image": "https://images.unsplash.com/photo-1622795969840-9a906fe5a9b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMxOTg3NTl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/maskerte-menn-med-sorstatsflagg-marsjerte-pa-usas-nasjonaldag-1.17947804",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-04T20:59:19.278Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783192584978.7634,
-      "title": "Protester mot seksuell vold i Frankrike",
-      "slug": "protester-mot-seksuell-vold-i-frankrike",
-      "content": "Flere titalls tusen mennesker demonstrerte lørdag i flere franske byer i protest mot seksuell vold, den siste i en rekke markeringer av et raseri som ble utløst av voldtekten og drapet på en 11 år gammel jente.\n\nJentas kropp, identifisert som Lyhanna, ble funnet forrige måned etter at hun forsvant 29. mai i den sørvestlige byen Fleurance.\n\nDen mistenkte, en 41 år gammel far til en av offerets skolevenner, hadde to ganger tidligere vært formelt anklaget for å ha voldtatt et barn, men etterforskningene hadde enten blitt henlagt eller stoppet opp.",
-      "excerpt": "Flere titalls tusen mennesker demonstrerte lørdag i flere franske byer i protest mot seksuell vold, den siste i en rekke markeringer av et raseri som ble utløst av voldtekten og drapet på en 11 år gammel jente.\n\nJentas kropp, identifisert som Lyhanna, ble funnet forrige måned etter at hun forsvant...",
-      "image": "https://images.unsplash.com/photo-1657651315999-c1d9941f1faf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMxOTI1ODR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/protester-mot-seksuell-vold-i-frankrike--1.17947683",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-04T19:16:24.978Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2141,
+    "totalFetched": 2144,
     "totalPublished": 77,
-    "lastFetch": "2026-07-06T23:10:01.728Z",
+    "lastFetch": "2026-07-07T03:35:36.848Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
