@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783465418518.0989,
+      "title": "Iran anklager USA for avtalebrudd etter gjeninnføring av oljesanksjoner",
+      "slug": "iran-anklager-usa-for-avtalebrudd-etter-gjeninnfring-av-olje",
+      "content": "Utenriksdepartementet i Iran fordømmer sterkt at USA gjeninnfører sanksjoner mot landets oljesalg. Iran hevder beslutningen bryter med Islamabad-memorandumet om å avslutte krigen, som ble inngått mellom USA og Iran i juni. Iran sier USA er ansvarlig for konsekvensene.\n\nUSA gjeninnførte oljesanksjonene etter det de omtaler som helt uakseptable iranske angrep mot skip i Hormuzstredet.\n\nMyndighetene i Teheran varsler nå at de vil iverksette alle tiltak de anser som nødvendige for å ivareta sine interesser og sin nasjonale sikkerhet.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
+      "excerpt": "Utenriksdepartementet i Iran fordømmer sterkt at USA gjeninnfører sanksjoner mot landets oljesalg. Iran hevder beslutningen bryter med Islamabad-memorandumet om å avslutte krigen, som ble inngått mellom USA og Iran i juni. Iran sier USA er ansvarlig for konsekvensene.\n\nUSA gjeninnførte...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/iran-anklager-usa-for-avtalebrudd-etter-gjeninnforing-av-oljesanksjoner-1.17951117",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-07T23:03:38.518Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783465416614.5266,
+      "title": "Mann omkom i trafikkulykke på E6",
+      "slug": "mann-omkom-i-trafikkulykke-p-e6",
+      "content": "En mann i 30-årene omkom i en trafikkulykke på E6 i Sel tirsdag kveld, melder Innlandet politidistrikt.\n\nEn annen person ble kritisk skadet, mens to andre ble lettere skadet.\n\nVeien på stedet er stengt, og trafikken blir omdirigert.\n\nEn person omkom og en annen er kritisk skadet etter en alvorlig trafikkulykke tirsdag kveld.",
+      "excerpt": "En mann i 30-årene omkom i en trafikkulykke på E6 i Sel tirsdag kveld, melder Innlandet politidistrikt.\n\nEn annen person ble kritisk skadet, mens to andre ble lettere skadet.\n\nVeien på stedet er stengt, og trafikken blir omdirigert.\n\nEn person omkom og en annen er kritisk skadet etter en alvorlig...",
+      "image": "https://images.unsplash.com/photo-1779991830181-f3493f08be2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0NjU0MTZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-omkom-i-trafikkulykke-pa-e6-1.17951121",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-07T23:03:36.614Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783465414753.1677,
+      "title": "Russisk angrep i Kyiv - flere skadet i Odesa",
+      "slug": "russisk-angrep-i-kyiv-flere-skadet-i-odesa",
+      "content": "Ukrainas hovedstad Kyiv ble utsatt for et russisk missilangrep natt til onsdag.\n\nByens ordfører, Vitalij Klitsjko, skriver på meldingstjenesten Telegram at angrepene har utløst branner i to bydeler. Det er så langt ikke meldt om personskader, og omfanget av de materielle skadene er foreløpig ukjent.\n\nRundt midnatt norsk tid skriver viseminister Tymur Tkatsjenko på Telegram at byens befolkning må søke dekning i tilfluktsrom.\n\nTidligere tirsdag kveld ble det meldt om et russisk rakettangrep i havnebyen Odesa. Ti personer ble skadet, deriblant tre kvinner. Åtte ble lagt inn på sykehus, og tilstanden til én av dem blir beskrevet som alvorlig, melder regionens guvernør, Oleh Kiper, på Telegram.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainas hovedstad Kyiv ble utsatt for et russisk missilangrep natt til onsdag.\n\nByens ordfører, Vitalij Klitsjko, skriver på meldingstjenesten Telegram at angrepene har utløst branner i to bydeler. Det er så langt ikke meldt om personskader, og omfanget av de materielle skadene er foreløpig...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/russisk-angrep-i-kyiv---flere-skadet-i-odesa--1.17951127",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-07T23:03:34.754Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783459549303.4478,
       "title": "Fire drept i israelske angrep i Gaza tirsdag",
       "slug": "fire-drept-i-israelske-angrep-i-gaza-tirsdag",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-05T19:20:12.370Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783279210755.4407,
-      "title": "Smykker verdt millioner stjålet fra fransk museum",
-      "slug": "smykker-verdt-millioner-stjlet-fra-fransk-museum",
-      "content": "Rundt 20 smykker ble stjålet fra et museum dedikert til glasskunstneren René Lalique nordøst i Frankrike søndag.\n\n– Verdien av tyvegodset blir i øyeblikket vurdert, men kan ligge på flere millioner euro, trolig nærmere 4 millioner, sier en kilde tett på etterforskningen til nyhetsbyrået AFP.\n\nTyvene brøt seg inn i museet, som ligger i landsbyen Wingen-sur-Moder rundt 50 kilometer nordvest for Strasbourg, rundt klokka 5.30 søndag morgen.",
-      "excerpt": "Rundt 20 smykker ble stjålet fra et museum dedikert til glasskunstneren René Lalique nordøst i Frankrike søndag.\n\n– Verdien av tyvegodset blir i øyeblikket vurdert, men kan ligge på flere millioner euro, trolig nærmere 4 millioner, sier en kilde tett på etterforskningen til nyhetsbyrået...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/smykker-verdt-millioner-stjalet-fra-fransk-museum-1.17948393",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-05T19:20:10.755Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783279209125.1196,
-      "title": "Zelenskyj sier det fortsatt pågår kamper om viktig by",
-      "slug": "zelenskyj-sier-det-fortsatt-pgr-kamper-om-viktig-by",
-      "content": "Volodymyr Zelenskyj sa søndag at styrkene til Kyiv og Moskva fremdeles kjemper om den strategisk viktige østlige byen Kostjantynivka, som Russland har hevdet at de har inntatt, skriver AFP.\n\nMoskva kunngjorde tidligere denne uken at de hadde tatt utposten – som ligger på veien til viktige knutepunkter i Donetsk-regionen – men Kyiv har avvist dette som en «løgn» og sier at de forsvarer byen.\n\nKostjantynivka hadde rundt 78 000 innbyggere før Russland invaderte i 2022.\n\nZelenskyj advarte også om at Russland forbereder nye storskalaangrep i forkant av ukens Nato-toppmøte i Tyrkia, hvor han etter planen skal holde samtaler om krigen med USAs president Donald Trump.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Volodymyr Zelenskyj sa søndag at styrkene til Kyiv og Moskva fremdeles kjemper om den strategisk viktige østlige byen Kostjantynivka, som Russland har hevdet at de har inntatt, skriver AFP.\n\nMoskva kunngjorde tidligere denne uken at de hadde tatt utposten – som ligger på veien til viktige...",
-      "image": "https://images.unsplash.com/photo-1622795969840-9a906fe5a9b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyNzkyMDl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/zelenskyj-sier-det-fortsatt-pagar-kamper-om-viktig-by-1.17948401",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-05T19:20:09.126Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783271578701.461,
-      "title": "Tysk ytre høyre-leder forsvarer likekjønnede forhold",
-      "slug": "tysk-ytre-hyreleder-forsvarer-likekjnnede-forhold",
-      "content": "Leder Alice Weidel i ytre høyre-partiet Alternativ for Tyskland (AfD) går imot sitt eget parti i Sachsen-Anhalt, som er motstandere av at likekjønnede par blir foreldre.\n\n– De kan skrive det de vil. Jeg lever i noe annet, sier Weidel, som selv er samboer med en kvinne og har to barn med henne.\n\nI delstaten Sachsen-Anhalt, der AfD ligger an til valgseier senere i år, hevder partilaget i sitt program at «en hel familie som består av mor, far og barn, har vist seg å være det beste grunnlaget for et barns utvikling».\n\nWeidel hevder hun kan være forkjemper for den tradisjonelle familien uten å motsi seg selv.",
-      "excerpt": "Leder Alice Weidel i ytre høyre-partiet Alternativ for Tyskland (AfD) går imot sitt eget parti i Sachsen-Anhalt, som er motstandere av at likekjønnede par blir foreldre.\n\n– De kan skrive det de vil. Jeg lever i noe annet, sier Weidel, som selv er samboer med en kvinne og har to barn med henne.\n\nI...",
-      "image": "https://images.unsplash.com/photo-1651837063913-7ca672ca539c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyNzE1Nzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/tysk-ytre-hoyre-leder-forsvarer-likekjonnede-forhold-1.17948277",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-05T17:12:58.701Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2161,
+    "totalFetched": 2164,
     "totalPublished": 77,
-    "lastFetch": "2026-07-07T21:25:51.815Z",
+    "lastFetch": "2026-07-07T23:03:41.066Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
