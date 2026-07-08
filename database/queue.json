@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783479052936.929,
+      "title": "Mann til sykehus etter å ha falt ned en skrent i Bamble",
+      "slug": "mann-til-sykehus-etter-ha-falt-ned-en-skrent-i-bamble",
+      "content": "Én mann er fløyet med luftambulanse til Telemark sentralsykehus natt til onsdag etter å ha falt ned rundt 6–7 meter ned en skrent i Bamble.\n\n– Det skal være ulendt terreng, og situasjonen fremstår som alvorlig, meldte operasjonsleder Espen Reite i Sør-Øst politidistrikt klokken 01.16 natt til onsdag.\n\n– Mannen som falt hadde det vært på en tur alene og falt, og hendelsen fremstår som et uhell, skadeomfanget er per nå uavklart, forteller Reite til NRK.",
+      "excerpt": "Én mann er fløyet med luftambulanse til Telemark sentralsykehus natt til onsdag etter å ha falt ned rundt 6–7 meter ned en skrent i Bamble.\n\n– Det skal være ulendt terreng, og situasjonen fremstår som alvorlig, meldte operasjonsleder Espen Reite i Sør-Øst politidistrikt klokken 01.16 natt til...",
+      "image": "https://images.unsplash.com/photo-1504233529578-6d46baba6d34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0NzkwNTJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-til-sykehus-etter-a-ha-falt-ned-en-skrent-i-bamble--1.17951129",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-08T02:50:52.936Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783479051156.9885,
+      "title": "Fraktfly savnet utenfor Pakistan med fem om bord",
+      "slug": "fraktfly-savnet-utenfor-pakistan-med-fem-om-bord",
+      "content": "Myndighetene i Pakistan har satt i gang et søk etter at et transportfly forsvant utenfor Karachi. Flyet, som tilhører det private pakistanske fraktflyselskapet K2 Airways, er av typen Boeing 737 og var på vei fra De forente arabiske emirater.\n\nDet var fem besetningsmedlemmer om bord da det forsvant fra radaren rundt 300 kilometer fra den pakistanske kysten, ifølge landets luftfartsmyndigheter.\n\nDet ble sendt melding om problemer med navigasjonssystemet, og på radaren kunne man se at flyet raskt mistet høyde og endret kurs.",
+      "excerpt": "Myndighetene i Pakistan har satt i gang et søk etter at et transportfly forsvant utenfor Karachi. Flyet, som tilhører det private pakistanske fraktflyselskapet K2 Airways, er av typen Boeing 737 og var på vei fra De forente arabiske emirater.\n\nDet var fem besetningsmedlemmer om bord da det forsvant...",
+      "image": "https://images.unsplash.com/photo-1681076307102-a1597df14b89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0NzkwNTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fraktfly-savnet-utenfor-pakistan-med-fem-om-bord-1.17951151",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-08T02:50:51.156Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783479049274.5986,
+      "title": "USA sier de har angrepet over 80 mål i Iran natt til onsdag",
+      "slug": "usa-sier-de-har-angrepet-over-80-ml-i-iran-natt-til-onsdag",
+      "content": "Den amerikanske sentralkommandoen CENTCOM sier at de har truffet over 80 mål under sitt siste angrep mot Iran.\n\n– Amerikanske styrker angrep iranske luftvernsystemer, kommando- og kontrollnettverk, kystradarstasjoner, sjømålsmissiler, samt over 60 småbåter tilhørende den iranske revolusjonsgarden i og nær Hormuzstredet, skriver CENTCOM på X tidlig onsdag morgen, norsk tid.\n\nDette ble gjort for å svekke Irans evne til å fortsette angrepene på den internasjonale handelen som strømmer gjennom denne globale handelskorridoren, heter det videre.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
+      "excerpt": "Den amerikanske sentralkommandoen CENTCOM sier at de har truffet over 80 mål under sitt siste angrep mot Iran.\n\n– Amerikanske styrker angrep iranske luftvernsystemer, kommando- og kontrollnettverk, kystradarstasjoner, sjømålsmissiler, samt over 60 småbåter tilhørende den iranske revolusjonsgarden i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/usa-sier-de-har-angrepet-over-80-mal-i-iran-natt-til-onsdag-1.17951164",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-08T02:50:49.274Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783465418518.0989,
       "title": "Iran anklager USA for avtalebrudd etter gjeninnføring av oljesanksjoner",
       "slug": "iran-anklager-usa-for-avtalebrudd-etter-gjeninnfring-av-olje",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-05T21:02:26.311Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783285344679.0518,
-      "title": "Rodríguez forsvarer innsatsen etter jordskjelvene",
-      "slug": "rodrguez-forsvarer-innsatsen-etter-jordskjelvene",
-      "content": "Venezuelas fungerende president sa søndag at landet ikke vil oppleve sosiale uroligheter etter de to jordskjelvene hvor nærmere 3 000 mennesker omkom og tusenvis av andre er savnet.\n\n«Det blir ingen sosiale uroligheter her, det vi har her er en dyp sosial solidaritet,» sa Delcy Rodríguez under en militær seremoni i forbindelse med landets uavhengighetsdag, melder AFP.\n\nMange venezuelanere har uttrykt sinne over det de oppfatter som den USA-støttede regjeringens utilstrekkelige håndtering av katastrofen den 24. juni før internasjonale team ankom.\n\nRodríguez har forsvart håndteringen og uttalt at tusenvis av tjenestemenn ble sendt ut for å hjelpe.\n\nVenezuela\n\nNatt til 25. juni ble Venezuela rammet av to store jordskjelv. Hittil er over 1700 mennesker bekreftet omkommet. Mange tusen er fortsatt savnet. Naturkatastrofen har forverret situasjonen i det allerede kriserammede landet.",
-      "excerpt": "Venezuelas fungerende president sa søndag at landet ikke vil oppleve sosiale uroligheter etter de to jordskjelvene hvor nærmere 3 000 mennesker omkom og tusenvis av andre er savnet.\n\n«Det blir ingen sosiale uroligheter her, det vi har her er en dyp sosial solidaritet,» sa Delcy Rodríguez under en...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/rodriguez-forsvarer-innsatsen-etter-jordskjelvene--1.17948479",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-05T21:02:24.679Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783285343008.9902,
-      "title": "Mulig gasslekkasje i Drammen - sikkerhetssone opprettet",
-      "slug": "mulig-gasslekkasje-i-drammen-sikkerhetssone-opprettet",
-      "content": "Politiet har opprettet en sikkerhetssone på 100 meter etter at det ble oppdaget gasslukt på Grønland i Drammen sentrum.\n\n– Nødetater har ankommet stedet. Det jobbes med å holde øvrig publikum unna. Det er gasslukt på stedet og brannvesenet jobber med målinger for å undersøke hva dette er, skriver operasjonsleder Espen Reite på politiloggen.\n\nDet var forbipasserende som meldte fra om gasslukten. Bedriften det gjelder er en smed, skriver operasjonslederen.",
-      "excerpt": "Politiet har opprettet en sikkerhetssone på 100 meter etter at det ble oppdaget gasslukt på Grønland i Drammen sentrum.\n\n– Nødetater har ankommet stedet. Det jobbes med å holde øvrig publikum unna. Det er gasslukt på stedet og brannvesenet jobber med målinger for å undersøke hva dette er, skriver...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/mulig-gasslekkasje-i-drammen---sikkerhetssone-opprettet--1.17948486",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-05T21:02:23.008Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783279212370.787,
-      "title": "Trump skal møte lederne for Syria og Ukraina",
-      "slug": "trump-skal-mte-lederne-for-syria-og-ukraina",
-      "content": "USAs president Donald Trump skal ha møter med Ukrainas president Volodymyr Zelenskyj og Syrias president Ahmed al-Sharaa neste uke.\n\nMøtene skjer i forbindelse med Nato-toppmøtet i Tyrkias hovedstad Ankara, opplyser Det hvite hus søndag.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.",
-      "excerpt": "USAs president Donald Trump skal ha møter med Ukrainas president Volodymyr Zelenskyj og Syrias president Ahmed al-Sharaa neste uke.\n\nMøtene skjer i forbindelse med Nato-toppmøtet i Tyrkias hovedstad Ankara, opplyser Det hvite hus søndag.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47....",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump-skal-mote-lederne-for-syria-og-ukraina--1.17948377",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-05T19:20:12.370Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2164,
+    "totalFetched": 2167,
     "totalPublished": 77,
-    "lastFetch": "2026-07-07T23:03:41.066Z",
+    "lastFetch": "2026-07-08T02:50:54.233Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
