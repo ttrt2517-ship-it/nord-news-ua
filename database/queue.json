@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1783552166888.3909,
+      "title": "Melding om mulig brann i boligblokk i Trondheim",
+      "slug": "melding-om-mulig-brann-i-boligblokk-i-trondheim",
+      "content": "Nødetatene rykker ut til en boligbrann på Brundalen i Trondheim.\n\nJostein Tangen ved 110-sentralen Midt-Norge forteller at en person fra utsiden har hørt en brannvarsler og mente han har observert røyk fra taket på en boligblokk på tre etasjer.\n\nDet kom først melding om at brannen var på Vikhammer i Malvik, men de hadde fått feil adresse.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "Nødetatene rykker ut til en boligbrann på Brundalen i Trondheim.\n\nJostein Tangen ved 110-sentralen Midt-Norge forteller at en person fra utsiden har hørt en brannvarsler og mente han har observert røyk fra taket på en boligblokk på tre etasjer.\n\nDet kom først melding om at brannen var på Vikhammer...",
+      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM1NTIxNjZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/trondelag/melding-om-mulig-brann-i-boligblokk-i-trondheim-1.17952474",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-08T23:09:26.888Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783552165101.3325,
+      "title": "MC-fører omkom i trafikkulykke i Kongsvinger",
+      "slug": "mcfrer-omkom-i-trafikkulykke-i-kongsvinger",
+      "content": "En MC-fører i 20 årene omkom i en møteulykke mellom en motorsykkel og en personbil i Kongsvinger onsdag kveld, det opplyser politiet i Innlandet.\n\nDet pågår undersøkelser på stedet, og veien vil forbli stengt en stund.\n\n20-åring omkom etter en møteulykke mellom motorsykkel og personbil.",
+      "excerpt": "En MC-fører i 20 årene omkom i en møteulykke mellom en motorsykkel og en personbil i Kongsvinger onsdag kveld, det opplyser politiet i Innlandet.\n\nDet pågår undersøkelser på stedet, og veien vil forbli stengt en stund.\n\n20-åring omkom etter en møteulykke mellom motorsykkel og personbil.",
+      "image": "https://images.unsplash.com/photo-1683797466570-ccaab622991a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM1NTIxNjV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mc-forer-omkom-i-trafikkulykke-i-kongsvinger-1.17952484",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-08T23:09:25.101Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783544937300.8481,
       "title": "AG Tunnel konkurs – 80 tilsette ramma",
       "slug": "ag-tunnel-konkurs-80-tilsette-ramma",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-07-06T21:44:17.247Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783368018394.271,
-      "title": "Kvinne i 60-årene omkom i boligbrann i Fredrikstad",
-      "slug": "kvinne-i-60rene-omkom-i-boligbrann-i-fredrikstad",
-      "content": "Nødetatene rykket ut til en bolig i Fredrikstad etter melding om brann.\n\n– Det skal være åpne flammer og mye røyk i området, fortyalte operasjonsleder i Øst politidistrikt Håkon Hatlen kort tid etter meldingen.\n\nKvinnens pårørende er varslet og ivaretas av helsepersonell.\n\nEn kvinne i 60-årene omkom etter en boligbrann i Fredrikstad mandag kveld. Kvinnens pårørende er varslet.",
-      "excerpt": "Nødetatene rykket ut til en bolig i Fredrikstad etter melding om brann.\n\n– Det skal være åpne flammer og mye røyk i området, fortyalte operasjonsleder i Øst politidistrikt Håkon Hatlen kort tid etter meldingen.\n\nKvinnens pårørende er varslet og ivaretas av helsepersonell.\n\nEn kvinne i 60-årene...",
-      "image": "https://images.unsplash.com/photo-1686731709928-a603b9ca9a82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzNjgwMTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/ostfold/kvinne-i-60-arene-omkom-i-boligbrann-i-fredrikstad-1.17949666",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-06T20:00:18.394Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783368016148.3228,
-      "title": "Khameneis kropp fraktet til hellig by",
-      "slug": "khameneis-kropp-fraktet-til-hellig-by",
-      "content": "Kroppen til Irans avdøde øverste leder, ayatolla Ali Khamenei, ankom den hellige byen Qom mandag kveld i forkant av en planlagt prosesjon påfølgende dag.\n\n«Kroppen til den martyrdrepte lederen har ankommet Qom,» sør for hovedstaden Teheran», opplyste statlig TV på sosiale medier, sammen med videoopptak som viser et helikopter som frakter Khameneis kropp lande i byen.\n\nAyatolla Ali Khamenei ble drept på krigens første dag da USA og Israel gikk til krig mot Iran 28. februar.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.",
-      "excerpt": "Kroppen til Irans avdøde øverste leder, ayatolla Ali Khamenei, ankom den hellige byen Qom mandag kveld i forkant av en planlagt prosesjon påfølgende dag.\n\n«Kroppen til den martyrdrepte lederen har ankommet Qom,» sør for hovedstaden Teheran», opplyste statlig TV på sosiale medier, sammen med...",
-      "image": "https://images.unsplash.com/photo-1751562761816-828d84789374?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzNjgwMTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/khameneis-kropp-fraktet-til-hellig-by-1.17949654",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-06T20:00:16.148Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2185,
+    "totalFetched": 2187,
     "totalPublished": 77,
-    "lastFetch": "2026-07-08T21:08:58.923Z",
+    "lastFetch": "2026-07-08T23:09:29.062Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
