@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1783627036220.8442,
+      "title": "Ulykke på campingplass i Gol",
+      "slug": "ulykke-p-campingplass-i-gol",
+      "content": "Et barn er påkjørt av en bil på en campingplass i Gol, melder politiet torsdag kveld.\n\nAmbulansen har ankommet og luftambulansen har landet på stedet.\n\nDet er å anse som en alvorlig ulykke, ifølge politiet.\n\n– Ambulansen var på stedet etter kort tid, og ikke lenge etter landa luftambulansen, for den tok av fra basen på Ål, sier operasjonsleder Ståle Fuglaas.\n\nHan forteller at det var mange vitner til ulykken og at politiet nå jobber med å snakke med disse for å kartlegge hendelsesforløpet.\n\n– Når det oppstår hendelser så har vi muligheten til å sende ut et kriseteam, og det har vi gjort her, for å ivareta de som er berørt av hendelsen, sier ordfører Heidi Granli (Ap).\n\nTrafikk i Buskerud\n\nNRK gir deg de siste meldingene om trafikksituasjonen i Buskerud.",
+      "excerpt": "Et barn er påkjørt av en bil på en campingplass i Gol, melder politiet torsdag kveld.\n\nAmbulansen har ankommet og luftambulansen har landet på stedet.\n\nDet er å anse som en alvorlig ulykke, ifølge politiet.\n\n– Ambulansen var på stedet etter kort tid, og ikke lenge etter landa luftambulansen, for...",
+      "image": null,
+      "original_url": "https://www.nrk.no/buskerud/ulykke-pa-campingplass-i-gol-1.17953529",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-09T19:57:16.220Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783619854283.601,
       "title": "Who are the international residents most likely to leave Norway?",
       "slug": "who-are-the-international-residents-most-likely-to-leave-nor",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-07T14:39:06.532Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783435144927.4563,
-      "title": "Støre om Iran: – Ingen planer om at Nato skal ha noen rolle",
-      "slug": "stre-om-iran-ingen-planer-om-at-nato-skal-ha-noen-rolle",
-      "content": "Under en pressekonferanse på Nato-toppmøtet i Tyrkia, sier statsminister Jonas Gahr Støre at Nato ikke skal ha noen rolle i forhandlingene i Iran og åpningen av Hormuzstredet.\n\n– Det er ingen planer om at Nato skal ha noen rolle her. Det har ikke vært diskutert i forberedelsene, sier Støre.\n\nStøre sier det ikke ligger an til at saken kommer inn i slutterklæringen fra toppmøtet.\n\n– Det ligger ikke an til å bli noen Nato-rolle i de områdene, sier Støre.\n\nNato-toppmøte\n\nDet neste Nato-toppmøtet skjer i Vilnius i Litauen 11. og 12. juli. Sveriges Nato-søknad står på planen. Ukrainas president Volodymyr Zelenskyj har takket ja til å være gjest på møtet.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.",
-      "excerpt": "Under en pressekonferanse på Nato-toppmøtet i Tyrkia, sier statsminister Jonas Gahr Støre at Nato ikke skal ha noen rolle i forhandlingene i Iran og åpningen av Hormuzstredet.\n\n– Det er ingen planer om at Nato skal ha noen rolle her. Det har ikke vært diskutert i forberedelsene, sier Støre.\n\nStøre...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/store-om-iran_-_-ingen-planer-om-at-nato-skal-ha-noen-rolle-1.17950646",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-07T14:39:04.927Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2203,
+    "totalFetched": 2204,
     "totalPublished": 77,
-    "lastFetch": "2026-07-09T17:57:35.283Z",
+    "lastFetch": "2026-07-09T19:57:17.435Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
