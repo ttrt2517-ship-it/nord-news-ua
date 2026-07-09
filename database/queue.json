@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783610021207.9858,
+      "title": "Stortingsrepresentant fra Høyre truet bedriftsleder på SMS",
+      "slug": "stortingsrepresentant-fra-hyre-truet-bedriftsleder-p-sms",
+      "content": "Erlend Larsen (H) fra Stokke har sendt truende tekstmeldinger til en bedriftsleder i Vestfold.\n\nMottakeren av meldingene beskriver dem til Aftenposten som skremmende, men ønsker ikke å kommentere saken ytterligere.\n\nGeneralsekretær Tom Erlend Skaug i Høyre skriver i en SMS til Finansavisen:at Larsen har brutt Høyres etiske retningslinjer og at han har fått en skriftlig advarsel.\n\nPartiet Høyre\n\nHøyre ble stiftet i 1884. Ine Eriksen Søreide ble valgt til partiets leder februar 2026. I Stortingsvalget 2025 ble partiet tredje størst med 14,6 prosent.",
+      "excerpt": "Erlend Larsen (H) fra Stokke har sendt truende tekstmeldinger til en bedriftsleder i Vestfold.\n\nMottakeren av meldingene beskriver dem til Aftenposten som skremmende, men ønsker ikke å kommentere saken ytterligere.\n\nGeneralsekretær Tom Erlend Skaug i Høyre skriver i en SMS til Finansavisen:at...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/stortingsrepresentant-fra-hoyre-truet-bedriftsleder-pa-sms-1.17953344",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-09T15:13:41.207Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783610019457.7136,
+      "title": "6000 flere ukrainere i jobb i Norge",
+      "slug": "6000-flere-ukrainere-i-jobb-i-norge",
+      "content": "Nær halvparten av ukrainere som er i arbeidsfør alder i Norge, er nå i arbeid. Det viser tall fra SSB:\n\nSammenliknet med året før har rundt 6000 ukrainere kommet i jobb i løpet av det siste året.\n\nTroms er det første fylket som passerer 50 prosent, skriver NTB.\n\nArbeidsliv\n\nSummen av de som jobber og de som er arbeidsledige kalles for arbeidstyrken. Sammenlignet med andre land er en stor del av befolkningen i Norge i arbeid. I juli 2018 var 70,3 prosent av befolkningen i arbeid eller arbeidsledig, ifølge SSB.",
+      "excerpt": "Nær halvparten av ukrainere som er i arbeidsfør alder i Norge, er nå i arbeid. Det viser tall fra SSB:\n\nSammenliknet med året før har rundt 6000 ukrainere kommet i jobb i løpet av det siste året.\n\nTroms er det første fylket som passerer 50 prosent, skriver NTB.\n\nArbeidsliv\n\nSummen av de som jobber...",
+      "image": "https://images.unsplash.com/photo-1699300017116-c685461e3e81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM2MTAwMTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/6000-flere-ukrainere-i-jobb-i-norge-1.17953374",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-09T15:13:39.457Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783610017450.0063,
+      "title": "Ebola-utbruddet i Kongo sprer seg raskt",
+      "slug": "ebolautbruddet-i-kongo-sprer-seg-raskt",
+      "content": "Ebola-utbruddet i Kongo er det raskest voksende noensinne. Det sier folkehelseinstituttet Africa CDC.\n\nDet dødelige viruset, som fører til omfattende blødninger, er de siste dagene også påvist i områder av Øst-Kongo som tidligere ikke har vært omfattet av utbruddet, melder NTB.\n\nSå langt er minst 600 mennesker døde som følge av viruset.\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og Liberia. Etter at det store utbruddet var over, er det registrert flere sporadiske tilfeller av smitte.",
+      "excerpt": "Ebola-utbruddet i Kongo er det raskest voksende noensinne. Det sier folkehelseinstituttet Africa CDC.\n\nDet dødelige viruset, som fører til omfattende blødninger, er de siste dagene også påvist i områder av Øst-Kongo som tidligere ikke har vært omfattet av utbruddet, melder NTB.\n\nSå langt er minst...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ebola-utbruddet-i-kongo-sprer-seg-raskt-1.17953382",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-09T15:13:37.450Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783594553171.4329,
       "title": "Today in Norway: A roundup of the latest news on Thursday",
       "slug": "today-in-norway-a-roundup-of-the-latest-news-on-thursday",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-07T11:08:52.975Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783422530017.557,
-      "title": "Who are the international residents most likely to leave Norway?",
-      "slug": "who-are-the-international-residents-most-likely-to-leave-nor",
-      "content": "A significant proportion of foreign nationals who relocate to Norway eventually choose to leave the country, with departure rates varying according to the initial reason for immigration, as data from Statistics Norway (SSB) has revealed.\n\nOf the 1,216,000 non-Nordic citizens who immigrated to Norway between 1990 and 2025, approximately 69 percent (844,000 individuals) remained registered as residents in the country as of January 1st 2026.\n\nThis indicates that nearly one-third of all international arrivals during the past three decades have since relocated elsewhere.\n\nAccording to the SSB analysis, the likelihood of long-term residence in Norway is strongly influenced by the initial reason for immigration.\n\nForeigners arriving on education permits are the most likely to leave Norway. Only 37 percent of the 115,000 students who arrived between 1990 and 2025 remain in the country.\n\nThis outcome is primarily due to the requirement for graduates to obtain a new legal basis, such as a work permit, to remain after completing their studies, which presents significant challenges for long-term residence.\n\nForeign workers also frequently depart after several years.\n\nOf the 398,000 migrant workers who arrived during the same 35-year period, 61 percent were still living in Norway at the beginning of 2026.\n\nIndividuals immigrating for family reunification show a greater tendency to settle long-term, with 76 percent of the 404,000 arrivals in this category still residing in Norway.\n\nThis is usually because they have stronger ties to Norway, whether through having a Norwegian partner or family already in the country.\n\nIndividuals seeking international protection are the most likely to remain in Norway on a permanent basis.\n\nOf the 290,000 refugees who have arrived since 1990, 85 percent remain registered as residents.\n\nREAD ALSO: 'I can't say I wasn't warned': Why foreign residents leave Norway\n\nWhile SSB data shows that the initial reason for moving can influence how long you stay, general feedback reveals that those who choose to leave Norway are also driven by a variety of other factors.\n\nThese factors typically include difficulties with social integration, feeling lonely, specific challenges encountered by healthcare professionals, and limited career or employment opportunities.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "A significant proportion of foreign nationals who relocate to Norway eventually choose to leave the country, with departure rates varying according to the initial reason for immigration, as data from Statistics Norway (SSB) has revealed.\n\nOf the 1,216,000 non-Nordic citizens who immigrated to...",
-      "image": null,
-      "original_url": "https://www.thelocal.no/20260707/who-are-the-international-residents-most-likely-to-leave-norway",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-07-07T11:08:50.017Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783422526054.6646,
-      "title": "Må regne med kø gjennom hele fellesferien på E18",
-      "slug": "m-regne-med-k-gjennom-hele-fellesferien-p-e18",
-      "content": "Det vil komme flere omkjøringer i forbindelse med utbygging av E18, advarer Nye Veier til TA.\n\nDe omfattende endringene betyr at bilistene må forberede seg på kø framover.\n\n– Det blir dessverre sånn, det klarer vi ikke å unngå, sier assisterende prosjektsjef, Mari Barstad til avisa.\n\nDet vil komme flere små omkjøringer og at det vil skje i etapper, hvor mange det blir er uklart.\n\nAlle trafikanter oppfordres til å kjøre ekstra forsiktig, tilpasse farten etter de nye forholdene og følge nøye med på skiltingen i området.",
-      "excerpt": "Det vil komme flere omkjøringer i forbindelse med utbygging av E18, advarer Nye Veier til TA.\n\nDe omfattende endringene betyr at bilistene må forberede seg på kø framover.\n\n– Det blir dessverre sånn, det klarer vi ikke å unngå, sier assisterende prosjektsjef, Mari Barstad til avisa.\n\nDet vil komme...",
-      "image": "https://images.unsplash.com/photo-1666731191472-716ded7ad874?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjI1MjV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/ma-regne-med-ko-gjennom-hele-fellesferien-pa-e18-1.17950324",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-07T11:08:46.054Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783422524108.951,
-      "title": "Kvinnen mistenkt for bombeattentat i Monaco er funnet død i Ukraina",
-      "slug": "kvinnen-mistenkt-for-bombeattentat-i-monaco-er-funnet-dd-i-u",
-      "content": "Kvinnen som mistenkes for bombeangrepet i Monaco, er funnet død i Ukraina.\n\nDen 39 år gamle ukrainske kvinnen kledde seg ut som en mann og plasserte en bombe ved inngangen til en boligblokk i Monaco, opplyste Interpol fredag.\n\nDen avdøde kvinnen var internasjonalt etterlyst av Interpol. Dødsårsak er foreløpig ukjent.\n\nUkraina\n\nUkraina er et land i Europa som grenser til Russland, Belarus, Polen, Moldova og Romania. Landet har nær 38 millioner innbyggere, ifølge data fra FN. I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina».\n\nMonaco\n\nMonaco er verdens nest minste stat og ligger like ved den franske rivieraen.",
-      "excerpt": "Kvinnen som mistenkes for bombeangrepet i Monaco, er funnet død i Ukraina.\n\nDen 39 år gamle ukrainske kvinnen kledde seg ut som en mann og plasserte en bombe ved inngangen til en boligblokk i Monaco, opplyste Interpol fredag.\n\nDen avdøde kvinnen var internasjonalt etterlyst av Interpol. Dødsårsak...",
-      "image": "https://images.unsplash.com/photo-1743179401211-6e001fa4d5e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjI1MjN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/kvinnen-mistenkt-for-bombeattentat-i-monaco-er-funnet-dod-i-ukraina-1.17950172",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-07T11:08:44.108Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2197,
+    "totalFetched": 2200,
     "totalPublished": 77,
-    "lastFetch": "2026-07-09T10:55:54.172Z",
+    "lastFetch": "2026-07-09T15:13:43.475Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
