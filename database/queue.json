@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1783803045619.4924,
+      "title": "Zelenskyj vil presse allierte til raskere respons",
+      "slug": "zelenskyj-vil-presse-allierte-til-raskere-respons",
+      "content": "Ukrainas president Volodymyr Zelenskyj sier at ukrainsk diplomati må omstilles for å få landets allierte til å følge opp løfter om våpenhjelp raskere.\n\n– Jeg forbereder endringer i ukrainsk diplomati. Vi trenger et nytt nivå for samarbeid med våre partnere for å sikre at alle avtaler om våpenforsyninger blir innfridd, sa Zelenskyj på TV lørdag.\n\n– Avtaler som er gjort med nasjonale ledere, må oppfylles mye raskere og mer fullstendig, sa han og la til at dette også gjelder samarbeidet med USA om å bygge Patriot-raketter på lisens.\n\nRussland har den siste tida trappet opp angrepene med ballistiske raketter, samtidig som Ukrainas lagre av luftvernraketter av typen Patriot nesten er tømt. Det er bare Patriot-systemet som kan beskytte mot ballistiske raketter.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainas president Volodymyr Zelenskyj sier at ukrainsk diplomati må omstilles for å få landets allierte til å følge opp løfter om våpenhjelp raskere.\n\n– Jeg forbereder endringer i ukrainsk diplomati. Vi trenger et nytt nivå for samarbeid med våre partnere for å sikre at alle avtaler om...",
+      "image": "https://images.unsplash.com/photo-1782072712484-42dc033d64f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM4MDMwNDV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/zelenskyj-vil-presse-allierte-til-raskere-respons-1.17955467",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-11T20:50:45.620Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783796761322.1587,
       "title": "Stans på Bergensbanen – tog har tekniske problemer",
       "slug": "stans-p-bergensbanen-tog-har-tekniske-problemer",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-09T19:57:16.220Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783619854283.601,
-      "title": "Who are the international residents most likely to leave Norway?",
-      "slug": "who-are-the-international-residents-most-likely-to-leave-nor",
-      "content": "A significant proportion of foreign nationals who relocate to Norway eventually choose to leave the country, with departure rates varying according to the initial reason for immigration, as data from Statistics Norway (SSB) has revealed.\n\nOf the 1,216,000 non-Nordic citizens who immigrated to Norway between 1990 and 2025, approximately 69 percent (844,000 individuals) remained registered as residents in the country as of January 1st 2026.\n\nThis indicates that nearly one-third of all international arrivals during the past three decades have since relocated elsewhere.\n\nAccording to the SSB analysis, the likelihood of long-term residence in Norway is strongly influenced by the initial reason for immigration.\n\nForeigners arriving on education permits are the most likely to leave Norway. Only 37 percent of the 115,000 students who arrived between 1990 and 2025 remain in the country.\n\nThis outcome is primarily due to the requirement for graduates to obtain a new legal basis, such as a work permit, to remain after completing their studies, which presents significant challenges for long-term residence.\n\nForeign workers also frequently depart after several years.\n\nOf the 398,000 migrant workers who arrived during the same 35-year period, 61 percent were still living in Norway at the beginning of 2026.\n\nIndividuals immigrating for family reunification show a greater tendency to settle long-term, with 76 percent of the 404,000 arrivals in this category still residing in Norway.\n\nThis is usually because they have stronger ties to Norway, whether through having a Norwegian partner or family already in the country.\n\nIndividuals seeking international protection are the most likely to remain in Norway on a permanent basis.\n\nOf the 290,000 refugees who have arrived since 1990, 85 percent remain registered as residents.\n\nREAD ALSO: 'I can't say I wasn't warned': Why foreign residents leave Norway\n\nWhile SSB data shows that the initial reason for moving can influence how long you stay, general feedback reveals that those who choose to leave Norway are also driven by a variety of other factors.\n\nThese factors typically include difficulties with social integration, feeling lonely, specific challenges encountered by healthcare professionals, and limited career or employment opportunities.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "A significant proportion of foreign nationals who relocate to Norway eventually choose to leave the country, with departure rates varying according to the initial reason for immigration, as data from Statistics Norway (SSB) has revealed.\n\nOf the 1,216,000 non-Nordic citizens who immigrated to...",
-      "image": null,
-      "original_url": "https://www.thelocal.no/20260707/who-are-the-international-residents-most-likely-to-leave-norway",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-07-09T17:57:34.283Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2252,
+    "totalFetched": 2253,
     "totalPublished": 77,
-    "lastFetch": "2026-07-11T19:06:02.798Z",
+    "lastFetch": "2026-07-11T20:50:48.318Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
