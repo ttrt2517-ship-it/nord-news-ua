@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783738037347.184,
+      "title": "Eldre mann savnet i Skien – politiet setter i gang leteaksjon",
+      "slug": "eldre-mann-savnet-i-skien-politiet-setter-i-gang-leteaksjon",
+      "content": "Politiet har i samråd med Hovedredningssentralen besluttet å sette i gang søk etter en eldre mann som like før midnatt ble meldt savnet fra Helsehuset ved Ulefossveien i Skien.\n\nI forbindelse letekasjonen blir det foretatt søk med helikopter i området.\n\nMannen har ustø gange og bruker til vanlig rullator. Denne sto igjen ved Helsehuset.\n\nPolitiet ber folk om å ta kontakt dersom de har gjort noen observasjoner, melder operasjonsleder Ståle Olstad Fuglaas i Sør-Øst politidistrikt.",
+      "excerpt": "Politiet har i samråd med Hovedredningssentralen besluttet å sette i gang søk etter en eldre mann som like før midnatt ble meldt savnet fra Helsehuset ved Ulefossveien i Skien.\n\nI forbindelse letekasjonen blir det foretatt søk med helikopter i området.\n\nMannen har ustø gange og bruker til vanlig...",
+      "image": "https://images.unsplash.com/photo-1667560756085-b821e52b9b36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM3MzgwMzd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/eldre-mann-savnet-i-skien-_-politiet-setter-i-gang-leteaksjon-1.17954940",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-11T02:47:17.347Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783738035478.5676,
+      "title": "Flere såret i nytt russisk angrep i Kyiv",
+      "slug": "flere-sret-i-nytt-russisk-angrep-i-kyiv",
+      "content": "Ukrainske myndigheter melder natt til lørdag om et nytt rakettangrep mot hovedstaden Kyiv.\n\nNyhetsbyrået AFP rapporterer om minst fem eksplosjoner, og flyalarmen skal ha gått først flere minutter etter det første smellet.\n\nLederen for militæradministrasjonen, Tymur Tkatsjenko, bekrefter angrepet på Telegram og ber alle innbyggere søke dekning umiddelbart.\n\n– Foreløpig er det meldt om seks skadde, tre av dem er fraktet til sykehus, skriver byens ordfører Vitali Klitskjo på Telegram tidlig lørdag morgen.\n\nHan legger til at flere bygninger er truffet av russiske raketter, deriblant et kontorbygg på tre etasjer.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainske myndigheter melder natt til lørdag om et nytt rakettangrep mot hovedstaden Kyiv.\n\nNyhetsbyrået AFP rapporterer om minst fem eksplosjoner, og flyalarmen skal ha gått først flere minutter etter det første smellet.\n\nLederen for militæradministrasjonen, Tymur Tkatsjenko, bekrefter angrepet på...",
+      "image": "https://images.unsplash.com/photo-1729721277487-67e0db2fe164?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM3MzgwMzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flere-saret-i-nytt-russisk-angrep-i-kyiv--1.17954947",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-11T02:47:15.478Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783738033604.7725,
+      "title": "Voldshendelse i Drammen",
+      "slug": "voldshendelse-i-drammen",
+      "content": "Politi og ambulanse rykket ut etter melding om en voldshendelse på Bragernes Torg i Drammen natt til lørdag. En person var bevisstløs og ble ivaretatt av helsepersonell.\n\n– Fornærmede våknet og avga forklaring til politiet på stedet. Politiet har ikke kontroll på gjerningspersonene, opplyser operasjonsleder Ståle Olstad Fuglaas i Sør-Øst politidistrikt.",
+      "excerpt": "Politi og ambulanse rykket ut etter melding om en voldshendelse på Bragernes Torg i Drammen natt til lørdag. En person var bevisstløs og ble ivaretatt av helsepersonell.\n\n– Fornærmede våknet og avga forklaring til politiet på stedet. Politiet har ikke kontroll på gjerningspersonene, opplyser...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/voldshendelse-i-drammen-1.17954954",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-11T02:47:13.604Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783724391983.4602,
       "title": "Cubas strømnett bryter sammen for andre gang på få dager",
       "slug": "cubas-strmnett-bryter-sammen-for-andre-gang-p-f-dager",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-08T21:08:57.300Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783544935634.2842,
-      "title": "Ordfører i Nuuk etter nye Trump-utspill: – Vi er lei denne respektløsheten",
-      "slug": "ordfrer-i-nuuk-etter-nye-trumputspill-vi-er-lei-denne-respek",
-      "content": "Donald Trump gjentok i går sitt kontroversielle krav om at USA må ha kontroll over Grønland.\n\n– Jeg synes det er utrolig at vi igjen skal måtte gjenta oss. Vi er lei av denne respektløsheten, sier Nuuk-ordfører Avaaraq S. Olsen til NRK.\n\nTrump har vist til sikkerhetshensyn som hovedårsak for at USA må kontrollere Grønland.\n\n– Løgnene blir nødt til å stoppe. Det er ikke russiske og kinesiske skip utenfor Grønland. De truer oss ikke, det er det amerikanerne som gjør, sier Olsen, og legger til:\n\n– Tenk at det finnes politikere i 2026 som ikke respekterer andres nei. Jeg har ikke ord.\n\nDanmarks statsminister Mette Frederiksen slår fast at de vil forsvare hver eneste del av Nato og kongeriket Danmark.\n\nGrønland\n\nGrønland er en del av Danmark, men har selvstyre. Landet har den siste tiden vært under stort press etter at Donald Trump har truet med at USA skal overta øya.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Donald Trump gjentok i går sitt kontroversielle krav om at USA må ha kontroll over Grønland.\n\n– Jeg synes det er utrolig at vi igjen skal måtte gjenta oss. Vi er lei av denne respektløsheten, sier Nuuk-ordfører Avaaraq S. Olsen til NRK.\n\nTrump har vist til sikkerhetshensyn som hovedårsak for at USA...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ordforer-i-nuuk-etter-nye-trump-utspill_-_-vi-er-lei-denne-respektlosheten-1.17952415",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-08T21:08:55.634Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783544934004.2388,
-      "title": "Ber folk følge med på eldre som bor alene",
-      "slug": "ber-folk-flge-med-p-eldre-som-bor-alene",
-      "content": "Kommuneoverlege Eirik Hatterud i Vennesla ber folk om å følge ekstra godt med på eldre som bor alene uten kontinuerlig tilsyn. Det skriver Vennesla Tidende.\n\nUnder forrige heteperiode registrerte legevakten flere tilfeller av dehydrering blant eldre, ettersom mange mister tørstefølelsen og glemmer å drikke.\n\n– Selv om de fleste klarer seg fint, minner det oss om at høye temperaturer kan gi helseutfordringer dersom man ikke tar noen enkle forholdsregler, sier Hatterud til avisa.",
-      "excerpt": "Kommuneoverlege Eirik Hatterud i Vennesla ber folk om å følge ekstra godt med på eldre som bor alene uten kontinuerlig tilsyn. Det skriver Vennesla Tidende.\n\nUnder forrige heteperiode registrerte legevakten flere tilfeller av dehydrering blant eldre, ettersom mange mister tørstefølelsen og glemmer...",
-      "image": null,
-      "original_url": "https://www.nrk.no/sorlandet/ber-folk-folge-med-pa-eldre-som-bor-alene--1.17952438",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-08T21:08:54.005Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783538833957.5745,
-      "title": "Etterlatte krever gransking av Ice-drap i Houston",
-      "slug": "etterlatte-krever-gransking-av-icedrap-i-houston",
-      "content": "Sønnen til mannen som ble drept av Ice-betjenter i Houston i Texas tirsdag, krever en fullstendig og uavhengig gransking av hendelsen.\n\nLorenzo Salgado Araujo ble skutt og drept av en betjent fra det amerikanske immigrasjonsbyrået (Ice) i Houston i Texas tirsdag.\n\nDet er den siste i en rekke dødelige hendelser som amerikanske immigrasjonsbetjenter har vært involvert i.\n\nFlankert av flere kongressmedlemmer, ledere for latinamerikanske interesseorganisasjoner og lokale Houston-politikere, krevde Ronaldo «en fullstendig gransking» av drapet på faren.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Sønnen til mannen som ble drept av Ice-betjenter i Houston i Texas tirsdag, krever en fullstendig og uavhengig gransking av hendelsen.\n\nLorenzo Salgado Araujo ble skutt og drept av en betjent fra det amerikanske immigrasjonsbyrået (Ice) i Houston i Texas tirsdag.\n\nDet er den siste i en rekke...",
-      "image": "https://images.unsplash.com/photo-1612341532792-163c0f2f2de6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM1Mzg4MzN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/etterlatte-krever-gransking-av-ice-drap-i-houston-1.17952396",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-08T19:27:13.957Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2231,
+    "totalFetched": 2234,
     "totalPublished": 77,
-    "lastFetch": "2026-07-10T22:59:54.556Z",
+    "lastFetch": "2026-07-11T02:47:18.906Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
