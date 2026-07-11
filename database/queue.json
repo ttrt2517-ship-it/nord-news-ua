@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783750482595.0667,
+      "title": "To personer til sykehus etter bilulykke ved Levanger",
+      "slug": "to-personer-til-sykehus-etter-bilulykke-ved-levanger",
+      "content": "To personer er sendt til sykehus etter en bilulykke ved Levanger i Trøndelag natt til lørdag. Bilen kolliderte i et tre.\n\n– Bilen har hatt et kraftig sammenstøt med treet, men de involverte skal ikke være livstruende skadd, opplyser operasjonsleder Trond Hangaas i Trøndelag politidistrikt.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "To personer er sendt til sykehus etter en bilulykke ved Levanger i Trøndelag natt til lørdag. Bilen kolliderte i et tre.\n\n– Bilen har hatt et kraftig sammenstøt med treet, men de involverte skal ikke være livstruende skadd, opplyser operasjonsleder Trond Hangaas i Trøndelag...",
+      "image": "https://images.unsplash.com/photo-1752492071653-010a95d865a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM3NTA0ODJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-personer-til-sykehus-etter-bilulykke-ved-levanger--1.17954960",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-11T06:14:42.595Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783750480960.646,
+      "title": "Trump advarer Iran om angrep om de prøver å ta livet av ham",
+      "slug": "trump-advarer-iran-om-angrep-om-de-prver-ta-livet-av-ham",
+      "content": "USAs president Donald Trump har gitt det amerikanske militæret ordre om å stå klart til massive angrep mot Iran.\n\nBakgrunnen er påståtte iranske planer om å ta livet av presidenten.\n\n– 1000 missiler er ferdigladet og rettet mot Den islamske republikk Iran, med tusenvis flere som vil følge umiddelbart, dersom den iranske regjeringen gjør alvor av sin trussel om å drepe, eller forsøke å drepe den sittende presidenten i USA, i dette tilfellet MEG!, skriver Trump på Truth Social lørdag morgen norsk tid.\n\nUttalelsen kommer som en direkte reaksjon etter at amerikanske medier tidligere i uken meldte at Israel har delt etterretning om at ny og konkret iransk plan om å ta livet president Trump.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
+      "excerpt": "USAs president Donald Trump har gitt det amerikanske militæret ordre om å stå klart til massive angrep mot Iran.\n\nBakgrunnen er påståtte iranske planer om å ta livet av presidenten.\n\n– 1000 missiler er ferdigladet og rettet mot Den islamske republikk Iran, med tusenvis flere som vil følge...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-advarer-iran-om-angrep-om-de-prover-a-ta-livet-av-ham-1.17954961",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-11T06:14:40.960Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783750479105.0593,
+      "title": "Hus i full brann i Halden",
+      "slug": "hus-i-full-brann-i-halden",
+      "content": "Nødetatene har rykket ut til en bolig i Halden tidlig lørdag morgen.\n\nHuset er i full brann, men personen som bor på adressen, har evakuert seg selv.\n\nDet er ingen andre i huset. Det er heller ikke meldt om personskade.\n\nBrannen har tilsynelatende startet på en terasse, ifølge operasjonsleder Fredrik Solbakken i Øst politidistrikt.",
+      "excerpt": "Nødetatene har rykket ut til en bolig i Halden tidlig lørdag morgen.\n\nHuset er i full brann, men personen som bor på adressen, har evakuert seg selv.\n\nDet er ingen andre i huset. Det er heller ikke meldt om personskade.\n\nBrannen har tilsynelatende startet på en terasse, ifølge operasjonsleder...",
+      "image": "https://images.unsplash.com/photo-1751819533536-e7871e1ddf7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM3NTA0Nzl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/hus-i-full-brann-i-halden-1.17954967",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-11T06:14:39.105Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783738037347.184,
       "title": "Eldre mann savnet i Skien – politiet setter i gang leteaksjon",
       "slug": "eldre-mann-savnet-i-skien-politiet-setter-i-gang-leteaksjon",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-09T03:28:43.816Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783552166888.3909,
-      "title": "Melding om mulig brann i boligblokk i Trondheim",
-      "slug": "melding-om-mulig-brann-i-boligblokk-i-trondheim",
-      "content": "Nødetatene rykker ut til en boligbrann på Brundalen i Trondheim.\n\nJostein Tangen ved 110-sentralen Midt-Norge forteller at en person fra utsiden har hørt en brannvarsler og mente han har observert røyk fra taket på en boligblokk på tre etasjer.\n\nDet kom først melding om at brannen var på Vikhammer i Malvik, men de hadde fått feil adresse.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "Nødetatene rykker ut til en boligbrann på Brundalen i Trondheim.\n\nJostein Tangen ved 110-sentralen Midt-Norge forteller at en person fra utsiden har hørt en brannvarsler og mente han har observert røyk fra taket på en boligblokk på tre etasjer.\n\nDet kom først melding om at brannen var på Vikhammer...",
-      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM1NTIxNjZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/trondelag/melding-om-mulig-brann-i-boligblokk-i-trondheim-1.17952474",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-08T23:09:26.888Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783552165101.3325,
-      "title": "MC-fører omkom i trafikkulykke i Kongsvinger",
-      "slug": "mcfrer-omkom-i-trafikkulykke-i-kongsvinger",
-      "content": "En MC-fører i 20 årene omkom i en møteulykke mellom en motorsykkel og en personbil i Kongsvinger onsdag kveld, det opplyser politiet i Innlandet.\n\nDet pågår undersøkelser på stedet, og veien vil forbli stengt en stund.\n\n20-åring omkom etter en møteulykke mellom motorsykkel og personbil.",
-      "excerpt": "En MC-fører i 20 årene omkom i en møteulykke mellom en motorsykkel og en personbil i Kongsvinger onsdag kveld, det opplyser politiet i Innlandet.\n\nDet pågår undersøkelser på stedet, og veien vil forbli stengt en stund.\n\n20-åring omkom etter en møteulykke mellom motorsykkel og personbil.",
-      "image": "https://images.unsplash.com/photo-1683797466570-ccaab622991a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM1NTIxNjV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/mc-forer-omkom-i-trafikkulykke-i-kongsvinger-1.17952484",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-08T23:09:25.101Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783544937300.8481,
-      "title": "AG Tunnel konkurs – 80 tilsette ramma",
-      "slug": "ag-tunnel-konkurs-80-tilsette-ramma",
-      "content": "Tunnelentreprenøren AG Tunnel har gått konkurs etter ein lengre periode med økonomiske problem.\n\nI midten av juni meldte selskapet at dei skulle gjennomføre ein rekonstruksjon for å få kontroll på økonomien. Det klarte dei ikkje.\n\n– Målet har heile tida vore å redde selskapet og dette har me jobba hardt for å få til, heilt fram til konkursen var eit faktum, seier dagleg leiar Frode Johan Bjørdal til E24.\n\nStyreleiar Frode Michal Nilsen i AG Tunnel fremmar konflikten med den konkursramma entreprenøren Bertelsen & Garpestad som årsaka til at AG Tunnel gjekk konkurs.\n\n– Då Bertelsen & Garpestad gjekk konkurs, var det spikaren i kista for oss, seier Nilsen til E24.\n\nKonflikten mellom dei to entreprenørane oppstod i samband med oppgradering av tunnelane på Haukelifjellet på E134 for Statens vegvesen.\n\nTvisten enda i retten og AG Tunnel vart tilkjent rundt 30 millionar kroner i erstatning. På grunn av B&G sin konkurs, fekk AG Tunnel aldri utbetalt erstatninga, skriv E24.\n\nØkonomi og næringsliv i Vestland\n\nSiste nytt om økonomi og næringsliv i Vestland.",
-      "excerpt": "Tunnelentreprenøren AG Tunnel har gått konkurs etter ein lengre periode med økonomiske problem.\n\nI midten av juni meldte selskapet at dei skulle gjennomføre ein rekonstruksjon for å få kontroll på økonomien. Det klarte dei ikkje.\n\n– Målet har heile tida vore å redde selskapet og dette har me jobba...",
-      "image": null,
-      "original_url": "https://www.nrk.no/vestland/ag-tunnel-konkurs-_-80-tilsette-ramma-1.17952335",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-08T21:08:57.300Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2234,
+    "totalFetched": 2237,
     "totalPublished": 77,
-    "lastFetch": "2026-07-11T02:47:18.906Z",
+    "lastFetch": "2026-07-11T06:14:44.418Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
