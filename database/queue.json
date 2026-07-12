@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783849917432.4526,
+      "title": "Jordan rammet av iransk missilangrep",
+      "slug": "jordan-rammet-av-iransk-missilangrep",
+      "content": "Tre iranske missiler rammet ved daggry jordansk territorium, ifølge en uttalelse fra Jordans hær.\n\nMissilene skal ha truffet ulike deler av landet, men det er ikke meldt om personskader. Det er kun snakk om materielle skader, ifølge hæren.\n\nIranske myndigheter har ikke kommentert saken, men angrepet skjer samtidig som krigføringen mellom Iran og USA har tatt seg opp igjen.\n\nMens amerikanske styrker har gjennomført flere angrep mot Iran, har Iran svart med å angripe flere amerikanske mål i ulike Golfland.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Tre iranske missiler rammet ved daggry jordansk territorium, ifølge en uttalelse fra Jordans hær.\n\nMissilene skal ha truffet ulike deler av landet, men det er ikke meldt om personskader. Det er kun snakk om materielle skader, ifølge hæren.\n\nIranske myndigheter har ikke kommentert saken, men...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/jordan-rammet-av-iransk-missilangrep-1.17955804",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-12T09:51:57.432Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783849915729.8225,
+      "title": "Indisk statsborger savnet etter angrep mot skip utenfor Oman",
+      "slug": "indisk-statsborger-savnet-etter-angrep-mot-skip-utenfor-oman",
+      "content": "En indisk statsborger er savnet etter at handelsskipet GFS Galaxy ble rammet av et angrep utenfor kysten av Oman tidlig søndag.\n\nDet opplyser det indiske utenriksdepartementet, ifølge Reuters.\n\n– Av de elleve indiske statsborgerne om bord, er ti blitt reddet så langt, mens én indisk statsborger er savnet, heter det.\n\nIndia fordømmer angrepet, og landets ambassade i Oman sier de følger situasjonen nøye. De samarbeider også med omanske myndigheter om redningsarbeidet.\n\nIran hevdet tidligere søndag at de hadde avfyrt et varselsskudd som traff et fartøy som seilte en rute som ikke var godkjent.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "En indisk statsborger er savnet etter at handelsskipet GFS Galaxy ble rammet av et angrep utenfor kysten av Oman tidlig søndag.\n\nDet opplyser det indiske utenriksdepartementet, ifølge Reuters.\n\n– Av de elleve indiske statsborgerne om bord, er ti blitt reddet så langt, mens én indisk statsborger er...",
+      "image": "https://images.unsplash.com/photo-1752492071653-010a95d865a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM4NDk5MTV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/indisk-statsborger-savnet-etter-angrep-mot-skip-utenfor-oman-1.17955833",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-12T09:51:55.729Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783849913755.3206,
+      "title": "Søk etter savnet mann i Øvre Eiker",
+      "slug": "sk-etter-savnet-mann-i-vre-eiker",
+      "content": "Politiet har lett gjennom deler av natten etter en savnet mann i Øvre Eiker.\n\nDet ble besluttet søk etter funn av eiendeler, og en redningsaksjon ble i iverksatt.\n\nFrivillige har vært i aksjon og søkt både til lands og vanns, melder politiet.\n\nRundt kl. 02.00 ble det aktive søket avsluttet, men politiet jobber fortsatt med videre med etterforskningsskritt.\n\nUt ifra dette vil det bli vurdert om søket skal tas opp igjen, melder politiet.",
+      "excerpt": "Politiet har lett gjennom deler av natten etter en savnet mann i Øvre Eiker.\n\nDet ble besluttet søk etter funn av eiendeler, og en redningsaksjon ble i iverksatt.\n\nFrivillige har vært i aksjon og søkt både til lands og vanns, melder politiet.\n\nRundt kl. 02.00 ble det aktive søket avsluttet, men...",
+      "image": "https://images.unsplash.com/photo-1612438107537-8db2e8abae8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM4NDk5MTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/buskerud/sok-etter-savnet-mann-i-ovre-eiker-1.17955889",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-12T09:51:53.756Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783838044047.5618,
       "title": "Tre drept i russisk droneangrep i Ukraina",
       "slug": "tre-drept-i-russisk-droneangrep-i-ukraina",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-10T07:37:25.942Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783669044355.746,
-      "title": "Droneangrep mot oljeraffineri i Russland",
-      "slug": "droneangrep-mot-oljeraffineri-i-russland",
-      "content": "Det russiske oljeraffineriet Ilskij i den sørlige Krasnodar-regionen ble fredag rammet av et droneangrep, noe som førte til brann.\n\nDet opplyser lokale myndigheter på meldingsappen Telegram fredag morgen, ifølge Reuters.\n\nDet er foreløpig ingen informasjon om at noen ble skadet i angrepet, står det videre.\n\nSamtidig jobbes det med å slukke to branner ved to drivstofflagre og ved Taganrog havn i Rostov-regionen, ifølge guvernør Jurij Sljusar, som melder om det på Telegram.\n\nDet russiske luftforsvaret hevder å ha skutt ned 376 ukrainske droner i løpet av natten.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Det russiske oljeraffineriet Ilskij i den sørlige Krasnodar-regionen ble fredag rammet av et droneangrep, noe som førte til brann.\n\nDet opplyser lokale myndigheter på meldingsappen Telegram fredag morgen, ifølge Reuters.\n\nDet er foreløpig ingen informasjon om at noen ble skadet i angrepet, står det...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/droneangrep-mot-oljeraffineri-i-russland-1.17953907",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-10T07:37:24.355Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783669042744.7275,
-      "title": "Prisene har steget 2,7 prosent det siste året",
-      "slug": "prisene-har-steget-27-prosent-det-siste-ret",
-      "content": "Det viser konsumprisindeksen til Statstisk sentralbyrå (SSB), som har sett på prisstigningen mellom juni i fjor og juni i år.\n\nOm man sammenligner prisveksten med forrige måned, er det en nedgang på 0,2 prosent.\n\nJuni er tredje måned på rad med dempet prisvekst i Norge. Økte priser på mat og elektronikk er blant de viktigste årsakene til nedgangen den siste måneden.\n\nMatvareprisene steg 0,3 prosent fra mai til juni. På samme tid i fjor steg prisene 1,4 prosent, ifølge SSB.\n\nSom følge av tekniske problemer den siste uken kommer ikke SSB med fullstendig statistikk fredag morgen.\n\nKjerneinflasjonen, som er prisveksten uten avgifter og strøm, blir ikke publisert som normalt.\n\nNorsk økonomi\n\nPrisene stiger i Norge. Spesielt stor er økningen i drivstoffprisene. Tall fra SSB viser at drivstoffprisene har økt med 14,7 prosent siden samme tid i fjor.",
-      "excerpt": "Det viser konsumprisindeksen til Statstisk sentralbyrå (SSB), som har sett på prisstigningen mellom juni i fjor og juni i år.\n\nOm man sammenligner prisveksten med forrige måned, er det en nedgang på 0,2 prosent.\n\nJuni er tredje måned på rad med dempet prisvekst i Norge. Økte priser på mat og...",
-      "image": "https://images.unsplash.com/photo-1738574603764-bbe948d18fbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM2NjkwNDJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/prisene-har-steget-2_7-prosent-det-siste-aret-1.17953936",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-10T07:37:22.745Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783654278219.5908,
-      "title": "Huseier forskanset seg på soverommet etter grevling-drama",
-      "slug": "huseier-forskanset-seg-p-soverommet-etter-grevlingdrama",
-      "content": "Politiet mottok en høyst uvanlig nødtelefon fra en fortvilet huseier på Lohove i Trondheim etter at tre grevlinger tok seg inn i boligen via en katteluke natt til fredag.\n\nInne i huset oppstod det fullt kaos for de firbente. En katt evakuerte seg selv opp på kjøkkenbenken, mens en annen pilte ut samme vei som grevlingene kom inn.\n\n– Huseieren så seg nødt til å forskanse seg på et soverom etter at en av grevlingene oppførte seg aggressivt og freste, forteller operasjonsleder Stian Martinsen Aalberg i Trøndelag politidistrikt til NRK.\n\nPolitiet hadde ingen ledige patruljer i området, og det var til slutt viltnemnda som rykket ut og fikk de ubudne gjestene ut av huset.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "Politiet mottok en høyst uvanlig nødtelefon fra en fortvilet huseier på Lohove i Trondheim etter at tre grevlinger tok seg inn i boligen via en katteluke natt til fredag.\n\nInne i huset oppstod det fullt kaos for de firbente. En katt evakuerte seg selv opp på kjøkkenbenken, mens en annen pilte ut...",
-      "image": "https://images.unsplash.com/photo-1662710629511-7fe0705049ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM2NTQyNzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/huseier-forskanset-seg-pa-soverommet-etter-grevling-drama-1.17953847",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-10T03:31:18.219Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2262,
+    "totalFetched": 2265,
     "totalPublished": 77,
-    "lastFetch": "2026-07-12T06:34:05.311Z",
+    "lastFetch": "2026-07-12T09:51:58.663Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
