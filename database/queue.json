@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1783953476085.1877,
+      "title": "CNN: En person skutt og drept av ICE i USA",
+      "slug": "cnn-en-person-skutt-og-drept-av-ice-i-usa",
+      "content": "En person ble drept i en skyteepisode mandag, der den amerikanske immigrasjons- og tollmyndigheten ICE var involvert i Biddeford i Maine, ifølge delstatens parlamentspresident.\n\nDette skjer bare dager etter at en ICE-betjent skjøt og drepte en meksikansk immigrant under en trafikkontroll i Houston, ifølge CNN.\n\n«Delstatspolitiet og departementet for offentlig sikkerhet er nå på stedet for å samle informasjon, og det er forventet at også FBI vil etterforske saken,» sa parlamentspresidenten i Maine, Ryan Fecteau, i en uttalelse på Facebook.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "En person ble drept i en skyteepisode mandag, der den amerikanske immigrasjons- og tollmyndigheten ICE var involvert i Biddeford i Maine, ifølge delstatens parlamentspresident.\n\nDette skjer bare dager etter at en ICE-betjent skjøt og drepte en meksikansk immigrant under en trafikkontroll i Houston...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/cnn_-en-person-skutt-og-drept-av-ice-i-usa-1.17956917",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-13T14:37:56.085Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783953474278.6987,
+      "title": "Oljestreiken fortsetter",
+      "slug": "oljestreiken-fortsetter",
+      "content": "Det er fortsatt ingen løsning på streiken rundt brønnserviceavtalen, etter et møte mellom Safe og Offshore Norge hos Riksmekleren mandag.\n\n– Ingen løsning. Streiken fortsetter, skriver kommunikasjonsleder Kolbjørn Andreassen i Offshore Norge i en tekstmelding til NTB.\n\nStreiken har snart vart en måned, og Riksmekleren kalte derfor partene inn til et på pålagt møte.\n\nOver 400 oljearbeidere som er medlem av Safe er tatt ut i streik. I tillegg har Offshore Norge satt i gang en lockout som rammer 1000 Safe-medlemmer.\n\nIfølge Stavanger Aftenblad rammes også tredjeparter, slik at over 2000 oljearbeidere er direkte eller indirekte berørt av konflikten.",
+      "excerpt": "Det er fortsatt ingen løsning på streiken rundt brønnserviceavtalen, etter et møte mellom Safe og Offshore Norge hos Riksmekleren mandag.\n\n– Ingen løsning. Streiken fortsetter, skriver kommunikasjonsleder Kolbjørn Andreassen i Offshore Norge i en tekstmelding til NTB.\n\nStreiken har snart vart en...",
+      "image": "https://images.unsplash.com/photo-1698171474543-00caa2d153d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM5NTM0NzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/oljestreiken-fortsetter-1.17956933",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-13T14:37:54.278Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1783953472427.497,
+      "title": "FN advarer: El Niño ser ut til å bli enda verre enn sist",
+      "slug": "fn-advarer-el-nio-ser-ut-til-bli-enda-verre-enn-sist",
+      "content": "Ekstrem varme, tørke og flom kommer til å ødelegge områder i Latin-Amerika, Afrika og Stillehavet grunnet årets El Niño, advarer FNs nødhjelpssjef, Tom Fletcher.\n\nEl Niño er et værfenomen som oppstår naturlig med to til sju års mellomrom når overflatevannet i deler av Stillehavet blir unormalt varmt.\n\nTitalls millioner mennesker ble rammet av den forrige El Niño i 2023 og 2024.\n\n– Prognosene er tydelige, denne runden ser enda verre ut, ifølge Fletcher.\n\nFN er klare for å frigjøre 100 millioner dollar, tilsvarende rundt 978 millioner kroner, fra nødhjelpsfondet CERF i forkant av El Niño.\n\nI tillegg er FN i beredskap, og over 20 millioner dollar er allerede satt til beredskap i seks ulike land.\n\nKlima og miljø\n\nVerden opplever allerede klimaendringene, slår FNs klimapanel fast. Mer ekstremvær, høyere havnivå og økte helseproblemer er noen av konsekvensene, ifølge deres siste hovedrapport.",
+      "excerpt": "Ekstrem varme, tørke og flom kommer til å ødelegge områder i Latin-Amerika, Afrika og Stillehavet grunnet årets El Niño, advarer FNs nødhjelpssjef, Tom Fletcher.\n\nEl Niño er et værfenomen som oppstår naturlig med to til sju års mellomrom når overflatevannet i deler av Stillehavet blir unormalt...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/fn-advarer_-el-nino-ser-ut-til-a-bli-enda-verre-enn-sist-1.17956946",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-13T14:37:52.428Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783941197447.591,
       "title": "Norway appoints committee to review immigrant healthcare barriers",
       "slug": "norway-appoints-committee-to-review-immigrant-healthcare-bar",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-11T09:38:48.416Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783762726792.47,
-      "title": "Gult farevarsel for lyn på Sør- og Østlandet",
-      "slug": "gult-farevarsel-for-lyn-p-sr-og-stlandet",
-      "content": "Meteorologisk institutt har sendt ut gult farevarsel for tordenvær med mye lyn i deler av Sør- og Østlandet. Varselet gjelder fra klokken 16 til klokken 20, lørdag ettermiddag.\n\nTordenværet starter først i nord og vest og trekker gradvis østover utover ettermiddagen og kvelden.\n\nStatsmeteorolog Rebekka Steene sier at de har hatt litt lavere terskel for å sende ut farevarsel siden de vet at det kommer til å være mye folk ute i gatene.\n\n– Bakgrunnen er at vi vet at hvis det kommer mye lyn der mange folk samles, kan det være farlig. Derfor vil vi at folk skal følge med på situasjonen, sier hun.  Det vil være forskjeller i intensiteten på været, og noen steder vil ikke få tordenvær.\n\nAnna Flo Kandal og Victoria Bøe Fotland sitter i campingstoler og T-skjorter og venter på å komme inn på Spikersuppa i Oslo.\n\n– Victoria her har kjøpt poncho for ti kroner til seg selv, sier Kandal og ler.\n\n– Vi så at det var telt på området, så vi håper at vi kommer inn før det starter å regne og tordner, sier Fotland.",
-      "excerpt": "Meteorologisk institutt har sendt ut gult farevarsel for tordenvær med mye lyn i deler av Sør- og Østlandet. Varselet gjelder fra klokken 16 til klokken 20, lørdag ettermiddag.\n\nTordenværet starter først i nord og vest og trekker gradvis østover utover ettermiddagen og kvelden.\n\nStatsmeteorolog...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/gult-farevarsel-for-lyn-pa-sor--og-ostlandet-1.17955076",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-11T09:38:46.792Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783762725231.723,
-      "title": "Kapret køplass 15 timer før avspark",
-      "slug": "kapret-kplass-15-timer-fr-avspark",
-      "content": "Diop Mohamed (21), Elias Berge (21), Martinus Heistad (21) og Yoonis Ibsen (23) har reist fra Risør for å oppleve folkefesten i Oslo når Norge møter England til historisk kvartfinale i VM lørdag kveld.\n\nAllerede 15 timer før avspark har de benket seg i kø ved Slottsparken, i håp om å sikre seg et bord når «Fotball i Parken» åpner dørene klokken 15.\n\n– Det var seigt å komme seg opp, for vi så kamp i går også. Vi var her kvart over åtte, men én av oss dro i forveien for å kapre plass i køen. Han var her kvart på åtte, sier Diop til NRK.\n\n– Vi måtte til Oslo for å oppleve folkemengdene, legger han til.\n\nMed seg har kompisgjengen kjølebag og billige plaststoler – det blir tross alt en lang dag med mye venting.\n\n– Og så tar vi skift på å hente ny mat og drikke, sier Diop.\n\nPå spørsmål om hva de forventer fra kampen, svarer Elias kjapt:\n\nVM-folkefesten 2026\n\nEtter 28 år er det norske fotballandslaget igjen klar for VM. Her kan du følge folkefesten.\nDel dine bilder/videoer fra folkefesten",
-      "excerpt": "Diop Mohamed (21), Elias Berge (21), Martinus Heistad (21) og Yoonis Ibsen (23) har reist fra Risør for å oppleve folkefesten i Oslo når Norge møter England til historisk kvartfinale i VM lørdag kveld.\n\nAllerede 15 timer før avspark har de benket seg i kø ved Slottsparken, i håp om å sikre seg et...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kapret-koplass-15-timer-for-avspark-1.17955054",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-11T09:38:45.232Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783750482595.0667,
-      "title": "To personer til sykehus etter bilulykke ved Levanger",
-      "slug": "to-personer-til-sykehus-etter-bilulykke-ved-levanger",
-      "content": "To personer er sendt til sykehus etter en bilulykke ved Levanger i Trøndelag natt til lørdag. Bilen kolliderte i et tre.\n\n– Bilen har hatt et kraftig sammenstøt med treet, men de involverte skal ikke være livstruende skadd, opplyser operasjonsleder Trond Hangaas i Trøndelag politidistrikt.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "To personer er sendt til sykehus etter en bilulykke ved Levanger i Trøndelag natt til lørdag. Bilen kolliderte i et tre.\n\n– Bilen har hatt et kraftig sammenstøt med treet, men de involverte skal ikke være livstruende skadd, opplyser operasjonsleder Trond Hangaas i Trøndelag...",
-      "image": "https://images.unsplash.com/photo-1752492071653-010a95d865a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM3NTA0ODJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/to-personer-til-sykehus-etter-bilulykke-ved-levanger--1.17954960",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-11T06:14:42.595Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2286,
+    "totalFetched": 2289,
     "totalPublished": 77,
-    "lastFetch": "2026-07-13T11:13:18.449Z",
+    "lastFetch": "2026-07-13T14:37:58.002Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
