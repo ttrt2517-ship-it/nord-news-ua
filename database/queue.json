@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1783976267425.973,
+      "title": "Flere besvimte ved Slottsplassen -nær 100.000 har møtt opp",
+      "slug": "flere-besvimte-ved-slottsplassen-nr-100000-har-mtt-opp",
+      "content": "Helsepersonell har hjulpet flere ut av folkemengden foran Slottet i Oslo etter at de har blitt for varme.\n\nOpp mot 100.000 mennesker har møtt opp for å hylle herrelandslaget i fotball for VM-innsatsen. Det er svært varmt, og rundt 29 grader i Oslo mandag kveld.\n\nMins én person er blitt båret ut av mengden av helsepersonell og politi.\n\n– Det er varmen. Det er ikke noe annet drama enn at de har følt seg dårlige og blitt hjulpet ut så de får tilsyn, sier operasjonsleder Sven Christian Maximilian Lie til NTB.\n\n– Vi sender nå ekstra utstyr, og Røde Kors og Norsk Folkehjelp er der for å bistå oss. Vi var noe underdimensjonert for dette, sier han til avisa.\n\nMinst tre personer har fått tilsyn av helsepersonell, totalt. Noen har klart å gå ut av mengden på egen maskin, med hjelp av helsepersonell.\n\nUtover dette melder politiet at det ikke har vært noen hendelser av uønsket art.\n\n– Det virker som det er stor glede. Men det er klart at denne varmen, og det å stå tett i tett kan være ubehagelig. At noen faller om, må vi kanskje regne med uten at det er noe drama i det, sier Lie.\n\nVM-folkefesten 2026\n\nDe norske fotballherrene skal mandag kveld møte kongen på Slottet og feires i Oslo. Lørdag røk landslaget ut av VM etter en dramatisk kvartfinale mot England.\nDel dine bilder/videoer fra folkefesten",
+      "excerpt": "Helsepersonell har hjulpet flere ut av folkemengden foran Slottet i Oslo etter at de har blitt for varme.\n\nOpp mot 100.000 mennesker har møtt opp for å hylle herrelandslaget i fotball for VM-innsatsen. Det er svært varmt, og rundt 29 grader i Oslo mandag kveld.\n\nMins én person er blitt båret ut av...",
+      "image": "https://images.unsplash.com/photo-1660587959651-ea8e29dbad22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM5NzYyNjd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/flere-besvimte-ved-slottsplassen--naer-100.000-har-mott-opp-1.17957187",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-13T20:57:47.425Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783970827378.2725,
       "title": "How to check the water quality when swimming in Norway",
       "slug": "how-to-check-the-water-quality-when-swimming-in-norway",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-11T16:59:36.969Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783781739204.0464,
-      "title": "Alvorlig trafikkulykke mellom buss og bil i Skien",
-      "slug": "alvorlig-trafikkulykke-mellom-buss-og-bil-i-skien",
-      "content": "– Ulykken er alvorlig og veien vil bli stengt i flere timer, skriver politiet.\n\nEn person var fastklemt i bilen, men er nå frigjort.\n\n– Luftambulanse er på stedet, skriver operasjonsleder Eskil Hagen Olsen.\n\nEn buss og en bil har kollidert i Skien kommune: – Ulykken er alvorlig og veien vil bli stengt i flere timer, skriver politiet.",
-      "excerpt": "– Ulykken er alvorlig og veien vil bli stengt i flere timer, skriver politiet.\n\nEn person var fastklemt i bilen, men er nå frigjort.\n\n– Luftambulanse er på stedet, skriver operasjonsleder Eskil Hagen Olsen.\n\nEn buss og en bil har kollidert i Skien kommune: – Ulykken er alvorlig og veien vil bli...",
-      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM3ODE3Mzl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/alvorlig-trafikkulykke-mellom-buss-og-bil-i-skien-1.17955258",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-11T14:55:39.204Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2296,
+    "totalFetched": 2297,
     "totalPublished": 77,
-    "lastFetch": "2026-07-13T19:27:08.379Z",
+    "lastFetch": "2026-07-13T20:57:49.710Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
