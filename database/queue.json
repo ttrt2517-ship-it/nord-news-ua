@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1783911410493.3713,
+      "title": "Flere såret i russisk droneangrep i Zaporizjzja-regionen",
+      "slug": "flere-sret-i-russisk-droneangrep-i-zaporizjzjaregionen",
+      "content": "Russisk droneangrep mot Zaporizjzja-regionen søndag kveld førte til flere personer ble såret, skriver byens guvernør Ivan Fedorov på meldingstjenesten Telegram.\n\nFlere boligblokker er skadet i angrepene. Også et sykehus ble påført skader, der vinduene ble blåst ut.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Russisk droneangrep mot Zaporizjzja-regionen søndag kveld førte til flere personer ble såret, skriver byens guvernør Ivan Fedorov på meldingstjenesten Telegram.\n\nFlere boligblokker er skadet i angrepene. Også et sykehus ble påført skader, der vinduene ble blåst ut.\n\nKrigen i Ukraina\n\nRussland...",
+      "image": "https://images.unsplash.com/photo-1750261346670-87ee500250d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM5MTE0MTB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flere-saret-i-russisk-droneangrep-i-zaporizjzja-regionen-1.17956272",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-13T02:56:50.493Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783896706473.3691,
       "title": "Trafikkulykke i Nordre Follo: Tenåring påkjørt av bil",
       "slug": "trafikkulykke-i-nordre-follo-tenring-pkjrt-av-bil",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-10T22:59:50.370Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783724388758.141,
-      "title": "Flere døde da småfly styrtet på Bahamas",
-      "slug": "flere-dde-da-smfly-styrtet-p-bahamas",
-      "content": "Flere personer mistet livet da et tomotors propellfly fra Flamingo Air styrtet ved North Andros på Bahamas fredag. Det var sju personer om bord, og kun én overlevde ulykken med alvorlige skader. Statsministeren bekrefter at det er omkomne, og luftfartsmyndighetene har midlertidig inndratt flyselskapets lisens mens ulykken etterforskes, skriver NTB.\n\nBahamas\n\nBahamas er en karibisk øystat som ligger i Atlanterhavet, nord for Cuba og sørøst for Florida i USA.",
-      "excerpt": "Flere personer mistet livet da et tomotors propellfly fra Flamingo Air styrtet ved North Andros på Bahamas fredag. Det var sju personer om bord, og kun én overlevde ulykken med alvorlige skader. Statsministeren bekrefter at det er omkomne, og luftfartsmyndighetene har midlertidig inndratt...",
-      "image": "https://images.unsplash.com/photo-1659424765812-c2932538a99a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM3MjQzODh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-dode-da-smafly-styrtet-pa-bahamas-1.17954932",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-10T22:59:48.759Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2278,
+    "totalFetched": 2279,
     "totalPublished": 77,
-    "lastFetch": "2026-07-12T22:51:47.926Z",
+    "lastFetch": "2026-07-13T02:56:52.512Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
