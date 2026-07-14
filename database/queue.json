@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1784069838257.1135,
+      "title": "Kåra årets unge jazzmusikarar",
+      "slug": "kra-rets-unge-jazzmusikarar",
+      "content": "Bandet «Sakte, fallende» er kåra til årets unge jazzmusikarar under Moldejazz tysdag.\n\nI finalen i konkurransen Jazzintro spelte dei mot andre unge musikarar i gruppene Idiotek, Wilhelm III og Unmothered om tittelen.\n\nI tillegg til prisen mottek «Sakte, fallende» ei lanseringspakke frå Norsk jazzforum som inneheld ein lengre festivalturné neste år og eit introprogram.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
+      "excerpt": "Bandet «Sakte, fallende» er kåra til årets unge jazzmusikarar under Moldejazz tysdag.\n\nI finalen i konkurransen Jazzintro spelte dei mot andre unge musikarar i gruppene Idiotek, Wilhelm III og Unmothered om tittelen.\n\nI tillegg til prisen mottek «Sakte, fallende» ei lanseringspakke frå Norsk...",
+      "image": null,
+      "original_url": "https://www.nrk.no/mr/kara-arets-unge-jazzmusikarar-1.17958382",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-14T22:57:18.257Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784062895011.4556,
       "title": "USAs sjøblokade mot Iran er iverksatt",
       "slug": "usas-sjblokade-mot-iran-er-iverksatt",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-12T16:59:48.694Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783868279220.5642,
-      "title": "Mann hentet opp av vannet",
-      "slug": "mann-hentet-opp-av-vannet",
-      "content": "En voksen mann er hentet opp av vannet etter en mulig drukningsulykke i Flekkefjord.\n\nNødetatene har rykket ut og luftambulanse er på vei.\n\nEn mann som ble hentet opp av vannet etter en mulig drukningsulykke i Flekkefjord, flys til sykehus.",
-      "excerpt": "En voksen mann er hentet opp av vannet etter en mulig drukningsulykke i Flekkefjord.\n\nNødetatene har rykket ut og luftambulanse er på vei.\n\nEn mann som ble hentet opp av vannet etter en mulig drukningsulykke i Flekkefjord, flys til sykehus.",
-      "image": "https://images.unsplash.com/photo-1732362129913-88a5a52958cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM4NjgyNzl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/sorlandet/mann-hentet-opp-av-vannet-1.17956015",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-12T14:57:59.220Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2318,
+    "totalFetched": 2319,
     "totalPublished": 77,
-    "lastFetch": "2026-07-14T21:01:37.661Z",
+    "lastFetch": "2026-07-14T22:57:20.559Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
