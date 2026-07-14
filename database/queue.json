@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1783996687192.6208,
+      "title": "Høyeste oljepris på en måned",
+      "slug": "hyeste-oljepris-p-en-mned",
+      "content": "Oljeprisen har steget til det høyeste nivået på fire uker etter at USA har gått til nye angrep mot Iran og varslet blokade av iranske havner.\n\nPrisen på nordsjøolje steg 1,68 dollar til 84,98 dollar fatet natt til tirsdag. Det er en oppgang på 2 prosent.\n\nAmerikansk lettolje gikk opp 2,1 prosent til 79,79 dollar fatet.\n\nDermed har oljeprisene steget til det høyeste nivået siden de to landene signerte en intensjonsavtale 17. juni som skulle legge grunnlag for en avslutning på krigen. (NTB)\n\nOljeprisen\n\nPrisen på nordsjøolje kan svinge kraftig, og påvirkes blant annet av kriger og konflikter i verden.",
+      "excerpt": "Oljeprisen har steget til det høyeste nivået på fire uker etter at USA har gått til nye angrep mot Iran og varslet blokade av iranske havner.\n\nPrisen på nordsjøolje steg 1,68 dollar til 84,98 dollar fatet natt til tirsdag. Det er en oppgang på 2 prosent.\n\nAmerikansk lettolje gikk opp 2,1 prosent...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/hoyeste-oljepris-pa-en-maned-1.17957280",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-14T02:38:07.192Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1783983409139.946,
       "title": "Ukraina: Missilangrep mot Kyiv",
       "slug": "ukraina-missilangrep-mot-kyiv",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-11T19:06:01.322Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783796759699.8093,
-      "title": "Alvorlig MC-ulykke i Indre Østfold",
-      "slug": "alvorlig-mculykke-i-indre-stfold",
-      "content": "Nødetatene har rykket ut til en ulykke på Rakkestadveien mellom Askim og Rakkestad, der en motorsykkel har kjørt av veien.\n\n– Ulykken framstår alvorlig, skriver operasjonsleder Rune Isaksen i Øst politidistrikt.\n\nVeien er stengt på ulykkesstedet og vil være det en god stund, melder politiet.",
-      "excerpt": "Nødetatene har rykket ut til en ulykke på Rakkestadveien mellom Askim og Rakkestad, der en motorsykkel har kjørt av veien.\n\n– Ulykken framstår alvorlig, skriver operasjonsleder Rune Isaksen i Øst politidistrikt.\n\nVeien er stengt på ulykkesstedet og vil være det en god stund, melder politiet.",
-      "image": "https://images.unsplash.com/photo-1654489519380-df012c053367?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM3OTY3NTl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/alvorlig-mc-ulykke-i-indre-ostfold-1.17955414",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-11T19:05:59.699Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2300,
+    "totalFetched": 2301,
     "totalPublished": 77,
-    "lastFetch": "2026-07-13T22:56:50.658Z",
+    "lastFetch": "2026-07-14T02:38:08.406Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
