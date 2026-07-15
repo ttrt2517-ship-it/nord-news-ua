@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1784096186009.6443,
+      "title": "32 døde etter brann på pub i Bangkok, ifølge myndighetene",
+      "slug": "32-dde-etter-brann-p-pub-i-bangkok-iflge-myndighetene",
+      "content": "32 personer har mistet livet i en brann på en pub i Bangkok natt til mandag, opplyser helsevesenet i Bankok onsdag.\n\n70 personer ble skadet, og 30 personer er fortsatt innlagt på sykehus, 15 av dem får intensivbehandling.\n\nBrannen på musikkbaren Rong Beer Na Ladprao nord i Bangkok er den dødeligste brannen i Thailands hovedstad på 17 år. Den brøt ut sent søndag, og brannvesenet brukte en halvtime på å få kontroll på flammene.\n\nEtterforskningen forsøker nå å undersøke om sikkerhetsregler ble fulgt.",
+      "excerpt": "32 personer har mistet livet i en brann på en pub i Bangkok natt til mandag, opplyser helsevesenet i Bankok onsdag.\n\n70 personer ble skadet, og 30 personer er fortsatt innlagt på sykehus, 15 av dem får intensivbehandling.\n\nBrannen på musikkbaren Rong Beer Na Ladprao nord i Bangkok er den dødeligste...",
+      "image": "https://images.unsplash.com/photo-1781444554216-60fa5ac34903?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQwOTYxODV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/32-dode-etter-brann-pa-pub-i-bangkok_-ifolge-myndighetene-1.17958456",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-15T06:16:26.009Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784096184415.5706,
+      "title": "Ukrainske myndigheter: Tre drept i russisk angrep mot Odesa",
+      "slug": "ukrainske-myndigheter-tre-drept-i-russisk-angrep-mot-odesa",
+      "content": "Tre personer skal være drept i et russisk angrep mot byen Odesa, ifølge lederen for den lokale militæradministrasjonen.\n\nYtterligere tre personer skal være såret i angrepet.\n\nRussland har de siste dagene trappet opp angrepene mot Ukrainas dypvannshavner i Odesa-området. Dette er havner som er viktige for utenrikshandelen og landets krigsøkonomi, skriver NTB.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Tre personer skal være drept i et russisk angrep mot byen Odesa, ifølge lederen for den lokale militæradministrasjonen.\n\nYtterligere tre personer skal være såret i angrepet.\n\nRussland har de siste dagene trappet opp angrepene mot Ukrainas dypvannshavner i Odesa-området. Dette er havner som er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukrainske-myndigheter_-tre-drept-i-russisk-angrep-mot-odesa-1.17958490",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-15T06:16:24.415Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784096182857.912,
+      "title": "Ukraina sier 20 russiske skip er truffet i droneangrep natt til onsdag",
+      "slug": "ukraina-sier-20-russiske-skip-er-truffet-i-droneangrep-natt-",
+      "content": "Ukrainske droner skal ha truffet 20 russiske skip i Svartehavet natt til onsdag, ifølge sjefen for Ukrainas dronestyrker.\n\n17 av skipene som er truffet er tankskip, sier dronesjef Robert Brovdi.\n\nTo gasstankskip og en slepebåt skal også ha blitt truffet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainske droner skal ha truffet 20 russiske skip i Svartehavet natt til onsdag, ifølge sjefen for Ukrainas dronestyrker.\n\n17 av skipene som er truffet er tankskip, sier dronesjef Robert Brovdi.\n\nTo gasstankskip og en slepebåt skal også ha blitt truffet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukraina-sier-20-russiske-skip-er-truffet-i-droneangrep-natt-til-onsdag-1.17958516",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-15T06:16:22.857Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784082955928.94,
       "title": "Alarmen går i Bahrain",
       "slug": "alarmen-gr-i-bahrain",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-12T19:07:52.439Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783883270874.7512,
-      "title": "Tolv dødsulykker i trafikken på én uke: – Skremmende feriestart",
-      "slug": "tolv-ddsulykker-i-trafikken-p-n-uke-skremmende-feriestart",
-      "content": "Sommeren er høysesong for ulykker rundt i landet, likevel har uken som har gått, gitt oss uvanlig dystre tall.\n\nI perioden fra 4. juli til 11. juli, sju dager, har Statens vegvesen registrert hele tolv dødsulykker i Norge. Fire av dem skjedde i løpet av lørdagen.\n\nFem av dødsulykkene involverte motorsykkel, og alle MC-førerne som mistet livet, var menn. Ulykkene har skjedd fra Agder i sør til Nordland.\n\n– Det er veldig høye tall, sier fungerende avdelingsdirektør for trafikksikkerhet Svein Ringen i Statens vegvesen til NTB.\n\nVær og trafikk i Norge\n\nSjekk lokalt værvarsel på yr.no og følg med på trafikkmeldingene når du skal ut å kjøre på dager med mye trafikk eller dårlig vær.",
-      "excerpt": "Sommeren er høysesong for ulykker rundt i landet, likevel har uken som har gått, gitt oss uvanlig dystre tall.\n\nI perioden fra 4. juli til 11. juli, sju dager, har Statens vegvesen registrert hele tolv dødsulykker i Norge. Fire av dem skjedde i løpet av lørdagen.\n\nFem av dødsulykkene involverte...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/tolv-dodsulykker-i-trafikken-pa-en-uke_-_-skremmende-feriestart-1.17956170",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-12T19:07:50.874Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783883269261.9512,
-      "title": "Jente (9) og minst fem andre drept i angrep i Gaza, ifølge helsearbeidere",
-      "slug": "jente-9-og-minst-fem-andre-drept-i-angrep-i-gaza-iflge-helse",
-      "content": "Ei ni år gammel jente er blant minst seks palestinere som søndag ble drept i israelske angrep på Gazastripen, ifølge helsearbeidere. Minst 260 barn er nå drept under den såkalte våpenhvilen.\n\nNi år gamle Tala Abu Matar ble drept da israelske soldater skjøt mot en teltleir i Al-Bureij sentralt på Gazastripen, opplyser kilder i helsedepartementet til nyhetsbyrået AP. Det israelske militæret sier det ikke kjenner til hendelsen.\n\nMinst fire mennesker ble samme dag drept i et israelsk droneangrep mot et støperi i Gaza by, ifølge Shifa-sykehuset, som tok imot ofrene.\n\nIfølge øyenvitner ble stedet truffet av tre israelske raketter. Det israelske militæret sier de rammet det de omtaler som «terrorinfrastruktur». Senere sa militæret at de angrep et sted der den palestinske Hamas-militsen produserte våpen.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
-      "excerpt": "Ei ni år gammel jente er blant minst seks palestinere som søndag ble drept i israelske angrep på Gazastripen, ifølge helsearbeidere. Minst 260 barn er nå drept under den såkalte våpenhvilen.\n\nNi år gamle Tala Abu Matar ble drept da israelske soldater skjøt mot en teltleir i Al-Bureij sentralt på...",
-      "image": "https://images.unsplash.com/photo-1669697051903-2d997f5f9fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM4ODMyNjl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/jente-_9_-og-minst-fem-andre-drept-i-angrep-i-gaza_-ifolge-helsearbeidere-1.17956178",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-12T19:07:49.261Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783875590279.598,
-      "title": "En til sykehus etter voldshendelse ved T-banestasjon",
-      "slug": "en-til-sykehus-etter-voldshendelse-ved-tbanestasjon",
-      "content": "Politiet har rykket ut til Grønland T-banestasjon hvor en person er skadet etter en voldshendelse.\n\n– Trolig har det vært en diskusjon mellom fornærmede og mistenke forut for hendelsen, skriver operasjonsleder Line-Merethe Skott i politiloggen.\n\nPersonen er kjørt til sykehus med skader i ansiktet.\n\nPolitiet har stengt minst én inngang til Grønland T-banestasjon etter en voldshendelse.",
-      "excerpt": "Politiet har rykket ut til Grønland T-banestasjon hvor en person er skadet etter en voldshendelse.\n\n– Trolig har det vært en diskusjon mellom fornærmede og mistenke forut for hendelsen, skriver operasjonsleder Line-Merethe Skott i politiloggen.\n\nPersonen er kjørt til sykehus med skader i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/stor-oslo/en-til-sykehus-etter-voldshendelse-ved-t-banestasjon-1.17955927",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-12T16:59:50.279Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2320,
+    "totalFetched": 2323,
     "totalPublished": 77,
-    "lastFetch": "2026-07-15T02:35:58.105Z",
+    "lastFetch": "2026-07-15T06:16:28.600Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
