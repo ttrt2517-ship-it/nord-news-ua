@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1784082955928.94,
+      "title": "Alarmen går i Bahrain",
+      "slug": "alarmen-gr-i-bahrain",
+      "content": "Det sier landets innenriksdepartement, melder nyhetsbyrået Reuters.\n\nSpenningen i Midtøsten har økt de siste dagene etter flere angrep i krigen mellom USA og Iran.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Det sier landets innenriksdepartement, melder nyhetsbyrået Reuters.\n\nSpenningen i Midtøsten har økt de siste dagene etter flere angrep i krigen mellom USA og Iran.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i...",
+      "image": "https://images.unsplash.com/photo-1669697051903-2d997f5f9fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQwODI5NTV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/alarmen-gar-i-bahrain-1.17958410",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-15T02:35:55.928Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784069838257.1135,
       "title": "Kåra årets unge jazzmusikarar",
       "slug": "kra-rets-unge-jazzmusikarar",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-12T16:59:50.279Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783875588694.278,
-      "title": "Valg i Israel 27. oktober",
-      "slug": "valg-i-israel-27-oktober",
-      "content": "Israel avholder valg til nasjonalforsamlingen Knesset 27. oktober, skriver NTB.\n\nValget blir sett på som en folkeavstemning om statsminister Benjamin Netanyahus lederskap etter angrepet 7. oktober 2023 og krigen i Gaza, skriver AFP.",
-      "excerpt": "Israel avholder valg til nasjonalforsamlingen Knesset 27. oktober, skriver NTB.\n\nValget blir sett på som en folkeavstemning om statsminister Benjamin Netanyahus lederskap etter angrepet 7. oktober 2023 og krigen i Gaza, skriver AFP.",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/valg-i-israel-27.-oktober-1.17955984",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-12T16:59:48.694Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2319,
+    "totalFetched": 2320,
     "totalPublished": 77,
-    "lastFetch": "2026-07-14T22:57:20.559Z",
+    "lastFetch": "2026-07-15T02:35:58.105Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
