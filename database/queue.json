@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1784135942331.2827,
+      "title": "Spansk avis: Mann som ble pågrepet for påkjørselen av norsk 17-åring er løslatt",
+      "slug": "spansk-avis-mann-som-ble-pgrepet-for-pkjrselen-av-norsk-17ri",
+      "content": "Den 46 år gamle mannen som ble pågrepet for påkjørselen av Nikoline Piwoni Høie (17) i Mijas i Spania mandag, er løslatt, melder den spanske avisen SUR.\n\nMannen er ikke lenger mistenkt i saken, ifølge domstolen.\n\n17-åringen fra Arendal ble påkjørt og drept på motorveien A-7 i Marbella da hun var på vei hjem etter å ha sett Norges VM-kamp mot Brasil sist uke.\n\nPåkjørselen skal ha skjedd 30 kilometer unna utestedet hvor hun så kampen med venner.",
+      "excerpt": "Den 46 år gamle mannen som ble pågrepet for påkjørselen av Nikoline Piwoni Høie (17) i Mijas i Spania mandag, er løslatt, melder den spanske avisen SUR.\n\nMannen er ikke lenger mistenkt i saken, ifølge domstolen.\n\n17-åringen fra Arendal ble påkjørt og drept på motorveien A-7 i Marbella da hun var på...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/spansk-avis_-mann-som-ble-pagrepet-for-pakjorselen-av-norsk-17-aring-er-loslatt-1.17959335",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-15T17:19:02.331Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784135940471.2014,
+      "title": "Enda en kjedekollisjon på E6 i Lillestrøm",
+      "slug": "enda-en-kjedekollisjon-p-e6-i-lillestrm",
+      "content": "Politiet melder om nok en kjedekollisjon på E6 ved Arteid bru, mellom Kløfta og Skedsmokorset.\n\nFire biler og ni personer er involvert i ulykken, som har skjedd i retning Oslo.\n\n– Alle er ute av bilene og tre personer har diverse skader, men er oppegående, skriver operasjonsleder Ronny Mangseth.\n\nDet er imidlertid store materielle skader og fire biler må berges.\n\nDet var også en kjedekollisjon på samme sted i 16-tiden, denne i retning Jessheim.\n\nOgså ved Lindeberg på E6 har det vært en ulykke onsdag.",
+      "excerpt": "Politiet melder om nok en kjedekollisjon på E6 ved Arteid bru, mellom Kløfta og Skedsmokorset.\n\nFire biler og ni personer er involvert i ulykken, som har skjedd i retning Oslo.\n\n– Alle er ute av bilene og tre personer har diverse skader, men er oppegående, skriver operasjonsleder Ronny...",
+      "image": "https://images.unsplash.com/photo-1580945793418-7e48efb7963d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQxMzU5NDB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/enda-en-kjedekollisjon-pa-e6-i-lillestrom-1.17959317",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-15T17:19:00.471Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784135938734.8977,
+      "title": "SpaceX-aksjen har falt under børsnoteringsprisen",
+      "slug": "spacexaksjen-har-falt-under-brsnoteringsprisen",
+      "content": "SpaceX-aksjen ble onsdag solgt for 132 dollar, som er lavere enn prisen ved børsnotering i juni.\n\nVed børsnotering 12. juni ble aksjen solgt for 135 dollar. Elon Musks romfartsselskap ble da verdsatt til 1750 milliarder dollar, og børsnoteringen ble omtalt som historiens største.\n\nSiden har det gått opp og ned for aksjen. På det meste ble den solgt for rundt 225 dollar få dager etter børsnoteringen før nedturen startet.\n\nAksjeprisen falt under 135 dollar på New York-børsene klokken 18.05 onsdag og fortsatte nedover til 132,33 dollar.\n\nSpaceX\n\nDet private romfartsselskapet SpaceX, med Tesla-gründer Elon Musk i spissen, utvikler raketter og fartøyer for å bringe last og mennesker opp i verdensrommet.",
+      "excerpt": "SpaceX-aksjen ble onsdag solgt for 132 dollar, som er lavere enn prisen ved børsnotering i juni.\n\nVed børsnotering 12. juni ble aksjen solgt for 135 dollar. Elon Musks romfartsselskap ble da verdsatt til 1750 milliarder dollar, og børsnoteringen ble omtalt som historiens største.\n\nSiden har det...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/spacex-aksjen-har-falt-under-borsnoteringsprisen-1.17959374",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-15T17:18:58.734Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784129207434.4712,
       "title": "Trøbbel i togtrafikken nord for Oslo",
       "slug": "trbbel-i-togtrafikken-nord-for-oslo",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-13T11:13:13.103Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1783941191507.6377,
-      "title": "Spanias statsminister besøkte brannområde",
-      "slug": "spanias-statsminister-beskte-brannomrde",
-      "content": "Spanias statsminister Pedro Sánchez kom i dag til Almeria-provinsen i Andalucia, hvor 13 mennesker mistet livet i den voldsomme skogbrannen i forrige uke.\n\nSanchez møtte brann- og redningspersonell i den lille byen Turre.\n\nTil sammen er rundt 7000 mål svidd av, hus og biler står utbrente igjen.\n\nSkogbrannen er en av de verste i Spania noensinne. Enkelte steder spredte flammene seg opptil 100 meter per minutt.\n\nDe fleste av de omkomne er utenlandske borgere. Mange av dem forsøkte å flykte fra brannen, men tok en annen vei enn den myndighetene rådet folk til å ta.\n\nSkogbranner i Sør-Europa\n\nDenne sommeren har det vært rekordmange skogbranner i sørlige Europa. Hundretusenvis av mål med skog er lagt i aske i Frankrike, Hellas, Spania og Portugal.",
-      "excerpt": "Spanias statsminister Pedro Sánchez kom i dag til Almeria-provinsen i Andalucia, hvor 13 mennesker mistet livet i den voldsomme skogbrannen i forrige uke.\n\nSanchez møtte brann- og redningspersonell i den lille byen Turre.\n\nTil sammen er rundt 7000 mål svidd av, hus og biler står utbrente...",
-      "image": "https://images.unsplash.com/photo-1780339489902-64f5e79c3237?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM5NDExOTF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/spanias-statsminister-besokte-brannomrade-1.17956647",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-13T11:13:11.508Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783925669468.9827,
-      "title": "Skuespiller Sam Neill er død",
-      "slug": "skuespiller-sam-neill-er-dd",
-      "content": "Den britiske-newzealandske skuespilleren Sam Neill er død, 78 år gammel, meddeler familien i en post på hans Instagram-konto.\n\nNeill døde natt til mandag norsk tid på et sykehus i Sydney, Australia. Dødsfallet beskrives som plutselig og uventet, selv om Neill tidligere har vært behandlet for en kreftsykdom.\n\nNeill er kjent fra en rekke storfilmer som The Piano og Jakten på Rød Oktober, men det internasjonale gjennombruddet kom med Jurassic Park-filmene, i rollen som paleontologen Dr. Alan Grant.\n\nHan medvirket også i en rekke TV-serier gjennom årene, blant andre Merlin, der han spilte trollmann, Peaky Blinders og The Tudors.\n\nNeill ble født i Omagh i Nord-Irland i 1947, men bodde det meste av livet i farens hjemland New Zealand.\n\nHan mottok en rekke priser og utmerkelser gjennom sin karriere, blant annet ble han utnevnt til Officer of the Order of the British Empire (OBE) for sitt skuespillervirke.",
-      "excerpt": "Den britiske-newzealandske skuespilleren Sam Neill er død, 78 år gammel, meddeler familien i en post på hans Instagram-konto.\n\nNeill døde natt til mandag norsk tid på et sykehus i Sydney, Australia. Dødsfallet beskrives som plutselig og uventet, selv om Neill tidligere har vært behandlet for en...",
-      "image": "https://images.unsplash.com/photo-1686731709928-a603b9ca9a82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM5MjU2Njl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/skuespiller-sam-neill-er-dod-1.17956355",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-13T06:54:29.468Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1783925667553.1304,
-      "title": "672 døde av ebola i Kongo",
-      "slug": "672-dde-av-ebola-i-kongo",
-      "content": "Regjeringen i Den demokratiske republikken Kongo opplyser at 672 mennesker er døde som følge av ebola-utbruddet i landet. Antall bekreftede smittede er 1873.\n\nDe første tilfellene i det pågående utbruddet ble oppdaget for rundt to måneder siden, men smitten kan ha spredd seg en god stund før tilfellene ble registrert.\n\nVirusvarianten Bundibugyo som nå herjer, har en dødelighet på mellom 30 og 50 prosent. Det finnes ingen godkjent vaksine eller behandling mot denne varianten, ifølge det franske nyhetsbyrået AFP.\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og Liberia. Etter at det store utbruddet var over, er det registrert flere sporadiske tilfeller av smitte.\n\nDR Kongo\n\nDen demokratiske republikken Kongo (også kalt Kongo-Kinshasa) ligger i Sentral-Afrika og grenser til SAR og Sør-Sudan i nord, Uganda, Rwanda, Burundi og Tanzania i øst, Zambia og Angola i sør og Kongo-Brazzaville i vest.",
-      "excerpt": "Regjeringen i Den demokratiske republikken Kongo opplyser at 672 mennesker er døde som følge av ebola-utbruddet i landet. Antall bekreftede smittede er 1873.\n\nDe første tilfellene i det pågående utbruddet ble oppdaget for rundt to måneder siden, men smitten kan ha spredd seg en god stund før...",
-      "image": "https://images.unsplash.com/photo-1657616934255-b2980b76117e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM5MjU2Njd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/672-dode-av-ebola-i-kongo-1.17956347",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-13T06:54:27.553Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2330,
+    "totalFetched": 2333,
     "totalPublished": 77,
-    "lastFetch": "2026-07-15T15:26:50.243Z",
+    "lastFetch": "2026-07-15T17:19:03.911Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
