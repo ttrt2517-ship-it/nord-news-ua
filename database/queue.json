@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1784242655757.849,
+      "title": "Iran: – Amerikanske angrep på flyplass",
+      "slug": "iran-amerikanske-angrep-p-flyplass",
+      "content": "Flere broer og en flyplass er truffet i amerikanske angrep, ifølge den statskontrollerte kringkasteren IRIB.\n\nOgså flere broer i Iran skal være truffet, ifølge meldingene.\n\nUSAs president Donald Trump sa nylig at USA ville angripe kraftanlegg og broer neste uke dersom Iran ikke gikk med på en avtale.\n\nDen amerikanske militærkommandoen for Midtøsten har bekreftet at USA startet nye angrep mot Iran torsdag kveld.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Flere broer og en flyplass er truffet i amerikanske angrep, ifølge den statskontrollerte kringkasteren IRIB.\n\nOgså flere broer i Iran skal være truffet, ifølge meldingene.\n\nUSAs president Donald Trump sa nylig at USA ville angripe kraftanlegg og broer neste uke dersom Iran ikke gikk med på en...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/iran_-_-amerikanske-angrep-pa-flyplass-1.17960791",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-16T22:57:35.757Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784235671355.3394,
       "title": "Slagsmål i Lørenskog – funnet kniv og slagvåpen",
       "slug": "slagsml-i-lrenskog-funnet-kniv-og-slagvpen",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-14T15:24:15.403Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784042653559.5012,
-      "title": "Flere funnet døde etter brann i høyhus i Brussel",
-      "slug": "flere-funnet-dde-etter-brann-i-hyhus-i-brussel",
-      "content": "Brannen i Oxy Tower, sentralt i Brussel, startet tidlig tirsdag morgen. Brannvesenet opplyste at de hadde kontroll på brannen klokken ni.\n\nFlere personer ble funnet døde i en av de to heisene inne i bygget, som er under renovering.\n\n– Vi hadde begrenset adgang til en av de to heissjaktene, og der kunne vi se at det lå to eller tre personer som er døde, sier talsperson for det lokale arbeidstilsynet, Brecht Speybrouck.\n\nBrannvesenet søker fremdeles etter seks personer som er meldt savnet, skriver The Brussels Times.",
-      "excerpt": "Brannen i Oxy Tower, sentralt i Brussel, startet tidlig tirsdag morgen. Brannvesenet opplyste at de hadde kontroll på brannen klokken ni.\n\nFlere personer ble funnet døde i en av de to heisene inne i bygget, som er under renovering.\n\n– Vi hadde begrenset adgang til en av de to heissjaktene, og der...",
-      "image": "https://images.unsplash.com/photo-1631004150792-c24d0a04693c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQwNDI2NTN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-funnet-dode-etter-brann-i-hoyhus-i-brussel-1.17958054",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-14T15:24:13.559Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2360,
+    "totalFetched": 2361,
     "totalPublished": 77,
-    "lastFetch": "2026-07-16T21:01:13.561Z",
+    "lastFetch": "2026-07-16T22:57:37.000Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
