@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1784301284985.6475,
+      "title": "Dagbladet: Drammen kommune setter krisestab etter kraftig brann",
+      "slug": "dagbladet-drammen-kommune-setter-krisestab-etter-kraftig-bra",
+      "content": "Ordfører i Drammen kommune, Kjell Arne Hermansen, sier til Dagbladet at kommunen setter krisestab.\n\nFredag ettermiddag brenner det kraftig i flere rekkehus i Krokstadelva i Drammen kommune.\n\n– Brannvesenet har ikke kontroll og brannen sprer seg ytterligere. Det høres eksplosjoner fra området, og vi ber publikum om å ikke trekke til området, melder operasjonsleder Lise Bjørnsund.",
+      "excerpt": "Ordfører i Drammen kommune, Kjell Arne Hermansen, sier til Dagbladet at kommunen setter krisestab.\n\nFredag ettermiddag brenner det kraftig i flere rekkehus i Krokstadelva i Drammen kommune.\n\n– Brannvesenet har ikke kontroll og brannen sprer seg ytterligere. Det høres eksplosjoner fra området, og vi...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/dagbladet_-drammen-kommune-setter-krisestab-etter-kraftig-brann-1.17961602",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-17T15:14:44.986Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784301283084.1333,
+      "title": "Alvorlig sykkelulykke i Larvik",
+      "slug": "alvorlig-sykkelulykke-i-larvik",
+      "content": "Nødetatene rykker ut til Larvik, etter melding om en syklist som har kjørt av veien.\n\nPersonen er våken, men betegnes som alvorlig skadet.\n\nLuftambulanse er tilkalt, etter at en syklist har kjørt av veien i Larvik.",
+      "excerpt": "Nødetatene rykker ut til Larvik, etter melding om en syklist som har kjørt av veien.\n\nPersonen er våken, men betegnes som alvorlig skadet.\n\nLuftambulanse er tilkalt, etter at en syklist har kjørt av veien i Larvik.",
+      "image": "https://images.unsplash.com/photo-1750261346259-294f7c513476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQzMDEyODN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/alvorlig-sykkelulykke-i-larvik-1.17961611",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-17T15:14:43.085Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784295692791.6648,
       "title": "EXPLAINED: Where to get free immigration advice in Norway",
       "slug": "explained-where-to-get-free-immigration-advice-in-norway",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-07-15T13:46:36.173Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784109850817.5417,
-      "title": "Seksåring blant de drepte i israelsk angrep i Gaza",
-      "slug": "seksring-blant-de-drepte-i-israelsk-angrep-i-gaza",
-      "content": "En seks år gammel jente ble drept i et israelsk luftangrep på Gazastripen onsdag, ifølge palestinske medier.\n\nJentas mor og far ble også drept i angrepet på familiens bolig i byen. Sønnen deres overlevde, men ble skadet, ifølge helsepersonell.\n\nDet er al-Aqsa-sykehuset i byen Deir-al-Balah sentralt på Gazastripen som opplyser om dødsfallene.\n\nDet israelske militæret (IDF) har bekreftet angrepet og uttalt at målet var en Hamas-militant. IDF har ikke gitt ytterligere detaljer om angrepet, skriver NTB.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
-      "excerpt": "En seks år gammel jente ble drept i et israelsk luftangrep på Gazastripen onsdag, ifølge palestinske medier.\n\nJentas mor og far ble også drept i angrepet på familiens bolig i byen. Sønnen deres overlevde, men ble skadet, ifølge helsepersonell.\n\nDet er al-Aqsa-sykehuset i byen Deir-al-Balah sentralt...",
-      "image": "https://images.unsplash.com/photo-1615758369849-110c9ae725ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQxMDk4NTB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/seksaring-blant-de-drepte-i-israelsk-angrep-i-gaza-1.17958705",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-15T10:04:10.817Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784109848869.2957,
-      "title": "Avis: En person død i eksplosjon på Nammo-fabrikk i Finland",
-      "slug": "avis-en-person-dd-i-eksplosjon-p-nammofabrikk-i-finland",
-      "content": "En person er død etter en eksplosjon på en kruttfabrikk tilhørende Nammo i Finland, skriver avisen Iltahleti.\n\nFabrikken ligger i Vihtavuori i Laukaa, sentralt i Finland. Den omkomne var en innleid arbeider, ifølge avisen.\n\nFabrikkens direktør, Ilkka Heikkilä, bekrefter hendelsen og dødsfallet overfor avisen.\n\n– Myndighetene er på stedet, og undersøkelsene er i gang, sier Heikkilä.\n\nAvisen Keskisuomalainen skriver at ytterligere én person er skadet og fraktet til sykehus.\n\nDet lokale politiet opplyser at det ikke er fare for nye eksplosjoner.\n\nNammo er et internasjonalt konsern med hovedkontor i Norge.",
-      "excerpt": "En person er død etter en eksplosjon på en kruttfabrikk tilhørende Nammo i Finland, skriver avisen Iltahleti.\n\nFabrikken ligger i Vihtavuori i Laukaa, sentralt i Finland. Den omkomne var en innleid arbeider, ifølge avisen.\n\nFabrikkens direktør, Ilkka Heikkilä, bekrefter hendelsen og dødsfallet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/avis_-en-person-dod-i-eksplosjon-pa-nammo-fabrikk-i-finland-1.17958804",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-15T10:04:08.869Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2374,
+    "totalFetched": 2376,
     "totalPublished": 77,
-    "lastFetch": "2026-07-17T13:41:33.791Z",
+    "lastFetch": "2026-07-17T15:14:47.970Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
