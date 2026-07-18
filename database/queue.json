@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1784407884152.9353,
+      "title": "«Cubas mest kjente politiske fange» på vei til USA",
+      "slug": "cubas-mest-kjente-politiske-fange-p-vei-til-usa",
+      "content": "Den cubanske dissidenten og kunstneren Luis Manuel Otero Alcántara har forlatt Cuba med kurs for USA.\n\nDet fremgår av et innlegg på Facebook-siden hans, som administreres av vennene hans.\n\nOtero Alcántara er kjent som «Cubas mest kjente politiske fange», etter at han i 2021 dømt til fem års fengsel på grunn av sin regjeringskritiske kunst.\n\nI 2024 mottok Otero Alcántara Raftoprosen, en pris som årlig deles ut til personer eller organisasjoner som kjemper for menneskerettigheter og demokrati.",
+      "excerpt": "Den cubanske dissidenten og kunstneren Luis Manuel Otero Alcántara har forlatt Cuba med kurs for USA.\n\nDet fremgår av et innlegg på Facebook-siden hans, som administreres av vennene hans.\n\nOtero Alcántara er kjent som «Cubas mest kjente politiske fange», etter at han i 2021 dømt til fem års fengsel...",
+      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ0MDc4ODR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/_cubas-mest-kjente-politiske-fange_-pa-vei-til-usa-1.17962509",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-18T20:51:24.152Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784401642307.6245,
       "title": "Ungarns president går av",
       "slug": "ungarns-president-gr-av",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-16T19:13:51.617Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784229229924.1318,
-      "title": "Mann død etter drukningsulykke i Sandefjord",
-      "slug": "mann-dd-etter-drukningsulykke-i-sandefjord",
-      "content": "En mann i 70-årene er bekreftet død etter en drukningsulykke torsdag kveld.\n\nUlykken skjedde ved Langevannet i Sandefjord, og ble meldt til nødetatene 16.42.\n\n– Folk på stedet forsøkte å gi mannen livreddende førstehjelp, opplyser Ottar Steinstø, operasjonsleder i Sørøst politidistrikt.\n\nEtter hvert fikk de bistand av helsepersonell fra et redningsheliopter, men livet stod ikke til å redde.\n\nEn mann i 70-årene er bekreftet død etter en drukningsulykke torsdag kveld.",
-      "excerpt": "En mann i 70-årene er bekreftet død etter en drukningsulykke torsdag kveld.\n\nUlykken skjedde ved Langevannet i Sandefjord, og ble meldt til nødetatene 16.42.\n\n– Folk på stedet forsøkte å gi mannen livreddende førstehjelp, opplyser Ottar Steinstø, operasjonsleder i Sørøst politidistrikt.\n\nEtter...",
-      "image": "https://images.unsplash.com/photo-1630015009109-5c2c5f7ebbff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQyMjkyMjl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/mann-dod-etter-drukningsulykke-i-sandefjord_-1.17960610",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-16T19:13:49.925Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2406,
+    "totalFetched": 2407,
     "totalPublished": 77,
-    "lastFetch": "2026-07-18T19:07:25.254Z",
+    "lastFetch": "2026-07-18T20:51:25.628Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
