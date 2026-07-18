@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1784401642307.6245,
+      "title": "Ungarns president går av",
+      "slug": "ungarns-president-gr-av",
+      "content": "Ungarns president, Tamás Sulyok, har undertegnet en grunnlovsendring som avslutter hans periode som statsoverhode.\n\nDet opplyser han selv i en tale publisert på Facebook.\n\nSulyok har vært president siden 2024 og anses som en nær alliert av tidligere statsminister Viktor Orbán.\n\nRegjeringspartiet Tisza brukte sitt to tredjedels flertall for å banke gjennom grunnlovsendringen mandag.\n\n– I henhold til den gjeldende grunnloven har jeg ingen konstitusjonelle virkemidler til å motsette meg denne endringen, sier Sulyok.\n\nUngarn\n\nOpposisjonspartiet Tisza og partileder Peter Magyar har vunnet valget i Ungarn. Frem til nå har Russland-vennlige Viktor Orbán styrt landet. Det har han gjort siden 2010.",
+      "excerpt": "Ungarns president, Tamás Sulyok, har undertegnet en grunnlovsendring som avslutter hans periode som statsoverhode.\n\nDet opplyser han selv i en tale publisert på Facebook.\n\nSulyok har vært president siden 2024 og anses som en nær alliert av tidligere statsminister Viktor Orbán.\n\nRegjeringspartiet...",
+      "image": "https://images.unsplash.com/photo-1752583584442-34152f0d7698?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ0MDE2NDJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ungarns-president-gar-av-1.17962430",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-18T19:07:22.307Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784401640496.1667,
+      "title": "Telia: Utfordringer med mobildekning i Drammen som følge av storbrannen",
+      "slug": "telia-utfordringer-med-mobildekning-i-drammen-som-flge-av-st",
+      "content": "Fire av Telias basestasjoner er ute av drift i drammensområdet etter storbrannen i Krokstadelva, opplyser selskapet.\n\n– Vi har jobbet hele dagen med å forsøke å få på plass en løsning. Det er vanskelig fordi fiberen til hovedbasestasjonen som forsyner de tre andre basestasjonene med radiolinjer, er brent opp, opplyser kommunikasjonsrådgiver Ellen C. Scheen i Telia til NTB.\n\nDenne basestasjonen eies av Telias leverandør, og kablene kan først byttes ut når området blir frigjort, opplyser Scheen.\n\nKunder som opplever dårligere mobildekning og har tilgang til internett via fastnettet anbefales å bruke Wifi tale på mobilen som en alternativ løsning. (NTB)\n\nStorbrann i Krokstadelva\n\nFredag 17. juli brøt det ut en stor brann i en rekkehusbebyggelse i Krokstadelva utenfor Drammen. Over hundre boliger gikk tapt og flere hundre mennesker mistet hjemmene sine.",
+      "excerpt": "Fire av Telias basestasjoner er ute av drift i drammensområdet etter storbrannen i Krokstadelva, opplyser selskapet.\n\n– Vi har jobbet hele dagen med å forsøke å få på plass en løsning. Det er vanskelig fordi fiberen til hovedbasestasjonen som forsyner de tre andre basestasjonene med radiolinjer, er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/telia_-utfordringer-med-mobildekning-i-drammen-som-folge-av-storbrannen-1.17962277",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-18T19:07:20.496Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784401638863.6763,
+      "title": "Måtte lande på Gardermoen etter mistanke om røyk",
+      "slug": "mtte-lande-p-gardermoen-etter-mistanke-om-ryk",
+      "content": "Et fly på vei fra Trondheim til München måtte lørdag kveld lande på Gardermoen etter melding om røykutvikling i kabinen.\n\nTo røykdykkere ble sendt inn for å se hvor røyken kom fra.\n\n– Brannvesenet melder at de hverken fant røyk eller røyklukt inne i kabinen. Det fremstår udramatisk, sier operasjonsleder i politiet Håkon Hatlen til NRK klokken 20.45.\n\nPå Gardermoen stod seks brannbilar klare då flyet frå Trondheim måtte avbryte turen til München.\n\nOslo lufthavn\n\nPlanene om å bygge en ny tredje rullebane på Norges største flyplass vekker strid blant naboer og miljøvernere. Avinor mener utvikling av elfly vil gjøre det nødvendig med en ny rullebane innen 2035.",
+      "excerpt": "Et fly på vei fra Trondheim til München måtte lørdag kveld lande på Gardermoen etter melding om røykutvikling i kabinen.\n\nTo røykdykkere ble sendt inn for å se hvor røyken kom fra.\n\n– Brannvesenet melder at de hverken fant røyk eller røyklukt inne i kabinen. Det fremstår udramatisk, sier...",
+      "image": "https://images.unsplash.com/photo-1686731709928-a603b9ca9a82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ0MDE2Mzh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/matte-lande-pa-gardermoen-etter-mistanke-om-royk-1.17962464",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-18T19:07:18.863Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784393954462.9626,
       "title": "Brannvesenet: – Vi er berørt vi og",
       "slug": "brannvesenet-vi-er-berrt-vi-og",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-16T19:13:49.925Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784222297203.092,
-      "title": "Zelenskyj utnevner ny fungerende forsvarsminister",
-      "slug": "zelenskyj-utnevner-ny-fungerende-forsvarsminister",
-      "content": "Ukrainas president Volodymyr Zelenskyj har torsdag utnevnt generalmajor Jevhen Khmara til fungerende forsvarsminister. Khmara kommer fra stillingen som fungerende sjef for landets mektige sikkerhetstjeneste, SBU.\n\nPresidenten ber nå nasjonalforsamlingen om å godkjenne utnevnelsen.\n\nHvis de godtar ham, vil han overta for 35 år gamle Mykhajlo Fedorov, som gikk av tirsdag etter at Zelenskyj varslet «store endringer» i regjeringen.\n\nDet var opprinnelig ventet at Ihor Klymenko skulle overta jobben, ifølge NTB.\n\nUkraina\n\nUkraina er et land i Europa som grenser til Russland, Belarus, Polen, Moldova og Romania. Landet har nær 38 millioner innbyggere, ifølge data fra FN. I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina».",
-      "excerpt": "Ukrainas president Volodymyr Zelenskyj har torsdag utnevnt generalmajor Jevhen Khmara til fungerende forsvarsminister. Khmara kommer fra stillingen som fungerende sjef for landets mektige sikkerhetstjeneste, SBU.\n\nPresidenten ber nå nasjonalforsamlingen om å godkjenne utnevnelsen.\n\nHvis de godtar...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/zelenskyj-utnevner-ny-fungerende-forsvarsminister-1.17960563",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-16T17:18:17.204Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784222295549.4873,
-      "title": "Alvorlig trafikkulykke i Ålesund - begge bilene er totalskadd",
-      "slug": "alvorlig-trafikkulykke-i-lesund-begge-bilene-er-totalskadd",
-      "content": "Nødetatene er på fylkesvei 661 i Ålesund i forbindelse med en frontkollisjon mellom to biler i 80-sonen.\n\nTo personer er involvert i ulykken og trafikken er stengt i begge retninger.\n\nBegge de involverte fraktes til traumemottak ved Ålesund sjukehus, de fremstår imidlertid ikke som kritisk skadd, melder politiet.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
-      "excerpt": "Nødetatene er på fylkesvei 661 i Ålesund i forbindelse med en frontkollisjon mellom to biler i 80-sonen.\n\nTo personer er involvert i ulykken og trafikken er stengt i begge retninger.\n\nBegge de involverte fraktes til traumemottak ved Ålesund sjukehus, de fremstår imidlertid ikke som kritisk skadd...",
-      "image": "https://images.unsplash.com/photo-1571073026905-d4feeeddd7cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQyMjIyOTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/alvorlig-trafikkulykke-i-alesund---begge-bilene-er-totalskadd-1.17960589",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-16T17:18:15.550Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784216450376.0757,
-      "title": "Drukningsulykke i Sandefjord – livreddende førstehjelp pågår",
-      "slug": "drukningsulykke-i-sandefjord-livreddende-frstehjelp-pgr",
-      "content": "Nødetatene er på stedet og har overtatt livreddende helsehjelp etter en drukningsulykke i Sandefjord.\n\nPolitiet meldte om ulykken like før klokken 17 torsdag.\n\nDet pågår livreddende førstehjelp etter en drukningsulykke i en innsjø.",
-      "excerpt": "Nødetatene er på stedet og har overtatt livreddende helsehjelp etter en drukningsulykke i Sandefjord.\n\nPolitiet meldte om ulykken like før klokken 17 torsdag.\n\nDet pågår livreddende førstehjelp etter en drukningsulykke i en innsjø.",
-      "image": "https://images.unsplash.com/photo-1635941830012-aa4e2f9187ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQyMTY0NTB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/drukningsulykke-i-sandefjord-_-livreddende-forstehjelp-pagar-1.17960441",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-16T15:40:50.376Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2403,
+    "totalFetched": 2406,
     "totalPublished": 77,
-    "lastFetch": "2026-07-18T16:59:16.837Z",
+    "lastFetch": "2026-07-18T19:07:25.254Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
