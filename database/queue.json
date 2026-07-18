@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1784393954462.9626,
+      "title": "Brannvesenet: – Vi er berørt vi og",
+      "slug": "brannvesenet-vi-er-berrt-vi-og",
+      "content": "– Det er tøft. Vi er berørt vi og, sier en tydelig berørt Calle Varfjell, seksjonsleder i Drammensregionens Brannvesen.\n\nI ettermiddag ble det kjent at brannsjef Torgeir Andersen selv har mistet huset sitt i brannen i Krokstadelva.\n\nVarfjell sier det har vært utrolig krevende og at brannen hadde stort potensiale.\n\n– Trange gater gjør at det blir utrolig varmt. Det er vanskelig for oss å komme fram med biler og materiell og mennesker, sier Varfjell.\n\nStorbrann i Krokstadelva\n\nFredag 17. juli brøt det ut en stor brann i en rekkehusbebyggelse i Krokstadelva utenfor Drammen. Over hundre boliger gikk tapt og flere hundre mennesker mistet hjemmene sine.",
+      "excerpt": "– Det er tøft. Vi er berørt vi og, sier en tydelig berørt Calle Varfjell, seksjonsleder i Drammensregionens Brannvesen.\n\nI ettermiddag ble det kjent at brannsjef Torgeir Andersen selv har mistet huset sitt i brannen i Krokstadelva.\n\nVarfjell sier det har vært utrolig krevende og at brannen hadde...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/brannvesenet_-_-vi-er-berort-vi-og-1.17962369",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-18T16:59:14.462Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784393952865.4438,
+      "title": "Minst ni drept i israelske angrep mot Gaza",
+      "slug": "minst-ni-drept-i-israelske-angrep-mot-gaza",
+      "content": "Minst ni palestinere, inkludert tre barn, skal ha blitt drept i flere israelske luftangrep i Gaza by lørdag, opplyser lokale sykehuskilder.\n\nIfølge det israelske forsvaret var angrepene rettet mot Hamas-infrastruktur og militante i området.\n\nFredag ble 7 mennesker drept og 22 såret i et israelsk angrep mot en begravelse på Gazastripen, opplyste et lokalt sykehus.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
+      "excerpt": "Minst ni palestinere, inkludert tre barn, skal ha blitt drept i flere israelske luftangrep i Gaza by lørdag, opplyser lokale sykehuskilder.\n\nIfølge det israelske forsvaret var angrepene rettet mot Hamas-infrastruktur og militante i området.\n\nFredag ble 7 mennesker drept og 22 såret i et israelsk...",
+      "image": "https://images.unsplash.com/photo-1704323081531-2e28c0728a44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQzOTM5NTJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/minst-ni-drept-i-israelske-angrep-mot-gaza-1.17962421",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-18T16:59:12.865Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784386474357.0437,
       "title": "Brannsjefen mistet hjemmet i storbrannen",
       "slug": "brannsjefen-mistet-hjemmet-i-storbrannen",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-07-16T15:40:50.376Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784216448668.669,
-      "title": "Én klemt ihjel og 100 skadd på festival i India",
-      "slug": "n-klemt-ihjel-og-100-skadd-p-festival-i-india",
-      "content": "Minst én person har mistet livet og rundt 100 er brakt til sykehus, etter å ha blitt klemt fast i en enorm folkemengde under Rath Yatra-festivalen i byen Puri i Øst-India.\n\nSlike ulykker skjer jevnlig under store folkeansamlinger i India, ofte som følge av manglende sikkerhetstiltak, skriver Reuters.\n\nOgså under fjorårets festival mistet tre personer livet da de ble klemt i hjel.",
-      "excerpt": "Minst én person har mistet livet og rundt 100 er brakt til sykehus, etter å ha blitt klemt fast i en enorm folkemengde under Rath Yatra-festivalen i byen Puri i Øst-India.\n\nSlike ulykker skjer jevnlig under store folkeansamlinger i India, ofte som følge av manglende sikkerhetstiltak, skriver...",
-      "image": "https://images.unsplash.com/photo-1625222700053-9e718e2981ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQyMTY0NDh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/en-klemt-ihjel-og-100-skadd-pa-festival-i-india-1.17960539",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-16T15:40:48.668Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784216446780.7634,
-      "title": "Farsund: To menn siktet etter trusselsituasjon",
-      "slug": "farsund-to-menn-siktet-etter-trusselsituasjon",
-      "content": "To menn i 40- og 50-årene er siktet etter en trusselsituasjon med bruk av skytevåpen torsdag ettermiddag.\n\nPolitiet rykket ut til en privatadresse i Farsund klokken 13.12, etter melding om en trusselsituasjon. Det skal ha blitt avfyrt skudd mot huset.\n\n16.11 pågrep politiet to mulige gjerningspersoner – disse er nå siktet i saken. Det ble brukt elektrosjokkvåpen i pågripelsen.\n\nSituasjonen er avsluttet – det er ikke fare for andre personer.\n\nEn person er fornærmet i saken. Politiet leter ikke etter andre mistenkte.",
-      "excerpt": "To menn i 40- og 50-årene er siktet etter en trusselsituasjon med bruk av skytevåpen torsdag ettermiddag.\n\nPolitiet rykket ut til en privatadresse i Farsund klokken 13.12, etter melding om en trusselsituasjon. Det skal ha blitt avfyrt skudd mot huset.\n\n16.11 pågrep politiet to mulige...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/farsund_-to-menn-siktet-etter-trusselsituasjon-1.17960560",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-16T15:40:46.781Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2401,
+    "totalFetched": 2403,
     "totalPublished": 77,
-    "lastFetch": "2026-07-18T14:54:36.206Z",
+    "lastFetch": "2026-07-18T16:59:16.837Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
