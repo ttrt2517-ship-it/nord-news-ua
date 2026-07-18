@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1784354788438.499,
+      "title": "Toglinjen mellom Oslo og Lillestrøm fungerer igjen",
+      "slug": "toglinjen-mellom-oslo-og-lillestrm-fungerer-igjen",
+      "content": "Togene kan kjøre mellom Oslo og Lillestrøm, opplyser Bane Nor til NRK.\n\nPå grunn av en teknisk feil gikk strømmen fredag og togstrekningen ble stengt.\n\nNatt til lørdag ble feilen rettet, og togene kjører igjen.",
+      "excerpt": "Togene kan kjøre mellom Oslo og Lillestrøm, opplyser Bane Nor til NRK.\n\nPå grunn av en teknisk feil gikk strømmen fredag og togstrekningen ble stengt.\n\nNatt til lørdag ble feilen rettet, og togene kjører igjen.",
+      "image": "https://images.unsplash.com/photo-1699562792381-a4a96dd097c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQzNTQ3ODh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/toglinjen-mellom-oslo-og-lillestrom-fungerer-igjen-1.17961935",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-18T06:06:28.438Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784354786853.9773,
+      "title": "Førebur evakuering av sjukeheim etter brann",
+      "slug": "frebur-evakuering-av-sjukeheim-etter-brann",
+      "content": "Brannvesenet fryktar at storbrannen i Krokstadelva kan spreie seg over Solbergfjellet til ein sjukeheim i nærleiken.\n\nDrm24 melder at ein førebur ei mogleg evakuering av Solberglia sjukeheim.\n\nVed 3:30-tida var store mannskap frå mellom anna Røde Kors på plass utanfor sjukeheimen. Det same var bussar frå helsevesenet.\n\nBrannvesenet har lagt slangar rund sjukeheimen, og avventar foreløpig evakuering.\n\nStorbrann i Krokstadelva\n\nEn stor brann brøt ut i rekkehusbebyggelse i Krokstadelva utenfor Drammen. Over 100 boliger gikk tapt.",
+      "excerpt": "Brannvesenet fryktar at storbrannen i Krokstadelva kan spreie seg over Solbergfjellet til ein sjukeheim i nærleiken.\n\nDrm24 melder at ein førebur ei mogleg evakuering av Solberglia sjukeheim.\n\nVed 3:30-tida var store mannskap frå mellom anna Røde Kors på plass utanfor sjukeheimen. Det same var...",
+      "image": "https://images.unsplash.com/photo-1607251747086-96b65d43deb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQzNTQ3ODZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/forebur-evakuering-av-sjukeheim-etter-brann-1.17961936",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-18T06:06:26.854Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784354784226.817,
+      "title": "Iran angrip amerikanske mål i Kuwait",
+      "slug": "iran-angrip-amerikanske-ml-i-kuwait",
+      "content": "Iran svarar på åtaka med å angripe amerikanske militære mål i Kuwait ifølge revolusjonsgarden.\n\nHæren i landet melder at dei no skyt ned dronar og missil som kjem frå Iran.\n\nKuwait airways har utsett dei fleste flygingar etter at landet har stengt hovudflyplassen på grunn av åtaka.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Iran svarar på åtaka med å angripe amerikanske militære mål i Kuwait ifølge revolusjonsgarden.\n\nHæren i landet melder at dei no skyt ned dronar og missil som kjem frå Iran.\n\nKuwait airways har utsett dei fleste flygingar etter at landet har stengt hovudflyplassen på grunn av åtaka.\n\nKrigen i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/iran-angrip-amerikanske-mal-i-kuwait-1.17961938",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-18T06:06:24.226Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784342280065.1394,
       "title": "Kongo: Nesten 2200 mennesker smittet",
       "slug": "kongo-nesten-2200-mennesker-smittet",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-16T02:44:00.485Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784156333937.0227,
-      "title": "USA har angrepet tankskip i Persiabukta",
-      "slug": "usa-har-angrepet-tankskip-i-persiabukta",
-      "content": "Det amerikanske militæret har angrepet et tankskip i Persiabukta, ifølge militærkommandoen Centcom.\n\nSkipet var ifølge den amerikanske militærkommandoen på vei til en iransk havn.\n\nUSA gjeninnførte tirsdag det de beskriver som en blokade av skip som går til og fra iranske havner.\n\n– Et amerikansk fly satte fartøyet ut av spill etter å ha avfyrt Hellfire-missiler inn i skipets skorstein, skriver militærkommandoen på meldingstjenesten X.\n\nSkipet seiler under flagget til Curacao og har navnet M/T Belma. Det hadde ikke noen last da det ble angrepet, ifølge Centcom.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Det amerikanske militæret har angrepet et tankskip i Persiabukta, ifølge militærkommandoen Centcom.\n\nSkipet var ifølge den amerikanske militærkommandoen på vei til en iransk havn.\n\nUSA gjeninnførte tirsdag det de beskriver som en blokade av skip som går til og fra iranske havner.\n\n– Et amerikansk...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-har-angrepet-tankskip-i-persiabukta-1.17959628",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-15T22:58:53.937Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784156332376.2212,
-      "title": "Reuters: Russisk luftangrep mot Kyiv",
-      "slug": "reuters-russisk-luftangrep-mot-kyiv",
-      "content": "Ukrainas hovedstad Kyiv er under angrep med ballistiske missiler, melder Reuters.\n\nDet ukrainske forsvaret advarer om at det kan komme flere missiler, skriver nyhetsbyrået.\n\nEt lagerområde i en forstad ved i Kyiv ble truffet, ifølge Kyiv-ordfører Vitalij Klitsjko, som skriver om angrepet på meldingstjenesten Telegram.\n\nAngrepet skjedde få timer etter at EU-kommisjonens president Ursula von der Leyen besøkte Kyiv.\n\nHensikten med møtet var å styrke et forsvarssamarbeid med Ukraina.\n\nDet kommer også meldinger om flere angrep i landet.\n\nByen Kharkiv øst i Ukraina er blitt angrepet med angrepsdroner, ifølge byens ordfører Ihor Terekhov.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ukrainas hovedstad Kyiv er under angrep med ballistiske missiler, melder Reuters.\n\nDet ukrainske forsvaret advarer om at det kan komme flere missiler, skriver nyhetsbyrået.\n\nEt lagerområde i en forstad ved i Kyiv ble truffet, ifølge Kyiv-ordfører Vitalij Klitsjko, som skriver om angrepet på...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/reuters_-russisk-luftangrep-mot-kyiv-1.17959630",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-15T22:58:52.376Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784149315745.533,
-      "title": "Norway appoints committee to review immigrant healthcare barriers",
-      "slug": "norway-appoints-committee-to-review-immigrant-healthcare-bar",
-      "content": "A frequent complaint among the international community in Norway is the feeling of poor treatment or the struggle of navigating a healthcare system that does not always seem to work well for them. The government has now acknowledged these concerns.\n\nAccording to the Norwegian Institute of Public Health (FHI), people with an immigrant background make up more than 20 percent of the population in Norway. Despite this, there is little to no data and research for many immigrant groups, leaving the overall picture of their health and use of health services largely incomplete.\n\nThe Norwegian government has appointed a new specialist committee to investigate healthcare access among immigrants and Norwegians with an immigrant background, focusing on its direct impact on employment and social inclusion.\n\nThe initiative is a joint effort between the Ministry of Health and Care Services and the Ministry of Labour and Social Inclusion, and is part of the government’s broader \"Plan for Norway\" strategy to ensure equal health security for all citizens, regardless of their background.\n\nIt also supports the goal of reducing social health disparities through the \"A Healthier Population\" project.\n\nMinister of Health and Care Services Jan Christian Vestre said in a press release that everyone should have confidence in receiving high-quality, personalised healthcare when needed, regardless of background.\n\n\"We know that there are differences in the population when it comes to health, knowledge about one's own health, and the use of health services. If we are to ensure equal access for everyone, we need more knowledge to implement the right measures,\" Vestre said.\n\nEmployment and Inclusion Minister Kjersti Stenseng also emphasised that improving health is a crucial step to boosting employment. She explained that integrating more immigrants into the workforce is one of the government's most important tasks.\n\n“We need more knowledge about immigrant health and how health services can reach out to and meet the needs of a diverse population. This can contribute to better health, stronger connections to the workforce and more people gaining security in their everyday lives,” said Stenseng.\n\nLed by researcher Bushra Ishaq, the 14-member committee brings together experts from universities, healthcare services, and civil society.\n\nThe group also includes members with specific expertise in violence and traumatic stress, equality, diversity, and patient-oriented work.\n\nOver its term, the committee will focus on several key areas.\n\nIt will analyse healthcare usage to understand how various immigrant groups access services and identify barriers to care, and will assess health and digital literacy by evaluating how well digital health tools and information are understood across diverse communities.\n\nThe committee will also examine the relationships between health status, sick leave, integration, and long-term workforce exclusion.\n\nAdditionally, it will study how symptoms are expressed and understood across cultural groups, focusing on factors that may cause some medical needs to be overlooked by current services.\n\nThe committee's final aim is to propose tailored measures to reduce social inequality.  By assessing factors affecting health and workforce participation, it will determine whether standard health services should be reorganised to better serve all residents or if targeted interventions are needed for specific immigrant groups.​\n\nThe timeline for when the international community can expect answers or tangible changes to the healthcare system remains unclear.\n\nThe government’s official press release did not specify any dates or deadlines for the committee’s findings, focusing only on the initiative's launch.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "A frequent complaint among the international community in Norway is the feeling of poor treatment or the struggle of navigating a healthcare system that does not always seem to work well for them. The government has now acknowledged these concerns.\n\nAccording to the Norwegian Institute of Public...",
-      "image": "https://images.unsplash.com/photo-1641341155664-d8956cfd232b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQxNDkzMTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260713/norway-appoints-committee-to-review-immigrant-healthcare-barriers",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-07-15T21:01:55.745Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2388,
+    "totalFetched": 2391,
     "totalPublished": 77,
-    "lastFetch": "2026-07-18T02:38:02.843Z",
+    "lastFetch": "2026-07-18T06:06:29.689Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
