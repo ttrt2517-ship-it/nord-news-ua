@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1784588504573.7324,
+      "title": "Wes Streeting ny forsvarsminister i Storbritannia",
+      "slug": "wes-streeting-ny-forsvarsminister-i-storbritannia",
+      "content": "Storbritannias statsminister Andy Burnham har utnevnt Wes Streeting til ny forsvarsminister.\n\nStreeting har tidligere vært helseminister, men trakk seg fra jobben i mai og sa han ikke hadde tillit til daværende statsminister Keir Starmer. Streeting sa også at han ville stille som lederkandidat for Labour, men valgte senere å ikke utfordre Burnham for stillingen.\n\nMiatta Fahnbulleh er utnevnt til ny energiminister. Det opplyser statsministerens kontor mandag.\n\nFra før er det blant annet kjent at tidligere Labour-leder Ed Miliband blir utenriksminister, mens John Healey blir ny finansminister.\n\nHealey var tidligere forsvarsminister, men trakk seg i juni og beskyldte daværende statsminister Keir Stramer for å ikke finansiere forsvaret tilstrekkelig.",
+      "excerpt": "Storbritannias statsminister Andy Burnham har utnevnt Wes Streeting til ny forsvarsminister.\n\nStreeting har tidligere vært helseminister, men trakk seg fra jobben i mai og sa han ikke hadde tillit til daværende statsminister Keir Starmer. Streeting sa også at han ville stille som lederkandidat for...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/wes-streeting-ny-forsvarsminister-i-storbritannia-1.17964215",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-20T23:01:44.574Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784581974828.0212,
       "title": "USA innfører 50 prosent toll på flere varer fra Canada",
       "slug": "usa-innfrer-50-prosent-toll-p-flere-varer-fra-canada",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-18T09:27:07.833Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784366826194.708,
-      "title": "Over 500 uten strøm i Innlandet",
-      "slug": "over-500-uten-strm-i-innlandet",
-      "content": "Over 500 strømkunder i Innlandet er lørdag formiddag uten strøm.\n\nNina Svingen i Elvia opplyser til NRK at strømbruddene kan ha sammenheng med uværet. Det har vært mye regn og torden i deler av Innlandet.\n\nNettselskapet har satt beredskap og ekstra mannskaper er ute for å feilsøke og rette feil.\n\nI Gretten har et tre falt over en strømledning og dratt den ned på bakken. Elvia antar at også dette skyldes været.\n\nI Stange er årsaken til strømbruddet foreløpig ukjent, og mannskaper er ute for å feilsøke.\n\nSvingen sier de ikke kan utelukke at det kan komme flere strømbrudd utover dagen.",
-      "excerpt": "Over 500 strømkunder i Innlandet er lørdag formiddag uten strøm.\n\nNina Svingen i Elvia opplyser til NRK at strømbruddene kan ha sammenheng med uværet. Det har vært mye regn og torden i deler av Innlandet.\n\nNettselskapet har satt beredskap og ekstra mannskaper er ute for å feilsøke og rette feil.\n\nI...",
-      "image": "https://images.unsplash.com/photo-1697308364285-994346ce5e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQzNjY4MjZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/innlandet/over-500-uten-strom-i-innlandet-1.17962054",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-18T09:27:06.195Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2442,
+    "totalFetched": 2443,
     "totalPublished": 77,
-    "lastFetch": "2026-07-20T21:12:56.446Z",
+    "lastFetch": "2026-07-20T23:01:46.014Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
