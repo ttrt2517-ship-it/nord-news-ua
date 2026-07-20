@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1784581974828.0212,
+      "title": "USA innfører 50 prosent toll på flere varer fra Canada",
+      "slug": "usa-innfrer-50-prosent-toll-p-flere-varer-fra-canada",
+      "content": "USA innfører en ny toll på 50 prosent på flere varer fra Canada, opplyser Det hvite hus, ifølge Reuters.\n\nBakgrunnen er at USA mener Canada behandler amerikansk alkohol på en urettferdig måte. Den ekstra høye tollen skal veie opp for dette, ifølge Det hvite hus.\n\nHandelsavtaler og toll\n\nUSAs president Donald Trump annonserte 1. august nye tollsatser for flere av verdens land. Trumps begrunnelse for den økte tollen er at USA har handelsunderskudd med omverdenen. Norge ble ilagt en tollsats på 15 prosent.",
+      "excerpt": "USA innfører en ny toll på 50 prosent på flere varer fra Canada, opplyser Det hvite hus, ifølge Reuters.\n\nBakgrunnen er at USA mener Canada behandler amerikansk alkohol på en urettferdig måte. Den ekstra høye tollen skal veie opp for dette, ifølge Det hvite hus.\n\nHandelsavtaler og toll\n\nUSAs...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/usa-innforer-50-prosent-toll-pa-flere-varer-fra-canada-1.17964197",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-20T21:12:54.829Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784570720053.946,
       "title": "Forbyr elsparkesykler for barn under 17 år",
       "slug": "forbyr-elsparkesykler-for-barn-under-17-r",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-18T09:27:06.195Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784366824639.71,
-      "title": "Store skogbranner i Canada rammer urfolksamfunn",
-      "slug": "store-skogbranner-i-canada-rammer-urfolksamfunn",
-      "content": "Det pågår nesten 900 skogbranner i Canada. Flere av skogbrannene rammer urfolkssamfunn hardt.\n\nDet isolerte urfolkssamfunnet Namaygoosisagagun First Nation har brent helt ned til grunnen.\n\nOver 30 hjem, en skole og flere samfunnsbygg har blitt totalt ødelagt som følge av skogbrannene, ifølge CNN World.\n\nInnbyggerne fikk først beskjed om at skogbrannene ikke utgjorde noen umiddelbar fare. Kort tid senere måtte de evakuere i båt. Alle innbyggerne overlevde.\n\nOđđasat - norsk\n\nKorte nyhetsmeldinger fra NRK Sápmi.",
-      "excerpt": "Det pågår nesten 900 skogbranner i Canada. Flere av skogbrannene rammer urfolkssamfunn hardt.\n\nDet isolerte urfolkssamfunnet Namaygoosisagagun First Nation har brent helt ned til grunnen.\n\nOver 30 hjem, en skole og flere samfunnsbygg har blitt totalt ødelagt som følge av skogbrannene, ifølge CNN...",
-      "image": null,
-      "original_url": "https://www.nrk.no/sapmi/store-skogbranner-i-canada-rammer-urfolksamfunn-1.17962058",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-18T09:27:04.639Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2441,
+    "totalFetched": 2442,
     "totalPublished": 77,
-    "lastFetch": "2026-07-20T18:05:21.866Z",
+    "lastFetch": "2026-07-20T21:12:56.446Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
