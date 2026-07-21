@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1784602168556.6768,
+      "title": "Iran sier de har angrepet amerikansk base",
+      "slug": "iran-sier-de-har-angrepet-amerikansk-base",
+      "content": "Det iranske militæret har skutt raketter mot en amerikansk militærbase i Kuwait, opplyser det statlige iranske nyhetsbyrået IRNA, ifølge AFP.\n\nMålet skal ha vært amerikanske rakettsystemer på basen.\n\nAngrepet skjer samtidig som Irans president, Masoud Pezeshkian, sier at konflikten med USA nå har utviklet seg til en fullskalakrig.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Det iranske militæret har skutt raketter mot en amerikansk militærbase i Kuwait, opplyser det statlige iranske nyhetsbyrået IRNA, ifølge AFP.\n\nMålet skal ha vært amerikanske rakettsystemer på basen.\n\nAngrepet skjer samtidig som Irans president, Masoud Pezeshkian, sier at konflikten med USA nå har...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/iran-sier-de-har-angrepet-amerikansk-base-1.17964217",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-21T02:49:28.556Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784588504573.7324,
       "title": "Wes Streeting ny forsvarsminister i Storbritannia",
       "slug": "wes-streeting-ny-forsvarsminister-i-storbritannia",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-18T11:04:44.745Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784366827833.593,
-      "title": "Justisministeren kommer til Drammen",
-      "slug": "justisministeren-kommer-til-drammen",
-      "content": "Justis- og beredskapsminister Astri Aas-Hansen (Ap) reiser lørdag formiddag til Drammen i forbindelse med storbrannen i Krokstadelva.\n\nStatsråden skal møte kommunens kriseledelse og noen av de evakuerte ved evakueringssenteret på Scandic hotell Ambassadeur i Drammen.\n\nDirektør Lars Jacob Hiim i Direktoratet for samfunnssikkerhet og beredskap (DSB) deltar også på besøket til Drammen.\n\nStorbrann i Krokstadelva\n\nFredag 17. juli brøt det ut en stor brann i en rekkehusbebyggelse i Krokstadelva utenfor Drammen. Over hundre boliger gikk tapt og flere hundre mennesker mistet hjemmene sine.",
-      "excerpt": "Justis- og beredskapsminister Astri Aas-Hansen (Ap) reiser lørdag formiddag til Drammen i forbindelse med storbrannen i Krokstadelva.\n\nStatsråden skal møte kommunens kriseledelse og noen av de evakuerte ved evakueringssenteret på Scandic hotell Ambassadeur i Drammen.\n\nDirektør Lars Jacob Hiim i...",
-      "image": "https://images.unsplash.com/photo-1697193596436-86f818d0f10d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQzNjY4Mjd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/buskerud/justisministeren-kommer-til-drammen-1.17961963",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-18T09:27:07.833Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2443,
+    "totalFetched": 2444,
     "totalPublished": 77,
-    "lastFetch": "2026-07-20T23:01:46.014Z",
+    "lastFetch": "2026-07-21T02:49:30.639Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
