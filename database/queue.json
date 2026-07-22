@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1784754586518.9192,
+      "title": "EU godkjenner Paramounts kjøp av Warner Bros",
+      "slug": "eu-godkjenner-paramounts-kjp-av-warner-bros",
+      "content": "EU-kommisjonen har godkjent Paramount Skydances oppkjøp av Warner Bros. Discovery, forutsatt at Paramount avslutter sin europeiske distribusjonsavtale med Universal Pictures.\n\nParamount har også forpliktet seg til ikke å samarbeide med visse konkurrenter i løpet av de neste ti årene.\n\nOpprinnelig ble det uttrykt bekymring for at avtalen kunne skape konkurranseproblemer for europeiske filmdistributører, og at oppkjøpet kunne gi en dominerende markedsposisjon. Dette anser EU nå som håndtert.\n\nI USA møter oppkjøpet derimot motstand. California og en rekke andre delstater har vunnet fram i forsøket på å midlertidig stanse Paramounts gigantoppkjøp av Warner Bros. Discovery. Det melder Reuters.\n\nDen europeiske union (EU)\n\nDen europeiske union (EU) har 27 medlemsstater som er knyttet sammen i et tett økonomisk og politisk samarbeid. Unionen vokste fram av et handelssamarbeid som skulle hindre en ny konflikt mellom Frankrike og Tyskland etter 2. verdenskrig.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "EU-kommisjonen har godkjent Paramount Skydances oppkjøp av Warner Bros. Discovery, forutsatt at Paramount avslutter sin europeiske distribusjonsavtale med Universal Pictures.\n\nParamount har også forpliktet seg til ikke å samarbeide med visse konkurrenter i løpet av de neste ti årene.\n\nOpprinnelig...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/eu-godkjenner-paramounts-kjop-av-warner-bros--1.17966546",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-22T21:09:46.518Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784748161317.4497,
       "title": "Søker med helikopter etter person i vannet i Lier",
       "slug": "sker-med-helikopter-etter-person-i-vannet-i-lier",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-20T10:53:42.943Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784544821295.926,
-      "title": "Person siktet etter voldshendelse i Froland løslatt",
-      "slug": "person-siktet-etter-voldshendelse-i-froland-lslatt",
-      "content": "Personen som er siktet etter at en mann ble funnet med stikkskader i Froland natt til lørdag er løslatt, opplyser politiet til NRK.\n\n– Personen som er siktet i saken er forsøkt avhørt, men har så langt ikke ønsket å forklare seg for politiet, sier politiinspektør Unni Guldberg.\n\nSaken er registrert som kroppsskade. Den siktede er løslatt og er ikke fremstilt for varetektsfengsling, opplyser politiet.\n\nPolitiet sier de fortsatt er tidlig i etterforskningen.\n\n– Vi arbeider fortsatt med å kartlegge hva som har skjedd gjennom avhør, vitneopplysninger, åstedsundersøkelser og analyse av spor og annet relevant materiale, sier Guldberg.\n\nPolitiet rykket lørdag ut til en melding om ordensforstyrrelser. På stedet fant de en skadet mann.\n\nKriminalitet i Agder\n\nLes flere artikler om kriminalitet i Agder.",
-      "excerpt": "Personen som er siktet etter at en mann ble funnet med stikkskader i Froland natt til lørdag er løslatt, opplyser politiet til NRK.\n\n– Personen som er siktet i saken er forsøkt avhørt, men har så langt ikke ønsket å forklare seg for politiet, sier politiinspektør Unni Guldberg.\n\nSaken er registrert...",
-      "image": "https://images.unsplash.com/photo-1639688173678-360d43d9134c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ1NDQ4MjF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/sorlandet/person-siktet-etter-voldshendelse-i-froland-loslatt-1.17963570",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-20T10:53:41.296Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2484,
+    "totalFetched": 2485,
     "totalPublished": 77,
-    "lastFetch": "2026-07-22T19:22:42.834Z",
+    "lastFetch": "2026-07-22T21:09:48.174Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
