@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1784802258375.8418,
+      "title": "Strømbrudd på Stortinget",
+      "slug": "strmbrudd-p-stortinget",
+      "content": "Ifølge Elvia sitt strømbruddkart er det strømbrudd på Stortinget.\n\nStortinget går på aggregat så det er ingen dramatikk i dette, sier pressevakt på Stortinget.\n\nStortinget\n\nRiksrevisjonen har undersøkt 500 stortingsrepresentanters bruk av blant annet pendlerboliger, reiseutgifter og etterlønn. Over 60 har fått for mye utbetalt og kontrollen har vært for dårlig, konkluderer riksrevisoren.",
+      "excerpt": "Ifølge Elvia sitt strømbruddkart er det strømbrudd på Stortinget.\n\nStortinget går på aggregat så det er ingen dramatikk i dette, sier pressevakt på Stortinget.\n\nStortinget\n\nRiksrevisjonen har undersøkt 500 stortingsrepresentanters bruk av blant annet pendlerboliger, reiseutgifter og etterlønn. Over...",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/strombrudd-pa-stortinget-1.17966977",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-23T10:24:18.375Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784802256652.7017,
+      "title": "Google får gigantbøter frå EU for regelbrot",
+      "slug": "google-fr-gigantbter-fr-eu-for-regelbrot",
+      "content": "EU har ilagt Google bøter på totalt 890 millionar euro blant anna for å favorisere eigne tenester.\n\nBeløpet svarar til 8,5 milliardar kroner i dagens kurs.\n\nEU og USA er ikkje samde om korleis ein skal regulere tek-gigantane, og bøtene vil kunne spisse denne striden ytterlegare.\n\nSelskapet risikerer tvangsbøter på 5 prosent av den globale omsetningen om de ikke retter seg etter EUs krav.\n\nTeknologi og oppfinnelser\n\nTeknologi, læren om teknikker og de tilhørende materielle produkter innenfor et bestemt område. (SNL.no) Teknologiske nyvinninger i næringsliv og forskning påvirker hverdag og arbeidsliv.\n\nDen europeiske union (EU)\n\nDen europeiske union (EU) har 27 medlemsstater som er knyttet sammen i et tett økonomisk og politisk samarbeid. Unionen vokste fram av et handelssamarbeid som skulle hindre en ny konflikt mellom Frankrike og Tyskland etter 2. verdenskrig.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "EU har ilagt Google bøter på totalt 890 millionar euro blant anna for å favorisere eigne tenester.\n\nBeløpet svarar til 8,5 milliardar kroner i dagens kurs.\n\nEU og USA er ikkje samde om korleis ein skal regulere tek-gigantane, og bøtene vil kunne spisse denne striden ytterlegare.\n\nSelskapet...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/google-far-gigantboter-fra-eu-for-regelbrot-1.17966937",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-23T10:24:16.652Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784802254892.3706,
+      "title": "Hundrevis innlagt på grunn av hetebølge i Japan",
+      "slug": "hundrevis-innlagt-p-grunn-av-heteblge-i-japan",
+      "content": "Over 450 personer ble onsdag innlagt på sykehus i Japan som følge av en pågående hetebølge.\n\nDet er det høyeste antallet hetebølge-innleggelser i løpet av én dag i landet på 16 år, ifølge helsemyndighetene.\n\nSamme dag var også antallet utrykninger i forbindelse med varmen på sitt høyeste siden 1963.\n\nI løpet av den siste uken har minst 14 mennesker mistet livet i hetebølgen.\n\nTorsdag ble det registrert temperaturer over 40 grader en rekke steder i Japan. Varmest var det i byen Hamamatsu, sørvest for hovedstaden Tokyo. Der viste gradestokken 41,1 grader.\n\nHetebølge og varmerekorder\n\nVi følger hetebølge og varmerekorder direkte.\nEr du et sted med hetebølge? Ta kontakt med NRK her.",
+      "excerpt": "Over 450 personer ble onsdag innlagt på sykehus i Japan som følge av en pågående hetebølge.\n\nDet er det høyeste antallet hetebølge-innleggelser i løpet av én dag i landet på 16 år, ifølge helsemyndighetene.\n\nSamme dag var også antallet utrykninger i forbindelse med varmen på sitt høyeste siden...",
+      "image": "https://images.unsplash.com/photo-1662452082996-781b13af43d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ4MDIyNTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/hundrevis-innlagt-pa-grunn-av-hetebolge-i-japan-1.17967000",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-23T10:24:14.893Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784788257497.3203,
       "title": "Brann i bolig på Kvernaland",
       "slug": "brann-i-bolig-p-kvernaland",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-21T06:29:16.769Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784615354931.8596,
-      "title": "Burnham kutter strømmomsen på sin første dag som statsminister",
-      "slug": "burnham-kutter-strmmomsen-p-sin-frste-dag-som-statsminister",
-      "content": "Storbritannias nye statsminister Andy Burnham opplyste tirsdag at momsen på britiske strømregninger for husholdninger fjernes 1. oktober.\n\nSkattekuttet er beregnet å koste 850 millioner pund, tilsvarende rundt 11 milliarder kroner. Pengene kommer fra at Burnham har skrotet Starmer-regjeringens prosjekt om å innføre en digital ID-løsning, som hadde en prislapp på 1,8 milliarder dollar, tilsvarende 2,3 milliarder kroner, skriver NTB.\n\n– Vi tar umiddelbare grep for å kutte avgiftene på strømregninger, for å gi folk mer å rutte med og bringe håpet tilbake, sier Burnham.",
-      "excerpt": "Storbritannias nye statsminister Andy Burnham opplyste tirsdag at momsen på britiske strømregninger for husholdninger fjernes 1. oktober.\n\nSkattekuttet er beregnet å koste 850 millioner pund, tilsvarende rundt 11 milliarder kroner. Pengene kommer fra at Burnham har skrotet Starmer-regjeringens...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/burnham-kutter-strommomsen-pa-sin-forste-dag-som-statsminister-1.17964345",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-21T06:29:14.931Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784602168556.6768,
-      "title": "Iran sier de har angrepet amerikansk base",
-      "slug": "iran-sier-de-har-angrepet-amerikansk-base",
-      "content": "Det iranske militæret har skutt raketter mot en amerikansk militærbase i Kuwait, opplyser det statlige iranske nyhetsbyrået IRNA, ifølge AFP.\n\nMålet skal ha vært amerikanske rakettsystemer på basen.\n\nAngrepet skjer samtidig som Irans president, Masoud Pezeshkian, sier at konflikten med USA nå har utviklet seg til en fullskalakrig.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Det iranske militæret har skutt raketter mot en amerikansk militærbase i Kuwait, opplyser det statlige iranske nyhetsbyrået IRNA, ifølge AFP.\n\nMålet skal ha vært amerikanske rakettsystemer på basen.\n\nAngrepet skjer samtidig som Irans president, Masoud Pezeshkian, sier at konflikten med USA nå har...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/iran-sier-de-har-angrepet-amerikansk-base-1.17964217",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-21T02:49:28.556Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784588504573.7324,
-      "title": "Wes Streeting ny forsvarsminister i Storbritannia",
-      "slug": "wes-streeting-ny-forsvarsminister-i-storbritannia",
-      "content": "Storbritannias statsminister Andy Burnham har utnevnt Wes Streeting til ny forsvarsminister.\n\nStreeting har tidligere vært helseminister, men trakk seg fra jobben i mai og sa han ikke hadde tillit til daværende statsminister Keir Starmer. Streeting sa også at han ville stille som lederkandidat for Labour, men valgte senere å ikke utfordre Burnham for stillingen.\n\nMiatta Fahnbulleh er utnevnt til ny energiminister. Det opplyser statsministerens kontor mandag.\n\nFra før er det blant annet kjent at tidligere Labour-leder Ed Miliband blir utenriksminister, mens John Healey blir ny finansminister.\n\nHealey var tidligere forsvarsminister, men trakk seg i juni og beskyldte daværende statsminister Keir Stramer for å ikke finansiere forsvaret tilstrekkelig.",
-      "excerpt": "Storbritannias statsminister Andy Burnham har utnevnt Wes Streeting til ny forsvarsminister.\n\nStreeting har tidligere vært helseminister, men trakk seg fra jobben i mai og sa han ikke hadde tillit til daværende statsminister Keir Starmer. Streeting sa også at han ville stille som lederkandidat for...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/wes-streeting-ny-forsvarsminister-i-storbritannia-1.17964215",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-20T23:01:44.574Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2492,
+    "totalFetched": 2495,
     "totalPublished": 77,
-    "lastFetch": "2026-07-23T06:30:59.531Z",
+    "lastFetch": "2026-07-23T10:24:20.438Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
