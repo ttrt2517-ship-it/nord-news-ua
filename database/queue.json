@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1784788257497.3203,
+      "title": "Brann i bolig på Kvernaland",
+      "slug": "brann-i-bolig-p-kvernaland",
+      "content": "Det er full overtenning i en bolig på Kvernaland i Time kommune.\n\nBeboere har varslet naboer. Boligen ligger i et byggefelt. Det kan være spredningsfare, men det er meldt om lite vind i området.\n\n– Mannskaper har kommet frem til stedet. De driver med slokking og har fått slått ned åpne flammer. Nå sjekker de konstruksjonen på huset og i garasjen. Det er en aktiv slokkeinnsats med røykdykkere inne i huset, sier Christer Gilberg, vaktleder i 110 Sør-Vest.\n\nKlokka 06.51 melder politiet at det er kontroll på brannen, men fortsatt en del røyk i området.\n\nDet er ikke meldt om personskader. Beboerne startet selv med slukking og fikk varslet naboer, ifølge politiet.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
+      "excerpt": "Det er full overtenning i en bolig på Kvernaland i Time kommune.\n\nBeboere har varslet naboer. Boligen ligger i et byggefelt. Det kan være spredningsfare, men det er meldt om lite vind i området.\n\n– Mannskaper har kommet frem til stedet. De driver med slokking og har fått slått ned åpne flammer. Nå...",
+      "image": "https://images.unsplash.com/photo-1698306583861-72a12eb544a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ3ODgyNTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/rogaland/brann-i-bolig-pa-kvernaland-1.17966682",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-23T06:30:57.497Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784788255651.45,
+      "title": "Tass: Lavrov og Rubio møttest i Filippinane",
+      "slug": "tass-lavrov-og-rubio-mttest-i-filippinane",
+      "content": "USAs utanriksminister Marco Rubio og Russlands utanriksminister Sergej Lavrov møttest i den filippinske hovudstaden Manila torsdag, melder det russiske statlege nyheitsbyrået Tass.\n\nDei to skal blant anna ha snakka om krigen i Ukraina og normalisering av forholdet mellom Russland og USA.\n\nDet er for tida utanriksministermøte i den søraustasiatiske samarbeidsorganisasjonen ASEAN i Manila.",
+      "excerpt": "USAs utanriksminister Marco Rubio og Russlands utanriksminister Sergej Lavrov møttest i den filippinske hovudstaden Manila torsdag, melder det russiske statlege nyheitsbyrået Tass.\n\nDei to skal blant anna ha snakka om krigen i Ukraina og normalisering av forholdet mellom Russland og USA.\n\nDet er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/tass_-lavrov-og-rubio-mottest-i-filippinane-1.17966672",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-23T06:30:55.651Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784788253902.3496,
+      "title": "Regjeringen gir mer i støtte til Oslofjord-fiskere",
+      "slug": "regjeringen-gir-mer-i-sttte-til-oslofjordfiskere",
+      "content": "Regjeringen dobler støtten til omstilling for fiskere i Oslofjorden til totalt 30 millioner kroner, skriver de i en pressemelding.\n\n– Det gir oss mulighet til å hjelpe flere fiskere som har mistet tilgang til viktige fangstfelt, sier fiskeri- og havminister Marianne Sivertsen Næss (Ap).\n\nBevilgningen økes fra 15 millioner kroner etter at Ap-regjeringen ble enig med Rødt, SV, Sp og MDG om revidert nasjonalbudsjett.\n\nBakgrunnen for støtten er at det fra 1. januar ble innført nullfiskeområder i Oslofjorden. Målet er å styrke fiskebestanden og bidra til å gjenopprette økosystemet.\n\nDen nye ordningen skal etter planen være klar i slutten av august.\n\nOslofjorden\n\nFlere oppvekst- og leveområder for fisk og andre arter holder på å dø ut i Oslofjorden, ifølge Miljødirektoratet, som varsler nye tiltak. Undersøkelser gjort av NGI viser omfattende funn av miljøgifter, kvikksølv og andre tungmetaller.",
+      "excerpt": "Regjeringen dobler støtten til omstilling for fiskere i Oslofjorden til totalt 30 millioner kroner, skriver de i en pressemelding.\n\n– Det gir oss mulighet til å hjelpe flere fiskere som har mistet tilgang til viktige fangstfelt, sier fiskeri- og havminister Marianne Sivertsen Næss...",
+      "image": "https://images.unsplash.com/photo-1665929458538-790753504cc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ3ODgyNTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/regjeringen-gir-mer-i-stotte-til-oslofjord-fiskere-1.17966681",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-23T06:30:53.902Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784775186633.948,
       "title": "Forsvarspakke godkjent i Representantenes hus",
       "slug": "forsvarspakke-godkjent-i-representantenes-hus",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-20T23:01:44.574Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784581974828.0212,
-      "title": "USA innfører 50 prosent toll på flere varer fra Canada",
-      "slug": "usa-innfrer-50-prosent-toll-p-flere-varer-fra-canada",
-      "content": "USA innfører en ny toll på 50 prosent på flere varer fra Canada, opplyser Det hvite hus, ifølge Reuters.\n\nBakgrunnen er at USA mener Canada behandler amerikansk alkohol på en urettferdig måte. Den ekstra høye tollen skal veie opp for dette, ifølge Det hvite hus.\n\nHandelsavtaler og toll\n\nUSAs president Donald Trump annonserte 1. august nye tollsatser for flere av verdens land. Trumps begrunnelse for den økte tollen er at USA har handelsunderskudd med omverdenen. Norge ble ilagt en tollsats på 15 prosent.",
-      "excerpt": "USA innfører en ny toll på 50 prosent på flere varer fra Canada, opplyser Det hvite hus, ifølge Reuters.\n\nBakgrunnen er at USA mener Canada behandler amerikansk alkohol på en urettferdig måte. Den ekstra høye tollen skal veie opp for dette, ifølge Det hvite hus.\n\nHandelsavtaler og toll\n\nUSAs...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-innforer-50-prosent-toll-pa-flere-varer-fra-canada-1.17964197",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-20T21:12:54.829Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784570720053.946,
-      "title": "Forbyr elsparkesykler for barn under 17 år",
-      "slug": "forbyr-elsparkesykler-for-barn-under-17-r",
-      "content": "Mens den norske regjeringen vurderer å innføre strengere regler for elsparkesykler strammer to andre europeiske land inn.\n\nI Hellas blir det forbudt for barn under 17 år å kjøre elsparkesykler, sier den greske regjeringen til TV-kanalen Skai. Lovendringen kommer etter flere ulykker.\n\nTidligere mandag ble det også kjent at Irland hever aldersgrensen fra 16 til 18 år, og innfører påbud om hjelm.\n\nI Norge er den generelle aldersgrensen for elsparkesykler 12 år. Utleieselskapene har egne, strengere aldersgrenser på 15 eller 16 år.\n\nEn 13-åring ble stoppa med en elsparkesykkel som kunne kjøre i 143 km/t. Nå varsler regjeringa mulig forbud.\n\nElsykkel og elsparkesykkel\n\nTitusenvis av elsparkesykler er utplassert i norske byer, og legevaktene melder om mange ulykker. I Oslo har kommunen satt et tak på 8000 elsparkesykler.",
-      "excerpt": "Mens den norske regjeringen vurderer å innføre strengere regler for elsparkesykler strammer to andre europeiske land inn.\n\nI Hellas blir det forbudt for barn under 17 år å kjøre elsparkesykler, sier den greske regjeringen til TV-kanalen Skai. Lovendringen kommer etter flere ulykker.\n\nTidligere...",
-      "image": "https://images.unsplash.com/photo-1672567405825-f348818250fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ1NzA3MjB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/forbyr-elsparkesykler-for-barn-under-17-ar-1.17963581",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-20T18:05:20.053Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784570718299.2637,
-      "title": "Raumabanen åpnet for trafikk",
-      "slug": "raumabanen-pnet-for-trafikk",
-      "content": "Raumabanen er åpnet igjen, melder Bane Nor. Togtrafikken mellom Dombås og Åndalsnes ble stanset etter at det gikk et ras ved Hersel i Rauma i ettermiddag. Selv om raset ikke gikk over jernbanen, ble togtrafikken stanset av sikkerhetshensyn. Det førte til buss for tog mandag.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
-      "excerpt": "Raumabanen er åpnet igjen, melder Bane Nor. Togtrafikken mellom Dombås og Åndalsnes ble stanset etter at det gikk et ras ved Hersel i Rauma i ettermiddag. Selv om raset ikke gikk over jernbanen, ble togtrafikken stanset av sikkerhetshensyn. Det førte til buss for tog mandag.\n\nNyheitssenter Møre og...",
-      "image": null,
-      "original_url": "https://www.nrk.no/mr/raumabanen-apnet-for-trafikk--1.17964083",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-20T18:05:18.300Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2489,
+    "totalFetched": 2492,
     "totalPublished": 77,
-    "lastFetch": "2026-07-23T02:53:08.258Z",
+    "lastFetch": "2026-07-23T06:30:59.531Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
