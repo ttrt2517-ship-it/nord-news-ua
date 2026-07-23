@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1784840736472.0188,
+      "title": "Dubai: Gavekort til innbyggere som henter turister",
+      "slug": "dubai-gavekort-til-innbyggere-som-henter-turister",
+      "content": "Nå tilbyr myndighetene gavekort til innbyggere i De forente arabiske emirater som klarer å få venner og familie til å besøke byen. Fordelene er hotellopphold, restaurantrabatter og billetter til severdigheter, ifølge Visit Dubai.\n\nTiltaket kommer etter et fall i besøkstallene som følge av konflikten i Midtøsten.\n\nI 2025 ble Dubai besøkt av nesten 20 millioner mennesker.\n\nI februar avfyrte imidlertid Iran missiler og droner som blant annet rammet luksushotellet Fairmont.\n\nSiden konflikten brøt ut, har antallet flyselskaper som opererer i Dubai blitt halvert, og flere bedrifter rapporterer om et omsetningsfall på opptil 50 prosent, ifølge The Guardian.\n\nKrig og konflikt i Midtøsten\n\nEtter angrepet mot Israel 7. oktober 2023 har situasjonen i Midtøsten stadig forverret seg. Det har vært daglige rakettangrep mellom Israel og Iran-støttede Hizbollah i Libanon. Eksperter frykter storkrig.",
+      "excerpt": "Nå tilbyr myndighetene gavekort til innbyggere i De forente arabiske emirater som klarer å få venner og familie til å besøke byen. Fordelene er hotellopphold, restaurantrabatter og billetter til severdigheter, ifølge Visit Dubai.\n\nTiltaket kommer etter et fall i besøkstallene som følge av...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/dubai_-gavekort-til-innbyggere-som-henter-turister-1.17967505",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-23T21:05:36.472Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784834413308.8003,
       "title": "Tre rømte hester dukka opp i boligstrøk i Oslo",
       "slug": "tre-rmte-hester-dukka-opp-i-boligstrk-i-oslo",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-21T17:21:58.067Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784648705861.377,
-      "title": "Spania vil forby røyking på strender og uteserveringer",
-      "slug": "spania-vil-forby-ryking-p-strender-og-uteserveringer",
-      "content": "Den spanske regjeringen vil forby all røyking og bruk av e-sigaretter på uteserveringer, strender og i parker.\n\nLovforslaget må vedtas i et parlament der regjeringen mangler flertall, og ventes å møte kraftig motstand fra serveringsbransjen i landet.\n\n– Målet er enkelt: å gjøre ren luft til normen i fellesområder, sier helseminister Monica Garcia.",
-      "excerpt": "Den spanske regjeringen vil forby all røyking og bruk av e-sigaretter på uteserveringer, strender og i parker.\n\nLovforslaget må vedtas i et parlament der regjeringen mangler flertall, og ventes å møte kraftig motstand fra serveringsbransjen i landet.\n\n– Målet er enkelt: å gjøre ren luft til normen...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/spania-vil-forby-royking-pa-strender-og-uteserveringer-1.17964997",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-21T15:45:05.861Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2504,
+    "totalFetched": 2505,
     "totalPublished": 77,
-    "lastFetch": "2026-07-23T19:20:15.630Z",
+    "lastFetch": "2026-07-23T21:05:38.659Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
