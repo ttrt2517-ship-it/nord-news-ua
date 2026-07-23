@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1784815446337.0479,
+      "title": "Olaf Tufte begraves 31. juli",
+      "slug": "olaf-tufte-begraves-31-juli",
+      "content": "Begravelsen til idrettshelten Olaf Tufte finner sted i Horten fredag 31. juli.\n\nTufte døde tidligere i uken av akutt hjertestans. Rolegenden ble funnet bevisstløs på gården i Nykirke og ble fraktet til sykehus, men livet sto ikke til å redde.\n\nTufte var en av Norges mest folkekjære idrettshelter. Han var den første nordmann som vant internasjonale titler i singlesculler. Han vant VM-gull i 2001 og 2003, OL-gull i 2004 og 2008.\n\nHan deltok i alle sommer-OL fra Atlanta i 1996 til Tokyo i 2021, altså en periode på 25 år. Han var den første nordmann med deltakelse i sju olympiske leker.\n\nTufte ble 50 år gammel og etterlater seg kona Aina og deres to barn. (NTB)\n\nSportsnyheter\n\nHer får du de siste sportsnyhetene fra NRK.",
+      "excerpt": "Begravelsen til idrettshelten Olaf Tufte finner sted i Horten fredag 31. juli.\n\nTufte døde tidligere i uken av akutt hjertestans. Rolegenden ble funnet bevisstløs på gården i Nykirke og ble fraktet til sykehus, men livet sto ikke til å redde.\n\nTufte var en av Norges mest folkekjære idrettshelter....",
+      "image": "https://images.unsplash.com/photo-1663610804918-c87cd25f6040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ4MTU0NDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/sport/olaf-tufte-begraves-31.-juli-1.17966805",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-23T14:04:06.338Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784815444605.5674,
+      "title": "Hordvikskytter varetektsfengslet i fire nye uker",
+      "slug": "hordvikskytter-varetektsfengslet-i-fire-nye-uker",
+      "content": "Mannen som er siktet etter Hordvik-skytingen i Bergen i februar, er varetektsfengslet i fire nye uker av Hordaland tingrett.\n\nDen siktede forskanset seg i egen bolig og skjøt en rekke skudd mot politiet.\n\nDen væpnede aksjonen varte i flere timer før mannen ble pågrepet etter at huset han oppholdt seg i tok fyr.\n\nRetten viser til at etterforskningen har styrket mistankegrunnlaget, og mener det fortsatt er fare for gjentakelse.",
+      "excerpt": "Mannen som er siktet etter Hordvik-skytingen i Bergen i februar, er varetektsfengslet i fire nye uker av Hordaland tingrett.\n\nDen siktede forskanset seg i egen bolig og skjøt en rekke skudd mot politiet.\n\nDen væpnede aksjonen varte i flere timer før mannen ble pågrepet etter at huset han oppholdt...",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestland/hordvikskytter-varetektsfengslet-i-fire-nye-uker-1.17967316",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-23T14:04:04.605Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784815442813.1284,
+      "title": "USA: Kan få historisk lave drapstall",
+      "slug": "usa-kan-f-historisk-lave-drapstall",
+      "content": "Data fra 30 amerikanske storbyer viser en nedgang i drapsraten på 18 prosent sammenlignet med samme periode i fjor, viser en ny rapport fra den uavhengige tankesmien Council on Criminal Justice.\n\nSkulle trenden fortsette ut året, vil landet få den laveste drapsraten på over hundre år.\n\nI tillegg til drap falt også tallene for væpnede ran, bilran og innbrudd i boliger. Det ble imidlertid registrert en liten økning i butikktyverier, familievold og seksuelle overgrep.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Data fra 30 amerikanske storbyer viser en nedgang i drapsraten på 18 prosent sammenlignet med samme periode i fjor, viser en ny rapport fra den uavhengige tankesmien Council on Criminal Justice.\n\nSkulle trenden fortsette ut året, vil landet få den laveste drapsraten på over hundre år.\n\nI tillegg...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/usa_-kan-fa-historisk-lave-drapstall-1.17967284",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-23T14:04:02.813Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784802258375.8418,
       "title": "Strømbrudd på Stortinget",
       "slug": "strmbrudd-p-stortinget",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-21T10:26:02.325Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784629560503.5767,
-      "title": "India krever svar fra Russland etter angrep på lasteskip",
-      "slug": "india-krever-svar-fra-russland-etter-angrep-p-lasteskip",
-      "content": "Myndighetene i Russland sier de er i kontakt med India etter at et missilangrep drepte fire indere på et lasteskip i Svartehavet da det var på vei ut fra havnen i Odesa i Ukraina.\n\nSkipet «Golden Leo», som var flagget i Guinea-Bissau og hadde et mannskap om bord fra India og Syria, ble truffet av missiler søndag. Ti personer ble drept, fire av dem indere.\n\nIndia har kalt Russlands utsending inn på teppet etter hendelsen.\n\nDmitrij Peskov sa tirsdag at Russland vil fortsette å ramme fartøyer som bidrar til å forsyne det ukrainske militæret, melder nyhetsbyrået Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Myndighetene i Russland sier de er i kontakt med India etter at et missilangrep drepte fire indere på et lasteskip i Svartehavet da det var på vei ut fra havnen i Odesa i Ukraina.\n\nSkipet «Golden Leo», som var flagget i Guinea-Bissau og hadde et mannskap om bord fra India og Syria, ble truffet av...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/india-krever-svar-fra-russland-etter-angrep-pa-lasteskip-1.17964532",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-21T10:26:00.503Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784615358676.9316,
-      "title": "Filippinsk soldat skadet i Sør-Kinahavet – Kina overleverer formell protest",
-      "slug": "filippinsk-soldat-skadet-i-srkinahavet-kina-overleverer-form",
-      "content": "Kina har innkalt Filippinenes ambassadør til en formell protest etter et nytt sammenstøt ved det omstridte området Second Thomas Shoal i Sør-Kinahavet. Det førte til at en filippinsk marinesoldat fikk hodeskader i konfrontasjon.\n\nBeijing hevder Manila fremprovoserte hendelsen, men tillot evakuering av den skadde soldaten fra det grunnstøtte krigsskipet av humanitære hensyn, melder nyhetsbyrået Reuters.\n\nKina\n\nKina er verdens nest mest folkerike land, og blant de eldste kontinuerlige sivilisasjonene i verden. Landet ledes av kommunistpartiet og president Xi Jinping, som er den første lederen siden formann Mao som har sittet i tre 5-årsperioder.\n\nFilippinene\n\nFilippinenes tidligere president Rodrigo Duterte er pågrepet etter en arrestordre fra Den internasjonale straffedomstolen (ICC).",
-      "excerpt": "Kina har innkalt Filippinenes ambassadør til en formell protest etter et nytt sammenstøt ved det omstridte området Second Thomas Shoal i Sør-Kinahavet. Det førte til at en filippinsk marinesoldat fikk hodeskader i konfrontasjon.\n\nBeijing hevder Manila fremprovoserte hendelsen, men tillot evakuering...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/filippinsk-soldat-skadet-i-sor-kinahavet-_-kina-overleverer-formell-protest-1.17964290",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-21T06:29:18.676Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784615356769.7407,
-      "title": "Lav rekebestand i Nordland",
-      "slug": "lav-rekebestand-i-nordland",
-      "content": "Skjervøyfisker Dag Mollan er overrasket over hvor lite reker det har vært langs Nordlanskysten i år, skriver Kyst og Fjord.\n\nMollan har de tre siste ukene vært på overvåkningstokt for Fiskeridirektoratet, hvor han bidrar med å samle inn data om rekebestandene.\n\n– Det var egentlig skremmende dårlig nedover Nordland. Vi tar bare stikkprøver, men det vi så var ikke særlig oppløftende, sier han til fiskeriavisa.\n\nÅrets største utfordring er at rekene har vært mer spredt enn tidligere.\n\n– Ut fra det jeg så i fjor, er jeg optimistisk. Det kan være naturlige forhold som gjør at rekene flytter seg eller blir mindre tilgjengelige enkelte år, forklarer han til Kyst og Fjord.",
-      "excerpt": "Skjervøyfisker Dag Mollan er overrasket over hvor lite reker det har vært langs Nordlanskysten i år, skriver Kyst og Fjord.\n\nMollan har de tre siste ukene vært på overvåkningstokt for Fiskeridirektoratet, hvor han bidrar med å samle inn data om rekebestandene.\n\n– Det var egentlig skremmende dårlig...",
-      "image": "https://images.unsplash.com/photo-1780857774274-079152a315f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ2MTUzNTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nordland/lav-rekebestand-i-nordland-1.17964292",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-21T06:29:16.769Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2495,
+    "totalFetched": 2498,
     "totalPublished": 77,
-    "lastFetch": "2026-07-23T10:24:20.438Z",
+    "lastFetch": "2026-07-23T14:04:07.995Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
