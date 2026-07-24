@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1784914741189.7952,
+      "title": "Truet 12-åring med kniv",
+      "slug": "truet-12ring-med-kniv",
+      "content": "Politiet har kontroll på to gjerningsmenn etter at en 12 år gammel gutt ble forsøkt ranet med kniv i Trondheim sentrum i ettermiddag. Flere patruljer jobber nå med etterforskning i form av avhør og sikring av overvåkningsvideo på aktuelle adresser, ifølge politiet.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "Politiet har kontroll på to gjerningsmenn etter at en 12 år gammel gutt ble forsøkt ranet med kniv i Trondheim sentrum i ettermiddag. Flere patruljer jobber nå med etterforskning i form av avhør og sikring av overvåkningsvideo på aktuelle adresser, ifølge politiet.\n\nNyhetssenter Trøndelag\n\nSiste...",
+      "image": "https://images.unsplash.com/photo-1659424765411-2ae87f5d1c06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ5MTQ3NDF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/trondelag/truet-12-aring-med-kniv-1.17968451",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-24T17:39:01.189Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784914739292.955,
+      "title": "Israel i gang med å grave krokodille-vollgrav rundt fengsel med palestinske fanger",
+      "slug": "israel-i-gang-med-grave-krokodillevollgrav-rundt-fengsel-med",
+      "content": "Israel startet denne uken å grave ut en vollgrav som skal fylles med krokodiller rundt et fengsel som huser palestinske fanger.\n\nDet bekrefter det israelske sikkerhetsdepartementet til Ynet.\n\nIsraels natur- og parkmyndighet motsatte seg imidlertid ideen og viste til at nilkrokodiller er ville dyr som ikke kan benyttes på en slik måte.\n\nMen i forrige uke ble det kjent at miljøverndepartementet har endret klassifiseringen av reptilene til oppdrettsdyr, slik at prosjektet kan gjennomføres.\n\n– Alle som trodde dette bare var en gimmick, tok feil, sier sikkerhetsdepartementet i en uttalelse.\n\nDet er satt av rundt 60 millioner kroner til prosjektet og fengselsbetjenter har også fått opplæring i å håndtere dyrene.\n\nPalestina\n\nPalestina er en delvis anerkjent stat i Midtøsten, bestående av Vestbredden og Gazastripen. Området har blitt herjet av krig med blant annet Israel i lang tid. Norge har anerkjent Palestina som en selvstendig stat siden mai 2024.",
+      "excerpt": "Israel startet denne uken å grave ut en vollgrav som skal fylles med krokodiller rundt et fengsel som huser palestinske fanger.\n\nDet bekrefter det israelske sikkerhetsdepartementet til Ynet.\n\nIsraels natur- og parkmyndighet motsatte seg imidlertid ideen og viste til at nilkrokodiller er ville dyr...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/israel-i-gang-med-a-grave-krokodille-vollgrav-rundt-fengsel-med-palestinske-fanger-1.17968421",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-24T17:38:59.292Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784914737597.1025,
+      "title": "Titusener evakueres fra branner i Sør-Europa",
+      "slug": "titusener-evakueres-fra-branner-i-sreuropa",
+      "content": "40.000 mennesker er evakuert eller beordret til å holde seg innendørs på grunn av skogbranner i Madrid-regionen, opplyser myndighetene, skriver AFP.\n\nSterk vind og brennhete temperaturer gjør slokkingsarbeidet vanskelig. Brannen har ødelagt titalls hjem og ført til stengning av flere veier, opplyser tjenestepersoner.\n\nI det sørvestlige Frankrike er ytterligere 8000 personer evakuert i det sørvestlige Frankrike som følge av brannene som herjer, opplyser myndighetene.\n\nSkogbranner i Sør-Europa\n\nDenne sommeren har det vært rekordmange skogbranner i sørlige Europa. Hundretusenvis av mål med skog er lagt i aske i Frankrike, Hellas, Spania og Portugal.",
+      "excerpt": "40.000 mennesker er evakuert eller beordret til å holde seg innendørs på grunn av skogbranner i Madrid-regionen, opplyser myndighetene, skriver AFP.\n\nSterk vind og brennhete temperaturer gjør slokkingsarbeidet vanskelig. Brannen har ødelagt titalls hjem og ført til stengning av flere veier...",
+      "image": "https://images.unsplash.com/photo-1554140781-33058d9962b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ5MTQ3Mzd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/titusener-evakueres-fra-branner-i-sor-europa-1.17968515",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-24T17:38:57.597Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784906763582.8425,
       "title": "Første dose satt av ny ebolavaksine",
       "slug": "frste-dose-satt-av-ny-ebolavaksine",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-22T13:59:13.429Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784715975095.348,
-      "title": "Norwegian word of the day: Krone",
-      "slug": "norwegian-word-of-the-day-krone",
-      "content": "Krone is one of the first Norwegian words you’ll come across, whether you live in Norway or are just visiting, as it’s the name of the country’s currency. Where does it come from?\n\nKrone is the Norwegian word for crown, as well as the name of Norway’s currency, shortened in Norway to kr, or outside Norway as NOK. The plural is kroner.\n\nYou may sometimes see prices in kroner followed by a colon and a hyphen, like this: “10,-”. Initially, there would have been a number of øre (a hundredth of a krone) after the colon, for example, 10,90 indicating ten kroner and 90 øre, but in practice, the øre figure is falling out of usage.\n\nThe øre coin has long been phased out, and the 50 øre coin ceased being legal tender in 2012, and prices are often just rounded to the nearest full kroner when paying in cash.\n\nNorway isn’t the only country that uses the krone as currency. Iceland has the króna (krónur in plural), Denmark has the krone, and Sweden has the krona (kronor in plural).\n\nThe reason for this is that Sweden, Norway and Denmark (and Iceland, which at that point was part of Denmark) did at one point have a Scandinavian monetary union, leading from the 1870s until roughly the time of the First World War. Each country issued its own currency while accepting the other countries’ currencies as legal tender.\n\nBefore this, Norwegians used speciedaler, which was all based on silver Reichsthaler (literally: realm or Reich dollar), defined as 25.28 grams of fine silver. When the krone was switched to be based on gold, 1 krone corresponded to 0.4032259 grams of gold.\n\nThe Czech Republic uses crowns (koruna), and other countries that have used the crown previously include Estonia (kroon), Hungary (korona), and Slovakia (koruna).\n\nCrowns have also existed as denominations of other currencies, like the British crown, which used to be worth five shillings or a quarter of an old pound.\n\nThe word krone comes from the Latin word corona, which originally referred to a laurel wreath presented to athletes, later evolving to mean the word for a crown or garland.\n\nNorway’s royal family also wears crowns. Among the current royal regalia are a royal crown, a queen’s crown and a hereditary prince's crown for the crown prince or other heir to the throne. There’s also a royal sceptre and queen’s sceptre, as well as swords, coronation robes and anointing horn.\n\nHowever, the current regalia have only been used in coronations.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Krone is one of the first Norwegian words you’ll come across, whether you live in Norway or are just visiting, as it’s the name of the country’s currency. Where does it come from?\n\nKrone is the Norwegian word for crown, as well as the name of Norway’s currency, shortened in Norway to kr, or outside...",
-      "image": "https://images.unsplash.com/photo-1599847740927-599426b94713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ3MTU5NzV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20250407/norwegian-word-of-the-day-krone",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-07-22T10:26:15.095Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784715970179.2822,
-      "title": "Kongeparet til stede på 22.juli-markering i domkirken",
-      "slug": "kongeparet-til-stede-p-22julimarkering-i-domkirken",
-      "content": "Kong Harald og dronning Sonja var begge på plass på gudstjeneste i Oslo domkirke, for å markere at det er 15 år siden terrorangrepene 22. juli.\n\nKongeparet ankom rett før gudstjenesten startet klokka 11.\n\nUtviklingsminister Åsmund Aukrust, som selv overlevde på Utøya som AUF-er, var blant dem som talte i kirken.\n\nKaroline Krüger og Sigvart Dagsland var blant dem som stod for de musikalske innslagene.\n\nI forkant av gudstjenesten var det minnemarkering i regjeringskvartalet, og senere holdes det en markering på Utøya.\n\nÅtte personer ble drept i regjeringskvartalet og 69 i det påfølgende angrepet på AUFs sommerleir på Utøya 22. juli 2011.\n\nTerrorangrepene 22. juli 2011\n\nPå ettermiddagen 22. juli 2011 ble Norge rammet av to terrorangrep. 77 personer, de fleste ungdommer, døde i bombeangrepet på regjeringskvartalet og massedrapet på Utøya.",
-      "excerpt": "Kong Harald og dronning Sonja var begge på plass på gudstjeneste i Oslo domkirke, for å markere at det er 15 år siden terrorangrepene 22. juli.\n\nKongeparet ankom rett før gudstjenesten startet klokka 11.\n\nUtviklingsminister Åsmund Aukrust, som selv overlevde på Utøya som AUF-er, var blant dem som...",
-      "image": "https://images.unsplash.com/photo-1784129380422-c09fc4071152?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ3MTU5NzB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/kongeparet-til-stede-pa-22.juli-markering-i-domkirken-1.17965910",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-22T10:26:10.179Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784715968461.9421,
-      "title": "Rubio: – Samtaler om USA-besøk for Xi",
-      "slug": "rubio-samtaler-om-usabesk-for-xi",
-      "content": "USAs utenriksminister Marco Rubio sa på onsdag at han har drøftet et planlagt USA-besøk for president Xi Jinping med Kinas utenriksminister Wang Yi.\n\n– Begge sider har uenigheter, men deres jobb er å håndtere dem, og det finnes områder for potensielt samarbeid, sa Rubio til pressen etter møtet i Manila, som varte i rundt 90 minutter.",
-      "excerpt": "USAs utenriksminister Marco Rubio sa på onsdag at han har drøftet et planlagt USA-besøk for president Xi Jinping med Kinas utenriksminister Wang Yi.\n\n– Begge sider har uenigheter, men deres jobb er å håndtere dem, og det finnes områder for potensielt samarbeid, sa Rubio til pressen etter møtet i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/rubio_-_-samtaler-om-usa-besok-for-xi-1.17965932",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-22T10:26:08.461Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2522,
+    "totalFetched": 2525,
     "totalPublished": 77,
-    "lastFetch": "2026-07-24T15:26:05.329Z",
+    "lastFetch": "2026-07-24T17:39:03.292Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
