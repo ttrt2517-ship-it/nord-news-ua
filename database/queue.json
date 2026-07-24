@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1784927112318.6711,
+      "title": "Venezuela trekker seg fra Den internasjonale straffedomstolen",
+      "slug": "venezuela-trekker-seg-fra-den-internasjonale-straffedomstole",
+      "content": "Venezuela vil begynne prosessen med å trekke seg fra Den internasjonale straffedomstolen (ICC).\n\nDe etterforsker påståtte forbrytelser mot menneskeheten begått under regjeringen til den avsatte presidenten Nicolás Maduro.\n\nDette opplyste landets Félix Plasencia som er landets utenriksminister fredag.\n\nHan anklager også domstolen for å ha en geografisk slagside.\n\nRegjeringen i Venezuela ble innsatt etter at USA bortførte deres president og USA er heller ikke medlem av ICC.\n\nVenezuela\n\nNatt til 25. juni ble Venezuela rammet av to store jordskjelv. Hittil er over 3500 mennesker bekreftet omkommet. Mange tusen er fortsatt savnet. Naturkatastrofen har forverret situasjonen i det allerede kriserammede landet.\n\nICC-domstolen i Haag\n\nDen internasjonale straffedomstolen (ICC) er en fast domstol som kan straffeforfølge enkeltindivider for krigsforbrytelser, forbrytelser mot menneskeheten og folkemord. Domstolen har sete i Haag i Nederland. 123 land er tilsluttet traktaten.",
+      "excerpt": "Venezuela vil begynne prosessen med å trekke seg fra Den internasjonale straffedomstolen (ICC).\n\nDe etterforsker påståtte forbrytelser mot menneskeheten begått under regjeringen til den avsatte presidenten Nicolás Maduro.\n\nDette opplyste landets Félix Plasencia som er landets utenriksminister...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/venezuela-trekker-seg-fra-den-internasjonale-straffedomstolen-1.17968514",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-24T21:05:12.318Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784921188935.041,
       "title": "Norwegian word of the day: Krone",
       "slug": "norwegian-word-of-the-day-krone",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-22T17:21:42.961Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784735229971.3228,
-      "title": "Programleder i NRK omkom i utlandet",
-      "slug": "programleder-i-nrk-omkom-i-utlandet",
-      "content": "Medprogramleder og snekker i NRK-programmet «Drømmerommet», Ola Ravn Hassel (34), omkom i en badeulykke i Spania tirsdag. Det bekrefter familien.\n\n– Vi mottok den svært triste beskjeden om at Ola Ravn Hassel har gått bort. Ola var en svært dyktig snekker og formidler, som gjennom to sesonger av «Drømmerommet» på NRK Super har gledet mange barn med å forvandle barnerom med gjenbruksmaterialer.  Det sier Kristian Karlsen, programredaktør i NRK i region Midt.\n\n– Hans ferdigheter ble raskt lagt merke til i NRK i Trondheim, og Ola og hans snekkerfirma har bidratt inn på flere TV-produksjoner de siste to årene. Ola vil bli dypt savnet av kollegaene i NRK. Våre tanker går til hans nærmeste.\n\nHassel ble fort kjent som «Snekker Ola» og har vært populær blant mange barn.\n\n– Han hadde to barn selv og alt han ville var at alle barn skulle ha det bra.\n\nDet sier foreldrene til Hassel, som ønsker å bruke den tragiske hendelsen til å komme med en oppfordring.\n\n– Vi vil oppfordre foreldre til å snakke med barna om det som har skjedd og slike hendelser. Det er viktig for sorgbearbeidelse og nærhet.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "Medprogramleder og snekker i NRK-programmet «Drømmerommet», Ola Ravn Hassel (34), omkom i en badeulykke i Spania tirsdag. Det bekrefter familien.\n\n– Vi mottok den svært triste beskjeden om at Ola Ravn Hassel har gått bort. Ola var en svært dyktig snekker og formidler, som gjennom to sesonger av...",
-      "image": null,
-      "original_url": "https://www.nrk.no/trondelag/programleder-i-nrk-omkom-i-utlandet-1.17965967",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-22T15:47:09.972Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2528,
+    "totalFetched": 2529,
     "totalPublished": 77,
-    "lastFetch": "2026-07-24T19:26:29.936Z",
+    "lastFetch": "2026-07-24T21:05:14.369Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
