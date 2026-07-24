@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1784900873267.3074,
+      "title": "Seks drept i rakettangrep mot Kyiv",
+      "slug": "seks-drept-i-rakettangrep-mot-kyiv",
+      "content": "Seks personer er drept i et russisk rakettangrep mot Kyiv-regionen, sier president Volodymyr Zelenskyj fredag.\n\n– Arbeidet pågår med å finne ut nøyaktig hva som er skjedd, og hvilken tilstand de berørte er i, skriver Zelenskyj på Telegram.\n\nFra byen Zaporizjzja i Ukraina ble det natt til fredag meldt om minst 25 sårede i russiske angrep med glidebomber. Seks av de sårede er barn, ifølge guvernør Ivan Fedorov, som sier angrepene rammet boligbygg og en privat helseklinikk.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Seks personer er drept i et russisk rakettangrep mot Kyiv-regionen, sier president Volodymyr Zelenskyj fredag.\n\n– Arbeidet pågår med å finne ut nøyaktig hva som er skjedd, og hvilken tilstand de berørte er i, skriver Zelenskyj på Telegram.\n\nFra byen Zaporizjzja i Ukraina ble det natt til fredag...",
+      "image": "https://images.unsplash.com/photo-1752492071653-010a95d865a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ5MDA4NzN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/seks-drept-i-rakettangrep-mot-kyiv-1.17968093",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-24T13:47:53.267Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784900871525.18,
+      "title": "Tusenvis evakuert frå brannar i Spania",
+      "slug": "tusenvis-evakuert-fr-brannar-i-spania",
+      "content": "19.000 personar er evakuert eller isolert på grunn av brannar i Madrid-regionen i Spania.\n\nDet er to store skogbrannar, som fredag har slått seg saman til éin større brann, ifølge spanske nødetatar.\n\nBrannmannskapa jobbar for å få kontroll på brannane, som blir sett på som dei verste i regionens historie.\n\nSpanske styresmakter har erklært unntakstilstand, og får hjelp frå EU i sløkkinga av brannane.\n\nSkogbranner i Sør-Europa\n\nDenne sommeren har det vært rekordmange skogbranner i sørlige Europa. Hundretusenvis av mål med skog er lagt i aske i Frankrike, Hellas, Spania og Portugal.",
+      "excerpt": "19.000 personar er evakuert eller isolert på grunn av brannar i Madrid-regionen i Spania.\n\nDet er to store skogbrannar, som fredag har slått seg saman til éin større brann, ifølge spanske nødetatar.\n\nBrannmannskapa jobbar for å få kontroll på brannane, som blir sett på som dei verste i regionens...",
+      "image": "https://images.unsplash.com/photo-1718341501796-e26059de00cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ5MDA4NzF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/tusenvis-evakuert-fra-brannar-i-spania-1.17968186",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-24T13:47:51.525Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784888398769.7363,
       "title": "How to fake being a local on Norway&#039;s public transport system",
       "slug": "how-to-fake-being-a-local-on-norway039s-public-transport-sys",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-07-22T06:30:06.428Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784701804681.8213,
-      "title": "Flere døde etter brann på pub i Bangkok",
-      "slug": "flere-dde-etter-brann-p-pub-i-bangkok",
-      "content": "Antall personer som mistet livet i en brann på en pub i Bangkok natt til mandag 13. juli, er steget til 35, skriver Reuters.\n\n21 personer er fortsatt innlagt på sykehus, hvorav 12 fortsatt er i en kritisk tilstand, opplyser Erawan akuttmedisinske senter.\n\nYtterligere 48 personer som ble skadet i brannen, er blitt utskrevet, la senteret til.",
-      "excerpt": "Antall personer som mistet livet i en brann på en pub i Bangkok natt til mandag 13. juli, er steget til 35, skriver Reuters.\n\n21 personer er fortsatt innlagt på sykehus, hvorav 12 fortsatt er i en kritisk tilstand, opplyser Erawan akuttmedisinske senter.\n\nYtterligere 48 personer som ble skadet i...",
-      "image": "https://images.unsplash.com/photo-1667400867422-6a72ea761439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ3MDE4MDR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-dode-etter-brann-pa-pub-i-bangkok--1.17965529",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-22T06:30:04.681Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784701802857.4343,
-      "title": "Inflasjonen i Storbritannia avtar",
-      "slug": "inflasjonen-i-storbritannia-avtar",
-      "content": "I juni falt inflasjonen i Storbritannia med 0,2 prosentpoeng til 2,6 prosent.\n\nFallet var noe større enn ventet av analytikere på forhånd, og det skyldes i stor grad fallende drivstoffpriser og avtakende prisøkning på matvarer, skriver Sky News.\n\nDet ser riktignok ikke ut til at fallet kommer til å fortsette, skriver de, og viser til at både energi- og drivstoffpriser ventes å øke og dermed trekke inflasjonen opp neste måned.",
-      "excerpt": "I juni falt inflasjonen i Storbritannia med 0,2 prosentpoeng til 2,6 prosent.\n\nFallet var noe større enn ventet av analytikere på forhånd, og det skyldes i stor grad fallende drivstoffpriser og avtakende prisøkning på matvarer, skriver Sky News.\n\nDet ser riktignok ikke ut til at fallet kommer til å...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/inflasjonen-i-storbritannia-avtar-1.17965539",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-22T06:30:02.857Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2518,
+    "totalFetched": 2520,
     "totalPublished": 77,
-    "lastFetch": "2026-07-24T10:19:59.769Z",
+    "lastFetch": "2026-07-24T13:47:55.106Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
