@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1784991841456.3823,
+      "title": "Småfly styrtet inn i en bolig i Tyskland - minst en omkommet",
+      "slug": "smfly-styrtet-inn-i-en-bolig-i-tyskland-minst-en-omkommet",
+      "content": "Minst én person omkom da et småfly styrtet inn i en enebolig i Niedersachsen nord i Tyskland lørdag formiddag.\n\nBeboerne i huset var ikke hjemme da flyet krasjet i taket.\n\nNødetatene søker etter ytterligere én person, som er antatt å ha vært om bord i flyet, skriver tyske Bild.",
+      "excerpt": "Minst én person omkom da et småfly styrtet inn i en enebolig i Niedersachsen nord i Tyskland lørdag formiddag.\n\nBeboerne i huset var ikke hjemme da flyet krasjet i taket.\n\nNødetatene søker etter ytterligere én person, som er antatt å ha vært om bord i flyet, skriver tyske Bild.",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/smafly-styrtet-inn-i-en-bolig-i-tyskland---minst-en-omkommet-1.17969006",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-25T15:04:01.456Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784991839581.1746,
+      "title": "Nytt krisemøte i Frankrike: Setter inn 1 500 soldater mot skogbrannene",
+      "slug": "nytt-krisemte-i-frankrike-setter-inn-1-500-soldater-mot-skog",
+      "content": "Fra lørdag kveld utplasseres 500 nye soldater til brannområdene i Frankrike. Dermed er totalt 1 500 militære mannskaper satt inn for å bistå redningsetatene, skriver Le Monde.\n\nSoldatene skal støtte politi og redningsetater, og blant annet hjelpe til med evakueringen av innbyggere i truede områder.\n\nStatsminister Sébastien Lecornu har i tillegg beordret forsvaret til å ta i bruk et stort A400M-militærfly så fort som mulig. Flyet er rigget for slukking og kan slippe opptil 20 tonn brannhemmende midler om gangen.\n\nSkogbranner i Sør-Europa\n\nDenne sommeren har det vært mange skogbranner i sørlige Europa. Titusenvis er evakuert i Spania og Frankrike.",
+      "excerpt": "Fra lørdag kveld utplasseres 500 nye soldater til brannområdene i Frankrike. Dermed er totalt 1 500 militære mannskaper satt inn for å bistå redningsetatene, skriver Le Monde.\n\nSoldatene skal støtte politi og redningsetater, og blant annet hjelpe til med evakueringen av innbyggere i truede...",
+      "image": "https://images.unsplash.com/photo-1697650041996-46f2ab2e415f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ5OTE4Mzl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/nytt-krisemote-i-frankrike_-setter-inn-1-500-soldater-mot-skogbrannene-1.17968996",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-25T15:03:59.581Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784991837675.8374,
+      "title": "Ressurser sendt til Frankrike fra flere EU-land",
+      "slug": "ressurser-sendt-til-frankrike-fra-flere-euland",
+      "content": "Flere europeiske land trår til for å hjelpe Frankrike i kampen mot flammene.\n\nMannskaper og helikoptre er på plass fra både Tyskland, Sveits, Sverige, Romania, Kroatia, Portugal, Tsjekkia og Slovakia.\n\n– Landet har fått uvurderlig støtte gjennom EUs ordning for sivil beredskap, uttaler innenriksminister Laurent Nuñez.\n\nPå X opplyser EU-kommisjonens president Ursula von der Leyen at ytterligere fire fly er på vei til Spania.\n\nSkogbranner i Sør-Europa\n\nDenne sommeren har det vært mange skogbranner i sørlige Europa. Titusenvis er evakuert i Spania og Frankrike.",
+      "excerpt": "Flere europeiske land trår til for å hjelpe Frankrike i kampen mot flammene.\n\nMannskaper og helikoptre er på plass fra både Tyskland, Sveits, Sverige, Romania, Kroatia, Portugal, Tsjekkia og Slovakia.\n\n– Landet har fått uvurderlig støtte gjennom EUs ordning for sivil beredskap, uttaler...",
+      "image": "https://images.unsplash.com/photo-1630015179789-7a4c880ae186?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ5OTE4Mzd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ressurser-sendt-til-frankrike-fra-flere-eu-land-1.17969033",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-25T15:03:57.676Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784986629464.18,
       "title": "35 døde og 30 skadet i bussulykke",
       "slug": "35-dde-og-30-skadet-i-bussulykke",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-23T14:04:04.605Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784815442813.1284,
-      "title": "USA: Kan få historisk lave drapstall",
-      "slug": "usa-kan-f-historisk-lave-drapstall",
-      "content": "Data fra 30 amerikanske storbyer viser en nedgang i drapsraten på 18 prosent sammenlignet med samme periode i fjor, viser en ny rapport fra den uavhengige tankesmien Council on Criminal Justice.\n\nSkulle trenden fortsette ut året, vil landet få den laveste drapsraten på over hundre år.\n\nI tillegg til drap falt også tallene for væpnede ran, bilran og innbrudd i boliger. Det ble imidlertid registrert en liten økning i butikktyverier, familievold og seksuelle overgrep.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Data fra 30 amerikanske storbyer viser en nedgang i drapsraten på 18 prosent sammenlignet med samme periode i fjor, viser en ny rapport fra den uavhengige tankesmien Council on Criminal Justice.\n\nSkulle trenden fortsette ut året, vil landet få den laveste drapsraten på over hundre år.\n\nI tillegg...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa_-kan-fa-historisk-lave-drapstall-1.17967284",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-23T14:04:02.813Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784802258375.8418,
-      "title": "Strømbrudd på Stortinget",
-      "slug": "strmbrudd-p-stortinget",
-      "content": "Ifølge Elvia sitt strømbruddkart er det strømbrudd på Stortinget.\n\nStortinget går på aggregat så det er ingen dramatikk i dette, sier pressevakt på Stortinget.\n\nStortinget\n\nRiksrevisjonen har undersøkt 500 stortingsrepresentanters bruk av blant annet pendlerboliger, reiseutgifter og etterlønn. Over 60 har fått for mye utbetalt og kontrollen har vært for dårlig, konkluderer riksrevisoren.",
-      "excerpt": "Ifølge Elvia sitt strømbruddkart er det strømbrudd på Stortinget.\n\nStortinget går på aggregat så det er ingen dramatikk i dette, sier pressevakt på Stortinget.\n\nStortinget\n\nRiksrevisjonen har undersøkt 500 stortingsrepresentanters bruk av blant annet pendlerboliger, reiseutgifter og etterlønn. Over...",
-      "image": null,
-      "original_url": "https://www.nrk.no/stor-oslo/strombrudd-pa-stortinget-1.17966977",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-23T10:24:18.375Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784802256652.7017,
-      "title": "Google får gigantbøter frå EU for regelbrot",
-      "slug": "google-fr-gigantbter-fr-eu-for-regelbrot",
-      "content": "EU har ilagt Google bøter på totalt 890 millionar euro blant anna for å favorisere eigne tenester.\n\nBeløpet svarar til 8,5 milliardar kroner i dagens kurs.\n\nEU og USA er ikkje samde om korleis ein skal regulere tek-gigantane, og bøtene vil kunne spisse denne striden ytterlegare.\n\nSelskapet risikerer tvangsbøter på 5 prosent av den globale omsetningen om de ikke retter seg etter EUs krav.\n\nTeknologi og oppfinnelser\n\nTeknologi, læren om teknikker og de tilhørende materielle produkter innenfor et bestemt område. (SNL.no) Teknologiske nyvinninger i næringsliv og forskning påvirker hverdag og arbeidsliv.\n\nDen europeiske union (EU)\n\nDen europeiske union (EU) har 27 medlemsstater som er knyttet sammen i et tett økonomisk og politisk samarbeid. Unionen vokste fram av et handelssamarbeid som skulle hindre en ny konflikt mellom Frankrike og Tyskland etter 2. verdenskrig.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "EU har ilagt Google bøter på totalt 890 millionar euro blant anna for å favorisere eigne tenester.\n\nBeløpet svarar til 8,5 milliardar kroner i dagens kurs.\n\nEU og USA er ikkje samde om korleis ein skal regulere tek-gigantane, og bøtene vil kunne spisse denne striden ytterlegare.\n\nSelskapet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/google-far-gigantboter-fra-eu-for-regelbrot-1.17966937",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-23T10:24:16.652Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2543,
+    "totalFetched": 2546,
     "totalPublished": 77,
-    "lastFetch": "2026-07-25T13:37:11.178Z",
+    "lastFetch": "2026-07-25T15:04:03.600Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
