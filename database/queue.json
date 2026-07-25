@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1785020209528.0154,
+      "title": "Meldinger om angrep mot Kyiv",
+      "slug": "meldinger-om-angrep-mot-kyiv",
+      "content": "Ukrainas hovedstad Kyiv er under et nytt russisk angrep, opplyser byens borgermester Vitalij Klitstsjko.\n\nRussiske styrker angriper byen med ballistiske missiler, ifølge det ukrainske luftforsvaret.\n\nVrakgods fra nedskutte missiler har ført til branner i minst tre bydeler. Det er så langt ikke meldt om skadde, skriver Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainas hovedstad Kyiv er under et nytt russisk angrep, opplyser byens borgermester Vitalij Klitstsjko.\n\nRussiske styrker angriper byen med ballistiske missiler, ifølge det ukrainske luftforsvaret.\n\nVrakgods fra nedskutte missiler har ført til branner i minst tre bydeler. Det er så langt ikke...",
+      "image": "https://images.unsplash.com/photo-1697650041996-46f2ab2e415f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUwMjAyMDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/meldinger-om-angrep-mot-kyiv-1.17969269",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-25T22:56:49.529Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785012871991.0527,
       "title": "Dømt til fengsel for drapsforsøk etter hasjkrangel",
       "slug": "dmt-til-fengsel-for-drapsforsk-etter-hasjkrangel",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-23T21:05:36.472Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784834413308.8003,
-      "title": "Tre rømte hester dukka opp i boligstrøk i Oslo",
-      "slug": "tre-rmte-hester-dukka-opp-i-boligstrk-i-oslo",
-      "content": "Tre rømte hester dukka torsdag kveld opp i et boligstrøk på Mortensrud i Oslo.\n\nGunnar Romsaas oppdaget hesteflokken da han var hadde vært ute å henta post.\n\n– Det kom noen med tre hunder som lurte på om jeg var ute og lufta hestene mine, men det var jeg jo ikke, forteller han til NRK.\n\nRundt klokken 20 kan han og en annen nabo over telefon fortelle at hestene har forsvunnet videre til en annen gate.\n\nOgså onsdag var det hester på rømmen i et boligfelt, da i Asker, på andre siden av fjorden.",
-      "excerpt": "Tre rømte hester dukka torsdag kveld opp i et boligstrøk på Mortensrud i Oslo.\n\nGunnar Romsaas oppdaget hesteflokken da han var hadde vært ute å henta post.\n\n– Det kom noen med tre hunder som lurte på om jeg var ute og lufta hestene mine, men det var jeg jo ikke, forteller han til NRK.\n\nRundt...",
-      "image": null,
-      "original_url": "https://www.nrk.no/stor-oslo/tre-romte-hester-dukka-opp-i-boligstrok-i-oslo-1.17967454",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-23T19:20:13.308Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2553,
+    "totalFetched": 2554,
     "totalPublished": 77,
-    "lastFetch": "2026-07-25T20:54:34.771Z",
+    "lastFetch": "2026-07-25T22:56:51.486Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
