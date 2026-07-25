@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1784947613510.259,
+      "title": "Minst to drept i droneangrep mot Sumy",
+      "slug": "minst-to-drept-i-droneangrep-mot-sumy",
+      "content": "Minst to menn ble drept og tre andre skadet i russiske droneangrep mot byen Sumy nordøst i Ukraina, sier byens ordfører fredag.\n\nPå Telegram sier fungerende ordfører Artem Kobsar at angrepene førte til skader på en bensinstasjon, taket på en boligblokk og et ikke nærmere angitt infrastrukturanlegg.\n\nRussiske styrker står rundt 20 kilometer utenfor byen, skriver NTB.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Minst to menn ble drept og tre andre skadet i russiske droneangrep mot byen Sumy nordøst i Ukraina, sier byens ordfører fredag.\n\nPå Telegram sier fungerende ordfører Artem Kobsar at angrepene førte til skader på en bensinstasjon, taket på en boligblokk og et ikke nærmere angitt...",
+      "image": "https://images.unsplash.com/photo-1753696309884-e0e0b8f0ba89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ5NDc2MTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/minst-to-drept-i-droneangrep-mot-sumy-1.17968669",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-25T02:46:53.510Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784947611816.7808,
+      "title": "Hundrevis av griser brant inne i fjøs i Levanger",
+      "slug": "hundrevis-av-griser-brant-inne-i-fjs-i-levanger",
+      "content": "Et fjøs med 470 griser tok full fyr i Levanger natt til lørdag.\n\n– Brannvesenet driver med kontrollert nedbrenning av driftsbygningen. Det skal ha vært ca. 470 griser i fjøset og ingen er berget, skriver operasjonsleder Anlaug Oseid i Trøndelag politidistrikt i en oppdatering i politiloggen klokka 03.31.\n\nTil Adresseavisen sa operatør Stig Lunde ved 110-sentralen tidligere på natten at fjøset var ansett som tapt.\n\n– Vi jobber med å hindre spredning til andre hus på gården. Alle personer er gjort rede for, sa han.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "Et fjøs med 470 griser tok full fyr i Levanger natt til lørdag.\n\n– Brannvesenet driver med kontrollert nedbrenning av driftsbygningen. Det skal ha vært ca. 470 griser i fjøset og ingen er berget, skriver operasjonsleder Anlaug Oseid i Trøndelag politidistrikt i en oppdatering i politiloggen klokka...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/hundrevis-av-griser-brant-inne-i-fjos-i-levanger-1.17968670",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-25T02:46:51.816Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784947610236.6562,
+      "title": "Vellykket test av SpaceX-rakett",
+      "slug": "vellykket-test-av-spacexrakett",
+      "content": "SpaceX hadde i natt en vellykket test med den kraftige Starship-raketten. Dette er den første vellykkede testen siden selskapet ble børsnotert.\n\n– Starship er intakt, flyter i sjøen og sender telemetri-data, sier SpaceX-sjef Elon Musk. Raketten landet i Indiahavet.\n\n– Det er første gang vi har fått en intakt Starship-rakett ned i sjøen, sier talsperson Dan Huot.\n\nHovedmålet var å se hvordan Starship oppfører seg etter justeringer av designet. Det var tredje generasjon av raketten som nå ble testet.\n\nDen øverste delen av totrinnsraketten plasserte ut 20 Starlink-satellitter i løpet av den rundt en time lange ferden, melder NTB.\n\nSpaceX\n\nDet private romfartsselskapet SpaceX, med Tesla-gründer Elon Musk i spissen, utvikler raketter og fartøyer for å bringe last og mennesker opp i verdensrommet.",
+      "excerpt": "SpaceX hadde i natt en vellykket test med den kraftige Starship-raketten. Dette er den første vellykkede testen siden selskapet ble børsnotert.\n\n– Starship er intakt, flyter i sjøen og sender telemetri-data, sier SpaceX-sjef Elon Musk. Raketten landet i Indiahavet.\n\n– Det er første gang vi har fått...",
+      "image": "https://images.unsplash.com/photo-1748178765097-1c012c848596?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ5NDc2MTB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/vellykket-test-av-spacex-rakett-1.17968674",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-25T02:46:50.237Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784934160394.917,
       "title": "Alvorlig MC-ulykke i Larvik",
       "slug": "alvorlig-mculykke-i-larvik",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-22T19:22:41.318Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784748159613.602,
-      "title": "Iran truer med å angripe infrastruktur til USA-allierte",
-      "slug": "iran-truer-med-angripe-infrastruktur-til-usaallierte",
-      "content": "Den iranske revolusjonsgarden truer med å ramme strømforsyningen til USAs allierte i Midtøsten dersom sivil iransk infrastruktur blir angrepet.\n\nDet sier revolusjonsgardens luftfartskommandant Mousavi, ifølge det statlige nyhetsbyrået Tasnim.\n\nTrusselen kommer etter at USAs president Donald Trump sa at de ville angripe iranske broer og kraftverk om skip i Hormuzstredet ble angrepet.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Den iranske revolusjonsgarden truer med å ramme strømforsyningen til USAs allierte i Midtøsten dersom sivil iransk infrastruktur blir angrepet.\n\nDet sier revolusjonsgardens luftfartskommandant Mousavi, ifølge det statlige nyhetsbyrået Tasnim.\n\nTrusselen kommer etter at USAs president Donald Trump...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/iran-truer-med-a-angripe-infrastruktur-til-usa-allierte--1.17966487",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-22T19:22:39.613Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784740906136.1377,
-      "title": "Drammen kommunen har mottatt 200 boligtilbud til brannrammede",
-      "slug": "drammen-kommunen-har-mottatt-200-boligtilbud-til-brannrammed",
-      "content": "Drammen kommune har mottatt over 200 tilbud om utleie av hytter, leiligheter og hus til de brannrammede. Kommunen har registrert kontaktinformasjon og boligtype for hvert tilbud.\n\nListen over boligtilbud er nå sendt videre til forsikringsselskapene og Nav. Berørte vil få hjelp av sin saksbehandler hos forsikringsselskapet eller Nav til å finne et passende sted å bo.",
-      "excerpt": "Drammen kommune har mottatt over 200 tilbud om utleie av hytter, leiligheter og hus til de brannrammede. Kommunen har registrert kontaktinformasjon og boligtype for hvert tilbud.\n\nListen over boligtilbud er nå sendt videre til forsikringsselskapene og Nav. Berørte vil få hjelp av sin saksbehandler...",
-      "image": null,
-      "original_url": "https://www.nrk.no/buskerud/drammen-kommunen-har-mottatt-200-boligtilbud-til-brannrammede-1.17966368",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-22T17:21:46.137Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784740904559.5334,
-      "title": "ICS: Houthiene advarer skip over radio",
-      "slug": "ics-houthiene-advarer-skip-over-radio",
-      "content": "Houthi-militsen i Jemen har sendt ut en radiovarsel til sivile skip i Midtøsten.\n\nDet opplyser International Chamber of Shipping (ICS) til AFP onsdag.\n\n– Vi kan bekrefte at Houthiene er tatt opp mens de sendte en advarselsmelding til skip i regionen, opplyser organisasjonen.\n\nHouthiene, som er en alliert av Iran, har tidligere varslet en blokade Mandebstredet. Det kan få store konsekvenser for energisituasjoen i verden.\n\nEskaleringa i Midtausten, gjer at Iran truar med å stenge nok eit sund. Mandebsundet.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.\n\nJemen\n\nDen blodige borgerkrigen i Jemen startet i 2014 da Houthi-geriljaen tok hovedstaden Sana. Det førte til at en koalisjon ledet av Saudi-Arabia intervenerte for å støtte den internasjonalt anerkjente regjeringen.",
-      "excerpt": "Houthi-militsen i Jemen har sendt ut en radiovarsel til sivile skip i Midtøsten.\n\nDet opplyser International Chamber of Shipping (ICS) til AFP onsdag.\n\n– Vi kan bekrefte at Houthiene er tatt opp mens de sendte en advarselsmelding til skip i regionen, opplyser organisasjonen.\n\nHouthiene, som er en...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ics_-houthiene-advarer-skip-over-radio-1.17966324",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-22T17:21:44.559Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2530,
+    "totalFetched": 2533,
     "totalPublished": 77,
-    "lastFetch": "2026-07-24T23:02:42.139Z",
+    "lastFetch": "2026-07-25T02:46:55.518Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
