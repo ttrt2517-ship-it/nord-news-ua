@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1784977892699.9324,
+      "title": "Råde-ulykken: Antatt sjåfør skrevet ut og siktet",
+      "slug": "rdeulykken-antatt-sjfr-skrevet-ut-og-siktet",
+      "content": "Den antatte sjåføren av bilen som krasjet inn i et hus i Råde fredag ettermiddag er skrevet ut av sykehuset. Han er siktet for overtredelse av vegtrafikkloven paragraf 3.\n\n– Vi skal avhøre ham, men så langt er det ikke klart om vi får gjort det i dag, sier politiadvokat Karianne Larsen til NRK.\n\nFor de tre andre som satt i bilen er det ikke meldt om endringer i skadegrad. De fire ble alle meldt kritisk skadet etter ulykken.\n\nBilen er beslaglagt av politiet. En av deres hypoteser er at farten har vært høy.\n\nMen de skal også undersøke om noe med bilens tilstand kan ha forårsaket eller påvirket det som skjedde, opplyser Larsen.",
+      "excerpt": "Den antatte sjåføren av bilen som krasjet inn i et hus i Råde fredag ettermiddag er skrevet ut av sykehuset. Han er siktet for overtredelse av vegtrafikkloven paragraf 3.\n\n– Vi skal avhøre ham, men så langt er det ikke klart om vi får gjort det i dag, sier politiadvokat Karianne Larsen til...",
+      "image": null,
+      "original_url": "https://www.nrk.no/ostfold/rade-ulykken_-antatt-sjafor-skrevet-ut-og-siktet-1.17968722",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-25T11:11:32.699Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784977891108.8345,
+      "title": "Statsminister: Prioriteten er å redde liv",
+      "slug": "statsminister-prioriteten-er-redde-liv",
+      "content": "Spanias statsminister Pedro Sánchez kom i dag til Cenicientos i Madrid-området, som vil være i fare hvis den store skogbrannen sprer seg ytterligere.\n\nHan understreket at hovedprioriteten nå er å redde liv og beskytte befolkede områder. Og at de nærmeste timene blir krevende.\n\n– Selv om temperaturene har falt, vet vi ikke hvordan vinden vil utvikle seg, hvor sterk den blir, sa statsministeren da han besøkte kommandosenteret som overvåker de massive skogbrannene.\n\nSterk vind har gjort slukningsarbeidet vanskelig for brannmannskapene.\n\n– Brannen er på sitt sterkeste og umulig å kontrollere, sa Carlos Novillo, leder for krisehåndteringen i Madrids regionregjering, lørdag morgen.\n\nTilsammen 70.000 innbyggere er evakuert fra området, etter at myndighetene har kommet med flere evakueringsordre gjennom formiddagen.\n\nSelv i hovedstaden kan man se den tykke grå røyken stige opp og kjenne lukten av røyk.\n\nSkogbranner i Sør-Europa\n\nDenne sommeren har det vært rekordmange skogbranner i sørlige Europa. Hundretusenvis av mål med skog er lagt i aske i Frankrike, Hellas, Spania og Portugal.",
+      "excerpt": "Spanias statsminister Pedro Sánchez kom i dag til Cenicientos i Madrid-området, som vil være i fare hvis den store skogbrannen sprer seg ytterligere.\n\nHan understreket at hovedprioriteten nå er å redde liv og beskytte befolkede områder. Og at de nærmeste timene blir krevende.\n\n– Selv om...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/statsminister_-prioriteten-er-a-redde-liv-1.17968785",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-25T11:11:31.108Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1784977889511.842,
+      "title": "Ukraina skal ha angrepet oljeplattform og militæranlegg",
+      "slug": "ukraina-skal-ha-angrepet-oljeplattform-og-militranlegg",
+      "content": "Ukrainas president Volodymyr Zelenskyj melder i en post på X at ukrainske styrker har angrepet en fabrikk som produserer forsvarskomponenter i Kirov og et militært logistikksenter i Jekaterinburg.\n\nZelenskyj hevder også at et russisk krigsskip og et skip som fraktet militærutstyr som involverer Iran, er truffet i Kaspihavet.\n\nOpplysningene er ikke bekreftet av uavhengige kilder. Presidenten kommer ikke med noen tidsangivelse for når angrepene har skjedd.\n\nI tillegg opplyser den ukrainske sikkerhetstjenesten på Telegram at en oljeplattform tilhørende det russiske oljeselskapet Lukoil i Kaspihavet også er truffet i det ukrainske droneangrepet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainas president Volodymyr Zelenskyj melder i en post på X at ukrainske styrker har angrepet en fabrikk som produserer forsvarskomponenter i Kirov og et militært logistikksenter i Jekaterinburg.\n\nZelenskyj hevder også at et russisk krigsskip og et skip som fraktet militærutstyr som involverer...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukraina-skal-ha-angrepet-oljeplattform-og-militaeranlegg-1.17968827",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-25T11:11:29.511Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1784972958042.9438,
       "title": "Skogbrannen nærmer seg byen Bordeaux",
       "slug": "skogbrannen-nrmer-seg-byen-bordeaux",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-23T06:30:57.497Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784788255651.45,
-      "title": "Tass: Lavrov og Rubio møttest i Filippinane",
-      "slug": "tass-lavrov-og-rubio-mttest-i-filippinane",
-      "content": "USAs utanriksminister Marco Rubio og Russlands utanriksminister Sergej Lavrov møttest i den filippinske hovudstaden Manila torsdag, melder det russiske statlege nyheitsbyrået Tass.\n\nDei to skal blant anna ha snakka om krigen i Ukraina og normalisering av forholdet mellom Russland og USA.\n\nDet er for tida utanriksministermøte i den søraustasiatiske samarbeidsorganisasjonen ASEAN i Manila.",
-      "excerpt": "USAs utanriksminister Marco Rubio og Russlands utanriksminister Sergej Lavrov møttest i den filippinske hovudstaden Manila torsdag, melder det russiske statlege nyheitsbyrået Tass.\n\nDei to skal blant anna ha snakka om krigen i Ukraina og normalisering av forholdet mellom Russland og USA.\n\nDet er...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/tass_-lavrov-og-rubio-mottest-i-filippinane-1.17966672",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-23T06:30:55.651Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784788253902.3496,
-      "title": "Regjeringen gir mer i støtte til Oslofjord-fiskere",
-      "slug": "regjeringen-gir-mer-i-sttte-til-oslofjordfiskere",
-      "content": "Regjeringen dobler støtten til omstilling for fiskere i Oslofjorden til totalt 30 millioner kroner, skriver de i en pressemelding.\n\n– Det gir oss mulighet til å hjelpe flere fiskere som har mistet tilgang til viktige fangstfelt, sier fiskeri- og havminister Marianne Sivertsen Næss (Ap).\n\nBevilgningen økes fra 15 millioner kroner etter at Ap-regjeringen ble enig med Rødt, SV, Sp og MDG om revidert nasjonalbudsjett.\n\nBakgrunnen for støtten er at det fra 1. januar ble innført nullfiskeområder i Oslofjorden. Målet er å styrke fiskebestanden og bidra til å gjenopprette økosystemet.\n\nDen nye ordningen skal etter planen være klar i slutten av august.\n\nOslofjorden\n\nFlere oppvekst- og leveområder for fisk og andre arter holder på å dø ut i Oslofjorden, ifølge Miljødirektoratet, som varsler nye tiltak. Undersøkelser gjort av NGI viser omfattende funn av miljøgifter, kvikksølv og andre tungmetaller.",
-      "excerpt": "Regjeringen dobler støtten til omstilling for fiskere i Oslofjorden til totalt 30 millioner kroner, skriver de i en pressemelding.\n\n– Det gir oss mulighet til å hjelpe flere fiskere som har mistet tilgang til viktige fangstfelt, sier fiskeri- og havminister Marianne Sivertsen Næss...",
-      "image": "https://images.unsplash.com/photo-1665929458538-790753504cc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ3ODgyNTN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/regjeringen-gir-mer-i-stotte-til-oslofjord-fiskere-1.17966681",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-23T06:30:53.902Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784775186633.948,
-      "title": "Forsvarspakke godkjent i Representantenes hus",
-      "slug": "forsvarspakke-godkjent-i-representantenes-hus",
-      "content": "Representantenes hus i USA har stemt ja til en ny budsjettpakke på rundt 912 milliarder kroner, ifølge NTB.\n\nPengene skal blant annet finansiere krigen mot Iran.\n\nSaken ble vedtatt med et knapt flertall på 216 mot 214 stemmer. Budsjettpakken sendes nå videre til Senatet, der den er ventet å møte stor motstand.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Representantenes hus i USA har stemt ja til en ny budsjettpakke på rundt 912 milliarder kroner, ifølge NTB.\n\nPengene skal blant annet finansiere krigen mot Iran.\n\nSaken ble vedtatt med et knapt flertall på 216 mot 214 stemmer. Budsjettpakken sendes nå videre til Senatet, der den er ventet å møte...",
-      "image": "https://images.unsplash.com/photo-1653274092643-fe14d38b6458?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ3NzUxODZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/forsvarspakke-godkjent-i-representantenes-hus-1.17966610",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-23T02:53:06.633Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2538,
+    "totalFetched": 2541,
     "totalPublished": 77,
-    "lastFetch": "2026-07-25T09:49:20.088Z",
+    "lastFetch": "2026-07-25T11:11:34.194Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
