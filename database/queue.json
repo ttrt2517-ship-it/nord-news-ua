@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1785106757054.1338,
+      "title": "Zelenskyj besøker Downing Street",
+      "slug": "zelenskyj-besker-downing-street",
+      "content": "Storbritannias nye statsminister Andy Burnham får mandag besøk av Ukrainas president Volodymyr Zelenskyj , skriver AFP.\n\nZelenskyj blir den første utenlandske lederen som besøker Burnham etter at han tok over som statsminister. De to skal blant annet besøke en britisk marinebase sammen.\n\nStorbritannia varsler også at de gir Ukraina det nye britiske systemet «Stone Cloak», som kan brukes til å jamme russiske luftvernsystemer.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Storbritannias nye statsminister Andy Burnham får mandag besøk av Ukrainas president Volodymyr Zelenskyj , skriver AFP.\n\nZelenskyj blir den første utenlandske lederen som besøker Burnham etter at han tok over som statsminister. De to skal blant annet besøke en britisk marinebase...",
+      "image": "https://images.unsplash.com/photo-1763702433943-a7529b7f275d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUxMDY3NTZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/zelenskyj-besoker-downing-street-1.17969829",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-26T22:59:17.054Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785106754803.044,
+      "title": "Fire personer innbrakt av politiet etter våpentrusler",
+      "slug": "fire-personer-innbrakt-av-politiet-etter-vpentrusler",
+      "content": "Politiet har pågrepet to personer og innbrakt to andre etter en hendelse på Bjølsen i Oslo i kveld.\n\nNødetatene rykket opprinnelig ut etter flere meldinger om at en gruppe bevæpnet med kniv løp etter en en person i Maridalsveien, ifølge operasjonsleder Rune Hekkelstrand.\n\nPolitiet har beslaglagt en kniv, en machete og en softgun på stedet, og har også kontroll på personen som framstår som fornærmet.",
+      "excerpt": "Politiet har pågrepet to personer og innbrakt to andre etter en hendelse på Bjølsen i Oslo i kveld.\n\nNødetatene rykket opprinnelig ut etter flere meldinger om at en gruppe bevæpnet med kniv løp etter en en person i Maridalsveien, ifølge operasjonsleder Rune Hekkelstrand.\n\nPolitiet har beslaglagt en...",
+      "image": "https://images.unsplash.com/photo-1678057058628-e5669d6864ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUxMDY3NTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fire-personer-innbrakt-av-politiet-etter-vapentrusler-1.17969839",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-26T22:59:14.804Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785093205396.0776,
       "title": "How to fake being a local on Norway&#039;s public transport system",
       "slug": "how-to-fake-being-a-local-on-norway039s-public-transport-sys",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-07-24T19:26:24.691Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784921183045.9556,
-      "title": "Knivstukket i halsen i Hokksund – gjerningsmann pågrepet",
-      "slug": "knivstukket-i-halsen-i-hokksund-gjerningsmann-pgrepet",
-      "content": "Politiet og helsevesenet har rykket ut til Hokksund i Øvre Eiker etter melding om knivstikking. En person skal være knivstukket i halsregionen og i en arm. Personen er lettere skadd.\n\nEtter avhør av vitner på stedet har politiet pågrepet gjerningsmannen. Han ble pågrepet uten dramatikk.\n\nPolitiet fortsetter å jobbe på stedet med avhør og sikring av video.",
-      "excerpt": "Politiet og helsevesenet har rykket ut til Hokksund i Øvre Eiker etter melding om knivstikking. En person skal være knivstukket i halsregionen og i en arm. Personen er lettere skadd.\n\nEtter avhør av vitner på stedet har politiet pågrepet gjerningsmannen. Han ble pågrepet uten dramatikk.\n\nPolitiet...",
-      "image": "https://images.unsplash.com/photo-1659424765774-e0ee6cd9ff5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ5MjExODJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/buskerud/knivstukket-i-halsen-i-hokksund-_-gjerningsmann-pagrepet-1.17968493",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-24T19:26:23.045Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1784914741189.7952,
-      "title": "Truet 12-åring med kniv",
-      "slug": "truet-12ring-med-kniv",
-      "content": "Politiet har kontroll på to gjerningsmenn etter at en 12 år gammel gutt ble forsøkt ranet med kniv i Trondheim sentrum i ettermiddag. Flere patruljer jobber nå med etterforskning i form av avhør og sikring av overvåkningsvideo på aktuelle adresser, ifølge politiet.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "Politiet har kontroll på to gjerningsmenn etter at en 12 år gammel gutt ble forsøkt ranet med kniv i Trondheim sentrum i ettermiddag. Flere patruljer jobber nå med etterforskning i form av avhør og sikring av overvåkningsvideo på aktuelle adresser, ifølge politiet.\n\nNyhetssenter Trøndelag\n\nSiste...",
-      "image": "https://images.unsplash.com/photo-1659424765411-2ae87f5d1c06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ5MTQ3NDF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/trondelag/truet-12-aring-med-kniv-1.17968451",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-24T17:39:01.189Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2574,
+    "totalFetched": 2576,
     "totalPublished": 77,
-    "lastFetch": "2026-07-26T20:58:54.688Z",
+    "lastFetch": "2026-07-26T22:59:18.809Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
