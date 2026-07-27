@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1785180904662.9724,
+      "title": "Slutt for postens egne fly",
+      "slug": "slutt-for-postens-egne-fly",
+      "content": "26. juni gikk det siste postflyet, drevet av polske SprintAir, mellom Tromsø og Oslo.\n\nBrevvolumet til og fra Nord-Norge har stupt med 80 prosent siden 2000.\n\nSamtidig har ruteflygningene mellom byene doblet seg, og disse tar nå over frakten.",
+      "excerpt": "26. juni gikk det siste postflyet, drevet av polske SprintAir, mellom Tromsø og Oslo.\n\nBrevvolumet til og fra Nord-Norge har stupt med 80 prosent siden 2000.\n\nSamtidig har ruteflygningene mellom byene doblet seg, og disse tar nå over frakten.",
+      "image": "https://images.unsplash.com/photo-1662710629511-7fe0705049ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUxODA5MDR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/tromsogfinnmark/slutt-for-postens-egne-fly-1.17970671",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-27T19:35:04.663Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785174202326.0076,
       "title": "Kvinne erklært død på Jæren: Mann siktet for drap",
       "slug": "kvinne-erklrt-dd-p-jren-mann-siktet-for-drap",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-25T13:37:09.465Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784986627775.6924,
-      "title": "Demonstrasjoner i India avsluttet etter innfridde krav",
-      "slug": "demonstrasjoner-i-india-avsluttet-etter-innfridde-krav",
-      "content": "De siste ukene har titusenvis av unge demonstrert mot omfattende fusk og uregelmessigheter i landets eksamenssystem.\n\nLørdag valgte protestbevegelsen å avblåse aksjonene etter vellykkede forhandlinger med myndighetene.\n\n– Alle våre krav er innfridd, så vi ber nå demonstrantene om å trekke seg tilbake og vende fredelig hjem, uttalte Ashutosh Ranka, talsmann for protestbevegelsen Cockroach Janta Party.\n\nMinisteren kunngjorde sin avgang akkurat idet politiet skjøt tåregass for å spre unge demonstranter i New Delhi.",
-      "excerpt": "De siste ukene har titusenvis av unge demonstrert mot omfattende fusk og uregelmessigheter i landets eksamenssystem.\n\nLørdag valgte protestbevegelsen å avblåse aksjonene etter vellykkede forhandlinger med myndighetene.\n\n– Alle våre krav er innfridd, så vi ber nå demonstrantene om å trekke seg...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/demonstrasjoner-i-india-avsluttet-etter-innfridde-krav-1.17968930",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-25T13:37:07.775Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2591,
+    "totalFetched": 2592,
     "totalPublished": 77,
-    "lastFetch": "2026-07-27T17:43:25.094Z",
+    "lastFetch": "2026-07-27T19:35:06.995Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
