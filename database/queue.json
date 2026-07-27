@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1785186719058.834,
+      "title": "FN: Israel kan ha begått krigsforbrytelser i Libanon",
+      "slug": "fn-israel-kan-ha-begtt-krigsforbrytelser-i-libanon",
+      "content": "FNs høykommissær for menneskerettigheter, Volker Türk, advarer om at Israels krigføring i Libanon kan tilsvare krigsforbrytelser.\n\nUnder et besøk i landet mandag trakk han fram store sivile tap, ødelagte landsbyer og massefordrivelse som mulige brudd på folkeretten.\n\nMenneskerettighetssjefen trekker spesielt frem at hele landsbyer sør for Litani-elven, som ligger om lag 30 kilometer fra grensen til Israel, er ødelagt eller gjort ubeboelige.\n\n– Mitt kontor har registrert omfattende brudd på folkeretten, og noen av disse bruddene tilsvarer muligens krigsforbrytelser, sier Türk.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.\n\nDe forente nasjoner (FN)\n\nFN ble opprettet like etter andre verdenskrig, i hovedsak for å unngå lignende krigssituasjoner i framtiden. Hovedkontoret ligger i New York i USA, og organisasjonen har 193 medlemsland.",
+      "excerpt": "FNs høykommissær for menneskerettigheter, Volker Türk, advarer om at Israels krigføring i Libanon kan tilsvare krigsforbrytelser.\n\nUnder et besøk i landet mandag trakk han fram store sivile tap, ødelagte landsbyer og massefordrivelse som mulige brudd på folkeretten.\n\nMenneskerettighetssjefen...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/fn_-israel-kan-ha-begatt-krigsforbrytelser-i-libanon-1.17970776",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-27T21:11:59.058Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785180904662.9724,
       "title": "Slutt for postens egne fly",
       "slug": "slutt-for-postens-egne-fly",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-25T15:03:57.676Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1784986629464.18,
-      "title": "35 døde og 30 skadet i bussulykke",
-      "slug": "35-dde-og-30-skadet-i-bussulykke",
-      "content": "I Syria er 35 mennesker bekreftet døde og 30 er skadet i en ulykke mellom to busser. Det opplyser landets helsedepartement til det statlige nyhetsbyrået SANA:\n\nUlykken fant sted på hovedveien mellom Deir ez-Zor, som ligger øst i landet, og hovedstaden Damaskus.\n\nDen ene bussen fraktet medlemmer av landets sikkerhetsstyrker. Den andre var en vanlig passasjerbuss.\n\nSyria\n\n8. desember 2024 rykket opprørsstyrker inn i hovedstaden Damaskus og styrtet Assad-regimet, etter at Bashar al-Assad hadde vært ved makten i 25 år.",
-      "excerpt": "I Syria er 35 mennesker bekreftet døde og 30 er skadet i en ulykke mellom to busser. Det opplyser landets helsedepartement til det statlige nyhetsbyrået SANA:\n\nUlykken fant sted på hovedveien mellom Deir ez-Zor, som ligger øst i landet, og hovedstaden Damaskus.\n\nDen ene bussen fraktet medlemmer av...",
-      "image": "https://images.unsplash.com/photo-1721305485635-13f5100711e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ5ODY2Mjl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/35-dode-og-30-skadet-i-bussulykke--1.17968873",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-25T13:37:09.465Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2592,
+    "totalFetched": 2593,
     "totalPublished": 77,
-    "lastFetch": "2026-07-27T19:35:06.995Z",
+    "lastFetch": "2026-07-27T21:12:00.642Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
