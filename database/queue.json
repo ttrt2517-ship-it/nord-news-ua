@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1785279649037.117,
+      "title": "Brann i trafo ved bolig på Ringerike",
+      "slug": "brann-i-trafo-ved-bolig-p-ringerike",
+      "content": "Nødetatene har rykket ut etter melding om brann i en trafo i tilknytning til en bolig på Ringerike tirsdag kveld.\n\nDet ble meldt om flammer ut av trafoen mot en husvegg.\n\nBeboerne på stedet har evakuert, melder operasjonsleder Ståle Olstad Fuglaas i Sør-Øst politidistrikt.\n\nBrannvesenet har kontroll på stedet, og det er ikke fare for at brannen skal utvikle seg ytterligere.",
+      "excerpt": "Nødetatene har rykket ut etter melding om brann i en trafo i tilknytning til en bolig på Ringerike tirsdag kveld.\n\nDet ble meldt om flammer ut av trafoen mot en husvegg.\n\nBeboerne på stedet har evakuert, melder operasjonsleder Ståle Olstad Fuglaas i Sør-Øst politidistrikt.\n\nBrannvesenet har...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/brann-i-trafo-ved-bolig-pa-ringerike-1.17972049",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-28T23:00:49.037Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785279647433.048,
+      "title": "E6 i Måselv stengt på grunn av bilbrann",
+      "slug": "e6-i-mselv-stengt-p-grunn-av-bilbrann",
+      "content": "E6 ved Takelvdalen i Målselv i Troms er stengt i begge retninger etter brann i et kjøretøy.\n\nBilen som brenner står i nordgående retning og sperrer veien, opplyser operasjonsleder Per Arve Aas i Troms politidistrikt rundt midnatt natt til onsdag.\n\nI en oppdatering klokken 00:17 er brannen slukket.  Trafikken står forstatt stille i begge retninger.",
+      "excerpt": "E6 ved Takelvdalen i Målselv i Troms er stengt i begge retninger etter brann i et kjøretøy.\n\nBilen som brenner står i nordgående retning og sperrer veien, opplyser operasjonsleder Per Arve Aas i Troms politidistrikt rundt midnatt natt til onsdag.\n\nI en oppdatering klokken 00:17 er brannen slukket....",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/e6-i-maselv-stengt-pa-grunn-av-bilbrann-1.17972054",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-28T23:00:47.433Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785279645629.0676,
+      "title": "Politiet rykket ut etter smell ved Lambertseter",
+      "slug": "politiet-rykket-ut-etter-smell-ved-lambertseter",
+      "content": "Politiet i Oslo fikk melding om et smell i skogen langs E6 ved Lambertseterveien natt til onsdag. Etter nærmere undersøkelser kom de i kontakt med en person som hadde observert fyrverkeri, melder operasjonsleder Christer Martinsen i Oslo politidistrikt",
+      "excerpt": "Politiet i Oslo fikk melding om et smell i skogen langs E6 ved Lambertseterveien natt til onsdag. Etter nærmere undersøkelser kom de i kontakt med en person som hadde observert fyrverkeri, melder operasjonsleder Christer Martinsen i Oslo politidistrikt",
+      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUyNzk2NDV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/politiet-rykket-ut-etter-smell-ved-lambertseter-1.17972057",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-28T23:00:45.629Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785272967240.3835,
       "title": "Steinras i Storfjord",
       "slug": "steinras-i-storfjord",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-26T13:25:33.680Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785072331957.0579,
-      "title": "Kvinne omkom i rideulykke",
-      "slug": "kvinne-omkom-i-rideulykke",
-      "content": "Ei kvinne i 30-årene har omkommet etter en rideulykke i Innlandet.\n\nUlykken skal ha skjedd i forbindelse med passering av et hinder.\n\nRytteren, en dame i 30-årene, ble erklært død på stedet etter livreddende forsøk fra flere helseressurser.\n\nInvolverte og pårørende følges opp av lokalt kriseteam. Politiet er på stedet for etterforskning.\n\nEn kvinne er død etter en rideulykke i Innlandet. Livreddende førstehjelp ble iverksatt, men livet sto ikke til å redde.",
-      "excerpt": "Ei kvinne i 30-årene har omkommet etter en rideulykke i Innlandet.\n\nUlykken skal ha skjedd i forbindelse med passering av et hinder.\n\nRytteren, en dame i 30-årene, ble erklært død på stedet etter livreddende forsøk fra flere helseressurser.\n\nInvolverte og pårørende følges opp av lokalt kriseteam....",
-      "image": null,
-      "original_url": "https://www.nrk.no/innlandet/kvinne-omkom-i-rideulykke-1.17969462",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-26T13:25:31.957Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785072330249.7617,
-      "title": "240 hus ødelagt og 75 brannmenn skadet i Frankrike",
-      "slug": "240-hus-delagt-og-75-brannmenn-skadet-i-frankrike",
-      "content": "Myndighetene i Gironde sørvest i Frankrike opplyser at 240 hus er ødelagt etter brannene i området.\n\nDet er ikke meldt om noen omkomne, men 75 brannmenn er skadet.\n\nYtterligere 55 000 mennesker i Grionde-regionen ble evakuert natt til søndag, melder BBC.\n\nSkogbranner i Sør-Europa\n\nDenne sommeren har det vært mange skogbranner i sørlige Europa. Titusenvis er evakuert i Spania og Frankrike.",
-      "excerpt": "Myndighetene i Gironde sørvest i Frankrike opplyser at 240 hus er ødelagt etter brannene i området.\n\nDet er ikke meldt om noen omkomne, men 75 brannmenn er skadet.\n\nYtterligere 55 000 mennesker i Grionde-regionen ble evakuert natt til søndag, melder BBC.\n\nSkogbranner i Sør-Europa\n\nDenne sommeren...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/240-hus-odelagt-og-75-brannmenn-skadet-i-frankrike-1.17969528",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-26T13:25:30.249Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785060114941.2666,
-      "title": "Skogbrannene i Frankrike: To siktet for å ha tent fyrverkeri",
-      "slug": "skogbrannene-i-frankrike-to-siktet-for-ha-tent-fyrverkeri",
-      "content": "Tre menn er pågrepet i Sør-Frankrike, mistenkt for å ha satt liv i fare. To av dem er siktet for å ha tent på fyrverkeri mens landets største skogbrann herjer i området.\n\nMennene ble pågrepet i Gironde-regionen lørdag, opplyser fransk påtalemyndighet ifølge nyhetsbyrået AFP.\n\nBrannen som har rammet Gironde sørvest i Frankrike, har nå brent ned over 1000 kvadratkilometer og er en av landets største naturkatastrofer siden andre verdenskrig, ifølge myndighetene.\n\nOver 220.000 mennesker er evakuert, og brannen er nå kun 3 mil unna Bordeaux, Frankrikes sjette største by med 1,2 millioner innbyggere.\n\nYtterligere 55.000 personer fikk natt til søndag ordre om å forlate landsbyer rundt Bordeaux etter at flammene spredte seg. 30.000 er evakuert fra nabofylket Landes lenger sør, der en annen skogbrann herjer.\n\nSkogbranner i Sør-Europa\n\nDenne sommeren har det vært mange skogbranner i sørlige Europa. Titusenvis er evakuert i Spania og Frankrike.",
-      "excerpt": "Tre menn er pågrepet i Sør-Frankrike, mistenkt for å ha satt liv i fare. To av dem er siktet for å ha tent på fyrverkeri mens landets største skogbrann herjer i området.\n\nMennene ble pågrepet i Gironde-regionen lørdag, opplyser fransk påtalemyndighet ifølge nyhetsbyrået AFP.\n\nBrannen som har rammet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/skogbrannene-i-frankrike_-to-siktet-for-a-ha-tent-fyrverkeri-1.17969391",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-26T10:01:54.941Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2611,
+    "totalFetched": 2614,
     "totalPublished": 77,
-    "lastFetch": "2026-07-28T21:09:29.033Z",
+    "lastFetch": "2026-07-28T23:00:50.572Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
