@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1785345377439.6538,
+      "title": "Evakuerer rådhuset på Østre Toten",
+      "slug": "evakuerer-rdhuset-p-stre-toten",
+      "content": "Det er gjort funn av en mistenkelig gjenstand på rådhuset i Østre Toten kommune, melder politiet.\n\nRådhuset evakueres og politiets bombegruppe er på vei for å bistå.\n\nGjenstanden er fjernet. Kommunen ser alvorlig på hendelsen.",
+      "excerpt": "Det er gjort funn av en mistenkelig gjenstand på rådhuset i Østre Toten kommune, melder politiet.\n\nRådhuset evakueres og politiets bombegruppe er på vei for å bistå.\n\nGjenstanden er fjernet. Kommunen ser alvorlig på hendelsen.",
+      "image": "https://images.unsplash.com/photo-1586258255365-f79aea8d6e86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUzNDUzNzd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/innlandet/evakuerer-radhuset-pa-ostre-toten-1.17972934",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-29T17:16:17.439Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785345375401.7905,
+      "title": "Amerikansk gasskip truffet av drone i Egypt",
+      "slug": "amerikansk-gasskip-truffet-av-drone-i-egypt",
+      "content": "En drone har truffet et amerikanskeid gasstankskip ved eksportanlegget Damietta LNG i den egyptiske havnebyen Damietta ved Middelhavet.\n\nDet skal ikke være meldt om noen skadde eller skader på havneinfrastrukturen.\n\nTo gasstankere står i brann som følge av hendelsen, men disse er flyttet fra havneområdet og lokale myndigheter har kontroll på situasjonen, ifølge shippingselskapet Inchcape.\n\nForeløpig har ingen tatt på seg ansvaret for angrepet.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "En drone har truffet et amerikanskeid gasstankskip ved eksportanlegget Damietta LNG i den egyptiske havnebyen Damietta ved Middelhavet.\n\nDet skal ikke være meldt om noen skadde eller skader på havneinfrastrukturen.\n\nTo gasstankere står i brann som følge av hendelsen, men disse er flyttet fra...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/amerikansk-gasskip-truffet-av-drone-i-egypt--1.17972831",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-29T17:16:15.401Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785334367041.6892,
       "title": "Lanserer heilt ny utgåve av Beatles-album",
       "slug": "lanserer-heilt-ny-utgve-av-beatlesalbum",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-07-27T07:33:53.709Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785137632143.6702,
-      "title": "Kraftig fall for Equinor på Oslo Børs",
-      "slug": "kraftig-fall-for-equinor-p-oslo-brs",
-      "content": "Equinor-aksjene gikk ned med 5,5 på Oslo Børs mandag morgen.\n\nOljeprisen falt mandag, og er ned 8,5 prosent fra fredag kveld. I forrige uke var prisen på sitt høyeste nivå siden mai, og bikket 100 dollar.\n\nEquinor\n\nOlje og gasselskapet Equinor (tidl. Statoil) har den norske stat som hovedaksjonær. Konsernsjef i Equinor er Anders Opedal. Jon Erik Reinhardsen er styreleder.\n\nOljeprisen\n\nPrisen på nordsjøolje kan svinge kraftig, og påvirkes blant annet av kriger og konflikter i verden.\n\nOslo Børs\n\nOslo Børs er en av de ledende i verden i næringene energi, shipping og sjømat. Handelen startet den 15. april 1819, og 200 år senere ble den en del av Euronext.",
-      "excerpt": "Equinor-aksjene gikk ned med 5,5 på Oslo Børs mandag morgen.\n\nOljeprisen falt mandag, og er ned 8,5 prosent fra fredag kveld. I forrige uke var prisen på sitt høyeste nivå siden mai, og bikket 100 dollar.\n\nEquinor\n\nOlje og gasselskapet Equinor (tidl. Statoil) har den norske stat som hovedaksjonær....",
-      "image": "https://images.unsplash.com/photo-1726079667649-6668ecea5cc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUxMzc2MzJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/kraftig-fall-for-equinor-pa-oslo-bors-1.17969939",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-27T07:33:52.144Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785122456704.4155,
-      "title": "Kraftig oljeprisfall – ned over 5 prosent",
-      "slug": "kraftig-oljeprisfall-ned-over-5-prosent",
-      "content": "Oljeprisen falt 5,58 prosent da Asia-børsene åpnet mandag morgen, etter to netter på rad uten amerikanske angrep mot Iran, skriver NTB.\n\nDet er forsiktig håp i markedet om nye samtaler mellom USA og Iran.\n\nPrisen for et fat nordsjøolje falt 5,58 prosent til 91,38 dollar, ifølge nyhetsbyrået AFP.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Oljeprisen falt 5,58 prosent da Asia-børsene åpnet mandag morgen, etter to netter på rad uten amerikanske angrep mot Iran, skriver NTB.\n\nDet er forsiktig håp i markedet om nye samtaler mellom USA og Iran.\n\nPrisen for et fat nordsjøolje falt 5,58 prosent til 91,38 dollar, ifølge nyhetsbyrået...",
-      "image": "https://images.unsplash.com/photo-1603482360662-38e34391247c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUxMjI0NTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/kraftig-oljeprisfall-_-ned-over-5-prosent-1.17969841",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-27T03:20:56.704Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2627,
+    "totalFetched": 2629,
     "totalPublished": 77,
-    "lastFetch": "2026-07-29T14:12:49.529Z",
+    "lastFetch": "2026-07-29T17:16:19.585Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
