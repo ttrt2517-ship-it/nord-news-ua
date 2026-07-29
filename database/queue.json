@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1785352716770.8777,
+      "title": "Renten holdes uendret i USA",
+      "slug": "renten-holdes-uendret-i-usa",
+      "content": "Den amerikanske sentralbanken holder styringsrenten uendret, skriver Reuters.\n\nKevin Warsh ble ny sentralbanksjef i mai. Det har vært knyttet spenning til dagens renteavgjørelse.\n\nHan ble valgt av president Donald Trump, som ofte kritiserte forgjengeren.\n\nDet er en komité i sentralbanken som stemmer over endringer i styringsrenten. Tre av tolv medlemmer tok dissens og ønsket å øke den i i dag.",
+      "excerpt": "Den amerikanske sentralbanken holder styringsrenten uendret, skriver Reuters.\n\nKevin Warsh ble ny sentralbanksjef i mai. Det har vært knyttet spenning til dagens renteavgjørelse.\n\nHan ble valgt av president Donald Trump, som ofte kritiserte forgjengeren.\n\nDet er en komité i sentralbanken som...",
+      "image": "https://images.unsplash.com/photo-1571171307515-ea967318c581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUzNTI3MTZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/renten-holdes-uendret-i-usa-1.17973192",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-29T19:18:36.771Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785345377439.6538,
       "title": "Evakuerer rådhuset på Østre Toten",
       "slug": "evakuerer-rdhuset-p-stre-toten",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-27T07:33:55.278Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785137633709.8281,
-      "title": "Colombia varsler brudd med Cuba",
-      "slug": "colombia-varsler-brudd-med-cuba",
-      "content": "Colombias påtroppende president Abelardo de la Espriella sier han vil bryte diplomatiske relasjoner med både Cuba og Nicaragua.\n\n– I min regjering kommer det ikke til å være noen bånd til tyrannier, sier De la Espriella, som fikk støtte av USAs president Donald Trump i valgkampen.\n\nDe la Espriella, som tilhører Colombias ytre høyreside, annonserte også stenging av 15 konsulater og 14 ambassader.",
-      "excerpt": "Colombias påtroppende president Abelardo de la Espriella sier han vil bryte diplomatiske relasjoner med både Cuba og Nicaragua.\n\n– I min regjering kommer det ikke til å være noen bånd til tyrannier, sier De la Espriella, som fikk støtte av USAs president Donald Trump i valgkampen.\n\nDe la Espriella...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/colombia-varsler-brudd-med-cuba-1.17969925",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-27T07:33:53.709Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2629,
+    "totalFetched": 2630,
     "totalPublished": 77,
-    "lastFetch": "2026-07-29T17:16:19.585Z",
+    "lastFetch": "2026-07-29T19:18:39.038Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
