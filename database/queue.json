@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1785365981712.5356,
+      "title": "Strømbrudd rundt regjeringskvartalet",
+      "slug": "strmbrudd-rundt-regjeringskvartalet",
+      "content": "Onsdag kveld er det strømbrudd i området rundt regjeringskvartalet i Oslo.\n\nStrømmen gikk klokken 22.10, og rundt 700 kunder er berørt, opplyser Elvia til NRK.\n\n– Det er funnet en feil på en kabel. Vi regner med at alle har strømmen tilbake innen en time, sier pressevakt Emilie Kjenstadbakk like etter klokken 23.",
+      "excerpt": "Onsdag kveld er det strømbrudd i området rundt regjeringskvartalet i Oslo.\n\nStrømmen gikk klokken 22.10, og rundt 700 kunder er berørt, opplyser Elvia til NRK.\n\n– Det er funnet en feil på en kabel. Vi regner med at alle har strømmen tilbake innen en time, sier pressevakt Emilie Kjenstadbakk like...",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/strombrudd-rundt-regjeringskvartalet-1.17972975",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-29T22:59:41.712Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785365980128.4397,
+      "title": "I natt kan månen virke større enn den faktisk er",
+      "slug": "i-natt-kan-mnen-virke-strre-enn-den-faktisk-er",
+      "content": "Natt til torsdag står fullmånen lavt over horisonten og virker større enn den faktisk er. Ifølge NASA kalles fenomenet en måneillusjon, fordi vi oppfatter den som stor selv om fotografier viser at månen har samme bredde nær horisonten som når den er høyt på himmelen.\n\nDen blir også kalt for «Buck Moon» (bukkemåne), som knyttes til tiden på året da hannhjort, eller bukker, får nytt sett med gevir, skriver BBC.  I natt skal det være best mulighet for å se månen i Sør-Norge.\n\nBildet er tatt i Riex i Sveits, onsdag kveld 29. juli.\n\nRomfart og astronomi\n\nNatt til tirsdag 1. april blir Jannicke Mikkelsen Norges første astronaut når romskipet «Dragon» skytes opp fra Kennedy Space Center i Florida.",
+      "excerpt": "Natt til torsdag står fullmånen lavt over horisonten og virker større enn den faktisk er. Ifølge NASA kalles fenomenet en måneillusjon, fordi vi oppfatter den som stor selv om fotografier viser at månen har samme bredde nær horisonten som når den er høyt på himmelen.\n\nDen blir også kalt for «Buck...",
+      "image": "https://images.unsplash.com/photo-1770566456508-7ac19166da25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUzNjU5ODB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/i-natt-kan-manen-virke-storre-enn-den-faktisk-er-1.17973294",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-29T22:59:40.128Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785365978327.6328,
+      "title": "Meldinger om eksplosjoner i Kyiv",
+      "slug": "meldinger-om-eksplosjoner-i-kyiv",
+      "content": "Natt til torsdag ble det hørt eksplosjoner i hovedstaden Kyiv i Ukraina, opplyser en AFP-journalist.\n\nLuftalarmen går, og befolkningen oppfordres til å komme seg til nærmeste tilfluktsrom, melder lederen for den militære administrasjonen i Kyiv.\n\n«Fienden angriper hovedstaden med ballistiske missiler. Faren for nye angrep vedvarer», skriver byens ordfører Vitali Klitschko på Telegram.\n\nHan legger til at det har oppstått brann i noen bygninger i ulike bydeler som følge av angrepene.\n\nOnsdag advarte president Volodymyr Zelenskyj om at Russland sannsynligvis ville gjennomføre et nytt massivt angrep i løpet av natten, melder nyhetsbyrået AFP.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Natt til torsdag ble det hørt eksplosjoner i hovedstaden Kyiv i Ukraina, opplyser en AFP-journalist.\n\nLuftalarmen går, og befolkningen oppfordres til å komme seg til nærmeste tilfluktsrom, melder lederen for den militære administrasjonen i Kyiv.\n\n«Fienden angriper hovedstaden med ballistiske...",
+      "image": "https://images.unsplash.com/photo-1698306583861-72a12eb544a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUzNjU5Nzh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/meldinger-om-eksplosjoner-i-kyiv--1.17973311",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-29T22:59:38.327Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785358643422.3303,
       "title": "Venter stort angrep mot Ukraina i kveld",
       "slug": "venter-stort-angrep-mot-ukraina-i-kveld",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-27T14:38:38.229Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785163116495.9595,
-      "title": "Flere store nettsteder har tekniske problemer",
-      "slug": "flere-store-nettsteder-har-tekniske-problemer",
-      "content": "Ifølge Downdetector skal blant annet Vipps, Xbox og Microsoft ha problemer.\n\nMicrosoft melder mandag ettermiddag om store tekniske problemer som gjør at Xbox-brukere over hele verden sliter med å logge inn, få tilgang til spillbiblioteket sitt og starte spill.\n\nSelskapet opplyser at de jobber med å løse problemet.\n\nDet er ikke kjent hva som er årsaken til problemene.",
-      "excerpt": "Ifølge Downdetector skal blant annet Vipps, Xbox og Microsoft ha problemer.\n\nMicrosoft melder mandag ettermiddag om store tekniske problemer som gjør at Xbox-brukere over hele verden sliter med å logge inn, få tilgang til spillbiblioteket sitt og starte spill.\n\nSelskapet opplyser at de jobber med å...",
-      "image": "https://images.unsplash.com/photo-1506967554512-fc1ad1c0b21b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUxNjMxMTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-store-nettsteder-har-tekniske-problemer--1.17970416",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-27T14:38:36.495Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785151487823.212,
-      "title": "VG: Norwegian-fly fikk sprekk i frontruten",
-      "slug": "vg-norwegianfly-fikk-sprekk-i-frontruten",
-      "content": "Mandag morgen måtte et Norwegian-fly på vei til Dubrovnik lande i Wien, etter at flyet fikk en sprekk i frontruten.\n\n– Dette flyet fikk en sprekk i ruten, foran i cockpit. Kapteinene vurderte det sånn at de ville gå ned og inspisere det, sier Eline Hyggen Skari, pressevakt for Norwegian, til VG.\n\nDe ba derfor om prioritert landing på nærliggende flyplass, ifølge Skari.",
-      "excerpt": "Mandag morgen måtte et Norwegian-fly på vei til Dubrovnik lande i Wien, etter at flyet fikk en sprekk i frontruten.\n\n– Dette flyet fikk en sprekk i ruten, foran i cockpit. Kapteinene vurderte det sånn at de ville gå ned og inspisere det, sier Eline Hyggen Skari, pressevakt for Norwegian, til...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/vg_-norwegian-fly-fikk-sprekk-i-frontruten-1.17970146",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-27T11:24:47.823Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785151486115.0906,
-      "title": "Strendene i Normandie blir verdsarv",
-      "slug": "strendene-i-normandie-blir-verdsarv",
-      "content": "Strendene i Normandie, der dei allierte gjekk i land på D-dagen under andre verdskrigen, inkludert bunkrar, restar etter mellombelse hamner og sokne skip, er tekne inn på Unescos verdsarvliste.\n\n– Dette vedtaket legg eit særleg ansvar på oss. Det forpliktar oss til å ta vare på dette området, til å verne og beskytte det enda meir, seier regionpresidenten i Normandie, Hervé Morin.\n\nStrendene er truga av kysterosjon og stigande havnivå. Også turisme og plasseringa av eit vindkraftanlegg blir trekt fram som truslar.",
-      "excerpt": "Strendene i Normandie, der dei allierte gjekk i land på D-dagen under andre verdskrigen, inkludert bunkrar, restar etter mellombelse hamner og sokne skip, er tekne inn på Unescos verdsarvliste.\n\n– Dette vedtaket legg eit særleg ansvar på oss. Det forpliktar oss til å ta vare på dette området, til å...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/strendene-i-normandie-blir-verdsarv-1.17970162",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-27T11:24:46.115Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2633,
+    "totalFetched": 2636,
     "totalPublished": 77,
-    "lastFetch": "2026-07-29T20:57:25.332Z",
+    "lastFetch": "2026-07-29T22:59:43.189Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
