@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1785407131050.1323,
+      "title": "USA vil lagre 1360 tonn sprengstoff på Rygge",
+      "slug": "usa-vil-lagre-1360-tonn-sprengstoff-p-rygge",
+      "content": "Det amerikanske forsvaret har lyst ut et omfattende anbud for å bygge 20 nye underjordiske bunkere på Rygge flystasjon.\n\nBunkerne skal kunne lagre opptil 1360 tonn sprengstoff. Dette kommer frem i anbudsdokumenter som Moss Avis har fått innsyn i.\n\nUtbyggingen, som ble lyst ut 28. juli, er en del av samarbeidsavtalen mellom Norge og USA. Avtalen gir amerikanerne tilgang til en rekke norske militære områder, og samlet vil USA investere rundt 2 milliarder kroner på Østfold-basen.\n\nDet amerikanske forsvaret har lyst ut et omfattende anbud for å bygge 20 nye underjordiske bunkere på Rygge flystasjon.",
+      "excerpt": "Det amerikanske forsvaret har lyst ut et omfattende anbud for å bygge 20 nye underjordiske bunkere på Rygge flystasjon.\n\nBunkerne skal kunne lagre opptil 1360 tonn sprengstoff. Dette kommer frem i anbudsdokumenter som Moss Avis har fått innsyn i.\n\nUtbyggingen, som ble lyst ut 28. juli, er en del av...",
+      "image": null,
+      "original_url": "https://www.nrk.no/ostfold/usa-vil-lagre-1360-tonn-sprengstoff-pa-rygge-1.17973574",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-30T10:25:31.050Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785407129082.9893,
+      "title": "Går ut med navn på mannen som druknet i Lier",
+      "slug": "gr-ut-med-navn-p-mannen-som-druknet-i-lier",
+      "content": "Det var 42 år gamle Lukasz Wojciech Strzelczyk som omkom i drukningsulykken i Lier onsdag 22. juli, opplyser politiet i en pressemelding.\n\nDet ble iverksatt en stor redningsaksjon med helikopter, dykkere og undervannsdroner, men han ble ikke funnet.\n\nFørst to dager seinere ble mannen funnet ved Gilhusodden.",
+      "excerpt": "Det var 42 år gamle Lukasz Wojciech Strzelczyk som omkom i drukningsulykken i Lier onsdag 22. juli, opplyser politiet i en pressemelding.\n\nDet ble iverksatt en stor redningsaksjon med helikopter, dykkere og undervannsdroner, men han ble ikke funnet.\n\nFørst to dager seinere ble mannen funnet ved...",
+      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU0MDcxMjh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/buskerud/gar-ut-med-navn-pa-mannen-som-druknet-i-lier-1.17973438",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-30T10:25:29.083Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785407127315.6038,
+      "title": "Nesten 3000 hetebølgerelaterte dødsfall i England",
+      "slug": "nesten-3000-heteblgerelaterte-ddsfall-i-england",
+      "content": "Hetebølgene i mai og juni har ført til nesten 3000 dødsfall i England, ifølge det britiske helsesikkerhetsbyrået.\n\n– De anslåtte 2.877 varme-relaterte dødsfallene som ble registrert under hetebølgene i mai og juni utgjør en betydelig folkehelsemessig konsekvens, og inntraff tidlig i sommersesongen, opplyser det statlige byrået onsdag.\n\nDet er omtrent dobbelt så mange dødsfall som ble registrert i løpet av hele sommeren 2025.\n\nEngland hadde sin varmeste juni siden registreringene startet i 1884. Vest-Europa registrerte også sin varmeste juni noensinne, ifølge EUs klimaovervåkingstjeneste.\n\nOver halve England er også rammet av tørke. Årsaken er rekordlave nedbørsmengder og eksepsjonelt høye temperaturer, opplyser den britiske miljøetaten.\n\nHetebølge og varmerekorder\n\nVi følger hetebølge og varmerekorder direkte.\nEr du et sted med hetebølge? Ta kontakt med NRK her.",
+      "excerpt": "Hetebølgene i mai og juni har ført til nesten 3000 dødsfall i England, ifølge det britiske helsesikkerhetsbyrået.\n\n– De anslåtte 2.877 varme-relaterte dødsfallene som ble registrert under hetebølgene i mai og juni utgjør en betydelig folkehelsemessig konsekvens, og inntraff tidlig i sommersesongen...",
+      "image": "https://images.unsplash.com/photo-1631004150792-c24d0a04693c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU0MDcxMjd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/nesten-3000-hetebolgerelaterte-dodsfall-i-england-1.17973642",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-30T10:25:27.315Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785392965912.887,
       "title": "Jørn Lande i samarbeid med Black Sabbath-legende",
       "slug": "jrn-lande-i-samarbeid-med-black-sabbathlegende",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-28T02:39:36.635Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785206374780.353,
-      "title": "Legemiddelselskap i milliardforlik etter kreftskuldingar",
-      "slug": "legemiddelselskap-i-milliardforlik-etter-kreftskuldingar",
-      "content": "Den amerikanske legemiddelgiganten Johnson & Johnson har inngått eit forlik verdt over 53 milliardar kroner etter klagar om kreftframkallande produkt.\n\nNær 70.000 saker er omfatta av forliket, melder Reuters.\n\nSakene gjeld hovudsakeleg kvinner som meiner at babypudder og andre talkumprodukt selskapet har seld, har gjeve dei kreft i eggstokkane.\n\nSelskapet nektar for skuldingane, men valde å slutte å selje produkta i 2020.",
-      "excerpt": "Den amerikanske legemiddelgiganten Johnson & Johnson har inngått eit forlik verdt over 53 milliardar kroner etter klagar om kreftframkallande produkt.\n\nNær 70.000 saker er omfatta av forliket, melder Reuters.\n\nSakene gjeld hovudsakeleg kvinner som meiner at babypudder og andre talkumprodukt...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/legemiddelselskap-i-milliardforlik-etter-kreftskuldingar-1.17970821",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-28T02:39:34.780Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785193382071.7522,
-      "title": "Ulovlig droneflyvning i Hammerfest",
-      "slug": "ulovlig-droneflyvning-i-hammerfest",
-      "content": "Mandag kveld fikk politiet melding om droneflyvning innenfor forbudssonen til flyplassen i Hammerfest.\n\nTo utenlandske turister har erkjent bruk av drone og har fått et forelegg på 12 000 kroner, melder oppdragsleder Øyvind Johnson Holsbrekken i Finnmark politidistrikt.",
-      "excerpt": "Mandag kveld fikk politiet melding om droneflyvning innenfor forbudssonen til flyplassen i Hammerfest.\n\nTo utenlandske turister har erkjent bruk av drone og har fått et forelegg på 12 000 kroner, melder oppdragsleder Øyvind Johnson Holsbrekken i Finnmark politidistrikt.",
-      "image": "https://images.unsplash.com/photo-1753696278559-38efaeafab72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUxOTMzODF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/ulovlig-droneflyvning-i-hammerfest--1.17970814",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-27T23:03:02.071Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785186719058.834,
-      "title": "FN: Israel kan ha begått krigsforbrytelser i Libanon",
-      "slug": "fn-israel-kan-ha-begtt-krigsforbrytelser-i-libanon",
-      "content": "FNs høykommissær for menneskerettigheter, Volker Türk, advarer om at Israels krigføring i Libanon kan tilsvare krigsforbrytelser.\n\nUnder et besøk i landet mandag trakk han fram store sivile tap, ødelagte landsbyer og massefordrivelse som mulige brudd på folkeretten.\n\nMenneskerettighetssjefen trekker spesielt frem at hele landsbyer sør for Litani-elven, som ligger om lag 30 kilometer fra grensen til Israel, er ødelagt eller gjort ubeboelige.\n\n– Mitt kontor har registrert omfattende brudd på folkeretten, og noen av disse bruddene tilsvarer muligens krigsforbrytelser, sier Türk.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.\n\nDe forente nasjoner (FN)\n\nFN ble opprettet like etter andre verdenskrig, i hovedsak for å unngå lignende krigssituasjoner i framtiden. Hovedkontoret ligger i New York i USA, og organisasjonen har 193 medlemsland.",
-      "excerpt": "FNs høykommissær for menneskerettigheter, Volker Türk, advarer om at Israels krigføring i Libanon kan tilsvare krigsforbrytelser.\n\nUnder et besøk i landet mandag trakk han fram store sivile tap, ødelagte landsbyer og massefordrivelse som mulige brudd på folkeretten.\n\nMenneskerettighetssjefen...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/fn_-israel-kan-ha-begatt-krigsforbrytelser-i-libanon-1.17970776",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-27T21:11:59.058Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2642,
+    "totalFetched": 2645,
     "totalPublished": 77,
-    "lastFetch": "2026-07-30T06:29:27.388Z",
+    "lastFetch": "2026-07-30T10:25:33.059Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
