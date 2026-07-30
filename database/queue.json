@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1785439663433.2878,
+      "title": "Spania sender soldatar til Ceuta etter migrantstraum",
+      "slug": "spania-sender-soldatar-til-ceuta-etter-migrantstraum",
+      "content": "Spania vil sende soldatar til den spanske eksklaven Ceuta etter at fleire hundre migrantar har teke seg over grensa frå Marokko, melder Reuters.\n\nIfølge presidenten i Ceuta, Juan Jesus Vivas, har det kome opp mot 200 migrantar kvar dag dei siste dagane.\n\nMange av dei som flyktar frå fattigdom og krig i Afrika, prøver å komme seg til Europa via dei spanske områda Melilla og Ceuta nord i Marokko.\n\nItalia vurderer å suspendere Schengen-avtalen med Spania på grunn av flyktningstraumen, seier Statsministerens kontor torsdag, melder Reuters.\n\nFlyktninger i EU\n\nStorbritannia skal betale Frankrike 480 millioner pund de neste tre årene for å slå ned på migranter som forsøker å ta seg til landet over Den engelske kanal.",
+      "excerpt": "Spania vil sende soldatar til den spanske eksklaven Ceuta etter at fleire hundre migrantar har teke seg over grensa frå Marokko, melder Reuters.\n\nIfølge presidenten i Ceuta, Juan Jesus Vivas, har det kome opp mot 200 migrantar kvar dag dei siste dagane.\n\nMange av dei som flyktar frå fattigdom og...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/spania-sender-soldatar-til-ceuta-etter-migrantstraum-1.17974388",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-30T19:27:43.433Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785432964514.7563,
       "title": "Republikanarane stoppar forslag om å stanse Iran-krigen",
       "slug": "republikanarane-stoppar-forslag-om-stanse-irankrigen",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-28T10:37:07.723Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785235025914.4614,
-      "title": "Nå er Zidane fransk landslagssjef: – Det eneste jeg ville",
-      "slug": "n-er-zidane-fransk-landslagssjef-det-eneste-jeg-ville",
-      "content": "Etter flere år med venting er det nå klart. Zinédine Zidane (54) blir trener for Frankrikes fotballherrer.\n\nZidane er dermed klar for sin første trenerjobb siden han sluttet som Real Madrid-trener i 2021. Den tidligere franske fotballstjernen har en merittert trenerkarriere og vant elleve trofeer i Real.\n\n– Det er en drøm som blir virkelighet. Jeg har hatt flere tilbud de siste årene, men sa nei til alle med tanke på denne jobben. Det er det eneste jeg ville etter tiden i Real Madrid. Jeg har gått alle gradene i Frankrike, og det motiverer meg veldig å jobbe med dette laget, sa han.\n\nZidane vant blant annet La Liga to ganger og Mesterligaen tre ganger over to perioder på Bernabéu.\n\nHan ble da den første treneren i historien til å vinne tre Mesterliga-titler på rad.\n\nZidane får jobben 20 år etter at han spilte sin siste landskamp, og det skjedde ikke uten dramatikk. I VM-finalen mot Italia ble midtbanegeneralen utvist for å ha skallet Marco Materazzi i brystet. Bildet gikk verden rundt. Tidligere i kampen hadde de begge scoret hvert sitt mål.\n\nZidane erstatter Didier Deschamps, som etter VM ga seg som Frankrike-trener etter 14 år i rollen. (NTB)\n\nSportsnyheter\n\nHer får du de siste sportsnyhetene fra NRK.",
-      "excerpt": "Etter flere år med venting er det nå klart. Zinédine Zidane (54) blir trener for Frankrikes fotballherrer.\n\nZidane er dermed klar for sin første trenerjobb siden han sluttet som Real Madrid-trener i 2021. Den tidligere franske fotballstjernen har en merittert trenerkarriere og vant elleve trofeer i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/sport/na-er-zidane-fransk-landslagssjef_-_-det-eneste-jeg-ville-1.17971157",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-28T10:37:05.914Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2650,
+    "totalFetched": 2651,
     "totalPublished": 77,
-    "lastFetch": "2026-07-30T17:36:06.829Z",
+    "lastFetch": "2026-07-30T19:27:45.131Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
