@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": 1785494460167.7053,
+      "title": "Inside ModUlf: How Norway is rebuilding its immigration system",
+      "slug": "inside-modulf-how-norway-is-rebuilding-its-immigration-syste",
+      "content": "If you are wondering whether Norwegian immigration authorities truly want to improve their processes, let us tell you about ModUlf, a six-year project that aims to change the harsh reality faced by people who endure long waits during their migration process in Norway. Will it succeed?\n\nAnyone who has moved to Norway knows the process can be tough. There are strict rules, confusing steps, and long waits that feel like a struggle against old, slow systems.\n\nIn previous interviews, the Directorate of Immigration (UDI) has acknowledged these structural flaws. They have especially pointed out the outdated technology, which has forced them to rethink and redesign their infrastructure.\n\nTo combat the challenges, they are currently developing the project ModUlf (Modernisert utlendingsforvaltning – Modernised Immigration Administration), a six-year digitalisation programme that started in 2025.\n\nTo understand how Norway is quietly rebuilding its entire immigration system, The Local spoke with Henrik Hansen, the Product Lead (Produktleder) working in ModUlf within the \"Staying in Norway and Becoming Norwegian\" phase.\n\nModUlf, as the authorities present it on their website, is “our chance to shape the future of immigration administration.”\n\nIt is a joint, comprehensive digitalisation programme uniting the four main authorities responsible for foreign nationals in Norway: the Directorate of Immigration (UDI), the Immigration Appeals Board (UNE), the Ministry of Foreign Affairs (UD), and the police.\n\nThrough this multi-agency collaboration, their goal is to “create user-friendly, efficient and secure services – for the benefit of applicants, employees and society,” as stated on their website.\n\nNorway's current migration system is outdated and was built for a different time. Hansen told The Local that they are working with old platforms from the early 2000s, which is the main reason for starting ModUlf.\n\n\"The main goal of the project is, of course, to have safe and stable systems, because that's the core mission that we're supposed to deliver,\" he said.\n\n\"But we don't just want to make exactly the same as we have now; it needs to be more modern. We also want to make something that is future-proof, and of course, gives us more value. By 'value,' we refer to shorter waiting times, a quicker and easier job for our workers, and of course, for the applicants.\"\n\nAccording to the official ModUlf framework, most of the current software was built when digital threats were less advanced, there were fewer cases, and agencies worked separately. Over time, these old systems have been patched and changed so much that they are now very complex and make daily work harder.\n\nThe old technical systems also create security risks in today's world, while making it increasingly difficult for applicants to get help, creating a poor experience for foreign residents.\n\nImmigration authorities acknowledged that caseworkers do not have enough time for their core work because slow, confusing systems force them to perform many manual tasks (one of the primary reasons processing times are so notoriously long).\n\nData is also spread across different systems that do not connect, so officials lack the necessary insights to make efficient decisions.\n\nHansen emphasised that stabilising this fragile foundation was the absolute priority for the state.\n\n\"Our main task is to get us more stable, modern, and safe systems,\" Hansen said.\n\n\"We wanted to improve the systems, and it was required because they are quite old. We want to ensure we can make the improvements we want in the future... We need a very good foundation. The system is very old, so it really requires an upgrade to make sure that our platforms are safe and stable,\" he said.\n\nREAD MORE: ‘We are aware’: Norway's UDI responds to criticism over residency permit delays\n\nUpgrading a system of this scale is a delicate operation that must be carried out over an extended period.\n\nSince replacing everything at once is not possible, experts like Hansen are slowly and gradually building new digital components around the old software. They remove old features step by step, while everyday operations continue uninterrupted, as usual, in the background.\n\n\"This is a project that will go over several years. There are a lot of things going on, and we can't do everything at the same time,\" Hansen said.\n\nFor this reason, the ModUlf programme has been broken down into four distinct, overlapping development streams stretching until 2031.\n\nStream 1 - Staying in Norway and becoming Norwegian (2025 – 2029): The first phase focuses on residents already established in the country, covering citizenship (statsborgerskap), permanent residence (permanent opphold), and permit renewals (fornyelse).\n\nStream 2 - Coming to Norway (2026 – 2030): The second phase focuses on the entry and initial relocation, including visitor visas, family immigration (familieinnvandring), work permits, and study permits.\n\nStream 3 - Protection and asylum (2027 – 2030): The third phase upgrades the distinct casework pathways required for those seeking international protection.\n\nStream 4 - Sanctions and departures (2028 – 2031): The final stream focuses on enforcement systems, including the management of expulsions (utvisning), deportations (bortvisning), and the revocation of citizenship or legal status.\n\nHansen explained that while some features within the ModUlf project are tailored strictly to each specific phase, like citizenship, others are designed as shared infrastructure.\n\n“This means, for example, that when we start with permanent residency, we will have some parts, like systems and features, already made from the previous advances in citizenship that can also be used for this, and we can focus on the more specific parts of permanent residency,\" he said.\n\n\"This helps with making systems that are interconnected and consistent.\"\n\nAt first, it may seem odd that the timeline goes in the opposite order of a typical immigrant's journey to Norway from arriving to becoming part of it. However, Hansen explained the clear reasoning behind this choice.\n\n“We actually go backward. We have started with citizenship. It is the last part of the journey in becoming Norwegian and being in Norway, but because we already had a lot of information about people at this stage, we started with that,\" said Hansen.\n\nStarting at the end of the process lets the team build a strong foundation using data the state already has and trust. \"The 'Staying in Norway' phase is considered an easier area, not because it's simple, but because we have a lot of data from before, so we can use that information to make robust systems,\" Hansen said.\n\nIn contrast, opening up the initial application pipeline for newcomers presents far greater technical and analytical hurdles.\n\n“The 'Coming to Norway' phase is a much bigger part, which we have broken up into multiple deliveries because it's very complicated. When you come to Norway, you're usually here for the first time. So, it requires quite different ways of working with those types of cases. We need much more information,\" explained Hansen.\n\nAs for the final enforcement stream, it might seem unique to mix it with general immigration services, but Hansen pointed out that it represents a vital part of managing the overall system.\n\nHowever, it requires a completely distinct administrative approach: \"It is different because that is something the authorities start on their own; it's not something an applicant applies for.\"\n\nWhat do you think about this project? Will it improve the international community's experience of coming to Norway? Leave your comment below.\n\nREAD ALSO: 'I'm a prisoner': Foreigners in Norway left unable to work or travel as they wait for UDI\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
+      "excerpt": "If you are wondering whether Norwegian immigration authorities truly want to improve their processes, let us tell you about ModUlf, a six-year project that aims to change the harsh reality faced by people who endure long waits during their migration process in Norway. Will it succeed?\n\nAnyone who...",
+      "image": "https://images.unsplash.com/photo-1641341155664-d8956cfd232b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU0OTQ0NjB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.thelocal.no/20260728/inside-modulf-how-norway-is-rebuilding-its-immigration-system",
+      "source_name": "The Local Norway",
+      "fetched_at": "2026-07-31T10:41:00.167Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785494456605.8462,
+      "title": "Brann i boligblokk i Oslo",
+      "slug": "brann-i-boligblokk-i-oslo",
+      "content": "Nødetatene er på vei til Nydalen i Oslo etter melding om brann i en stor boligblokk med over 150 beboere fredag formiddag.\n\nDet ble meldt om flammer på en takterrasse, opplyser politiet.\n\n– Slukking er godt i gang. Brannvesenet er på taket og det fremstår som at det er kontroll på stedet, opplyser operasjonsleder Per-Ivar Iversen.\n\nKlokken 12.05 opplyser politiet at brannen er slukket.\n\n– Etterslukking vil pågå en stund, opplyser Iversen.\n\nPolitiet rykket til meldinger om flammer på en takterrasse.\n\nBranner i Oslo og Akershus\n\nBrannhendelser i Oslo og Akershus.",
+      "excerpt": "Nødetatene er på vei til Nydalen i Oslo etter melding om brann i en stor boligblokk med over 150 beboere fredag formiddag.\n\nDet ble meldt om flammer på en takterrasse, opplyser politiet.\n\n– Slukking er godt i gang. Brannvesenet er på taket og det fremstår som at det er kontroll på stedet, opplyser...",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/brann-i-boligblokk-i-oslo-1.17975019",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-31T10:40:56.605Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785494454850.6614,
+      "title": "Norske universiteter reduserer studieavgiften for internasjonale studenter",
+      "slug": "norske-universiteter-reduserer-studieavgiften-for-internasjo",
+      "content": "Fra 1. august vil flere norske universiteter redusere studieavgiften for internasjonale studenter, skriver Khrono.\n\nBlant disse er UiT, Universitetet i Stavanger, OsloMet, NMBU, Universitetet i Innlandet, Universitetet i Sørøst-Norge, Universitetet i Agder og Nord universitet.  Målet med reduksjonen er å få flere utenlandske studenter tilbake til Norge.  Studieavgiften ble innført i 2023, noe som førte til høyere priser og færre internasjonale studenter. En nylig lovendring fra Stortinget gir nå universiteter lov til å sette lavere avgifter for studenter fra land utenfor EØS og Sveits.",
+      "excerpt": "Fra 1. august vil flere norske universiteter redusere studieavgiften for internasjonale studenter, skriver Khrono.\n\nBlant disse er UiT, Universitetet i Stavanger, OsloMet, NMBU, Universitetet i Innlandet, Universitetet i Sørøst-Norge, Universitetet i Agder og Nord universitet.  Målet med...",
+      "image": "https://images.unsplash.com/photo-1651009276328-dbba8f5dc783?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU0OTQ0NTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/tromsogfinnmark/norske-universiteter-reduserer-studieavgiften-for-internasjonale-studenter-1.17974677",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-31T10:40:54.850Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785494452943.6177,
+      "title": "Bekrefter at det var et russisk missil som landet i Polen",
+      "slug": "bekrefter-at-det-var-et-russisk-missil-som-landet-i-polen",
+      "content": "Polens viseforsvarsminister, Cezary Tomczyk, bekrefter at det var et russisk missil som landet nær landets grense til Ukraina torsdag.\n\n– Jeg har snakket med operasjonssjefen, general Ireneusz Nowak, og vi kan bekrefte med full sikkerhet at dette er et russisk Kh-101-missil, uttalte Tomczyk til radiokanalen RMF FM torsdag kveld.\n\nDet polske militæret meldte torsdag morgen at et uidentifisert flygende objekt hadde krenket Nato-luftrommet og styrtet på polsk territorium under kraftige russiske luftangrep mot nabolandet Ukraina natt til torsdag.\n\nObjektet falt ned i et ubebodd område nær landsbyen Tarnawa Kolonia, rundt 90 kilometer sør for Lublin, der alarmen gikk tidlig om morgenen.\n\nIfølge militæret ble et F-16-jagerfly sendt opp for å identifisere objektet, men prosjektilet forsvant fra radaren før jagerflyet fikk øye på det. Mannskapet på et helikopter identifiserte senere nedslagsstedet.\n\nPolitiet fant senere et krater med en diameter på ti meter på et jorde. Ingen ble skadet i hendelsen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Polens viseforsvarsminister, Cezary Tomczyk, bekrefter at det var et russisk missil som landet nær landets grense til Ukraina torsdag.\n\n– Jeg har snakket med operasjonssjefen, general Ireneusz Nowak, og vi kan bekrefte med full sikkerhet at dette er et russisk Kh-101-missil, uttalte Tomczyk til...",
+      "image": "https://images.unsplash.com/photo-1697193596436-86f818d0f10d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU0OTQ0NTJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/bekrefter-at-det-var-et-russisk-missil-som-landet-i-polen-1.17974777",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-07-31T10:40:52.944Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785480285219.4937,
       "title": "Stans i produksjonen etter brann",
       "slug": "stans-i-produksjonen-etter-brann",
@@ -597,64 +649,12 @@
       "fetched_at": "2026-07-29T02:46:31.221Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785293189548.3313,
-      "title": "MC-fører funnet skadet i Balsfjord",
-      "slug": "mcfrer-funnet-skadet-i-balsfjord",
-      "content": "Nødetatene rykket ut etter melding om en trafikkulykke med motorsykkel ved Balsfjord i Troms natt til onsdag.\n\nEn tilfeldig forbipasserende varslet om at det lå en person i grøfta, og oppdaget motorsykkelen like etter.\n\nAmbulansepersonell tilser MC-føreren, og en luftambulanse er på vei til stedet. Skadegraden er ukjent, melder operasjonsleder Per Arve Aas i Troms politidistrikt.",
-      "excerpt": "Nødetatene rykket ut etter melding om en trafikkulykke med motorsykkel ved Balsfjord i Troms natt til onsdag.\n\nEn tilfeldig forbipasserende varslet om at det lå en person i grøfta, og oppdaget motorsykkelen like etter.\n\nAmbulansepersonell tilser MC-føreren, og en luftambulanse er på vei til stedet....",
-      "image": "https://images.unsplash.com/photo-1697308364285-994346ce5e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUyOTMxODl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/mc-forer-funnet-skadet-i-balsfjord-1.17972067",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-29T02:46:29.548Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785279649037.117,
-      "title": "Brann i trafo ved bolig på Ringerike",
-      "slug": "brann-i-trafo-ved-bolig-p-ringerike",
-      "content": "Nødetatene har rykket ut etter melding om brann i en trafo i tilknytning til en bolig på Ringerike tirsdag kveld.\n\nDet ble meldt om flammer ut av trafoen mot en husvegg.\n\nBeboerne på stedet har evakuert, melder operasjonsleder Ståle Olstad Fuglaas i Sør-Øst politidistrikt.\n\nBrannvesenet har kontroll på stedet, og det er ikke fare for at brannen skal utvikle seg ytterligere.",
-      "excerpt": "Nødetatene har rykket ut etter melding om brann i en trafo i tilknytning til en bolig på Ringerike tirsdag kveld.\n\nDet ble meldt om flammer ut av trafoen mot en husvegg.\n\nBeboerne på stedet har evakuert, melder operasjonsleder Ståle Olstad Fuglaas i Sør-Øst politidistrikt.\n\nBrannvesenet har...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/brann-i-trafo-ved-bolig-pa-ringerike-1.17972049",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-28T23:00:49.037Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785279647433.048,
-      "title": "E6 i Måselv stengt på grunn av bilbrann",
-      "slug": "e6-i-mselv-stengt-p-grunn-av-bilbrann",
-      "content": "E6 ved Takelvdalen i Målselv i Troms er stengt i begge retninger etter brann i et kjøretøy.\n\nBilen som brenner står i nordgående retning og sperrer veien, opplyser operasjonsleder Per Arve Aas i Troms politidistrikt rundt midnatt natt til onsdag.\n\nI en oppdatering klokken 00:17 er brannen slukket.  Trafikken står forstatt stille i begge retninger.",
-      "excerpt": "E6 ved Takelvdalen i Målselv i Troms er stengt i begge retninger etter brann i et kjøretøy.\n\nBilen som brenner står i nordgående retning og sperrer veien, opplyser operasjonsleder Per Arve Aas i Troms politidistrikt rundt midnatt natt til onsdag.\n\nI en oppdatering klokken 00:17 er brannen slukket....",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/e6-i-maselv-stengt-pa-grunn-av-bilbrann-1.17972054",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-28T23:00:47.433Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785279645629.0676,
-      "title": "Politiet rykket ut etter smell ved Lambertseter",
-      "slug": "politiet-rykket-ut-etter-smell-ved-lambertseter",
-      "content": "Politiet i Oslo fikk melding om et smell i skogen langs E6 ved Lambertseterveien natt til onsdag. Etter nærmere undersøkelser kom de i kontakt med en person som hadde observert fyrverkeri, melder operasjonsleder Christer Martinsen i Oslo politidistrikt",
-      "excerpt": "Politiet i Oslo fikk melding om et smell i skogen langs E6 ved Lambertseterveien natt til onsdag. Etter nærmere undersøkelser kom de i kontakt med en person som hadde observert fyrverkeri, melder operasjonsleder Christer Martinsen i Oslo politidistrikt",
-      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUyNzk2NDV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/politiet-rykket-ut-etter-smell-ved-lambertseter-1.17972057",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-28T23:00:45.629Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2661,
+    "totalFetched": 2665,
     "totalPublished": 77,
-    "lastFetch": "2026-07-31T06:44:47.252Z",
+    "lastFetch": "2026-07-31T10:41:01.168Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
