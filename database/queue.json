@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1785624993695.507,
+      "title": "Italia har innført grensekontroll mot Spania",
+      "slug": "italia-har-innfrt-grensekontroll-mot-spania",
+      "content": "Nå må reisende fra Spania gjennom dokumentkontroll ved italienske flyplasser og havner.\n\nTiltaket ble vedtatt etter et møte mellom innenriksdepartementet og komiteen for innvandring og grensesikkerhet på fredag.\n\n– Den midlertidige suspensjonen av Schengen-avtalen er en nødvendig beslutning for å beskytte borgernes sikkerhet og forsvare Europas grenser, skrev Italias utenriksminister Antonio Tajani på X på fredag.\n\nBakgrunnen for dokumentkontrollen er at 60.000 mennesker tok seg over grensen til den spanske eksklaven Ceuta.\n\nNærmere 50 000 har returnert frivillig til Marokko, mens minst 67 personer har mistet livet.\n\nItalias utenriksminister foreslo allerede torsdag kveld å kaste ut Spania fra Schengen-området som følge av migrasjonskrisen i den spanske eksklaven Ceuta i Nord-Afrika.\n\nMigranter i Europa\n\nEuropeiske land krever strengere grensekontroll mot massemigrasjon. På få dager krysset rundt 60.000 marokkanere ulovlig inn i den spanske eksklaven Ceuta. De fleste er returnert, men 68 personer mistet livet.",
+      "excerpt": "Nå må reisende fra Spania gjennom dokumentkontroll ved italienske flyplasser og havner.\n\nTiltaket ble vedtatt etter et møte mellom innenriksdepartementet og komiteen for innvandring og grensesikkerhet på fredag.\n\n– Den midlertidige suspensjonen av Schengen-avtalen er en nødvendig beslutning for å...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/italia-har-innfort-grensekontroll-mot-spania-1.17976368",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-01T22:56:33.695Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785624991936.3887,
+      "title": "Elgpåkjørsel på E18 i Nordre Follo",
+      "slug": "elgpkjrsel-p-e18-i-nordre-follo",
+      "content": "E18 ved Askimveien øst for Østensjøvannet i Nordre Follo ble lørdag kveld stengt i begge retninger etter en elgpåkjørsel.\n\nDet ble meldt om skader på både bilfører og elgen, meldte operasjonsleder Håkon Hatlen i Øst politidistrikt klokken 23.01\n\nEn halvtime senere melder politiet at bilføreren er kjørt til Ullevål sykehus for nærmere undersøkelser. Elgen er død.",
+      "excerpt": "E18 ved Askimveien øst for Østensjøvannet i Nordre Follo ble lørdag kveld stengt i begge retninger etter en elgpåkjørsel.\n\nDet ble meldt om skader på både bilfører og elgen, meldte operasjonsleder Håkon Hatlen i Øst politidistrikt klokken 23.01\n\nEn halvtime senere melder politiet at bilføreren er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/elgpakjorsel-pa-e18-i-nordre-follo--1.17976363",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-01T22:56:31.936Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785617656454.089,
       "title": "WHO: Ebolautbruddet i Kongo er nå det største noensinne",
       "slug": "who-ebolautbruddet-i-kongo-er-n-det-strste-noensinne",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-07-30T17:36:02.593Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785420347239.2346,
-      "title": "Innfører krepseforbud i ni kommuner etter funn av krepsepest",
-      "slug": "innfrer-krepseforbud-i-ni-kommuner-etter-funn-av-krepsepest",
-      "content": "Mattilsynet har fastsatt en restriksjonssone for bekjempelse av krepsepest i Drammensvassdraget. Sonen omfatter kommunene Modum, Krødsherad, Drammen, Lier, Ringerike, Jevnaker, Hole, Øvre Eiker og Sigdal i Buskerud og Akershus.\n\nKrepsepest er påvist på edelkreps i Drammenselva i Modum, og det er med bakgrunn i dette at Mattilsynet nå tar grep.\n\n– Det er forbudt å krepse i en restriksjonssone for krepsepest. Det er svært strenge krav med hensyn til annet fiske og til tørking og desinfeksjon av alt utstyr som er i kontakt med vann i disse sonene, skriver Mattilsynet på sine nettsider.\n\nDet finnes store bestander av edelkreps i kommunene. Fisket skulle etter planen starte 10. august.\n\nStatsforvaltaren i Østfold, Buskerud, Oslo og Akershus vil stanse årets krepsefiske for å verne edelkrepsen mot krepsepest.",
-      "excerpt": "Mattilsynet har fastsatt en restriksjonssone for bekjempelse av krepsepest i Drammensvassdraget. Sonen omfatter kommunene Modum, Krødsherad, Drammen, Lier, Ringerike, Jevnaker, Hole, Øvre Eiker og Sigdal i Buskerud og Akershus.\n\nKrepsepest er påvist på edelkreps i Drammenselva i Modum, og det er...",
-      "image": "https://images.unsplash.com/photo-1577911712369-570526d49766?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU0MjAzNDd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/buskerud/innforer-krepseforbud-i-ni-kommuner-etter-funn-av-krepsepest-1.17973399",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-30T14:05:47.239Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785420345551.1924,
-      "title": "Naf advarer: – Ikke lad elbilen i tordenvær",
-      "slug": "naf-advarer-ikke-lad-elbilen-i-tordenvr",
-      "content": "Naf advarer mot lading av elbilen i tordenvær, etter at det ble sendt ut gult farevarsel for lyn over deler av Agder og Østlandet torsdag kveld.\n\nKommunikasjonsrådgiver Nils Sødal sier at om ladepunktet er riktig installert, skal det være overspenningsvern.\n\nRisikoen for lynnedslag i hus, bil eller i nærheten er heldigvis ganske lav, men omfanget av skadene kan være store. Et direkte lynnedslag kan ødelegge ladeutstyret eller bilens elektroniske systemer. Moderne hjem og elbilladere er utstyrt med overspenningsvern som gir en viss beskyttelse mot slike hendelser.\n\n– Bor du et sted der det er hyppige lynnedslag er det lurt å kontakte elektriker for å se om det er noe mer du kan gjøre for å sikre hus og bil, sier Sødal. (NTB)",
-      "excerpt": "Naf advarer mot lading av elbilen i tordenvær, etter at det ble sendt ut gult farevarsel for lyn over deler av Agder og Østlandet torsdag kveld.\n\nKommunikasjonsrådgiver Nils Sødal sier at om ladepunktet er riktig installert, skal det være overspenningsvern.\n\nRisikoen for lynnedslag i hus, bil eller...",
-      "image": "https://images.unsplash.com/photo-1697992895179-611a85f58aff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU0MjAzNDV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/sorlandet/naf-advarer_-_-ikke-lad-elbilen-i-tordenvaer-1.17974098",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-30T14:05:45.552Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2696,
+    "totalFetched": 2698,
     "totalPublished": 77,
-    "lastFetch": "2026-08-01T20:54:18.691Z",
+    "lastFetch": "2026-08-01T22:56:35.293Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
