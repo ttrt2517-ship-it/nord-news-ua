@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1785611397508.701,
+      "title": "Alvorlig frontulykke på Voss – tre flydd til sykehus",
+      "slug": "alvorlig-frontulykke-p-voss-tre-flydd-til-sykehus",
+      "content": "Flere personer er skadde etter en alvorlig frontkollisjon mellom to biler på E16 på Voss.\n\n– Fire pasienter er kjørt til Voss sykehus og tre er flydd til Haukeland sjukehus. Skadeomfanget er ukjent, opplyser operasjonsleder Jørgen Ommedal i Vest politidistrikt.\n\nEn person satt fastklemt etter ulykken. Klokken 18:53 opplyste brannvesenet at de har fått den fastklemte personen ut av bilen.\n\nAlle nødetater er på ulykkesstedet. Et redningshelikopter fra Bergen er også på stedet.\n\nE16 er stengt på stedet, med omkjøring via Hardanger. Ifølge Vegtrafikksentralen vest, kan veien bli stengt i mange timer.\n\nTrafikk i Norge\n\nVet du noe andre bør vite om trafikken? Tips oss her eller ring 800 99 999",
+      "excerpt": "Flere personer er skadde etter en alvorlig frontkollisjon mellom to biler på E16 på Voss.\n\n– Fire pasienter er kjørt til Voss sykehus og tre er flydd til Haukeland sjukehus. Skadeomfanget er ukjent, opplyser operasjonsleder Jørgen Ommedal i Vest politidistrikt.\n\nEn person satt fastklemt etter...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/alvorlig-frontulykke-pa-voss-_-tre-flydd-til-sykehus-1.17976165",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-01T19:09:57.508Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785603744731.7935,
       "title": "Grensekontroll: Enighet om nordisk samarbeid",
       "slug": "grensekontroll-enighet-om-nordisk-samarbeid",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-30T10:25:29.083Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785407127315.6038,
-      "title": "Nesten 3000 hetebølgerelaterte dødsfall i England",
-      "slug": "nesten-3000-heteblgerelaterte-ddsfall-i-england",
-      "content": "Hetebølgene i mai og juni har ført til nesten 3000 dødsfall i England, ifølge det britiske helsesikkerhetsbyrået.\n\n– De anslåtte 2.877 varme-relaterte dødsfallene som ble registrert under hetebølgene i mai og juni utgjør en betydelig folkehelsemessig konsekvens, og inntraff tidlig i sommersesongen, opplyser det statlige byrået onsdag.\n\nDet er omtrent dobbelt så mange dødsfall som ble registrert i løpet av hele sommeren 2025.\n\nEngland hadde sin varmeste juni siden registreringene startet i 1884. Vest-Europa registrerte også sin varmeste juni noensinne, ifølge EUs klimaovervåkingstjeneste.\n\nOver halve England er også rammet av tørke. Årsaken er rekordlave nedbørsmengder og eksepsjonelt høye temperaturer, opplyser den britiske miljøetaten.\n\nHetebølge og varmerekorder\n\nVi følger hetebølge og varmerekorder direkte.\nEr du et sted med hetebølge? Ta kontakt med NRK her.",
-      "excerpt": "Hetebølgene i mai og juni har ført til nesten 3000 dødsfall i England, ifølge det britiske helsesikkerhetsbyrået.\n\n– De anslåtte 2.877 varme-relaterte dødsfallene som ble registrert under hetebølgene i mai og juni utgjør en betydelig folkehelsemessig konsekvens, og inntraff tidlig i sommersesongen...",
-      "image": "https://images.unsplash.com/photo-1631004150792-c24d0a04693c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU0MDcxMjd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/nesten-3000-hetebolgerelaterte-dodsfall-i-england-1.17973642",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-30T10:25:27.315Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2692,
+    "totalFetched": 2693,
     "totalPublished": 77,
-    "lastFetch": "2026-08-01T17:02:26.763Z",
+    "lastFetch": "2026-08-01T19:09:59.119Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
