@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1785669764157.3196,
+      "title": "Ferjebrann i Indonesia: Minst fem døde og 41 savnet",
+      "slug": "ferjebrann-i-indonesia-minst-fem-dde-og-41-savnet",
+      "content": "Minst fem er døde og 41 savnet etter at en ferge tok fyr utenfor øya Madura i Indonesia, opplyser indonesiske myndigheter søndag formiddag.\n\n271 mennesker var ombord på båten som var på vei fra Surabaya på Java til Makassar på Sulawesi.",
+      "excerpt": "Minst fem er døde og 41 savnet etter at en ferge tok fyr utenfor øya Madura i Indonesia, opplyser indonesiske myndigheter søndag formiddag.\n\n271 mennesker var ombord på båten som var på vei fra Surabaya på Java til Makassar på Sulawesi.",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ferjebrann-i-indonesia_-minst-fem-dode-og-41-savnet-1.17976475",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-02T11:22:44.158Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785664732165.3608,
       "title": "Mann i 30-åra døydde i fallulykke i Bremanger",
       "slug": "mann-i-30ra-dydde-i-fallulykke-i-bremanger",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-31T06:44:41.483Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785466592815.7117,
-      "title": "Minst 11 omkom i gruveulykke i Pakistan",
-      "slug": "minst-11-omkom-i-gruveulykke-i-pakistan",
-      "content": "Minst 11 kullgruvearbeidere omkom og 25 personer er savnet etter at en gruve kollapset i Balutsjistan-provinsen i Pakistan torsdag, melder nyhetsbyrået Reuters.\n\nDet skal ha vært en eksplosjon i gruven, men det er uklart hva som forårsaket den.",
-      "excerpt": "Minst 11 kullgruvearbeidere omkom og 25 personer er savnet etter at en gruve kollapset i Balutsjistan-provinsen i Pakistan torsdag, melder nyhetsbyrået Reuters.\n\nDet skal ha vært en eksplosjon i gruven, men det er uklart hva som forårsaket den.",
-      "image": "https://images.unsplash.com/photo-1765315163412-d60dcb828fe5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU0NjY1OTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/minst-11-omkom-i-gruveulykke-i-pakistan-1.17974534",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-31T02:56:32.815Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2707,
+    "totalFetched": 2708,
     "totalPublished": 77,
-    "lastFetch": "2026-08-02T09:58:53.877Z",
+    "lastFetch": "2026-08-02T11:22:46.235Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
