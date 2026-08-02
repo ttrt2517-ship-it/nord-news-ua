@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1785677070338.066,
+      "title": "Kontroll på brann i Oslo – ikke spredningsfare",
+      "slug": "kontroll-p-brann-i-oslo-ikke-spredningsfare",
+      "content": "Politi og brannvesen har rykket ut til en adresse i Oslo øst etter melding om en brann.\n\n– Vi har fått opplysninger om at det brenner i en enebolig som er fullt overtent, opplyser vaktkommandør Hans Erik Tysdal til NRK.\n\nIfølge politiet var det stor fare for spredning til en skog i nærheten.\n\nI en ny oppdatering klokken 14.13 skriver de at brannvesenet har kontroll på brannen, og at det ikke lenger er fare for spredning.\n\nBrannvesenet fikk flere meldinger om brannen like før klokken 14.\n\nDet har brent kraftig i et bygg i Oslo øst. Det er ikke lenger fare for spredning.",
+      "excerpt": "Politi og brannvesen har rykket ut til en adresse i Oslo øst etter melding om en brann.\n\n– Vi har fått opplysninger om at det brenner i en enebolig som er fullt overtent, opplyser vaktkommandør Hans Erik Tysdal til NRK.\n\nIfølge politiet var det stor fare for spredning til en skog i nærheten.\n\nI en...",
+      "image": null,
+      "original_url": "https://www.nrk.no/stor-oslo/kontroll-pa-brann-i-oslo-_-ikke-spredningsfare-1.17976457",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-02T13:24:30.338Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785677068735.952,
+      "title": "Dataangrepet mot Norsk Tipping er avsluttet – stenger oddsspill",
+      "slug": "dataangrepet-mot-norsk-tipping-er-avsluttet-stenger-oddsspil",
+      "content": "– Det ser ut til at DDoS-angrepet mot Norsk Tipping er avsluttet, og at trafikken flyter som normalt igjen, sier Stian Simensen, pressevakt i Norsk Tipping.\n\nSom følge av angrepet ser Norsk Tipping seg nødt til å stenge spillet Oddsen.\n\nDe har ikke mulighet til å gjennomføre oddsendringer, forklarer Simensen.\n\n– Kunder vil derfor per nå ikke få levert oddsspill. Vi jobber med Telenor for å løse dette.\n\nNorsk Tipping ble utsatt for et dataangrep søndag. De hadde problemer med app og nettside mellom klokken 12 og 14.\n\nNorsk Tipping ble utsatt for et dataangrep søndag. Oddsen blir stengt etter angrepet.\n\nNorsk Tipping\n\nNorsk Tipping er eit statleg speleselskap i Noreg som tilbyr pengespel, inkludert lotto, sportsspel og skrapelodd.\nOverskotet går til samfunnsnyttige føremål som idrett, kultur og humanitære organisasjonar. Føremålet er ansvarleg og sikkert pengespel.",
+      "excerpt": "– Det ser ut til at DDoS-angrepet mot Norsk Tipping er avsluttet, og at trafikken flyter som normalt igjen, sier Stian Simensen, pressevakt i Norsk Tipping.\n\nSom følge av angrepet ser Norsk Tipping seg nødt til å stenge spillet Oddsen.\n\nDe har ikke mulighet til å gjennomføre oddsendringer...",
+      "image": "https://images.unsplash.com/photo-1664790660158-8470f8bc548c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU2NzcwNjh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/innlandet/dataangrepet-mot-norsk-tipping-er-avsluttet-_-stenger-oddsspill-1.17976609",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-02T13:24:28.736Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785677067003.202,
+      "title": "OPEC+ øker oljeproduksjonen i september",
+      "slug": "opec-ker-oljeproduksjonen-i-september",
+      "content": "Syv land i oljealliansen OPEC+ øker oljeproduksjonen med 188.000 fat om dagen fra og med september.\n\nBeslutningen omfatter landene Saudi-Arabia, Russland, Irak, Kuwait, Kasakhstan, Algerie og Oman, og ble tatt under et digitalt møte søndag.\n\nI en felles uttalelse viser landene til at produksjonsøkningen skjer på bakgrunn av forstyrrelser forårsaket av krigen i Midtøsten.\n\nOgså i august økte de samme landene oljeproduksjonen med 188.000 fat dagen.\n\nOljeprisen\n\nPrisen på nordsjøolje kan svinge kraftig, og påvirkes blant annet av kriger og konflikter i verden.\n\nOpec\n\nOljekartellet Opec favner 14 oljeproduserende land som samlet står for en tredel av verdens oljeproduksjon. Hverken USA, Russland, Kina eller Norge er med i kartellet som forsøker å styre oljeprisen ved justeringer i produksjonsvolum.",
+      "excerpt": "Syv land i oljealliansen OPEC+ øker oljeproduksjonen med 188.000 fat om dagen fra og med september.\n\nBeslutningen omfatter landene Saudi-Arabia, Russland, Irak, Kuwait, Kasakhstan, Algerie og Oman, og ble tatt under et digitalt møte søndag.\n\nI en felles uttalelse viser landene til at...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/opec_-oker-oljeproduksjonen-i-september-1.17976644",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-02T13:24:27.004Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785669764157.3196,
       "title": "Ferjebrann i Indonesia: Minst fem døde og 41 savnet",
       "slug": "ferjebrann-i-indonesia-minst-fem-dde-og-41-savnet",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-31T10:40:52.944Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785480285219.4937,
-      "title": "Stans i produksjonen etter brann",
-      "slug": "stans-i-produksjonen-etter-brann",
-      "content": "Det blir stopp i produksjonen ved Sørlandschips i Kristiansand i dag, etter brannen som oppstod i et ventilasjonsanlegg på taket til fabrikklokalet i natt.\n\n– Det blir stopp i produksjonen i dag for å tørke opp etter slukningsarbeidet, sier kommunikasjonsansvarlig Sofie Oraug-Rygh i Sørlandschips til NRK.\n\nHun beskriver brannen som liten, og sier at det kun har brent i takpapp.\n\nProduksjons-stansen skal kun vare i dag og skaper lite konsekvenser for bedriften, opplyser Oraug-Rygh.",
-      "excerpt": "Det blir stopp i produksjonen ved Sørlandschips i Kristiansand i dag, etter brannen som oppstod i et ventilasjonsanlegg på taket til fabrikklokalet i natt.\n\n– Det blir stopp i produksjonen i dag for å tørke opp etter slukningsarbeidet, sier kommunikasjonsansvarlig Sofie Oraug-Rygh i Sørlandschips...",
-      "image": "https://images.unsplash.com/photo-1727625800584-4edd7b080a14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU0ODAyODV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/sorlandet/stans-i-produksjonen-etter-brann-1.17974668",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-31T06:44:45.219Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785480283384.4138,
-      "title": "Båtulykken i Sverige: Har fått tilgang til den «svarte boksen»",
-      "slug": "btulykken-i-sverige-har-ftt-tilgang-til-den-svarte-boksen",
-      "content": "Den svenske havarikommisjonen har avhørt mannskapet på det norskeide skipet som muligens kan ha kollidert med en fritidsbåt utenfor svenskekysten tirsdag kveld, skiver Aftonbladet.\n\nFar og sønn i fritidsbåten ble fraktet til sykehus, mens mor og datter først ble meldt savnet.\n\nDet er fortsatt usikkert hva som har forårsaket ulykken, men det har de siste dagene vært mistanke om at et norskeid skip kan ha kollidert med fritidsbåten.\n\nNoe som kan vise seg å bli viktig for etterforskningen, er en svart boks som etterforskerne har fått tak i. Den viser radarbildene.\n\n– Med bistand fra politiet har vi lastet den ned, men vi har ikke rukket å se på den ennå. Det kommer vi først til å gjøre i neste uke. Man håper at den vil bidra til en ganske stor del av etterforskningen. Det kan i hvert fall finnes lydopptak av hva som blir sagt på broen når skipet kjøres, sier etterforsker Björn Ramstedt til den svenske avisen.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "Den svenske havarikommisjonen har avhørt mannskapet på det norskeide skipet som muligens kan ha kollidert med en fritidsbåt utenfor svenskekysten tirsdag kveld, skiver Aftonbladet.\n\nFar og sønn i fritidsbåten ble fraktet til sykehus, mens mor og datter først ble meldt savnet.\n\nDet er fortsatt...",
-      "image": "https://images.unsplash.com/photo-1697304200233-7131b058b365?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU0ODAyODN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/batulykken-i-sverige_-har-fatt-tilgang-til-den-_svarte-boksen_-1.17974662",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-31T06:44:43.384Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785480281483.4963,
-      "title": "Iran sier de har angrepet amerikansk base i Kuwait",
-      "slug": "iran-sier-de-har-angrepet-amerikansk-base-i-kuwait",
-      "content": "Irans militær sier de har gjennomført et droneangrep mot amerikanske militæranlegg i Kuwait fredag.\n\nI en uttalelse sier det iranske militæret at de har angrepet hangarer for kampfly, satellittkommunikasjonssystemer og lagerfasiliteter ved Ahmad al-Jaber luftbase i Kuwait.\n\nUSAs midtøstenkommando (Centcom) har ikke kommentert eller bekreftet angrepet.\n\nDet iranske militæret sier angrepet er et svar på den amerikanske offensiven mot Iran natt til torsdag, da USA angrep flere titalls mål de sier var knyttet til Revolusjonsgarden.\n\nUSA og Iran har trappet opp angrepene mot hverandre denne uken etter en kortvarig pause i krigshandlingene.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
-      "excerpt": "Irans militær sier de har gjennomført et droneangrep mot amerikanske militæranlegg i Kuwait fredag.\n\nI en uttalelse sier det iranske militæret at de har angrepet hangarer for kampfly, satellittkommunikasjonssystemer og lagerfasiliteter ved Ahmad al-Jaber luftbase i Kuwait.\n\nUSAs midtøstenkommando...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/iran-sier-de-har-angrepet-amerikansk-base-i-kuwait-1.17974685",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-31T06:44:41.483Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2708,
+    "totalFetched": 2711,
     "totalPublished": 77,
-    "lastFetch": "2026-08-02T11:22:46.235Z",
+    "lastFetch": "2026-08-02T13:24:31.927Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
