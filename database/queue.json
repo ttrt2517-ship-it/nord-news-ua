@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1785682998911.4636,
+      "title": "To døde og to skadde i helikopterkollisjon i Hellas",
+      "slug": "to-dde-og-to-skadde-i-helikopterkollisjon-i-hellas",
+      "content": "To helikoptre med til sammen fire personer om bord har kollidert under skogbrannslukking vest for den greske hovedstaden Aten.\n\nTo personer – en rumener og en greker – er døde og to er skadde, melder greske Proto Thema.\n\nDe skriver videre at det er opprettet kontakt med et medlem av besetningen på det ene helikopteret, som skal være skadet.\n\nUlykken skjedde ved Psatha i Attika-regionen rundt 16.30 lokal tid.\n\nDet greske brannvesenet opplyser at et redningssøk er i gang. Skadeomfang og årsak til ulykken er foreløpig ukjent.\n\nEn video publisert i greske medier viser at helikoptrene krasjer og eksploderer i luften. Det nederste helikopteret raser så mot bakken.\n\nHelikoptrene tok av fra militærflyplassen Elefsina i Aspropyrgos-regionen.\n\nSkogbranner i Sør-Europa\n\nDenne sommeren har det vært mange skogbranner i sørlige Europa. Titusenvis er evakuert i Spania og Frankrike.",
+      "excerpt": "To helikoptre med til sammen fire personer om bord har kollidert under skogbrannslukking vest for den greske hovedstaden Aten.\n\nTo personer – en rumener og en greker – er døde og to er skadde, melder greske Proto Thema.\n\nDe skriver videre at det er opprettet kontakt med et medlem av besetningen på...",
+      "image": "https://images.unsplash.com/photo-1651009276328-dbba8f5dc783?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU2ODI5OTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-dode-og-to-skadde-i-helikopterkollisjon-i-hellas-1.17976685",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-02T15:03:18.911Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785677070338.066,
       "title": "Kontroll på brann i Oslo – ikke spredningsfare",
       "slug": "kontroll-p-brann-i-oslo-ikke-spredningsfare",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-31T10:40:54.850Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785494452943.6177,
-      "title": "Bekrefter at det var et russisk missil som landet i Polen",
-      "slug": "bekrefter-at-det-var-et-russisk-missil-som-landet-i-polen",
-      "content": "Polens viseforsvarsminister, Cezary Tomczyk, bekrefter at det var et russisk missil som landet nær landets grense til Ukraina torsdag.\n\n– Jeg har snakket med operasjonssjefen, general Ireneusz Nowak, og vi kan bekrefte med full sikkerhet at dette er et russisk Kh-101-missil, uttalte Tomczyk til radiokanalen RMF FM torsdag kveld.\n\nDet polske militæret meldte torsdag morgen at et uidentifisert flygende objekt hadde krenket Nato-luftrommet og styrtet på polsk territorium under kraftige russiske luftangrep mot nabolandet Ukraina natt til torsdag.\n\nObjektet falt ned i et ubebodd område nær landsbyen Tarnawa Kolonia, rundt 90 kilometer sør for Lublin, der alarmen gikk tidlig om morgenen.\n\nIfølge militæret ble et F-16-jagerfly sendt opp for å identifisere objektet, men prosjektilet forsvant fra radaren før jagerflyet fikk øye på det. Mannskapet på et helikopter identifiserte senere nedslagsstedet.\n\nPolitiet fant senere et krater med en diameter på ti meter på et jorde. Ingen ble skadet i hendelsen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Polens viseforsvarsminister, Cezary Tomczyk, bekrefter at det var et russisk missil som landet nær landets grense til Ukraina torsdag.\n\n– Jeg har snakket med operasjonssjefen, general Ireneusz Nowak, og vi kan bekrefte med full sikkerhet at dette er et russisk Kh-101-missil, uttalte Tomczyk til...",
-      "image": "https://images.unsplash.com/photo-1697193596436-86f818d0f10d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU0OTQ0NTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/bekrefter-at-det-var-et-russisk-missil-som-landet-i-polen-1.17974777",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-31T10:40:52.944Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2711,
+    "totalFetched": 2712,
     "totalPublished": 77,
-    "lastFetch": "2026-08-02T13:24:31.927Z",
+    "lastFetch": "2026-08-02T15:03:21.296Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
