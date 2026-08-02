@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1785664732165.3608,
+      "title": "Mann i 30-åra døydde i fallulykke i Bremanger",
+      "slug": "mann-i-30ra-dydde-i-fallulykke-i-bremanger",
+      "content": "Ein mann i 30-åra vart funnen livlaus i Kalvåg i Bremanger grytidleg søndag morgon.\n\nLivreddande førstehjelp vart forsøkt, men livet stod ikkje til å redde.\n\nMannen hadde vore på fest kvelden før. I 5-tida fekk politiet bekymringsmelding frå ein kamerat som ikkje fekk tak i han.\n\nEin leiteaksjon vart starta, der alle nødetatar og redningshelikopter vart sende til området.\n\n– Mannen vart funnen på nedsida av ein fjellskrent som er fleire meter høg, over 10 meter. Det framstår som om mannen har falt utfor og døydd som følge av fallet. Det var ingen vitne til sjølve ulykka, seier operasjonsleiar Knut Dahl-Michelsen i politiet.\n\nDet var vennar og familie av mannen som fann han. Han budde i området.\n\nIngen ting tydar på at noko straffbart har skjedd. Kalvåg ligg ytst i Nordfjord i Vestland fylke.\n\nPolitiet oppretter undersøkelssak, og mannen vil bli obdusert.",
+      "excerpt": "Ein mann i 30-åra vart funnen livlaus i Kalvåg i Bremanger grytidleg søndag morgon.\n\nLivreddande førstehjelp vart forsøkt, men livet stod ikkje til å redde.\n\nMannen hadde vore på fest kvelden før. I 5-tida fekk politiet bekymringsmelding frå ein kamerat som ikkje fekk tak i han.\n\nEin leiteaksjon...",
+      "image": "https://images.unsplash.com/photo-1569690293102-34d8d806f4b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU2NjQ3MzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestland/mann-i-30-ara-doydde-i-fallulykke-i-bremanger-1.17976496",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-02T09:58:52.165Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785664730500.919,
+      "title": "Ukrainsk angrep mot russisk oljeraffineri",
+      "slug": "ukrainsk-angrep-mot-russisk-oljeraffineri",
+      "content": "Ukraina har angrepet et oljeraffineri og en flybase i Saratov-regionen i Russland, samt et oljedepot i Kaluga-regionen.\n\nDet opplyser ukrainske myndigheter, ifølge Reuters.\n\nAngrepene skal ha utløst branner ved begge anleggene.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukraina har angrepet et oljeraffineri og en flybase i Saratov-regionen i Russland, samt et oljedepot i Kaluga-regionen.\n\nDet opplyser ukrainske myndigheter, ifølge Reuters.\n\nAngrepene skal ha utløst branner ved begge anleggene.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukrainsk-angrep-mot-russisk-oljeraffineri-1.17976405",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-02T09:58:50.500Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785664728902.482,
+      "title": "Tenåringsjente skadet i bilcrossulykke: – Har vært veldig heldig",
+      "slug": "tenringsjente-skadet-i-bilcrossulykke-har-vrt-veldig-heldig",
+      "content": "Tenåringsjenten som ble alvorlig skadet på et bilcrosstevne ved Gardermoen lørdag, har det etter forholdene svært bra. Det bekrefter faren til NRK.\n\n– Hun har vært inne på CT-undersøkelse, og hun har en blødning i bekkenet. Utover det har hun vært veldig heldig, forteller faren.\n\nHan forteller at ulykken så svært voldsom ut, men at datteren fikk god og rask helsehjelp på Ullevål sykehus.\n\nBilen hadde rullet rundt flere ganger før den landet på hjulene.\n\nTenåringen fra Toten ble fløyet med luftambulanse og tatt imot av et større team på sykehuset.\n\n– Bilen er helt smadret. Det er klart at hun har vært heldig.",
+      "excerpt": "Tenåringsjenten som ble alvorlig skadet på et bilcrosstevne ved Gardermoen lørdag, har det etter forholdene svært bra. Det bekrefter faren til NRK.\n\n– Hun har vært inne på CT-undersøkelse, og hun har en blødning i bekkenet. Utover det har hun vært veldig heldig, forteller faren.\n\nHan forteller at...",
+      "image": null,
+      "original_url": "https://www.nrk.no/innlandet/tenaringsjente-skadet-i-bilcrossulykke_-_-har-vaert-veldig-heldig-1.17976502",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-02T09:58:48.902Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785652449447.1226,
       "title": "Person slått ned med snøskuffe i Halden",
       "slug": "person-sltt-ned-med-snskuffe-i-halden",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-07-31T02:56:32.815Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785466590996.8066,
-      "title": "Lite steinsprang på Herøy",
-      "slug": "lite-steinsprang-p-hery",
-      "content": "På Herøy i Møre og Romsdal har det gått et lite steinsprang mellom to boliger. Ingen hus eller personer er skadd.\n\nKommunen har tilbudt fire husstander overnatting på hotell i påvente av geolog, melder Møre og Romsdal politidistrikt.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
-      "excerpt": "På Herøy i Møre og Romsdal har det gått et lite steinsprang mellom to boliger. Ingen hus eller personer er skadd.\n\nKommunen har tilbudt fire husstander overnatting på hotell i påvente av geolog, melder Møre og Romsdal politidistrikt.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal....",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/lite-steinsprang-pa-heroy-1.17974537",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-31T02:56:30.996Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785466588943.762,
-      "title": "Melding om brann ved Sørlandschips-fabrikk",
-      "slug": "melding-om-brann-ved-srlandschipsfabrikk",
-      "content": "Nødetatene rykket ut etter melding om brann ved produksjonsanlegget til Sørlandschips natt til fredag.\n\n– Alle personer skal være ute av bygget, melder operasjonsleder Tone Lise Erikstad i Agder politidistrikt.\n\nDet brenner i ventilasjonsanlegget på taket. Brannvesenet er i gang med slukkningsarbeidet.\n\nTo personer blir undersøkt av helsepersonell da de muligens har pustet inn røyk.",
-      "excerpt": "Nødetatene rykket ut etter melding om brann ved produksjonsanlegget til Sørlandschips natt til fredag.\n\n– Alle personer skal være ute av bygget, melder operasjonsleder Tone Lise Erikstad i Agder politidistrikt.\n\nDet brenner i ventilasjonsanlegget på taket. Brannvesenet er i gang med...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/melding-om-brann-ved-sorlandschips-fabrikk-1.17974538",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-31T02:56:28.943Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785452915632.1782,
-      "title": "Russisk angrep flere steder i Ukraina",
-      "slug": "russisk-angrep-flere-steder-i-ukraina",
-      "content": "Flere bygninger og næringslokaler ble skadet i et russisk angrep mot Zaporizjzja torsdag kveld. Det er så langt ikke meldt om skadde, melder regionens guvernør Ivan Fedorov på Telegram.\n\nOgså i Kharkiv-regionen blir det meldt om angrep. Konsekvensene av angrepet undersøkes, opplyser Oleh Synjehubov, guvernør i Kharkiv.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Flere bygninger og næringslokaler ble skadet i et russisk angrep mot Zaporizjzja torsdag kveld. Det er så langt ikke meldt om skadde, melder regionens guvernør Ivan Fedorov på Telegram.\n\nOgså i Kharkiv-regionen blir det meldt om angrep. Konsekvensene av angrepet undersøkes, opplyser Oleh...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russisk-angrep-flere-steder-i-ukraina--1.17974518",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-30T23:08:35.632Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2704,
+    "totalFetched": 2707,
     "totalPublished": 77,
-    "lastFetch": "2026-08-02T06:34:11.149Z",
+    "lastFetch": "2026-08-02T09:58:53.877Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
