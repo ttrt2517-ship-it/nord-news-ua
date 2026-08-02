@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1785711427380.9626,
+      "title": "Trump: forhandlingene gjenopptas med Iran mandag",
+      "slug": "trump-forhandlingene-gjenopptas-med-iran-mandag",
+      "content": "USAs president Donald Trump opplyser at nye forhandlinger med Iran vil starte mandag ettermiddag, etter at USA avblåste et angrep mot landet.\n\nPå spørsmål fra journalister om bord på Air Force One om USA planla å angripe iransk energiinfrastruktur i helgen, svarte Trump at han ikke kunne uttale seg om detaljene.\n\n– Men det ville blitt et massivt angrep. Både de og nabolandene ba oss om å ikke gjøre det. Nå skal vi se om vi kan få i havn en avtale, sa Trump.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
+      "excerpt": "USAs president Donald Trump opplyser at nye forhandlinger med Iran vil starte mandag ettermiddag, etter at USA avblåste et angrep mot landet.\n\nPå spørsmål fra journalister om bord på Air Force One om USA planla å angripe iransk energiinfrastruktur i helgen, svarte Trump at han ikke kunne uttale seg...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump_-forhandlingene-gjenopptas-med-iran-mandag-1.17976946",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-02T22:57:07.381Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785704208120.2703,
       "title": "Marokko klandrer sosiale medier og menneskesmuglere for migrantstrøm",
       "slug": "marokko-klandrer-sosiale-medier-og-menneskesmuglere-for-migr",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-07-31T17:39:32.450Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785519570738.0767,
-      "title": "Motorsykkelulykke på E6 i Gjøvik",
-      "slug": "motorsykkelulykke-p-e6-i-gjvik",
-      "content": "Trafikken står i sørgående retning på E6 ved Biri i Gjøvik.\n\nÅrsaken er en påkjørsel bakfra hvor to motorsyklister med hver sin fører har vært involvert. Føreren av den ene motorsykkelen får behandling av helsevesen på stedet, melder politiet klokken 19.10.\n\nIfølge Vegtrafikksentralen øst er det skiltet omkjøring i retning Hamar.\n\nTrafikkoperatør Gry Solli sier at det en god del trafikk på veiene, og grunn til å tro at det går sakte også på omkjøringsveien.\n\nNRK presiserer: I en tidligere versjon meldte politiet at det skulle ha vært to personer på én motorsykkel. Det er snakk om to motorsyklister på hver sin motorsykkel.",
-      "excerpt": "Trafikken står i sørgående retning på E6 ved Biri i Gjøvik.\n\nÅrsaken er en påkjørsel bakfra hvor to motorsyklister med hver sin fører har vært involvert. Føreren av den ene motorsykkelen får behandling av helsevesen på stedet, melder politiet klokken 19.10.\n\nIfølge Vegtrafikksentralen øst er det...",
-      "image": null,
-      "original_url": "https://www.nrk.no/innlandet/motorsykkelulykke-pa-e6-i-gjovik-1.17975563",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-31T17:39:30.738Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2719,
+    "totalFetched": 2720,
     "totalPublished": 77,
-    "lastFetch": "2026-08-02T20:56:49.360Z",
+    "lastFetch": "2026-08-02T22:57:08.621Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
