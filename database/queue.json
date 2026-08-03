@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": 1785725782399.041,
+      "title": "Inside ModUlf: How Norway is rebuilding its immigration system",
+      "slug": "inside-modulf-how-norway-is-rebuilding-its-immigration-syste",
+      "content": "If you are wondering whether Norwegian immigration authorities truly want to improve their processes, let us tell you about ModUlf, a six-year project that aims to change the harsh reality faced by people who endure long waits during their migration process in Norway. Will it succeed?\n\nAnyone who has moved to Norway knows the process can be tough. There are strict rules, confusing steps, and long waits that feel like a struggle against old, slow systems.\n\nIn previous interviews, the Directorate of Immigration (UDI) has acknowledged these structural flaws. They have especially pointed out the outdated technology, which has forced them to rethink and redesign their infrastructure.\n\nTo combat the challenges, they are currently developing the project ModUlf (Modernisert utlendingsforvaltning – Modernised Immigration Administration), a six-year digitalisation programme that started in 2025.\n\nTo understand how Norway is quietly rebuilding its entire immigration system, The Local spoke with Henrik Hansen, the Product Lead (Produktleder) working in ModUlf within the \"Staying in Norway and Becoming Norwegian\" phase.\n\nModUlf, as the authorities present it on their website, is “our chance to shape the future of immigration administration.”\n\nIt is a joint, comprehensive digitalisation programme uniting the four main authorities responsible for foreign nationals in Norway: the Directorate of Immigration (UDI), the Immigration Appeals Board (UNE), the Ministry of Foreign Affairs (UD), and the police.\n\nThrough this multi-agency collaboration, their goal is to “create user-friendly, efficient and secure services – for the benefit of applicants, employees and society,” as stated on their website.\n\nNorway's current migration system is outdated and was built for a different time. Hansen told The Local that they are working with old platforms from the early 2000s, which is the main reason for starting ModUlf.\n\n\"The main goal of the project is, of course, to have safe and stable systems, because that's the core mission that we're supposed to deliver,\" he said.\n\n\"But we don't just want to make exactly the same as we have now; it needs to be more modern. We also want to make something that is future-proof, and of course, gives us more value. By 'value,' we refer to shorter waiting times, a quicker and easier job for our workers, and of course, for the applicants.\"\n\nAccording to the official ModUlf framework, most of the current software was built when digital threats were less advanced, there were fewer cases, and agencies worked separately. Over time, these old systems have been patched and changed so much that they are now very complex and make daily work harder.\n\nThe old technical systems also create security risks in today's world, while making it increasingly difficult for applicants to get help, creating a poor experience for foreign residents.\n\nImmigration authorities acknowledged that caseworkers do not have enough time for their core work because slow, confusing systems force them to perform many manual tasks (one of the primary reasons processing times are so notoriously long).\n\nData is also spread across different systems that do not connect, so officials lack the necessary insights to make efficient decisions.\n\nHansen emphasised that stabilising this fragile foundation was the absolute priority for the state.\n\n\"Our main task is to get us more stable, modern, and safe systems,\" Hansen said.\n\n\"We wanted to improve the systems, and it was required because they are quite old. We want to ensure we can make the improvements we want in the future... We need a very good foundation. The system is very old, so it really requires an upgrade to make sure that our platforms are safe and stable,\" he said.\n\nREAD MORE: ‘We are aware’: Norway's UDI responds to criticism over residency permit delays\n\nUpgrading a system of this scale is a delicate operation that must be carried out over an extended period.\n\nSince replacing everything at once is not possible, experts like Hansen are slowly and gradually building new digital components around the old software. They remove old features step by step, while everyday operations continue uninterrupted, as usual, in the background.\n\n\"This is a project that will go over several years. There are a lot of things going on, and we can't do everything at the same time,\" Hansen said.\n\nFor this reason, the ModUlf programme has been broken down into four distinct, overlapping development streams stretching until 2031.\n\nStream 1 - Staying in Norway and becoming Norwegian (2025 – 2029): The first phase focuses on residents already established in the country, covering citizenship (statsborgerskap), permanent residence (permanent opphold), and permit renewals (fornyelse).\n\nStream 2 - Coming to Norway (2026 – 2030): The second phase focuses on the entry and initial relocation, including visitor visas, family immigration (familieinnvandring), work permits, and study permits.\n\nStream 3 - Protection and asylum (2027 – 2030): The third phase upgrades the distinct casework pathways required for those seeking international protection.\n\nStream 4 - Sanctions and departures (2028 – 2031): The final stream focuses on enforcement systems, including the management of expulsions (utvisning), deportations (bortvisning), and the revocation of citizenship or legal status.\n\nHansen explained that while some features within the ModUlf project are tailored strictly to each specific phase, like citizenship, others are designed as shared infrastructure.\n\n“This means, for example, that when we start with permanent residency, we will have some parts, like systems and features, already made from the previous advances in citizenship that can also be used for this, and we can focus on the more specific parts of permanent residency,\" he said.\n\n\"This helps with making systems that are interconnected and consistent.\"\n\nAt first, it may seem odd that the timeline goes in the opposite order of a typical immigrant's journey to Norway from arriving to becoming part of it. However, Hansen explained the clear reasoning behind this choice.\n\n“We actually go backward. We have started with citizenship. It is the last part of the journey in becoming Norwegian and being in Norway, but because we already had a lot of information about people at this stage, we started with that,\" said Hansen.\n\nStarting at the end of the process lets the team build a strong foundation using data the state already has and trust. \"The 'Staying in Norway' phase is considered an easier area, not because it's simple, but because we have a lot of data from before, so we can use that information to make robust systems,\" Hansen said.\n\nIn contrast, opening up the initial application pipeline for newcomers presents far greater technical and analytical hurdles.\n\n“The 'Coming to Norway' phase is a much bigger part, which we have broken up into multiple deliveries because it's very complicated. When you come to Norway, you're usually here for the first time. So, it requires quite different ways of working with those types of cases. We need much more information,\" explained Hansen.\n\nAs for the final enforcement stream, it might seem unique to mix it with general immigration services, but Hansen pointed out that it represents a vital part of managing the overall system.\n\nHowever, it requires a completely distinct administrative approach: \"It is different because that is something the authorities start on their own; it's not something an applicant applies for.\"\n\nWhat do you think about this project? Will it improve the international community's experience of coming to Norway? Leave your comment below.\n\nREAD ALSO: 'I'm a prisoner': Foreigners in Norway left unable to work or travel as they wait for UDI\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
+      "excerpt": "If you are wondering whether Norwegian immigration authorities truly want to improve their processes, let us tell you about ModUlf, a six-year project that aims to change the harsh reality faced by people who endure long waits during their migration process in Norway. Will it succeed?\n\nAnyone who...",
+      "image": "https://images.unsplash.com/photo-1641341155664-d8956cfd232b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU3MjU3ODJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.thelocal.no/20260728/inside-modulf-how-norway-is-rebuilding-its-immigration-system",
+      "source_name": "The Local Norway",
+      "fetched_at": "2026-08-03T02:56:22.399Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785725778915.7656,
+      "title": "Viagra kan ha evna til å stoppe kreft frå å spreie seg",
+      "slug": "viagra-kan-ha-evna-til-stoppe-kreft-fr-spreie-seg",
+      "content": "Det viser ny forsking publisert i tidsskriftet Cancer Research.\n\nMedisinen brukast eigentleg mot impotens, men verkestoffet i pillene ser ut til å vere i stand frå å stoppe kreftcellene frå å spreie seg vidare.\n\nDet skjer gjennom at virkestoffet, sildenafil, blokkerer kreftcellene sin tilgang til kolestrol, som dei trenger for å angripe nye organ.\n\nForskaren som har leidd arbeidet, Samah Hayek, seier at dei berre har sett at fleire overlever om dei tok viagra før ein diagnose, og tilrår ikkje bruk av pillene om ein allereie har diagnosen.",
+      "excerpt": "Det viser ny forsking publisert i tidsskriftet Cancer Research.\n\nMedisinen brukast eigentleg mot impotens, men verkestoffet i pillene ser ut til å vere i stand frå å stoppe kreftcellene frå å spreie seg vidare.\n\nDet skjer gjennom at virkestoffet, sildenafil, blokkerer kreftcellene sin tilgang til...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/viagra-kan-ha-evna-til-a-stoppe-kreft-fra-a-spreie-seg-1.17976954",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-03T02:56:18.915Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785725777288.555,
+      "title": "Hundrevis på flukt fra jihadistangrep i Niger",
+      "slug": "hundrevis-p-flukt-fra-jihadistangrep-i-niger",
+      "content": "Hundrevis av landsbybeboere har flyktet fra hjemmene sine sørvest i Niger etter en rekke jihadistangrep.\n\nDet melder statlige medier og lokale kilder i det afrikanske landet.\n\nDet skal være uvanlig at så mange har lagt på flukt i denne delen av Dosso, en region som grenser til Nigeria og Benin.\n\nGrenseområdet ble rammet av jihadistangrep i 2025. I midten av juli i år skjedde det på nytt, midt i innhøstingssesongen.\n\n– De første angrepene rammet minst tre landsbyer 17. juli. Flere titalls personer ble drept og såret, alle sivile, sier en lokal kilde til det franske nyhetsbyrået AFP.",
+      "excerpt": "Hundrevis av landsbybeboere har flyktet fra hjemmene sine sørvest i Niger etter en rekke jihadistangrep.\n\nDet melder statlige medier og lokale kilder i det afrikanske landet.\n\nDet skal være uvanlig at så mange har lagt på flukt i denne delen av Dosso, en region som grenser til Nigeria og...",
+      "image": "https://images.unsplash.com/photo-1725751070169-a298ea3501ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU3MjU3Nzd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/hundrevis-pa-flukt-fra-jihadistangrep-i-niger-1.17976973",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-03T02:56:17.288Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785725775651.3672,
+      "title": "To personer til sykehus etter at bygning raste i Sydney",
+      "slug": "to-personer-til-sykehus-etter-at-bygning-raste-i-sydney",
+      "content": "To personer er fraktet til sykehus etter at en bygning kollapset i Sydney mandag, opplyser en talsperson for ambulansetjenesten i New South Wales. Det melder nyhetsbyrået Reuters.\n\nAustralia\n\nSosialdemokraten Anthony Albanese overtok som statsminister etter Scott Morrison etter valget 21. mai 2022. Albanese har lovet å trappe opp klimakampen, men han vil ikke love å stenge kullgruvene i landet.",
+      "excerpt": "To personer er fraktet til sykehus etter at en bygning kollapset i Sydney mandag, opplyser en talsperson for ambulansetjenesten i New South Wales. Det melder nyhetsbyrået Reuters.\n\nAustralia\n\nSosialdemokraten Anthony Albanese overtok som statsminister etter Scott Morrison etter valget 21. mai 2022....",
+      "image": "https://images.unsplash.com/photo-1697829523233-ba77993f12a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU3MjU3NzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-personer-til-sykehus-etter-at-bygning-raste-i-sydney-1.17976951",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-03T02:56:15.652Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785711427380.9626,
       "title": "Trump: forhandlingene gjenopptas med Iran mandag",
       "slug": "trump-forhandlingene-gjenopptas-med-iran-mandag",
@@ -597,64 +649,12 @@
       "fetched_at": "2026-07-31T23:02:02.207Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785531954388.9856,
-      "title": "Rekordlav vannstand i Rhinen",
-      "slug": "rekordlav-vannstand-i-rhinen",
-      "content": "Fredag ble vannstanden i den tyske byen Kaub målt ned til det rekordlave nivået fra 2018. På lørdag ventes elven å nå rekordlave bredder i byen Düsseldorf.\n\nTysklands vannvei- og skipsfartsmyndigheter sier situasjonen viser hvor sårbar den tyske transport- og logistikksektoren er. De etterlyser tiltak som tilpasser sektoren til å kunne tåle konsekvensene av klimaendringer.\n\nRhinen er blant de lengste elvene i Europa og forsyner ni land med drikkevann, vannkraft og shipping.\n\nKlima og miljø\n\nVerden opplever allerede klimaendringene, slår FNs klimapanel fast. Mer ekstremvær, høyere havnivå og økte helseproblemer er noen av konsekvensene, ifølge deres siste hovedrapport.",
-      "excerpt": "Fredag ble vannstanden i den tyske byen Kaub målt ned til det rekordlave nivået fra 2018. På lørdag ventes elven å nå rekordlave bredder i byen Düsseldorf.\n\nTysklands vannvei- og skipsfartsmyndigheter sier situasjonen viser hvor sårbar den tyske transport- og logistikksektoren er. De etterlyser...",
-      "image": "https://images.unsplash.com/photo-1697193596436-86f818d0f10d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU1MzE5NTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/rekordlav-vannstand-i-rhinen-1.17975715",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-31T21:05:54.388Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785531952635.4873,
-      "title": "«Misje Verde» har fått forlate Sverige",
-      "slug": "misje-verde-har-ftt-forlate-sverige",
-      "content": "Fredag kveld kunne lasteskipet «Misje Verde» lette anker og sette kursen mot Noreg igjen, skriv Svenska Dagbladet.\n\nDet er mistanke om at skipet var innblanda i ei båtulukke ved Tjörn i Sverige tysdag kveld. To menneske mista livet og to andre blei skadde i ulykka.\n\nFredag kveld viser Marine Traffic at skipet går for eiga maskin i Skagerrak.\n\nDen russiske kapteinen er igjen i Sverige etter at han blei gripen, mistenkt for aktløyse på sjøen og for å vere årsak til ein annans død.\n\nHan blei gripen fordi den svenske påtalemakta var redd han skulle flykte, og for å unngå påverknad av vitne eller etterforskinga.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "Fredag kveld kunne lasteskipet «Misje Verde» lette anker og sette kursen mot Noreg igjen, skriv Svenska Dagbladet.\n\nDet er mistanke om at skipet var innblanda i ei båtulukke ved Tjörn i Sverige tysdag kveld. To menneske mista livet og to andre blei skadde i ulykka.\n\nFredag kveld viser Marine...",
-      "image": "https://images.unsplash.com/photo-1724709253706-d846fc671309?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU1MzE5NTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/_misje-verde_-har-fatt-forlate-sverige-1.17975729",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-31T21:05:52.635Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785531950949.7441,
-      "title": "Tusenvis demonstrerte i Kyiv for å få tilbake sparket forsvarsminister",
-      "slug": "tusenvis-demonstrerte-i-kyiv-for-f-tilbake-sparket-forsvarsm",
-      "content": "Mykhajlo Fedorov fikk sparken som forsvarsminister i midten av juli, noe som utløste en rekke demonstrasjoner i Ukraina. Tusenvis av mennesker har krevd at han blir gjeninnsatt.\n\nÅrsaken til Fedorovs popularitet blant folket er at han har fått mye av æren for Ukrainas utvikling og bruk av kampdroner i krigen mot Russland i år. Som forsvarsminister økte han også lønningene i forsvaret, og innførte et belønningssystem for militære enheter som dreper flest russiske soldater.\n\nBakgrunnen for sparkingen var ifølge president Volodymyr Zelenskyj at den Fedorov hadde havnet på kant med den gamle garde av militære ledere i landet.\n\nUkraina\n\nUkraina er et land i Europa som grenser til Russland, Belarus, Polen, Moldova og Romania. Landet har nær 38 millioner innbyggere, ifølge data fra FN. I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina».",
-      "excerpt": "Mykhajlo Fedorov fikk sparken som forsvarsminister i midten av juli, noe som utløste en rekke demonstrasjoner i Ukraina. Tusenvis av mennesker har krevd at han blir gjeninnsatt.\n\nÅrsaken til Fedorovs popularitet blant folket er at han har fått mye av æren for Ukrainas utvikling og bruk av...",
-      "image": "https://images.unsplash.com/photo-1619907478843-317441713686?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU1MzE5NTB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/tusenvis-demonstrerte-i-kyiv-for-a-fa-tilbake-sparket-forsvarsminister-1.17975728",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-31T21:05:50.949Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785519572450.0208,
-      "title": "Funn av machete etter slagsmål",
-      "slug": "funn-av-machete-etter-slagsml",
-      "content": "Politiet har rykket ut med flere enheter til en forretning på Frogner i Lillestrøm etter melding om et slagsmål.\n\nDet er funnet en machete på stedet, opplyser politiet.\n\n– Det er nå kontroll på stedet. Viste seg å være sivil pågripelse av antatte butikktyver, skriver de.",
-      "excerpt": "Politiet har rykket ut med flere enheter til en forretning på Frogner i Lillestrøm etter melding om et slagsmål.\n\nDet er funnet en machete på stedet, opplyser politiet.\n\n– Det er nå kontroll på stedet. Viste seg å være sivil pågripelse av antatte butikktyver, skriver de.",
-      "image": null,
-      "original_url": "https://www.nrk.no/stor-oslo/funn-av-machete-etter-slagsmal-1.17975406",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-31T17:39:32.450Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2720,
+    "totalFetched": 2724,
     "totalPublished": 77,
-    "lastFetch": "2026-08-02T22:57:08.621Z",
+    "lastFetch": "2026-08-03T02:56:23.399Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
