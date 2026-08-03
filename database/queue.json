@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1785742077733.5725,
+      "title": "Rekordlang studentboligkø",
+      "slug": "rekordlang-studentboligk",
+      "content": "Aldri før har så mange fått tilbud om studentbolig, viser nye tall fra Samskipnadsrådet. Samtidig er køen rekordlang, hvor 17.105 studenter fremdeles venter på bolig. Det er 921 flere enn i 2025.\n\nMed én uke igjen til studiestart er Norsk Studentorganisasjon bekymret for studentene som ennå ikke har fått studentbolig.\n\n– Dette viser hvorfor det er så viktig å satse på studentboliger. Det henger tett sammen med leiemarkedet. Når ca. 10 % av alle private leieboliger har forsvunnet fra markedet, så er det ikke rart at flere vender mot studentboliger. Og det understreker hvorfor det er så viktig at man bygger mer, sier leder Eva Franko Aas.\n\nDe lengste køene finner vi i de store byene. I Oslo er det nå over 5.500 unge som håper på tilbud om studentbolig.\n\nFlere studenter slipper å konkurrere på det private leiemarkedet i år.",
+      "excerpt": "Aldri før har så mange fått tilbud om studentbolig, viser nye tall fra Samskipnadsrådet. Samtidig er køen rekordlang, hvor 17.105 studenter fremdeles venter på bolig. Det er 921 flere enn i 2025.\n\nMed én uke igjen til studiestart er Norsk Studentorganisasjon bekymret for studentene som ennå ikke...",
+      "image": "https://images.unsplash.com/photo-1619907478843-317441713686?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU3NDIwNzd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/rekordlang-studentboligko-1.17977034",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-03T07:27:57.733Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785742075858.9006,
+      "title": "Nytt angrep på Wildberries-lager i Russland",
+      "slug": "nytt-angrep-p-wildberrieslager-i-russland",
+      "content": "Et stort lager som tilhører den russiske netthandelgiganten Wildberries står i brann etter et droneangrep.\n\nDet russiske nyhetsbyrået TASS siterer den lokale guvernøren som bekrefter angrepet. Lageret ligger i Vladimirregionen, rundt 190 kilometer øst for Moskva.\n\nUIkraina har den siste tiden angrepet flere nettgiganens lagre, og anklager dem for å håndtere deler til droner som brukes til å angripe Ukraina.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Et stort lager som tilhører den russiske netthandelgiganten Wildberries står i brann etter et droneangrep.\n\nDet russiske nyhetsbyrået TASS siterer den lokale guvernøren som bekrefter angrepet. Lageret ligger i Vladimirregionen, rundt 190 kilometer øst for Moskva.\n\nUIkraina har den siste tiden...",
+      "image": "https://images.unsplash.com/photo-1599847740927-599426b94713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU3NDIwNzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/nytt-angrep-pa-wildberries-lager-i-russland-1.17977048",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-03T07:27:55.858Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785742073950.2605,
+      "title": "Fortsatt problemer med offentlige digitale tjenester",
+      "slug": "fortsatt-problemer-med-offentlige-digitale-tjenester",
+      "content": "Mandag formiddag er det fremdeles store problemer med en rekke offentlige tjenester som driftes av Digdir.\n\n–Vi jobber fremdeles med å finne årsaken og løse problemene, svarer Digdris pressevakt.\n\nHelsenorge.no er en av tjenesten som ikke lar seg åpne via nettsidene.\n\nI tillegg skal det gjelde ID-porten, Kontakt- og reservasjonsregisteret, Maskinporten, MinID, eFormidling, ELMA, eInnsyn, Ansattporten, selvbetjeningsløsninger og Altinn.",
+      "excerpt": "Mandag formiddag er det fremdeles store problemer med en rekke offentlige tjenester som driftes av Digdir.\n\n–Vi jobber fremdeles med å finne årsaken og løse problemene, svarer Digdris pressevakt.\n\nHelsenorge.no er en av tjenesten som ikke lar seg åpne via nettsidene.\n\nI tillegg skal det gjelde...",
+      "image": "https://images.unsplash.com/photo-1659424766030-385d22f8b0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU3NDIwNzN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fortsatt-problemer-med-offentlige-digitale-tjenester-1.17977087",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-03T07:27:53.950Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785725782399.041,
       "title": "Inside ModUlf: How Norway is rebuilding its immigration system",
       "slug": "inside-modulf-how-norway-is-rebuilding-its-immigration-syste",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-01T02:56:03.445Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785538927701.536,
-      "title": "Don&#039;t sit next to a stranger! Norway’s unwritten public transport rules",
-      "slug": "don039t-sit-next-to-a-stranger-norways-unwritten-public-tran",
-      "content": "Using public transport is the best way to get around Norway’s biggest cities, but before you hop on, there are some social norms you should know about.\n\nTaking public transport in Norway can be an unexpected culture shock, especially because of the unwritten rule about keeping your distance from others on buses, trains, and trams.\n\nIf you’re new to Norway, you might feel a bit panicked at first. You choose a seat, sit next to someone, and they quickly get up and move away. You might wonder, 'Is something wrong with me? Do I smell?' Don’t worry. It’s not you; it’s just how Norway works.\n\nIn a country characterised by its vast, open landscapes, personal space is more than a preference; it’s a sacred right.\n\nFor Norwegians, social distancing is not just a pandemic-era practice. During COVID-19, there was a popular joke that Norwegians found the two-metre rule hard to follow because they usually kept at least four metres apart.\n\nPublic transport etiquette centres on this respect for personal space. The rule is simple: only sit next to a stranger if there are absolutely no other seats available.\n\nIt’s seen as awkward to sit next to someone, unless the bus or tram is completely full.\n\nPeople usually fill all the empty rows first; otherwise, you might unintentionally make the other person feel uncomfortable.\n\nSo, be wise in your choice and do not just go for the first available or closest seat.\n\nNo one is going to call you out or ask you to move; doing so would require even more social interaction and a level of confrontation that locals famously avoid.\n\nAs one Norwegian shared on an online forum: “It's about not entering people's personal space unless you need to. Why would you prefer to touch thighs with a stranger if there's an option not to?”\n\nThat’s why you might see a bus with empty seats but people still standing in the aisles. Many Norwegians would rather stand for the whole trip than sit next to a stranger if there isn’t an empty row.\n\nIf someone leaves and a double seat becomes free, it’s normal (and often expected) for one of you to move to that empty row to keep the “natural balance” of personal space.\n\nIn some places, putting a bag on the seat is seen as rude, but in Norway, it can be a way to communicate. Norwegians aren’t being mean; they’re protecting your privacy as well as their own.\n\nREAD MORE: How to understand the four unwritten codes of Norwegian life\n\nEven when the bus is crowded and you find yourself sitting next to someone, you should remain quiet.\n\nAnd small talk? Forget it. People rarely chat on public transport. Many foreigners share stories of trying to be friendly (like complimenting someone’s shoes) only to have the person put on headphones and look out the window.\n\nHowever, there is an exception. As another local pointed out, “Norwegians don't like small talk. But if you are lost or ask an actual question, like 'where is statue X' or 'can you recommend a place to eat', we love to help.”\n\nBut generally, silence is very valued. At first, this might catch your attention, but over time you may get used to it and, in some cases, even learn to appreciate and enjoy the quiet.\n\nIf you talk loudly on your phone or have a heated conversation with a friend, expect some unfriendly looks. This level of noise can be a real cultural shock for Norwegians.\n\nOne online user put it bluntly: “If you speak so loud that I can hear you from the next seat, we will think you are either drunk or American.”\n\nAlso, remember that making almost no eye contact is part of respecting privacy.\n\nREAD MORE: How loneliness in Norway is forcing more and more people to stay at home\n\nHow do passengers signal that they need to get off when someone is sitting in the aisle seat? Direct verbal interaction is the last resort. Instead, a subtle nod, a slight shift in posture toward the aisle, or the sound of them gathering their things is used to signal the stop.\n\nIf you’re distracted by your phone, don’t expect anyone to say much. Staying alert can help you avoid making a Norwegian miss their stop.\n\nWhilts these unwritten rules can be misinterpreted as coldness or limited social skills, many argue it is actually a form of extreme politeness.\n\nBy not sitting next to you or starting a conversation, a Norwegian is giving you the “gift” of freedom to be alone with your thoughts without the \"burden\" of social interaction.\n\nWhat about you? Do you prefer sitting alone in silence, or do you miss the lively, shared experience of public transport?\n\nREAD ALSO: How to make your friendship with a Norwegian more than a 'one-night stand'\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Using public transport is the best way to get around Norway’s biggest cities, but before you hop on, there are some social norms you should know about.\n\nTaking public transport in Norway can be an unexpected culture shock, especially because of the unwritten rule about keeping your distance from...",
-      "image": "https://images.unsplash.com/photo-1698854617886-257ee3635907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU1Mzg5Mjd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260219/dont-sit-next-to-a-stranger-norways-unwritten-pubic-transport-rules",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-07-31T23:02:07.701Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785538924027.0015,
-      "title": "Reuters: Justisdepartementet dropper hærverksanklager mot tidligere OL-utøver",
-      "slug": "reuters-justisdepartementet-dropper-hrverksanklager-mot-tidl",
-      "content": "Reuters: Justisdepartementet dropper hærverksanklager mot tidligere OL-utøver\n\nDet amerikanske justisdepartementet dropper saken mot tidligere OL-utøver David Hearn (67), som var anklaget for hærverk på speilbassenget i Washington D.C.\n\nDet viser rettsdokumenter som nyhetsbyrået Reuters har fått tilgang til.\n\nI rettsdokumentene erkjenner Trump-administrasjonen at skadene på speilbassenget ved Lincolnmonumentet ble forårsaket av dårlig arbeid under renoveringsarbeidet.(NTB)\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Reuters: Justisdepartementet dropper hærverksanklager mot tidligere OL-utøver\n\nDet amerikanske justisdepartementet dropper saken mot tidligere OL-utøver David Hearn (67), som var anklaget for hærverk på speilbassenget i Washington D.C.\n\nDet viser rettsdokumenter som nyhetsbyrået Reuters har fått...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/reuters_-justisdepartementet-dropper-haerverksanklager-mot-tidligere-ol-utover-1.17975752",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-31T23:02:04.027Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785538922206.1646,
-      "title": "Russisk angrep i Kyiv",
-      "slug": "russisk-angrep-i-kyiv",
-      "content": "Det blir natt til lørdag meldt om eksplosjoner i hovedstaden Kyiv i Ukraina.\n\n– Kyiv er under angrep av ballistiske missiler, hold dere i tilfluktsrom skriver ordføreren i byen på meldingstjenesten Telegram.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Det blir natt til lørdag meldt om eksplosjoner i hovedstaden Kyiv i Ukraina.\n\n– Kyiv er under angrep av ballistiske missiler, hold dere i tilfluktsrom skriver ordføreren i byen på meldingstjenesten Telegram.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russisk-angrep-i-kyiv-1.17975754",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-07-31T23:02:02.207Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2724,
+    "totalFetched": 2727,
     "totalPublished": 77,
-    "lastFetch": "2026-08-03T02:56:23.399Z",
+    "lastFetch": "2026-08-03T07:27:59.353Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
