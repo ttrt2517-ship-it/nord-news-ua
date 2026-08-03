@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1785785938384.506,
+      "title": "Brann i omsorgsbolig i Tønsberg",
+      "slug": "brann-i-omsorgsbolig-i-tnsberg",
+      "content": "Nødetatene rykket mandag kveld ut til en kraftig bygningsbrann på Gauterød i Tønsberg.\n\nOperasjonsleder Ståle Olstad Fuglaas i Sør-Øst politidistrikt sier til NRK at bygningen er en bemannet omsorgsbolig.\n\n– Alle som bor der er gjort rede for. Det er ikke noe frykt for at noen er savnet der inne, opplyser Fuglaas.\n\nDet er heller ikke meldt om noen personskader eller at noen har fått i seg røyk som krever behandling av helsepersonell.\n\nFuglaas sier det ikke er fare for at flammene skal spre seg til andre bygninger, og det har derfor ikke vært behov for å evakuere naboer i nærområdet.",
+      "excerpt": "Nødetatene rykket mandag kveld ut til en kraftig bygningsbrann på Gauterød i Tønsberg.\n\nOperasjonsleder Ståle Olstad Fuglaas i Sør-Øst politidistrikt sier til NRK at bygningen er en bemannet omsorgsbolig.\n\n– Alle som bor der er gjort rede for. Det er ikke noe frykt for at noen er savnet der inne...",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestfoldogtelemark/brann-i-omsorgsbolig-i-tonsberg-1.17977885",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-03T19:38:58.384Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785785936599.4993,
+      "title": "Amerikanske luftfartsmyndigheter godkjenner Boeing fly",
+      "slug": "amerikanske-luftfartsmyndigheter-godkjenner-boeing-fly",
+      "content": "Det amerikanske luftfartstilsynet (FAA) har godkjent Boeing 737 MAX 7, den minste varianten av flyprodusentens MAX-serie.\n\nSertifiseringen har tatt mange år, og ble forsinket som følge av skjerpede sikkerhetskrav fra myndighetene etter ulykker i 2018 og 2019.\n\nFor å oppnå godkjenningen har Boeing gjennomført 441 testflyginger over 686 timer.\n\nBoeing-aksjen steg rundt 6,9 prosent etter kunngjøringen.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Det amerikanske luftfartstilsynet (FAA) har godkjent Boeing 737 MAX 7, den minste varianten av flyprodusentens MAX-serie.\n\nSertifiseringen har tatt mange år, og ble forsinket som følge av skjerpede sikkerhetskrav fra myndighetene etter ulykker i 2018 og 2019.\n\nFor å oppnå godkjenningen har Boeing...",
+      "image": "https://images.unsplash.com/photo-1599847740927-599426b94713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU3ODU5MzZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/amerikanske-luftfartsmyndigheter-godkjenner-boeing-fly-1.17977875",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-03T19:38:56.599Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785785934573.2903,
+      "title": "USA: Støtter nominasjon etter omstridt fond er skrotet",
+      "slug": "usa-sttter-nominasjon-etter-omstridt-fond-er-skrotet",
+      "content": "Senatorene Thom Tillis og John Cornyn har tidligere blokkert godkjenningen av Todd Blanche som USAs permanente justisminister.\n\nDe to senatorene har nå snudd og vil nå støtte nominasjonen.\n\nDe snudde etter at justisdepartementet formelt skrotet planene om et omstridt «anti-weaponization fund» på 1,8 milliarder dollar som Trump tok initiativ til.\n\nFondet kunne blant annet ha blitt brukt til å gi økonomisk kompensasjon til personer som hevder å være utsatt for politisk forfølgelse etter stormingen av den amerikanske Kongressen i 2021.\n\nSenatets justiskomité skal nå etter planen stemme over Blanches nominasjon tirsdag.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nAmerikansk politikk\n\nDemokratene og Republikanerne er USAs store partier. I Kongressen er det demokratisk flertall i Representantenes Hus, og også i Senatet når visepresident Kamala Harris&#039; dobbeltstemme regnes med. Etter valget i 2020 er det strid blant republikanere.",
+      "excerpt": "Senatorene Thom Tillis og John Cornyn har tidligere blokkert godkjenningen av Todd Blanche som USAs permanente justisminister.\n\nDe to senatorene har nå snudd og vil nå støtte nominasjonen.\n\nDe snudde etter at justisdepartementet formelt skrotet planene om et omstridt «anti-weaponization fund» på...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/usa_-stotter-nominasjon-etter-omstridt-fond-er-skrotet-1.17977925",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-03T19:38:54.573Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785779536852.5515,
       "title": "Mann pågripen etter fallulykke i Bremanger",
       "slug": "mann-pgripen-etter-fallulykke-i-bremanger",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-01T17:02:22.887Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785603741045.9087,
-      "title": "Alvorlig frontulykke på Voss – flere skadd",
-      "slug": "alvorlig-frontulykke-p-voss-flere-skadd",
-      "content": "Flere personer er skadde etter en alvorlig frontkollisjon mellom to biler på E16 på Voss. Det skal være barn blant de involverte.\n\nEn person satt fastklemt etter ulykken. Klokken 18:53 opplyser brannvesenet at de har fått den fastklemte personen ut av bilen.\n\nAlle nødetater er på ulykkesstedet. Et redningshelikopter fra Bergen er også på stedet.\n\nE16 er stengt på stedet, med omkjøring via Hardanger. Ifølge Vegtrafikksentralen vest, kan veien bli stengt i mange timer.\n\nTrafikk i Norge\n\nVet du noe andre bør vite om trafikken? Tips oss her eller ring 800 99 999",
-      "excerpt": "Flere personer er skadde etter en alvorlig frontkollisjon mellom to biler på E16 på Voss. Det skal være barn blant de involverte.\n\nEn person satt fastklemt etter ulykken. Klokken 18:53 opplyser brannvesenet at de har fått den fastklemte personen ut av bilen.\n\nAlle nødetater er på ulykkesstedet. Et...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/alvorlig-frontulykke-pa-voss-_-flere-skadd-1.17976165",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-01T17:02:21.045Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785596460245.0671,
-      "title": "Svensk politi vil varetektsfengsle kaptein på norsk skip etter dødsulykke",
-      "slug": "svensk-politi-vil-varetektsfengsle-kaptein-p-norsk-skip-ette",
-      "content": "Svensk politi vil varetektsfengsle den russiske kapteinen på det norske skipet «Misje Verde», etter at en mor og en datter omkom i en båtulykke tirsdag.\n\nPolitiet mistenker at familiens fritidsbåt kolliderte med det norske skipet nord for Marstrand utenfor Göteborg. Faren og sønnen i fritidsbåten ble skadet, men overlevde ulykken.\n\nKapteinen ble pågrepet torsdag kveld. Lørdag opplyser påtalemyndigheten at de vil begjære kapteinen fengslet, og at fengslingsmøtet vil holdes søndag eller mandag.\n\n– Kapteinen er ikke hjemmehørende i Sverige eller EU, og derfor er det en fare for at han flykter. Etterforskningen er i en tidlig fase, og det er fare for påvirkning av viktige vitner. Derfor ber jeg om at han varetektsfengsles, sier James von Reis som leder etterforskningen i en pressemelding.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "Svensk politi vil varetektsfengsle den russiske kapteinen på det norske skipet «Misje Verde», etter at en mor og en datter omkom i en båtulykke tirsdag.\n\nPolitiet mistenker at familiens fritidsbåt kolliderte med det norske skipet nord for Marstrand utenfor Göteborg. Faren og sønnen i fritidsbåten...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/svensk-politi-vil-varetektsfengsle-kaptein-pa-norsk-skip-etter-dodsulykke-1.17976019",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-01T15:01:00.245Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785596458383.2207,
-      "title": "Astronaut Jannicke Mikkelsen mottok Peer Gynt-prisen",
-      "slug": "astronaut-jannicke-mikkelsen-mottok-peer-gyntprisen",
-      "content": "I mai ble det kjent at astronaut Jannicke Mikkelsen er kåret til årets Peer Gynt, med begrunnelsen at Norge trenger mennesker som tør å gå foran, og vise hva som er mulig.\n\nDet er Stortinget som stemmer frem årets Peer Gynt.\n\n«Hva i all verden, kan de navnet mitt», var hennes første reaksjon da prisen ble kjent, avslørte hun da hun besøkte NRKs radiostudio på vei til Vinstra fredag.\n\nLørdag mottok hun prisen. Den ble overrakt under Peer Gynt-festen på Vinstra.\n\nMikkelsen får prisen for sitt arbeid med romfart. I fjor var hun om bord i SpaceX-fartøyet Fram2, da det ble skutt opp i verdensrommet.\n\nDermed ble hun den første astronauten i verdensrommet med kun norsk statsborgerskap, melder NTB.\n\nI radiostudio på P1 Eftan kunne Mikkelsen for øvrig fortelle at det å være vektløs ikke er behagelig.\n\n– Det første som skjer, er at hjernen din begynner å flyte. Du kan kjenne at den skvalper litt på innsiden av skallen.",
-      "excerpt": "I mai ble det kjent at astronaut Jannicke Mikkelsen er kåret til årets Peer Gynt, med begrunnelsen at Norge trenger mennesker som tør å gå foran, og vise hva som er mulig.\n\nDet er Stortinget som stemmer frem årets Peer Gynt.\n\n«Hva i all verden, kan de navnet mitt», var hennes første reaksjon da...",
-      "image": "https://images.unsplash.com/photo-1611053307699-5f74280c0d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU1OTY0NTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/innlandet/astronaut-jannicke-mikkelsen-mottok-peer-gynt-prisen-1.17976088",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-01T15:00:58.384Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2737,
+    "totalFetched": 2740,
     "totalPublished": 77,
-    "lastFetch": "2026-08-03T17:52:18.512Z",
+    "lastFetch": "2026-08-03T19:39:00.442Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
