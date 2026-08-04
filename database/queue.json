@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1785840051412.3516,
+      "title": "SVT: Losen på Misje Verde mistenkt etter båtulykken i Sverige",
+      "slug": "svt-losen-p-misje-verde-mistenkt-etter-btulykken-i-sverige",
+      "content": "Losen ombord på Misje Verde har fått status som mistenkt etter båtulykken i forrige uke. Det opplyser Sjöfartsverket til svt.\n\nDet er planlagt at losen skal avhøres i løpet av dagen.\n\nFra før er kapteinen varetektsfengslet etter at en fritidsbåt skal ha blitt overkjørt. En kvinne og en datter er døde, mens far og sønn er reddet.\n\nFaren er utskrevet fra sykehus, mens sønnen fremdeles er innlagt etter ulykken.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
+      "excerpt": "Losen ombord på Misje Verde har fått status som mistenkt etter båtulykken i forrige uke. Det opplyser Sjöfartsverket til svt.\n\nDet er planlagt at losen skal avhøres i løpet av dagen.\n\nFra før er kapteinen varetektsfengslet etter at en fritidsbåt skal ha blitt overkjørt. En kvinne og en datter er...",
+      "image": "https://images.unsplash.com/photo-1782072712484-42dc033d64f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU4NDAwNTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/svt_-losen-pa-misje-verde-mistenkt-etter-batulykken-i-sverige-1.17978249",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-04T10:40:51.412Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785840049506.5823,
+      "title": "Ulykken i Ås: Erkjenner ikke straffskyld",
+      "slug": "ulykken-i-s-erkjenner-ikke-straffskyld",
+      "content": "Mannen som er siktet etter dødsulykken i Ås i Akershus mandag ekjenner ikke straffskyld, skriver Dagbladet.\n\nEt barn på sykkel, i barneskolealder døde etter å ha blitt påkjørt av en bil.\n\nSjåføren ble først siktet etter vegtrafikklovens § 3 (om generell aktpågivenhet i trafikken), men har nå fått siktelsen skjerpet til straffelovens § 281 for uaktsomt å ha forvoldt en annens død.\n\nPoltiiet sier det ikke nå er aktuelt å varetektsfengsle føreren.",
+      "excerpt": "Mannen som er siktet etter dødsulykken i Ås i Akershus mandag ekjenner ikke straffskyld, skriver Dagbladet.\n\nEt barn på sykkel, i barneskolealder døde etter å ha blitt påkjørt av en bil.\n\nSjåføren ble først siktet etter vegtrafikklovens § 3 (om generell aktpågivenhet i trafikken), men har nå fått...",
+      "image": "https://images.unsplash.com/photo-1697193596436-86f818d0f10d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU4NDAwNDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/ulykken-i-as_-erkjenner-ikke-straffskyld-1.17978095",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-04T10:40:49.506Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785840047559.4592,
+      "title": "Tyrkia ber Russland og Ukraina om trygging i Svartehavet etter droneangrep",
+      "slug": "tyrkia-ber-russland-og-ukraina-om-trygging-i-svartehavet-ett",
+      "content": "Tyrkia ba tirsdag både Russland og Ukraina om å iverksette tiltak for å sikre skipsfarten i Svartehavet.\n\nUtspillet kommer etter at et tyrkiskeid lasteskip ble rammet av et droneangrep nær den russiske havnebyen Novorossijsk, der tre besetningsmedlemmer ble alvorlig skadet.\n\n– Tyrkia er alvorlig bekymret over at sivil skipsfart i Svartehavet blir angrepet på tross av alle våre advarsler, uttalte det tyrkiske utenriksdepartementet tirsdag.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Tyrkia ba tirsdag både Russland og Ukraina om å iverksette tiltak for å sikre skipsfarten i Svartehavet.\n\nUtspillet kommer etter at et tyrkiskeid lasteskip ble rammet av et droneangrep nær den russiske havnebyen Novorossijsk, der tre besetningsmedlemmer ble alvorlig skadet.\n\n– Tyrkia er alvorlig...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/tyrkia-ber-russland-og-ukraina-om-trygging-i-svartehavet-etter-droneangrep-1.17978257",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-04T10:40:47.559Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785824924804.9526,
       "title": "To pågrepet i Asker",
       "slug": "to-pgrepet-i-asker",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-02T02:54:52.810Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785624993695.507,
-      "title": "Italia har innført grensekontroll mot Spania",
-      "slug": "italia-har-innfrt-grensekontroll-mot-spania",
-      "content": "Nå må reisende fra Spania gjennom dokumentkontroll ved italienske flyplasser og havner.\n\nTiltaket ble vedtatt etter et møte mellom innenriksdepartementet og komiteen for innvandring og grensesikkerhet på fredag.\n\n– Den midlertidige suspensjonen av Schengen-avtalen er en nødvendig beslutning for å beskytte borgernes sikkerhet og forsvare Europas grenser, skrev Italias utenriksminister Antonio Tajani på X på fredag.\n\nBakgrunnen for dokumentkontrollen er at 60.000 mennesker tok seg over grensen til den spanske eksklaven Ceuta.\n\nNærmere 50 000 har returnert frivillig til Marokko, mens minst 67 personer har mistet livet.\n\nItalias utenriksminister foreslo allerede torsdag kveld å kaste ut Spania fra Schengen-området som følge av migrasjonskrisen i den spanske eksklaven Ceuta i Nord-Afrika.\n\nMigranter i Europa\n\nEuropeiske land krever strengere grensekontroll mot massemigrasjon. På få dager krysset rundt 60.000 marokkanere ulovlig inn i den spanske eksklaven Ceuta. De fleste er returnert, men 68 personer mistet livet.",
-      "excerpt": "Nå må reisende fra Spania gjennom dokumentkontroll ved italienske flyplasser og havner.\n\nTiltaket ble vedtatt etter et møte mellom innenriksdepartementet og komiteen for innvandring og grensesikkerhet på fredag.\n\n– Den midlertidige suspensjonen av Schengen-avtalen er en nødvendig beslutning for å...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/italia-har-innfort-grensekontroll-mot-spania-1.17976368",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-01T22:56:33.695Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785624991936.3887,
-      "title": "Elgpåkjørsel på E18 i Nordre Follo",
-      "slug": "elgpkjrsel-p-e18-i-nordre-follo",
-      "content": "E18 ved Askimveien øst for Østensjøvannet i Nordre Follo ble lørdag kveld stengt i begge retninger etter en elgpåkjørsel.\n\nDet ble meldt om skader på både bilfører og elgen, meldte operasjonsleder Håkon Hatlen i Øst politidistrikt klokken 23.01\n\nEn halvtime senere melder politiet at bilføreren er kjørt til Ullevål sykehus for nærmere undersøkelser. Elgen er død.",
-      "excerpt": "E18 ved Askimveien øst for Østensjøvannet i Nordre Follo ble lørdag kveld stengt i begge retninger etter en elgpåkjørsel.\n\nDet ble meldt om skader på både bilfører og elgen, meldte operasjonsleder Håkon Hatlen i Øst politidistrikt klokken 23.01\n\nEn halvtime senere melder politiet at bilføreren er...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/elgpakjorsel-pa-e18-i-nordre-follo--1.17976363",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-01T22:56:31.936Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785617656454.089,
-      "title": "WHO: Ebolautbruddet i Kongo er nå det største noensinne",
-      "slug": "who-ebolautbruddet-i-kongo-er-n-det-strste-noensinne",
-      "content": "Verdens helseorganisasjon (WHO) erklærer utbruddet av Ebola i Kongo som landets største noensinne.\n\n1 587 personer har mistet livet som følge av ebolautbruddet i Kongo. De første ebolatilfellene ble registrert i mai, men det kan ha vært i omløp før det ble oppdaget.\n\n– Det er behov for en betydelig oppskalering av nødhjelp for å kunne få bukt med utbruddet, sier WHO i en uttalelse lørdag, skriver NTB.\n\nUtbruddet er forårsaket av det sjeldne Bundibugyo-viruset, som det ikke finnes vaksiner eller behandling mot. Mellom 30 og 50 prosent av de smittede dør.\n\nDR Kongo\n\nDen demokratiske republikken Kongo (også kalt Kongo-Kinshasa) ligger i Sentral-Afrika og grenser til SAR og Sør-Sudan i nord, Uganda, Rwanda, Burundi og Tanzania i øst, Zambia og Angola i sør og Kongo-Brazzaville i vest.\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og Liberia. Etter at det store utbruddet var over, er det registrert flere sporadiske tilfeller av smitte.",
-      "excerpt": "Verdens helseorganisasjon (WHO) erklærer utbruddet av Ebola i Kongo som landets største noensinne.\n\n1 587 personer har mistet livet som følge av ebolautbruddet i Kongo. De første ebolatilfellene ble registrert i mai, men det kan ha vært i omløp før det ble oppdaget.\n\n– Det er behov for en betydelig...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/who_-ebolautbruddet-i-kongo-er-na-det-storste-noensinne-1.17976361",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-01T20:54:16.454Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2745,
+    "totalFetched": 2748,
     "totalPublished": 77,
-    "lastFetch": "2026-08-04T06:28:46.517Z",
+    "lastFetch": "2026-08-04T10:40:53.056Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
