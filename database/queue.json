@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1785884670445.1318,
+      "title": "Kyiv-ordfører: – Russisk luftangrep mot Kyiv",
+      "slug": "kyivordfrer-russisk-luftangrep-mot-kyiv",
+      "content": "Russland angriper den ukrainske hovedstaden Kyiv med ballistiske missiler, ifølge byens ordfører Vitalij Klitsjko.\n\nEksplosjoner er også hørt i byen, melder nyhetsbyrået AFP.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Russland angriper den ukrainske hovedstaden Kyiv med ballistiske missiler, ifølge byens ordfører Vitalij Klitsjko.\n\nEksplosjoner er også hørt i byen, melder nyhetsbyrået AFP.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/kyiv-ordforer_-_-russisk-luftangrep-mot-kyiv-1.17979160",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-04T23:04:30.445Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785884668662.643,
+      "title": "Ordfører: Brann i boligblokk etter luftangrep",
+      "slug": "ordfrer-brann-i-boligblokk-etter-luftangrep",
+      "content": "En boligblokk i Kyiv står i brann etter et russisk luftangrep på byen, ifølge Kyiv-ordfører Vitalij Klitsjko.\n\nBlokken skal ha 20 etasjer. Ordføreren sier årsaken til brannen trolig er et missilangrep, melder AFP.\n\nDet pågår nå et russisk luftangrep med ballistiske missiler mot Kyiv, ifølge Klitsjko.\n\nEksplosjoner er hørt i den ukrainske hovedstaden, melder flere medier.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "En boligblokk i Kyiv står i brann etter et russisk luftangrep på byen, ifølge Kyiv-ordfører Vitalij Klitsjko.\n\nBlokken skal ha 20 etasjer. Ordføreren sier årsaken til brannen trolig er et missilangrep, melder AFP.\n\nDet pågår nå et russisk luftangrep med ballistiske missiler mot Kyiv, ifølge...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ordforer_-brann-i-boligblokk-etter-luftangrep-1.17979165",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-04T23:04:28.662Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785878003986.5557,
       "title": "Norsk Tipping utsatt for dataangrep",
       "slug": "norsk-tipping-utsatt-for-dataangrep",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-08-02T09:58:50.500Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785664728902.482,
-      "title": "Tenåringsjente skadet i bilcrossulykke: – Har vært veldig heldig",
-      "slug": "tenringsjente-skadet-i-bilcrossulykke-har-vrt-veldig-heldig",
-      "content": "Tenåringsjenten som ble alvorlig skadet på et bilcrosstevne ved Gardermoen lørdag, har det etter forholdene svært bra. Det bekrefter faren til NRK.\n\n– Hun har vært inne på CT-undersøkelse, og hun har en blødning i bekkenet. Utover det har hun vært veldig heldig, forteller faren.\n\nHan forteller at ulykken så svært voldsom ut, men at datteren fikk god og rask helsehjelp på Ullevål sykehus.\n\nBilen hadde rullet rundt flere ganger før den landet på hjulene.\n\nTenåringen fra Toten ble fløyet med luftambulanse og tatt imot av et større team på sykehuset.\n\n– Bilen er helt smadret. Det er klart at hun har vært heldig.",
-      "excerpt": "Tenåringsjenten som ble alvorlig skadet på et bilcrosstevne ved Gardermoen lørdag, har det etter forholdene svært bra. Det bekrefter faren til NRK.\n\n– Hun har vært inne på CT-undersøkelse, og hun har en blødning i bekkenet. Utover det har hun vært veldig heldig, forteller faren.\n\nHan forteller at...",
-      "image": null,
-      "original_url": "https://www.nrk.no/innlandet/tenaringsjente-skadet-i-bilcrossulykke_-_-har-vaert-veldig-heldig-1.17976502",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-02T09:58:48.902Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785652449447.1226,
-      "title": "Person slått ned med snøskuffe i Halden",
-      "slug": "person-sltt-ned-med-snskuffe-i-halden",
-      "content": "En person er kjørt til sykehus etter å ha blitt slått ned i Halden natt til søndag.\n\nIfølge vitner ble en snøskuffe benyttet som slagvåpen mot personens hode.\n\nPolitiet har søkt etter en gjerningsperson uten hell, opplyser operasjonsleder Håkon Hatlen i Øst politidistrikt.",
-      "excerpt": "En person er kjørt til sykehus etter å ha blitt slått ned i Halden natt til søndag.\n\nIfølge vitner ble en snøskuffe benyttet som slagvåpen mot personens hode.\n\nPolitiet har søkt etter en gjerningsperson uten hell, opplyser operasjonsleder Håkon Hatlen i Øst politidistrikt.",
-      "image": "https://images.unsplash.com/photo-1689771651823-7b35cc9091c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU2NTI0NDl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/person-slatt-ned-med-snoskuffe-i-halden-1.17976389",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-02T06:34:09.447Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2753,
+    "totalFetched": 2755,
     "totalPublished": 77,
-    "lastFetch": "2026-08-04T21:13:25.774Z",
+    "lastFetch": "2026-08-04T23:04:32.121Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
