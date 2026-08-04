@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1785865781370.1016,
+      "title": "Fikk fortsette i kirken etter varsler om overgrep",
+      "slug": "fikk-fortsette-i-kirken-etter-varsler-om-overgrep",
+      "content": "Læreren fra Akershus som nylig ble siktet for seksuelle overgrep mot barn, fikk fortsette sitt frivillige arbeid i kirken til tross for at menigheten hadde mottatt flere varsler.\n\n– Som kirke er vi opptatt av å gi folk som angrer og ber om tilgivelse en ny sjanse, sier kirkevergen til avisen.\n\nEtt av varslene ble anmeldt av kirken, men saken ble senere henlagt av politiet.\n\nPolitiet sier til avisen at det er naturlig å se forholdene fra kirken i sammenheng med den nye saken.\n\nEn mannlig lærer i Nordre Follo etterforskes for seksuell omgang med barn og misbruk av stillingen sin. Han erkjenner ikke straffskyld.",
+      "excerpt": "Læreren fra Akershus som nylig ble siktet for seksuelle overgrep mot barn, fikk fortsette sitt frivillige arbeid i kirken til tross for at menigheten hadde mottatt flere varsler.\n\n– Som kirke er vi opptatt av å gi folk som angrer og ber om tilgivelse en ny sjanse, sier kirkevergen til avisen.\n\nEtt...",
+      "image": "https://images.unsplash.com/photo-1697193596436-86f818d0f10d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU4NjU3ODF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/fikk-fortsette-i-kirken-etter-varsler-om-overgrep-1.17978652",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-04T17:49:41.370Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785853085959.1514,
       "title": "Gigantkontrakt for KI-datasenter i Tydal – verdi på 55 milliarder kroner",
       "slug": "gigantkontrakt-for-kidatasenter-i-tydal-verdi-p-55-milliarde",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-02T06:34:07.691Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785652445938.105,
-      "title": "Sarpsborg: Gutt alvorlig skadet – sier han ble angrepet med balltre",
-      "slug": "sarpsborg-gutt-alvorlig-skadet-sier-han-ble-angrepet-med-bal",
-      "content": "En gutt ble natt til søndag fraktet til sykehus med alvorlige skader etter å ha forklart at han ble angrepet med balltre på vei hjem i Sarpsborg natt til søndag.\n\nIfølge politiet blødde gutten fra hodet da nødetatene ankom stedet.",
-      "excerpt": "En gutt ble natt til søndag fraktet til sykehus med alvorlige skader etter å ha forklart at han ble angrepet med balltre på vei hjem i Sarpsborg natt til søndag.\n\nIfølge politiet blødde gutten fra hodet da nødetatene ankom stedet.",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/sarpsborg_-gutt-alvorlig-skadet-_-sier-han-ble-angrepet-med-balltre-1.17976401",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-02T06:34:05.939Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2751,
+    "totalFetched": 2752,
     "totalPublished": 77,
-    "lastFetch": "2026-08-04T14:18:07.972Z",
+    "lastFetch": "2026-08-04T17:49:42.969Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
