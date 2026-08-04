@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1785878003986.5557,
+      "title": "Norsk Tipping utsatt for dataangrep",
+      "slug": "norsk-tipping-utsatt-for-dataangrep",
+      "content": "Norsk Tipping ble tirsdag kveld utsatt for et DDoS-angrep som gjorde nettsiden og appen utilgjengelig for brukerne.\n\nAngrepet ble oppdaget i 21-tiden tirsdag kveld, og etter en halvtimes tid fungerte systemene igjen som normalt.\n\nKlokken 22.20 bekreftet Pål Enger, leder presse og samfunnskontakt i Norsk Tipping, at angrepet var stoppet.\n\nDet er foreløpig uvisst hvem som står bak angrepet, som føyer seg inn i rekken av dataangrep som rammer selskapet.\n\nNorsk Tipping\n\nNorsk Tipping er eit statleg speleselskap i Noreg som tilbyr pengespel, inkludert lotto, sportsspel og skrapelodd.\nOverskotet går til samfunnsnyttige føremål som idrett, kultur og humanitære organisasjonar. Føremålet er ansvarleg og sikkert pengespel.",
+      "excerpt": "Norsk Tipping ble tirsdag kveld utsatt for et DDoS-angrep som gjorde nettsiden og appen utilgjengelig for brukerne.\n\nAngrepet ble oppdaget i 21-tiden tirsdag kveld, og etter en halvtimes tid fungerte systemene igjen som normalt.\n\nKlokken 22.20 bekreftet Pål Enger, leder presse og samfunnskontakt i...",
+      "image": "https://images.unsplash.com/photo-1698306583861-72a12eb544a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU4NzgwMDN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/innlandet/norsk-tipping-utsatt-for-dataangrep-1.17979083",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-04T21:13:23.986Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785865781370.1016,
       "title": "Fikk fortsette i kirken etter varsler om overgrep",
       "slug": "fikk-fortsette-i-kirken-etter-varsler-om-overgrep",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-02T06:34:09.447Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785652447691.9727,
-      "title": "Finsk statsborger stoppet på grensen med 633 liter lystgass",
-      "slug": "finsk-statsborger-stoppet-p-grensen-med-633-liter-lystgass",
-      "content": "Lørdag kveld stanset Tolletaten på Ørje en finsk statsborger som forsøkte å innføre 633 liter lystgass uten nødvendig importtillatelse.\n\nHan har fått forkynt et forelegg på 60 000 kroner som han ikke har vedtatt, forteller oppdragsleder Kjetil Elnan Ringseth i Øst politidistrikt til NRK.\n\nDet er forbudt for privatpersoner å importere lystgass, og politiet mistenker at dette var tenkt for salg som rusmiddel.\n\n– Uten at jeg har noen statistikk på det, så er det første gang at jeg har vært borti et så stort beslag, sier Elnan Ringseth.\n\nLystgassen er besluttet inndratt, legger politiet til.",
-      "excerpt": "Lørdag kveld stanset Tolletaten på Ørje en finsk statsborger som forsøkte å innføre 633 liter lystgass uten nødvendig importtillatelse.\n\nHan har fått forkynt et forelegg på 60 000 kroner som han ikke har vedtatt, forteller oppdragsleder Kjetil Elnan Ringseth i Øst politidistrikt til NRK.\n\nDet er...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/finsk-statsborger-stoppet-pa-grensen-med-633-liter-lystgass-1.17976397",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-02T06:34:07.691Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2752,
+    "totalFetched": 2753,
     "totalPublished": 77,
-    "lastFetch": "2026-08-04T19:38:53.648Z",
+    "lastFetch": "2026-08-04T21:13:25.774Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
