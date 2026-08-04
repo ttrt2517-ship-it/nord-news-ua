@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1785853085959.1514,
+      "title": "Gigantkontrakt for KI-datasenter i Tydal – verdi på 55 milliarder kroner",
+      "slug": "gigantkontrakt-for-kidatasenter-i-tydal-verdi-p-55-milliarde",
+      "content": "Tydal Data Center i Trøndelag opplyser at de har inngått en avtale om å levere datakraft til et «ledende amerikansk AI-laboratorium».\n\nKontrakten har en verdi på 55 milliarder kroner over en periode på 16 år, ifølge selskapet.\n\n– Ved ferdigstillelse forventes Tydal å være Norges største operative KI-datasenter og blant Europas største KI-datasentre, drevet av 100 prosent fornybar vannkraft, skriver Tydal Data Center i en pressemelding.\n\nDatasenter\n\nEt stort antall norske kommuner jobber med planer om å trekke til seg nye sentre for datalagring. Billig strøm og lavere elavgift skal friste databasert næringlsiv til å velge Norge.",
+      "excerpt": "Tydal Data Center i Trøndelag opplyser at de har inngått en avtale om å levere datakraft til et «ledende amerikansk AI-laboratorium».\n\nKontrakten har en verdi på 55 milliarder kroner over en periode på 16 år, ifølge selskapet.\n\n– Ved ferdigstillelse forventes Tydal å være Norges største operative...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/gigantkontrakt-for-ki-datasenter-i-tydal-_-verdi-pa-55-milliarder-kroner-1.17978598",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-04T14:18:05.959Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785853082805.3516,
+      "title": "Én til sykehus etter boligbrann i Oslo",
+      "slug": "n-til-sykehus-etter-boligbrann-i-oslo",
+      "content": "Tirsdag ettermiddag brøt det ut brann i en bolig med flere enheter i Prinsdal.\n\nFlammene sto ut av taket da nødetatene ankom stedet.\n\nTre bolighus ble evakuert som følge av brannen, og naboer ble bedt om å holde vinduer lukket på grunn av røyken.\n\nÉn person som befant seg i en leilighet i nærheten, er kjørt til sykehus etter å ha pustet inn røyk.\n\nBrannvesenet fikk slått ned flammene like før klokken 14.45, og driver nå med finsøk i bygget.",
+      "excerpt": "Tirsdag ettermiddag brøt det ut brann i en bolig med flere enheter i Prinsdal.\n\nFlammene sto ut av taket da nødetatene ankom stedet.\n\nTre bolighus ble evakuert som følge av brannen, og naboer ble bedt om å holde vinduer lukket på grunn av røyken.\n\nÉn person som befant seg i en leilighet i nærheten...",
+      "image": "https://images.unsplash.com/photo-1698083781385-a8a7069c5cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU4NTMwODJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/en-til-sykehus-etter-boligbrann-i-oslo-1.17978580",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-04T14:18:02.805Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785853077670.8289,
+      "title": "SAS: – Mål om å komme frem til en løsning så raskt som mulig",
+      "slug": "sas-ml-om-komme-frem-til-en-lsning-s-raskt-som-mulig",
+      "content": "Flyselskapet SAS sier til NRK at de har tatt kontakt med både fagforeningene og Riksmekleren med mål om å gjenoppta dialogen og «komme frem til en løsning så raskt som mulig», for å unngå en streik. Ifølge Fellesforbundet skal partene møtes hos riksmekleren på torsdag.\n\nDet er varslet flystreik blant rundt 500 kabinansatte i SAS fra lørdag 8. august dersom partene ikke blir enige.",
+      "excerpt": "Flyselskapet SAS sier til NRK at de har tatt kontakt med både fagforeningene og Riksmekleren med mål om å gjenoppta dialogen og «komme frem til en løsning så raskt som mulig», for å unngå en streik. Ifølge Fellesforbundet skal partene møtes hos riksmekleren på torsdag.\n\nDet er varslet flystreik...",
+      "image": "https://images.unsplash.com/photo-1639688173678-360d43d9134c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU4NTMwNzd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/sas_-_-mal-om-a-komme-frem-til-en-losning-sa-raskt-som-mulig-1.17978809",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-04T14:17:57.670Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785840051412.3516,
       "title": "SVT: Losen på Misje Verde mistenkt etter båtulykken i Sverige",
       "slug": "svt-losen-p-misje-verde-mistenkt-etter-btulykken-i-sverige",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-02T06:34:05.939Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785639296674.6448,
-      "title": "Nytt strømbrudd i Havana og vestlige Cuba",
-      "slug": "nytt-strmbrudd-i-havana-og-vestlige-cuba",
-      "content": "Havanna og det vestlige Cuba ble mørklagt etter et nytt strømbrudd lørdag kveld. Fem av landets 15 provinser mistet strømmen da nettet delvis kollapset i 18-tiden lokal tid, opplyser det statlige kraftselskapet UNE på X.\n\nCuba har vært rammet av gjentatte og langvarige strømbrudd de siste årene, som skyldes blant annet gammelt nedslitt kraftverk og mangel på drivstoff.",
-      "excerpt": "Havanna og det vestlige Cuba ble mørklagt etter et nytt strømbrudd lørdag kveld. Fem av landets 15 provinser mistet strømmen da nettet delvis kollapset i 18-tiden lokal tid, opplyser det statlige kraftselskapet UNE på X.\n\nCuba har vært rammet av gjentatte og langvarige strømbrudd de siste årene...",
-      "image": "https://images.unsplash.com/photo-1665929458538-790753504cc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU2MzkyOTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/nytt-strombrudd-i-havana-og-vestlige-cuba-1.17976386",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-02T02:54:56.674Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785639294890.0098,
-      "title": "Flere drept i skyteepisode i Idaho",
-      "slug": "flere-drept-i-skyteepisode-i-idaho",
-      "content": "Flere personer ble drept i en skyteepisode på en burgerrestaurant i byen Twin Falls i delstaten Idaho i USA lørdag, melder lokale myndigheter.\n\nEn talsperson for byen har oppgitt til CBS News at minst tre personer er drept og to andre er såret. Men på en pressekonferanse kunne ikke byens politimester, Matthew Hicks, bekrefte antall døde.\n\nIfølge Hicks er den mistenkte gjerningspersonen død. Politiet jobber med å finne identiteten og motivet til vedkommende\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Flere personer ble drept i en skyteepisode på en burgerrestaurant i byen Twin Falls i delstaten Idaho i USA lørdag, melder lokale myndigheter.\n\nEn talsperson for byen har oppgitt til CBS News at minst tre personer er drept og to andre er såret. Men på en pressekonferanse kunne ikke byens...",
-      "image": "https://images.unsplash.com/photo-1536683402757-75f8d0dfa419?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU2MzkyOTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-drept-i-skyteepisode-i-idaho-1.17976388",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-02T02:54:54.890Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785639292810.8545,
-      "title": "Trump seier han stoppar Iran-angrep fordi det nærmar seg ein avtale",
-      "slug": "trump-seier-han-stoppar-iranangrep-fordi-det-nrmar-seg-ein-a",
-      "content": "– USA er ladde og klare til å gå mot Den islamske republikken Iran, med eit militært terrornivå, styrke og makt som ikkje har blitt sett sidan andre verdskrigen, skriv presidenten på sin eigen plattform, Truth Social.\n\nPresidenten stoppar likevel no eit planlagt angrep etter oppmoding frå Iran og andre land om å avvente eit angrep, ettersom rammene for ein avtale skal vere på plass, som vil føre til opning av det strategisk viktige Hormuzsundet og stoppe Iran frå å bli i stand til å lage atomvåpen.\n\nAt angrepa står på pause, føreset at ein endeleg avtale kjem raskt i hamn, skriv han.\n\n– Kom dykk i arbeid, få det gjort, avsluttar presidenten.  Ifølgje anonyme kjelder til CBS News planla USA eit storangrep mot iransk energiinfrastruktur i helga, men tok atterhald på at Trump hadde ennå ikkje gjeve grønt lys.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
-      "excerpt": "– USA er ladde og klare til å gå mot Den islamske republikken Iran, med eit militært terrornivå, styrke og makt som ikkje har blitt sett sidan andre verdskrigen, skriv presidenten på sin eigen plattform, Truth Social.\n\nPresidenten stoppar likevel no eit planlagt angrep etter oppmoding frå Iran og...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump-seier-han-stoppar-iran-angrep-fordi-det-naermar-seg-ein-avtale-1.17976387",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-02T02:54:52.810Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2748,
+    "totalFetched": 2751,
     "totalPublished": 77,
-    "lastFetch": "2026-08-04T10:40:53.056Z",
+    "lastFetch": "2026-08-04T14:18:07.972Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
