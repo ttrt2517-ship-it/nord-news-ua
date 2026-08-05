@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1785911371961.996,
+      "title": "Russland: Ukrainsk droneangrep mot netthandelgigant",
+      "slug": "russland-ukrainsk-droneangrep-mot-netthandelgigant",
+      "content": "Et lager til netthandelgiganten Wildberries står i brann i Russland, ifølge den lokale guvernøren i Tula-regionen, Dmitrij Miljajev.\n\nIfølge russiske myndigheter ble lageret utsatt for et ukrainsk droneangrep.\n\nWildberries har selv bekreftet at lageret i Tula er ødelagt, melder Reuters.\n\nWildberries, også kalt «Russlands Amazon», har siden 18. juli blitt angrepet flere ganger av Ukraina.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Et lager til netthandelgiganten Wildberries står i brann i Russland, ifølge den lokale guvernøren i Tula-regionen, Dmitrij Miljajev.\n\nIfølge russiske myndigheter ble lageret utsatt for et ukrainsk droneangrep.\n\nWildberries har selv bekreftet at lageret i Tula er ødelagt, melder...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/russland_-ukrainsk-droneangrep-mot-netthandelgigant-1.17979185",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-05T06:29:31.961Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785911370220.0686,
+      "title": "Ukraina: 14 drepte i russisk angrep",
+      "slug": "ukraina-14-drepte-i-russisk-angrep",
+      "content": "14 personer er drept og 27 er skadet i et russisk droneangrep mot Kyiv-regionen natt til onsdag.\n\nAngrepene skal også ha forårsaket skader på flere lagerbygninger i området rundt hovedstaden.\n\nDet opplyser den ukrainske nødetaten onsdag i en uttalelse på meldingstjenesten Telegram, melder nyhetsbyrået Reuters.\n\nDen ukrainske hovedstaden er angrepet med flere ballistiske missiler. 14 er bekreftet døde og 27 er skadde.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "14 personer er drept og 27 er skadet i et russisk droneangrep mot Kyiv-regionen natt til onsdag.\n\nAngrepene skal også ha forårsaket skader på flere lagerbygninger i området rundt hovedstaden.\n\nDet opplyser den ukrainske nødetaten onsdag i en uttalelse på meldingstjenesten Telegram, melder...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukraina_-14-drepte-i-russisk-angrep-1.17979252",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-05T06:29:30.220Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785911368364.5422,
+      "title": "Ap inviterer SV, Sp, Rødt og MDG til møte om drivstoffsituasjonen",
+      "slug": "ap-inviterer-sv-sp-rdt-og-mdg-til-mte-om-drivstoffsituasjone",
+      "content": "Arbeiderpartiet vil torsdag møte SV, Sp, Rødt og MDG for å snakke om krigen i Midtøsten og situasjonen i energimarkedene.\n\nMøtet finner sted klokka 12 torsdag, opplyser Tuva Moflag (Ap), leder av finanskomiteen, til NTB. Hun omtaler møtet som en oppfølging av enigheten i revidert nasjonalbudsjett.\n\n– Jeg ser fram til å møte de andre avtalepartnerne for å følge opp dette punktet slik vi er enige om, skriver Moflag.\n\nI vår brøt Sp med de rødgrønne og gikk sammen med Høyre, Frp og KrF for å kutte drivstoffavgiftene. For seks uker siden inngikk Sp derimot en budsjettavtale med Ap, SV, Rødt og MDG der avgiftene etter planen skal øke igjen fra 1. september.\n\nHøye drivstoffpriser\n\nPå grunn av krigen i Iran, har drivstoffprisene skutt i været. Senterpartiet sikret flertall for hastebehandling av et Høyre-forslag om billigere bensin. Alle de andre rødgrønne partiene stemte imot.",
+      "excerpt": "Arbeiderpartiet vil torsdag møte SV, Sp, Rødt og MDG for å snakke om krigen i Midtøsten og situasjonen i energimarkedene.\n\nMøtet finner sted klokka 12 torsdag, opplyser Tuva Moflag (Ap), leder av finanskomiteen, til NTB. Hun omtaler møtet som en oppfølging av enigheten i revidert...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ap-inviterer-sv_-sp_-rodt-og-mdg-til-mote-om-drivstoffsituasjonen-1.17979262",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-05T06:29:28.364Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785897544171.8848,
       "title": "Ordfører: – Brann i boligblokk etter luftangrep",
       "slug": "ordfrer-brann-i-boligblokk-etter-luftangrep",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-02T15:03:18.911Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785677070338.066,
-      "title": "Kontroll på brann i Oslo – ikke spredningsfare",
-      "slug": "kontroll-p-brann-i-oslo-ikke-spredningsfare",
-      "content": "Politi og brannvesen har rykket ut til en adresse i Oslo øst etter melding om en brann.\n\n– Vi har fått opplysninger om at det brenner i en enebolig som er fullt overtent, opplyser vaktkommandør Hans Erik Tysdal til NRK.\n\nIfølge politiet var det stor fare for spredning til en skog i nærheten.\n\nI en ny oppdatering klokken 14.13 skriver de at brannvesenet har kontroll på brannen, og at det ikke lenger er fare for spredning.\n\nBrannvesenet fikk flere meldinger om brannen like før klokken 14.\n\nDet har brent kraftig i et bygg i Oslo øst. Det er ikke lenger fare for spredning.",
-      "excerpt": "Politi og brannvesen har rykket ut til en adresse i Oslo øst etter melding om en brann.\n\n– Vi har fått opplysninger om at det brenner i en enebolig som er fullt overtent, opplyser vaktkommandør Hans Erik Tysdal til NRK.\n\nIfølge politiet var det stor fare for spredning til en skog i nærheten.\n\nI en...",
-      "image": null,
-      "original_url": "https://www.nrk.no/stor-oslo/kontroll-pa-brann-i-oslo-_-ikke-spredningsfare-1.17976457",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-02T13:24:30.338Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785677068735.952,
-      "title": "Dataangrepet mot Norsk Tipping er avsluttet – stenger oddsspill",
-      "slug": "dataangrepet-mot-norsk-tipping-er-avsluttet-stenger-oddsspil",
-      "content": "– Det ser ut til at DDoS-angrepet mot Norsk Tipping er avsluttet, og at trafikken flyter som normalt igjen, sier Stian Simensen, pressevakt i Norsk Tipping.\n\nSom følge av angrepet ser Norsk Tipping seg nødt til å stenge spillet Oddsen.\n\nDe har ikke mulighet til å gjennomføre oddsendringer, forklarer Simensen.\n\n– Kunder vil derfor per nå ikke få levert oddsspill. Vi jobber med Telenor for å løse dette.\n\nNorsk Tipping ble utsatt for et dataangrep søndag. De hadde problemer med app og nettside mellom klokken 12 og 14.\n\nNorsk Tipping ble utsatt for et dataangrep søndag. Oddsen blir stengt etter angrepet.\n\nNorsk Tipping\n\nNorsk Tipping er eit statleg speleselskap i Noreg som tilbyr pengespel, inkludert lotto, sportsspel og skrapelodd.\nOverskotet går til samfunnsnyttige føremål som idrett, kultur og humanitære organisasjonar. Føremålet er ansvarleg og sikkert pengespel.",
-      "excerpt": "– Det ser ut til at DDoS-angrepet mot Norsk Tipping er avsluttet, og at trafikken flyter som normalt igjen, sier Stian Simensen, pressevakt i Norsk Tipping.\n\nSom følge av angrepet ser Norsk Tipping seg nødt til å stenge spillet Oddsen.\n\nDe har ikke mulighet til å gjennomføre oddsendringer...",
-      "image": "https://images.unsplash.com/photo-1664790660158-8470f8bc548c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU2NzcwNjh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/innlandet/dataangrepet-mot-norsk-tipping-er-avsluttet-_-stenger-oddsspill-1.17976609",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-02T13:24:28.736Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785677067003.202,
-      "title": "OPEC+ øker oljeproduksjonen i september",
-      "slug": "opec-ker-oljeproduksjonen-i-september",
-      "content": "Syv land i oljealliansen OPEC+ øker oljeproduksjonen med 188.000 fat om dagen fra og med september.\n\nBeslutningen omfatter landene Saudi-Arabia, Russland, Irak, Kuwait, Kasakhstan, Algerie og Oman, og ble tatt under et digitalt møte søndag.\n\nI en felles uttalelse viser landene til at produksjonsøkningen skjer på bakgrunn av forstyrrelser forårsaket av krigen i Midtøsten.\n\nOgså i august økte de samme landene oljeproduksjonen med 188.000 fat dagen.\n\nOljeprisen\n\nPrisen på nordsjøolje kan svinge kraftig, og påvirkes blant annet av kriger og konflikter i verden.\n\nOpec\n\nOljekartellet Opec favner 14 oljeproduserende land som samlet står for en tredel av verdens oljeproduksjon. Hverken USA, Russland, Kina eller Norge er med i kartellet som forsøker å styre oljeprisen ved justeringer i produksjonsvolum.",
-      "excerpt": "Syv land i oljealliansen OPEC+ øker oljeproduksjonen med 188.000 fat om dagen fra og med september.\n\nBeslutningen omfatter landene Saudi-Arabia, Russland, Irak, Kuwait, Kasakhstan, Algerie og Oman, og ble tatt under et digitalt møte søndag.\n\nI en felles uttalelse viser landene til at...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/opec_-oker-oljeproduksjonen-i-september-1.17976644",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-02T13:24:27.004Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2758,
+    "totalFetched": 2761,
     "totalPublished": 77,
-    "lastFetch": "2026-08-05T02:39:05.765Z",
+    "lastFetch": "2026-08-05T06:29:34.019Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
