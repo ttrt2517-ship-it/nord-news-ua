@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1785970834686.9766,
+      "title": "Infantino gir seg ikke – kom ut fra krisemøte med beklagelse og trussel",
+      "slug": "infantino-gir-seg-ikke-kom-ut-fra-krisemte-med-beklagelse-og",
+      "content": "Fifa-president Gianni Infantino nekter å trekke seg. Han kom etter onsdagens krisemøte både med en beklagelse til Fifa-rådet og en trussel mot forbundets kritikere.\n\nEn hardt presset Infantino hadde innkalt flere nøkkelmedarbeidere til et møte i Fifa-kontorene i Rabat-forstaden Salé. Sent onsdag kveld sendte Fifa ut en pressemelding der det står at Fifas ledergruppe har erklært sin fulle støtte til Infantino som den valgte leder for de 211 medlemsforbundene.\n\nInfantino uttrykte på sin side støtte for generalsekretæren og administrasjonen.\n\nInfantino vil sende et brev til Fifas rådsmedlemmer der han beklager feil som ble gjort i den feilslåtte planen om å selge en andel i forbundets turneringer til eksterne investorer.\n\nSamtidig sier presidenten at Fifa ikke lenger vil tolerere det han beskriver som «angrep på forbundets integritet, styringssett og prosesser» og vil treffe alle nødvendige skritt for å beskytte sitt gode navn og rykte.\n\nEtter det sju timer lange møtet ble han avbildet på tribunen under en kamp i afrikamesterskapet for kvinner, da han smilende satt ved siden av Fifa-generalsekretær Mattias Grafström, som dagen før hadde kritisert ham. (NTB)\n\nSportsnyheter\n\nHer får du de siste sportsnyhetene fra NRK.\n\nFifa\n\nGianni Infantino ble i andre valgrunde valgt til ny Fifa-president med 115 stemmer. Hans hovedrival sjeik Salman fikk 88.",
+      "excerpt": "Fifa-president Gianni Infantino nekter å trekke seg. Han kom etter onsdagens krisemøte både med en beklagelse til Fifa-rådet og en trussel mot forbundets kritikere.\n\nEn hardt presset Infantino hadde innkalt flere nøkkelmedarbeidere til et møte i Fifa-kontorene i Rabat-forstaden Salé. Sent onsdag...",
+      "image": null,
+      "original_url": "https://www.nrk.no/sport/infantino-gir-seg-ikke-_-kom-ut-fra-krisemote-med-beklagelse-og-trussel-1.17980404",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-05T23:00:34.687Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785964249761.2673,
       "title": "– Vanskelig å kommunisere med Khamenei",
       "slug": "-vanskelig-kommunisere-med-khamenei",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-03T07:27:57.733Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785742075858.9006,
-      "title": "Nytt angrep på Wildberries-lager i Russland",
-      "slug": "nytt-angrep-p-wildberrieslager-i-russland",
-      "content": "Et stort lager som tilhører den russiske netthandelgiganten Wildberries står i brann etter et droneangrep.\n\nDet russiske nyhetsbyrået TASS siterer den lokale guvernøren som bekrefter angrepet. Lageret ligger i Vladimirregionen, rundt 190 kilometer øst for Moskva.\n\nUIkraina har den siste tiden angrepet flere nettgiganens lagre, og anklager dem for å håndtere deler til droner som brukes til å angripe Ukraina.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Et stort lager som tilhører den russiske netthandelgiganten Wildberries står i brann etter et droneangrep.\n\nDet russiske nyhetsbyrået TASS siterer den lokale guvernøren som bekrefter angrepet. Lageret ligger i Vladimirregionen, rundt 190 kilometer øst for Moskva.\n\nUIkraina har den siste tiden...",
-      "image": "https://images.unsplash.com/photo-1599847740927-599426b94713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU3NDIwNzV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/nytt-angrep-pa-wildberries-lager-i-russland-1.17977048",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-03T07:27:55.858Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2775,
+    "totalFetched": 2776,
     "totalPublished": 77,
-    "lastFetch": "2026-08-05T21:10:51.085Z",
+    "lastFetch": "2026-08-05T23:00:36.449Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
