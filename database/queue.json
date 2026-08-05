@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1785926197767.713,
+      "title": "Statsforvalteren i Innlandet stanser ulvejakt",
+      "slug": "statsforvalteren-i-innlandet-stanser-ulvejakt",
+      "content": "Statsforvalteren i Innlandet stanser ulvejakta i Stor-Elvdal, Rendalen og Ringebu kommuner etter at tre dyrevernorganisasjoner klaget på vedtaket om jakta.\n\nDet ble gitt tillatelse til ulvejakt etter at det ble sett ulv på rovviltkamera. Det er nå funnet en død sau som er tatt av ulv i området og prøver fra denne er sendt til analyse.\n\nStåle Sørensen, som er seniorrådgiver hos Statsforvalteren, sier det var en vanskelig avgjørelse å gi fellingstillatelse i utgangspunktet, men at de valgte å si ja fordi de fryktet at det raskt kunne bli en svært alvorlig skadesituasjon.\n\nNår de nå har prøver som kan avgjøre om det er en genetisk viktig ulv, mener han de kan vente noen dager til de får svar på prøvene.\n\nDe er trolig klare på fredag og først da kan blir det avgjort om jakta eventuelt kan bli tatt opp igjen, sier Sørensen.",
+      "excerpt": "Statsforvalteren i Innlandet stanser ulvejakta i Stor-Elvdal, Rendalen og Ringebu kommuner etter at tre dyrevernorganisasjoner klaget på vedtaket om jakta.\n\nDet ble gitt tillatelse til ulvejakt etter at det ble sett ulv på rovviltkamera. Det er nå funnet en død sau som er tatt av ulv i området og...",
+      "image": "https://images.unsplash.com/photo-1608669148396-42b31acf6120?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU5MjYxOTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/innlandet/statsforvalteren-i-innlandet-stanser-ulvejakt--1.17979440",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-05T10:36:37.767Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785926195726.5334,
+      "title": "Boligprisene sank med 2,6 prosent i juli",
+      "slug": "boligprisene-sank-med-26-prosent-i-juli",
+      "content": "Korrigert for sesongvariasjon sank boligprisene med 1,1 prosent.\n\nGjennomsnittsprisen for en bolig i Norge var 4,3 millioner kroner ved utgangen av juli.\n\n– Juli er vanligvis en svak måned for boligprisene, med lav aktivitet i markedet, sier administrerende direktør Henning Lauridsen i Eiendom Norge.\n\nMedan bustadmarknaden i Tromsø står i ein skvis, har kjøparar i hovudstaden mykje å velje i.\n\nBoligmarkedet\n\nBoligprisene i Norge måles av bransjeorganisasjonen Eiendom Norge, som presenterer boligprisstatistikk hver måned. Boligprisene er historisk høye flere steder i Norge og i landet generelt.",
+      "excerpt": "Korrigert for sesongvariasjon sank boligprisene med 1,1 prosent.\n\nGjennomsnittsprisen for en bolig i Norge var 4,3 millioner kroner ved utgangen av juli.\n\n– Juli er vanligvis en svak måned for boligprisene, med lav aktivitet i markedet, sier administrerende direktør Henning Lauridsen i Eiendom...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/boligprisene-sank-med-2_6-prosent-i-juli--1.17979530",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-05T10:36:35.726Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1785926193833.415,
+      "title": "Vedum til NRK: avgiftskuttene må forlenges",
+      "slug": "vedum-til-nrk-avgiftskuttene-m-forlenges",
+      "content": "– Norge er et langstrakt land. Folk og næringsliv trenger lave transportutgifter for å kunne bo og drive næring over hele Norge. Med den enorme usikkerheten som er i verdens energimarkeder mener Senterpartiet at avgiftskuttene må forlenges.\n\n– Vi er opptatt av å finne løsninger for folk og næringsliv. Derfor har vi hele tiden sagt at vi vil snakke med alle. Jeg tok initiativ ovenfor Ap i går, og derfor blir det møte i morgen.",
+      "excerpt": "– Norge er et langstrakt land. Folk og næringsliv trenger lave transportutgifter for å kunne bo og drive næring over hele Norge. Med den enorme usikkerheten som er i verdens energimarkeder mener Senterpartiet at avgiftskuttene må forlenges.\n\n– Vi er opptatt av å finne løsninger for folk og...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/vedum-til-nrk_-avgiftskuttene-ma-forlenges-1.17979583",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-05T10:36:33.833Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785911371961.996,
       "title": "Russland: Ukrainsk droneangrep mot netthandelgigant",
       "slug": "russland-ukrainsk-droneangrep-mot-netthandelgigant",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-02T19:12:15.097Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785690057004.9944,
-      "title": "Svensk påtalemakt mener fritidsbåt ble påkjørt av norsk skip",
-      "slug": "svensk-ptalemakt-mener-fritidsbt-ble-pkjrt-av-norsk-skip",
-      "content": "– Den foreløpige etterforskningen har avdekket at fritidsmotorbåten som sank i sjøulykken ble truffet, nesten påkjørt, av det norske lasteskipet «Misje Verde».\n\nDet heter det i en pressemelding fra den svenske påtalemyndigheten.\n\nBåten og det norske skipet var på vei i samme retning, men så ble båten forbikjørt og truffet hardt i akterenden, står det videre. Båten ble trukket under skipet og sank til 20 meters dyp.\n\nDet førte til at mor og datter på båten omkom, mens far og sønn ble sendt til sykehuset med alvorlige skader. Søndag er den russiske kapteinen på den norskeide båten varetektsfengslet i Sverige.\n\nEi mor og dotter omkom i skipsulukka utanfor Tjörn i Sverige tysdag. Påtalemakta slår fast at fritidsbåten blei køyrd på. Kapteinen nektar straffskuld.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "– Den foreløpige etterforskningen har avdekket at fritidsmotorbåten som sank i sjøulykken ble truffet, nesten påkjørt, av det norske lasteskipet «Misje Verde».\n\nDet heter det i en pressemelding fra den svenske påtalemyndigheten.\n\nBåten og det norske skipet var på vei i samme retning, men så ble...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/svensk-patalemakt-mener-fritidsbat-ble-pakjort-av-norsk-skip-1.17976760",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-02T17:00:57.004Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785690055308.5894,
-      "title": "Åtte politibetjenter blant 14 drepte i selvmordsangrep i Pakistan",
-      "slug": "tte-politibetjenter-blant-14-drepte-i-selvmordsangrep-i-paki",
-      "content": "Minst 14 mennesker – åtte av dem politibetjenter – er drept i et selvmordsangrep mot en gruppe fredsdemonstranter i Pakistan søndag.\n\nI tillegg er 22 skadde fraktet til sykehus, bekrefter lokalt politi.\n\nAngrepet skjedde i byen Kabal i provinsen Khyber Pakhtunkhwa. Demonstrantene hadde samlet seg ved en politistasjon for å protestere mot militante grupper da en selvmordsbomber gikk til angrep.\n\n– En selvmordsbomber prøvde å ta seg inn i en politistasjon i veikrysset, men ble stoppet av politiet ved hovedinngangen, sier politisjef Fida Hussain.\n\nPakistanske myndigheter kjemper mot økende opprør fra pakistanske Taliban. Ingen har så langt påtatt seg ansvar for selvmordsangrepet.",
-      "excerpt": "Minst 14 mennesker – åtte av dem politibetjenter – er drept i et selvmordsangrep mot en gruppe fredsdemonstranter i Pakistan søndag.\n\nI tillegg er 22 skadde fraktet til sykehus, bekrefter lokalt politi.\n\nAngrepet skjedde i byen Kabal i provinsen Khyber Pakhtunkhwa. Demonstrantene hadde samlet seg...",
-      "image": "https://images.unsplash.com/photo-1719064931432-fd1a24a3811b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU2OTAwNTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/atte-politibetjenter-blant-14-drepte-i-selvmordsangrep-i-pakistan-1.17976780",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-02T17:00:55.309Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785682998911.4636,
-      "title": "To døde og to skadde i helikopterkollisjon i Hellas",
-      "slug": "to-dde-og-to-skadde-i-helikopterkollisjon-i-hellas",
-      "content": "To helikoptre med til sammen fire personer om bord har kollidert under skogbrannslukking vest for den greske hovedstaden Aten.\n\nTo personer – en rumener og en greker – er døde og to er skadde, melder greske Proto Thema.\n\nDe skriver videre at det er opprettet kontakt med et medlem av besetningen på det ene helikopteret, som skal være skadet.\n\nUlykken skjedde ved Psatha i Attika-regionen rundt 16.30 lokal tid.\n\nDet greske brannvesenet opplyser at et redningssøk er i gang. Skadeomfang og årsak til ulykken er foreløpig ukjent.\n\nEn video publisert i greske medier viser at helikoptrene krasjer og eksploderer i luften. Det nederste helikopteret raser så mot bakken.\n\nHelikoptrene tok av fra militærflyplassen Elefsina i Aspropyrgos-regionen.\n\nSkogbranner i Sør-Europa\n\nDenne sommeren har det vært mange skogbranner i sørlige Europa. Titusenvis er evakuert i Spania og Frankrike.",
-      "excerpt": "To helikoptre med til sammen fire personer om bord har kollidert under skogbrannslukking vest for den greske hovedstaden Aten.\n\nTo personer – en rumener og en greker – er døde og to er skadde, melder greske Proto Thema.\n\nDe skriver videre at det er opprettet kontakt med et medlem av besetningen på...",
-      "image": "https://images.unsplash.com/photo-1651009276328-dbba8f5dc783?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU2ODI5OTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/to-dode-og-to-skadde-i-helikopterkollisjon-i-hellas-1.17976685",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-02T15:03:18.911Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2761,
+    "totalFetched": 2764,
     "totalPublished": 77,
-    "lastFetch": "2026-08-05T06:29:34.019Z",
+    "lastFetch": "2026-08-05T10:36:40.175Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
