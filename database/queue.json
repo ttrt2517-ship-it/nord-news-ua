@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786025585803.3167,
+      "title": "EU: Ingen migranter fra Ceuta har tatt seg videre til Europa",
+      "slug": "eu-ingen-migranter-fra-ceuta-har-tatt-seg-videre-til-europa",
+      "content": "– Vi forstår det slik fra spanske myndigheter at ulovlig innvandring til det spanske fastlandet og Europa så langt er forhindret, sa en talsperson under en pressekonferanse torsdag.\n\nSpanias innenriksminister Fernando Grande-Marlaska opplyste tirsdag at over 70.000 mennesker ble returnert til Marokko i løpet av helgen. Omkring 2500 er igjen i den spanske enklaven, hvorav over halvparten er barn.\n\nLokale myndigheter opplyser at minst 100 mennesker mistet livet.\n\nMigranter i Europa\n\nEuropeiske land krever strengere grensekontroll mot massemigrasjon. På få dager krysset over 70.000 marokkanere ulovlig inn i den spanske eksklaven Ceuta. De fleste er returnert, men minst 100 personer mistet livet.",
+      "excerpt": "– Vi forstår det slik fra spanske myndigheter at ulovlig innvandring til det spanske fastlandet og Europa så langt er forhindret, sa en talsperson under en pressekonferanse torsdag.\n\nSpanias innenriksminister Fernando Grande-Marlaska opplyste tirsdag at over 70.000 mennesker ble returnert til...",
+      "image": "https://images.unsplash.com/photo-1586711290195-8e73d2758c77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYwMjU1ODV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/eu_-ingen-migranter-fra-ceuta-har-tatt-seg-videre-til-europa-1.17981065",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-06T14:13:05.803Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786025584063.1082,
+      "title": "Prinsesse Ingrid Alexandra starter studiene i Oslo mandag",
+      "slug": "prinsesse-ingrid-alexandra-starter-studiene-i-oslo-mandag",
+      "content": "Prinsessen starter høstsemesteret på Blindern mandag 10. august. Det skriver slottet på sine hjemmesider.\n\nHun er på utveksling fra universitetet i Sydney og skal etter planen ta emner til sin bachelor i samfunnsfag.\n\nRektor Ragnhild Hennum, dekan ved Det samfunnsvitenskapelige fakultet Anne Julie Semb og leder av studentparlamentet Anna Bergum Furset skal ønske prinsessen velkommen.",
+      "excerpt": "Prinsessen starter høstsemesteret på Blindern mandag 10. august. Det skriver slottet på sine hjemmesider.\n\nHun er på utveksling fra universitetet i Sydney og skal etter planen ta emner til sin bachelor i samfunnsfag.\n\nRektor Ragnhild Hennum, dekan ved Det samfunnsvitenskapelige fakultet Anne Julie...",
+      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYwMjU1ODR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/prinsesse-ingrid-alexandra-starter-studiene-i-oslo-mandag-1.17981147",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-06T14:13:04.064Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786025582395.7913,
+      "title": "Russisk droneangrep rammet Redd Barnas kontor i Ukraina",
+      "slug": "russisk-droneangrep-rammet-redd-barnas-kontor-i-ukraina",
+      "content": "Redd Barnas kontor i byen Sumy nordøst i Ukraina ble natt til torsdag skadet i et droneangrep, opplyser organisasjonen.\n\nDette er det andre angrepet som rammer organisasjonens lokaler denne uken, men alle ansatte er gjort rede for.\n\n– Etter hvert som angrepene blir hyppigere, mer uforutsigbare og mer intense, øker risikoen for at barn blir drept, skadet eller traumatisert, sier Sonia Kush, Redd Barnas landdirektør i Ukraina.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Redd Barnas kontor i byen Sumy nordøst i Ukraina ble natt til torsdag skadet i et droneangrep, opplyser organisasjonen.\n\nDette er det andre angrepet som rammer organisasjonens lokaler denne uken, men alle ansatte er gjort rede for.\n\n– Etter hvert som angrepene blir hyppigere, mer uforutsigbare og...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/russisk-droneangrep-rammet-redd-barnas-kontor-i-ukraina-1.17981280",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-06T14:13:02.395Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786012850365.6409,
       "title": "Arbeidsulykke på Randaberg: Overkjørt av gressklipper",
       "slug": "arbeidsulykke-p-randaberg-overkjrt-av-gressklipper",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-03T17:52:16.852Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785779534988.1433,
-      "title": "Motorsyklist alvorlig skadet i ulykke i Ål",
-      "slug": "motorsyklist-alvorlig-skadet-i-ulykke-i-l",
-      "content": "Nødetatene rykket ut etter melding om en singelulykke der en motorsykkel kjørte av veien i Ål. Pasienten er fløyet til Ullevål sykehus med luftambulanse, og er alvorlig skadet.\n\nTrafikken går forbi ulykkesstedet, men bilister må regne med noe redusert fremkommelighet.\n\nDet ser ut til at motorsyklisten har mistet kontrollen over MC-en, blitt kastet av, og deretter blitt truffet av sykkelen igjen.\n\nPolitiet jobber videre på stedet med informasjonsinnhenting for å finne årsaken til ulykken.\n\nTrafikk i Buskerud\n\nNRK gir deg de siste meldingene om trafikksituasjonen i Buskerud.",
-      "excerpt": "Nødetatene rykket ut etter melding om en singelulykke der en motorsykkel kjørte av veien i Ål. Pasienten er fløyet til Ullevål sykehus med luftambulanse, og er alvorlig skadet.\n\nTrafikken går forbi ulykkesstedet, men bilister må regne med noe redusert fremkommelighet.\n\nDet ser ut til at...",
-      "image": "https://images.unsplash.com/photo-1672139663890-a6ba94f2fda7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU3Nzk1MzR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/buskerud/motorsyklist-alvorlig-skadet-i-ulykke-i-al---1.17977774",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-03T17:52:14.988Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785779533195.431,
-      "title": "Syv skal være drept da drone traff russisk strand",
-      "slug": "syv-skal-vre-drept-da-drone-traff-russisk-strand",
-      "content": "En drone skal ha drept syv personer på en badestrand ved Svartehavet i Russland, ifølge russiske myndigheter.\n\nYtterligere 40 personer ble skadet, ifølge guvernøren i regionen. Området er et av Russlands mest populære feriesteder.\n\nVideoer verifisert av BBC og Reuters viser øyeblikket en drone treffer Arkhipo-Osipovk-stranden. Det er uklart hvem som sendte dronen og hva som var målet. Det er heller ikke klart om dronen ble forsøkt skutt ned.\n\nGjennom helgen har Ukraina og Russland gjennomført omfattende angrep mot hverandre. Lørdag ble minst ni mennesker drept og flere skadet i russiske missilangrep mot Kyiv.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "En drone skal ha drept syv personer på en badestrand ved Svartehavet i Russland, ifølge russiske myndigheter.\n\nYtterligere 40 personer ble skadet, ifølge guvernøren i regionen. Området er et av Russlands mest populære feriesteder.\n\nVideoer verifisert av BBC og Reuters viser øyeblikket en drone...",
-      "image": "https://images.unsplash.com/photo-1765200135502-3adf6b78b7e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU3Nzk1MzN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/syv-skal-vaere-drept-da-drone-traff-russisk-strand-1.17977765",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-03T17:52:13.195Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785768093019.8271,
-      "title": "Skiprodusenten Madshus får ny eier",
-      "slug": "skiprodusenten-madshus-fr-ny-eier",
-      "content": "Tsjekkiske ConsilTech overtar eierskapet i av det norske skimerket Madshus.\n\nDet opplyser skiprodusenten i en pressemelding mandag.\n\n– Madshus er en av de mest anerkjente merkevarene innen langrenn, og målet vårt er å sikre videre suksess for merket. Med det nye eierskapet vil Madshus fortsatt ha eiere som virkelig kan ski og produksjon, sier ny administrerende direktør og deleier i Madshus, Torstein Myklebostad.\n\nDet tsjekkiske selskapet eier fra før skimerket Kästle.\n\nDen norske skiprodusenten har produsert ski i over 120 år, og produserer ski blant annet på deres fabrikk på Biri i Innlandet.\n\nEtter eit utfordrande år med produksjonsstans og permitteringar på Biri, får den 120 år gamle skiprodusenten Madshus nye eigarar.",
-      "excerpt": "Tsjekkiske ConsilTech overtar eierskapet i av det norske skimerket Madshus.\n\nDet opplyser skiprodusenten i en pressemelding mandag.\n\n– Madshus er en av de mest anerkjente merkevarene innen langrenn, og målet vårt er å sikre videre suksess for merket. Med det nye eierskapet vil Madshus fortsatt ha...",
-      "image": null,
-      "original_url": "https://www.nrk.no/innlandet/skiprodusenten-madshus-far-ny-eier-1.17977648",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-03T14:41:33.019Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2783,
+    "totalFetched": 2786,
     "totalPublished": 77,
-    "lastFetch": "2026-08-06T10:40:52.582Z",
+    "lastFetch": "2026-08-06T14:13:07.725Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
