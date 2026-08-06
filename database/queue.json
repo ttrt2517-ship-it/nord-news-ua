@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1785984101167.9983,
+      "title": "Mann pågrepet etter antatt drap i Sverige",
+      "slug": "mann-pgrepet-etter-antatt-drap-i-sverige",
+      "content": "En mann i 50-årene er pågrepet og mistenkt for drap på en kvinne i Stockholms skjærgård.\n\nTirsdag ble en kvinne i 50-årene funnet død i en bolig. Politiet mistenker at hun er blitt drept.\n\nDen pågrepne mannen er i 50-årene, og politiet leter ikke etter flere gjerningspersoner nå.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
+      "excerpt": "En mann i 50-årene er pågrepet og mistenkt for drap på en kvinne i Stockholms skjærgård.\n\nTirsdag ble en kvinne i 50-årene funnet død i en bolig. Politiet mistenker at hun er blitt drept.\n\nDen pågrepne mannen er i 50-årene, og politiet leter ikke etter flere gjerningspersoner nå.\n\nSverige\n\nUlf...",
+      "image": "https://images.unsplash.com/photo-1657788913371-1f2051447e55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU5ODQxMDF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-pagrepet-etter-antatt-drap-i-sverige-1.17980422",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-06T02:41:41.167Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1785970834686.9766,
       "title": "Infantino gir seg ikke – kom ut fra krisemøte med beklagelse og trussel",
       "slug": "infantino-gir-seg-ikke-kom-ut-fra-krisemte-med-beklagelse-og",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-03T11:24:45.403Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785742077733.5725,
-      "title": "Rekordlang studentboligkø",
-      "slug": "rekordlang-studentboligk",
-      "content": "Aldri før har så mange fått tilbud om studentbolig, viser nye tall fra Samskipnadsrådet. Samtidig er køen rekordlang, hvor 17.105 studenter fremdeles venter på bolig. Det er 921 flere enn i 2025.\n\nMed én uke igjen til studiestart er Norsk Studentorganisasjon bekymret for studentene som ennå ikke har fått studentbolig.\n\n– Dette viser hvorfor det er så viktig å satse på studentboliger. Det henger tett sammen med leiemarkedet. Når ca. 10 % av alle private leieboliger har forsvunnet fra markedet, så er det ikke rart at flere vender mot studentboliger. Og det understreker hvorfor det er så viktig at man bygger mer, sier leder Eva Franko Aas.\n\nDe lengste køene finner vi i de store byene. I Oslo er det nå over 5.500 unge som håper på tilbud om studentbolig.\n\nFlere studenter slipper å konkurrere på det private leiemarkedet i år.",
-      "excerpt": "Aldri før har så mange fått tilbud om studentbolig, viser nye tall fra Samskipnadsrådet. Samtidig er køen rekordlang, hvor 17.105 studenter fremdeles venter på bolig. Det er 921 flere enn i 2025.\n\nMed én uke igjen til studiestart er Norsk Studentorganisasjon bekymret for studentene som ennå ikke...",
-      "image": "https://images.unsplash.com/photo-1619907478843-317441713686?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU3NDIwNzd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/rekordlang-studentboligko-1.17977034",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-03T07:27:57.733Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2776,
+    "totalFetched": 2777,
     "totalPublished": 77,
-    "lastFetch": "2026-08-05T23:00:36.449Z",
+    "lastFetch": "2026-08-06T02:41:43.141Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
