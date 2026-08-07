@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786121702621.5413,
+      "title": "Syklist alvorlig skadet i ulykke i Nordre Follo",
+      "slug": "syklist-alvorlig-skadet-i-ulykke-i-nordre-follo",
+      "content": "En syklist skal ha store hodeskader etter en kollisjon med en bil på Gamle Mossevei i Nordre Follo, melder politiet.\n\n– Ulykke fremstår svært alvorlig, skriver oppdragsleder Henrik Larsen i Øst politidistrikt.\n\nNødetatene er på stedet. Ulykken har skjedd rett sør for krysset mellom Gamle Mossevei og Roald Amundsens vei. Veien er stengt i begge retninger.\n\nEn syklist skal ha store hodeskader etter en kollisjon med en bil på Gamle Mossevei.\n\nTrafikk i Stor-Oslo\n\nEr du ute på veiene, eller sitter på toget, bussen, trikken eller T-banen?\nHold deg oppdatert på trafikken i Oslo og Akershus.",
+      "excerpt": "En syklist skal ha store hodeskader etter en kollisjon med en bil på Gamle Mossevei i Nordre Follo, melder politiet.\n\n– Ulykke fremstår svært alvorlig, skriver oppdragsleder Henrik Larsen i Øst politidistrikt.\n\nNødetatene er på stedet. Ulykken har skjedd rett sør for krysset mellom Gamle Mossevei...",
+      "image": "https://images.unsplash.com/photo-1612261016540-1b6902b1348d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYxMjE3MDJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/-syklist-alvorlig-skadet-i-ulykke-i-nordre-follo-1.17982305",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-07T16:55:02.621Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786121700820.4185,
+      "title": "Frontkollisjon mellom lastebil og personbil i tunnel E16 i Vaksdal: – Evakuerer",
+      "slug": "frontkollisjon-mellom-lastebil-og-personbil-i-tunnel-e16-i-v",
+      "content": "Nødetatene rykker ut til en trafikkulykke på E16 i Trollkonetunnelen i Vaksdal.\n\nDet er meldt om en front-mot-front-ulykke mellom en lastebil og to personbiler inne i tunnelen.\n\nBrannvesenet melder om røykutvikling i tunnelen. Det foregår evakuering på stedet.\n\n– Det fremstår som kaotisk på stedet. Det er mye folk og biler i tunnelen, opplyser i Lars Petter Lovik i 110-sentralen til NRK.",
+      "excerpt": "Nødetatene rykker ut til en trafikkulykke på E16 i Trollkonetunnelen i Vaksdal.\n\nDet er meldt om en front-mot-front-ulykke mellom en lastebil og to personbiler inne i tunnelen.\n\nBrannvesenet melder om røykutvikling i tunnelen. Det foregår evakuering på stedet.\n\n– Det fremstår som kaotisk på stedet....",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestland/frontkollisjon-mellom-lastebil-og-personbil-i-tunnel-e16-i-vaksdal_-_-evakuerer-1.17982641",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-07T16:55:00.820Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786121699054.1567,
+      "title": "Stanser Trumps ballsal ved Det hvite hus",
+      "slug": "stanser-trumps-ballsal-ved-det-hvite-hus",
+      "content": "En føderal ankedomstol har beordret stans i byggingen av Donald Trumps nye ballsal ved Det hvite hus.\n\nDomstolen slo fast at prosjektet ikke kan fortsette uten godkjenning fra Kongressen.\n\nProsjektet ble kunngjort i juli 2025 og ble først estimert til å koste 200 millioner dollar. Trump sa da at private donorer og selskaper ville ta regningen. Siden har prislappen økt flere ganger.\n\nTrump-administrasjonen fastholder at prisen blir på rundt 400 millioner dollar. Men ifølge entreprenøren som leder arbeidet, Clark Construction, ligger det siste anslaget på 600 millioner dollar. Det tilsvarer rundt 5,7 milliarder kroner.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "En føderal ankedomstol har beordret stans i byggingen av Donald Trumps nye ballsal ved Det hvite hus.\n\nDomstolen slo fast at prosjektet ikke kan fortsette uten godkjenning fra Kongressen.\n\nProsjektet ble kunngjort i juli 2025 og ble først estimert til å koste 200 millioner dollar. Trump sa da at...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/stanser-trumps-ballsal-ved-det-hvite-hus-1.17982646",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-07T16:54:59.054Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786114423758.8188,
       "title": "Svakt arbeidsmarked i USA",
       "slug": "svakt-arbeidsmarked-i-usa",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-05T06:29:30.220Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785911368364.5422,
-      "title": "Ap inviterer SV, Sp, Rødt og MDG til møte om drivstoffsituasjonen",
-      "slug": "ap-inviterer-sv-sp-rdt-og-mdg-til-mte-om-drivstoffsituasjone",
-      "content": "Arbeiderpartiet vil torsdag møte SV, Sp, Rødt og MDG for å snakke om krigen i Midtøsten og situasjonen i energimarkedene.\n\nMøtet finner sted klokka 12 torsdag, opplyser Tuva Moflag (Ap), leder av finanskomiteen, til NTB. Hun omtaler møtet som en oppfølging av enigheten i revidert nasjonalbudsjett.\n\n– Jeg ser fram til å møte de andre avtalepartnerne for å følge opp dette punktet slik vi er enige om, skriver Moflag.\n\nI vår brøt Sp med de rødgrønne og gikk sammen med Høyre, Frp og KrF for å kutte drivstoffavgiftene. For seks uker siden inngikk Sp derimot en budsjettavtale med Ap, SV, Rødt og MDG der avgiftene etter planen skal øke igjen fra 1. september.\n\nHøye drivstoffpriser\n\nPå grunn av krigen i Iran, har drivstoffprisene skutt i været. Senterpartiet sikret flertall for hastebehandling av et Høyre-forslag om billigere bensin. Alle de andre rødgrønne partiene stemte imot.",
-      "excerpt": "Arbeiderpartiet vil torsdag møte SV, Sp, Rødt og MDG for å snakke om krigen i Midtøsten og situasjonen i energimarkedene.\n\nMøtet finner sted klokka 12 torsdag, opplyser Tuva Moflag (Ap), leder av finanskomiteen, til NTB. Hun omtaler møtet som en oppfølging av enigheten i revidert...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ap-inviterer-sv_-sp_-rodt-og-mdg-til-mote-om-drivstoffsituasjonen-1.17979262",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-05T06:29:28.364Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785897544171.8848,
-      "title": "Ordfører: – Brann i boligblokk etter luftangrep",
-      "slug": "ordfrer-brann-i-boligblokk-etter-luftangrep",
-      "content": "En boligblokk i Kyiv står i brann etter et russisk luftangrep på byen, ifølge Kyiv-ordfører Vitalij Klitsjko.\n\nBlokken skal ha 20 etasjer. Ordføreren sier årsaken til brannen trolig er et missilangrep, melder AFP.\n\nI et innlegg på meldingstjenesten Telegram litt senere natt til onsdag sier ordføreren at opplysningene om brannen i en boligblokk ikke er bekreftet.\n\nLitt før midnatt tirsdag kveld kom de første meldingene om at Ukraina ble utsatt for et russisk luftangrep med ballistiske missiler mot Kyiv.\n\nEksplosjoner er hørt i den ukrainske hovedstaden, melder flere medier.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "En boligblokk i Kyiv står i brann etter et russisk luftangrep på byen, ifølge Kyiv-ordfører Vitalij Klitsjko.\n\nBlokken skal ha 20 etasjer. Ordføreren sier årsaken til brannen trolig er et missilangrep, melder AFP.\n\nI et innlegg på meldingstjenesten Telegram litt senere natt til onsdag sier...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ordforer_-_-brann-i-boligblokk-etter-luftangrep-1.17979165",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-05T02:39:04.171Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785897542431.1755,
-      "title": "Ukraina: Én drept i russisk luftangrep mot Kyiv",
-      "slug": "ukraina-n-drept-i-russisk-luftangrep-mot-kyiv",
-      "content": "En person er drept i russiske luftangrep mot Kyiv natt til onsdag, ifølge byens militæradministrasjon, melder nyhetsbyrået Reuters.\n\nKyiv-ordfører Vitalij Klitsjko sier at folk kan være fanget under bygningsmasser i byen.\n\nDet var like før midnatt natt til onsdag norsk tid at de første meldingene kom om et russisk luftangrep mot Kyiv.\n\nAngrepet ble utført med ballistiske missiler, ifølge ordføreren i den ukrainske hovedstaden.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "En person er drept i russiske luftangrep mot Kyiv natt til onsdag, ifølge byens militæradministrasjon, melder nyhetsbyrået Reuters.\n\nKyiv-ordfører Vitalij Klitsjko sier at folk kan være fanget under bygningsmasser i byen.\n\nDet var like før midnatt natt til onsdag norsk tid at de første meldingene...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ukraina_-en-drept-i-russisk-luftangrep-mot-kyiv-1.17979174",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-05T02:39:02.431Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2806,
+    "totalFetched": 2809,
     "totalPublished": 77,
-    "lastFetch": "2026-08-07T14:53:45.593Z",
+    "lastFetch": "2026-08-07T16:55:04.590Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
