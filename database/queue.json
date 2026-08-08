@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786214332543.7937,
+      "title": "Gutt alvorlig skadet i sykkelulykke i Innlandet",
+      "slug": "gutt-alvorlig-skadet-i-sykkelulykke-i-innlandet",
+      "content": "En gutt i barneskolealder er alvorlig skadet etter å ha falt av en sykkel i Innlandet, melder politiet lørdag kveld.\n\nBrann og helse er på stedet, og politiet er på vei, opplyser operasjonsleder Bård Einar Hoft.",
+      "excerpt": "En gutt i barneskolealder er alvorlig skadet etter å ha falt av en sykkel i Innlandet, melder politiet lørdag kveld.\n\nBrann og helse er på stedet, og politiet er på vei, opplyser operasjonsleder Bård Einar Hoft.",
+      "image": "https://images.unsplash.com/photo-1655802521623-03ffe99c95bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYyMTQzMzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/gutt-alvorlig-skadet-i-sykkelulykke-i-innlandet-1.17983269",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-08T18:38:52.544Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786206915097.5269,
       "title": "Bulgaria om droneeksplosjonen: «Utbredt i det ukrainske militæret»",
       "slug": "bulgaria-om-droneeksplosjonen-utbredt-i-det-ukrainske-militr",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-06T14:13:02.395Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786012850365.6409,
-      "title": "Arbeidsulykke på Randaberg: Overkjørt av gressklipper",
-      "slug": "arbeidsulykke-p-randaberg-overkjrt-av-gressklipper",
-      "content": "Politiet er på Randaberg og etterforsker en arbeidsulykke hvor en kvinne i slutten av tenårene skal ha hatt et uhell med en gressklipper.\n\n– Hendelse skjedde i en bakke, og gressklipperen på rundt 300kg, har kjørt over føreren da denne falt av. Mistanke om brudd i nedre deler av kroppen. Fraktes til sykehus med ambulanse, opplyser operasjonsleder Steinar Knudsen.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
-      "excerpt": "Politiet er på Randaberg og etterforsker en arbeidsulykke hvor en kvinne i slutten av tenårene skal ha hatt et uhell med en gressklipper.\n\n– Hendelse skjedde i en bakke, og gressklipperen på rundt 300kg, har kjørt over føreren da denne falt av. Mistanke om brudd i nedre deler av kroppen. Fraktes...",
-      "image": null,
-      "original_url": "https://www.nrk.no/rogaland/arbeidsulykke-pa-randaberg_-overkjort-av-gressklipper-1.17980478",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-06T10:40:50.365Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2832,
+    "totalFetched": 2833,
     "totalPublished": 77,
-    "lastFetch": "2026-08-08T16:35:16.404Z",
+    "lastFetch": "2026-08-08T18:38:54.182Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
