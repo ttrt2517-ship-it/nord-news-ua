@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786221062028.146,
+      "title": "Gutt alvorlig skadet i sykkelulykke på Toten",
+      "slug": "gutt-alvorlig-skadet-i-sykkelulykke-p-toten",
+      "content": "En gutt i barneskolealder er alvorlig skadet etter å ha falt av en tråsykkel inne på et motorcrossenter på Toten, melder politiet lørdag kveld.\n\nGutten er fløyet med luftambulanse til Oslo for behandling. Foreldrene er varslet, opplyser operasjonsleder Bård Einar Hoft.\n\nEn gutt i barneskolealder er fløyet med luftambulanse til Oslo med alvorlige skader etter å ha falt av en sykkel lørdag kveld.",
+      "excerpt": "En gutt i barneskolealder er alvorlig skadet etter å ha falt av en tråsykkel inne på et motorcrossenter på Toten, melder politiet lørdag kveld.\n\nGutten er fløyet med luftambulanse til Oslo for behandling. Foreldrene er varslet, opplyser operasjonsleder Bård Einar Hoft.\n\nEn gutt i barneskolealder er...",
+      "image": "https://images.unsplash.com/photo-1608559435158-01b4196a98ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYyMjEwNjF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/gutt-alvorlig-skadet-i-sykkelulykke-pa-toten-1.17983269",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-08T20:31:02.028Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786221060247.452,
+      "title": "Fant savnet bærplukker i god behold",
+      "slug": "fant-savnet-brplukker-i-god-behold",
+      "content": "Mannen som var savnet i Lierne, er funnet i god behold. Han ble meldt savnet etter å ikke ha kommet hjem fra bærtur.\n\n– Han dro ut i ett-tida i dag, og så har han ikke kommet tilbake til 16.30, som var planen, sa operasjonsleder Svein Helgetun til NRK.\n\n– Vi satte i gang en redningsaksjon ganske umiddelbart, sa Helgetun.\n\nDet ble benyttet hundepatrulje og frivillige i søket, og redningshelikopter fra Ørlandet ble tilkalt.\n\nKlokken 21.55 meldte politiet at mannen har blitt funnet i god behold.\n\n– Han ble funnet av lokale som var ute og bistod i letingen, opplyser Helgetun.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "Mannen som var savnet i Lierne, er funnet i god behold. Han ble meldt savnet etter å ikke ha kommet hjem fra bærtur.\n\n– Han dro ut i ett-tida i dag, og så har han ikke kommet tilbake til 16.30, som var planen, sa operasjonsleder Svein Helgetun til NRK.\n\n– Vi satte i gang en redningsaksjon ganske...",
+      "image": null,
+      "original_url": "https://www.nrk.no/trondelag/fant-savnet-baerplukker-i-god-behold-1.17983314",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-08T20:31:00.247Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786221058587.2405,
+      "title": "Sverige: Barn omkom i traktorulykke",
+      "slug": "sverige-barn-omkom-i-traktorulykke",
+      "content": "– Barnet ble alvorlig skadet i hendelsen og fraktet til sykehus med luftambulanse, men døde av skadene, opplyser svensk politi.\n\nUlykken skal ha skjedd ved en gård i Svenljunga kommune i Västra Götaland, sørøst for Göteborg.\n\nHendelsesforløpet er fortsatt uklart. Politiet etterforsker saken og ingen er foreløpig mistenkt. Traktoren er tatt i beslag for tekniske undersøkelser.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
+      "excerpt": "– Barnet ble alvorlig skadet i hendelsen og fraktet til sykehus med luftambulanse, men døde av skadene, opplyser svensk politi.\n\nUlykken skal ha skjedd ved en gård i Svenljunga kommune i Västra Götaland, sørøst for Göteborg.\n\nHendelsesforløpet er fortsatt uklart. Politiet etterforsker saken og...",
+      "image": "https://images.unsplash.com/photo-1697397005294-06fa1eb03f40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYyMjEwNTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/sverige_-barn-omkom-i-traktorulykke-1.17983392",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-08T20:30:58.587Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786214332543.7937,
       "title": "Gutt alvorlig skadet i sykkelulykke i Innlandet",
       "slug": "gutt-alvorlig-skadet-i-sykkelulykke-i-innlandet",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-07T00:03:14.797Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786025585803.3167,
-      "title": "EU: Ingen migranter fra Ceuta har tatt seg videre til Europa",
-      "slug": "eu-ingen-migranter-fra-ceuta-har-tatt-seg-videre-til-europa",
-      "content": "– Vi forstår det slik fra spanske myndigheter at ulovlig innvandring til det spanske fastlandet og Europa så langt er forhindret, sa en talsperson under en pressekonferanse torsdag.\n\nSpanias innenriksminister Fernando Grande-Marlaska opplyste tirsdag at over 70.000 mennesker ble returnert til Marokko i løpet av helgen. Omkring 2500 er igjen i den spanske enklaven, hvorav over halvparten er barn.\n\nLokale myndigheter opplyser at minst 100 mennesker mistet livet.\n\nMigranter i Europa\n\nEuropeiske land krever strengere grensekontroll mot massemigrasjon. På få dager krysset over 70.000 marokkanere ulovlig inn i den spanske eksklaven Ceuta. De fleste er returnert, men minst 100 personer mistet livet.",
-      "excerpt": "– Vi forstår det slik fra spanske myndigheter at ulovlig innvandring til det spanske fastlandet og Europa så langt er forhindret, sa en talsperson under en pressekonferanse torsdag.\n\nSpanias innenriksminister Fernando Grande-Marlaska opplyste tirsdag at over 70.000 mennesker ble returnert til...",
-      "image": "https://images.unsplash.com/photo-1586711290195-8e73d2758c77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYwMjU1ODV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/eu_-ingen-migranter-fra-ceuta-har-tatt-seg-videre-til-europa-1.17981065",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-06T14:13:05.803Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786025584063.1082,
-      "title": "Prinsesse Ingrid Alexandra starter studiene i Oslo mandag",
-      "slug": "prinsesse-ingrid-alexandra-starter-studiene-i-oslo-mandag",
-      "content": "Prinsessen starter høstsemesteret på Blindern mandag 10. august. Det skriver slottet på sine hjemmesider.\n\nHun er på utveksling fra universitetet i Sydney og skal etter planen ta emner til sin bachelor i samfunnsfag.\n\nRektor Ragnhild Hennum, dekan ved Det samfunnsvitenskapelige fakultet Anne Julie Semb og leder av studentparlamentet Anna Bergum Furset skal ønske prinsessen velkommen.",
-      "excerpt": "Prinsessen starter høstsemesteret på Blindern mandag 10. august. Det skriver slottet på sine hjemmesider.\n\nHun er på utveksling fra universitetet i Sydney og skal etter planen ta emner til sin bachelor i samfunnsfag.\n\nRektor Ragnhild Hennum, dekan ved Det samfunnsvitenskapelige fakultet Anne Julie...",
-      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYwMjU1ODR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/prinsesse-ingrid-alexandra-starter-studiene-i-oslo-mandag-1.17981147",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-06T14:13:04.064Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786025582395.7913,
-      "title": "Russisk droneangrep rammet Redd Barnas kontor i Ukraina",
-      "slug": "russisk-droneangrep-rammet-redd-barnas-kontor-i-ukraina",
-      "content": "Redd Barnas kontor i byen Sumy nordøst i Ukraina ble natt til torsdag skadet i et droneangrep, opplyser organisasjonen.\n\nDette er det andre angrepet som rammer organisasjonens lokaler denne uken, men alle ansatte er gjort rede for.\n\n– Etter hvert som angrepene blir hyppigere, mer uforutsigbare og mer intense, øker risikoen for at barn blir drept, skadet eller traumatisert, sier Sonia Kush, Redd Barnas landdirektør i Ukraina.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Redd Barnas kontor i byen Sumy nordøst i Ukraina ble natt til torsdag skadet i et droneangrep, opplyser organisasjonen.\n\nDette er det andre angrepet som rammer organisasjonens lokaler denne uken, men alle ansatte er gjort rede for.\n\n– Etter hvert som angrepene blir hyppigere, mer uforutsigbare og...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russisk-droneangrep-rammet-redd-barnas-kontor-i-ukraina-1.17981280",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-06T14:13:02.395Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2833,
+    "totalFetched": 2836,
     "totalPublished": 77,
-    "lastFetch": "2026-08-08T18:38:54.182Z",
+    "lastFetch": "2026-08-08T20:31:03.813Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
