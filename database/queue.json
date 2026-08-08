@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786159630458.3662,
+      "title": "Båt synker på Nordmøre",
+      "slug": "bt-synker-p-nordmre",
+      "content": "En skjærgårdsjeep er i ferd med å synke etter å ha truffet en steinkai i Foldfjorden i Aure kommune i Møre og Romsdal.  Båten ligger cirka to meter fra kaien. Politiet jobber med å få personene i båten opp på land.   Både Hovedredningssentralen og politiet har sendt ressurser til stedet.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
+      "excerpt": "En skjærgårdsjeep er i ferd med å synke etter å ha truffet en steinkai i Foldfjorden i Aure kommune i Møre og Romsdal.  Båten ligger cirka to meter fra kaien. Politiet jobber med å få personene i båten opp på land.   Både Hovedredningssentralen og politiet har sendt ressurser til...",
+      "image": "https://images.unsplash.com/photo-1639687645096-fcf6eb82321b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYxNTk2MzB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/bat-synker-pa-nordmore-1.17982897",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-08T03:27:10.458Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786159628629.5793,
+      "title": "To fraktet til sykehus etter båtulykke på Nordmøre",
+      "slug": "to-fraktet-til-sykehus-etter-btulykke-p-nordmre",
+      "content": "To personer er fraktet til sykehus med helikopter etter en båtulykke i Foldfjorden i Aure kommune i Møre og Romsdal.\n\nUlykken skjedde da en skjærgårdsjeep begynte å synke etter at den traff en steinkai.\n\nPolitiet meldte om hendelsen litt etter klokken halv fire natt til lørdag.\n\nBåde Hovedredningssentralen og politiet sendte ressurser til stedet.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
+      "excerpt": "To personer er fraktet til sykehus med helikopter etter en båtulykke i Foldfjorden i Aure kommune i Møre og Romsdal.\n\nUlykken skjedde da en skjærgårdsjeep begynte å synke etter at den traff en steinkai.\n\nPolitiet meldte om hendelsen litt etter klokken halv fire natt til lørdag.\n\nBåde...",
+      "image": "https://images.unsplash.com/photo-1683797468338-5b6a0cf758f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYxNTk2Mjh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-fraktet-til-sykehus-etter-batulykke-pa-nordmore-1.17982889",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-08T03:27:08.629Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786159626878.4395,
+      "title": "Ukraina: Tre drept i angrep mot Kyiv-regionen",
+      "slug": "ukraina-tre-drept-i-angrep-mot-kyivregionen",
+      "content": "Tre mennesker er drept i russiske luftangrep mot Kyiv-regionen.\n\nDet sier den regionale militæradministrasjonens leder for Kyiv, Tymur Tkatsjenko, i et innlegg på meldingstjenesten Telegram.\n\nEn av de drepte skal være et barn. I tillegg ble tre såret i angrepene, sier Tkatsjenko.\n\nAngrepene skjedde i området Brovary, nordøst for hovedstaden Kyiv.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Tre mennesker er drept i russiske luftangrep mot Kyiv-regionen.\n\nDet sier den regionale militæradministrasjonens leder for Kyiv, Tymur Tkatsjenko, i et innlegg på meldingstjenesten Telegram.\n\nEn av de drepte skal være et barn. I tillegg ble tre såret i angrepene, sier Tkatsjenko.\n\nAngrepene skjedde...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukraina_-tre-drept-i-angrep-mot-kyiv-regionen-1.17982899",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-08T03:27:06.878Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786153510254.5366,
       "title": "FN bekymret for Jemen",
       "slug": "fn-bekymret-for-jemen",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-05T17:39:30.345Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1785951568472.9517,
-      "title": "Brann hos russisk netthandelgigant slukket",
-      "slug": "brann-hos-russisk-netthandelgigant-slukket",
-      "content": "Brannen i lagerbygningen til den russiske netthandelkjeden Wildberries i Tula-regionen er slukket.\n\nLageret begynte å brenne natt til onsdag etter det russiske myndigheter hevdet var et ukrainsk droneangrep.\n\nFlere andre av kjedens lagre har blitt angrepet den siste måneden.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Brannen i lagerbygningen til den russiske netthandelkjeden Wildberries i Tula-regionen er slukket.\n\nLageret begynte å brenne natt til onsdag etter det russiske myndigheter hevdet var et ukrainsk droneangrep.\n\nFlere andre av kjedens lagre har blitt angrepet den siste måneden.\n\nKrigen i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/brann-hos-russisk-netthandelgigant-slukket-1.17980133",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-05T17:39:28.472Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785951566702.0103,
-      "title": "Trumps helikopter skal ha kommet for nær passasjerfly",
-      "slug": "trumps-helikopter-skal-ha-kommet-for-nr-passasjerfly",
-      "content": "Amerikanke luftfartsmyndigheter (FAA) bekrefter en hendelse tirsdag som involverte Donald Trumps helikopter «Marine One» og et passasjerfly.\n\nIfølge FAA skal de to fartøyene i en kort periode ha flydd for nær hverandre.\n\nHelikopteret tok av fra plenen foran Det hvite hus tirsdag ettermiddag, mens flytrafikken ved Ronald Reagan-flyplassen 6 kilometer unna skal ha fortsatt i noen minutter, skriver CNN.\n\nFAA understreker at presidenten ikke skal ha vært i fare.\n\nI januar i fjor kolliderte et passasjerfly og et militærhelikopter nær flyplassen.\n\nI etterkant kom det fram at flygeledertårnet var underbemannet og at flyplassen tar i mot mer trafikk enn den er dimensjonert for.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Amerikanke luftfartsmyndigheter (FAA) bekrefter en hendelse tirsdag som involverte Donald Trumps helikopter «Marine One» og et passasjerfly.\n\nIfølge FAA skal de to fartøyene i en kort periode ha flydd for nær hverandre.\n\nHelikopteret tok av fra plenen foran Det hvite hus tirsdag ettermiddag, mens...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trumps-helikopter-skal-ha-kommet-for-naer-passasjerfly-1.17980137",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-05T17:39:26.702Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1785939104809.0095,
-      "title": "Inside ModUlf: What&#039;s changing in Norway&#039;s immigration process?",
-      "slug": "inside-modulf-what039s-changing-in-norway039s-immigration-pr",
-      "content": "Norway's immigration authorities have promised major improvements to the nation's migration infrastructure. But what changes can foreign residents expect in 2026? The Local spoke to Henrik Hansen, Product Lead at ModUlf, to learn more.\n\nIn a previous article, we explored the foundations of the ModUlf project, the Norwegian state’s multi-year initiative to modernise its entire immigration infrastructure and transform the application process for the international community in Norway.\n\nIt's a multi-agency collaboration, with the goal to “create user-friendly, efficient and secure services – for the benefit of applicants, employees and society,” as stated on their website.\n\nREAD MORE: Inside ModUlf: How Norway is rebuilding its immigration system\n\nFollowing our look at the vision behind this big update, The Local spoke with Henrik Hansen, Product Lead at ModUlf, to learn about the latest features live today and the upcoming updates.\n\nAlthough the full plan will continue until 2031 and is divided into four distinct and overlapping streams, some changes are already happening in police stations and online portals across Norway.\n\nThe government has started introducing digital upgrades to make applications easier and remove unnecessary steps for foreign residents.\n\nThe first phase focuses on residents already established in the country, covering citizenship (statsborgerskap), permanent residence (permanent opphold) and permit renewals (fornyelse).\n\nSince citizenship was chosen as the starting point of this major overhaul, several important changes have already been introduced across Norway.\n\nAfter identifying key pain points in the current pipeline, Hansen said that \"the most value is to do something with how to cover the needs of the police and how much more work the applicants need to do in preparation for the meeting with the police to deliver their application. So, the first thing we did was a new system for the police, which is not dependent on the old systems; and is more stable, more secure, and also quicker for them to actually do their job when they meet with someone face to face.\"\n\nThis new live platform has now been fully deployed across all 12 police districts in Norway, significantly cutting down the time needed for in-person identity checks. This means that many foreign residents currently applying for citizenship will already interact with this new digital system.\n\n\"We also wanted to remove one of the steps... I've always called it a bit silly, when we ask an applicant to print out documents and then bring them to the police, for then the police scan them back in. So now people can upload them digitally directly. One of the things we did was very quickly put up a digital upload service,\" Hansen explained, adding that they initially started with a small group to test it out.\n\nBy moving the process online so that the police can review everything digitally, they are slashing administrative delays and “simplifying a bit the process.”\n\nReleasing updates step-by-step is also a key component of the programme. “As part of our methodology, we try to get something in quickly to see if it gives value, and what we need to do, and then adjust it,” Hansen said.\n\nAnother major win for foreign residents is the introduction of real-time status tracking for their applications.\n\nHansen explained: \"We have delivered a status update where we could actually see, where is my case, and what's going to happen with it in citizen cases, but we are hoping to roll that out for others as well later, so there's a lot of small and big improvements that we're trying to make.\"\n\nHansen told The Local about the pilot project they are currently working on, aimed at removing the mandatory police appointment altogether for qualified applicants.\n\n\"We are working on a system to look at cases and determine who needs a meeting with the police and who does not,\" he revealed.\n\nThe team's core hypothesis is straightforward: since the state already holds extensive, verified records on long-term residents applying for citizenship, they can identify what measures are necessary. \"For example, if all we are missing is information about a Norwegian test, it is most likely not necessary to have a physical appointment with the police,\" explained Hansen.\n\n“If you think about it, for citizenship, we already know a lot about these people, so as long as we know who we have to deal with, there very rarely needs to be a meeting with the police. We can know if they have enough residency time, who they are, if they are working...\" he said.\n\nHansen said that although the integration is very complex, the team hopes to test the automated 'no-meeting' process with a small group after late-autumn. If it works for citizenship, they plan to expand it to permanent residency and earlier immigration steps.\n\nHowever, he is very clear that this process cannot be fully automated. \"We can't cut everything completely,  because we do need to make sure that we are safe, that we know who we're dealing with, that we know who has applied,\" he emphasised.\n\nWhat Hansen made clear is that all of this is currently being managed and implemented for the first phase, Staying in Norway. Afterward, these lessons learned, the systems that prove successful, and all the gathered feedback will be used to improve the next phases of the programme up to 2031.\n\nHansen explained that they are already starting the planning phase for part two of the master timeline (Coming to Norway).\n\nAs Hansen puts it: \"Now we're in the planning phase, and it will, by the plan, be that by September we will start developing on visa and family immigration.\"\n\nREAD ALSO: ‘We are aware’: Norway's UDI responds to criticism over residency permit delays\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Norway's immigration authorities have promised major improvements to the nation's migration infrastructure. But what changes can foreign residents expect in 2026? The Local spoke to Henrik Hansen, Product Lead at ModUlf, to learn more.\n\nIn a previous article, we explored the foundations of the...",
-      "image": null,
-      "original_url": "https://www.thelocal.no/20260805/inside-modulf-whats-changing-in-norways-immigration-process",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-08-05T14:11:44.809Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2817,
+    "totalFetched": 2820,
     "totalPublished": 77,
-    "lastFetch": "2026-08-08T01:45:11.859Z",
+    "lastFetch": "2026-08-08T03:27:11.978Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
