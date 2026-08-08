@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786228243146.1606,
+      "title": "Savnet bærplukker funnet i god behold",
+      "slug": "savnet-brplukker-funnet-i-god-behold",
+      "content": "Mannen som var savnet i Lierne, er funnet i god behold. Han ble meldt savnet etter å ikke ha kommet hjem fra bærtur.\n\n– Han dro ut i ett-tida i dag, og så har han ikke kommet tilbake til 16.30, som var planen, sa operasjonsleder Svein Helgetun til NRK.\n\n– Vi satte i gang en redningsaksjon ganske umiddelbart, sa Helgetun.\n\nDet ble benyttet hundepatrulje og frivillige i søket, og redningshelikopter fra Ørlandet ble tilkalt.\n\nKlokken 21.55 meldte politiet at mannen har blitt funnet i god behold.\n\n– Han ble funnet av lokale som var ute og bistod i letingen, opplyser Helgetun.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "Mannen som var savnet i Lierne, er funnet i god behold. Han ble meldt savnet etter å ikke ha kommet hjem fra bærtur.\n\n– Han dro ut i ett-tida i dag, og så har han ikke kommet tilbake til 16.30, som var planen, sa operasjonsleder Svein Helgetun til NRK.\n\n– Vi satte i gang en redningsaksjon ganske...",
+      "image": null,
+      "original_url": "https://www.nrk.no/trondelag/savnet-baerplukker-funnet-i-god-behold-1.17983314",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-08T22:30:43.147Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786221062028.146,
       "title": "Gutt alvorlig skadet i sykkelulykke på Toten",
       "slug": "gutt-alvorlig-skadet-i-sykkelulykke-p-toten",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-07T00:03:16.551Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786060994797.9314,
-      "title": "Militærkoalisjon: 11 såret i angrep i Saudi-Arabia",
-      "slug": "militrkoalisjon-11-sret-i-angrep-i-saudiarabia",
-      "content": "11 sivile ble såret i et det som beskrives som et angrep fra Houthi-militsen Saudi-Arabia, ifølge en saudiledet militærkoalisjon.\n\nAngrepet skal ha skjedd helt sør i Saudi-Arabia mot grensen til Jemen, i den saudiske grenseregionen Najran.\n\nReuters siterer en uttalelse fra en talsperson for militærkoalisjonen, som støtter Jemens internasjonalt anerkjente regjering.\n\nJemen\n\nDen blodige borgerkrigen i Jemen startet i 2014 da Houthi-geriljaen tok hovedstaden Sana. Det førte til at en koalisjon ledet av Saudi-Arabia intervenerte for å støtte den internasjonalt anerkjente regjeringen.\n\nSaudi-Arabia\n\nSaudi-Arabia er et dypt religiøst monarki i Midtøsten. Det islamske landet er ofte kritisert for at kvinner har svært innskrenkede rettigheter. Landet har enorme oljeforekomster.",
-      "excerpt": "11 sivile ble såret i et det som beskrives som et angrep fra Houthi-militsen Saudi-Arabia, ifølge en saudiledet militærkoalisjon.\n\nAngrepet skal ha skjedd helt sør i Saudi-Arabia mot grensen til Jemen, i den saudiske grenseregionen Najran.\n\nReuters siterer en uttalelse fra en talsperson for...",
-      "image": "https://images.unsplash.com/photo-1657788913437-6b20989ac831?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYwNjA5OTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/militaerkoalisjon_-11-saret-i-angrep-i-saudi-arabia-1.17981700",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-07T00:03:14.797Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2836,
+    "totalFetched": 2837,
     "totalPublished": 77,
-    "lastFetch": "2026-08-08T20:31:03.813Z",
+    "lastFetch": "2026-08-08T22:30:45.047Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
