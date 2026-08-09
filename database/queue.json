@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786240254056.9539,
+      "title": "AP: Bilbombe i Colombia",
+      "slug": "ap-bilbombe-i-colombia",
+      "content": "Det har vært en eksplosjon sørvest i Colombia, dagen etter at landets nye president ble tatt i ed, melder AP.\n\nEksplosjonen skjedde ved en bomstasjon ved tettstedet Mandiva langs en viktig veistrekning gjennom Colombia, skriver nyhetsbyrået.\n\nFredag ble Abelardo de la Espriella, som har fått full støtte fra Donald Trump, innsatt som ny president i Colombia.\n\nDe la Espriella vant presidentvalget mot venstresidens kandidat Iván Cepeda.",
+      "excerpt": "Det har vært en eksplosjon sørvest i Colombia, dagen etter at landets nye president ble tatt i ed, melder AP.\n\nEksplosjonen skjedde ved en bomstasjon ved tettstedet Mandiva langs en viktig veistrekning gjennom Colombia, skriver nyhetsbyrået.\n\nFredag ble Abelardo de la Espriella, som har fått full...",
+      "image": "https://images.unsplash.com/photo-1659424765812-c2932538a99a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYyNDAyNTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ap_-bilbombe-i-colombia-1.17983459",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-09T01:50:54.057Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786240252449.9778,
+      "title": "Flere skudd gjennom leilighetsdør i Sverige",
+      "slug": "flere-skudd-gjennom-leilighetsdr-i-sverige",
+      "content": "En person har avfyrt flere skudd gjennom en dør til en leilighet nær Stockholm, men ingen er skadet, sier politiet.\n\nSkytingen skjedde i Trångsund, som ligger like sør for Stockholm, natt til søndag.\n\nFlere personer var i leiligheten som ble beskutt. Ingen personer skal ha blitt skadet, uttaler politiet.\n\nLeiligheten ligger i en av de øvre etasjene i en boligblokk.\n\nNatt til søndag var åstedet avsperret, og politiet jaktet på gjerningspersonen.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
+      "excerpt": "En person har avfyrt flere skudd gjennom en dør til en leilighet nær Stockholm, men ingen er skadet, sier politiet.\n\nSkytingen skjedde i Trångsund, som ligger like sør for Stockholm, natt til søndag.\n\nFlere personer var i leiligheten som ble beskutt. Ingen personer skal ha blitt skadet, uttaler...",
+      "image": "https://images.unsplash.com/photo-1698171474543-00caa2d153d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYyNDAyNTJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flere-skudd-gjennom-leilighetsdor-i-sverige-1.17983479",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-09T01:50:52.449Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786240250752.7878,
+      "title": "Snart kroppskamera for alle ICE-agenter",
+      "slug": "snart-kroppskamera-for-alle-iceagenter",
+      "content": "I USA skal alle i det føderale innvandringspolitiet (ICE) snart få egne kameraer, festet til uniformen.\n\nDet sier sjefen for ICE, David Venturella, melder nyhetsbyrået Reuters.\n\nUtrullingen av slike kroppskameraer skal skje i løpet av august måned.\n\nICE fikk krass kritikk etter at to amerikanske statsborgere ble skutt og drept av ICE-agenter i januar.\n\nSenere sa daværende sikkerhetsminister i USA Kristi Noem at alle ICE-agentene skulle få kroppskameraer, når det ble midler tilgjengelig.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "I USA skal alle i det føderale innvandringspolitiet (ICE) snart få egne kameraer, festet til uniformen.\n\nDet sier sjefen for ICE, David Venturella, melder nyhetsbyrået Reuters.\n\nUtrullingen av slike kroppskameraer skal skje i løpet av august måned.\n\nICE fikk krass kritikk etter at to amerikanske...",
+      "image": "https://images.unsplash.com/photo-1657788913371-1f2051447e55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYyNDAyNTB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/snart-kroppskamera-for-alle-ice-agenter-1.17983478",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-09T01:50:50.752Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786228243146.1606,
       "title": "Savnet bærplukker funnet i god behold",
       "slug": "savnet-brplukker-funnet-i-god-behold",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-07T04:26:42.628Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786076801042.2827,
-      "title": "Reuters: Flere såret i skoleskyting i Thailand",
-      "slug": "reuters-flere-sret-i-skoleskyting-i-thailand",
-      "content": "Flere elever er såret i en skoleskyting i Thailand, melder nyhetsbyrået Reuters.\n\nSkolen ligger nord for Bangkok, i området Bang ​Kruai i provinsen Nonthaburi.\n\nIfølge den lokale kringkasteren Thai PBS er 10–15 personer såret, melder Reuters.",
-      "excerpt": "Flere elever er såret i en skoleskyting i Thailand, melder nyhetsbyrået Reuters.\n\nSkolen ligger nord for Bangkok, i området Bang ​Kruai i provinsen Nonthaburi.\n\nIfølge den lokale kringkasteren Thai PBS er 10–15 personer såret, melder Reuters.",
-      "image": "https://images.unsplash.com/photo-1693467084173-2071521fda73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYwNzY4MDB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/reuters_-flere-saret-i-skoleskyting-i-thailand-1.17981759",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-07T04:26:41.042Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786060998277.5217,
-      "title": "FN-sjef fordømmer Russland og Ukraina for sivile dødsfall",
-      "slug": "fnsjef-fordmmer-russland-og-ukraina-for-sivile-ddsfall",
-      "content": "FNs generalsekretær Antonio Guterres fordømmer både russiske og ukrainske angrep som har ført til drap på sivile på begge sider av grensen.\n\n– Angrep mot sivile og sivil infrastruktur er et klart brudd på internasjonal humanitærrett og må stanse umiddelbart, uttaler han.\n\nGeneralsekretæren nevner også sin bekymring over den økende risikoen for skipsfarten i Svartehavet og Azovhavet, og de mulige konsekvensene for den globale matsikkerheten.",
-      "excerpt": "FNs generalsekretær Antonio Guterres fordømmer både russiske og ukrainske angrep som har ført til drap på sivile på begge sider av grensen.\n\n– Angrep mot sivile og sivil infrastruktur er et klart brudd på internasjonal humanitærrett og må stanse umiddelbart, uttaler han.\n\nGeneralsekretæren nevner...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/fn-sjef-fordommer-russland-og-ukraina-for-sivile-dodsfall-1.17981666",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-07T00:03:18.277Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786060996551.2063,
-      "title": "Riksmekleren: Partene i SAS fortsatt i samtaler",
-      "slug": "riksmekleren-partene-i-sas-fortsatt-i-samtaler",
-      "content": "Partene i SAS-samtalene sitter fortsatt sammen hos Riksmekleren.\n\nDet bekrefter riksmekler Mats Ruland til NRK rundt klokken 00.15 natt til fredag.\n\nSamtalene mellom Fellesforbundet, Parat og NHO Luftfart startet torsdag klokken 10.\n\nPartene diskuterer lønns- og arbeidsbetingelser for kabinansatte i SAS.\n\nLørdag kan det bli streik hos SAS dersom samtalene ikke fører fram.\n\nDe nye samtalene skjer etter at et flertall av medlemmene i fagforeningen stemte nei til en tidligere fremforhandlet avtale fra tidligere i sommer, i en såkalt uravstemning.",
-      "excerpt": "Partene i SAS-samtalene sitter fortsatt sammen hos Riksmekleren.\n\nDet bekrefter riksmekler Mats Ruland til NRK rundt klokken 00.15 natt til fredag.\n\nSamtalene mellom Fellesforbundet, Parat og NHO Luftfart startet torsdag klokken 10.\n\nPartene diskuterer lønns- og arbeidsbetingelser for kabinansatte...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/riksmekleren_-partene-i-sas-fortsatt-i-samtaler-1.17981698",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-07T00:03:16.551Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2837,
+    "totalFetched": 2840,
     "totalPublished": 77,
-    "lastFetch": "2026-08-08T22:30:45.047Z",
+    "lastFetch": "2026-08-09T01:50:55.807Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
