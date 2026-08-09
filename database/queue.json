@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786258700680.247,
+      "title": "Mann sendt til sykehus etter voldshendelse i Elverum",
+      "slug": "mann-sendt-til-sykehus-etter-voldshendelse-i-elverum",
+      "content": "Natt til søndag ble en mann sendt til sykehus etter å ha blitt slått og sparket i Elverum sentrum.\n\n– Det ble opplyst at de mistenkte skal være 2–3 menn, skriver operasjonsleder Aleksander Steinslien i Innlandet politidistrikt på politiloggen.\n\nDe har gjort undersøkelser på stedet, og ønsker tips dersom noen kan ha sett noe.\n\nPolitiet kjenner identiteten til mulige mistenkte personer, men ønsker også tips fra publikum.",
+      "excerpt": "Natt til søndag ble en mann sendt til sykehus etter å ha blitt slått og sparket i Elverum sentrum.\n\n– Det ble opplyst at de mistenkte skal være 2–3 menn, skriver operasjonsleder Aleksander Steinslien i Innlandet politidistrikt på politiloggen.\n\nDe har gjort undersøkelser på stedet, og ønsker tips...",
+      "image": "https://images.unsplash.com/photo-1603482360662-38e34391247c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYyNTg3MDB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-sendt-til-sykehus-etter-voldshendelse-i-elverum-1.17983490",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-09T06:58:20.680Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786247043977.6729,
       "title": "Brann ved saudiarabisk raffinerianlegg",
       "slug": "brann-ved-saudiarabisk-raffinerianlegg",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-07T07:17:49.924Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786087068247.0002,
-      "title": "Fredrik Solvang starter podkast – skal hete «Duellen»",
-      "slug": "fredrik-solvang-starter-podkast-skal-hete-duellen",
-      "content": "Etter mange år som programleder for NRKs Debatten lanserer Fredrik Solvang egen podkast.\n\nPodkasten, som får navnet «Duellen», vil ta utgangspunkt i spørsmålene som preger Norge i dag, og menneskene som former samfunnsdebatten, heter det i en pressemelding fra Podimo.\n\n– Etter mange år med direktesendt TV har jeg lyst til å utfordre meg selv i et nytt format. Podkast gir rom for andre typer samtaler og en annen dynamikk enn TV, og det var en mulighet jeg hadde lyst til å utforske, sier Solvang.\n\nPodkasten har premiere på podkast- og lydbokplattformen Podimo til høsten. Mye av plattformens innhold krever betalt abonnement.\n\nSolvang kunngjorde i fjor at han ga seg som programleder for Debatten i NRK. Politisk journalist Steinar Suvatne tar over denne høsten.",
-      "excerpt": "Etter mange år som programleder for NRKs Debatten lanserer Fredrik Solvang egen podkast.\n\nPodkasten, som får navnet «Duellen», vil ta utgangspunkt i spørsmålene som preger Norge i dag, og menneskene som former samfunnsdebatten, heter det i en pressemelding fra Podimo.\n\n– Etter mange år med...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/fredrik-solvang-starter-podkast-_-skal-hete-_duellen_-1.17981935",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-07T07:17:48.248Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2842,
+    "totalFetched": 2843,
     "totalPublished": 77,
-    "lastFetch": "2026-08-09T05:05:59.514Z",
+    "lastFetch": "2026-08-09T06:58:22.228Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
