@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786271755949.122,
+      "title": "Zelenskyj: Odesas havn skadet i russiske angrep",
+      "slug": "zelenskyj-odesas-havn-skadet-i-russiske-angrep",
+      "content": "Havnebyen Odesa i Ukraina ble truffet av russiske angrep natt til søndag. Åtte personer ble såret.\n\n– Russerne fører krig mot verdens matsikkerhet, sier Ukrainas president Volodymyr Zelenskyj om nattens angrep.\n\nHavnen i Odesa er hovedpulsåren for Ukrainas landbrukseksport.\n\nUkraina er en av verdens største eksportører av korn, og landbrukssektoren sto for mer enn halvparten av landets eksportinntekter i fjor. Odesa håndterer vanligvis rundt 90 prosent av Ukrainas kornforsendelser, ifølge Bloomberg.\n\nDe siste sesongene har Ukraina stått for omtrent 6 prosent av verdens hveteeksport og 11 prosent av den globale kornproduksjonen.\n\nLangvarige forstyrrelser av landets eksport via Svartehavet utgjør en stor risiko for importavhengige land i Afrika og Asia.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Havnebyen Odesa i Ukraina ble truffet av russiske angrep natt til søndag. Åtte personer ble såret.\n\n– Russerne fører krig mot verdens matsikkerhet, sier Ukrainas president Volodymyr Zelenskyj om nattens angrep.\n\nHavnen i Odesa er hovedpulsåren for Ukrainas landbrukseksport.\n\nUkraina er en av...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/zelenskyj_-odesas-havn-skadet-i-russiske-angrep-1.17983579",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-09T10:35:55.949Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786265047927.8835,
       "title": "Siktet for ransforsøk i Ullensaker – fengslet i fire uker",
       "slug": "siktet-for-ransforsk-i-ullensaker-fengslet-i-fire-uker",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-07T07:17:56.327Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786087071660.204,
-      "title": "Over 4000 ebolasmitta i DR Kongo",
-      "slug": "over-4000-ebolasmitta-i-dr-kongo",
-      "content": "Talet på smitta av ebola passerte fredag 4000 for første gong under dette utbrotet, viser offisielle tal frå styresmaktene, melder Reuters.\n\nI alt er det registrert 4053 stadfesta smittetilfelle. Så langt har 1850 menneske døydd etter at dei blei smitta av viruset, opplyser dei kongolesiske helsestyresmaktene.\n\nDR Kongo\n\nDen demokratiske republikken Kongo (også kalt Kongo-Kinshasa) ligger i Sentral-Afrika og grenser til SAR og Sør-Sudan i nord, Uganda, Rwanda, Burundi og Tanzania i øst, Zambia og Angola i sør og Kongo-Brazzaville i vest.\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og Liberia. Etter at det store utbruddet var over, er det registrert flere sporadiske tilfeller av smitte.",
-      "excerpt": "Talet på smitta av ebola passerte fredag 4000 for første gong under dette utbrotet, viser offisielle tal frå styresmaktene, melder Reuters.\n\nI alt er det registrert 4053 stadfesta smittetilfelle. Så langt har 1850 menneske døydd etter at dei blei smitta av viruset, opplyser dei kongolesiske...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/over-4000-ebolasmitta-i-dr-kongo-1.17981859",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-07T07:17:51.660Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2844,
+    "totalFetched": 2845,
     "totalPublished": 77,
-    "lastFetch": "2026-08-09T08:44:09.620Z",
+    "lastFetch": "2026-08-09T10:35:57.848Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
