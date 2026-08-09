@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786265047927.8835,
+      "title": "Siktet for ransforsøk i Ullensaker – fengslet i fire uker",
+      "slug": "siktet-for-ransforsk-i-ullensaker-fengslet-i-fire-uker",
+      "content": "En mann i begynnelsen av 20-årene ble lørdag varetektsfengslet i fire uker, siktet for flere lovbrudd, blant annet et ransforsøk.\n\n– Det er en siktelse som gjelder forsøk på ran, et forhold som er begått i Ullensaker på fredag. I tillegg så er det trusler mot politiet samme dag, sier politiadvokat Julie Dahlsveen til NRK.\n\nMannen skal ha forsøkt å rane til seg en bil med kniv. Han er også siktet for å ha båret kniv og murstein tidligere samme dag.\n\nHan har også flere eldre saker registrert på seg hos Innlandet politidistrikt, sier Dahlsveen.\n\nI kjennelsen fra Hedmarken og Østerdal tingrett kommer det frem at retten deler påtalemyndighetens vurdering om at det er en fare for gjentakelse, og viser til mannens egne uttalelser og hvordan en fornærmet opplevde siktede.\n\n– Retten viser til at siktedes ønske om å være på frifot må vike av hensyn til samfunnsvernet, står det i kjennelsen.",
+      "excerpt": "En mann i begynnelsen av 20-årene ble lørdag varetektsfengslet i fire uker, siktet for flere lovbrudd, blant annet et ransforsøk.\n\n– Det er en siktelse som gjelder forsøk på ran, et forhold som er begått i Ullensaker på fredag. I tillegg så er det trusler mot politiet samme dag, sier politiadvokat...",
+      "image": "https://images.unsplash.com/photo-1622795969840-9a906fe5a9b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYyNjUwNDd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/innlandet/siktet-for-ransforsok-i-ullensaker-_-fengslet-i-fire-uker-1.17983549",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-09T08:44:07.927Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786258700680.247,
       "title": "Mann sendt til sykehus etter voldshendelse i Elverum",
       "slug": "mann-sendt-til-sykehus-etter-voldshendelse-i-elverum",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-07T07:17:51.660Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786087069924.0671,
-      "title": "Fylkesordfører går av",
-      "slug": "fylkesordfrer-gr-av",
-      "content": "Sven Tore Løkslid søker fritak fra vervet som fylkesordfører i Telemark. Det bekrefter Odin Adelsten Aunan Bohmann, leder i Telemark Arbeiderparti til NRK.\n\nBakgrunnen er en personlig relasjon med en partikollega, og manglende åpenhet om dette.\n\n– Telemark Arbeiderparti har, etter grundig dialog med Sven Tore, kommet frem til at dette er riktig, opplyser Bohmann.\n\nBakgrunnen er manglende åpenhet om en personlig relasjon som har reist spørsmål om rolleforståelse og tillit, sier han.\n\n– Dette er en alvorlig sak som berører flere mennesker. Nå skal vi bidra til en ryddig prosess videre, sier Bohman.\n\n– Terje Riis Johansen trer inn som fylkesordfører. Hvem som eventuelt trer inn som fylkesvaraordfører, må avklares gjennom de formelle prosessene i partiet.  Sven Tore Løkslid har ikke besvart NRKs hendvendelser.",
-      "excerpt": "Sven Tore Løkslid søker fritak fra vervet som fylkesordfører i Telemark. Det bekrefter Odin Adelsten Aunan Bohmann, leder i Telemark Arbeiderparti til NRK.\n\nBakgrunnen er en personlig relasjon med en partikollega, og manglende åpenhet om dette.\n\n– Telemark Arbeiderparti har, etter grundig dialog...",
-      "image": null,
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/fylkesordforer-gar-av-1.17981933",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-07T07:17:49.924Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2843,
+    "totalFetched": 2844,
     "totalPublished": 77,
-    "lastFetch": "2026-08-09T06:58:22.228Z",
+    "lastFetch": "2026-08-09T08:44:09.620Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
