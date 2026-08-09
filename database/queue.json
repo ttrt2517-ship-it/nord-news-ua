@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786307637282.6921,
+      "title": "Redningsaksjon i Aurland – skadet turgåer flys til sykehus",
+      "slug": "redningsaksjon-i-aurland-skadet-turger-flys-til-sykehus",
+      "content": "Det er i gangsatt en redningsaksjon i på Skogafjell i Aurland etter melding om en skadd turgåer.\n\n– En person har sklidd og mulig skadet en fot, opplyser operasjonsleder Terje Magnussen i Vest politidistrikt.\n\nLuftambulanse er også på vei for å forsøke å hente ut den skadde personen.\n\nKlokken 20.15 opplyser politiet at luftambualsen har kommet frem og flyr den skadde turgåeren ned fra fjellet.",
+      "excerpt": "Det er i gangsatt en redningsaksjon i på Skogafjell i Aurland etter melding om en skadd turgåer.\n\n– En person har sklidd og mulig skadet en fot, opplyser operasjonsleder Terje Magnussen i Vest politidistrikt.\n\nLuftambulanse er også på vei for å forsøke å hente ut den skadde personen.\n\nKlokken 20.15...",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestland/redningsaksjon-i-aurland-_-skadet-turgaer-flys-til-sykehus-1.17983953",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-09T20:33:57.282Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786307635425.0435,
+      "title": "Stort jordras i Jølster – raste ned mot vannet",
+      "slug": "stort-jordras-i-jlster-raste-ned-mot-vannet",
+      "content": "Jordmassene løsnet fra fjellet Orkja og beveget seg ned fjellet mot Jølstravannet.\n\nBrannvesenet har vært på stedet og gjort vurderinger:\n\n– Jordmassene traff et dyrkningsområde, og har ikke gjort fare på verken boliger eller vei, forteller utrykningsleder Arve Dvergsdal til NRK.\n\n– Vi hørte og så raset med egne øyne, men på grunn av skodda og regnet var det vanskelig å lokalisere med det samme, sier hun til NRK.",
+      "excerpt": "Jordmassene løsnet fra fjellet Orkja og beveget seg ned fjellet mot Jølstravannet.\n\nBrannvesenet har vært på stedet og gjort vurderinger:\n\n– Jordmassene traff et dyrkningsområde, og har ikke gjort fare på verken boliger eller vei, forteller utrykningsleder Arve Dvergsdal til NRK.\n\n– Vi hørte og så...",
+      "image": "https://images.unsplash.com/photo-1697650041996-46f2ab2e415f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYzMDc2MzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestland/stort-jordras-i-jolster-_-raste-ned-mot-vannet-1.17984025",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-09T20:33:55.425Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786307633567.9902,
+      "title": "Rekordmange dager med 30 grader i Storbritannia",
+      "slug": "rekordmange-dager-med-30-grader-i-storbritannia",
+      "content": "Landsbyen Frittenden i Kent målte 30,6 grader søndag, og bringer det totale antallet 30-gradersdager i 2026 til 35, skriver Sky News.\n\nDermed er den gamle rekorden fra 1995 på 34 dager slått.\n\nMeteorologene venter en ny hetebølge i neste uke, med en topp på 36 grader i deler av East Anglia og sørøst i England innen torsdag.\n\nDet britiske helsevesenet (UKHSA) har utstedt gult farevarsel for varmerelaterte helseproblemer for store deler av landet.\n\nI sommer har England hatt to rekordbrytende hetebølger i mai og juni, som førte til mer enn 2800 flere dødsfall enn normalt. Juli var den tørreste i England og Wales siden registreringene begynte, og halvparten av England og hele Wales er rammet av tørke.\n\nHetebølge og varmerekorder\n\nVi følger hetebølge og varmerekorder direkte.\nEr du et sted med hetebølge? Ta kontakt med NRK her.",
+      "excerpt": "Landsbyen Frittenden i Kent målte 30,6 grader søndag, og bringer det totale antallet 30-gradersdager i 2026 til 35, skriver Sky News.\n\nDermed er den gamle rekorden fra 1995 på 34 dager slått.\n\nMeteorologene venter en ny hetebølge i neste uke, med en topp på 36 grader i deler av East Anglia og...",
+      "image": "https://images.unsplash.com/photo-1750261346363-02105b564e45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYzMDc2MzN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/rekordmange-dager-med-30-grader-i-storbritannia-1.17983958",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-09T20:33:53.567Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786293400305.7446,
       "title": "Væpnet politiaksjon i Bergen: Mann til sykehus etter voldshendelse",
       "slug": "vpnet-politiaksjon-i-bergen-mann-til-sykehus-etter-voldshend",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-07T14:53:42.157Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786108003819.5215,
-      "title": "Vedum: Uklokt av Høgre",
-      "slug": "vedum-uklokt-av-hgre",
-      "content": "Sp-leiar Trygve Slagsvold Vedum seier til NRK at det var uklokt av Høgre å snu i saka om kutt i drivstoffavgiftene.\n\n– Det er uklokt når ein veit kor vanskeleg det er for mange småverksemder. Eg veit det har vore spenningar i Høgre, men at dei no konkluderer med at det er meir roleg, og seier verda er tilbake til normalen, er ikkje rett.\n\nHøgre sa torsdag kveld at det ikkje er grunnlag for å halde fram kuttet i drivstoffavgiftene fordi situasjonen ikkje lenger er ekstraordinær.\n\nFredag skulle dei raudgrøne partia på Stortinget møtast for drøftingar, men dette blei avlyst etter kuvendinga frå Høgre.\n\n– Høgre avlyste dette i praksis i går då dei sikra fleirtal med Arbeidarpartiet og MDG for å auke avgiftene frå 1. september.\n\nHøye drivstoffpriser\n\nPå grunn av krigen i Iran, har drivstoffprisene skutt i været. Senterpartiet sikret flertall for hastebehandling av et Høyre-forslag om billigere bensin. Alle de andre rødgrønne partiene stemte imot.\n\nSenterpartiet\n\nSenterpartiet ble stiftet i 1920 under navnet Bondepartiet. Trygve Slagsvold Vedum er partiets leder. Senterpartiet fikk 5,6 prosent i stortingsvalget, en nedgang på 7,9 prosentpoeng.",
-      "excerpt": "Sp-leiar Trygve Slagsvold Vedum seier til NRK at det var uklokt av Høgre å snu i saka om kutt i drivstoffavgiftene.\n\n– Det er uklokt når ein veit kor vanskeleg det er for mange småverksemder. Eg veit det har vore spenningar i Høgre, men at dei no konkluderer med at det er meir roleg, og seier verda...",
-      "image": "https://images.unsplash.com/photo-1750261346259-294f7c513476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYxMDgwMDN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/vedum_-uklokt-av-hogre-1.17982262",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-07T13:06:43.819Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786108002134.1892,
-      "title": "Spania truer Italia med mottiltak hvis ikke Schengen-avtalen gjeninnføres",
-      "slug": "spania-truer-italia-med-mottiltak-hvis-ikke-schengenavtalen-",
-      "content": "Spania truer med å innføre mottiltak mot reisende fra Italia dersom ikke den italienske regjering stanser grensekontrollene innen søndag.\n\nItalia suspenderte Schengen-avtalen med Spania i en måned fra 31. juli. Det skjedde etter at om lag 70.000 migranter tok seg inn i den spanske eksklaven Ceuta fra Marokko i forrige uke.\n\nBorgere fra Spania og resten av EU rammes ikke av den italienske grensekontrollen; det gjelder kun reisende utenfor EU som ankommer Italia fra Spania med fly eller båt.\n\nSpania kaller Italias tiltak for urettferdige og mener de går mot EUs interesser. Myndighetene gjentar at ingen av migrantene som ankom Ceuta, har tatt seg videre til det spanske fastlandet eller resten av Europa.\n\nDe aller fleste migrantene har returnert fra Ceuta.\n\nMigranter i Europa\n\nEuropeiske land krever strengere grensekontroll mot massemigrasjon. På få dager krysset over 70.000 marokkanere ulovlig inn i den spanske eksklaven Ceuta. De fleste er returnert, men minst 100 personer mistet livet.",
-      "excerpt": "Spania truer med å innføre mottiltak mot reisende fra Italia dersom ikke den italienske regjering stanser grensekontrollene innen søndag.\n\nItalia suspenderte Schengen-avtalen med Spania i en måned fra 31. juli. Det skjedde etter at om lag 70.000 migranter tok seg inn i den spanske eksklaven Ceuta...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/spania-truer-italia-med-mottiltak-hvis-ikke-schengen-avtalen-gjeninnfores-1.17982368",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-07T13:06:42.134Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786108000586.6719,
-      "title": "Støre om drivstoffprisene: – Vedtaket står",
-      "slug": "stre-om-drivstoffprisene-vedtaket-str",
-      "content": "Det skulle vært avholdt et nytt møte om avgiftskuttene fredag, men dette ble avlyst.\n\nNRK spurte statsminister Jonas Gahr Støre hva som vil skje videre med drivstoffprisene.\n\n– Drivstoffmøtet ble avlyst i dag. Kan du bekrefte at prisene på drivstoff vil bli satt opp til normalt nivå 1. september?\n\n– Jeg kan bekrefte at vi forholder oss til stortingets flertall. De vedtok i mars at disse avgiftene skulle settes ned til 1. september. Det har vi forholdt oss lojalt til og jeg forstår at det vedtaket står. Da forholder vi oss til det, sier Støre.\n\nHøye drivstoffpriser\n\nPå grunn av krigen i Iran, har drivstoffprisene skutt i været. Senterpartiet sikret flertall for hastebehandling av et Høyre-forslag om billigere bensin. Alle de andre rødgrønne partiene stemte imot.",
-      "excerpt": "Det skulle vært avholdt et nytt møte om avgiftskuttene fredag, men dette ble avlyst.\n\nNRK spurte statsminister Jonas Gahr Støre hva som vil skje videre med drivstoffprisene.\n\n– Drivstoffmøtet ble avlyst i dag. Kan du bekrefte at prisene på drivstoff vil bli satt opp til normalt nivå 1....",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/store-om-drivstoffprisene_-_-vedtaket-star-1.17982415",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-07T13:06:40.586Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2851,
+    "totalFetched": 2854,
     "totalPublished": 77,
-    "lastFetch": "2026-08-09T18:42:01.621Z",
+    "lastFetch": "2026-08-09T20:33:59.041Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
