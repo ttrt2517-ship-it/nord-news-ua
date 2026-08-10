@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786326923973.3381,
+      "title": "Jemen: – Nye houthi-angrep mot havneby",
+      "slug": "jemen-nye-houthiangrep-mot-havneby",
+      "content": "Den iranskstøttede houthi-militsen har gjennomført nye angrep mot havnebyen Mocha.\n\nDet sier en talsperson for militæret i Jemen, melder nyhetsbyrået Reuters.\n\nIfølge det jemenittiske militæret har luftforsvaret stanset flere droner mot byen.\n\nHavnebyen Mocha ligger sørvest i Jemen ved Rødehavet.\n\nJemen har vært herjet av borgerkrig i mange år, og FN advarte nylig om utviklingen i landet den siste tiden.\n\nI sommer erklærte også Houthi-militsen at den ville innføre en marineblokade ved sundet Mandebstredet. Sundet ligger like ved området militsen kontrollerer i Jemen, mellom den arabiske halvøy og det afrikanske kontinent.\n\nJemen\n\nDen blodige borgerkrigen i Jemen startet i 2014 da Houthi-geriljaen tok hovedstaden Sana. Det førte til at en koalisjon ledet av Saudi-Arabia intervenerte for å støtte den internasjonalt anerkjente regjeringen.",
+      "excerpt": "Den iranskstøttede houthi-militsen har gjennomført nye angrep mot havnebyen Mocha.\n\nDet sier en talsperson for militæret i Jemen, melder nyhetsbyrået Reuters.\n\nIfølge det jemenittiske militæret har luftforsvaret stanset flere droner mot byen.\n\nHavnebyen Mocha ligger sørvest i Jemen ved...",
+      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYzMjY5MjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/jemen_-_-nye-houthi-angrep-mot-havneby-1.17984097",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-10T01:55:23.973Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786326922213.2236,
+      "title": "Russiske myndigheter: Seks drept i ukrainsk droneangrep",
+      "slug": "russiske-myndigheter-seks-drept-i-ukrainsk-droneangrep",
+      "content": "Seks mennesker ble ifølge lokale myndigheter drept i et ukrainsk droneangrep på den russiske byen Belgorod, melder nyhetsbyrået Reuters.\n\nTidligere har den fungerende guvernøren for Belgorod-regionen, Alexander Shuvayev, sagt at tre mennesker ble drept i angrepet natt til søndag.\n\nI tillegg skal 25 mennesker ha blitt såret. To av dem var barn, ifølge guvernøren.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Seks mennesker ble ifølge lokale myndigheter drept i et ukrainsk droneangrep på den russiske byen Belgorod, melder nyhetsbyrået Reuters.\n\nTidligere har den fungerende guvernøren for Belgorod-regionen, Alexander Shuvayev, sagt at tre mennesker ble drept i angrepet natt til søndag.\n\nI tillegg skal 25...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/russiske-myndigheter_-seks-drept-i-ukrainsk-droneangrep-1.17984100",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-10T01:55:22.213Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786326920602.5288,
+      "title": "Vannmangel kan dele elven Rhinen i to",
+      "slug": "vannmangel-kan-dele-elven-rhinen-i-to",
+      "content": "Den viktige transportåren Rhinen i Tyskland kan i løpet av uken bli delt i to på grunn av tørke og lav vannstand.\n\nVannstanden ved målestasjonen Kaub ligger an til å bli så lav at skip ikke lenger kan passere, advarer det tyske forbundet for innlandsskipsfart (BDB) overfor avisen Rheinische Post.\n\nStansen vil gjelde både varetransport, dagsturer og elvecruise.\n\nKlima og miljø\n\nVerden opplever allerede klimaendringene, slår FNs klimapanel fast. Mer ekstremvær, høyere havnivå og økte helseproblemer er noen av konsekvensene, ifølge deres siste hovedrapport.",
+      "excerpt": "Den viktige transportåren Rhinen i Tyskland kan i løpet av uken bli delt i to på grunn av tørke og lav vannstand.\n\nVannstanden ved målestasjonen Kaub ligger an til å bli så lav at skip ikke lenger kan passere, advarer det tyske forbundet for innlandsskipsfart (BDB) overfor avisen Rheinische...",
+      "image": "https://images.unsplash.com/photo-1742458498570-c5517f692b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYzMjY5MjB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/vannmangel-kan-dele-elven-rhinen-i-to-1.17984089",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-10T01:55:20.602Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786314763389.505,
       "title": "Hyttebrann i Lillestrøm",
       "slug": "hyttebrann-i-lillestrm",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-07T18:58:55.574Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786129133964.354,
-      "title": "USA nærmer seg sanksjoner mot Russland og Iran",
-      "slug": "usa-nrmer-seg-sanksjoner-mot-russland-og-iran",
-      "content": "Senatet i USA har vedtatt nye sanksjoner mot Russland og Iran.\n\nLoven, oppkalt etter den nylig avdøde republikanske senatoren Lindsey Graham, skal ramme kjøpere av russisk olje og gas.\n\nFormålet er å stanse finansieringen av den russiske krigføringen i Ukraina.\n\n– Så lenge Putin har penger fra russisk olje og gass, er han i stand til å fortsette denne krigen. Hva denne sanksjonsloven gjør, er i praksis å kutte det av, uttalte Senatets flertallsleder John Thune.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Senatet i USA har vedtatt nye sanksjoner mot Russland og Iran.\n\nLoven, oppkalt etter den nylig avdøde republikanske senatoren Lindsey Graham, skal ramme kjøpere av russisk olje og gas.\n\nFormålet er å stanse finansieringen av den russiske krigføringen i Ukraina.\n\n– Så lenge Putin har penger fra...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-naermer-seg-sanksjoner-mot-russland-og-iran-1.17982719",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-07T18:58:53.964Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786121702621.5413,
-      "title": "Syklist alvorlig skadet i ulykke i Nordre Follo",
-      "slug": "syklist-alvorlig-skadet-i-ulykke-i-nordre-follo",
-      "content": "En syklist skal ha store hodeskader etter en kollisjon med en bil på Gamle Mossevei i Nordre Follo, melder politiet.\n\n– Ulykke fremstår svært alvorlig, skriver oppdragsleder Henrik Larsen i Øst politidistrikt.\n\nNødetatene er på stedet. Ulykken har skjedd rett sør for krysset mellom Gamle Mossevei og Roald Amundsens vei. Veien er stengt i begge retninger.\n\nEn syklist skal ha store hodeskader etter en kollisjon med en bil på Gamle Mossevei.\n\nTrafikk i Stor-Oslo\n\nEr du ute på veiene, eller sitter på toget, bussen, trikken eller T-banen?\nHold deg oppdatert på trafikken i Oslo og Akershus.",
-      "excerpt": "En syklist skal ha store hodeskader etter en kollisjon med en bil på Gamle Mossevei i Nordre Follo, melder politiet.\n\n– Ulykke fremstår svært alvorlig, skriver oppdragsleder Henrik Larsen i Øst politidistrikt.\n\nNødetatene er på stedet. Ulykken har skjedd rett sør for krysset mellom Gamle Mossevei...",
-      "image": "https://images.unsplash.com/photo-1612261016540-1b6902b1348d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYxMjE3MDJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/-syklist-alvorlig-skadet-i-ulykke-i-nordre-follo-1.17982305",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-07T16:55:02.621Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786121700820.4185,
-      "title": "Frontkollisjon mellom lastebil og personbil i tunnel E16 i Vaksdal: – Evakuerer",
-      "slug": "frontkollisjon-mellom-lastebil-og-personbil-i-tunnel-e16-i-v",
-      "content": "Nødetatene rykker ut til en trafikkulykke på E16 i Trollkonetunnelen i Vaksdal.\n\nDet er meldt om en front-mot-front-ulykke mellom en lastebil og to personbiler inne i tunnelen.\n\nBrannvesenet melder om røykutvikling i tunnelen. Det foregår evakuering på stedet.\n\n– Det fremstår som kaotisk på stedet. Det er mye folk og biler i tunnelen, opplyser i Lars Petter Lovik i 110-sentralen til NRK.",
-      "excerpt": "Nødetatene rykker ut til en trafikkulykke på E16 i Trollkonetunnelen i Vaksdal.\n\nDet er meldt om en front-mot-front-ulykke mellom en lastebil og to personbiler inne i tunnelen.\n\nBrannvesenet melder om røykutvikling i tunnelen. Det foregår evakuering på stedet.\n\n– Det fremstår som kaotisk på stedet....",
-      "image": null,
-      "original_url": "https://www.nrk.no/vestland/frontkollisjon-mellom-lastebil-og-personbil-i-tunnel-e16-i-vaksdal_-_-evakuerer-1.17982641",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-07T16:55:00.820Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2857,
+    "totalFetched": 2860,
     "totalPublished": 77,
-    "lastFetch": "2026-08-09T22:32:44.964Z",
+    "lastFetch": "2026-08-10T01:55:25.462Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
