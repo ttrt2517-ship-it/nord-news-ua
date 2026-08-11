@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1786460331999.4268,
+      "title": "Ungarn har valgt ny president",
+      "slug": "ungarn-har-valgt-ny-president",
+      "content": "Det ungarske parlamentet har valgt tidligere høyesterettssjef András Baka til Ungarns president, melder Reuters.\n\nI juli brukte regjeringspartiet Tisza sitt to tredjedels flertall i parlamentet for å effektivt avsette daværende president Tamás Sulyok.\n\nHan var kjent som en nær alliert av tidligere statsminister Viktor Orbán.\n\nSiden Tisza i april vant valget i Ungarn, har den nyvalgte statsministeren Péter Magyar jobbet for å løsne Orbáns grep om statsinstitusjonene.\n\nBaka er en kjent Orbán-kritiker, som ble avsatt som sjef for høyesterett av Orbáns regjering i 2011.\n\nUngarn\n\nOpposisjonspartiet Tisza og partileder Peter Magyar har vunnet valget i Ungarn. Frem til nå har Russland-vennlige Viktor Orbán styrt landet. Det har han gjort siden 2010.",
+      "excerpt": "Det ungarske parlamentet har valgt tidligere høyesterettssjef András Baka til Ungarns president, melder Reuters.\n\nI juli brukte regjeringspartiet Tisza sitt to tredjedels flertall i parlamentet for å effektivt avsette daværende president Tamás Sulyok.\n\nHan var kjent som en nær alliert av tidligere...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ungarn-har-valgt-ny-president--1.17986250",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-11T14:58:51.999Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786460330039.8333,
+      "title": "Ukrainsk stålgigant stanser drift etter russiske angrep",
+      "slug": "ukrainsk-stlgigant-stanser-drift-etter-russiske-angrep",
+      "content": "Den ukrainske stålgiganten Zaporizjstal har stanset all drift etter et russisk angrep mot anleggene deres.\n\nNatt til tirsdag ble minst ti drept i angrep mot Kyiv og Zaporizjzja, ifølge ukrainske myndigheter.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Den ukrainske stålgiganten Zaporizjstal har stanset all drift etter et russisk angrep mot anleggene deres.\n\nNatt til tirsdag ble minst ti drept i angrep mot Kyiv og Zaporizjzja, ifølge ukrainske myndigheter.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukrainsk-stalgigant-stanser-drift-etter-russiske-angrep-1.17986351",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-11T14:58:50.039Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786453707408.3398,
       "title": "Libanon har avskaffet dødsstraff",
       "slug": "libanon-har-avskaffet-ddsstraff",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-08-10T05:39:37.696Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786326923973.3381,
-      "title": "Jemen: – Nye houthi-angrep mot havneby",
-      "slug": "jemen-nye-houthiangrep-mot-havneby",
-      "content": "Den iranskstøttede houthi-militsen har gjennomført nye angrep mot havnebyen Mocha.\n\nDet sier en talsperson for militæret i Jemen, melder nyhetsbyrået Reuters.\n\nIfølge det jemenittiske militæret har luftforsvaret stanset flere droner mot byen.\n\nHavnebyen Mocha ligger sørvest i Jemen ved Rødehavet.\n\nJemen har vært herjet av borgerkrig i mange år, og FN advarte nylig om utviklingen i landet den siste tiden.\n\nI sommer erklærte også Houthi-militsen at den ville innføre en marineblokade ved sundet Mandebstredet. Sundet ligger like ved området militsen kontrollerer i Jemen, mellom den arabiske halvøy og det afrikanske kontinent.\n\nJemen\n\nDen blodige borgerkrigen i Jemen startet i 2014 da Houthi-geriljaen tok hovedstaden Sana. Det førte til at en koalisjon ledet av Saudi-Arabia intervenerte for å støtte den internasjonalt anerkjente regjeringen.",
-      "excerpt": "Den iranskstøttede houthi-militsen har gjennomført nye angrep mot havnebyen Mocha.\n\nDet sier en talsperson for militæret i Jemen, melder nyhetsbyrået Reuters.\n\nIfølge det jemenittiske militæret har luftforsvaret stanset flere droner mot byen.\n\nHavnebyen Mocha ligger sørvest i Jemen ved...",
-      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYzMjY5MjN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/jemen_-_-nye-houthi-angrep-mot-havneby-1.17984097",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-10T01:55:23.973Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786326922213.2236,
-      "title": "Russiske myndigheter: Seks drept i ukrainsk droneangrep",
-      "slug": "russiske-myndigheter-seks-drept-i-ukrainsk-droneangrep",
-      "content": "Seks mennesker ble ifølge lokale myndigheter drept i et ukrainsk droneangrep på den russiske byen Belgorod, melder nyhetsbyrået Reuters.\n\nTidligere har den fungerende guvernøren for Belgorod-regionen, Alexander Shuvayev, sagt at tre mennesker ble drept i angrepet natt til søndag.\n\nI tillegg skal 25 mennesker ha blitt såret. To av dem var barn, ifølge guvernøren.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Seks mennesker ble ifølge lokale myndigheter drept i et ukrainsk droneangrep på den russiske byen Belgorod, melder nyhetsbyrået Reuters.\n\nTidligere har den fungerende guvernøren for Belgorod-regionen, Alexander Shuvayev, sagt at tre mennesker ble drept i angrepet natt til søndag.\n\nI tillegg skal 25...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russiske-myndigheter_-seks-drept-i-ukrainsk-droneangrep-1.17984100",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-10T01:55:22.213Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2908,
+    "totalFetched": 2910,
     "totalPublished": 77,
-    "lastFetch": "2026-08-11T13:08:29.421Z",
+    "lastFetch": "2026-08-11T14:58:54.065Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
