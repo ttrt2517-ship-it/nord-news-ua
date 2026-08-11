@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786474992556.4841,
+      "title": "Lagde kvalme på fly, blir hentet ut",
+      "slug": "lagde-kvalme-p-fly-blir-hentet-ut",
+      "content": "Politiet er på Oslo lufthavn og bistår et flyselskap med å få et reisefølge av flyet.\n\n– De skulle reise sammen til en hovedstad i Europa ved 18-tiden. Flyet er 2,5 timer forsinket på grunn av oppførselen deres, opplyser politiet.\n\nPolitiet har kontroll på seks personer, som ikke får reise videre.\n\nOslo lufthavn\n\nPlanene om å bygge en ny tredje rullebane på Norges største flyplass vekker strid blant naboer og miljøvernere. Avinor mener utvikling av elfly vil gjøre det nødvendig med en ny rullebane innen 2035.",
+      "excerpt": "Politiet er på Oslo lufthavn og bistår et flyselskap med å få et reisefølge av flyet.\n\n– De skulle reise sammen til en hovedstad i Europa ved 18-tiden. Flyet er 2,5 timer forsinket på grunn av oppførselen deres, opplyser politiet.\n\nPolitiet har kontroll på seks personer, som ikke får reise...",
+      "image": "https://images.unsplash.com/photo-1599847741258-1cabea52f6d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY0NzQ5OTJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/lagde-kvalme-pa-fly_-blir-hentet-ut-1.17986649",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-11T19:03:12.556Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786474990745.577,
+      "title": "Houtiene hevder å ha angrepet saudisk militærskip i Rødehavet",
+      "slug": "houtiene-hevder-ha-angrepet-saudisk-militrskip-i-rdehavet",
+      "content": "Jemens Houtibevegelse hevder å ha angrepet et saudisk transportskip for militært utstyr i Mandebstredet i Rødehavet.\n\nDet melder det houtistyrte nyhetsbyrået Saba tirsdag kveld.\n\nTidligere tirsdag skal et egyptisk lasteskip ha blitt angrepet av et foreløpig ukjent prosjektil i Mandebstredet. Fire personer ble drept, ifølge Jemens transportdepartement.\n\nRødehavet\n\nRødehavet er en havarm som skiller Afrika fra Asia (Arabia). Åtte nasjoner har kystlinje mot Rødehavet: Egypt, Sudan, Eritrea og Djibouti på den afrikanske siden, og Jemen, Saudi-Arabia, Jordan og Israel på den asiatiske siden.",
+      "excerpt": "Jemens Houtibevegelse hevder å ha angrepet et saudisk transportskip for militært utstyr i Mandebstredet i Rødehavet.\n\nDet melder det houtistyrte nyhetsbyrået Saba tirsdag kveld.\n\nTidligere tirsdag skal et egyptisk lasteskip ha blitt angrepet av et foreløpig ukjent prosjektil i Mandebstredet. Fire...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/houtiene-hevder-a-ha-angrepet-saudisk-militaerskip-i-rodehavet-1.17986652",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-11T19:03:10.745Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786474989194.948,
+      "title": "Barnearbeidere omkom i trafikkulykke i Egypt",
+      "slug": "barnearbeidere-omkom-i-trafikkulykke-i-egypt",
+      "content": "18 personer døde da to lastebiler med jordbruksarbeidere kolliderte i Ismailia-provinsen nord i Egypt tirsdag.\n\nDe fleste av de døde var barn i 13-14-årsalderen, og de to yngste skal ha vært 10 år, sa en lokal sykehuskilde til nyhetsbyrået AFP.\n\nI tillegg er omlag 30 personer skadet, ifølge det egyptiske helsedepartementet.\n\nTotalt er minst 1,3 millioner mindreårige innblandet i en form for barnearbeid i Egypt, og landet er preget av mange slike trafikkulykker.",
+      "excerpt": "18 personer døde da to lastebiler med jordbruksarbeidere kolliderte i Ismailia-provinsen nord i Egypt tirsdag.\n\nDe fleste av de døde var barn i 13-14-årsalderen, og de to yngste skal ha vært 10 år, sa en lokal sykehuskilde til nyhetsbyrået AFP.\n\nI tillegg er omlag 30 personer skadet, ifølge det...",
+      "image": "https://images.unsplash.com/photo-1737798388229-2524c7777c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY0NzQ5ODl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/barnearbeidere-omkom-i-trafikkulykke-i-egypt-1.17986667",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-11T19:03:09.194Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786467481204.654,
       "title": "Arving krever de oppgravde pengene i Oalsgata i Sandnes",
       "slug": "arving-krever-de-oppgravde-pengene-i-oalsgata-i-sandnes",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-10T07:44:07.547Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786347844755.7092,
-      "title": "Foreigners in Norway face &#039;60 percent&#039; lower chance of promotion",
-      "slug": "foreigners-in-norway-face-03960-percent039-lower-chance-of-p",
-      "content": "Norway has increasingly positioned itself as a top destination for international workers, yet a major new report revealed that the \"career ladder\" is significantly harder to climb for those with an immigrant background.\n\nThe report, \"Ethnic Inequality in Working Life,\" commissioned by the Norwegian Directorate for Integration and Diversity (IMDi), unveiled a harsh reality for the international community living in the Nordic country.\n\nThe study examined how an ethnic minority background affects employees' opportunities in the Norwegian labour market.\n\nIt found that, despite securing employment, many foreigners face persistent barriers to career advancement, fair pay, and a safe work environment.\n\n\"Racism and discrimination are widespread and persistent problems in Norway, and we know that the consequences can be poorer living conditions and health. We should not have it this way. We need everyone who can work, and work is the most important integration arena we have,\" said Kjersti Stenseng the Minister of Employment and Inclusion.\n\nFor many international residents, these findings present a discouraging outlook for their long-term lives in Norway.\n\nAlthough the Norwegian labour market is often praised for its egalitarianism, the data showed a significant disparity in who moves up.\n\nImmigrants are 60 percent less likely to be promoted than other employees. This disparity is most pronounced among individuals with backgrounds from outside Europe and North America.\n\nThose born in Norway, with a minority background are 30 percent less likely to be promoted, the report said.\n\nAccording to the report the work environment for international residents is often affected by their background.\n\nA higher proportion of immigrants reported experiencing bullying or harassment at work in the past 12 months compared to the majority population.\n\nThese rates are significantly higher among certain groups, especially those from Africa and Asia, and particularly among refugees.​\n\nREAD MORE: Is mastering Norwegian now a must for getting a job in Norway?\n\n​Many international workers in Norway find themselves stuck in roles for which they are overtrained.\n\nThe report found that immigrants are 5 to 7 percentage points more likely to be overqualified for their current position compared to the rest of the population.\n\nResearchers suggested this mismatch often results from challenges in recognising foreign education and qualifications in Norway, as well as potential discrimination in how tasks are allocated within the workplace.\n\nInterestingly, this gap disappears for the children of immigrants (second generation) who are born and raised in Norway.\n\nFor those who have immigrated themselves, however, finding work that matches their actual skills and experience is slow.\n\nThe research highlighted that it takes about 20 years in the Norwegian labour market for the overqualification gap to close.\n\nThis gradual improvement is linked to foreign-born residents acquiring stronger Norwegian language skills and relevant work experience in the local market.\n\nAs the report stated: \"It is natural to assume that over-qualification is linked to the arrival phase and the first years in the Norwegian labour market, as well as to unobserved differences in language skills that we can assume become smaller with longer residence. The patterns are approximately identical for immigrants regardless of region of origin\".\n\nRegarding psychosocial work environment factors, immigrants reported slightly less social support from colleagues but receive equal or better follow-up from managers.\n\nWhile these findings focus on those already in jobs, previous research has also documented that people are treated differently during the initial hiring processes based on their ethnic background.\n\nThe report identifies a wage difference of 12 percent between employees with an immigrant background and the rest of the population.\n\nHowever, researchers emphasise that this disparity is mainly because employees with an immigrant background are more likely to end up working in companies and businesses with lower pay scales.\n\nMeaning the gap could be due to \"selection\", as it shrinks to about 2 percent when comparing employees in the same position at the same workplace.\n\nNotably, wage gaps are smaller in the public sector compared to the private sector.\n\nThis is mainly because the public sector follows more standardised wages, leaving less room for subjective employer discrimination or individual negotiation.\n\nThe gaps are also smallest in highly regulated professions with clear authorisation requirements.\n\nIn addition to career advancement, the report found significant disparities in job stability and safety.\n\nImmigrants in Norway face higher job insecurity, reporting a greater perceived risk of unemployment in the near future compared to the majority population.\n\nAlso, while overall differences in the physical work environment are small, immigrants are more likely to perform heavy physical labour.\n\nResearchers noted that the combined impact of these 'hard' outcomes (including higher rates of bullying, long-term sick leave, and limited institutional infrastructure to protect workers, such as Health, Safety, and Environment - HSE schemes) suggests a much harsher reality for many international workers.\n\nThese factors indicate that immigrants often face a more stressful work environment with a greater risk of illness and injury.\n\nREAD MORE: Norway offers renowned work-life balance, so why are so many suffering burnouts?\n\nCan employers do more to create equal opportunities?\n\nThe research identified measures that can reduce the risk of workplace discrimination.\n\nExperts recommend moving away from standard employee training, which was found ineffective at changing attitudes or behaviour.\n\nInstead, structural changes should be considered, such as inclusive career systems and access to mentors.\n\nWhat are you views on the findings of the report? Share your own experiences in the comments below.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Norway has increasingly positioned itself as a top destination for international workers, yet a major new report revealed that the \"career ladder\" is significantly harder to climb for those with an immigrant background.\n\nThe report, \"Ethnic Inequality in Working Life,\" commissioned by the Norwegian...",
-      "image": "https://images.unsplash.com/photo-1622653993947-4fcd61a8eaf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYzNDc4NDR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260507/foreigners-in-norway-face-60-percent-lower-chance-of-promotion",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-08-10T07:44:04.755Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786347840455.9404,
-      "title": "Prins Sverre Magnus skal studere i Lisboa i Portugal",
-      "slug": "prins-sverre-magnus-skal-studere-i-lisboa-i-portugal",
-      "content": "Prins Sverre Magnus skal studere ved Forward College i Lisboa.\n\nDet er en bachelor i Business Management og fagene i denne graden inkluderer blant annet innføring i økonomi, statistikk og regnskap.\n\nUndervisningen vil skje i Lisboa det første året, og deretter vil utdanningen skje i henholdsvis Paris og Berlin.\n\nPrinsesse Ingrid Alexandra fortsetter sine studier og ønskes i dag velkommen som utvekslingsstudent ved Universitetet i Oslo.",
-      "excerpt": "Prins Sverre Magnus skal studere ved Forward College i Lisboa.\n\nDet er en bachelor i Business Management og fagene i denne graden inkluderer blant annet innføring i økonomi, statistikk og regnskap.\n\nUndervisningen vil skje i Lisboa det første året, og deretter vil utdanningen skje i henholdsvis...",
-      "image": "https://images.unsplash.com/photo-1688723791894-b44a7f698ecf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYzNDc4NDB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/prins-sverre-magnus_skal-studere-i-lisboa-i-portugal-1.17984290",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-10T07:44:00.455Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786347838670.1729,
-      "title": "Flere døde i Ukraina og Russland etter angrep",
-      "slug": "flere-dde-i-ukraina-og-russland-etter-angrep",
-      "content": "Ifølge ukrainske myndigheter er fem drept i russisk angrep mot boligområde i Kharkiv-regionen.\n\nI Russland skal mins tolv ha blitt drept i et ukrainsk droneangrep. Dette melder statlige medier.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ifølge ukrainske myndigheter er fem drept i russisk angrep mot boligområde i Kharkiv-regionen.\n\nI Russland skal mins tolv ha blitt drept i et ukrainsk droneangrep. Dette melder statlige medier.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014....",
-      "image": "https://images.unsplash.com/photo-1683797466570-ccaab622991a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYzNDc4Mzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-dode-i-ukraina-og-russland-etter-angrep-1.17984297",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-10T07:43:58.670Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2913,
+    "totalFetched": 2916,
     "totalPublished": 77,
-    "lastFetch": "2026-08-11T16:58:03.448Z",
+    "lastFetch": "2026-08-11T19:03:14.399Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
