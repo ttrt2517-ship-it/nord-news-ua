@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786413078329.367,
+      "title": "Colombia anerkjenner Israels krav på Golanhøydene",
+      "slug": "colombia-anerkjenner-israels-krav-p-golanhydene",
+      "content": "Den nyinnsatte ytre høyre-regjeringen i Colombia anerkjente mandag Israels krav på Golanhøydene, skriver NTB.\n\nTil nå er det bare USA som har støttet Israels krav på det omstridte området. FN mener at Golanhøydene egentlig tilhører Syria, og at det er ulovlig okkupert av Israel.\n\nDet er Colombias helt ferske president, Abelardo de la Espriella, som nå endrer landets politikk. Han ønsker svært tette bånd til Israel fremover.",
+      "excerpt": "Den nyinnsatte ytre høyre-regjeringen i Colombia anerkjente mandag Israels krav på Golanhøydene, skriver NTB.\n\nTil nå er det bare USA som har støttet Israels krav på det omstridte området. FN mener at Golanhøydene egentlig tilhører Syria, og at det er ulovlig okkupert av Israel.\n\nDet er Colombias...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/colombia-anerkjenner-israels-krav-pa-golanhoydene-1.17985343",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-11T01:51:18.329Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786413076563.617,
+      "title": "Flere drept i russiske angrep mot Ukraina",
+      "slug": "flere-drept-i-russiske-angrep-mot-ukraina",
+      "content": "Minst seks mennesker er drept i angrep mot Zaporizjzja og Kyiv, opplyser ukrainske myndigheter.\n\nKyivs ordfører Vitalij Klitsjko sier Russland skjøt ballistiske raketter mot den ukrainske hovedstaden natt til tirsdag. På Telegram ba han folk holde seg i tilfluktsrommene.\n\nFlere medier melder at eksplosjoner kunne høres over byen etter at flyalarmen gikk.\n\nOgså byen Zaporizjzja ble angrepet sent mandag kveld. Ifølge guvernør Ivan Fedorov ble fem mennesker drept og ytterligere 20 såret.\n\nVed 1-tiden natt til tirsdag gikk flyalarmen igjen, og folk ble bedt om å komme seg i sikkerhet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Minst seks mennesker er drept i angrep mot Zaporizjzja og Kyiv, opplyser ukrainske myndigheter.\n\nKyivs ordfører Vitalij Klitsjko sier Russland skjøt ballistiske raketter mot den ukrainske hovedstaden natt til tirsdag. På Telegram ba han folk holde seg i tilfluktsrommene.\n\nFlere medier melder at...",
+      "image": "https://images.unsplash.com/photo-1727625801807-06a38a752b8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY0MTMwNzZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flere-drept-i-russiske-angrep-mot-ukraina-1.17985346",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-11T01:51:16.563Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786413074628.4753,
+      "title": "Drivstoffkrav for luftfart og maritim transport utsatt",
+      "slug": "drivstoffkrav-for-luftfart-og-maritim-transport-utsatt",
+      "content": "Nye EU-krav om mer miljøvennlig drivstoff for fly og skip blir forsinket i Norge. Reglene vil gjelde tidligst fra 1. januar 2028, opplyser regjeringen.\n\nMålet med reglene er å kutte klimautslipp fra både luftfart og skipsfart, skriver NTB.\n\nKlima- og miljødepartementet skriver på sine nettsider at de jobber for å få kravene på plass så raskt som mulig.\n\nKlima og miljø\n\nVerden opplever allerede klimaendringene, slår FNs klimapanel fast. Mer ekstremvær, høyere havnivå og økte helseproblemer er noen av konsekvensene, ifølge deres siste hovedrapport.",
+      "excerpt": "Nye EU-krav om mer miljøvennlig drivstoff for fly og skip blir forsinket i Norge. Reglene vil gjelde tidligst fra 1. januar 2028, opplyser regjeringen.\n\nMålet med reglene er å kutte klimautslipp fra både luftfart og skipsfart, skriver NTB.\n\nKlima- og miljødepartementet skriver på sine nettsider at...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/drivstoffkrav-for-luftfart-og-maritim-transport-utsatt-1.17985348",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-11T01:51:14.628Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786401505332.6343,
       "title": "Drapsdømt tysk sykepleier etterforskes i 120 saker",
       "slug": "drapsdmt-tysk-sykepleier-etterforskes-i-120-saker",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-09T08:44:07.927Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786258700680.247,
-      "title": "Mann sendt til sykehus etter voldshendelse i Elverum",
-      "slug": "mann-sendt-til-sykehus-etter-voldshendelse-i-elverum",
-      "content": "Natt til søndag ble en mann sendt til sykehus etter å ha blitt slått og sparket i Elverum sentrum.\n\n– Det ble opplyst at de mistenkte skal være 2–3 menn, skriver operasjonsleder Aleksander Steinslien i Innlandet politidistrikt på politiloggen.\n\nDe har gjort undersøkelser på stedet, og ønsker tips dersom noen kan ha sett noe.\n\nPolitiet kjenner identiteten til mulige mistenkte personer, men ønsker også tips fra publikum.",
-      "excerpt": "Natt til søndag ble en mann sendt til sykehus etter å ha blitt slått og sparket i Elverum sentrum.\n\n– Det ble opplyst at de mistenkte skal være 2–3 menn, skriver operasjonsleder Aleksander Steinslien i Innlandet politidistrikt på politiloggen.\n\nDe har gjort undersøkelser på stedet, og ønsker tips...",
-      "image": "https://images.unsplash.com/photo-1603482360662-38e34391247c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYyNTg3MDB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/mann-sendt-til-sykehus-etter-voldshendelse-i-elverum-1.17983490",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-09T06:58:20.680Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786247043977.6729,
-      "title": "Brann ved saudiarabisk raffinerianlegg",
-      "slug": "brann-ved-saudiarabisk-raffinerianlegg",
-      "content": "En brann brøt ut ved et saudiarabisk oljeraffineri nær grensen til Jemen natt til søndag. Det opplyser det saudiarabiske energidepartementet, ifølge nyhetsbyrået Reuters.\n\nBrannen oppsto på et anlegg som tilhører det statlige oljeselskapet Aramco i Jizan. Den ble slukket etter kort tid, og det er ikke meldt om personskader. Årsaken til brannen er foreløpig ukjent.\n\nSaudi-Arabia\n\nSaudi-Arabia er et dypt religiøst monarki i Midtøsten. Det islamske landet er ofte kritisert for at kvinner har svært innskrenkede rettigheter. Landet har enorme oljeforekomster.",
-      "excerpt": "En brann brøt ut ved et saudiarabisk oljeraffineri nær grensen til Jemen natt til søndag. Det opplyser det saudiarabiske energidepartementet, ifølge nyhetsbyrået Reuters.\n\nBrannen oppsto på et anlegg som tilhører det statlige oljeselskapet Aramco i Jizan. Den ble slukket etter kort tid, og det er...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/brann-ved-saudiarabisk-raffinerianlegg-1.17983480",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-09T03:44:03.977Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786247042085.1165,
-      "title": "Spanias grensekontroll mot Italia har trådt i kraft",
-      "slug": "spanias-grensekontroll-mot-italia-har-trdt-i-kraft",
-      "content": "Spanias grensekontroll mot Italia har trådt i kraft som svar på at Italia innførte grensekontroll mot Spania som følge av Ceuta-migrantstrømmen.\n\nSpanias tiltak trådte i kraft ved midnatt natt til søndag. Tiltaket har varighet til 7. september.\n\nItalia suspenderte Schengen-avtalen med Spania 31. juli. Det skjedde etter at om lag 70.000 migranter tok seg inn i den spanske eksklaven Ceuta fra Marokko i forrige uke.\n\nItalias regjering har sagt at grensekontrollen fortsetter fram til det ikke lenger er sikkerhetsrisiko, terrorfare eller innvandringsbølge, i første omgang minst til 15. august.\n\nDen europeiske union (EU)\n\nDen europeiske union (EU) har 27 medlemsstater som er knyttet sammen i et tett økonomisk og politisk samarbeid. Unionen vokste fram av et handelssamarbeid som skulle hindre en ny konflikt mellom Frankrike og Tyskland etter 2. verdenskrig.",
-      "excerpt": "Spanias grensekontroll mot Italia har trådt i kraft som svar på at Italia innførte grensekontroll mot Spania som følge av Ceuta-migrantstrømmen.\n\nSpanias tiltak trådte i kraft ved midnatt natt til søndag. Tiltaket har varighet til 7. september.\n\nItalia suspenderte Schengen-avtalen med Spania 31....",
-      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYyNDcwNDF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/spanias-grensekontroll-mot-italia-har-tradt-i-kraft-1.17983484",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-09T03:44:02.086Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2890,
+    "totalFetched": 2893,
     "totalPublished": 77,
-    "lastFetch": "2026-08-10T22:38:26.883Z",
+    "lastFetch": "2026-08-11T01:51:20.657Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
