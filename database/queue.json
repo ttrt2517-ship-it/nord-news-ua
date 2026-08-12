@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786500220511.1614,
+      "title": "Mann angrepet med stein på hotell i Ski",
+      "slug": "mann-angrepet-med-stein-p-hotell-i-ski",
+      "content": "En mann i 40-årene ble slått med en stein inne på et hotell i Ski natt til onsdag. En mann i 30-årene er pågrepet for voldshendelsen, skriver NTB.\n\nIfølge politiet ble mannen angrepet da han nektet den mistenkte å komme inn på hotellrommet sitt. Politiet mener offeret var helt tilfeldig utvalgt. Mannen ble sendt til legevakten, mens den antatte gjerningsmannen ble satt i arresten.",
+      "excerpt": "En mann i 40-årene ble slått med en stein inne på et hotell i Ski natt til onsdag. En mann i 30-årene er pågrepet for voldshendelsen, skriver NTB.\n\nIfølge politiet ble mannen angrepet da han nektet den mistenkte å komme inn på hotellrommet sitt. Politiet mener offeret var helt tilfeldig utvalgt....",
+      "image": "https://images.unsplash.com/photo-1651837063913-7ca672ca539c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY1MDAyMjB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-angrepet-med-stein-pa-hotell-i-ski-1.17986794",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-12T02:03:40.511Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786500218538.0144,
+      "title": "Hus overtent i Tinn",
+      "slug": "hus-overtent-i-tinn",
+      "content": "Et hus i Tinn kommune begynte natt til onsdag å brenne. Huset som er ubebodd, kommer til å brenne ned, ifølge brannvesenet.\n\nNødetatene rykket ut etter melding om brannen klokken 2.18. Kort tid senere meldte brannvesenet at huset var fullstendig overtent og kom til å brenne ned.\n\nDet er ikke registrert noen beboere på adressen, og politiet har ikke opplysninger om at det skal bo folk i huset, skriver NTB.",
+      "excerpt": "Et hus i Tinn kommune begynte natt til onsdag å brenne. Huset som er ubebodd, kommer til å brenne ned, ifølge brannvesenet.\n\nNødetatene rykket ut etter melding om brannen klokken 2.18. Kort tid senere meldte brannvesenet at huset var fullstendig overtent og kom til å brenne ned.\n\nDet er ikke...",
+      "image": "https://images.unsplash.com/photo-1705534315642-2d37f79d849e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY1MDAyMTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/hus-overtent-i-tinn-1.17986796",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-12T02:03:38.538Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786500216573.2144,
+      "title": "Minst 14 døde i gruveras i Sør-Afrika",
+      "slug": "minst-14-dde-i-gruveras-i-srafrika",
+      "content": "Minst 14 personer har mistet livet i et ras i en nedlagt gruve nordvest for Johannesburg i Sør-Afrika, opplyser politiet.\n\nÅtte personer er sendt til sykehus, og politiet frykter at flere ulovlige gruvearbeidere fortsatt sitter fast under jorden. De fleste av de omkomne var fra nabolandet Lesotho, skriver NTB.\n\nSør-Afrika har flere tusen uregistrerte gruvearbeidere som leter etter gull og mineraler i nedlagte gruver under svært farlige forhold.\n\nSør-Afrika\n\nCyril Ramaphosa er president i Sør-Afrika. Han tilhører ANC-partiet.",
+      "excerpt": "Minst 14 personer har mistet livet i et ras i en nedlagt gruve nordvest for Johannesburg i Sør-Afrika, opplyser politiet.\n\nÅtte personer er sendt til sykehus, og politiet frykter at flere ulovlige gruvearbeidere fortsatt sitter fast under jorden. De fleste av de omkomne var fra nabolandet Lesotho...",
+      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY1MDAyMTZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/minst-14-dode-i-gruveras-i-sor-afrika-1.17986793",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-12T02:03:36.573Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786488170420.846,
       "title": "Minst 15 døde i fergeforlis i Zimbabwe",
       "slug": "minst-15-dde-i-fergeforlis-i-zimbabwe",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-10T13:11:24.164Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786367482520.253,
-      "title": "Fastrentene på studielån nedjusteres fra 1. september",
-      "slug": "fastrentene-p-studieln-nedjusteres-fra-1-september",
-      "content": "I en pressemelding oppgir Lånekassen de nye rentesatsene:\n\nDen som ønsker fastrente, kan søke om det i perioden 10. til 17. august.\n\nLånekassen opplyser at de aller fleste har flytende rente på studielånet. 792.400 kunder har flytende rente, mens 9900 har fastrente.\n\nRentesatsene baseres på boliglånsrentene, og det er Finanstilsynet som fastsetter dem.",
-      "excerpt": "I en pressemelding oppgir Lånekassen de nye rentesatsene:\n\nDen som ønsker fastrente, kan søke om det i perioden 10. til 17. august.\n\nLånekassen opplyser at de aller fleste har flytende rente på studielånet. 792.400 kunder har flytende rente, mens 9900 har fastrente.\n\nRentesatsene baseres på...",
-      "image": "https://images.unsplash.com/photo-1750261346957-179d89eaadb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYzNjc0ODJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/fastrentene-pa-studielan-nedjusteres-fra-1.-september-1.17984830",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-10T13:11:22.521Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786360179703.0496,
-      "title": "Frontkollisjon i Bømlafjordtunnelen",
-      "slug": "frontkollisjon-i-bmlafjordtunnelen",
-      "content": "To personbiler har frontkollidert inne i Bømlafjordtunnelen på E39.\n\n- I den ene bilen er alle fire ute av bilen. En person sitter fastklemt i den andre bilen. Nødetatene er fremme og luftambulanse er på vei, opplyser politiet.\n\nHendelsen har skjedd inne tunnelen på Haugesund siden.\n\nBømlofjordtunnellen er ein undersjøisk tunnel som går mellom Sveio og Føyno i Sunnhordland.\n\nTrafikk og vêr i Vestland\n\nNRK gir deg dei siste meldingane om vêr- og trafikksituasjonen i Vestland fylke. Ring inn trafikktips på 55 27 57 00 (Bergen) og 57 72 42 42 (Førde).",
-      "excerpt": "To personbiler har frontkollidert inne i Bømlafjordtunnelen på E39.\n\n- I den ene bilen er alle fire ute av bilen. En person sitter fastklemt i den andre bilen. Nødetatene er fremme og luftambulanse er på vei, opplyser politiet.\n\nHendelsen har skjedd inne tunnelen på Haugesund...",
-      "image": null,
-      "original_url": "https://www.nrk.no/vestland/frontkollisjon-i-bomlafjordtunnelen-1.17984581",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-10T11:09:39.703Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786360178129.1565,
-      "title": "Harry Potter-fans tvinger flytting av undersjøisk kabel til 430 mill. pund for å unngå Dobbys «grav»",
-      "slug": "harry-potterfans-tvinger-flytting-av-undersjisk-kabel-til-43",
-      "content": "Harry Potter-fans har tvunget en ny strømkabel mellom Storbritannia og Irland til flere milliarder kroner til å bli flyttet, etter å ha klaget på at den ville vanhellige «graven» til Dobby, en fiktiv husalv.\n\nKarakteren ble stedt til hvile på stranden Freshwater West i Pembrokeshire i Wales i filmen Harry Potter og dødstalismanene.\n\nHit kommer fans av trollmannsserien for å legge ned steiner der det står «Her hviler Dobby».\n\nGreenlink-forbindelsen til 430 millioner pund, som kobler det britiske sentralnettet sammen med Irland, skulle opprinnelig gå rett gjennom området med «graven».\n\nDa fikk de så mange klager fra sinte fans at planene ble endret.\n\n– Vi endte opp ganske nær ekte menneskelige gravrester fra bronsealderen, men vi unngikk Dobbys grav, forteller prosjektleder Simon Ludlam.",
-      "excerpt": "Harry Potter-fans har tvunget en ny strømkabel mellom Storbritannia og Irland til flere milliarder kroner til å bli flyttet, etter å ha klaget på at den ville vanhellige «graven» til Dobby, en fiktiv husalv.\n\nKarakteren ble stedt til hvile på stranden Freshwater West i Pembrokeshire i Wales i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/harry-potter-fans-tvinger-flytting-av-undersjoisk-kabel-til-430-mill.-pund-for-a-unnga-dobbys-_grav_-1.17984363",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-10T11:09:38.129Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2921,
+    "totalFetched": 2924,
     "totalPublished": 77,
-    "lastFetch": "2026-08-11T22:42:52.029Z",
+    "lastFetch": "2026-08-12T02:03:41.735Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
