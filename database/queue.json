@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786567596712.9438,
+      "title": "Trumps pressesekretær går av",
+      "slug": "trumps-pressesekretr-gr-av",
+      "content": "Pressesjef i Det hvite hus, Karoline Leavitt, slutter i jobben ved utgangen av august.\n\nDet bekrefter president Donald Trump i et innlegg på Truth Social onsdag kveld.\n\nGrunnen er at Leavitt ønsker å tilbringe mer tid med familien, skriver Trump:\n\n– Vår fantastiske pressesekretær i Det hvite hus, og en av mine mest betrodde rådgivere, Karoline Leavitt, går av ved utgangen av måneden slik at hun kan tilbringe mer tid med sine vakre, små barn og sin familie – en avgjørelse jeg har full forståelse og respekt for!\n\nHun vil fortsatt ha en viktig rolle som ekstern rådgiver og være en innflytelsesrik stemme i Det republikanske partiet, ifølge Trump.\n\nLeavitt ble tidenes ynste pressesekretær i Det hvite hus da hun fikk jobben som 27-åring i 2025.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.",
+      "excerpt": "Pressesjef i Det hvite hus, Karoline Leavitt, slutter i jobben ved utgangen av august.\n\nDet bekrefter president Donald Trump i et innlegg på Truth Social onsdag kveld.\n\nGrunnen er at Leavitt ønsker å tilbringe mer tid med familien, skriver Trump:\n\n– Vår fantastiske pressesekretær i Det hvite hus...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trumps-pressesekretaer-gar-av-1.17987907",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-12T20:46:36.712Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786567594986.4119,
+      "title": "Fare for flystreik: Varsler opptrapping",
+      "slug": "fare-for-flystreik-varsler-opptrapping",
+      "content": "Handel og Kontor i Norge (HK Norge) varsler at en eventuell flystreik vil trappes opp fra tirsdag 18. august.\n\nMeklingen med NHO Luftfart har frist ved midnatt onsdag.\n\nBlir de ikke enige, går 183 ansatte ut i streik fra torsdag, før streiken trappes opp til 580 ansatte fra 18. august, skriver forbundet i en pressemelding.\n\nStreiken vil ramme bakketjenester og innsjekk hos blant andre SAS, Widerøe og Norwegian.\n\nKonflikten handler om lønn, ubekvemstillegg og kompetanse.\n\nFlystreik i Norge\n\nFlyteknikerkonfikten ble stoppet av regjeringen tirsdag gjennom tvungen lønnsnemnd. Regjeringen mente konflikten truet liv og helse etter at NHO luftfart hadde innført lockout. Samtidig er det fare for pilotstreik i SAS.",
+      "excerpt": "Handel og Kontor i Norge (HK Norge) varsler at en eventuell flystreik vil trappes opp fra tirsdag 18. august.\n\nMeklingen med NHO Luftfart har frist ved midnatt onsdag.\n\nBlir de ikke enige, går 183 ansatte ut i streik fra torsdag, før streiken trappes opp til 580 ansatte fra 18. august, skriver...",
+      "image": "https://images.unsplash.com/photo-1753696278559-38efaeafab72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY1Njc1OTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fare-for-flystreik_-varsler-opptrapping-1.17988147",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-12T20:46:34.986Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786567593163.227,
+      "title": "Nick Reiner tiltales for drapet på foreldrene",
+      "slug": "nick-reiner-tiltales-for-drapet-p-foreldrene",
+      "content": "En storjury i Los Angeles har tiltalt Nick Reiner for drap på foreldrene sine, og påstår at han lå i bakhold før han angrep dem.\n\nOnsdag ble tiltalen offentliggjort etter at storjuryen hadde møttes i all hemmelighet.\n\nDen profilerte regissøren, skuespilleren og Hollywood-profilen Rob Reiner ble funnet knivstukket i sitt eget hjem i Los Angeles 14. desember i fjor sammen med konen Michele Singer Reiner. Hun var produsent og fotograf.\n\nSønnen Nick Reiner ble pågrepet noen timer senere og siktet to dager etter. Han erklærer seg ikke skyldig.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "En storjury i Los Angeles har tiltalt Nick Reiner for drap på foreldrene sine, og påstår at han lå i bakhold før han angrep dem.\n\nOnsdag ble tiltalen offentliggjort etter at storjuryen hadde møttes i all hemmelighet.\n\nDen profilerte regissøren, skuespilleren og Hollywood-profilen Rob Reiner ble...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/nick-reiner-tiltales-for-drapet-pa-foreldrene-1.17988118",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-12T20:46:33.164Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786561381659.6443,
       "title": "Bane Nor: Feilen mellom Oslo S og Lillestrøm er rettet",
       "slug": "bane-nor-feilen-mellom-oslo-s-og-lillestrm-er-rettet",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-11T08:58:12.630Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786432198440.186,
-      "title": "What it means to be a &#039;samboer&#039; and how it can be your ticket to Norway",
-      "slug": "what-it-means-to-be-a-039samboer039-and-how-it-can-be-your-t",
-      "content": "Being a samboer (cohabitant) in Norway can feel like marriage, but the law often sees it differently. Here is what you need to know before you move in together.\n\nIn Norway, saying \"I do\" in a fancy wedding is becoming less popular and more of an optional extra.\n\nFor many, the ultimate relationship goal isn’t a marriage certificate, but the status of samboer (cohabitant).\n\nThis is especially true for the international community. Many foreigners either move to Norway to join a Norwegian partner or relocate to the country as a couple and choose to live as de facto partners, proving their status through a shared address.\n\nHowever, even though samboers are seen almost the same as married couples in society, the legal situation is very different, especially when it comes to taxes and residency rights.\n\nUnlike in countries where such unions feel secondary, in Norway, referring to your partner as your samboer is very common.\n\nIt is a perfectly respected, lifelong choice where you can raise a family and share a mortgage without ever stepping into a city hall. In everyday conversation, the word samboer is just as meaningful as \"husband\" or \"wife\".\n\nThe Norwegian Tax Administration (Skatteetaten) defines cohabitation as two people living together in a \"marriage-like relationship\" without being married.\n\nThere is no official registration for cohabitation in Norway. Instead, your status is shown by your address in the National Population Register.\n\nIf you need proof that you live together, both of you can order a residence certificate (bostedsattest).\n\nHowever, cohabitation is not covered by the same laws as marriage. Samboers do not automatically share ownership of their assets.\n\nBecause there is no standard legal framework for cohabitation, it is important to enter into a private cohabitation agreement (samboeravtale).\n\nThis contract explains who owns what, who is responsible for debts, and how things will be divided if you break up.\n\nWhile unromantic, it can be necessary to protect your future and many legal services in Norway can help you create the contract.\n\nRegistering as a samboer is a valid and accepted way for foreigners to move to Norway.\n\nFor people from the EU or EEA, this option is popular because the registration process is simpler within the Schengen area and often has lower or no fees.\n\nREAD MORE: How hard is it to pass Norway’s citizenship and social studies tests?\n\nWhile Norwegians can simply move in together, foreigners must meet strict UDI (the Norwegian Directorate of Immigration) requirements to obtain residency.\n\nUnlike other European countries, Norway requires proof that you have lived together for at least two years.  However, your \"ticket\" depends on your couple's history.\n\nThe first option is the standard Family Immigration permit. This is the most common way for people outside the EU to apply, but it can also be expensive.\n\nIn 2026, the application fee for samboers is about 11,900 kroner, and the sponsor (the person who lives in Norway) must show a pre-tax income of at least 416,512 kroner.\n\nThis permit gives you rights under the Norwegian Integration Act, like language training, and can lead to permanent residency after three or five years.\n\nThe second option is the EU/EEA Residence Card. You can apply for this if you and your Norwegian partner lived together in another EU country while your partner worked or studied there. This is often a \"loophole\" that many applicants are unaware of.\n\nThis application is free, has more flexible rules, and does not require the sponsor to meet a specific income level. However, you must wait 5 years for permanent residency, and you do not have the right to language training.\n\nThis option also applies if your partner in Norway is an EU or EEA citizen (but not Norwegian). All the requirements are listed on the UDI website.\n\nMany foreigners think that living together gives them \"common law\" rights, but this is not the case in Norway.\n\nThe law sometimes treats cohabitants like married couples, but in other ways, it treats them as singles.\n\nEach party is considered a single individual with no legal duty to provide financial maintenance for the other. Anything you owned before or bought yourself stays yours.\n\nThe financial differences are also clear in the Norwegian tax system. Most of the time, cohabitants are taxed separately and cannot combine deductions as married couples can.\n\nIf one partner owns the home, that person pays wealth tax on the full value, even if the other partner has no assets. Married couples are taxed together and get a higher wealth tax threshold.\n\nIf you’re cohabitants and have a shared loan, you and your partner have to split the interest based on how much of the debt each of you is responsible for. Usually, unless you have a written agreement, this means each of you claims half of the interest by default. Unlike married couples, you can’t shift these deductions to the person with the higher income to save on taxes.\n\nThere is a special category called \"spouse-equivalent cohabiting partners\" for those with joint children or former spouses with a pension. They can split capital income and expenses, like interest on debt, however they want.\n\nIf you and your partner are an international couple running a business together, your tax situation comes down to whether you count as \"spouse-equivalent.\" If you do, you’re allowed to share the income from a joint business, but only in proportion to how much work each of you actually does.\n\nFor most other cohabiting couples, you cannot transfer business income to your partner to lower your total tax bill. If only one of you officially owns the business, that person has to report all the profit or loss on their own tax return.\n\nOne of the biggest risks for cohabitants is that there is no automatic protection if you break up or if one partner dies.\n\nIf you have children under 16 and are separated, you must go to mediation.\n\nIf one partner dies, the law only protects cohabitants who have children. They are entitled to a statutory inheritance of 4G (the National Insurance basic amount, or approximately 500,000 kroner) and the legal right to remain in the shared home.\n\nCohabitants without children do not have any legal right to inherit. If there is no will, your home could go to your partner’s parents or siblings.\n\nUltimately, a written agreement is the only way to protect yourself from losing everything.\n\nREAD ALSO: How will a breakup affect your Norwegian family immigration residence rights?\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Being a samboer (cohabitant) in Norway can feel like marriage, but the law often sees it differently. Here is what you need to know before you move in together.\n\nIn Norway, saying \"I do\" in a fancy wedding is becoming less popular and more of an optional extra.\n\nFor many, the ultimate relationship...",
-      "image": null,
-      "original_url": "https://www.thelocal.no/20260304/what-it-means-to-be-a-samboer-and-how-it-can-be-your-ticket-to-norway",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-08-11T07:09:58.440Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786432194427.2974,
-      "title": "EU bistår etter jordskjelvet i Colombia",
-      "slug": "eu-bistr-etter-jordskjelvet-i-colombia",
-      "content": "EU har mobilisert satellittjenesten Copernicus for å bistå i redningsarbeidet i Colombia etter mandagens jordskjelv.\n\nØkonomiske midler for å støtte arbeidet er også på vei, blant annet gjennom Røde Kors, opplyser EUs utenrikssjef Kaja Kallas.\n\n– Våre tanker er med ofrene, familiene deres, de skadede og alle dem som er rammet, skriver Kallas på X.\n\nDen europeiske union (EU)\n\nDen europeiske union (EU) har 27 medlemsstater som er knyttet sammen i et tett økonomisk og politisk samarbeid. Unionen vokste fram av et handelssamarbeid som skulle hindre en ny konflikt mellom Frankrike og Tyskland etter 2. verdenskrig.",
-      "excerpt": "EU har mobilisert satellittjenesten Copernicus for å bistå i redningsarbeidet i Colombia etter mandagens jordskjelv.\n\nØkonomiske midler for å støtte arbeidet er også på vei, blant annet gjennom Røde Kors, opplyser EUs utenrikssjef Kaja Kallas.\n\n– Våre tanker er med ofrene, familiene deres, de...",
-      "image": "https://images.unsplash.com/photo-1593378026051-9cdcaa30e36d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY0MzIxOTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/eu-bistar-etter-jordskjelvet-i-colombia-1.17985458",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-11T07:09:54.427Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786432192652.3545,
-      "title": "Innstillinger på Gardermobanen",
-      "slug": "innstillinger-p-gardermobanen",
-      "content": "Tirsdag morgen er det forsinkelser og innstillinger mellom Oslo S og Lillestrøm.\n\n– Foreløpig vet vi ikke hvor lang tid det vil ta, skriver Bane Nor i en trafikkmelding.\n\nOgså mandag morgen var det problemer på Gardermobanen.",
-      "excerpt": "Tirsdag morgen er det forsinkelser og innstillinger mellom Oslo S og Lillestrøm.\n\n– Foreløpig vet vi ikke hvor lang tid det vil ta, skriver Bane Nor i en trafikkmelding.\n\nOgså mandag morgen var det problemer på Gardermobanen.",
-      "image": null,
-      "original_url": "https://www.nrk.no/stor-oslo/innstillinger-pa-gardermobanen-1.17985472",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-11T07:09:52.652Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2947,
+    "totalFetched": 2950,
     "totalPublished": 77,
-    "lastFetch": "2026-08-12T19:03:03.000Z",
+    "lastFetch": "2026-08-12T20:46:38.579Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
