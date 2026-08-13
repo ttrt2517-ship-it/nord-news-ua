@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786618869235.9055,
+      "title": "Aftenposten: Henlegger anmeldelse av oljefondets Israel-investeringer",
+      "slug": "aftenposten-henlegger-anmeldelse-av-oljefondets-israelinvest",
+      "content": "Anmeldelsen fra Palestinakomiteen gjaldt påstått medvirkning til krigsforbrytelser gjennom Oljefondets investeringer i israelsk militærindustri og selskaper knyttet til okkuperte områder.\n\nNå har det nasjonale statsadvokatembetet (NAST) besluttet å henlegge Palestinakomiteens anmeldelse mot Norges Bank, Oljefondet og Finansdepartementet uten etterforskning, skriver Aftenposten.\n\nKripos vurderte at en etterforskning ville bli for ressurskrevende og at det er lite sannsynlig at de anmeldte har gjort noe straffbart.\n\nOljefondet\n\nStatens pensjonsfond utland, eller «Oljefondet», skal sikre langsiktig forvaltning av statens petroleumsinntekter. Sjefen er Nicolai Tangen.",
+      "excerpt": "Anmeldelsen fra Palestinakomiteen gjaldt påstått medvirkning til krigsforbrytelser gjennom Oljefondets investeringer i israelsk militærindustri og selskaper knyttet til okkuperte områder.\n\nNå har det nasjonale statsadvokatembetet (NAST) besluttet å henlegge Palestinakomiteens anmeldelse mot Norges...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/aftenposten_-henlegger-anmeldelse-av-oljefondets-israel-investeringer-1.17988730",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-13T11:01:09.235Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786618867533.0037,
+      "title": "Fem drept under desarmering av bombe på Krym",
+      "slug": "fem-drept-under-desarmering-av-bombe-p-krym",
+      "content": "Fem personer ble drept mens de forsøkte å desarmere en eksplosiv gjenstand i Sevastopol, den største byen på den russiskokkuperte Krymhalvøya.\n\nDet skal ha vært en gjenstand som lå igjen etter et ukrainsk droneangrep mot byen, ifølge russiske myndigheter.\n\nBlant de drepte var fire desarmeringseksperter og en sikkerhetsvakt.\n\nRussiske statlige medier melder også at en russisk soldat er drept i en eksplosjon i Sevastopol og en person er pågrepet. Det er ikke kjent om det er snakk om samme eksplosjon.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Fem personer ble drept mens de forsøkte å desarmere en eksplosiv gjenstand i Sevastopol, den største byen på den russiskokkuperte Krymhalvøya.\n\nDet skal ha vært en gjenstand som lå igjen etter et ukrainsk droneangrep mot byen, ifølge russiske myndigheter.\n\nBlant de drepte var fire...",
+      "image": "https://images.unsplash.com/photo-1670874103167-31cff21eb845?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2MTg4Njd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fem-drept-under-desarmering-av-bombe-pa-krym-1.17988747",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-13T11:01:07.533Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786618865731.6465,
+      "title": "Alvorlig motorsykkelulykke i Enebakk",
+      "slug": "alvorlig-motorsykkelulykke-i-enebakk",
+      "content": "Samtlige nødetater har rykket ut til Enebakk i Akershus etter en motorsykkeulykke.\n\nDet er snakk om en alvorlig singelulykke, ifølge politiet.\n\nVeien ulykken har skjedd på er stengt i begge retninger.",
+      "excerpt": "Samtlige nødetater har rykket ut til Enebakk i Akershus etter en motorsykkeulykke.\n\nDet er snakk om en alvorlig singelulykke, ifølge politiet.\n\nVeien ulykken har skjedd på er stengt i begge retninger.",
+      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2MTg4NjV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/alvorlig-motorsykkelulykke-i-enebakk-1.17988670",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-13T11:01:05.732Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786612404289.6633,
       "title": "Renta forblir uendra",
       "slug": "renta-forblir-uendra",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-11T20:46:21.270Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786481179451.941,
-      "title": "Krevde å reise til Moldova - bortvist fra Oslo lufthavn",
-      "slug": "krevde-reise-til-moldova-bortvist-fra-oslo-lufthavn",
-      "content": "En kvinne i 40-årene er pågrepet ved Oslo lufthavn, etter at hun høylytt krevde å få reise til Moldova.\n\n– Det går ingen direktefly dit fra Gardermoen, opplyser Stig Kolstad, oppdragsleder i Øst politi.\n\nIfølge politiet har kvinnen i flere dager oppholdt seg på flyplassen og vært til sjenanse for ansatte.\n\nKvinnen skal ha forsøkt å skaffe seg plass på fly uten penger til billett.\n\n– Hun ble bortvist fra flyplassen i går, men har brutt pålegget ved å dukke opp igjen i dag, melder oppdragslederen.\n\nOslo lufthavn\n\nPlanene om å bygge en ny tredje rullebane på Norges største flyplass vekker strid blant naboer og miljøvernere. Avinor mener utvikling av elfly vil gjøre det nødvendig med en ny rullebane innen 2035.",
-      "excerpt": "En kvinne i 40-årene er pågrepet ved Oslo lufthavn, etter at hun høylytt krevde å få reise til Moldova.\n\n– Det går ingen direktefly dit fra Gardermoen, opplyser Stig Kolstad, oppdragsleder i Øst politi.\n\nIfølge politiet har kvinnen i flere dager oppholdt seg på flyplassen og vært til sjenanse for...",
-      "image": "https://images.unsplash.com/photo-1645546739057-2855e6900aef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY0ODExNzl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/krevde-a-reise-til-moldova---bortvist-fra-oslo-lufthavn-1.17986692",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-11T20:46:19.451Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786474992556.4841,
-      "title": "Lagde kvalme på fly, blir hentet ut",
-      "slug": "lagde-kvalme-p-fly-blir-hentet-ut",
-      "content": "Politiet er på Oslo lufthavn og bistår et flyselskap med å få et reisefølge av flyet.\n\n– De skulle reise sammen til en hovedstad i Europa ved 18-tiden. Flyet er 2,5 timer forsinket på grunn av oppførselen deres, opplyser politiet.\n\nPolitiet har kontroll på seks personer, som ikke får reise videre.\n\nOslo lufthavn\n\nPlanene om å bygge en ny tredje rullebane på Norges største flyplass vekker strid blant naboer og miljøvernere. Avinor mener utvikling av elfly vil gjøre det nødvendig med en ny rullebane innen 2035.",
-      "excerpt": "Politiet er på Oslo lufthavn og bistår et flyselskap med å få et reisefølge av flyet.\n\n– De skulle reise sammen til en hovedstad i Europa ved 18-tiden. Flyet er 2,5 timer forsinket på grunn av oppførselen deres, opplyser politiet.\n\nPolitiet har kontroll på seks personer, som ikke får reise...",
-      "image": "https://images.unsplash.com/photo-1599847741258-1cabea52f6d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY0NzQ5OTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/lagde-kvalme-pa-fly_-blir-hentet-ut-1.17986649",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-11T19:03:12.556Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786474990745.577,
-      "title": "Houtiene hevder å ha angrepet saudisk militærskip i Rødehavet",
-      "slug": "houtiene-hevder-ha-angrepet-saudisk-militrskip-i-rdehavet",
-      "content": "Jemens Houtibevegelse hevder å ha angrepet et saudisk transportskip for militært utstyr i Mandebstredet i Rødehavet.\n\nDet melder det houtistyrte nyhetsbyrået Saba tirsdag kveld.\n\nTidligere tirsdag skal et egyptisk lasteskip ha blitt angrepet av et foreløpig ukjent prosjektil i Mandebstredet. Fire personer ble drept, ifølge Jemens transportdepartement.\n\nRødehavet\n\nRødehavet er en havarm som skiller Afrika fra Asia (Arabia). Åtte nasjoner har kystlinje mot Rødehavet: Egypt, Sudan, Eritrea og Djibouti på den afrikanske siden, og Jemen, Saudi-Arabia, Jordan og Israel på den asiatiske siden.",
-      "excerpt": "Jemens Houtibevegelse hevder å ha angrepet et saudisk transportskip for militært utstyr i Mandebstredet i Rødehavet.\n\nDet melder det houtistyrte nyhetsbyrået Saba tirsdag kveld.\n\nTidligere tirsdag skal et egyptisk lasteskip ha blitt angrepet av et foreløpig ukjent prosjektil i Mandebstredet. Fire...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/houtiene-hevder-a-ha-angrepet-saudisk-militaerskip-i-rodehavet-1.17986652",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-11T19:03:10.745Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2964,
+    "totalFetched": 2967,
     "totalPublished": 77,
-    "lastFetch": "2026-08-13T09:13:26.307Z",
+    "lastFetch": "2026-08-13T11:01:10.918Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
