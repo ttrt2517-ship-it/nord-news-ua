@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786640227606.3662,
+      "title": "Moroccanoil trekker seg som Eurovision-sponsor",
+      "slug": "moroccanoil-trekker-seg-som-eurovisionsponsor",
+      "content": "Etter seks år har det selskapet Moroccanoil trukket seg som hovedsponsor av sangkonkurransen.\n\n– Vi kan bekrefte at Moroccanoil, etter seks vellykkede år, har valgt å ikke fornye sponsoravtalen sin med Eurovision Song Contest, skriver ESC i en e-post til NRK.\n\nDet israelske selskapet Moroccanoil har vært hovedsponsor av Eurovision Song Contest i seks år.\n\nMGP og Eurovision Song Contest 2026\n\nJonas Lovv er på plass i Wien og skal ut som tredje siste artist i finalen 16. mai. Her kan du sjå alt om ESC og laste ned stemmeskjema.",
+      "excerpt": "Etter seks år har det selskapet Moroccanoil trukket seg som hovedsponsor av sangkonkurransen.\n\n– Vi kan bekrefte at Moroccanoil, etter seks vellykkede år, har valgt å ikke fornye sponsoravtalen sin med Eurovision Song Contest, skriver ESC i en e-post til NRK.\n\nDet israelske selskapet Moroccanoil...",
+      "image": "https://images.unsplash.com/photo-1683797465484-109681506e0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2NDAyMjd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/moroccanoil-trekker-seg-som-eurovision-sponsor-1.17989251",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-13T16:57:07.606Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786633122427.5657,
       "title": "IF Metall avbryter streiken mot Tesla",
       "slug": "if-metall-avbryter-streiken-mot-tesla",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-12T02:03:40.511Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786500218538.0144,
-      "title": "Hus overtent i Tinn",
-      "slug": "hus-overtent-i-tinn",
-      "content": "Et hus i Tinn kommune begynte natt til onsdag å brenne. Huset som er ubebodd, kommer til å brenne ned, ifølge brannvesenet.\n\nNødetatene rykket ut etter melding om brannen klokken 2.18. Kort tid senere meldte brannvesenet at huset var fullstendig overtent og kom til å brenne ned.\n\nDet er ikke registrert noen beboere på adressen, og politiet har ikke opplysninger om at det skal bo folk i huset, skriver NTB.",
-      "excerpt": "Et hus i Tinn kommune begynte natt til onsdag å brenne. Huset som er ubebodd, kommer til å brenne ned, ifølge brannvesenet.\n\nNødetatene rykket ut etter melding om brannen klokken 2.18. Kort tid senere meldte brannvesenet at huset var fullstendig overtent og kom til å brenne ned.\n\nDet er ikke...",
-      "image": "https://images.unsplash.com/photo-1705534315642-2d37f79d849e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY1MDAyMTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/hus-overtent-i-tinn-1.17986796",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-12T02:03:38.538Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2972,
+    "totalFetched": 2973,
     "totalPublished": 77,
-    "lastFetch": "2026-08-13T14:58:44.338Z",
+    "lastFetch": "2026-08-13T16:57:09.248Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
