@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786606560635.8875,
+      "title": "Tre barn utskrevet fra sykehus etter å ha pustet inn klorgass",
+      "slug": "tre-barn-utskrevet-fra-sykehus-etter-ha-pustet-inn-klorgass",
+      "content": "Seks barn ble innlagt på sykehuset onsdag kveld etter å ha pustet inn klorgass på Dampsaga bad i Steinkjer.\n\nTorsdag morgen er tre barn fortsatt innlagt på sykehuset i Levanger.\n\n– Tre barn har vært innlagt over natten til observasjon og oppfølgning, skriver Svein Håvard Karlsen, kommunikasjonsdirektør i Helse Nord-Trøndelag, i en tekstmelding til NRK.\n\nKarlsen forteller at det ligger an til at alle tre blir utskrevet om kort tid.\n\nSeks barn er fraktet til sykehus og 68 personer ble evakuert etter at det ble meldt om klorgass på Dampsaga Bad i Steinkjer.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "Seks barn ble innlagt på sykehuset onsdag kveld etter å ha pustet inn klorgass på Dampsaga bad i Steinkjer.\n\nTorsdag morgen er tre barn fortsatt innlagt på sykehuset i Levanger.\n\n– Tre barn har vært innlagt over natten til observasjon og oppfølgning, skriver Svein Håvard Karlsen...",
+      "image": "https://images.unsplash.com/photo-1639471198706-124105441bda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2MDY1NjB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/trondelag/tre-barn-utskrevet-fra-sykehus-etter-a-ha-pustet-inn-klorgass-1.17988286",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-13T07:36:00.635Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786599642425.4114,
       "title": "Kaller helsebyråden inn på teppet etter sykehjemsvarsler",
       "slug": "kaller-helsebyrden-inn-p-teppet-etter-sykehjemsvarsler",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-11T16:57:59.167Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786467477519.2354,
-      "title": "10.000 hjem uten vann i London",
-      "slug": "10000-hjem-uten-vann-i-london",
-      "content": "Rundt 10.000 hjem er uten vann eller opplever svært lavt vanntrykk i det nordøstlige London.\n\nDet skjer samtidig som England er inne i sin femte hetebølge denne sommeren.\n\nProblemene oppsto lørdag, da to vannledninger sprengte.\n\nVannselskapet Thames Water jobber med å løse problemet, men uttalte tirsdag morgen at rørene «er vanskeligere å reparere enn først antatt».\n\nHetebølge og varmerekorder\n\nVi følger hetebølge og varmerekorder direkte.\nEr du et sted med hetebølge? Ta kontakt med NRK her.",
-      "excerpt": "Rundt 10.000 hjem er uten vann eller opplever svært lavt vanntrykk i det nordøstlige London.\n\nDet skjer samtidig som England er inne i sin femte hetebølge denne sommeren.\n\nProblemene oppsto lørdag, da to vannledninger sprengte.\n\nVannselskapet Thames Water jobber med å løse problemet, men uttalte...",
-      "image": "https://images.unsplash.com/photo-1698393895072-96ca8593c9f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY0Njc0Nzd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/10.000-hjem-uten-vann-i-london-1.17986550",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-11T16:57:57.519Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2960,
+    "totalFetched": 2961,
     "totalPublished": 77,
-    "lastFetch": "2026-08-13T05:40:43.980Z",
+    "lastFetch": "2026-08-13T07:36:02.434Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
