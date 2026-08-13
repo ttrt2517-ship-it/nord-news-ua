@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786653874803.4302,
+      "title": "To skip angrepet i Hormuzstredet",
+      "slug": "to-skip-angrepet-i-hormuzstredet",
+      "content": "To skip fra oljeselskapet ADNOC ble angrepet i Hormuzstredet torsdag kveld.\n\nIngen personer kom til skade, og situasjonen er nå under kontroll. Det opplyser det statlige nyhetsbyrået WAM i De forente arabiske emirater, ifølge Reuters\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "To skip fra oljeselskapet ADNOC ble angrepet i Hormuzstredet torsdag kveld.\n\nIngen personer kom til skade, og situasjonen er nå under kontroll. Det opplyser det statlige nyhetsbyrået WAM i De forente arabiske emirater, ifølge Reuters\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et...",
+      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2NTM4NzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-skip-angrepet-i-hormuzstredet-1.17989502",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-13T20:44:34.804Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786647828918.6836,
       "title": "Alvorlig ATV-ulykke i Tana",
       "slug": "alvorlig-atvulykke-i-tana",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-12T05:37:46.206Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786513064396.529,
-      "title": "Brann på ferge utenfor Bali",
-      "slug": "brann-p-ferge-utenfor-bali",
-      "content": "Redningsmannskaper jobber for å redde flere passasjerer fra en ferge som brenner i grov sjø nær Bali i Indonesia, skriver NTB.\n\nSå langt er 106 personer reddet, og man jobber for å få de siste 25 menneskene av fergen, ifølge nyhetsbyrået.\n\nRedningsleder Muhammad Hariyadi sier grov sjø med bølger på opptil 4 meter gjør arbeidet vanskeligere.\n\nBrannen startet ved 4.15-tiden. Ferga var på vei fra Padang Bai på Bali til Lembar på naboøya Lombok, ifølge redningssentralen i provinshovedstaden Mataram.",
-      "excerpt": "Redningsmannskaper jobber for å redde flere passasjerer fra en ferge som brenner i grov sjø nær Bali i Indonesia, skriver NTB.\n\nSå langt er 106 personer reddet, og man jobber for å få de siste 25 menneskene av fergen, ifølge nyhetsbyrået.\n\nRedningsleder Muhammad Hariyadi sier grov sjø med bølger på...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/brann-pa-ferge-utenfor-bali-1.17986858",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-12T05:37:44.397Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2974,
+    "totalFetched": 2975,
     "totalPublished": 77,
-    "lastFetch": "2026-08-13T19:03:51.003Z",
+    "lastFetch": "2026-08-13T20:44:36.744Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
