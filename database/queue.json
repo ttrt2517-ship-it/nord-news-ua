@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786712934424.2112,
+      "title": "LO-topp advarer Støre: – Ikke rør strømstøtten",
+      "slug": "lotopp-advarer-stre-ikke-rr-strmsttten",
+      "content": "Leder i Fellesforbundet, Christian Justnes, krever at regjeringen viderefører dagens strømstøttenivå på 50 øre kilowattimen inkludert moms også til neste år.\n\nAdvarselen kommer etter at statsminister Jonas Gahr Støre under partilederdebatten i Arendal avviste å garantere at dagens støttenivå blir stående uendret i statsbudsjettet for 2027.\n\n– Minst mulig tukling og justering av norgespris, aller helst ingenting. Og mest mulig forutsigbarhet og stabilitet, sier Fellesforbundets leder Christian Justnes til NRK.\n\nStrømstøtten bør ligge på samme nivå som i dag også neste år, krever mektig LO-topp.",
+      "excerpt": "Leder i Fellesforbundet, Christian Justnes, krever at regjeringen viderefører dagens strømstøttenivå på 50 øre kilowattimen inkludert moms også til neste år.\n\nAdvarselen kommer etter at statsminister Jonas Gahr Støre under partilederdebatten i Arendal avviste å garantere at dagens støttenivå blir...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/lo-topp-advarer-store_-_-ikke-ror-stromstotten-1.17990235",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-14T13:08:54.425Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786705080260.5225,
       "title": "Verdens helseorganisasjon: Over fire angrep daglig mot helsevesen i konfliktområder",
       "slug": "verdens-helseorganisasjon-over-fire-angrep-daglig-mot-helsev",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-12T14:58:05.414Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786546682031.3843,
-      "title": "281 personer pågrepet for branner i Hellas",
-      "slug": "281-personer-pgrepet-for-branner-i-hellas",
-      "content": "252 personer er pågrepet for uaktsomhet som forårsaket brann, og 28 er pågrepet for brannstiftelse.\n\nSommerens hetebølge over Europa har gjort terrenget svært tørt og ført til store skogbranner i Sør-Europa.\n\nI Hellas har brannene krevd flere liv, og hundrevis av hjem er blitt evakuert.\n\nDen greske regjeringen har de siste årene skjerpet straffene for personer som dømmes for å ha forårsaket branner. Straffedømte kan risikere fengsel på opptil 20 år og bøter på opptil 200.000 euro.\n\nSkogbrann og skogbrannfare\n\nTørt terreng og lite nedbør har ført til stor skogbrannfare",
-      "excerpt": "252 personer er pågrepet for uaktsomhet som forårsaket brann, og 28 er pågrepet for brannstiftelse.\n\nSommerens hetebølge over Europa har gjort terrenget svært tørt og ført til store skogbranner i Sør-Europa.\n\nI Hellas har brannene krevd flere liv, og hundrevis av hjem er blitt evakuert.\n\nDen greske...",
-      "image": "https://images.unsplash.com/photo-1726079667649-6668ecea5cc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY1NDY2ODF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/281-personer-pagrepet-for-branner-i-hellas-1.17987610",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-12T14:58:02.031Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2990,
+    "totalFetched": 2991,
     "totalPublished": 77,
-    "lastFetch": "2026-08-14T10:58:01.878Z",
+    "lastFetch": "2026-08-14T13:08:55.680Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
