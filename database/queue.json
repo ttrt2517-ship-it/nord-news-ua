@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786685883220.455,
+      "title": "Fire skadet da lastebil kjørte inn i ambulanse i Tyskland",
+      "slug": "fire-skadet-da-lastebil-kjrte-inn-i-ambulanse-i-tyskland",
+      "content": "Fire personer er alvorlig skadet etter at en lastebil kjørte inn i en stående ambulanse i Tyskland fredag morgen, opplyser tysk politi.\n\nUlykken skjedde på motorveien A44 i delstaten Hessen. Ambulansen sto på veiskulderen og behandlet en pasient da lastebilen traff den uten å bremse, skriver NTB.",
+      "excerpt": "Fire personer er alvorlig skadet etter at en lastebil kjørte inn i en stående ambulanse i Tyskland fredag morgen, opplyser tysk politi.\n\nUlykken skjedde på motorveien A44 i delstaten Hessen. Ambulansen sto på veiskulderen og behandlet en pasient da lastebilen traff den uten å bremse, skriver NTB.",
+      "image": "https://images.unsplash.com/photo-1522865080725-2a9ea1fcb94e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2ODU4ODN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fire-skadet-da-lastebil-kjorte-inn-i-ambulanse-i-tyskland-1.17989546",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-14T05:38:03.220Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786685881325.3608,
+      "title": "Norge gir 10 millioner kroner til jordskjelvrespons i Colombia",
+      "slug": "norge-gir-10-millioner-kroner-til-jordskjelvrespons-i-colomb",
+      "content": "Norge gir ti millioner kroner i ekstra støtte til lokal jordskjelvinnsats i Colombia gjennom Røde Kors-bevegelsen.\n\nMidlene hentes fra den humanitære reserven og skal blant annet gå til akutt helsehjelp, rent vann, midlertidig husly og gjenforening av familier etter denne ukens ødeleggende jordskjelv.\n\n– Mange mennesker har mistet livet i skjelvet, men om responsen ikke er rask og god vil skjelvet ta flere liv i dagene og ukene fremover, sier utviklingsminister Åsmund Aukrust.\n\nJordskjelv i Sør-Amerika\n\nUtenfor kysten av det nordlige Chile har det vært et nytt kraftig jordskjelv, med en styrke på 7,8. Nå er tsunamivarselet trukket tilbake. I går mistet fem menneker livet i et kraftig jordskjelv.",
+      "excerpt": "Norge gir ti millioner kroner i ekstra støtte til lokal jordskjelvinnsats i Colombia gjennom Røde Kors-bevegelsen.\n\nMidlene hentes fra den humanitære reserven og skal blant annet gå til akutt helsehjelp, rent vann, midlertidig husly og gjenforening av familier etter denne ukens ødeleggende...",
+      "image": "https://images.unsplash.com/photo-1729721277487-67e0db2fe164?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2ODU4ODF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/-norge-gir-10-millioner-kroner-til-jordskjelvrespons-i-colombia-1.17989578",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-14T05:38:01.325Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786685879449.2925,
+      "title": "Nigel Farage valgt inn i Parlamentet – igjen",
+      "slug": "nigel-farage-valgt-inn-i-parlamentet-igjen",
+      "content": "Reform UK-leder Nigel Farage har vunnet suppleringsvalget i Clacton og gjør dermed comeback i det britiske parlamentet.\n\nDermed nådde ikke hovedutfordreren Count Binface – Grev Søppelkassefjes – opp i suppleringsvalget som ble utløst da Farage trakk seg for en drøy måned siden.\n\nDe etablerte partiene boikottet valget, som de så på som et stunt fra Farages side og en sløsing med ressurser.",
+      "excerpt": "Reform UK-leder Nigel Farage har vunnet suppleringsvalget i Clacton og gjør dermed comeback i det britiske parlamentet.\n\nDermed nådde ikke hovedutfordreren Count Binface – Grev Søppelkassefjes – opp i suppleringsvalget som ble utløst da Farage trakk seg for en drøy måned siden.\n\nDe etablerte...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/nigel-farage-valgt-inn-i-parlamentet-_-igjen-1.17989584",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-14T05:37:59.449Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786673027201.7808,
       "title": "Afghansk ordfører drept i bombeangrep",
       "slug": "afghansk-ordfrer-drept-i-bombeangrep",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-12T09:12:32.168Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786525950453.8428,
-      "title": "Ukraina ber Nato om bistand til minerydding",
-      "slug": "ukraina-ber-nato-om-bistand-til-minerydding",
-      "content": "Ukraina har bedt om internasjonal bistand til humanitært mineryddingsutstyr gjennom Natos krisehåndterings­mekanisme. Det sier Nato i en uttalelse onsdag, ifølge Reuters.\n\nDet er tidligere anslått at 30–40 prosent av Ukraina er minelagt.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ukraina har bedt om internasjonal bistand til humanitært mineryddingsutstyr gjennom Natos krisehåndterings­mekanisme. Det sier Nato i en uttalelse onsdag, ifølge Reuters.\n\nDet er tidligere anslått at 30–40 prosent av Ukraina er minelagt.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ukraina-ber-nato-om-bistand-til-minerydding-1.17987129",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-12T09:12:30.453Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786525948788.2637,
-      "title": "Putin truer med å beslaglegge europeiske skip",
-      "slug": "putin-truer-med-beslaglegge-europeiske-skip",
-      "content": "Russlands president Vladimir Putin truer med å beslaglegge skip tilhørende europeiske land, som svar på EUs planer om å selge last fra beslaglagte russiske «skyggeflåte»-fartøy.\n\nPutin kaller de europeiske aksjonene for piratvirksomhet og tyveri.\n\n– Vi vil bli tvunget til å svare med samme mynt, sier han.\n\nPresidenten legger til at Russland vil handle hvor som helst der de selv anser det som nødvendig og hensiktsmessig.\n\nNye EU-sanksjoner vedtatt forrige måned tillater medlemsland å selge olje eller annen last beslaglagt fra skip som bryter europeiske sanksjoner mot Russland.\n\nSvenske rettsdokumenter fra tidligere i august viser at Sverige vil overføre et beslaglagt russisk skip til Ukraina. Ifølge kystvakten står skipet på Ukrainas sanksjonsliste.\n\nSvenske myndigheter har fått opplyst at det dreier seg om transport av stjålet korn fra Ukraina.",
-      "excerpt": "Russlands president Vladimir Putin truer med å beslaglegge skip tilhørende europeiske land, som svar på EUs planer om å selge last fra beslaglagte russiske «skyggeflåte»-fartøy.\n\nPutin kaller de europeiske aksjonene for piratvirksomhet og tyveri.\n\n– Vi vil bli tvunget til å svare med samme mynt...",
-      "image": "https://images.unsplash.com/photo-1763702433943-a7529b7f275d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY1MjU5NDh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/putin-truer-med-a-beslaglegge-europeiske-skip-1.17987181",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-12T09:12:28.788Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786519582391.0623,
-      "title": "Who are the international residents most likely to leave Norway?",
-      "slug": "who-are-the-international-residents-most-likely-to-leave-nor",
-      "content": "A significant proportion of foreign nationals who relocate to Norway eventually choose to leave the country, with departure rates varying according to the initial reason for immigration, as data from Statistics Norway (SSB) has revealed.\n\nOf the 1,216,000 non-Nordic citizens who immigrated to Norway between 1990 and 2025, approximately 69 percent (844,000 individuals) remained registered as residents in the country as of January 1st 2026.\n\nThis indicates that nearly one-third of all international arrivals during the past three decades have since relocated elsewhere.\n\nAccording to the SSB analysis, the likelihood of long-term residence in Norway is strongly influenced by the initial reason for immigration.\n\nForeigners arriving on education permits are the most likely to leave Norway. Only 37 percent of the 115,000 students who arrived between 1990 and 2025 remain in the country.\n\nThis outcome is primarily due to the requirement for graduates to obtain a new legal basis, such as a work permit, to remain after completing their studies, which presents significant challenges for long-term residence.\n\nForeign workers also frequently depart after several years.\n\nOf the 398,000 migrant workers who arrived during the same 35-year period, 61 percent were still living in Norway at the beginning of 2026.\n\nIndividuals immigrating for family reunification show a greater tendency to settle long-term, with 76 percent of the 404,000 arrivals in this category still residing in Norway.\n\nThis is usually because they have stronger ties to Norway, whether through having a Norwegian partner or family already in the country.\n\nIndividuals seeking international protection are the most likely to remain in Norway on a permanent basis.\n\nOf the 290,000 refugees who have arrived since 1990, 85 percent remain registered as residents.\n\nREAD ALSO: 'I can't say I wasn't warned': Why foreign residents leave Norway\n\nWhile SSB data shows that the initial reason for moving can influence how long you stay, general feedback reveals that those who choose to leave Norway are also driven by a variety of other factors.\n\nThese factors typically include difficulties with social integration, feeling lonely, specific challenges encountered by healthcare professionals, and limited career or employment opportunities.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "A significant proportion of foreign nationals who relocate to Norway eventually choose to leave the country, with departure rates varying according to the initial reason for immigration, as data from Statistics Norway (SSB) has revealed.\n\nOf the 1,216,000 non-Nordic citizens who immigrated to...",
-      "image": null,
-      "original_url": "https://www.thelocal.no/20260707/who-are-the-international-residents-most-likely-to-leave-norway",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-08-12T07:26:22.391Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2980,
+    "totalFetched": 2983,
     "totalPublished": 77,
-    "lastFetch": "2026-08-14T02:03:48.872Z",
+    "lastFetch": "2026-08-14T05:38:04.859Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
