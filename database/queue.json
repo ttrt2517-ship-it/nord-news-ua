@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786762349454.4927,
+      "title": "Nytt emiratisk skip angrepet i Hormuzstredet",
+      "slug": "nytt-emiratisk-skip-angrepet-i-hormuzstredet",
+      "content": "Et nytt skip fra De forente arabiske emirater har blitt angrepet i Hormuzstredet fredag kveld. Det bekrefter det statlige oljeselskapet ADNOC via det offisielle nyhetsbyrået WAM, melder NTB.\n\nDet er ikke meldt om noen personskader. Angrepet skjer kun én dag etter at Emiratene anklaget Iran for å ha angrepet to andre av selskapets skip i det viktige stredet.\n\nIran har stanset nesten all skipstrafikk gjennom stredet etter at USA og Israel gikk til krig mot landet.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Et nytt skip fra De forente arabiske emirater har blitt angrepet i Hormuzstredet fredag kveld. Det bekrefter det statlige oljeselskapet ADNOC via det offisielle nyhetsbyrået WAM, melder NTB.\n\nDet er ikke meldt om noen personskader. Angrepet skjer kun én dag etter at Emiratene anklaget Iran for å ha...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/nytt-emiratisk-skip-angrepet-i-hormuzstredet-1.17990745",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-15T02:52:29.454Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786756703094.9211,
       "title": "Elleve lik observert i sjøen utenfor Libya",
       "slug": "elleve-lik-observert-i-sjen-utenfor-libya",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-12T22:41:58.473Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786567596712.9438,
-      "title": "Trumps pressesekretær går av",
-      "slug": "trumps-pressesekretr-gr-av",
-      "content": "Pressesjef i Det hvite hus, Karoline Leavitt, slutter i jobben ved utgangen av august.\n\nDet bekrefter president Donald Trump i et innlegg på Truth Social onsdag kveld.\n\nGrunnen er at Leavitt ønsker å tilbringe mer tid med familien, skriver Trump:\n\n– Vår fantastiske pressesekretær i Det hvite hus, og en av mine mest betrodde rådgivere, Karoline Leavitt, går av ved utgangen av måneden slik at hun kan tilbringe mer tid med sine vakre, små barn og sin familie – en avgjørelse jeg har full forståelse og respekt for!\n\nHun vil fortsatt ha en viktig rolle som ekstern rådgiver og være en innflytelsesrik stemme i Det republikanske partiet, ifølge Trump.\n\nLeavitt ble tidenes ynste pressesekretær i Det hvite hus da hun fikk jobben som 27-åring i 2025.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.",
-      "excerpt": "Pressesjef i Det hvite hus, Karoline Leavitt, slutter i jobben ved utgangen av august.\n\nDet bekrefter president Donald Trump i et innlegg på Truth Social onsdag kveld.\n\nGrunnen er at Leavitt ønsker å tilbringe mer tid med familien, skriver Trump:\n\n– Vår fantastiske pressesekretær i Det hvite hus...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trumps-pressesekretaer-gar-av-1.17987907",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-12T20:46:36.712Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2999,
+    "totalFetched": 3000,
     "totalPublished": 77,
-    "lastFetch": "2026-08-15T01:18:24.742Z",
+    "lastFetch": "2026-08-15T02:52:31.477Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
