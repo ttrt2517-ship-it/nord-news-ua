@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1786818665719.7092,
+      "title": "Brakt til sykehus etter mulig arbeidsulykke",
+      "slug": "brakt-til-sykehus-etter-mulig-arbeidsulykke",
+      "content": "Politi, helsepersonell og brannvesenet rykka lørdag ettermiddag ut til et oppdrettsanlegg i Friarfjord etter en mulig gasslekkasje.\n\nI tillegg bidro hovedredningssentralen med helikopterstøtte.\n\n– En person er brakt til sykehus for oppfølging. Brannvesenet har kontrollert området, ingen gass er funnet ved de siste målingene. Pasienten var ved bevissthet da vedkommende ble brakt til sykehuset, melder politiet i Finnmark.",
+      "excerpt": "Politi, helsepersonell og brannvesenet rykka lørdag ettermiddag ut til et oppdrettsanlegg i Friarfjord etter en mulig gasslekkasje.\n\nI tillegg bidro hovedredningssentralen med helikopterstøtte.\n\n– En person er brakt til sykehus for oppfølging. Brannvesenet har kontrollert området, ingen gass er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/tromsogfinnmark/brakt-til-sykehus-etter-mulig-arbeidsulykke-1.17991187",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-15T18:31:05.719Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786818663950.6936,
+      "title": "Utenlandske statsborgere anholdt for droneflyging",
+      "slug": "utenlandske-statsborgere-anholdt-for-droneflyging",
+      "content": "Politiet har anholdt to utenlandske borgere etter at Forsvaret meldte om droneflygning ved Kolsås leir i Bærum.\n\n– Området over leiren er restriksjonsområde hvor all sensoraktivitet er forbudt. Vi har tatt beslag i utstyret og de to anmeldes, skriver politiet.\n\nDroner\n\nFra 1. januar 2021 må alle dronepiloter med drone med kamera eller tyngde over 250 gram registrere seg på nettsiden flydrone.no. Tidligere skilte man mellom hobbybruk og næringsbruk.",
+      "excerpt": "Politiet har anholdt to utenlandske borgere etter at Forsvaret meldte om droneflygning ved Kolsås leir i Bærum.\n\n– Området over leiren er restriksjonsområde hvor all sensoraktivitet er forbudt. Vi har tatt beslag i utstyret og de to anmeldes, skriver politiet.\n\nDroner\n\nFra 1. januar 2021 må alle...",
+      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4MTg2NjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/utenlandske-statsborgere-anholdt-for-droneflyging-1.17991183",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-15T18:31:03.950Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786811174340.9187,
       "title": "Elleve døde etter israelsk angrep i Sør-Libanon",
       "slug": "elleve-dde-etter-israelsk-angrep-i-srlibanon",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-08-13T11:01:09.235Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786618867533.0037,
-      "title": "Fem drept under desarmering av bombe på Krym",
-      "slug": "fem-drept-under-desarmering-av-bombe-p-krym",
-      "content": "Fem personer ble drept mens de forsøkte å desarmere en eksplosiv gjenstand i Sevastopol, den største byen på den russiskokkuperte Krymhalvøya.\n\nDet skal ha vært en gjenstand som lå igjen etter et ukrainsk droneangrep mot byen, ifølge russiske myndigheter.\n\nBlant de drepte var fire desarmeringseksperter og en sikkerhetsvakt.\n\nRussiske statlige medier melder også at en russisk soldat er drept i en eksplosjon i Sevastopol og en person er pågrepet. Det er ikke kjent om det er snakk om samme eksplosjon.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Fem personer ble drept mens de forsøkte å desarmere en eksplosiv gjenstand i Sevastopol, den største byen på den russiskokkuperte Krymhalvøya.\n\nDet skal ha vært en gjenstand som lå igjen etter et ukrainsk droneangrep mot byen, ifølge russiske myndigheter.\n\nBlant de drepte var fire...",
-      "image": "https://images.unsplash.com/photo-1670874103167-31cff21eb845?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2MTg4Njd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/fem-drept-under-desarmering-av-bombe-pa-krym-1.17988747",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-13T11:01:07.533Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786618865731.6465,
-      "title": "Alvorlig motorsykkelulykke i Enebakk",
-      "slug": "alvorlig-motorsykkelulykke-i-enebakk",
-      "content": "Samtlige nødetater har rykket ut til Enebakk i Akershus etter en motorsykkeulykke.\n\nDet er snakk om en alvorlig singelulykke, ifølge politiet.\n\nVeien ulykken har skjedd på er stengt i begge retninger.",
-      "excerpt": "Samtlige nødetater har rykket ut til Enebakk i Akershus etter en motorsykkeulykke.\n\nDet er snakk om en alvorlig singelulykke, ifølge politiet.\n\nVeien ulykken har skjedd på er stengt i begge retninger.",
-      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2MTg4NjV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/alvorlig-motorsykkelulykke-i-enebakk-1.17988670",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-13T11:01:05.732Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3014,
+    "totalFetched": 3016,
     "totalPublished": 77,
-    "lastFetch": "2026-08-15T16:26:16.287Z",
+    "lastFetch": "2026-08-15T18:31:07.993Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
