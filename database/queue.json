@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1786775982215.423,
+      "title": "Rekordlang boligkø for studenter – 13.700 venter fremdeles",
+      "slug": "rekordlang-boligk-for-studenter-13700-venter-fremdeles",
+      "content": "Køen til studentbolig har sunket med 3300 på to uker, men fortsatt venter rekordmange på å få plass. Listen er lengst i Bergen.\n\nTotalt 19.411 studenter har fått tildelt studentbolig til studiestart og 13.758 studenter venter fortsatt.\n\nDen lengste køene er i Bergen og Oslo. Der venter 5063 og 3724 på bolig.",
+      "excerpt": "Køen til studentbolig har sunket med 3300 på to uker, men fortsatt venter rekordmange på å få plass. Listen er lengst i Bergen.\n\nTotalt 19.411 studenter har fått tildelt studentbolig til studiestart og 13.758 studenter venter fortsatt.\n\nDen lengste køene er i Bergen og Oslo. Der venter 5063 og 3724...",
+      "image": "https://images.unsplash.com/photo-1622795969840-9a906fe5a9b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY3NzU5ODJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/rekordlang-boligko-for-studenter-_-13.700-venter-fremdeles-1.17990762",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-15T06:39:42.215Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786775980377.972,
+      "title": "Sju døde etter israelsk luftangrep i Libanon",
+      "slug": "sju-dde-etter-israelsk-luftangrep-i-libanon",
+      "content": "Sju personer er døde etter et israelsk luftangrep i Sør-Libanon, ifølge libanesisk statlig media.\n\nSå langt er tre personer meldt såret i angrepet lørdag morgen. Det melder Libanons statlige nyhetsbyrå NNA.\n\nKonflikten mellom Libanon og Israel blusset opp etter at Hizbollah skjøt raketter mot Israel for å støtte sin allierte Iran. Det kom etter at Israel og USA gikk til krig mot Iran 28. februar i år. Israel svarte med tunge luftangrep og bakkeinvasjon, som ifølge Libanon har krevd 4300 menneskeliv.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
+      "excerpt": "Sju personer er døde etter et israelsk luftangrep i Sør-Libanon, ifølge libanesisk statlig media.\n\nSå langt er tre personer meldt såret i angrepet lørdag morgen. Det melder Libanons statlige nyhetsbyrå NNA.\n\nKonflikten mellom Libanon og Israel blusset opp etter at Hizbollah skjøt raketter mot...",
+      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY3NzU5ODB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/sju-dode-etter-israelsk-luftangrep-i-libanon-1.17990761",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-15T06:39:40.378Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786768339694.4856,
       "title": "Dommer gir Trump grønt lys til å kaste ut somaliere",
       "slug": "dommer-gir-trump-grnt-lys-til-kaste-ut-somaliere",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-08-12T22:42:05.214Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786574521970.371,
-      "title": "To døde da militærhelikopter styrtet i USA",
-      "slug": "to-dde-da-militrhelikopter-styrtet-i-usa",
-      "content": "To personer mistet livet da et amerikansk militærhelikopter styrtet i Texas onsdag, opplyser lokale myndigheter ifølge NTB.\n\nStyrten førte til en skogbrann som gjorde at flere boliger i området måtte evakueres.\n\nDet er ennå ikke kjent hvorfor helikopteret av typen Apache styrtet, og det amerikanske militæret har nå startet etterforskning av ulykken.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "To personer mistet livet da et amerikansk militærhelikopter styrtet i Texas onsdag, opplyser lokale myndigheter ifølge NTB.\n\nStyrten førte til en skogbrann som gjorde at flere boliger i området måtte evakueres.\n\nDet er ennå ikke kjent hvorfor helikopteret av typen Apache styrtet, og det amerikanske...",
-      "image": "https://images.unsplash.com/photo-1511346408292-8754df323b0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY1NzQ1MjF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/to-dode-da-militaerhelikopter-styrtet-i-usa-1.17988189",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-12T22:42:01.970Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786574520164.3691,
-      "title": "Sju døde i jordskred i Mumbai",
-      "slug": "sju-dde-i-jordskred-i-mumbai",
-      "content": "Minst sju mennesker døde i et jordskred utløst av monsunregn i den indiske storbyen Mumbai. Fire andre ble skadet i skredet, opplyser myndighetene.\n\nSkredet skjedde like før daggry onsdag, da en skrent kollapset over to eller tre hus i en husklynge i forstaden Ghatkopar, ifølge en talsmann.\n\nI den påfølgende redningsaksjonen ble minst ti mennesker hentet ut av skredmassene og ført til sykehus. Seks av dem, inkludert to barn og to tenåringer, ble erklært døde da de ankom sykehuset. Fire andre ble lagt inn for behandling.",
-      "excerpt": "Minst sju mennesker døde i et jordskred utløst av monsunregn i den indiske storbyen Mumbai. Fire andre ble skadet i skredet, opplyser myndighetene.\n\nSkredet skjedde like før daggry onsdag, da en skrent kollapset over to eller tre hus i en husklynge i forstaden Ghatkopar, ifølge en talsmann.\n\nI den...",
-      "image": "https://images.unsplash.com/photo-1660587959651-ea8e29dbad22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY1NzQ1MjB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/sju-dode-i-jordskred-i-mumbai-1.17988194",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-12T22:42:00.164Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3001,
+    "totalFetched": 3003,
     "totalPublished": 77,
-    "lastFetch": "2026-08-15T04:32:21.406Z",
+    "lastFetch": "2026-08-15T06:39:44.256Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
