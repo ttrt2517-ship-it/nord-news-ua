@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786756703094.9211,
+      "title": "Elleve lik observert i sjøen utenfor Libya",
+      "slug": "elleve-lik-observert-i-sjen-utenfor-libya",
+      "content": "Redningsarbeidere i overvåkingsfly har observert elleve døde mennesker i sjøen utenfor kysten av Libya, opplyser SOS Méditerranée.\n\nDe døde ble sett fra et fly hjelpeorganisasjonen bruker til å søke etter båter i havsnød. Mange migranter legger ut på den farefulle ferden over Middelhavet fra nettopp Libya, ofte i skrøpelige farkoster.\n\nDen italienske kystvakten bekrefter at de fredag fikk opplysninger om de døde fra en ikke-statlig organisasjon. Observasjonen ble gjort rundt 106 kilometer utenfor byen Zuwara.\n\nOpplysningene om de døde er sendt videre til Libyas kystvakt, som har ansvaret i det aktuelle havområdet.\n\nBåtflyktninger i Middelhavet\n\nFN anslår at minst 25.000 mennesker har mistet livet i forsøk på å krysse Middelhavet siden 2014. Ifølge FN har over 80.000 flyktninger og migranter kommet sjøveien til Italia i første halvår 2023. Et ukjent antall har druknet på veien.",
+      "excerpt": "Redningsarbeidere i overvåkingsfly har observert elleve døde mennesker i sjøen utenfor kysten av Libya, opplyser SOS Méditerranée.\n\nDe døde ble sett fra et fly hjelpeorganisasjonen bruker til å søke etter båter i havsnød. Mange migranter legger ut på den farefulle ferden over Middelhavet fra...",
+      "image": "https://images.unsplash.com/photo-1704323081531-2e28c0728a44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY3NTY3MDN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/elleve-lik-observert-i-sjoen-utenfor-libya-1.17990739",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-15T01:18:23.094Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786739540765.497,
       "title": "Brannmann død etter gasseksplosjoner i Brussel",
       "slug": "brannmann-dd-etter-gasseksplosjoner-i-brussel",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-12T20:46:36.712Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786567594986.4119,
-      "title": "Fare for flystreik: Varsler opptrapping",
-      "slug": "fare-for-flystreik-varsler-opptrapping",
-      "content": "Handel og Kontor i Norge (HK Norge) varsler at en eventuell flystreik vil trappes opp fra tirsdag 18. august.\n\nMeklingen med NHO Luftfart har frist ved midnatt onsdag.\n\nBlir de ikke enige, går 183 ansatte ut i streik fra torsdag, før streiken trappes opp til 580 ansatte fra 18. august, skriver forbundet i en pressemelding.\n\nStreiken vil ramme bakketjenester og innsjekk hos blant andre SAS, Widerøe og Norwegian.\n\nKonflikten handler om lønn, ubekvemstillegg og kompetanse.\n\nFlystreik i Norge\n\nFlyteknikerkonfikten ble stoppet av regjeringen tirsdag gjennom tvungen lønnsnemnd. Regjeringen mente konflikten truet liv og helse etter at NHO luftfart hadde innført lockout. Samtidig er det fare for pilotstreik i SAS.",
-      "excerpt": "Handel og Kontor i Norge (HK Norge) varsler at en eventuell flystreik vil trappes opp fra tirsdag 18. august.\n\nMeklingen med NHO Luftfart har frist ved midnatt onsdag.\n\nBlir de ikke enige, går 183 ansatte ut i streik fra torsdag, før streiken trappes opp til 580 ansatte fra 18. august, skriver...",
-      "image": "https://images.unsplash.com/photo-1753696278559-38efaeafab72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY1Njc1OTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/fare-for-flystreik_-varsler-opptrapping-1.17988147",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-12T20:46:34.986Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 2998,
+    "totalFetched": 2999,
     "totalPublished": 77,
-    "lastFetch": "2026-08-14T22:24:04.273Z",
+    "lastFetch": "2026-08-15T01:18:24.742Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
