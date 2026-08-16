@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786875832602.075,
+      "title": "Sit utsatt for dataangrep",
+      "slug": "sit-utsatt-for-dataangrep",
+      "content": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim (Sit) har vært utsatt for et dataangrep mot kundedatabasen. Det er en risiko for at personopplysninger er på avveier, skriver de i en pressemelding.\n\nDe ble informert om angrepet fredag fra systemleverandøren som fortalte at uvedkommende kan ha fått tilgang til personopplysninger.\n\nOpptil 780 studenter med et kundeforhold til Sit kan være berørt. De skal ha blitt varslet.\n\n– Det ble gjennomført tiltak for å stanse aktiviteten og sikre kundedatabasen. Problemet knyttet til dataangrepet er identifisert og rettet, sier administrerende direktør Morten Wolden.\n\n– Angrepet framstår som et forsøk på å tjene penger på SMS-verifisering, og ikke primært for å hente ut persondata, men vi kan ikke stadfeste dette med 100 prosent sikkerhet, sier han.\n\nSøndag 16. august delte Studentsamskipnaden i Gjøvik, Ålesund og Trondheim (Sit) at de har blitt utsatt for et dataangrep.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
+      "excerpt": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim (Sit) har vært utsatt for et dataangrep mot kundedatabasen. Det er en risiko for at personopplysninger er på avveier, skriver de i en pressemelding.\n\nDe ble informert om angrepet fredag fra systemleverandøren som fortalte at uvedkommende kan ha...",
+      "image": "https://images.unsplash.com/photo-1725393213481-ca9dc8bef2be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4NzU4MzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/trondelag/sit-utsatt-for-dataangrep-1.17991399",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-16T10:23:52.603Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786869040479.2976,
       "title": "Ny mulig streik kan gi mel- og brødmangel",
       "slug": "ny-mulig-streik-kan-gi-mel-og-brdmangel",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-14T07:26:11.341Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786692369658.7974,
-      "title": "Russisk angrep på ukrainsk jernbanestasjon",
-      "slug": "russisk-angrep-p-ukrainsk-jernbanestasjon",
-      "content": "Russiske styrker har truffet jernbanestasjonen i havnebyen Izmail, sør i Ukraina, opplyser det russiske forsvarsdepartementet.\n\nDepartementet mener stasjonen ble brukt til å lagre og transportere militært gods og drivstofforsyninger til Ukrainas væpnede styrker.\n\nTo slepebåter ble også angrepet utenfor kysten av byen Mykolajiv. Russland hevder at slepebåtene ble brukt til å eskortere lasteskip til ukrainske havner.\n\nDet har ikke lykkes Reuters å selvstendig verifisere det russiske forsvarsdepartementets påstander.\n\nUkraina har så langt ikke kommentert opplysningene.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Russiske styrker har truffet jernbanestasjonen i havnebyen Izmail, sør i Ukraina, opplyser det russiske forsvarsdepartementet.\n\nDepartementet mener stasjonen ble brukt til å lagre og transportere militært gods og drivstofforsyninger til Ukrainas væpnede styrker.\n\nTo slepebåter ble også angrepet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russisk-angrep-pa-ukrainsk-jernbanestasjon-1.17989722",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-14T07:26:09.658Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3033,
+    "totalFetched": 3034,
     "totalPublished": 77,
-    "lastFetch": "2026-08-16T08:30:42.367Z",
+    "lastFetch": "2026-08-16T10:23:54.966Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
