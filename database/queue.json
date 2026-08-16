@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786897599214.2053,
+      "title": "Rykker ut til front mot front",
+      "slug": "rykker-ut-til-front-mot-front",
+      "content": "Alle nødetater rykker ut etter melding om trafikkulykke i Indre Østfold.\n\n– To biler er involvert, front mot front, skriver operasjonsleder Atle Vesttorp i presseklienten.\n\n– En person erkjenner å ha sovnet bak rattet og dermed kommet over i motgående kjøreretning.\n\nDet skal ha vært en person i hver bil, og klokken 17.45 kan Vesttorp fortelle at begge skal være ute av bilene. Begge skal også være våkne.\n\n– De involverte får hjelp av helsepersonell på stedet, forteller Vesttorp til NRK.\n\nPå grunn av hastighen blir begge førerne kjørt til traumemottaket for videre undersøkelser med tanke på høyenergiskader.\n\nBegge bilene har behov for berging, og veien sperres.",
+      "excerpt": "Alle nødetater rykker ut etter melding om trafikkulykke i Indre Østfold.\n\n– To biler er involvert, front mot front, skriver operasjonsleder Atle Vesttorp i presseklienten.\n\n– En person erkjenner å ha sovnet bak rattet og dermed kommet over i motgående kjøreretning.\n\nDet skal ha vært en person i...",
+      "image": "https://images.unsplash.com/photo-1632243392669-849a04b60780?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4OTc1OTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/ostfold/rykker-ut-til-front-mot-front-1.17991550",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-16T16:26:39.214Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786897597141.6821,
+      "title": "16 personer i Russland og Ukraina søndag",
+      "slug": "16-personer-i-russland-og-ukraina-sndag",
+      "content": "Minst 16 personer er drept i drone- og missilangrep i Russland og Ukraina. Angrepene har rammet sivil infrastruktur, boligområder og et stort stålverk, ifølge AFP.\n\nPresident Zelenskyj melder om over 3 000 luftangrep den siste uken og ber igjen om mer luftvern.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Minst 16 personer er drept i drone- og missilangrep i Russland og Ukraina. Angrepene har rammet sivil infrastruktur, boligområder og et stort stålverk, ifølge AFP.\n\nPresident Zelenskyj melder om over 3 000 luftangrep den siste uken og ber igjen om mer luftvern.\n\nKrigen i Ukraina\n\nRussland invaderte...",
+      "image": "https://images.unsplash.com/photo-1705413868961-d652425d6278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4OTc1OTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/16-personer-i-russland-og-ukraina-sondag-1.17991651",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-16T16:26:37.141Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786897595011.2703,
+      "title": "Felles fordømmelse av Israels avvisning av Trumps Gaza-plan.",
+      "slug": "felles-fordmmelse-av-israels-avvisning-av-trumps-gazaplan",
+      "content": "Fem arabiske land fordømte søndag Israels avvisning av USA-president Donald Trumps plan for Gaza.\n\nI en felles uttalelse sa landene Jordan, Egypt, Qatar, Saudi-Arabia og De forente arabiske emirater, at avvisningen truet Trumps økte innsats for å gjøre slutt på krigen i Gaza.\n\nOgså Tyrkia, Pakistan og Indonesia har fordømt Israels avvisning.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Fem arabiske land fordømte søndag Israels avvisning av USA-president Donald Trumps plan for Gaza.\n\nI en felles uttalelse sa landene Jordan, Egypt, Qatar, Saudi-Arabia og De forente arabiske emirater, at avvisningen truet Trumps økte innsats for å gjøre slutt på krigen i Gaza.\n\nOgså Tyrkia, Pakistan...",
+      "image": "https://images.unsplash.com/photo-1679996584558-514d267a8a29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4OTc1OTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/felles-fordommelse-av-israels-avvisning-av-trumps-gaza-plan.-1.17991660",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-16T16:26:35.012Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786890244229.5886,
       "title": "Antall bekreftet døde i båtulykken i Zimbabwe stiger",
       "slug": "antall-bekreftet-dde-i-btulykken-i-zimbabwe-stiger",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-14T14:52:41.597Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786712934424.2112,
-      "title": "LO-topp advarer Støre: – Ikke rør strømstøtten",
-      "slug": "lotopp-advarer-stre-ikke-rr-strmsttten",
-      "content": "Leder i Fellesforbundet, Christian Justnes, krever at regjeringen viderefører dagens strømstøttenivå på 50 øre kilowattimen inkludert moms også til neste år.\n\nAdvarselen kommer etter at statsminister Jonas Gahr Støre under partilederdebatten i Arendal avviste å garantere at dagens støttenivå blir stående uendret i statsbudsjettet for 2027.\n\n– Minst mulig tukling og justering av norgespris, aller helst ingenting. Og mest mulig forutsigbarhet og stabilitet, sier Fellesforbundets leder Christian Justnes til NRK.\n\nStrømstøtten bør ligge på samme nivå som i dag også neste år, krever mektig LO-topp.",
-      "excerpt": "Leder i Fellesforbundet, Christian Justnes, krever at regjeringen viderefører dagens strømstøttenivå på 50 øre kilowattimen inkludert moms også til neste år.\n\nAdvarselen kommer etter at statsminister Jonas Gahr Støre under partilederdebatten i Arendal avviste å garantere at dagens støttenivå blir...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/lo-topp-advarer-store_-_-ikke-ror-stromstotten-1.17990235",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-14T13:08:54.425Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786705080260.5225,
-      "title": "Verdens helseorganisasjon: Over fire angrep daglig mot helsevesen i konfliktområder",
-      "slug": "verdens-helseorganisasjon-over-fire-angrep-daglig-mot-helsev",
-      "content": "Siden januar i år har det i snitt blitt gjennomført flere enn fire angrep hver dag mot helsepersonell, pasienter og sykehus i verdens konfliktsoner.\n\nTallene kommer fra Verdens helseorganisasjon (WHO).\n\nOver 900 angrep har krevd minst 900 menneskeliv og skadet 1 400 i 2026, der den største andelen er registrert i Ukraina, Libanon og de okkuperte palestinske områdene, ifølge Reuters.\n\n– Et angrep på helsevesenet slutter ikke når angrepet blir verifisert. Det er pasienten som ikke kan få helsehjelp i morgen, og ambulansen som ikke kan ta den neste utrykningen, sa Altaf Musani i WHO.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Siden januar i år har det i snitt blitt gjennomført flere enn fire angrep hver dag mot helsepersonell, pasienter og sykehus i verdens konfliktsoner.\n\nTallene kommer fra Verdens helseorganisasjon (WHO).\n\nOver 900 angrep har krevd minst 900 menneskeliv og skadet 1 400 i 2026, der den største andelen...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/verdens-helseorganisasjon_-over-fire-angrep-daglig-mot-helsevesen-i-konfliktomrader-1.17989854",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-14T10:58:00.260Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786705078628.3992,
-      "title": "Rapport anbefaler å tredoble Norges drivstoffreserver",
-      "slug": "rapport-anbefaler-tredoble-norges-drivstoffreserver",
-      "content": "En ny utredning fra Oslo Economics anbefaler at regjeringen øker Norges beredskapslagre for drivstoff fra 20 til 61 dagers innenlands forbruk.\n\nBakgrunnen er det endrede sikkerhetspolitiske bildet og faren for langvarige forsyningssvikt. Næringsminister Cecilie Myrseth bekrefter at regjeringen vil fremme forslag om oppfølging i statsbudsjettet for 2027.\n\n– Vi lever i en mer urolig tid enn tidligere. Drivstoff er avgjørende for beredskap, næringsliv og tilgang til viktige samfunnstjenester. Regjeringen vil derfor styrke Norges drivstoffberedskap, skriver næringsminister Cecilie Myrseth i en pressemelding.\n\nHvis Norge havner i krig, skal du likevel kunne få vann, mat, helsehjelp, søppeltømming og gravferd. Nå får kommunene en egen øvepakke for å trene i praksis.\n\nSikkerhet og beredskap i Norge\n\nSikkerheten på norsk sokkel og rundt kraftforsyningen er skjerpet og investeringene i forsvaret øker. – Vi står i en av de mest krevende sikkerhetspolitiske situasjonene siden 2. verdenskrig, sier statsminister Jonas Gahr Støre.",
-      "excerpt": "En ny utredning fra Oslo Economics anbefaler at regjeringen øker Norges beredskapslagre for drivstoff fra 20 til 61 dagers innenlands forbruk.\n\nBakgrunnen er det endrede sikkerhetspolitiske bildet og faren for langvarige forsyningssvikt. Næringsminister Cecilie Myrseth bekrefter at regjeringen vil...",
-      "image": "https://images.unsplash.com/photo-1667400867379-d3f72f4a9c2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY3MDUwNzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/rapport-anbefaler-a-tredoble-norges-drivstoffreserver-1.17990053",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-14T10:57:58.628Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3038,
+    "totalFetched": 3041,
     "totalPublished": 77,
-    "lastFetch": "2026-08-16T14:24:06.262Z",
+    "lastFetch": "2026-08-16T16:26:41.468Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
