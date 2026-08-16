@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786843406619.4604,
+      "title": "50,000 kroner fine for waking polar bear in Norwegian Arctic",
+      "slug": "50000-kroner-fine-for-waking-polar-bear-in-norwegian-arctic",
+      "content": "A person in Norway's Svalbard archipelago in the Arctic has been fined 50,000 kroner ($5,255) for using a foghorn to wake a sleeping polar bear, local officials said Thursday.\n\nThe incident took place earlier this month when a vessel was sailing in a fjord in northeastern Svalbard, around 1,000 kilometres (620 miles) from the North Pole.\n\n\"Its occupants are said to have spotted a polar bear sleeping on land,\" the governor of the territory said in a statement.\n\n\"A person on board then used the ship's foghorn, waking the animal, which moved to another location,\" he added.\n\nNeither the identity nor nationality of the person has been disclosed.\n\nThe governor's office ordered the individual to pay the hefty fine, which the person agreed to do.\n\nUnder local regulations \"it is forbidden to needlessly disturb, attract or pursue a polar bear\", which was declared a protected species in Svalbard in 1972.\n\nSome 260 polar bears were counted in the archipelago during the last scientific estimate, carried out in 2015.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
+      "excerpt": "A person in Norway's Svalbard archipelago in the Arctic has been fined 50,000 kroner ($5,255) for using a foghorn to wake a sleeping polar bear, local officials said Thursday.\n\nThe incident took place earlier this month when a vessel was sailing in a fjord in northeastern Svalbard, around 1,000...",
+      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4NDM0MDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.thelocal.no/20260813/50000-kroner-fine-for-waking-polar-bear-in-norwegian-arctic",
+      "source_name": "The Local Norway",
+      "fetched_at": "2026-08-16T01:23:26.619Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786843402943.3125,
+      "title": "Nesten 300 stanset på vei til Spania",
+      "slug": "nesten-300-stanset-p-vei-til-spania",
+      "content": "Nesten 300 personer er lørdag stanset i Marokko på vei mot grensen til den spanske eksklaven Ceuta, skriver NTB.\n\nMarokkansk politi stanset migrantene for å hindre ulovlig innreise til EU, opplyser en tjenestemann til AFP. De fleste av de pågrepne kommer fra afrikanske land sør for Sahara, skriver nettstedet Le360.\n\nBåde Marokko og Spania har nå skjerpet sikkerheten i området etter oppfordringer i sosiale medier om å storme grensen.",
+      "excerpt": "Nesten 300 personer er lørdag stanset i Marokko på vei mot grensen til den spanske eksklaven Ceuta, skriver NTB.\n\nMarokkansk politi stanset migrantene for å hindre ulovlig innreise til EU, opplyser en tjenestemann til AFP. De fleste av de pågrepne kommer fra afrikanske land sør for Sahara, skriver...",
+      "image": "https://images.unsplash.com/photo-1659424766030-385d22f8b0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4NDM0MDJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/nesten-300-stanset-pa-vei-til-spania-1.17991273",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-16T01:23:22.943Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786843401251.3687,
+      "title": "Melding om angrep mot Kyiv",
+      "slug": "melding-om-angrep-mot-kyiv",
+      "content": "Flere eksplosjoner er hørt i Ukrainas hovedstad Kyiv tidlig søndag morgen, melder AFP.\n\nEksplosjonene skjedde like etter at myndighetene ba folk søke dekning på grunn av fare for ballistiske raketter. Militærledelsen i byen sendte ut advarselen på meldingstjenesten Telegram.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Flere eksplosjoner er hørt i Ukrainas hovedstad Kyiv tidlig søndag morgen, melder AFP.\n\nEksplosjonene skjedde like etter at myndighetene ba folk søke dekning på grunn av fare for ballistiske raketter. Militærledelsen i byen sendte ut advarselen på meldingstjenesten Telegram.\n\nKrigen i...",
+      "image": "https://images.unsplash.com/photo-1603482360662-38e34391247c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4NDM0MDF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/melding-om-angrep-mot-kyiv-1.17991276",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-16T01:23:21.251Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786832565426.8464,
       "title": "&#039;We truly understand that anxiety&#039;: The human side of Norway’s immigration system upgrade",
       "slug": "039we-truly-understand-that-anxiety039-the-human-side-of-nor",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-13T20:44:34.804Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786647828918.6836,
-      "title": "Alvorlig ATV-ulykke i Tana",
-      "slug": "alvorlig-atvulykke-i-tana",
-      "content": "Nødetatene er fremme på stedet. En mann i 60-årene flys til Kirkenes sykehus med helikopter.\n\nHendelsen etterforskes på stedet. Politiet etterforsker hendelsen på stedet.\n\nUlykka skal ha skjedd i nærheten Stjernevatn, i nærheten av FV890 – Austertanaveien.",
-      "excerpt": "Nødetatene er fremme på stedet. En mann i 60-årene flys til Kirkenes sykehus med helikopter.\n\nHendelsen etterforskes på stedet. Politiet etterforsker hendelsen på stedet.\n\nUlykka skal ha skjedd i nærheten Stjernevatn, i nærheten av FV890 – Austertanaveien.",
-      "image": null,
-      "original_url": "https://www.nrk.no/tromsogfinnmark/alvorlig-atv-ulykke-i-tana-1.17989432",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-13T19:03:48.919Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786640227606.3662,
-      "title": "Moroccanoil trekker seg som Eurovision-sponsor",
-      "slug": "moroccanoil-trekker-seg-som-eurovisionsponsor",
-      "content": "Etter seks år har det selskapet Moroccanoil trukket seg som hovedsponsor av sangkonkurransen.\n\n– Vi kan bekrefte at Moroccanoil, etter seks vellykkede år, har valgt å ikke fornye sponsoravtalen sin med Eurovision Song Contest, skriver ESC i en e-post til NRK.\n\nDet israelske selskapet Moroccanoil har vært hovedsponsor av Eurovision Song Contest i seks år.\n\nMGP og Eurovision Song Contest 2026\n\nJonas Lovv er på plass i Wien og skal ut som tredje siste artist i finalen 16. mai. Her kan du sjå alt om ESC og laste ned stemmeskjema.",
-      "excerpt": "Etter seks år har det selskapet Moroccanoil trukket seg som hovedsponsor av sangkonkurransen.\n\n– Vi kan bekrefte at Moroccanoil, etter seks vellykkede år, har valgt å ikke fornye sponsoravtalen sin med Eurovision Song Contest, skriver ESC i en e-post til NRK.\n\nDet israelske selskapet Moroccanoil...",
-      "image": "https://images.unsplash.com/photo-1683797465484-109681506e0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2NDAyMjd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/moroccanoil-trekker-seg-som-eurovision-sponsor-1.17989251",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-13T16:57:07.606Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786633122427.5657,
-      "title": "IF Metall avbryter streiken mot Tesla",
-      "slug": "if-metall-avbryter-streiken-mot-tesla",
-      "content": "IF Metall avbryter alle tvangstiltak mot Teslas svenske selskap fra og med onsdag 19. august klokken 00.01. Årsaken er at Tesla har kjøpt ut alle forbundets streikende medlemmer i selskapet. Det innebærer at konflikten ikke lenger har noen virkning- Det skriver fagforeningen i en pressemelding.\n\n– Vi kan konstatere at Tesla er så sterke motstandere av tariffavtaler at de heller kjøper ut ansatte som er medlemmer i fagforeningen enn å gi dem trygge vilkår. Det savner sidestykke på det svenske arbeidsmarkedet, sier IF Metalls forhandlingssjef Simon Petersson i en uttalelse.\n\nTesla og IF Metall har hatt en arbeidskonflikt gående siden oktober 2023, der elbilprodusenten har nektet å undertegne tariffavtale med IF Metall. Siden har ansatte ved Tesla-verksteder over hele Sverige vært i streik, i tillegg til andre svenske fagforeninger som har sympatistreiket.\n\nForhandlingslederen hos svenske LO, Veli-Pekka Säikkälä, sier at Tesla har brukt sine enorme økonomiske ressurser på å kjøpe ut de streikende.\n\n– Uten streikende er det ingen streik. At det ikke er en tariffavtale på plass er et nederlag, men det er fagforeningens oppgave å ta slike kamper. Vi angrer ikke, fagbevegelsen må våge å ta slike kamper, selv om det er en risiko for at man ikke når helt frem, sier han, ifølge Aftonbladet.\n\nTesla har foreløpig ikke kommentert avslutningen av streiken.\n\nTesla\n\nTesla, Inc. er et amerikansk bil-, programvare- og energiselskap. Selskapet produserer elbiler, solcellepaneler, og batteripakker.. De utvikler også programvare til biler og solcellepaneler. Administrerende direktør for selskapet er Elon Musk.",
-      "excerpt": "IF Metall avbryter alle tvangstiltak mot Teslas svenske selskap fra og med onsdag 19. august klokken 00.01. Årsaken er at Tesla har kjøpt ut alle forbundets streikende medlemmer i selskapet. Det innebærer at konflikten ikke lenger har noen virkning- Det skriver fagforeningen i en pressemelding....",
-      "image": "https://images.unsplash.com/photo-1764628475233-b7a329a6f17b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2MzMxMjJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/if-metall-avbryter-streiken-mot-tesla-1.17988940",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-13T14:58:42.427Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3021,
+    "totalFetched": 3024,
     "totalPublished": 77,
-    "lastFetch": "2026-08-15T22:22:46.428Z",
+    "lastFetch": "2026-08-16T01:23:27.620Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
