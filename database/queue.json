@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786884045233.1062,
+      "title": "Tregere salg av sjøhytter: To av tre solgt under prisantydning",
+      "slug": "tregere-salg-av-sjhytter-to-av-tre-solgt-under-prisantydning",
+      "content": "Salget av sjøhytter falt i sommer, og to av tre hytter ble solgt under prisantydning, skriver E24.\n\nMellom juni og august ble det solgt 595 sjøhytter på Finn.no. Det er en nedgang fra i fjor, og nær en halvering sammenlignet med toppåret 2020. Salgene tar også merkbart lengre tid enn før.\n\nLeder for strategi i Finn Eiendom, Eirik Dysthe, påpeker overfor nettavisen at de reelle priskuttene ofte er større enn statistikken viser, fordi manges selgere setter ned prisen i flere omganger før hytta blir solgt.\n\n– Median-kjøperen forhandler seg nå til 4,6 prosent under prisantydning, mens salgssummen lå omtrent på prisantydning under pandemien, sier Dysthe.\n\nUte i felten merker meglere at kjøperne har god tid.\n\n– Omsetningshastigheten er tregere. Kanskje kan det ta opp til et år å selge, og kanskje skjer salget først neste sommer, sier eiendomsmegler Henning Hesselberg til E24.\n\nSelv om selve salget går tregere, er drømmen om sjøhytte fortsatt sterk.\n\nSjøhytteannonsene på Finn.no hadde mer enn 10 millioner sidevisninger i sommer, noe som er ny rekord.",
+      "excerpt": "Salget av sjøhytter falt i sommer, og to av tre hytter ble solgt under prisantydning, skriver E24.\n\nMellom juni og august ble det solgt 595 sjøhytter på Finn.no. Det er en nedgang fra i fjor, og nær en halvering sammenlignet med toppåret 2020. Salgene tar også merkbart lengre tid enn før.\n\nLeder...",
+      "image": null,
+      "original_url": "https://www.nrk.no/sorlandet/tregere-salg-av-sjohytter_-to-av-tre-solgt-under-prisantydning-1.17991524",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-16T12:40:45.233Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786875832602.075,
       "title": "Sit utsatt for dataangrep",
       "slug": "sit-utsatt-for-dataangrep",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-14T09:08:17.261Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786692371341.1235,
-      "title": "Voldsom skogbrann nær kroatisk turistby – sju kritisk skadet",
-      "slug": "voldsom-skogbrann-nr-kroatisk-turistby-sju-kritisk-skadet",
-      "content": "Sju personer er innlagt med kritiske skader på grunn av den voldsomme skogbrannen som herjer i turistperlen Omis i Kroatia.\n\nI alt er det 36 personer som har måttet få medisinsk behandling på grunn av brannen, hvorav 14 av dem er innlagt på sykehus i den nærliggende byen Split.\n\nSkogbrann i Kroatia\n\nSkogbranner herjer Kroatia sommeren 2026.",
-      "excerpt": "Sju personer er innlagt med kritiske skader på grunn av den voldsomme skogbrannen som herjer i turistperlen Omis i Kroatia.\n\nI alt er det 36 personer som har måttet få medisinsk behandling på grunn av brannen, hvorav 14 av dem er innlagt på sykehus i den nærliggende byen Split.\n\nSkogbrann i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/voldsom-skogbrann-naer-kroatisk-turistby-_-sju-kritisk-skadet-1.17989616",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-14T07:26:11.341Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3034,
+    "totalFetched": 3035,
     "totalPublished": 77,
-    "lastFetch": "2026-08-16T10:23:54.966Z",
+    "lastFetch": "2026-08-16T12:40:46.891Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
