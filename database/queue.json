@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786918909547.7651,
+      "title": "Fem tenåringer døde etter kollisjon i Irland",
+      "slug": "fem-tenringer-dde-etter-kollisjon-i-irland",
+      "content": "Fem tenåring har mistet livet i en alvorlig bilulykke i Irland, melder den irske rikskringkasteren RTÉ.\n\nI tillegg er fire personer alorlig skadet etter kollisjonen som skjedde på en motorvei nær Dublin natt til søndag.\n\nIfølge irsk politi skal bilen med de fem tenåringene ha kjørt i feil kjøreretning før ulykken skjedde.",
+      "excerpt": "Fem tenåring har mistet livet i en alvorlig bilulykke i Irland, melder den irske rikskringkasteren RTÉ.\n\nI tillegg er fire personer alorlig skadet etter kollisjonen som skjedde på en motorvei nær Dublin natt til søndag.\n\nIfølge irsk politi skal bilen med de fem tenåringene ha kjørt i feil...",
+      "image": "https://images.unsplash.com/photo-1649872647782-0e875f9d9dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5MTg5MDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fem-tenaringer-dode-etter-kollisjon-i-irland-1.17991831",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-16T22:21:49.548Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786911822703.5754,
       "title": "Veltet med elsykkel i Verdal – funnet bevisstløs",
       "slug": "veltet-med-elsykkel-i-verdal-funnet-bevisstls",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-14T20:32:20.765Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786739539056.703,
-      "title": "To emiratiske tankskip angrepet i Hormuzstredet",
-      "slug": "to-emiratiske-tankskip-angrepet-i-hormuzstredet",
-      "content": "De forente arabiske emiratene beskylder Iran for å ha skutt droner mot to tankskip tilhørende Emiratenes oljeselskap mens de seilte gjennom Hormuzstredet torsdag kveld.\n\nIngen ble skadet i angrepet, og de materielle skadene var ikke alvorlige. Men det viser risikoen ved å forsøke å seile gjennom stredet mellom Iran og Oman så lenge Iran har fast kontroll over farvannet.\n\nEmiratenes utenriksdepartement kalte angrepet et åpenbart brudd på FN-prinsippene om fri ferdsel i internasjonalt farvann.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "De forente arabiske emiratene beskylder Iran for å ha skutt droner mot to tankskip tilhørende Emiratenes oljeselskap mens de seilte gjennom Hormuzstredet torsdag kveld.\n\nIngen ble skadet i angrepet, og de materielle skadene var ikke alvorlige. Men det viser risikoen ved å forsøke å seile gjennom...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/to-emiratiske-tankskip-angrepet-i-hormuzstredet-1.17990625",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-14T20:32:19.056Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3046,
+    "totalFetched": 3047,
     "totalPublished": 77,
-    "lastFetch": "2026-08-16T20:23:44.903Z",
+    "lastFetch": "2026-08-16T22:21:51.180Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
