@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786890244229.5886,
+      "title": "Antall bekreftet døde i båtulykken i Zimbabwe stiger",
+      "slug": "antall-bekreftet-dde-i-btulykken-i-zimbabwe-stiger",
+      "content": "Dødstallet etter båtulykken i Karibasjøen den 11. august har steget til 80 etter at ytterligere åtte omkomne ble funnet, opplyste det nasjonale politiet i Zimbabwe i sosiale medier søndag.\n\nBåten transporterer folk fra den nordlige byen Kariba til flere øyer og fiskevær. Den kantret etter å ha truffet høye bølger, meldte lokale medier. (NTB)\n\nZimbabwe\n\nZimbabwes president Robert Mugabe ble mandag avsatt etter 37 år ved makten. Parlamentet har igangsatt riksrettprosess mot Mugabe som er anklaget for maktmisbruk og korrupsjon. Hæren satte sist uke Mugabe i husarrest etter intern maktkamp.",
+      "excerpt": "Dødstallet etter båtulykken i Karibasjøen den 11. august har steget til 80 etter at ytterligere åtte omkomne ble funnet, opplyste det nasjonale politiet i Zimbabwe i sosiale medier søndag.\n\nBåten transporterer folk fra den nordlige byen Kariba til flere øyer og fiskevær. Den kantret etter å ha...",
+      "image": "https://images.unsplash.com/photo-1783521511952-ea1405a2f5b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4OTAyNDR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/antall-bekreftet-dode-i-batulykken-i-zimbabwe-stiger-1.17991521",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-16T14:24:04.229Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786890242489.1619,
+      "title": "Jernfjelltunnelen stengt: Bil truffet av stein på størrelse med vaskemaskin",
+      "slug": "jernfjelltunnelen-stengt-bil-truffet-av-stein-p-strrelse-med",
+      "content": "Jernfjelltunnelen på E39 ved Gulen er stengt, etter melding om at en bil er truffet av en stein som falt fra taket.\n\nSteinen beskrives å være på størrelse med en vaskemaskin, og bilen har fått store materielle skader.\n\n– Det skal ha vært to personer og en hund i bilen som ble truffet, de fremstår uskadd. Hendelsen skjedde rundt 500 meter inn i tunnelen fra Knarvik-siden, melder operasjonsleder Knut Dahl-Michelsen.\n\nJostein Steinsland-Hauge ved 110-sentralen bekrefter.\n\n– Det fremstår som at det har gått bra med de involverte. Bilen er ikke kjørbar.\n\nTunnelen er tømt for biler og det er uvisst hvor lenge den vil være stengt.\n\nLise Kristoffersen ved veitrafikksentralen sier det vil bli omkjøringsmulighet via Solheimslia og fylkesvei 571, via ledebil.\n\nKlokken 15.50 skal det ikke være særlig mye kø i området, ifølge Kristoffersen.",
+      "excerpt": "Jernfjelltunnelen på E39 ved Gulen er stengt, etter melding om at en bil er truffet av en stein som falt fra taket.\n\nSteinen beskrives å være på størrelse med en vaskemaskin, og bilen har fått store materielle skader.\n\n– Det skal ha vært to personer og en hund i bilen som ble truffet, de fremstår...",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestland/jernfjelltunnelen-stengt_-bil-truffet-av-stein-pa-storrelse-med-vaskemaskin-1.17991545",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-16T14:24:02.489Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786890240844.1055,
+      "title": "Ulykke med småfly i Gol – ingen skadd",
+      "slug": "ulykke-med-smfly-i-gol-ingen-skadd",
+      "content": "Det har vært en ulykke med et toseters småfly på Klanden flyplass i Gol. Det var kun en person i flyet,\n\nFlyet har landet i tilknytning til rullebanen, men har materielle skader, skriver Sør-Øst politidistrikt.\n\nPiloten fremstår uskadd. Årsaken til hendelsen er foreløpig uavklart. Nødetatene er på stedet, og politiet er i kontakt med piloten. Statens havarikommisjon er varslet om hendelsen.",
+      "excerpt": "Det har vært en ulykke med et toseters småfly på Klanden flyplass i Gol. Det var kun en person i flyet,\n\nFlyet har landet i tilknytning til rullebanen, men har materielle skader, skriver Sør-Øst politidistrikt.\n\nPiloten fremstår uskadd. Årsaken til hendelsen er foreløpig uavklart. Nødetatene er på...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ulykke-med-smafly-i-gol-_-ingen-skadd-1.17991567",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-16T14:24:00.844Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786884045233.1062,
       "title": "Tregere salg av sjøhytter: To av tre solgt under prisantydning",
       "slug": "tregere-salg-av-sjhytter-to-av-tre-solgt-under-prisantydning",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-14T10:57:58.628Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786698500653.7463,
-      "title": "Alvorlig trafikkulykke på Ulefoss",
-      "slug": "alvorlig-trafikkulykke-p-ulefoss",
-      "content": "En personbil og en lastebil har kollidert i Sauheradvegen på Ulefoss.\n\nTo personer er involvert i ulykken. Luftambulanse er tilkalt.\n\nVeien er stengt ved ulykkesstedet. Trafikken blir dirigert via den gamle brua.\n\nNødetatene er imponert over innsatsen som ble gjort før de kom til ulykkesstedet.",
-      "excerpt": "En personbil og en lastebil har kollidert i Sauheradvegen på Ulefoss.\n\nTo personer er involvert i ulykken. Luftambulanse er tilkalt.\n\nVeien er stengt ved ulykkesstedet. Trafikken blir dirigert via den gamle brua.\n\nNødetatene er imponert over innsatsen som ble gjort før de kom til ulykkesstedet.",
-      "image": "https://images.unsplash.com/photo-1719412625724-bc03ed4dcf0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2OTg1MDB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/alvorlig-trafikkulykke-pa-ulefoss--1.17989728",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-14T09:08:20.653Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786698498941.284,
-      "title": "Franske skattebetalere rammet av hackerangrep – data fra hundretusener stjålet",
-      "slug": "franske-skattebetalere-rammet-av-hackerangrep-data-fra-hundr",
-      "content": "Skattedata fra både personer og bedrifter er stjålet i et omfattende cyberangrep mot Frankrikes skatteetat, opplyser det franske finansdepartementet sent torsdag kveld.\n\nIfølge nettstedet FrenchBreaches påstår hackere å ha stjålet dataene til nærmere 700 000 skattebetalere.\n\n– Berørte brukere vil motta individuell informasjon om hvilke data som kan ha blitt innhentet eller hentet ut, samt eventuelle forholdsregler som de må ta, opplyser finansdepartementet.",
-      "excerpt": "Skattedata fra både personer og bedrifter er stjålet i et omfattende cyberangrep mot Frankrikes skatteetat, opplyser det franske finansdepartementet sent torsdag kveld.\n\nIfølge nettstedet FrenchBreaches påstår hackere å ha stjålet dataene til nærmere 700 000 skattebetalere.\n\n– Berørte brukere vil...",
-      "image": "https://images.unsplash.com/photo-1698171474543-00caa2d153d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2OTg0OTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/franske-skattebetalere-rammet-av-hackerangrep-_-data-fra-hundretusener-stjalet-1.17989745",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-14T09:08:18.941Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786698497260.0796,
-      "title": "Minst seks personer mistet livet etter rekordregn i Japan",
-      "slug": "minst-seks-personer-mistet-livet-etter-rekordregn-i-japan",
-      "content": "Like utenfor hovedstaden Tokyo er det registrert mer enn 100 mm regn per time siden torsdag ettermiddag, opplyser myndighetene.\n\nDet voldsomme regnværet kommer etter at en rekke stormer har feid gjennom Japan og nabolandene denne uken, i det som spås å bli en uvanlig aktiv tyfonsesong, melder BBC.\n\nRegnet har ført til strømbrudd for 20 000 husstander, og 7000 reisende måtte overnatte på Tokyos Narita-flyplass.\n\nKlima og miljø\n\nVerden opplever allerede klimaendringene, slår FNs klimapanel fast. Mer ekstremvær, høyere havnivå og økte helseproblemer er noen av konsekvensene, ifølge deres siste hovedrapport.",
-      "excerpt": "Like utenfor hovedstaden Tokyo er det registrert mer enn 100 mm regn per time siden torsdag ettermiddag, opplyser myndighetene.\n\nDet voldsomme regnværet kommer etter at en rekke stormer har feid gjennom Japan og nabolandene denne uken, i det som spås å bli en uvanlig aktiv tyfonsesong, melder...",
-      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY2OTg0OTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/minst-seks-personer-mistet-livet-etter-rekordregn-i-japan-1.17989777",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-14T09:08:17.261Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3035,
+    "totalFetched": 3038,
     "totalPublished": 77,
-    "lastFetch": "2026-08-16T12:40:46.891Z",
+    "lastFetch": "2026-08-16T14:24:06.262Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
