@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786992045106.2244,
+      "title": "Kongen innlagt på Rikshospitalet",
+      "slug": "kongen-innlagt-p-rikshospitalet",
+      "content": "Han er innlagt etter en legeundersøkelse. Det melder kongehuset i en pressemelding.\n\nKong Harald har de siste ukene blitt behandlet med kortison for blodsykdommen hemolytisk anemi. Dette har medført væskeansamling i kroppen som må behandles ved sykehus.",
+      "excerpt": "Han er innlagt etter en legeundersøkelse. Det melder kongehuset i en pressemelding.\n\nKong Harald har de siste ukene blitt behandlet med kortison for blodsykdommen hemolytisk anemi. Dette har medført væskeansamling i kroppen som må behandles ved sykehus.",
+      "image": "https://images.unsplash.com/photo-1517216015940-049a2d4e2da4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5OTIwNDR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/kongen-innlagt-pa-rikshospitalet-1.17992649",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-17T18:40:45.106Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786992043225.5542,
+      "title": "Støre: – Ønsker kongen god bedring",
+      "slug": "stre-nsker-kongen-god-bedring",
+      "content": "– Jeg vil ønske kongen riktig god bedring. Det er godt å vite at han får god oppfølging av den norske helsetjenesten.\n\nDet uttaler statsminister Jonas Gahr Støre (Ap) i en skriftlig kommentar til NRK.\n\nTidligere mandag ble det kjent at kong Harald er lagt inn på Rikshospitalet for behandling av blodsykdommen hemolytisk anemi.",
+      "excerpt": "– Jeg vil ønske kongen riktig god bedring. Det er godt å vite at han får god oppfølging av den norske helsetjenesten.\n\nDet uttaler statsminister Jonas Gahr Støre (Ap) i en skriftlig kommentar til NRK.\n\nTidligere mandag ble det kjent at kong Harald er lagt inn på Rikshospitalet for behandling av...",
+      "image": "https://images.unsplash.com/flagged/photo-1559511331-7649f05944e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5OTIwNDN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/store_-_-onsker-kongen-god-bedring-1.17992617",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-17T18:40:43.225Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786992041603.491,
+      "title": "Trump sier USA ikke ønsker forlengelse av våpenhvile med Iran",
+      "slug": "trump-sier-usa-ikke-nsker-forlengelse-av-vpenhvile-med-iran",
+      "content": "President Donald Trump sier USA ikke ønsker å forlenge våpenhvilen med Iran, skriver Reuters.\n\nLandene ble i juni enige om en midlertidig våpenhvile; en såkalt intensjonsavtale der målet var å bruke våpenhvilen på å forhandle fram en mer permanent avtale.\n\nMandag uttaler han også at han ikke tror Iran er villige til å inngå «den typen avtale som jeg mener er nødvendig».\n\nSelv om våpenhvilen trådte i kraft i juni, har både USA og Iran gjennomført flere angrep i perioden.\n\nEt av de store stridspunktene mellom landene har vært Hormuzstredet, som store deler av verdens oljeproduksjon transporteres gjennom.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "President Donald Trump sier USA ikke ønsker å forlenge våpenhvilen med Iran, skriver Reuters.\n\nLandene ble i juni enige om en midlertidig våpenhvile; en såkalt intensjonsavtale der målet var å bruke våpenhvilen på å forhandle fram en mer permanent avtale.\n\nMandag uttaler han også at han ikke tror...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-sier-usa-ikke-onsker-forlengelse-av-vapenhvile-med-iran-1.17992713",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-17T18:40:41.603Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786984131670.6191,
       "title": "Bil og lastebil involvert i trafikkulykke på riksvei 9",
       "slug": "bil-og-lastebil-involvert-i-trafikkulykke-p-riksvei-9",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-15T22:22:41.216Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786825390367.0383,
-      "title": "Qatar avviser at de har iranske piloter i varetekt",
-      "slug": "qatar-avviser-at-de-har-iranske-piloter-i-varetekt",
-      "content": "Qatar avviser på det sterkeste at de har iranske piloter i sin varetekt. En iransk general har krevd at qatarske myndigheter må løslate tre piloter som skal ha blitt skutt ned tidlig i Midtøsten-krigen, skriver AFP.\n\nIfølge Qatar skal pilotene ha krenka landets luftrom, og ikke hørt på beskjeder, melder Reuters. Senere skal en av dem ha blitt funnet død, og Qatar sier de har tatt kontakt med Iran for å avtale en overlevering. Iran har ikke svart på invitasjonen.\n\nKrig og konflikt i Midtøsten\n\nEtter angrepet mot Israel 7. oktober 2023 har situasjonen i Midtøsten stadig forverret seg. Det har vært daglige rakettangrep mellom Israel og Iran-støttede Hizbollah i Libanon. Eksperter frykter storkrig.",
-      "excerpt": "Qatar avviser på det sterkeste at de har iranske piloter i sin varetekt. En iransk general har krevd at qatarske myndigheter må løslate tre piloter som skal ha blitt skutt ned tidlig i Midtøsten-krigen, skriver AFP.\n\nIfølge Qatar skal pilotene ha krenka landets luftrom, og ikke hørt på beskjeder...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/qatar-avviser-at-de-har-iranske-piloter-i-varetekt-1.17991182",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-15T20:23:10.367Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786825388681.5598,
-      "title": "Liechtenstein: Innfører likestilling i arverekkefølgen",
-      "slug": "liechtenstein-innfrer-likestilling-i-arverekkeflgen",
-      "content": "Det lille fyrstedømmet mellom Sveits og Østerrike kunngjorde lørdag at de likestiller kvinner og menn for å overta tronen. Per nå har menn hatt førsterett. I framtida er det førstefødte uavhengig av kjønn som blir tronarving. I Norge ble en lignende endring for arverekkefølgen i kongefamilien gjort i Grunnloven i mai i 1990.",
-      "excerpt": "Det lille fyrstedømmet mellom Sveits og Østerrike kunngjorde lørdag at de likestiller kvinner og menn for å overta tronen. Per nå har menn hatt førsterett. I framtida er det førstefødte uavhengig av kjønn som blir tronarving. I Norge ble en lignende endring for arverekkefølgen i kongefamilien gjort...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/liechtenstein_-innforer-likestilling-i-arverekkefolgen-1.17991217",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-15T20:23:08.681Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786825386927.6777,
-      "title": "Stanset bil på Møhlenpris i Bergen: Undersøker mulig trusselsituasjon",
-      "slug": "stanset-bil-p-mhlenpris-i-bergen-undersker-mulig-trusselsitu",
-      "content": "Politiet reagerte på kjøringen til en bil i Bergen sentrum og stoppet denne like før klokken 20.30.\n\nKlokken 22.15 melder operasjonsleder i politiet, Knut Dahl-Michelsen at de nå undersøker om det kan ha vært en mulig trusselsituasjon i bilen hvor en person ble holdt mot sin vilje.\n\nI bilen skal det ha vært tre menn. Politiet beskriver forholdet som uavklart og har innbrakt to menn i 30-årene til politistasjonen.\n\n– Fornærmede var en mann i 40-årene, som fremstod fysisk uskadd, melder operasjonsleder.",
-      "excerpt": "Politiet reagerte på kjøringen til en bil i Bergen sentrum og stoppet denne like før klokken 20.30.\n\nKlokken 22.15 melder operasjonsleder i politiet, Knut Dahl-Michelsen at de nå undersøker om det kan ha vært en mulig trusselsituasjon i bilen hvor en person ble holdt mot sin vilje.\n\nI bilen skal...",
-      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4MjUzODZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestland/stanset-bil-pa-mohlenpris-i-bergen_-undersoker-mulig-trusselsituasjon-1.17991256",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-15T20:23:06.927Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3066,
+    "totalFetched": 3069,
     "totalPublished": 77,
-    "lastFetch": "2026-08-17T16:28:53.946Z",
+    "lastFetch": "2026-08-17T18:40:46.871Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
