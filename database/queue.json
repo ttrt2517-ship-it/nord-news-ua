@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786956283718.7695,
+      "title": "Fotgjenger påkjørt i Moss",
+      "slug": "fotgjenger-pkjrt-i-moss",
+      "content": "Nødetatene har rykket ut til fergekaia i Strandgata i Moss etter melding om en trafikkulykke. En fotgjenger skal ha blitt påkjørt på stedet\n\n– Fotgjengeren sjekkes av helse, men fremstår som oppegående, opplyser operasjonsleder Rune Isaksen\n\nDet er foreløpig ikke meldt hva som er årsaken til hendelsen.",
+      "excerpt": "Nødetatene har rykket ut til fergekaia i Strandgata i Moss etter melding om en trafikkulykke. En fotgjenger skal ha blitt påkjørt på stedet\n\n– Fotgjengeren sjekkes av helse, men fremstår som oppegående, opplyser operasjonsleder Rune Isaksen\n\nDet er foreløpig ikke meldt hva som er årsaken til...",
+      "image": "https://images.unsplash.com/photo-1732362129913-88a5a52958cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5NTYyODN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/ostfold/fotgjenger-pakjort-i-moss-1.17991931",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-17T08:44:43.718Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786956282024.7815,
+      "title": "Amalie Skram-prisen til Maria Parr",
+      "slug": "amalie-skramprisen-til-maria-parr",
+      "content": "Amalie Skram-prisen 2026 går til Maria Parr. Det er fyrste gong prisen går til ein reindyrka barnebokforfattar.\n\nMaria Parr er utdanna lektor med ein mastergrad i nordisk frå Universitetet i Bergen. Ho debuterte som skjønnlitterær forfattar i 2005 med barneboka Vaffelhjarte.\n\nI Maria Parr sitt forfattarskap blir barnet tatt på største alvor. Parr utforskar barnet si verd som ein arena for store kjensler, moralske val og etisk ansvar. Bøkene er likevel aldri moraliserande, heiter det i grunngjevinga frå Amalie Skram-selskapet.\n\nLitteratur\n\nNotiser, saker, anmeldelser, omtale og annet innhold fra NRK om litteratur. Vil du heller lytte til programmer om Litteratur, så er alt samlet her i NRK Radio.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr\n\nMaria Parr\n\nMaria Parr er ein forfattar frå Vanylven kommune. Ho står bak barneboksuksessane &#034;Vaffelhjarte&#034;, &#034;Tonje Glimmerdal&#034; og &#034;Keeperen og havet&#034;.",
+      "excerpt": "Amalie Skram-prisen 2026 går til Maria Parr. Det er fyrste gong prisen går til ein reindyrka barnebokforfattar.\n\nMaria Parr er utdanna lektor med ein mastergrad i nordisk frå Universitetet i Bergen. Ho debuterte som skjønnlitterær forfattar i 2005 med barneboka Vaffelhjarte.\n\nI Maria Parr sitt...",
+      "image": "https://images.unsplash.com/photo-1693467084173-2071521fda73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5NTYyODF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/amalie-skram-prisen-til-maria-parr-1.17992000",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-17T08:44:42.024Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786956280369.0522,
+      "title": "Kongeparet besøker Siljan og Nissedal i oktober",
+      "slug": "kongeparet-besker-siljan-og-nissedal-i-oktober",
+      "content": "Kongeparet fullfører sin kommuneturné ved å besøke de to telemarkskommunene Siljan og Nissedal i oktober, melder Kongehuset i en pressemelding.\n\nDermed har paret, enten sammen eller alene, besøkt alle landets kommuner.\n\n– Vi ser veldig fram til å ta imot kongeparet i Telemark. Dette er en flott anledning til å vise fram to kommuner med sterke lokalsamfunn, et aktivt frivillig liv og et engasjert nærings- og kulturliv, sier statsforvalteren i Vestfold og Telemark, Trond Rønningen, i en pressemelding.",
+      "excerpt": "Kongeparet fullfører sin kommuneturné ved å besøke de to telemarkskommunene Siljan og Nissedal i oktober, melder Kongehuset i en pressemelding.\n\nDermed har paret, enten sammen eller alene, besøkt alle landets kommuner.\n\n– Vi ser veldig fram til å ta imot kongeparet i Telemark. Dette er en flott...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/kongeparet-besoker-siljan-og-nissedal-i-oktober-1.17992081",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-17T08:44:40.369Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786949865831.4194,
       "title": "Flere drept i ukrainsk rakettangrep",
       "slug": "flere-drept-i-ukrainsk-rakettangrep",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-15T12:39:21.901Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786797558701.0608,
-      "title": "Zelenskyj: Ukrainske droner har truffet russisk flybase",
-      "slug": "zelenskyj-ukrainske-droner-har-truffet-russisk-flybase",
-      "content": "Ukrainske droner har angrepet en russisk rakettfabrikk i Samara samt militærflybasen Savasleyka, opplyser president Volodymyr Zelenskyj på Telegram. Ifølge Samaras guvernør Ivan Noskov opplevde luftforsvaret «massive angrep».\n\nAngrepene er ledd i Ukrainas angrep mot russisk militær og industriell infrastruktur dypt inne på russisk territorium.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ukrainske droner har angrepet en russisk rakettfabrikk i Samara samt militærflybasen Savasleyka, opplyser president Volodymyr Zelenskyj på Telegram. Ifølge Samaras guvernør Ivan Noskov opplevde luftforsvaret «massive angrep».\n\nAngrepene er ledd i Ukrainas angrep mot russisk militær og industriell...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/zelenskyj_-ukrainske-droner-har-truffet-russisk-flybase-1.17990791",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-15T12:39:18.701Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786789397748.2305,
-      "title": "Zelenskiy: Ukrainske droner har truffet russisk flybase",
-      "slug": "zelenskiy-ukrainske-droner-har-truffet-russisk-flybase",
-      "content": "Ukrainske droner har angrepet en russisk rakettfabrikk i Samara samt militærflybasen Savasleyka, opplyser president Volodymyr Zelenskyj på Telegram. Ifølge Samaras guvernør Ivan Noskov opplevde luftforsvaret «massive angrep».\n\nAngrepene er ledd i Ukrainas angrep mot russisk militær og industriell infrastruktur dypt inne på russisk territorium.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ukrainske droner har angrepet en russisk rakettfabrikk i Samara samt militærflybasen Savasleyka, opplyser president Volodymyr Zelenskyj på Telegram. Ifølge Samaras guvernør Ivan Noskov opplevde luftforsvaret «massive angrep».\n\nAngrepene er ledd i Ukrainas angrep mot russisk militær og industriell...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/zelenskiy_-ukrainske-droner-har-truffet-russisk-flybase-1.17990791",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-15T10:23:17.748Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786789396145.3237,
-      "title": "Politiet har skutt en mann i leilighet i Oslo",
-      "slug": "politiet-har-skutt-en-mann-i-leilighet-i-oslo",
-      "content": "En mann er skutt av politiet i en leilighet etter en trusselsituasjon, og er kjørt til sykehus med uavklarte skader.\n\n– Vi har også kontroll på en kvinne og en tredjemann som var i den aktuelle leiligheten, skriver operasjonsleder Rune Hekkelstrand i politiloggen.\n\n– Verken disse to eller noen fra politiet er skadet. Det er mye politi i området og vil fortsatt være det utover formiddagen. Det er ikke fare for andre i området.\n\nEn mann er skutt av politiet etter at de rykket ut til melding om en trusselsituasjon på Lindeberg i Oslo.",
-      "excerpt": "En mann er skutt av politiet i en leilighet etter en trusselsituasjon, og er kjørt til sykehus med uavklarte skader.\n\n– Vi har også kontroll på en kvinne og en tredjemann som var i den aktuelle leiligheten, skriver operasjonsleder Rune Hekkelstrand i politiloggen.\n\n– Verken disse to eller noen fra...",
-      "image": "https://images.unsplash.com/photo-1783521511952-ea1405a2f5b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY3ODkzOTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/politiet-har-skutt-en-mann-i-leilighet-i-oslo-1.17990865",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-15T10:23:16.145Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3054,
+    "totalFetched": 3057,
     "totalPublished": 77,
-    "lastFetch": "2026-08-17T06:57:48.192Z",
+    "lastFetch": "2026-08-17T08:44:45.578Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
