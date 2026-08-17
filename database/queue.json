@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786949865831.4194,
+      "title": "Flere drept i ukrainsk rakettangrep",
+      "slug": "flere-drept-i-ukrainsk-rakettangrep",
+      "content": "I Belgorod-regionen i Russland ble seks mennesker drept i et ukrainsk rakettangrep mandag.\n\nDet opplyser den fungerende guvernøren, ifølge nyhetsbyrået AFP.\n\nYtterligere fire personer skal ha blitt såret i angrepet, inkludert et barn.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "I Belgorod-regionen i Russland ble seks mennesker drept i et ukrainsk rakettangrep mandag.\n\nDet opplyser den fungerende guvernøren, ifølge nyhetsbyrået AFP.\n\nYtterligere fire personer skal ha blitt såret i angrepet, inkludert et barn.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene...",
+      "image": "https://images.unsplash.com/photo-1667400867422-6a72ea761439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5NDk4NjV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flere-drept-i-ukrainsk-rakettangrep--1.17991916",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-17T06:57:45.832Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786949864068.4858,
+      "title": "Sør-Korea svarer på Trumps utspill",
+      "slug": "srkorea-svarer-p-trumps-utspill",
+      "content": "Sør-Korea sier de håper på en meningsfull dialog mellom USA og Nord-Korea.\n\nTidligere mandag varslet Donald Trump at han har beordret det amerikanske forsvaret til å øve mindre med Sør-Korea.\n\n– Sør-Korea og USA har hatt et tett samarbeid om å bevare en sterk felles forsvarsstilling og felles øvelser og trening. Vi vil fortsette å koordinere tett, heter det i uttalelsen fra presidentkontoret.\n\nDet heter videre at landet nå også vil bidra til arbeidet med å gjenopprette sikkerheten i Hormuz-stredet.\n\nForholdet mellom Sør- og Nord-Korea\n\nForholdet mellom Nord-Korea og Sør-Korea er spent. Landene inngikk aldri noen fredsavtale etter Koreakrigen på 1950-tallet.",
+      "excerpt": "Sør-Korea sier de håper på en meningsfull dialog mellom USA og Nord-Korea.\n\nTidligere mandag varslet Donald Trump at han har beordret det amerikanske forsvaret til å øve mindre med Sør-Korea.\n\n– Sør-Korea og USA har hatt et tett samarbeid om å bevare en sterk felles forsvarsstilling og felles...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/sor-korea-svarer-pa-trumps-utspill-1.17991908",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-17T06:57:44.068Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786949862370.5576,
+      "title": "Ny dag med togproblemer i Oslo",
+      "slug": "ny-dag-med-togproblemer-i-oslo",
+      "content": "Det er strømproblemer på sporene mellom Skøyen og Nationaltheatret.\n\nDet fører til at færre spor er i bruk. Vy varsler forsinkelser og innstillinger som følge av problemene.\n\nOgså i forrige uke ble togtrafikken i hovedstadområdet rammet av signalfeil flere dager.",
+      "excerpt": "Det er strømproblemer på sporene mellom Skøyen og Nationaltheatret.\n\nDet fører til at færre spor er i bruk. Vy varsler forsinkelser og innstillinger som følge av problemene.\n\nOgså i forrige uke ble togtrafikken i hovedstadområdet rammet av signalfeil flere dager.",
+      "image": "https://images.unsplash.com/photo-1569690293102-34d8d806f4b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5NDk4NjJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ny-dag-med-togproblemer-i-oslo-1.17991958",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-17T06:57:42.370Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786935647083.4053,
       "title": "Minst ti personer mistet livet i bussulykke i Brasil",
       "slug": "minst-ti-personer-mistet-livet-i-bussulykke-i-brasil",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-15T10:23:16.145Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786789394462.0593,
-      "title": "Én omkommet i ulykke mellom buss og bil i Vågå",
-      "slug": "n-omkommet-i-ulykke-mellom-buss-og-bil-i-vg",
-      "content": "Én person er omkommet etter frontkollisjonen som skjedde på riksvei 15 i Vågå kommune.\n\nDet var 25 passasjerer i bussen, to av dem blir fulgt opp av lokal legevakt.\n\nVeien blir stengt i lang tid fremover, opplyser politiet i Innlandet.\n\nEn buss og en bil frontkolliderte lørdag formiddag, opplyser politiet. Riksveg 15 vil være stengt i flere timer.",
-      "excerpt": "Én person er omkommet etter frontkollisjonen som skjedde på riksvei 15 i Vågå kommune.\n\nDet var 25 passasjerer i bussen, to av dem blir fulgt opp av lokal legevakt.\n\nVeien blir stengt i lang tid fremover, opplyser politiet i Innlandet.\n\nEn buss og en bil frontkolliderte lørdag formiddag, opplyser...",
-      "image": "https://images.unsplash.com/photo-1667560756085-b821e52b9b36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY3ODkzOTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/innlandet/en-omkommet-i-ulykke-mellom-buss-og-bil-i-vaga-1.17990832",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-15T10:23:14.462Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786775982215.423,
-      "title": "Rekordlang boligkø for studenter – 13.700 venter fremdeles",
-      "slug": "rekordlang-boligk-for-studenter-13700-venter-fremdeles",
-      "content": "Køen til studentbolig har sunket med 3300 på to uker, men fortsatt venter rekordmange på å få plass. Listen er lengst i Bergen.\n\nTotalt 19.411 studenter har fått tildelt studentbolig til studiestart og 13.758 studenter venter fortsatt.\n\nDen lengste køene er i Bergen og Oslo. Der venter 5063 og 3724 på bolig.",
-      "excerpt": "Køen til studentbolig har sunket med 3300 på to uker, men fortsatt venter rekordmange på å få plass. Listen er lengst i Bergen.\n\nTotalt 19.411 studenter har fått tildelt studentbolig til studiestart og 13.758 studenter venter fortsatt.\n\nDen lengste køene er i Bergen og Oslo. Der venter 5063 og 3724...",
-      "image": "https://images.unsplash.com/photo-1622795969840-9a906fe5a9b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY3NzU5ODJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/rekordlang-boligko-for-studenter-_-13.700-venter-fremdeles-1.17990762",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-15T06:39:42.215Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786775980377.972,
-      "title": "Sju døde etter israelsk luftangrep i Libanon",
-      "slug": "sju-dde-etter-israelsk-luftangrep-i-libanon",
-      "content": "Sju personer er døde etter et israelsk luftangrep i Sør-Libanon, ifølge libanesisk statlig media.\n\nSå langt er tre personer meldt såret i angrepet lørdag morgen. Det melder Libanons statlige nyhetsbyrå NNA.\n\nKonflikten mellom Libanon og Israel blusset opp etter at Hizbollah skjøt raketter mot Israel for å støtte sin allierte Iran. Det kom etter at Israel og USA gikk til krig mot Iran 28. februar i år. Israel svarte med tunge luftangrep og bakkeinvasjon, som ifølge Libanon har krevd 4300 menneskeliv.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
-      "excerpt": "Sju personer er døde etter et israelsk luftangrep i Sør-Libanon, ifølge libanesisk statlig media.\n\nSå langt er tre personer meldt såret i angrepet lørdag morgen. Det melder Libanons statlige nyhetsbyrå NNA.\n\nKonflikten mellom Libanon og Israel blusset opp etter at Hizbollah skjøt raketter mot...",
-      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY3NzU5ODB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/sju-dode-etter-israelsk-luftangrep-i-libanon-1.17990761",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-15T06:39:40.378Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3051,
+    "totalFetched": 3054,
     "totalPublished": 77,
-    "lastFetch": "2026-08-17T04:42:23.323Z",
+    "lastFetch": "2026-08-17T06:57:48.192Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
