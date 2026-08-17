@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1786984131670.6191,
+      "title": "Bil og lastebil involvert i trafikkulykke på riksvei 9",
+      "slug": "bil-og-lastebil-involvert-i-trafikkulykke-p-riksvei-9",
+      "content": "Det har vore eit samanstøyt mellom ein personbil og ein lastebil på riksveg 9 i Bykle.\n\n– Det framstår som ei alvorleg ulukke, seier Tone Lise Erikstad, operasjonsleiar ved Agder politisdistrikt.\n\nIfølgje politiet er det snakk om ei møteulukke. Det skal vere tre personar i personbilen.\n\nPolitiet skriver at nødetatane er på veg til staden.\n\nDet har vore ei trafikkulukke på riksveg 9 i Setesdal. Vegen er stengt i begge retningar.",
+      "excerpt": "Det har vore eit samanstøyt mellom ein personbil og ein lastebil på riksveg 9 i Bykle.\n\n– Det framstår som ei alvorleg ulukke, seier Tone Lise Erikstad, operasjonsleiar ved Agder politisdistrikt.\n\nIfølgje politiet er det snakk om ei møteulukke. Det skal vere tre personar i personbilen.\n\nPolitiet...",
+      "image": "https://images.unsplash.com/photo-1667400867379-d3f72f4a9c2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5ODQxMzF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/sorlandet/bil-og-lastebil-involvert-i-trafikkulykke-pa-riksvei-9-1.17992548",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-17T16:28:51.670Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786984129745.7683,
+      "title": "To til sjukehus etter ulukke på Osterøy",
+      "slug": "to-til-sjukehus-etter-ulukke-p-ostery",
+      "content": "Ein førar av ein lett motorsykkel og ein syklist er sende til sjukehus etter ei trafikkulukke på Osterøy, opplyser politiet.\n\nUlukka har skjedd på Bruvikvegen, aust for Osterøybrua. Vegen er stengd på staden.\n\nEin av dei involverte blir frakta til Haukeland universitetssjukehus med luftambulanse, medan den andre blir frakta til sjukehus i vanleg ambulanse.",
+      "excerpt": "Ein førar av ein lett motorsykkel og ein syklist er sende til sjukehus etter ei trafikkulukke på Osterøy, opplyser politiet.\n\nUlukka har skjedd på Bruvikvegen, aust for Osterøybrua. Vegen er stengd på staden.\n\nEin av dei involverte blir frakta til Haukeland universitetssjukehus med luftambulanse...",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestland/to-til-sjukehus-etter-ulukke-pa-osteroy-1.17992537",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-17T16:28:49.745Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1786984127979.9375,
+      "title": "Netanyahu og «fredsrådet» ferdige med møte om Gaza",
+      "slug": "netanyahu-og-fredsrdet-ferdige-med-mte-om-gaza",
+      "content": "Israels statsminister Benjamin Netanyahu har hatt «grundige og konstruktive diskusjoner» med «fredsrådet», heter det i en pressemelding fra Netanyahus kontor.\n\nDet såkalte fredsrådet er utnevnt av USAs president Donald Trump og har lovet full gjenoppbygging av Gaza.\n\nIfølge pressemeldinga er Netanyahu blant annet enig med fredsrådet om at Hamas må avvæpnes før gjenoppbygginga starter.\n\nFredsrådet uttalte tidligere i august at en israelsk tilbaketrekning fra Gaza kun vil skje etter en «fullstendig» avvæpning av Gaza,\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.\n\nPalestina\n\nPalestina er en delvis anerkjent stat i Midtøsten, bestående av Vestbredden og Gazastripen. Området har blitt herjet av krig med blant annet Israel i lang tid. Norge har anerkjent Palestina som en selvstendig stat siden mai 2024.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Israels statsminister Benjamin Netanyahu har hatt «grundige og konstruktive diskusjoner» med «fredsrådet», heter det i en pressemelding fra Netanyahus kontor.\n\nDet såkalte fredsrådet er utnevnt av USAs president Donald Trump og har lovet full gjenoppbygging av Gaza.\n\nIfølge pressemeldinga er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/netanyahu-og-_fredsradet_-ferdige-med-mote-om-gaza-1.17992540",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-17T16:28:47.979Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786976943015.614,
       "title": "Kan bli streik i flytrafkken – Oslo lufthavn kan bli stengt søndag",
       "slug": "kan-bli-streik-i-flytrafkken-oslo-lufthavn-kan-bli-stengt-sn",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-15T20:23:06.927Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786818665719.7092,
-      "title": "Brakt til sykehus etter mulig arbeidsulykke",
-      "slug": "brakt-til-sykehus-etter-mulig-arbeidsulykke",
-      "content": "Politi, helsepersonell og brannvesenet rykka lørdag ettermiddag ut til et oppdrettsanlegg i Friarfjord etter en mulig gasslekkasje.\n\nI tillegg bidro hovedredningssentralen med helikopterstøtte.\n\n– En person er brakt til sykehus for oppfølging. Brannvesenet har kontrollert området, ingen gass er funnet ved de siste målingene. Pasienten var ved bevissthet da vedkommende ble brakt til sykehuset, melder politiet i Finnmark.",
-      "excerpt": "Politi, helsepersonell og brannvesenet rykka lørdag ettermiddag ut til et oppdrettsanlegg i Friarfjord etter en mulig gasslekkasje.\n\nI tillegg bidro hovedredningssentralen med helikopterstøtte.\n\n– En person er brakt til sykehus for oppfølging. Brannvesenet har kontrollert området, ingen gass er...",
-      "image": null,
-      "original_url": "https://www.nrk.no/tromsogfinnmark/brakt-til-sykehus-etter-mulig-arbeidsulykke-1.17991187",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-15T18:31:05.719Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786818663950.6936,
-      "title": "Utenlandske statsborgere anholdt for droneflyging",
-      "slug": "utenlandske-statsborgere-anholdt-for-droneflyging",
-      "content": "Politiet har anholdt to utenlandske borgere etter at Forsvaret meldte om droneflygning ved Kolsås leir i Bærum.\n\n– Området over leiren er restriksjonsområde hvor all sensoraktivitet er forbudt. Vi har tatt beslag i utstyret og de to anmeldes, skriver politiet.\n\nDroner\n\nFra 1. januar 2021 må alle dronepiloter med drone med kamera eller tyngde over 250 gram registrere seg på nettsiden flydrone.no. Tidligere skilte man mellom hobbybruk og næringsbruk.",
-      "excerpt": "Politiet har anholdt to utenlandske borgere etter at Forsvaret meldte om droneflygning ved Kolsås leir i Bærum.\n\n– Området over leiren er restriksjonsområde hvor all sensoraktivitet er forbudt. Vi har tatt beslag i utstyret og de to anmeldes, skriver politiet.\n\nDroner\n\nFra 1. januar 2021 må alle...",
-      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4MTg2NjN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/utenlandske-statsborgere-anholdt-for-droneflyging-1.17991183",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-15T18:31:03.950Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786811174340.9187,
-      "title": "Elleve døde etter israelsk angrep i Sør-Libanon",
-      "slug": "elleve-dde-etter-israelsk-angrep-i-srlibanon",
-      "content": "Elleve personer er døde etter et israelsk luftangrep i Sør-Libanon lørdag. Det melder det libanesiske helsedepartementet. Minst 4300 personer har blitt drept i Libanon siden 2. mars, skriver Reuters.\n\nKrig og konflikt i Midtøsten\n\nEtter angrepet mot Israel 7. oktober 2023 har situasjonen i Midtøsten stadig forverret seg. Det har vært daglige rakettangrep mellom Israel og Iran-støttede Hizbollah i Libanon. Eksperter frykter storkrig.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
-      "excerpt": "Elleve personer er døde etter et israelsk luftangrep i Sør-Libanon lørdag. Det melder det libanesiske helsedepartementet. Minst 4300 personer har blitt drept i Libanon siden 2. mars, skriver Reuters.\n\nKrig og konflikt i Midtøsten\n\nEtter angrepet mot Israel 7. oktober 2023 har situasjonen i...",
-      "image": "https://images.unsplash.com/photo-1748178765097-1c012c848596?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4MTExNzR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/elleve-dode-etter-israelsk-angrep-i-sor-libanon-1.17991064",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-15T16:26:14.340Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3063,
+    "totalFetched": 3066,
     "totalPublished": 77,
-    "lastFetch": "2026-08-17T14:29:05.246Z",
+    "lastFetch": "2026-08-17T16:28:53.946Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
