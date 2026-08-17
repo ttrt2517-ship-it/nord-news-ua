@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1786935647083.4053,
+      "title": "Minst ti personer mistet livet i bussulykke i Brasil",
+      "slug": "minst-ti-personer-mistet-livet-i-bussulykke-i-brasil",
+      "content": "Minst ti personer har mistet livet etter at en buss veltet i et bratt fjellområde nord for Rio de Janeiro søndag. Det opplyser det lokale brannvesenet og brasilianske medier.\n\nÅtte personer døde på ulykkesstedet nær fjellbyen Petrópolis, mens ytterligere to personer døde på sykehus. De omkomne skal være ni kvinner og en ung jente, melder NTB.\n\nAlvorlige bussulykker skjer ofte i Brasil på grunn av krevende veiforhold.\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president Jair Bolsonaro til angrep på Kongressen, presidentpalasset og høyesterett i hoevdstaden Brasília.",
+      "excerpt": "Minst ti personer har mistet livet etter at en buss veltet i et bratt fjellområde nord for Rio de Janeiro søndag. Det opplyser det lokale brannvesenet og brasilianske medier.\n\nÅtte personer døde på ulykkesstedet nær fjellbyen Petrópolis, mens ytterligere to personer døde på sykehus. De omkomne skal...",
+      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5MzU2NDd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/minst-ti-personer-mistet-livet-i-bussulykke-i-brasil-1.17991845",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-17T03:00:47.083Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1786929643299.3079,
       "title": "2325 mennesker er døde etter å ha blitt smittet med ebola i Kongo",
       "slug": "2325-mennesker-er-dde-etter-ha-blitt-smittet-med-ebola-i-kon",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-15T06:39:40.378Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786768339694.4856,
-      "title": "Dommer gir Trump grønt lys til å kaste ut somaliere",
-      "slug": "dommer-gir-trump-grnt-lys-til-kaste-ut-somaliere",
-      "content": "En føderal dommer godkjenner at Trump-administrasjonen opphever den midlertidige beskyttelsen for nesten 1100 somaliere.\n\nSomaliere har hatt oppholdsbeskyttelse i USA siden 1991 på grunn av borgerkrig, men amerikanske myndigheter mener situasjonen i Somalia nå er god nok til at de kan sendes tilbake. skriver NTB.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "En føderal dommer godkjenner at Trump-administrasjonen opphever den midlertidige beskyttelsen for nesten 1100 somaliere.\n\nSomaliere har hatt oppholdsbeskyttelse i USA siden 1991 på grunn av borgerkrig, men amerikanske myndigheter mener situasjonen i Somalia nå er god nok til at de kan sendes...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/dommer-gir-trump-gront-lys-til-a-kaste-ut-somaliere-1.17990757",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-15T04:32:19.694Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3050,
+    "totalFetched": 3051,
     "totalPublished": 77,
-    "lastFetch": "2026-08-17T01:20:44.715Z",
+    "lastFetch": "2026-08-17T03:00:49.043Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
