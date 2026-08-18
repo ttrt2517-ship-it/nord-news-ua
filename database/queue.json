@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1787048984348.361,
+      "title": "WHO holder krisemøte om ebola-utbruddet",
+      "slug": "who-holder-krisemte-om-ebolautbruddet",
+      "content": "Verdens helseorganisasjons (WHO) krisekomité møtes i dag for å diskutere utviklingen av ebolautbruddet i DR Kongo og Uganda.\n\nUtbruddet i Kongo har kostet 2325 mennesker livet og er dermed det dødeligste i landets historie..\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og Liberia. Etter at det store utbruddet var over, er det registrert flere sporadiske tilfeller av smitte.",
+      "excerpt": "Verdens helseorganisasjons (WHO) krisekomité møtes i dag for å diskutere utviklingen av ebolautbruddet i DR Kongo og Uganda.\n\nUtbruddet i Kongo har kostet 2325 mennesker livet og er dermed det dødeligste i landets historie..\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de...",
+      "image": "https://images.unsplash.com/photo-1654791062806-bfe7e406b03e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcwNDg5ODR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/who-holder-krisemote-om-ebola-utbruddet-1.17993120",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-18T10:29:44.348Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787048982695.1055,
+      "title": "Lik funnet i Glomma",
+      "slug": "lik-funnet-i-glomma",
+      "content": "Politiet har hentet opp en død mann fra Glomma ved Vallehellene i Fredrikstad.\n\nHan ble hentet opp etter at en person ble sett flytende nedover Glomma tirsdag formiddag.\n\nOperasjonsleder Håkon Hatlen i Øst politidistrikt opplyser at avdøde foreløpig ikke er identifisert.\n\n– Det ser ut til at avdøde har ligget lenge i eller under vann, opplyser Hatlen.\n\nPersonen vil nå bli obdusert, og politiet har rutinemessig opprettet sak. Etterforskerne jobber med å fastslå identiteten, i første omgang ved å sammenligne funnet med personer som er meldt savnet i nærområdet.",
+      "excerpt": "Politiet har hentet opp en død mann fra Glomma ved Vallehellene i Fredrikstad.\n\nHan ble hentet opp etter at en person ble sett flytende nedover Glomma tirsdag formiddag.\n\nOperasjonsleder Håkon Hatlen i Øst politidistrikt opplyser at avdøde foreløpig ikke er identifisert.\n\n– Det ser ut til at avdøde...",
+      "image": "https://images.unsplash.com/photo-1771418711120-0a09a59f07b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcwNDg5ODJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/ostfold/lik-funnet-i-glomma-1.17992918",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-18T10:29:42.695Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787048981070.8223,
+      "title": "Ut mot Støre: – Ap-arroganse på sitt verste",
+      "slug": "ut-mot-stre-aparroganse-p-sitt-verste",
+      "content": "Høyre-leder Ine Eriksen Søreide gikk til angrep på statsminister Jonas Gahr Støre (Ap) i en tale i dag.\n\n– Jeg synes det er tydelig at Jonas Gahr Støre nå har gått tom for politiske løsninger. I Arendal rykket Støre ut for å «presentere sin plan» før kommunevalget, sa hun.\n\n– Det er Arbeiderparti-arroganse på sitt verste når en statsministers plan for Norge er å se forbi 107 Høyre-ordførere, som representerer to tredeler av landets innbyggere.",
+      "excerpt": "Høyre-leder Ine Eriksen Søreide gikk til angrep på statsminister Jonas Gahr Støre (Ap) i en tale i dag.\n\n– Jeg synes det er tydelig at Jonas Gahr Støre nå har gått tom for politiske løsninger. I Arendal rykket Støre ut for å «presentere sin plan» før kommunevalget, sa hun.\n\n– Det er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ut-mot-store_-_-ap-arroganse-pa-sitt-verste-1.17993283",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-18T10:29:41.070Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787042297586.2961,
       "title": "Kanye West opptrer i Russland",
       "slug": "kanye-west-opptrer-i-russland",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-16T14:24:02.489Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786890240844.1055,
-      "title": "Ulykke med småfly i Gol – ingen skadd",
-      "slug": "ulykke-med-smfly-i-gol-ingen-skadd",
-      "content": "Det har vært en ulykke med et toseters småfly på Klanden flyplass i Gol. Det var kun en person i flyet,\n\nFlyet har landet i tilknytning til rullebanen, men har materielle skader, skriver Sør-Øst politidistrikt.\n\nPiloten fremstår uskadd. Årsaken til hendelsen er foreløpig uavklart. Nødetatene er på stedet, og politiet er i kontakt med piloten. Statens havarikommisjon er varslet om hendelsen.",
-      "excerpt": "Det har vært en ulykke med et toseters småfly på Klanden flyplass i Gol. Det var kun en person i flyet,\n\nFlyet har landet i tilknytning til rullebanen, men har materielle skader, skriver Sør-Øst politidistrikt.\n\nPiloten fremstår uskadd. Årsaken til hendelsen er foreløpig uavklart. Nødetatene er på...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ulykke-med-smafly-i-gol-_-ingen-skadd-1.17991567",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-16T14:24:00.844Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786884045233.1062,
-      "title": "Tregere salg av sjøhytter: To av tre solgt under prisantydning",
-      "slug": "tregere-salg-av-sjhytter-to-av-tre-solgt-under-prisantydning",
-      "content": "Salget av sjøhytter falt i sommer, og to av tre hytter ble solgt under prisantydning, skriver E24.\n\nMellom juni og august ble det solgt 595 sjøhytter på Finn.no. Det er en nedgang fra i fjor, og nær en halvering sammenlignet med toppåret 2020. Salgene tar også merkbart lengre tid enn før.\n\nLeder for strategi i Finn Eiendom, Eirik Dysthe, påpeker overfor nettavisen at de reelle priskuttene ofte er større enn statistikken viser, fordi manges selgere setter ned prisen i flere omganger før hytta blir solgt.\n\n– Median-kjøperen forhandler seg nå til 4,6 prosent under prisantydning, mens salgssummen lå omtrent på prisantydning under pandemien, sier Dysthe.\n\nUte i felten merker meglere at kjøperne har god tid.\n\n– Omsetningshastigheten er tregere. Kanskje kan det ta opp til et år å selge, og kanskje skjer salget først neste sommer, sier eiendomsmegler Henning Hesselberg til E24.\n\nSelv om selve salget går tregere, er drømmen om sjøhytte fortsatt sterk.\n\nSjøhytteannonsene på Finn.no hadde mer enn 10 millioner sidevisninger i sommer, noe som er ny rekord.",
-      "excerpt": "Salget av sjøhytter falt i sommer, og to av tre hytter ble solgt under prisantydning, skriver E24.\n\nMellom juni og august ble det solgt 595 sjøhytter på Finn.no. Det er en nedgang fra i fjor, og nær en halvering sammenlignet med toppåret 2020. Salgene tar også merkbart lengre tid enn før.\n\nLeder...",
-      "image": null,
-      "original_url": "https://www.nrk.no/sorlandet/tregere-salg-av-sjohytter_-to-av-tre-solgt-under-prisantydning-1.17991524",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-16T12:40:45.233Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786875832602.075,
-      "title": "Sit utsatt for dataangrep",
-      "slug": "sit-utsatt-for-dataangrep",
-      "content": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim (Sit) har vært utsatt for et dataangrep mot kundedatabasen. Det er en risiko for at personopplysninger er på avveier, skriver de i en pressemelding.\n\nDe ble informert om angrepet fredag fra systemleverandøren som fortalte at uvedkommende kan ha fått tilgang til personopplysninger.\n\nOpptil 780 studenter med et kundeforhold til Sit kan være berørt. De skal ha blitt varslet.\n\n– Det ble gjennomført tiltak for å stanse aktiviteten og sikre kundedatabasen. Problemet knyttet til dataangrepet er identifisert og rettet, sier administrerende direktør Morten Wolden.\n\n– Angrepet framstår som et forsøk på å tjene penger på SMS-verifisering, og ikke primært for å hente ut persondata, men vi kan ikke stadfeste dette med 100 prosent sikkerhet, sier han.\n\nSøndag 16. august delte Studentsamskipnaden i Gjøvik, Ålesund og Trondheim (Sit) at de har blitt utsatt for et dataangrep.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
-      "excerpt": "Studentsamskipnaden i Gjøvik, Ålesund og Trondheim (Sit) har vært utsatt for et dataangrep mot kundedatabasen. Det er en risiko for at personopplysninger er på avveier, skriver de i en pressemelding.\n\nDe ble informert om angrepet fredag fra systemleverandøren som fortalte at uvedkommende kan ha...",
-      "image": "https://images.unsplash.com/photo-1725393213481-ca9dc8bef2be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4NzU4MzJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/trondelag/sit-utsatt-for-dataangrep-1.17991399",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-16T10:23:52.603Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3083,
+    "totalFetched": 3086,
     "totalPublished": 77,
-    "lastFetch": "2026-08-18T08:38:19.756Z",
+    "lastFetch": "2026-08-18T10:29:46.178Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
