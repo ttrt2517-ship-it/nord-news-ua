@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787042297586.2961,
+      "title": "Kanye West opptrer i Russland",
+      "slug": "kanye-west-opptrer-i-russland",
+      "content": "Den kontroversielle superstjernen Kanye West skal opptre i St. Petersburg i oktober.\n\nWest, også kjent som Ye, skal opptre på Gazprom Arena 10. og 11. oktober, fremkommer det på artistens nettsider.\n\nDersom konsertene gjennomføres, vil West være en av få store, internasjonale artister som besøker Russland siden fullskalainvasjonen av Ukraina i februar 2022.\n\nDe siste årene har han fått mye kritikk, særlig for antisemittiske uttalelser.\n\nMusikk\n\nInnhold fra NRK om musikk. For musikken fra NRKs sendinger, kan du besøke disse sidene. Se også alt om musikk i NRK TV og hør alle musikkprogrammer i NRK Radio.",
+      "excerpt": "Den kontroversielle superstjernen Kanye West skal opptre i St. Petersburg i oktober.\n\nWest, også kjent som Ye, skal opptre på Gazprom Arena 10. og 11. oktober, fremkommer det på artistens nettsider.\n\nDersom konsertene gjennomføres, vil West være en av få store, internasjonale artister som besøker...",
+      "image": "https://images.unsplash.com/photo-1686731709928-a603b9ca9a82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcwNDIyOTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/kanye-west-opptrer-i-russland-1.17993059",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-18T08:38:17.586Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787035469863.3486,
       "title": "Folketrygdfondet tjente 31 milliarder kroner i første halvår",
       "slug": "folketrygdfondet-tjente-31-milliarder-kroner-i-frste-halvr",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-16T10:23:52.603Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786869040479.2976,
-      "title": "Ny mulig streik kan gi mel- og brødmangel",
-      "slug": "ny-mulig-streik-kan-gi-mel-og-brdmangel",
-      "content": "Mel- og brødmangel i butikkene og mangel på kraftfôr til bønder kan bli konsekvensene hvis meklingen for møller og fôrblanderier ender i streik mandag.\n\nNorgesmøllene er blant bedriftene som rammes, og en langvarig konflikt kan gi redusert tilgang til mel i butikker, samt leveringsproblemer til en rekke bakerier.\n\nEn streik som drar ut i tid, kan også gi mangel på fôr til storfe, gris, fjærfe og andre husdyr.",
-      "excerpt": "Mel- og brødmangel i butikkene og mangel på kraftfôr til bønder kan bli konsekvensene hvis meklingen for møller og fôrblanderier ender i streik mandag.\n\nNorgesmøllene er blant bedriftene som rammes, og en langvarig konflikt kan gi redusert tilgang til mel i butikker, samt leveringsproblemer til en...",
-      "image": "https://images.unsplash.com/photo-1619861907071-926d3117af64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4NjkwNDB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/ny-mulig-streik-kan-gi-mel--og-brodmangel-1.17991303",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-16T08:30:40.479Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3082,
+    "totalFetched": 3083,
     "totalPublished": 77,
-    "lastFetch": "2026-08-18T06:44:31.564Z",
+    "lastFetch": "2026-08-18T08:38:19.756Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
