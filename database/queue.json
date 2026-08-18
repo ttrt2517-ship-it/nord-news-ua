@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1787078361248.683,
+      "title": "Stadig flere arbeidsgivere vil ha ansatte tilbake på kontoret",
+      "slug": "stadig-flere-arbeidsgivere-vil-ha-ansatte-tilbake-p-kontoret",
+      "content": "4 av 10 NHO-bedrifter sier de vil ha de ansatte tilbake fra hjemmekontor, viser en fersk undersøkelse fra NHO.\n\n– Den undersøkelsen vi har fått nå, viser ganske tydelig at bedriftene legger mer vekt på tilstedeværelse på jobb, sier Nina Melsom, direktør for arbeidsliv i NHO.\n\nHun påpeker likevel at det er forskjell mellom bedrifter.\n\nDNB er blant selskapene som innfører begrensninger på hjemmekontor. Fra oktober slutter de med to faste dager i uka på hjemmekontor, og innfører godkjenning fra sjefen for å kunne jobbe hjemmefra.\n\nHjemmekontor\n\nBruken av hjemmekontor har eksplodert under koronapandemien. Flere norske IT-bedrifter lyser ut stillinger som legger opp til fjernarbeid. En undersøkelse fra Tryg Forsikring viser at én av ti har fått helseplager ved å ha hjemmekontor.\n\nArbeidsliv\n\nSummen av de som jobber og de som er arbeidsledige kalles for arbeidstyrken. Sammenlignet med andre land er en stor del av befolkningen i Norge i arbeid. I juli 2018 var 70,3 prosent av befolkningen i arbeid eller arbeidsledig, ifølge SSB.",
+      "excerpt": "4 av 10 NHO-bedrifter sier de vil ha de ansatte tilbake fra hjemmekontor, viser en fersk undersøkelse fra NHO.\n\n– Den undersøkelsen vi har fått nå, viser ganske tydelig at bedriftene legger mer vekt på tilstedeværelse på jobb, sier Nina Melsom, direktør for arbeidsliv i NHO.\n\nHun påpeker likevel at...",
+      "image": "https://images.unsplash.com/photo-1751819533536-e7871e1ddf7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcwNzgzNjF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/stadig-flere-arbeidsgivere-vil-ha-ansatte-tilbake-pa-kontoret-1.17993491",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-18T18:39:21.248Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787078359360.35,
+      "title": "Ukrainsk kraftverk ute av drift etter russisk angrep",
+      "slug": "ukrainsk-kraftverk-ute-av-drift-etter-russisk-angrep",
+      "content": "Et ukrainsk kraftverk er ute av drift etter å ha fått store skader i et russisk angrep, bekrefter energiselskapet DTEK ifølge Reuters.\n\nSelskapet vil ikke opplyse hvilket kraftverk det er snakk om, men uttaler at anleggene deres har blitt angrepet over 230 ganger siden Russland gikk til fullskala krig i 2022.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Et ukrainsk kraftverk er ute av drift etter å ha fått store skader i et russisk angrep, bekrefter energiselskapet DTEK ifølge Reuters.\n\nSelskapet vil ikke opplyse hvilket kraftverk det er snakk om, men uttaler at anleggene deres har blitt angrepet over 230 ganger siden Russland gikk til fullskala...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukrainsk-kraftverk-ute-av-drift-etter-russisk-angrep-1.17993927",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-18T18:39:19.360Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787078357589.6536,
+      "title": "Ap-politiker Tuva Moflag ble innlagt på sykehus etter hjerneslag",
+      "slug": "appolitiker-tuva-moflag-ble-innlagt-p-sykehus-etter-hjernesl",
+      "content": "Forrige uke ble Ap-politiker Tuva Moflag lagt inn på sykehus. Der fikk hun behandling for hjerneslag/blodpropp i hjernen, skriver hun selv på Facebook.\n\nMoflag er finanspolitisk talsperson for Arbeiderpartiet.\n\nHun ble skrevet ut av sykehuset tirsdag og delte selv et bilde i den forbindelse.\n\n– Legene understreker at det hverken er jobb eller livsstil som er årsaken til at jeg ble syk. Det er jeg glad for. Blodproppen er utløst av en medfødt hjertefeil (hull i hjertet). For å redusere risikoen for at dette skjer igjen, skal jeg ha en hjerteoperasjon i løpet av høsten, skriver Moflag i innlegget.",
+      "excerpt": "Forrige uke ble Ap-politiker Tuva Moflag lagt inn på sykehus. Der fikk hun behandling for hjerneslag/blodpropp i hjernen, skriver hun selv på Facebook.\n\nMoflag er finanspolitisk talsperson for Arbeiderpartiet.\n\nHun ble skrevet ut av sykehuset tirsdag og delte selv et bilde i den forbindelse....",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ap-politiker-tuva-moflag-ble-innlagt-pa-sykehus-etter-hjerneslag-1.17993936",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-18T18:39:17.589Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787063681233.5261,
       "title": "Eivind Trædal vil ha førsteplassen på MDGs liste i Oslo",
       "slug": "eivind-trdal-vil-ha-frsteplassen-p-mdgs-liste-i-oslo",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-16T18:30:36.110Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786905034329.3296,
-      "title": "TV 2: Rollebytter i Arbeiderpartiet",
-      "slug": "tv-2-rollebytter-i-arbeiderpartiet",
-      "content": "Statsminister Jonas Gahr Støre erstatter sin pressesjef Kristoffer Thoner med Tonje Brennas pressesjef Per Anders Langerød. Det melder TV 2.\n\nBhanuja Rasiah, som i dag er statssekretær ved SMK, det overordnede ansvaret for presse.\n\nThoner har sagt opp og sier ifølge TV 2i en uttalelse at han ser frem til å ha en mer forutsigbar hverdag utenfor Statsministerens kontor. Støre takker Thoner for en innsats utenom det vanlige, og sier han har forståelse for beslutningen til Thoner.",
-      "excerpt": "Statsminister Jonas Gahr Støre erstatter sin pressesjef Kristoffer Thoner med Tonje Brennas pressesjef Per Anders Langerød. Det melder TV 2.\n\nBhanuja Rasiah, som i dag er statssekretær ved SMK, det overordnede ansvaret for presse.\n\nThoner har sagt opp og sier ifølge TV 2i en uttalelse at han ser...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/tv-2_-rollebytter-i-arbeiderpartiet-1.17991686",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-16T18:30:34.329Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786905032629.273,
-      "title": "Veltet med elsparkesykkel i Verdal – funnet bevisstløs",
-      "slug": "veltet-med-elsparkesykkel-i-verdal-funnet-bevisstls",
-      "content": "Politiet fikk klokka 19.37 melding om en mann som hadde veltet med elsparkesykkel i Verdal.\n\n– Det var forbipasserende som hadde ringt etter ambulanse da mannen lå bevisstløs ved elsparkesykkelen, skriver politiets operasjonsleder Håvard Okan Lossius.\n\nFøreren av elsparkesykkelen tas med til sykehuset i Levanger. Politiet har beslaglagt elsparkesykkelen og oppretter sak.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "Politiet fikk klokka 19.37 melding om en mann som hadde veltet med elsparkesykkel i Verdal.\n\n– Det var forbipasserende som hadde ringt etter ambulanse da mannen lå bevisstløs ved elsparkesykkelen, skriver politiets operasjonsleder Håvard Okan Lossius.\n\nFøreren av elsparkesykkelen tas med til...",
-      "image": null,
-      "original_url": "https://www.nrk.no/trondelag/veltet-med-elsparkesykkel-i-verdal-_-funnet-bevisstlos-1.17991714",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-16T18:30:32.630Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786897599214.2053,
-      "title": "Rykker ut til front mot front",
-      "slug": "rykker-ut-til-front-mot-front",
-      "content": "Alle nødetater rykker ut etter melding om trafikkulykke i Indre Østfold.\n\n– To biler er involvert, front mot front, skriver operasjonsleder Atle Vesttorp i presseklienten.\n\n– En person erkjenner å ha sovnet bak rattet og dermed kommet over i motgående kjøreretning.\n\nDet skal ha vært en person i hver bil, og klokken 17.45 kan Vesttorp fortelle at begge skal være ute av bilene. Begge skal også være våkne.\n\n– De involverte får hjelp av helsepersonell på stedet, forteller Vesttorp til NRK.\n\nPå grunn av hastighen blir begge førerne kjørt til traumemottaket for videre undersøkelser med tanke på høyenergiskader.\n\nBegge bilene har behov for berging, og veien sperres.",
-      "excerpt": "Alle nødetater rykker ut etter melding om trafikkulykke i Indre Østfold.\n\n– To biler er involvert, front mot front, skriver operasjonsleder Atle Vesttorp i presseklienten.\n\n– En person erkjenner å ha sovnet bak rattet og dermed kommet over i motgående kjøreretning.\n\nDet skal ha vært en person i...",
-      "image": "https://images.unsplash.com/photo-1632243392669-849a04b60780?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4OTc1OTl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/ostfold/rykker-ut-til-front-mot-front-1.17991550",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-16T16:26:39.214Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3090,
+    "totalFetched": 3093,
     "totalPublished": 77,
-    "lastFetch": "2026-08-18T16:32:46.657Z",
+    "lastFetch": "2026-08-18T18:39:23.350Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
