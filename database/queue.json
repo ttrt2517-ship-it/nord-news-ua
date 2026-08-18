@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787057343914.3499,
+      "title": "USA ber Israel avstå fra unødig eskalering i Syria",
+      "slug": "usa-ber-israel-avst-fra-undig-eskalering-i-syria",
+      "content": "Syrias utenriksminister fordømmer det de kaller et uberettiget israelsk luftangrep på en militær flybase nordvest i landet.\n\nIsrael har ikke svart på anklagene, men amerikanske myndigheter slår fast at Israel står bak og ber dem avstå fra å eskalere situasjonene.\n\nSyria\n\n8. desember 2024 rykket opprørsstyrker inn i hovedstaden Damaskus og styrtet Assad-regimet, etter at Bashar al-Assad hadde vært ved makten i 25 år.\n\nIsrael og Syria\n\nIsrael har utført hundrevis av luftangrep mot Syria siden borgerkrigen der startet i 2011. Både syriske regjeringsstyrker og iranskstøttede Hizbollah har vært mål for angrep. Israel sier at de ikke vil la erkefienden Iran få fotfeste i Syria.",
+      "excerpt": "Syrias utenriksminister fordømmer det de kaller et uberettiget israelsk luftangrep på en militær flybase nordvest i landet.\n\nIsrael har ikke svart på anklagene, men amerikanske myndigheter slår fast at Israel står bak og ber dem avstå fra å eskalere situasjonene.\n\nSyria\n\n8. desember 2024 rykket...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/usa-ber-israel-avsta-fra-unodig-eskalering-i-syria-1.17993327",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-18T12:49:03.914Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787048984348.361,
       "title": "WHO holder krisemøte om ebola-utbruddet",
       "slug": "who-holder-krisemte-om-ebolautbruddet",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-16T14:24:04.229Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786890242489.1619,
-      "title": "Jernfjelltunnelen stengt: Bil truffet av stein på størrelse med vaskemaskin",
-      "slug": "jernfjelltunnelen-stengt-bil-truffet-av-stein-p-strrelse-med",
-      "content": "Jernfjelltunnelen på E39 ved Gulen er stengt, etter melding om at en bil er truffet av en stein som falt fra taket.\n\nSteinen beskrives å være på størrelse med en vaskemaskin, og bilen har fått store materielle skader.\n\n– Det skal ha vært to personer og en hund i bilen som ble truffet, de fremstår uskadd. Hendelsen skjedde rundt 500 meter inn i tunnelen fra Knarvik-siden, melder operasjonsleder Knut Dahl-Michelsen.\n\nJostein Steinsland-Hauge ved 110-sentralen bekrefter.\n\n– Det fremstår som at det har gått bra med de involverte. Bilen er ikke kjørbar.\n\nTunnelen er tømt for biler og det er uvisst hvor lenge den vil være stengt.\n\nLise Kristoffersen ved veitrafikksentralen sier det vil bli omkjøringsmulighet via Solheimslia og fylkesvei 571, via ledebil.\n\nKlokken 15.50 skal det ikke være særlig mye kø i området, ifølge Kristoffersen.",
-      "excerpt": "Jernfjelltunnelen på E39 ved Gulen er stengt, etter melding om at en bil er truffet av en stein som falt fra taket.\n\nSteinen beskrives å være på størrelse med en vaskemaskin, og bilen har fått store materielle skader.\n\n– Det skal ha vært to personer og en hund i bilen som ble truffet, de fremstår...",
-      "image": null,
-      "original_url": "https://www.nrk.no/vestland/jernfjelltunnelen-stengt_-bil-truffet-av-stein-pa-storrelse-med-vaskemaskin-1.17991545",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-16T14:24:02.489Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3086,
+    "totalFetched": 3087,
     "totalPublished": 77,
-    "lastFetch": "2026-08-18T10:29:46.178Z",
+    "lastFetch": "2026-08-18T12:49:05.986Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
