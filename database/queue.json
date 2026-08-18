@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787084714555.4678,
+      "title": "ZZ Top-trommis Frank Beard er død",
+      "slug": "zz-toptrommis-frank-beard-er-dd",
+      "content": "Frank Beard, den mangeårige trommisen i det amerikanske rockebandet ZZ Top, er død. Det bekrefter bandet selv på Facebook.\n\n– I dag mistet jeg og Elwood en fantastisk venn og samarbeidspartner, og verden mistet en av de mest innovative trommisene og en ekte sønn av Texas, heter det i en uttalelse fra Billy Gibbons.\n\nBandet er midt i en lang turné der de skal innom en rekke steder i Nord- og Sør-Amerika. De to neste konsertene på lista blir avlyst på grunn av dødsfallet, mens resten av turnéen skal gå som planlagt, skriver bandet.\n\nFlere av konsertene har vært uten Beard bak trommesettet. I stedet har Michael Monahan steppet inn.\n\nBandet startet opp i 1969, med Billy Gibbons, Dusty Hill og Frank Beard som originalbesetning.",
+      "excerpt": "Frank Beard, den mangeårige trommisen i det amerikanske rockebandet ZZ Top, er død. Det bekrefter bandet selv på Facebook.\n\n– I dag mistet jeg og Elwood en fantastisk venn og samarbeidspartner, og verden mistet en av de mest innovative trommisene og en ekte sønn av Texas, heter det i en uttalelse...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/zz-top-trommis-frank-beard-er-dod-1.17993939",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-18T20:25:14.555Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787078361248.683,
       "title": "Stadig flere arbeidsgivere vil ha ansatte tilbake på kontoret",
       "slug": "stadig-flere-arbeidsgivere-vil-ha-ansatte-tilbake-p-kontoret",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-16T20:23:40.906Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786905036110.6172,
-      "title": "Nesten 130.000 uten strøm på Hawaii",
-      "slug": "nesten-130000-uten-strm-p-hawaii",
-      "content": "Nesten 130.000 strømkunder på Hawaii er uten strøm som følge av uværet Lala. Det er nå nedgradert fra en orkan til en tropisk storm.\n\nLokale medier meldte om veltede trær, stengte veier og kraftige oversvømmelser på Big Island, som har rundt 200.000 innbyggere.\n\nHawaii\n\nEn stor skogbrann herjer på Hawaii og har lagt byen Lahaina i ruiner. Over 100 mennesker har mistet livet i brannen.",
-      "excerpt": "Nesten 130.000 strømkunder på Hawaii er uten strøm som følge av uværet Lala. Det er nå nedgradert fra en orkan til en tropisk storm.\n\nLokale medier meldte om veltede trær, stengte veier og kraftige oversvømmelser på Big Island, som har rundt 200.000 innbyggere.\n\nHawaii\n\nEn stor skogbrann herjer på...",
-      "image": "https://images.unsplash.com/photo-1686731709928-a603b9ca9a82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5MDUwMzZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/nesten-130.000-uten-strom-pa-hawaii-1.17991666",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-16T18:30:36.110Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3093,
+    "totalFetched": 3094,
     "totalPublished": 77,
-    "lastFetch": "2026-08-18T18:39:23.350Z",
+    "lastFetch": "2026-08-18T20:25:16.532Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
