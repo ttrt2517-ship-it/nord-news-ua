@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787091887683.0366,
+      "title": "Emiratene stanser handel med Iran",
+      "slug": "emiratene-stanser-handel-med-iran",
+      "content": "De forente arabiske emirater stanser all handel og finansielle transaksjoner med Iran. Det opplyser utenriksdepartementet i landet. De sier de gjør dette fordi den økte spenningen i regionen undergraver regional og internasjonal fred og sikkerhet, skriver Reuters.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.\n\nDe forente arabiske emirater\n\nDe forente arabiske emirater (Emiratene) er en føderasjon på den arabiske halvøy. Ni millioner av de ti millioner innbyggerne er utenlandsfødte. De sju emiratene er Abu Dhabi, Ajman, Dubai, Fujairah, Ras al-Khaimah, Sharjah og Umm al-Qaiwain.",
+      "excerpt": "De forente arabiske emirater stanser all handel og finansielle transaksjoner med Iran. Det opplyser utenriksdepartementet i landet. De sier de gjør dette fordi den økte spenningen i regionen undergraver regional og internasjonal fred og sikkerhet, skriver Reuters.\n\nIran\n\nIran er en islamsk...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/emiratene-stanser-handel-med-iran-1.17994005",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-18T22:24:47.683Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787084714555.4678,
       "title": "ZZ Top-trommis Frank Beard er død",
       "slug": "zz-toptrommis-frank-beard-er-dd",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-16T20:23:42.704Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786911820905.7559,
-      "title": "Iran tilbyr skuddpremie på amerikanske soldater",
-      "slug": "iran-tilbyr-skuddpremie-p-amerikanske-soldater",
-      "content": "Det iranske militæret sa søndag at de tilbyr dusør tilsvarende 30.000 dollar for drap eller pågripelse av amerikanske soldater. Belønningen dobles om handlingen utføres av en kvinne.\n\nDet er ikke kjent at amerikanske bakkestyrker skal ha blitt utstasjonert under krigen i Iran så langt, med unntak av en redningsaksjon for en nedskutt amerikansk pilot i april.\n\nDen iranske hærsjefen sa ingenting om hvor eller når det er forventet at disse drapene, eller pågripelsene, skal finne sted. (NTB)\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
-      "excerpt": "Det iranske militæret sa søndag at de tilbyr dusør tilsvarende 30.000 dollar for drap eller pågripelse av amerikanske soldater. Belønningen dobles om handlingen utføres av en kvinne.\n\nDet er ikke kjent at amerikanske bakkestyrker skal ha blitt utstasjonert under krigen i Iran så langt, med unntak...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/iran-tilbyr-skuddpremie-pa-amerikanske-soldater-1.17991802",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-16T20:23:40.906Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3094,
+    "totalFetched": 3095,
     "totalPublished": 77,
-    "lastFetch": "2026-08-18T20:25:16.532Z",
+    "lastFetch": "2026-08-18T22:24:49.640Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
