@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1787121955225.8062,
+      "title": "Aksjon mot korrupsjon i Ukraina",
+      "slug": "aksjon-mot-korrupsjon-i-ukraina",
+      "content": "Det pågår en aksjon for å avdekke en kriminell organisasjon ledet av parlamentsmedlemmer, med folk fra presidentkontoret involvert.\n\nIfølge nyhetsbyrået Reuters dreier det seg om både nåværende og tidligere parlamentsmedlemmer.\n\nByråene kommer ikke med ytterligere detaljer, men varsler mer informasjon snarlig.\n\nUkraina\n\nUkraina er et land i Europa som grenser til Russland, Belarus, Polen, Moldova og Romania. Landet har nær 38 millioner innbyggere, ifølge data fra FN. I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina».\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Det pågår en aksjon for å avdekke en kriminell organisasjon ledet av parlamentsmedlemmer, med folk fra presidentkontoret involvert.\n\nIfølge nyhetsbyrået Reuters dreier det seg om både nåværende og tidligere parlamentsmedlemmer.\n\nByråene kommer ikke med ytterligere detaljer, men varsler mer...",
+      "image": "https://images.unsplash.com/photo-1625222700053-9e718e2981ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxMjE5NTV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/aksjon-mot-korrupsjon-i-ukraina--1.17994144",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-19T06:45:55.225Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787121953553.6643,
+      "title": "Venstreside-demokrat vant i Florida",
+      "slug": "venstresidedemokrat-vant-i-florida",
+      "content": "Den venstreorienterte Angie Nixon tok en overraskende seier for Demokratene i nominasjonsvalget i Florida.\n\nNixon slo med god margin veteranen Alex Vindman, en pensjonert oberstløytnant og tidligere tjenestemann i Det nasjonale sikkerhetsrådet.\n\nNixon hadde samlet inn bare en brøkdel av Vindmans valgkampbudsjett og ble ansett som en underdog.\n\nHun regnes som en del av en venstrebølge i det demokratiske partiet, og sammenlignes med New York-ordfører Zohran Mamdani og andre venstreprofiler i partiet.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nValg i USA\n\nNeste presidentvalg i USA er i 2024. Flere kandidater har alt annonsert sitt kandidatur, blant dem er tidligere president Donald Trump og nåværende president Joe Biden.",
+      "excerpt": "Den venstreorienterte Angie Nixon tok en overraskende seier for Demokratene i nominasjonsvalget i Florida.\n\nNixon slo med god margin veteranen Alex Vindman, en pensjonert oberstløytnant og tidligere tjenestemann i Det nasjonale sikkerhetsrådet.\n\nNixon hadde samlet inn bare en brøkdel av Vindmans...",
+      "image": "https://images.unsplash.com/photo-1731779455735-7b9675d9e028?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxMjE5NTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/venstreside-demokrat-vant-i-florida-1.17994155",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-19T06:45:53.553Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787121951857.1245,
+      "title": "Flere drept i russisk droneangrep",
+      "slug": "flere-drept-i-russisk-droneangrep",
+      "content": "I byen Kherson i Ukraina ble fire mennesker drept i et russisk droneangrep mot en buss, opplyser den lokale guvernøren.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "I byen Kherson i Ukraina ble fire mennesker drept i et russisk droneangrep mot en buss, opplyser den lokale guvernøren.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører...",
+      "image": "https://images.unsplash.com/photo-1619861907071-926d3117af64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxMjE5NTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flere-drept-i-russisk-droneangrep-1.17994164",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-19T06:45:51.858Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787114268083.6758,
       "title": "Minst ni døde i hotellbrann i India",
       "slug": "minst-ni-dde-i-hotellbrann-i-india",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-17T06:57:45.832Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1786949864068.4858,
-      "title": "Sør-Korea svarer på Trumps utspill",
-      "slug": "srkorea-svarer-p-trumps-utspill",
-      "content": "Sør-Korea sier de håper på en meningsfull dialog mellom USA og Nord-Korea.\n\nTidligere mandag varslet Donald Trump at han har beordret det amerikanske forsvaret til å øve mindre med Sør-Korea.\n\n– Sør-Korea og USA har hatt et tett samarbeid om å bevare en sterk felles forsvarsstilling og felles øvelser og trening. Vi vil fortsette å koordinere tett, heter det i uttalelsen fra presidentkontoret.\n\nDet heter videre at landet nå også vil bidra til arbeidet med å gjenopprette sikkerheten i Hormuz-stredet.\n\nForholdet mellom Sør- og Nord-Korea\n\nForholdet mellom Nord-Korea og Sør-Korea er spent. Landene inngikk aldri noen fredsavtale etter Koreakrigen på 1950-tallet.",
-      "excerpt": "Sør-Korea sier de håper på en meningsfull dialog mellom USA og Nord-Korea.\n\nTidligere mandag varslet Donald Trump at han har beordret det amerikanske forsvaret til å øve mindre med Sør-Korea.\n\n– Sør-Korea og USA har hatt et tett samarbeid om å bevare en sterk felles forsvarsstilling og felles...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/sor-korea-svarer-pa-trumps-utspill-1.17991908",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-17T06:57:44.068Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786949862370.5576,
-      "title": "Ny dag med togproblemer i Oslo",
-      "slug": "ny-dag-med-togproblemer-i-oslo",
-      "content": "Det er strømproblemer på sporene mellom Skøyen og Nationaltheatret.\n\nDet fører til at færre spor er i bruk. Vy varsler forsinkelser og innstillinger som følge av problemene.\n\nOgså i forrige uke ble togtrafikken i hovedstadområdet rammet av signalfeil flere dager.",
-      "excerpt": "Det er strømproblemer på sporene mellom Skøyen og Nationaltheatret.\n\nDet fører til at færre spor er i bruk. Vy varsler forsinkelser og innstillinger som følge av problemene.\n\nOgså i forrige uke ble togtrafikken i hovedstadområdet rammet av signalfeil flere dager.",
-      "image": "https://images.unsplash.com/photo-1569690293102-34d8d806f4b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5NDk4NjJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/ny-dag-med-togproblemer-i-oslo-1.17991958",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-17T06:57:42.370Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1786935647083.4053,
-      "title": "Minst ti personer mistet livet i bussulykke i Brasil",
-      "slug": "minst-ti-personer-mistet-livet-i-bussulykke-i-brasil",
-      "content": "Minst ti personer har mistet livet etter at en buss veltet i et bratt fjellområde nord for Rio de Janeiro søndag. Det opplyser det lokale brannvesenet og brasilianske medier.\n\nÅtte personer døde på ulykkesstedet nær fjellbyen Petrópolis, mens ytterligere to personer døde på sykehus. De omkomne skal være ni kvinner og en ung jente, melder NTB.\n\nAlvorlige bussulykker skjer ofte i Brasil på grunn av krevende veiforhold.\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president Jair Bolsonaro til angrep på Kongressen, presidentpalasset og høyesterett i hoevdstaden Brasília.",
-      "excerpt": "Minst ti personer har mistet livet etter at en buss veltet i et bratt fjellområde nord for Rio de Janeiro søndag. Det opplyser det lokale brannvesenet og brasilianske medier.\n\nÅtte personer døde på ulykkesstedet nær fjellbyen Petrópolis, mens ytterligere to personer døde på sykehus. De omkomne skal...",
-      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5MzU2NDd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/minst-ti-personer-mistet-livet-i-bussulykke-i-brasil-1.17991845",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-17T03:00:47.083Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3100,
+    "totalFetched": 3103,
     "totalPublished": 77,
-    "lastFetch": "2026-08-19T04:37:50.140Z",
+    "lastFetch": "2026-08-19T06:45:57.256Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
