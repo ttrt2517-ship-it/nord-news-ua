@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787236640053.6667,
+      "title": "Lagmannsretten om Løten-saken: Feil å kaste ut pressen",
+      "slug": "lagmannsretten-om-ltensaken-feil-kaste-ut-pressen",
+      "content": "Eidsivating lagmannsrett sier at tingretten ikke burde stengt pressen ute i Løten-saken, melder Hamar Arbeiderblad.\n\nDa saken om skolebrannen i Løten startet i Hedmarken og Østerdal tingrett tidligere denne uka, ble pressen kastet på dør. De tiltalte tenåringsjentene nektet å forklare seg så lenge Document.no var til stede.\n\nEn samlet pressekorps, representert ved HA, klagde inn avgjørelsen. Nå har lagmannsretten kommet frem til at utsestengningen under jentenes forklaring ikke var lurt.\n\nIfølge HA slår lagmannsretten fast at jentenes behov for skjerming allerede var tilstrekkelig ivaretatt gjennom at pressen måtte sitte på et annet rom og følge med på video, samt de strenge reglene mot å identifisere jentene.\n\nLagmannsretten understreker videre at så lenge et medium er redaktørstyrt og følger det presseetiske regelverket, kan ikke forsvarere eller tiltalte velge og vrake i hvilke journalister som får dekke saken.",
+      "excerpt": "Eidsivating lagmannsrett sier at tingretten ikke burde stengt pressen ute i Løten-saken, melder Hamar Arbeiderblad.\n\nDa saken om skolebrannen i Løten startet i Hedmarken og Østerdal tingrett tidligere denne uka, ble pressen kastet på dør. De tiltalte tenåringsjentene nektet å forklare seg så lenge...",
+      "image": "https://images.unsplash.com/photo-1587382452724-62132e9565b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyMzY2Mzl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/innlandet/lagmannsretten-om-loten-saken_-feil-a-kaste-ut-pressen-1.17995962",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-20T14:37:20.054Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787230310976.9456,
       "title": "Burnham: Prins Harrys og Meghans sikkerhet er en privatsak",
       "slug": "burnham-prins-harrys-og-meghans-sikkerhet-er-en-privatsak",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-18T14:34:37.259Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787057343914.3499,
-      "title": "USA ber Israel avstå fra unødig eskalering i Syria",
-      "slug": "usa-ber-israel-avst-fra-undig-eskalering-i-syria",
-      "content": "Syrias utenriksminister fordømmer det de kaller et uberettiget israelsk luftangrep på en militær flybase nordvest i landet.\n\nIsrael har ikke svart på anklagene, men amerikanske myndigheter slår fast at Israel står bak og ber dem avstå fra å eskalere situasjonene.\n\nSyria\n\n8. desember 2024 rykket opprørsstyrker inn i hovedstaden Damaskus og styrtet Assad-regimet, etter at Bashar al-Assad hadde vært ved makten i 25 år.\n\nIsrael og Syria\n\nIsrael har utført hundrevis av luftangrep mot Syria siden borgerkrigen der startet i 2011. Både syriske regjeringsstyrker og iranskstøttede Hizbollah har vært mål for angrep. Israel sier at de ikke vil la erkefienden Iran få fotfeste i Syria.",
-      "excerpt": "Syrias utenriksminister fordømmer det de kaller et uberettiget israelsk luftangrep på en militær flybase nordvest i landet.\n\nIsrael har ikke svart på anklagene, men amerikanske myndigheter slår fast at Israel står bak og ber dem avstå fra å eskalere situasjonene.\n\nSyria\n\n8. desember 2024 rykket...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-ber-israel-avsta-fra-unodig-eskalering-i-syria-1.17993327",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-18T12:49:03.914Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3136,
+    "totalFetched": 3137,
     "totalPublished": 77,
-    "lastFetch": "2026-08-20T12:51:52.478Z",
+    "lastFetch": "2026-08-20T14:37:21.842Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
