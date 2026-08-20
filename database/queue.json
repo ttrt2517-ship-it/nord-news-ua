@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787257757818.0374,
+      "title": "Mistenker at russisk fly krenket finsk luftrom",
+      "slug": "mistenker-at-russisk-fly-krenket-finsk-luftrom",
+      "content": "Et russisk fly mistenkes for å ha krenket finsk luftrom over den vestlige delen av Finskebukta torsdag kveld.\n\n– Enhver mistenkt territoriekrenkelse tas på alvor. En etterforskning er i gang, sier forsvarsminister Antti Häkkänen i en uttalelse.",
+      "excerpt": "Et russisk fly mistenkes for å ha krenket finsk luftrom over den vestlige delen av Finskebukta torsdag kveld.\n\n– Enhver mistenkt territoriekrenkelse tas på alvor. En etterforskning er i gang, sier forsvarsminister Antti Häkkänen i en uttalelse.",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/mistenker-at-russisk-fly-krenket-finsk-luftrom-1.17996427",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-20T20:29:17.818Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787251221944.5393,
       "title": "Europeiske stormakter fordømmer israelsk byggeprosjekt på Vestbredden",
       "slug": "europeiske-stormakter-fordmmer-israelsk-byggeprosjekt-p-vest",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-18T20:25:14.555Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787078361248.683,
-      "title": "Stadig flere arbeidsgivere vil ha ansatte tilbake på kontoret",
-      "slug": "stadig-flere-arbeidsgivere-vil-ha-ansatte-tilbake-p-kontoret",
-      "content": "4 av 10 NHO-bedrifter sier de vil ha de ansatte tilbake fra hjemmekontor, viser en fersk undersøkelse fra NHO.\n\n– Den undersøkelsen vi har fått nå, viser ganske tydelig at bedriftene legger mer vekt på tilstedeværelse på jobb, sier Nina Melsom, direktør for arbeidsliv i NHO.\n\nHun påpeker likevel at det er forskjell mellom bedrifter.\n\nDNB er blant selskapene som innfører begrensninger på hjemmekontor. Fra oktober slutter de med to faste dager i uka på hjemmekontor, og innfører godkjenning fra sjefen for å kunne jobbe hjemmefra.\n\nHjemmekontor\n\nBruken av hjemmekontor har eksplodert under koronapandemien. Flere norske IT-bedrifter lyser ut stillinger som legger opp til fjernarbeid. En undersøkelse fra Tryg Forsikring viser at én av ti har fått helseplager ved å ha hjemmekontor.\n\nArbeidsliv\n\nSummen av de som jobber og de som er arbeidsledige kalles for arbeidstyrken. Sammenlignet med andre land er en stor del av befolkningen i Norge i arbeid. I juli 2018 var 70,3 prosent av befolkningen i arbeid eller arbeidsledig, ifølge SSB.",
-      "excerpt": "4 av 10 NHO-bedrifter sier de vil ha de ansatte tilbake fra hjemmekontor, viser en fersk undersøkelse fra NHO.\n\n– Den undersøkelsen vi har fått nå, viser ganske tydelig at bedriftene legger mer vekt på tilstedeværelse på jobb, sier Nina Melsom, direktør for arbeidsliv i NHO.\n\nHun påpeker likevel at...",
-      "image": "https://images.unsplash.com/photo-1751819533536-e7871e1ddf7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcwNzgzNjF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/stadig-flere-arbeidsgivere-vil-ha-ansatte-tilbake-pa-kontoret-1.17993491",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-18T18:39:21.248Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3142,
+    "totalFetched": 3143,
     "totalPublished": 77,
-    "lastFetch": "2026-08-20T18:40:23.845Z",
+    "lastFetch": "2026-08-20T20:29:19.951Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
