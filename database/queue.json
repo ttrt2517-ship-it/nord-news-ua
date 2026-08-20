@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787264931670.2488,
+      "title": "Tønsberg: Mann til sykehus etter å ha falt i sjøen",
+      "slug": "tnsberg-mann-til-sykehus-etter-ha-falt-i-sjen",
+      "content": "En mann er fraktet til sykehus etter å ha falt i sjøen ved Brygga i Tønsberg, melder Sør-Øst politidistrikt.\n\nPersonen skal ha syklet og falt utenfor bryggekanten.\n\n– Fremstår som at mannen har slått hodet i en båt før han traff vannet, skriver operasjonsleder Tom Richard Skuggedal.\n\nDet ble startet hjerte- og lungeredning på stedet. Mannen hadde pust og puls på vei til sykehuset.\n\nPolitiet definerer ulykken som drukning med hodeskade.",
+      "excerpt": "En mann er fraktet til sykehus etter å ha falt i sjøen ved Brygga i Tønsberg, melder Sør-Øst politidistrikt.\n\nPersonen skal ha syklet og falt utenfor bryggekanten.\n\n– Fremstår som at mannen har slått hodet i en båt før han traff vannet, skriver operasjonsleder Tom Richard Skuggedal.\n\nDet ble...",
+      "image": "https://images.unsplash.com/photo-1694374510473-7ac2136eee5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyNjQ5MzF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/tonsberg_-mann-til-sykehus-etter-a-ha-falt-i-sjoen-1.17996626",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-20T22:28:51.670Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787257757818.0374,
       "title": "Mistenker at russisk fly krenket finsk luftrom",
       "slug": "mistenker-at-russisk-fly-krenket-finsk-luftrom",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-18T22:24:47.683Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787084714555.4678,
-      "title": "ZZ Top-trommis Frank Beard er død",
-      "slug": "zz-toptrommis-frank-beard-er-dd",
-      "content": "Frank Beard, den mangeårige trommisen i det amerikanske rockebandet ZZ Top, er død. Det bekrefter bandet selv på Facebook.\n\n– I dag mistet jeg og Elwood en fantastisk venn og samarbeidspartner, og verden mistet en av de mest innovative trommisene og en ekte sønn av Texas, heter det i en uttalelse fra Billy Gibbons.\n\nBandet er midt i en lang turné der de skal innom en rekke steder i Nord- og Sør-Amerika. De to neste konsertene på lista blir avlyst på grunn av dødsfallet, mens resten av turnéen skal gå som planlagt, skriver bandet.\n\nFlere av konsertene har vært uten Beard bak trommesettet. I stedet har Michael Monahan steppet inn.\n\nBandet startet opp i 1969, med Billy Gibbons, Dusty Hill og Frank Beard som originalbesetning.",
-      "excerpt": "Frank Beard, den mangeårige trommisen i det amerikanske rockebandet ZZ Top, er død. Det bekrefter bandet selv på Facebook.\n\n– I dag mistet jeg og Elwood en fantastisk venn og samarbeidspartner, og verden mistet en av de mest innovative trommisene og en ekte sønn av Texas, heter det i en uttalelse...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/zz-top-trommis-frank-beard-er-dod-1.17993939",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-18T20:25:14.555Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3143,
+    "totalFetched": 3144,
     "totalPublished": 77,
-    "lastFetch": "2026-08-20T20:29:19.951Z",
+    "lastFetch": "2026-08-20T22:28:53.778Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
