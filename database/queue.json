@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787208517901.6738,
+      "title": "Togtrøbbel i Oslo-området",
+      "slug": "togtrbbel-i-osloomrdet",
+      "content": "Torsdag morgon var det igjen problem i togtrafikken i Oslo.\n\nDet var feil på ein sporveksel ved Skøyen stasjon, noko som førte til forsinkingar i morgontimane.\n\nKl. 8.01 melder Bane Nor at feilen er retta. Reisande må fortsatt regne med forsinkingar og innstillingar.\n\nIfølge Rebekka Bredesen i Bane Nor, er det den same sporvekslinga som det var trøbbel med tysdag denne veka.\n\nDette kjem etter fleire veker med store problem i togtrafikken i Oslo-området.\n\nSituasjonen gjorde at samferdsleministeren kalla Bane Nor og Jernbanedirektoratet inn til hastemøte onsdag.\n\nEit av fem tog var forsinka i august. På hastemøte med samferdselsministeren i dag, unnskylder Bane Nor.",
+      "excerpt": "Torsdag morgon var det igjen problem i togtrafikken i Oslo.\n\nDet var feil på ein sporveksel ved Skøyen stasjon, noko som førte til forsinkingar i morgontimane.\n\nKl. 8.01 melder Bane Nor at feilen er retta. Reisande må fortsatt regne med forsinkingar og innstillingar.\n\nIfølge Rebekka Bredesen i Bane...",
+      "image": "https://images.unsplash.com/photo-1787072873125-5a582e1f3d6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyMDg1MTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/togtrobbel-i-oslo-omradet-1.17995336",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-20T06:48:37.901Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787200681877.073,
       "title": "&#039;We truly understand that anxiety&#039;: The human side of Norway’s immigration system upgrade",
       "slug": "039we-truly-understand-that-anxiety039-the-human-side-of-nor",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-18T04:36:17.175Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787027775479.7446,
-      "title": "Streik avverget for TV-bransjen",
-      "slug": "streik-avverget-for-tvbransjen",
-      "content": "Virke og Filmforbundet er enige i årets tariffoppgjør for TV-underholdningsområdet. Dermed blir det ikke streik i TV-bransjen.\n\nEnigheten kom etter mekling fem timer på overtid hos Riksmekleren natt til tirsdag.\n\nDersom partene ikke hadde blitt enige, ville TV-arbeidere i flere produksjoner, blant annet «Farmen kjendis», «71 grader nord kjendis», «Skal vi danse», «Fra bølle til bestevenn» og «Kokkeskolen», blitt tatt ut i streik.",
-      "excerpt": "Virke og Filmforbundet er enige i årets tariffoppgjør for TV-underholdningsområdet. Dermed blir det ikke streik i TV-bransjen.\n\nEnigheten kom etter mekling fem timer på overtid hos Riksmekleren natt til tirsdag.\n\nDersom partene ikke hadde blitt enige, ville TV-arbeidere i flere produksjoner, blant...",
-      "image": "https://images.unsplash.com/photo-1698171474543-00caa2d153d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcwMjc3NzV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/streik-avverget-for-tv-bransjen-1.17992869",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-18T04:36:15.479Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3127,
+    "totalFetched": 3128,
     "totalPublished": 77,
-    "lastFetch": "2026-08-20T04:38:02.879Z",
+    "lastFetch": "2026-08-20T06:48:39.616Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
