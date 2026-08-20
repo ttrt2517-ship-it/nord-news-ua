@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787188708846.7173,
+      "title": "Rakettangrep mot Kyiv",
+      "slug": "rakettangrep-mot-kyiv",
+      "content": "Ukrainas hovedstad er under angrep fra russiske raketter, og det er hørt eksplosjoner i byen.\n\nNyhetsbyråer melder at det er hørt mer enn tolv eksplosjoner sentralt i byen.\n\nKyivs ordfører Vitalij Klitsjko sier at det dreier seg om et ballistisk rakettangrep og at tre ulike bydeler er rammet. Der er både boligblokker og andre bygninger truffet, og noen av bygningene har tatt fyr, sier han.\n\nFire personer er meldt såret i Kyiv, forteller han. Ordføreren sier også at folk sitter fastklemt i et tilfluktsrom, uten å oppgi ytterligere detaljer.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainas hovedstad er under angrep fra russiske raketter, og det er hørt eksplosjoner i byen.\n\nNyhetsbyråer melder at det er hørt mer enn tolv eksplosjoner sentralt i byen.\n\nKyivs ordfører Vitalij Klitsjko sier at det dreier seg om et ballistisk rakettangrep og at tre ulike bydeler er rammet. Der...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/rakettangrep-mot-kyiv-1.17995270",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-20T01:18:28.846Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787178354851.4062,
       "title": "USAs statsgjeld bikket 40.000 milliarder dollar",
       "slug": "usas-statsgjeld-bikket-40000-milliarder-dollar",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-18T01:17:55.637Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787015871647.1433,
-      "title": "Ingen streik i mølleindustrien",
-      "slug": "ingen-streik-i-mlleindustrien",
-      "content": "Det blir ingen streik for møller og fôrblanderier. Det er klart etter at partene ble enige ved midnatt, opplyser Norsk Nærings- og Nytelsesmiddelarbeiderforbund (NNN).\n\nEn mulig streik kunne gitt mel- og brødmangel, og på sikt mangel på fôr til husdyr.\n\nNNN og NHO Mat og drikke ble enige om en økonomisk ramme på 4,4 prosent. De ble også enige om forskuttering av sykepenger, pleiepenger og foreldrepenger.",
-      "excerpt": "Det blir ingen streik for møller og fôrblanderier. Det er klart etter at partene ble enige ved midnatt, opplyser Norsk Nærings- og Nytelsesmiddelarbeiderforbund (NNN).\n\nEn mulig streik kunne gitt mel- og brødmangel, og på sikt mangel på fôr til husdyr.\n\nNNN og NHO Mat og drikke ble enige om en...",
-      "image": "https://images.unsplash.com/photo-1752492071653-010a95d865a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcwMTU4NzF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/ingen-streik-i-molleindustrien-1.17992823",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-18T01:17:51.647Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3123,
+    "totalFetched": 3124,
     "totalPublished": 77,
-    "lastFetch": "2026-08-19T22:25:56.907Z",
+    "lastFetch": "2026-08-20T01:18:30.549Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
