@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787275333795.604,
+      "title": "Pakistans eksstatsminister er flyttet fra fengsel til sykehus",
+      "slug": "pakistans-eksstatsminister-er-flyttet-fra-fengsel-til-sykehu",
+      "content": "Pakistans fengslede eksstatsminister Imran Khan er overført til sykehus for medisinsk oppfølging etter ordre fra landets høyesterett.\n\nHundrevis av politifolk, noen av dem utstyrt med køller, var da utplassert nær Shifa-sykehuset i Islamabad, og veier til sykehuset var sperret av.\n\nTidligere i år var Khan midlertidig innlagt for å få øyebehandling etter at familien hans sa at han hadde mistet nesten hele synet på det høyre øyet.\n\n73 år gamle Khan og hans kone Bushra Bibi ble i desember i fjor dømt til 17 års fengsel i en korrupsjonssak. Khan har sittet fengslet siden 2023 og er også domfelt en rekke ganger før dommen fra i fjor.\n\nKhan har hele tiden sagt at anklagene var politisk motivert og at hensikten var å hindre at han kom til makten igjen.",
+      "excerpt": "Pakistans fengslede eksstatsminister Imran Khan er overført til sykehus for medisinsk oppfølging etter ordre fra landets høyesterett.\n\nHundrevis av politifolk, noen av dem utstyrt med køller, var da utplassert nær Shifa-sykehuset i Islamabad, og veier til sykehuset var sperret av.\n\nTidligere i år...",
+      "image": "https://images.unsplash.com/photo-1683797465978-1bb15d7016d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyNzUzMzN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/pakistans-eksstatsminister-er-flyttet-fra-fengsel-til-sykehus-1.17996636",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-21T01:22:13.795Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787264931670.2488,
       "title": "Tønsberg: Mann til sykehus etter å ha falt i sjøen",
       "slug": "tnsberg-mann-til-sykehus-etter-ha-falt-i-sjen",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-19T01:19:30.361Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787091887683.0366,
-      "title": "Emiratene stanser handel med Iran",
-      "slug": "emiratene-stanser-handel-med-iran",
-      "content": "De forente arabiske emirater stanser all handel og finansielle transaksjoner med Iran. Det opplyser utenriksdepartementet i landet. De sier de gjør dette fordi den økte spenningen i regionen undergraver regional og internasjonal fred og sikkerhet, skriver Reuters.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.\n\nDe forente arabiske emirater\n\nDe forente arabiske emirater (Emiratene) er en føderasjon på den arabiske halvøy. Ni millioner av de ti millioner innbyggerne er utenlandsfødte. De sju emiratene er Abu Dhabi, Ajman, Dubai, Fujairah, Ras al-Khaimah, Sharjah og Umm al-Qaiwain.",
-      "excerpt": "De forente arabiske emirater stanser all handel og finansielle transaksjoner med Iran. Det opplyser utenriksdepartementet i landet. De sier de gjør dette fordi den økte spenningen i regionen undergraver regional og internasjonal fred og sikkerhet, skriver Reuters.\n\nIran\n\nIran er en islamsk...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/emiratene-stanser-handel-med-iran-1.17994005",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-18T22:24:47.683Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3144,
+    "totalFetched": 3145,
     "totalPublished": 77,
-    "lastFetch": "2026-08-20T22:28:53.778Z",
+    "lastFetch": "2026-08-21T01:22:16.141Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
