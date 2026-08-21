@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1787337466789.3657,
+      "title": "Dødstallene stiger etter kjøpesenterangrep",
+      "slug": "ddstallene-stiger-etter-kjpesenterangrep",
+      "content": "Tallet på døde etter det russiske angrepet mot et kjøpesenter i Kryvyi Rig i Ukraina har steget til 14, melder statlige medier.\n\nUkrainas president Volodymyr Zelenskyj kritiserer angrepet på X:\n\n– Et absolutt kynisk og avskyelig angrep ble utført av russere mot et vanlig kjøpesenter i Kryvyi Rig. Dronene slo til i to bølger – en halvtime etter det første angrepet og brannen, var det andre angrep rettet mot redningsmannskapene.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Tallet på døde etter det russiske angrepet mot et kjøpesenter i Kryvyi Rig i Ukraina har steget til 14, melder statlige medier.\n\nUkrainas president Volodymyr Zelenskyj kritiserer angrepet på X:\n\n– Et absolutt kynisk og avskyelig angrep ble utført av russere mot et vanlig kjøpesenter i Kryvyi Rig....",
+      "image": "https://images.unsplash.com/photo-1586711290195-8e73d2758c77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczMzc0NjZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/dodstallene-stiger-etter-kjopesenterangrep-1.17997746",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-21T18:37:46.789Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787337464723.3958,
+      "title": "Høyesterett tillater videre bygging av Trumps ballsal",
+      "slug": "hyesterett-tillater-videre-bygging-av-trumps-ballsal",
+      "content": "Amerikansk høyesterett har gitt midlertidig tillatelse til å fortsette byggingen av ballsalen knyttet til Det hvite hus.\n\nBallsalen Donald Trump planlegger i Det hvite hus, kommer til å koste 600 millioner dollar, anslår entreprenøren. Det er 200 millioner mer enn Trump har anslått.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.",
+      "excerpt": "Amerikansk høyesterett har gitt midlertidig tillatelse til å fortsette byggingen av ballsalen knyttet til Det hvite hus.\n\nBallsalen Donald Trump planlegger i Det hvite hus, kommer til å koste 600 millioner dollar, anslår entreprenøren. Det er 200 millioner mer enn Trump har anslått.\n\nUSA\n\nFra 20....",
+      "image": "https://images.unsplash.com/photo-1718341501796-e26059de00cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczMzc0NjR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/hoyesterett-tillater-videre-bygging-av-trumps-ballsal-1.17997711",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-21T18:37:44.724Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787337462811.8354,
+      "title": "Fly havnet opp ned i vannet i Danmark – nordmann var om bord",
+      "slug": "fly-havnet-opp-ned-i-vannet-i-danmark-nordmann-var-om-bord",
+      "content": "Et fly har endt opp ned i vannet utenfor den norddanske øyen Læsø. Piloten var svensk og en nordmann var passasjer.\n\nNordjyllands beredskap fikk melding om hendelsen i 18-tiden.\n\nSjøflyet var i gang med å lette da en kraftig sidevind veltet flyet opp ned.\n\nOm bord i flyet var en svensk pilot og en norsk passasjer. Begge kom seg ut av flyet selv og svømte i land.\n\nMennene frøs og var nedkjølte da de kom til land, og ble ivaretatt av ambulansepersonell.\n\nDet er ikke meldt om skade, og begge mennene kjøres til et hotell.",
+      "excerpt": "Et fly har endt opp ned i vannet utenfor den norddanske øyen Læsø. Piloten var svensk og en nordmann var passasjer.\n\nNordjyllands beredskap fikk melding om hendelsen i 18-tiden.\n\nSjøflyet var i gang med å lette da en kraftig sidevind veltet flyet opp ned.\n\nOm bord i flyet var en svensk pilot og en...",
+      "image": "https://images.unsplash.com/photo-1661336581000-b0c41a876950?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczMzc0NjJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fly-havnet-opp-ned-i-vannet-i-danmark-_-nordmann-var-om-bord-1.17997802",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-21T18:37:42.811Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787330129881.619,
       "title": "To alvorlig skadd ved svensk skole",
       "slug": "to-alvorlig-skadd-ved-svensk-skole",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-19T16:32:38.468Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787157156782.6206,
-      "title": "Miljødirektoratet: Regjeringa bør si ja til midlertidig tømming i Førdefjorden",
-      "slug": "miljdirektoratet-regjeringa-br-si-ja-til-midlertidig-tmming-",
-      "content": "Miljødirektoratet anbefaler at regjeringa godkjenner søknaden om midlertidig utsleppstillatelse i Førdefjorden.\n\n– Etter vår vurdering er den omsøkte virksomheten akseptabel sett i lys av forurensningslovens formål og retningslinjer, skriver Miljødirektoratet.\n\nGruveselskapet Nordic Mining trenger en midlertidig utslippstillatelse for å fortsette å tømme gruveavfall i Førdefjorden, etter at den opprinnelige tillatelsen ble kjent ugyldig av Høyesterett.",
-      "excerpt": "Miljødirektoratet anbefaler at regjeringa godkjenner søknaden om midlertidig utsleppstillatelse i Førdefjorden.\n\n– Etter vår vurdering er den omsøkte virksomheten akseptabel sett i lys av forurensningslovens formål og retningslinjer, skriver Miljødirektoratet.\n\nGruveselskapet Nordic Mining trenger...",
-      "image": "https://images.unsplash.com/photo-1670874103167-31cff21eb845?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxNTcxNTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestland/miljodirektoratet_-regjeringa-bor-si-ja-til-midlertidig-tomming-i-fordefjorden-1.17995040",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-19T16:32:36.782Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787157155041.9165,
-      "title": "Libanon: 4348 drept i israelske angrep siden mars",
-      "slug": "libanon-4348-drept-i-israelske-angrep-siden-mars",
-      "content": "Minst 4348 mennesker er drept i israelske angrep i Libanon siden 2. mars, ifølge landets helsedepartement. Det skriver Al Jazeera.\n\nIfølge helsedepartementet er det 257 barn blant de drepte.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.\n\nLibanon\n\nDen iranskstøttede Hizbollah-militsen angrep Israel med raketter for å svare på det israelske angrepet på Iran 28. februar. Angrepene mot Libanon har tiltatt i styrke fra israelsk side etter våpenhvileavtalen mellom USA, Israel og Iran 8. april.\n\nLibanon og Israel\n\nAngrepene mellom Israel og Hizbollah i Libanon har økt etter angrepet mot Israel 7. oktober 2023. Etter personsøkerangrepet i september har det vært daglige rakettangrep i grenseområdene. Den 27. november trådte en midlertidig våpenhvile i kraft.",
-      "excerpt": "Minst 4348 mennesker er drept i israelske angrep i Libanon siden 2. mars, ifølge landets helsedepartement. Det skriver Al Jazeera.\n\nIfølge helsedepartementet er det 257 barn blant de drepte.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/libanon_-4348-drept-i-israelske-angrep-siden-mars-1.17995054",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-19T16:32:35.041Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787150094292.6445,
-      "title": "Evakuerte Trondheim lufthavn – mistenkelig gjenstand viste seg å være ufarlig",
-      "slug": "evakuerte-trondheim-lufthavn-mistenkelig-gjenstand-viste-seg",
-      "content": "En terminal på Værnes flyplass i Trondheim ble evakuert etter at ansatte i bagasjehåndteringen fant en mistenkelig gjenstand.\n\n– Politiet har nå gått gjennom bagasjen. Det er ingen eksplosiver i bagasjen, skriver politiet i en oppdatering.\n\nFlyplassen går derfor tilbake til normal drift, ifølge politiet.\n\nFlyplassen er nå tilbake i normal drift etter at ansatte på Værnes flyplass fant en mistenkelig gjenstand.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "En terminal på Værnes flyplass i Trondheim ble evakuert etter at ansatte i bagasjehåndteringen fant en mistenkelig gjenstand.\n\n– Politiet har nå gått gjennom bagasjen. Det er ingen eksplosiver i bagasjen, skriver politiet i en oppdatering.\n\nFlyplassen går derfor tilbake til normal drift, ifølge...",
-      "image": null,
-      "original_url": "https://www.nrk.no/trondelag/evakuerte-trondheim-lufthavn-_-mistenkelig-gjenstand-viste-seg-a-vaere-ufarlig-1.17994909",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-19T14:34:54.292Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3164,
+    "totalFetched": 3167,
     "totalPublished": 77,
-    "lastFetch": "2026-08-21T16:35:31.835Z",
+    "lastFetch": "2026-08-21T18:37:48.472Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
