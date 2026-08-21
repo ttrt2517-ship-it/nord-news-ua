@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787287155590.8015,
+      "title": "Kraftig fall i norske filmer og dramaserier",
+      "slug": "kraftig-fall-i-norske-filmer-og-dramaserier",
+      "content": "Antallet nye norske dramaproduksjoner har falt med nær 60 prosent siden toppåret 2022, skriver Klassekampen.\n\nI 2022 kom det 26 nye norske dramaserier og filmer. I fjor var tallet redusert til elleve, ifølge tall fra det svenske analysebyrået Medievision.\n\nUtviklingen gjelder hele Norden. I 2024 ble det lansert 79 nordiske dramaserier og filmer, mens tallet falt til 57 i 2025. Det tilsvarer en nedgang på rundt 30 prosent på ett år.\n\nEn rapport fra Menon Economics viste i fjor at 60 prosent av dem som arbeider i film- og TV-bransjen, vurderer å slutte. 30 prosent oppga at de hadde sluttet i bransjen det siste året.\n\nFilm og serier\n\nInnhold om serier og film. Du finner alle anmeldelsene hos Filmpolitiet. Her finner du alle serier i NRK TV.",
+      "excerpt": "Antallet nye norske dramaproduksjoner har falt med nær 60 prosent siden toppåret 2022, skriver Klassekampen.\n\nI 2022 kom det 26 nye norske dramaserier og filmer. I fjor var tallet redusert til elleve, ifølge tall fra det svenske analysebyrået Medievision.\n\nUtviklingen gjelder hele Norden. I 2024...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/kraftig-fall-i-norske-filmer-og-dramaserier-1.17996643",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-21T04:39:15.590Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787281437792.6782,
       "title": "Tre personer skadet i jordskjelv i Peru",
       "slug": "tre-personer-skadet-i-jordskjelv-i-peru",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-19T04:37:48.083Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787114266214.3035,
-      "title": "Radioaktive masser forsinker dobbeltsporet til Hamar",
-      "slug": "radioaktive-masser-forsinker-dobbeltsporet-til-hamar",
-      "content": "Funn av radioaktive masser og dårlige grunnforhold ved Åkersvika er hovedårsakene til at dobbeltsporet til Hamar blir forsinket.\n\nDet opplyser samferdselsminister Jon-Ivar Nygård i et skriftlig svar til Stortinget.\n\nIfølge Nygård finnes det heller ingen deponiløsning i Europa for de radioaktive massene som er funnet.\n\nBane Nor varslet tidligere i år at åpningen av dobbeltsporet kan bli utsatt til 2032.",
-      "excerpt": "Funn av radioaktive masser og dårlige grunnforhold ved Åkersvika er hovedårsakene til at dobbeltsporet til Hamar blir forsinket.\n\nDet opplyser samferdselsminister Jon-Ivar Nygård i et skriftlig svar til Stortinget.\n\nIfølge Nygård finnes det heller ingen deponiløsning i Europa for de radioaktive...",
-      "image": "https://images.unsplash.com/photo-1630015179789-7a4c880ae186?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxMTQyNjZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/innlandet/radioaktive-masser-forsinker-dobbeltsporet-til-hamar-1.17994060",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-19T04:37:46.214Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3148,
+    "totalFetched": 3149,
     "totalPublished": 77,
-    "lastFetch": "2026-08-21T03:03:59.528Z",
+    "lastFetch": "2026-08-21T04:39:17.200Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
