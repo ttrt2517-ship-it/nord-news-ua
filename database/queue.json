@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787344009887.6382,
+      "title": "Den svenske kongen: – Forferdelse og sorg",
+      "slug": "den-svenske-kongen-forferdelse-og-sorg",
+      "content": "Den svenske kongen Carl Gustaf uttaler seg etter sverdangrepet i Fagersta.\n\n– Det er med forferdelse og sorg at vi har mottatt nyheten om at Sverige nok en gang er rammet av et skoleangrep.\n\nDet skriver kongen i en uttalelse på det svenske kongehusets nettsted.\n\n– Mine tanker går til de nærmest berørte, deres familier og slektninger.\n\n– Jeg vil også uttrykke min forståelse for bekymringen dette forårsaker elever, skoleansatte, foreldre i Fagersta og hele lokalsamfunnet vårt, heter det i uttalelsen.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
+      "excerpt": "Den svenske kongen Carl Gustaf uttaler seg etter sverdangrepet i Fagersta.\n\n– Det er med forferdelse og sorg at vi har mottatt nyheten om at Sverige nok en gang er rammet av et skoleangrep.\n\nDet skriver kongen i en uttalelse på det svenske kongehusets nettsted.\n\n– Mine tanker går til de nærmest...",
+      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczNDQwMDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/den-svenske-kongen_-_-forferdelse-og-sorg-1.17997839",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-21T20:26:49.887Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787337466789.3657,
       "title": "Dødstallene stiger etter kjøpesenterangrep",
       "slug": "ddstallene-stiger-etter-kjpesenterangrep",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-19T18:36:55.756Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787157158468.025,
-      "title": "Utviser flere eritreere fra Norge",
-      "slug": "utviser-flere-eritreere-fra-norge",
-      "content": "Seks eritreiske flyktninger blir utvist fra Norge etter å ha mistet statsborgerskapet sitt. Bakgrunnen er at de egentlig støtter regimet de sa at de hadde flyktet fra, som NRK har omtalt tidligere.\n\nUDI tilbakekalte opprinnelig statsborgerskapet til i underkant av 20 personer. Flere av sakene ble anket til Utlendingsnemnda (UNE), som nå har behandlet ferdig ni av sakene.\n\nI seks av sakene har vedtaket blitt opprettholdt, noe som betyr at personene blir utvist. I tre tilfeller har UNE omgjort vedtakene om utvisning. UNE skal behandle ytterligere ni saker i høst, opplyser de til NRK.\n\nNorsk flyktning- og asylpolitikk\n\nOver 40.000 mennesker søkte beskyttelse i Norge i fjor. Det er nesten 10.000 flere enn i forrige toppår, 2015.",
-      "excerpt": "Seks eritreiske flyktninger blir utvist fra Norge etter å ha mistet statsborgerskapet sitt. Bakgrunnen er at de egentlig støtter regimet de sa at de hadde flyktet fra, som NRK har omtalt tidligere.\n\nUDI tilbakekalte opprinnelig statsborgerskapet til i underkant av 20 personer. Flere av sakene ble...",
-      "image": "https://images.unsplash.com/photo-1683797465484-109681506e0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxNTcxNTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/utviser-flere-eritreere-fra-norge_-1.17995031",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-19T16:32:38.468Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3167,
+    "totalFetched": 3168,
     "totalPublished": 77,
-    "lastFetch": "2026-08-21T18:37:48.472Z",
+    "lastFetch": "2026-08-21T20:26:51.093Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
