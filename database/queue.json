@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1787330129881.619,
+      "title": "To alvorlig skadd ved svensk skole",
+      "slug": "to-alvorlig-skadd-ved-svensk-skole",
+      "content": "Region Västmanland opplyser at to personer er alvorlig skadd etter at en person gikk til angrep med sverd på en skole i Fagersta.\n\nYtterligere en skadet person er på vei til sykehuset, skriver Expressen.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
+      "excerpt": "Region Västmanland opplyser at to personer er alvorlig skadd etter at en person gikk til angrep med sverd på en skole i Fagersta.\n\nYtterligere en skadet person er på vei til sykehuset, skriver Expressen.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig...",
+      "image": "https://images.unsplash.com/photo-1612341532792-163c0f2f2de6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczMzAxMjl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-alvorlig-skadd-ved-svensk-skole-1.17997628",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-21T16:35:29.881Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787330128253.7485,
+      "title": "Seks drept og over 90 såret i russisk angrep mot kjøpesenter i Ukraina",
+      "slug": "seks-drept-og-over-90-sret-i-russisk-angrep-mot-kjpesenter-i",
+      "content": "Dødstallene etter angrepet mot kjøpesenteret i Volodymyr Zelenskyjs hjemby Kryvyi Rig stiger.\n\nSeks personer er drept og over 90 såret. Det er barn blant de sårede.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Dødstallene etter angrepet mot kjøpesenteret i Volodymyr Zelenskyjs hjemby Kryvyi Rig stiger.\n\nSeks personer er drept og over 90 såret. Det er barn blant de sårede.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland...",
+      "image": "https://images.unsplash.com/photo-1704323081531-2e28c0728a44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczMzAxMjh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/seks-drept-og-over-90-saret-i-russisk-angrep-mot-kjopesenter-i-ukraina-1.17997668",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-21T16:35:28.253Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787330126632.638,
+      "title": "Alex Jones får redusert erstatningskrav",
+      "slug": "alex-jones-fr-redusert-erstatningskrav",
+      "content": "En domstol i Texas har redusert erstatningskravet mot konspirasjonsteoretikeren Alex Jones.\n\nJones ble i 2022 dømt til å betale de etterlatte etter skoleskytingen ved Sandy Hook totalt 965 millioner dollar i erstatning.\n\nBakgrunnen er at Jones i årevis hevdet på sin tv-kanal Infowars at skolemassakren var oppspinn.\n\nTo etterlatte fra Texas var opprinnelig tilkjent 50 millioner dollar, men nå har domstolen redusert erstatningen til 750.000 dollar til hver av dem, skriver nyhetsbyrået AP.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "En domstol i Texas har redusert erstatningskravet mot konspirasjonsteoretikeren Alex Jones.\n\nJones ble i 2022 dømt til å betale de etterlatte etter skoleskytingen ved Sandy Hook totalt 965 millioner dollar i erstatning.\n\nBakgrunnen er at Jones i årevis hevdet på sin tv-kanal Infowars at...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/alex-jones-far-redusert-erstatningskrav-1.17997645",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-21T16:35:26.632Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787322973801.5664,
       "title": "Person med sverd skal ha skadd flere på svensk skole",
       "slug": "person-med-sverd-skal-ha-skadd-flere-p-svensk-skole",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-19T14:34:54.292Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787150092500.0208,
-      "title": "Regjeringen vil begrense kjøp av busser fra Kina",
-      "slug": "regjeringen-vil-begrense-kjp-av-busser-fra-kina",
-      "content": "Regjeringen foreslår å begrense kjøp av busser fra land som Norge ikke har et sikkerhetspolitisk samarbeid med, blant annet Kina.\n\nDet skriver Samferdselsdepartementet i en pressemelding.\n\nI dag øker andelen slike busser på norske veier, og det kan innebære økt risiko for nasjonal sikkerhet.\n\n– I en mer spent verden er det avgjørende at vi tar grep som ivaretar nasjonale sikkerhetsinteresser, sier samferdselsminister Jon-Ivar Nygård (Ap).\n\nDersom innkjøpene fortsetter som i dag, vil 60 prosent av landets busser være kinesiske innen 2033, ifølge Statens vegvesen.\n\nElbil\n\nOver 90 prosent av nybilsalget i Norge er nå elektrisk. Parallelt øker uroen over at politikerne kutter i elbil-fordelene. Mange elbileiere er også frustrert over mangel på ladeplasser.\n\nTeknologi og oppfinnelser\n\nTeknologi, læren om teknikker og de tilhørende materielle produkter innenfor et bestemt område. (SNL.no) Teknologiske nyvinninger i næringsliv og forskning påvirker hverdag og arbeidsliv.",
-      "excerpt": "Regjeringen foreslår å begrense kjøp av busser fra land som Norge ikke har et sikkerhetspolitisk samarbeid med, blant annet Kina.\n\nDet skriver Samferdselsdepartementet i en pressemelding.\n\nI dag øker andelen slike busser på norske veier, og det kan innebære økt risiko for nasjonal sikkerhet.\n\n– I...",
-      "image": "https://images.unsplash.com/photo-1659424766030-385d22f8b0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxNTAwOTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/regjeringen-vil-begrense-kjop-av-busser-fra-kina-1.17994560",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-19T14:34:52.500Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787150090708.8235,
-      "title": "Flere titalls omkomne i gruvekollaps i Den sentralafrikanske republikk",
-      "slug": "flere-titalls-omkomne-i-gruvekollaps-i-den-sentralafrikanske",
-      "content": "Flere titalls mennesker har omkommet etter at en gullgruve kollapset i Den sentralafrikanske republikk tirsdag ettermiddag, melder flere medier.\n\nAl Jazeera siterer lokale myndigheter på at minst 30 personer er omkommet, mens nyhetsbyrået AFP får opplyst fra lokale kilder at minst 100 er omkommet.\n\nRedningsarbeidere på stedet leter fortsatt i området.\n\nDen sentralafrikanske republikk\n\nVold og politiske uro har preget Den sentralafrikanske republikk (SAR) etter at president Francois Bozize ble styrtet i mars 2013.",
-      "excerpt": "Flere titalls mennesker har omkommet etter at en gullgruve kollapset i Den sentralafrikanske republikk tirsdag ettermiddag, melder flere medier.\n\nAl Jazeera siterer lokale myndigheter på at minst 30 personer er omkommet, mens nyhetsbyrået AFP får opplyst fra lokale kilder at minst 100 er...",
-      "image": "https://images.unsplash.com/photo-1607251747086-96b65d43deb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxNTAwOTB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-titalls-omkomne-i-gruvekollaps-i-den-sentralafrikanske-republikk-1.17994913",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-19T14:34:50.709Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787143799070.1855,
-      "title": "Mindre eksplosjon ved bensinstasjon – en person skadd",
-      "slug": "mindre-eksplosjon-ved-bensinstasjon-en-person-skadd",
-      "content": "En person er skadd etter en mindre eksplosjon ved en bensinstasjon nord for Øyer i Gudbrandsdalen.\n\nIfølge politiet var det eksplosjon i en tom bensintank, som skulle rengjøres før den skulle fylles igjen.",
-      "excerpt": "En person er skadd etter en mindre eksplosjon ved en bensinstasjon nord for Øyer i Gudbrandsdalen.\n\nIfølge politiet var det eksplosjon i en tom bensintank, som skulle rengjøres før den skulle fylles igjen.",
-      "image": "https://images.unsplash.com/photo-1784397971752-02afef4d014a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxNDM3OTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/innlandet/mindre-eksplosjon-ved-bensinstasjon-_-en-person-skadd-1.17994836",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-19T12:49:59.070Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3161,
+    "totalFetched": 3164,
     "totalPublished": 77,
-    "lastFetch": "2026-08-21T14:36:16.157Z",
+    "lastFetch": "2026-08-21T16:35:31.835Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
