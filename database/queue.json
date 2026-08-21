@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787351172675.5964,
+      "title": "Flygelederstreiken: Disse flyvningene er kansellert lørdag",
+      "slug": "flygelederstreiken-disse-flyvningene-er-kansellert-lrdag",
+      "content": "Tolv flygeledere er tatt ut i streik fra Gardermoen og Flesland etter at forhandlingene mellom Norsk Flygelederforening og Spekter endte i brudd fredag.\n\n* SAS flyvning SK844 fra Oslo til Stockholm med avgang klokken 07.\n\n* SAS flyvning SK4082 fra Oslo til Harstad/ Narvik med avgang klokken 07.10\n\n* SAS flyvning SK4017 fra Oslo til Stavanger med avgang klokken 07.35.\n\n* SAS flyvning SK4104 fra Oslo til Bodø med avgang 07.40.\n\n* SAS flyvning SK451 fra Oslo til København med avgang klokken 08.\n\n* SAS flyvning SK255 fra Oslo til Bergen med avgang klokken 08.35\n\n* SAS flyvning SK336 fra Oslo til Trondheim med avgang klokken 08.40.\n\n* SAS flyvning SK252 fra Bergen til Oslo med avgang klokken 10.00.\n\nFlytrafikk i Norge\n\nLuftrommet over hele Sør-Norge ble stengt 25. april 2024 på grunn av en teknisk feil hos Avinor. Dagen etter ble luftrommet stengt over store deler av Nord-Norge på grunn av en annen feil. Begge hendelsene førte til store forsinkelser i flytrafikken.",
+      "excerpt": "Tolv flygeledere er tatt ut i streik fra Gardermoen og Flesland etter at forhandlingene mellom Norsk Flygelederforening og Spekter endte i brudd fredag.\n\n* SAS flyvning SK844 fra Oslo til Stockholm med avgang klokken 07.\n\n* SAS flyvning SK4082 fra Oslo til Harstad/ Narvik med avgang klokken...",
+      "image": "https://images.unsplash.com/photo-1743179401211-6e001fa4d5e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczNTExNzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flygelederstreiken_-disse-flyvningene-er-kansellert-lordag-1.17997891",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-21T22:26:12.675Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787344009887.6382,
       "title": "Den svenske kongen: – Forferdelse og sorg",
       "slug": "den-svenske-kongen-forferdelse-og-sorg",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-19T18:36:57.403Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787164615756.2246,
-      "title": "Ny skogbrann i Spania",
-      "slug": "ny-skogbrann-i-spania",
-      "content": "Brannmannskaper kjemper mot en ny skogbrann vest for Madrid, bare uker etter noen av de verste brannene i regionens historie.\n\nNi brannfly deltar i kampen mot brannen, som brøt ut nær Aldea del Fresno.\n\nForrige måned tvang skogbranner som herjet gjennom det vestlige Madrid og den tilgrensende provinsen Ávila nærmere 60.000 mennesker til å evakuere, inkludert innbyggerne i Aldea del Fresno.\n\nForskere sier at klimaendringer, drevet av forbrenning av fossile brensler, øker lengden, hyppigheten og intensiteten av slikt ekstremvær.\n\nSkogbranner i Sør-Europa\n\nDenne sommeren har det vært mange skogbranner i sørlige Europa. Titusenvis er evakuert i Spania og Frankrike.\n\nSkogbrann og skogbrannfare\n\nTørt terreng og lite nedbør har ført til stor skogbrannfare",
-      "excerpt": "Brannmannskaper kjemper mot en ny skogbrann vest for Madrid, bare uker etter noen av de verste brannene i regionens historie.\n\nNi brannfly deltar i kampen mot brannen, som brøt ut nær Aldea del Fresno.\n\nForrige måned tvang skogbranner som herjet gjennom det vestlige Madrid og den tilgrensende...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ny-skogbrann-i-spania-1.17995077",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-19T18:36:55.756Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3168,
+    "totalFetched": 3169,
     "totalPublished": 77,
-    "lastFetch": "2026-08-21T20:26:51.093Z",
+    "lastFetch": "2026-08-21T22:26:14.278Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
