@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1787322973801.5664,
+      "title": "Person med sverd skal ha skadd flere på svensk skole",
+      "slug": "person-med-sverd-skal-ha-skadd-flere-p-svensk-skole",
+      "content": "Det pågår en stor politiaksjon ved en skole i Fagersta i Sverige nordvest for Stockholm, melder SVT.\n\nIfølge kommunen har en gjerningsperson med sverd tatt seg inn på skolen og skadet flere personer.\n\nGjerningspersonen skal være under kontroll, skriver de.\n\nPolitiet sier i en kort uttalelse at de rykket ut til det de anså som en pågående livstruende hendelse. De bekrefter at én person er pågrepet og ber folk holde seg bak sperrinmgene på stedet.\n\nSVTs reporter på stedet har sett stort oppbud fra nødetatene, samt politiets beredskapstropp.\n\nElever på alle skoler i kommunen har nå blitt stengt inne, ifølge kommunen.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
+      "excerpt": "Det pågår en stor politiaksjon ved en skole i Fagersta i Sverige nordvest for Stockholm, melder SVT.\n\nIfølge kommunen har en gjerningsperson med sverd tatt seg inn på skolen og skadet flere personer.\n\nGjerningspersonen skal være under kontroll, skriver de.\n\nPolitiet sier i en kort uttalelse at de...",
+      "image": "https://images.unsplash.com/photo-1742458498570-c5517f692b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczMjI5NzN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/person-med-sverd-skal-ha-skadd-flere-pa-svensk-skole-1.17997424",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-21T14:36:13.801Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787322971872.533,
+      "title": "AP: 14 drept i militærangrep mot buddhistkloster i Myanmar",
+      "slug": "ap-14-drept-i-militrangrep-mot-buddhistkloster-i-myanmar",
+      "content": "Det opplyser innbyggere og en opposisjonsgruppe til nyhetsbyrået AP.\n\nEt 20-talls personer er også såret i angrepet, flere av dem alvorlig, ifølge avisa The Irrawaddy , som er grunnlagt av journalister som er i eksil i Thailand.\n\nIfølge avisen var det regimets fly som angrep det som beskrives som et meditasjonssenter. Det er elleve menn og tre kvinner som skal være drept, ifølge opposisjonsgruppa CDSOM.\n\nMyanmar\n\nMyanmar har vært preget av kaos, kamper og uro etter at militæret grep makten i et kupp i februar 2021 og satte landets leder Aung San Suu Kyi i husarrest. Etter kuppet har det vært store folkelige protester.",
+      "excerpt": "Det opplyser innbyggere og en opposisjonsgruppe til nyhetsbyrået AP.\n\nEt 20-talls personer er også såret i angrepet, flere av dem alvorlig, ifølge avisa The Irrawaddy , som er grunnlagt av journalister som er i eksil i Thailand.\n\nIfølge avisen var det regimets fly som angrep det som beskrives som...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ap_-14-drept-i-militaerangrep-mot-buddhistkloster-i-myanmar-1.17997532",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-21T14:36:11.872Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787322970067.3525,
+      "title": "Sveriges statsminister: Våre tanker er hos de rammede",
+      "slug": "sveriges-statsminister-vre-tanker-er-hos-de-rammede",
+      "content": "Sveriges statsminister Ulf Kristersson kommenterer angrepet på en skole i Fagersta nå i ettermiddag.\n\n– En alvorlig hendelse har skjedd på en skole i Fagersta i dag, like etter sommerferien. Det er opplysninger om skadde personer. Vi vet ennå ikke hva som ligger bak handlingen, men vi vet at politiet jobber intenst, skriver Kristersson på X.\n\n– Jeg ber om at alle lar politi og redningstjeneste få jobbe uforstyrret. Våre tanker er hos alle de rammede, skriver han videre.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
+      "excerpt": "Sveriges statsminister Ulf Kristersson kommenterer angrepet på en skole i Fagersta nå i ettermiddag.\n\n– En alvorlig hendelse har skjedd på en skole i Fagersta i dag, like etter sommerferien. Det er opplysninger om skadde personer. Vi vet ennå ikke hva som ligger bak handlingen, men vi vet at...",
+      "image": "https://images.unsplash.com/photo-1603482360662-38e34391247c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczMjI5Njl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/sveriges-statsminister_-vare-tanker-er-hos-de-rammede-1.17997552",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-21T14:36:10.068Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787316634748.4768,
       "title": "Rush av kanselleringer på flyplassene",
       "slug": "rush-av-kanselleringer-p-flyplassene",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-19T12:49:59.070Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787143797176.1921,
-      "title": "Alvorlig skadd etter voldshendelse i Kristiansund",
-      "slug": "alvorlig-skadd-etter-voldshendelse-i-kristiansund",
-      "content": "En mann er mulig utsatt for vold i Kristiansund sentrum i løpet av natten, melder politiet. Mannen er alvorlig skadet, og er fraktet til sykehus.\n\nPolitiet har opprettet straffesak og jobber med å kartlegge hva som har skjedd.\n\nOperasjonsleder Eivind Klokkersund i Møre og Romsdal politidistrikt sier de har mistenkte i saken, men han ønsker ikke å kommentere dette noe videre.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
-      "excerpt": "En mann er mulig utsatt for vold i Kristiansund sentrum i løpet av natten, melder politiet. Mannen er alvorlig skadet, og er fraktet til sykehus.\n\nPolitiet har opprettet straffesak og jobber med å kartlegge hva som har skjedd.\n\nOperasjonsleder Eivind Klokkersund i Møre og Romsdal politidistrikt...",
-      "image": "https://images.unsplash.com/photo-1728547943067-906c7c9218b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxNDM3OTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/mr/alvorlig-skadd-etter-voldshendelse-i-kristiansund-1.17994809",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-19T12:49:57.176Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787143795087.6309,
-      "title": "1243 flere dødsfall enn normalt under hetebølger i Frankrike",
-      "slug": "1243-flere-ddsfall-enn-normalt-under-heteblger-i-frankrike",
-      "content": "Det var 1243 flere dødsfall enn vanlig under hetebølgene i Frankrike mellom 3. og 22. juli, opplyser franske helsemyndigheter ifølge Reuters.\n\nLandet var hardt rammet av hetebølger i sommer. Det ble satt flere nye temperaturrekorder og flere store branner herjet landet.",
-      "excerpt": "Det var 1243 flere dødsfall enn vanlig under hetebølgene i Frankrike mellom 3. og 22. juli, opplyser franske helsemyndigheter ifølge Reuters.\n\nLandet var hardt rammet av hetebølger i sommer. Det ble satt flere nye temperaturrekorder og flere store branner herjet landet.",
-      "image": "https://images.unsplash.com/photo-1641341155664-d8956cfd232b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxNDM3OTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/1243-flere-dodsfall-enn-normalt-under-hetebolger-i-frankrike-1.17994852",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-19T12:49:55.087Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787135396468.8442,
-      "title": "Tiltalt for uaktsomt drap etter skuterulykke",
-      "slug": "tiltalt-for-uaktsomt-drap-etter-skuterulykke",
-      "content": "En mann i 20-årene er tiltalt for uaktsomt drap etter skuterulykken i Balsfjord som tok livet av en utenlandsk turist i mars.\n\nDet var to stykker på snøskuteren, som var en del av en snøskutersafari. Føreren mistet kontrollen og kolliderte med en strømstolpe. Passasjeren mistet livet.\n\nEn utenlandsk turist har omkommet i en snøskuterulykke i Troms.",
-      "excerpt": "En mann i 20-årene er tiltalt for uaktsomt drap etter skuterulykken i Balsfjord som tok livet av en utenlandsk turist i mars.\n\nDet var to stykker på snøskuteren, som var en del av en snøskutersafari. Føreren mistet kontrollen og kolliderte med en strømstolpe. Passasjeren mistet livet.\n\nEn...",
-      "image": "https://images.unsplash.com/photo-1655802521623-03ffe99c95bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcxMzUzOTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/tromsogfinnmark/tiltalt-for-uaktsomt-drap-etter-skuterulykke-1.17994310",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-19T10:29:56.468Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3158,
+    "totalFetched": 3161,
     "totalPublished": 77,
-    "lastFetch": "2026-08-21T12:50:36.413Z",
+    "lastFetch": "2026-08-21T14:36:16.157Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
