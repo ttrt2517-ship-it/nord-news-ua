@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787361472685.0925,
+      "title": "Giftig røyk fra brann i plastbedrift i Søgne",
+      "slug": "giftig-ryk-fra-brann-i-plastbedrift-i-sgne",
+      "content": "Det brenner i en lagerhall ved en plastbedrift i Søgne i Kristiansand. Røyken er vurdert som giftig, og det er sendt ut varsel til naboene.\n\nNødetatene rykket ut etter melding om brannen klokken 02.10 natt til lørdag. Ifølge politiet brant det godt i lagerhallen da brannvesenet kom fram.\n\nKlokka 03 skriver operasjonsleder Tom Einar Gausdal at flere boliger i området vil miste strøm, ettersom energileverandør på koble ut strømmen i området.",
+      "excerpt": "Det brenner i en lagerhall ved en plastbedrift i Søgne i Kristiansand. Røyken er vurdert som giftig, og det er sendt ut varsel til naboene.\n\nNødetatene rykket ut etter melding om brannen klokken 02.10 natt til lørdag. Ifølge politiet brant det godt i lagerhallen da brannvesenet kom fram.\n\nKlokka 03...",
+      "image": "https://images.unsplash.com/photo-1519302959554-a75be0afc82a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczNjE0NzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/giftig-royk-fra-brann-i-plastbedrift-i-sogne-1.17997919",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-22T01:17:52.685Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787351172675.5964,
       "title": "Flygelederstreiken: Disse flyvningene er kansellert lørdag",
       "slug": "flygelederstreiken-disse-flyvningene-er-kansellert-lrdag",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-19T20:29:08.159Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787164617403.8413,
-      "title": "Sveitsiske innsjøer rammet av tørken",
-      "slug": "sveitsiske-innsjer-rammet-av-trken",
-      "content": "Vannstanden i Zürichsee, sjøen ved Zürich, er på sitt laveste nivå på 75 år. Det viser offisielle målinger, ifølge AFP.\n\nZürichsee har nå en vannstand som er halvannen meter under gjennomsnittet.\n\nOgså andre sjøer i Sveits, som Maggioresjøen og Bodensjøen, har langt lavere vannstand\n\nSveits er inne i den samme langvarige tørkeperioden som har rammet en rekke europeiske land.\n\nKlima og miljø\n\nVerden opplever allerede klimaendringene, slår FNs klimapanel fast. Mer ekstremvær, høyere havnivå og økte helseproblemer er noen av konsekvensene, ifølge deres siste hovedrapport.",
-      "excerpt": "Vannstanden i Zürichsee, sjøen ved Zürich, er på sitt laveste nivå på 75 år. Det viser offisielle målinger, ifølge AFP.\n\nZürichsee har nå en vannstand som er halvannen meter under gjennomsnittet.\n\nOgså andre sjøer i Sveits, som Maggioresjøen og Bodensjøen, har langt lavere vannstand\n\nSveits er inne...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/sveitsiske-innsjoer-rammet-av-torken-1.17995119",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-19T18:36:57.403Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3169,
+    "totalFetched": 3170,
     "totalPublished": 77,
-    "lastFetch": "2026-08-21T22:26:14.278Z",
+    "lastFetch": "2026-08-22T01:17:54.339Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
