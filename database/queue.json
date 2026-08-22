@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787437369786.5432,
+      "title": "To alvorlig skadet etter elgpåkjørsel",
+      "slug": "to-alvorlig-skadet-etter-elgpkjrsel",
+      "content": "To personer er alvorlig skadet etter en elgpåkjørsel på E16 i Nord-Aurdal i Innlandet.\n\nPolitiet fikk melding om ulykken klokken 22.28 lørdag kveld.\n\nDe to involverte vurderes av ambulanse på stedet som alvorlig, men ikke kritisk skadet, opplyser operasjonsleder Pål Gjestvang i Innlandet politidistrikt.\n\nBegge blir sendt med ambulanse til Gjøvik sykehus for videre undersøkelser.",
+      "excerpt": "To personer er alvorlig skadet etter en elgpåkjørsel på E16 i Nord-Aurdal i Innlandet.\n\nPolitiet fikk melding om ulykken klokken 22.28 lørdag kveld.\n\nDe to involverte vurderes av ambulanse på stedet som alvorlig, men ikke kritisk skadet, opplyser operasjonsleder Pål Gjestvang i Innlandet...",
+      "image": "https://images.unsplash.com/photo-1715700266217-1b049c7fe2b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc0MzczNjl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-alvorlig-skadet-etter-elgpakjorsel-1.17998436",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-22T22:22:49.786Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787430231541.0105,
       "title": "Redningsaksjon på Store Trolltind",
       "slug": "redningsaksjon-p-store-trolltind",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-20T18:40:20.200Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787251218471.9487,
-      "title": "Journal-problemer på sykehus",
-      "slug": "journalproblemer-p-sykehus",
-      "content": "Oslo universitetssykehus (OUS) har problemer med journalsystemet sitt, melder VG.\n\nSykehuset bekrefter overfor avisa at de har problemer med å logge inn.\n\n– Systemet er ikke helt nede, men har innloggingsproblemer hvis du ikke er logget på fra før, sier Anders Bayer, pressevakt ved OUS til VG.\n\nSituasjonen er ikke så alvorlig at det krever noen spesielle tiltak, opplyser han.\n\nKommunikasjonsdirektør Lars Kittilsen i Helse Sør-Øst sier problemene rammer alle sykehusene i regionen.\n\nFlere ganger tidligere har det vært problemer med journalsystemet Dips. Systemet har problemer ukentlig, viser en gjennomgang av feilmeldinger NRK gjorde i fjor.\n\nJournalsystemet Dips brukes i tillegg til Helse Sør-Øst også i Helse Nord og Helse Vest.\n\nOslo universitetssykehus (OUS)\n\nOslo universitetssykehus består av Aker sykehus, Rikshospitalet, Radiumhospitalet og Ullevål sykehus. Det er landets største sykehus med over 24.000 ansatte. OUS har både lokale, regionale og nasjonale tjenester.",
-      "excerpt": "Oslo universitetssykehus (OUS) har problemer med journalsystemet sitt, melder VG.\n\nSykehuset bekrefter overfor avisa at de har problemer med å logge inn.\n\n– Systemet er ikke helt nede, men har innloggingsproblemer hvis du ikke er logget på fra før, sier Anders Bayer, pressevakt ved OUS til...",
-      "image": "https://images.unsplash.com/photo-1705412412400-ae142a06846a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyNTEyMTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/journal-problemer-pa-sykehus-1.17996415",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-20T18:40:18.471Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3189,
+    "totalFetched": 3190,
     "totalPublished": 77,
-    "lastFetch": "2026-08-22T20:23:53.545Z",
+    "lastFetch": "2026-08-22T22:22:51.712Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
