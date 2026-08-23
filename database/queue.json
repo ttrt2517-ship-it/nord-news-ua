@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787459889621.0454,
+      "title": "Over 300 overnattet på Flesland grunnet streik",
+      "slug": "over-300-overnattet-p-flesland-grunnet-streik",
+      "content": "Luftrommet over Flesland og Sola ble stengt for ordinær rutetrafikk mellom klokken 18.45 og 22.20. og 19 avganger ble kansellerte på Flesland i Bergen.\n\nOver 300 passasjerer måtte derfor tilbringe natten på flyplassen.\n\nSamtidig var hotellene i Bergen stort sett fulle. Avinor satte derfor ut feltsenger og åpnet områder innenfor sikkerhetskontrollen slik at reisende kunne bruke sofaene der.\n\nDet ble også delt ut vann, tepper, liggeunderlag og soveposer.",
+      "excerpt": "Luftrommet over Flesland og Sola ble stengt for ordinær rutetrafikk mellom klokken 18.45 og 22.20. og 19 avganger ble kansellerte på Flesland i Bergen.\n\nOver 300 passasjerer måtte derfor tilbringe natten på flyplassen.\n\nSamtidig var hotellene i Bergen stort sett fulle. Avinor satte derfor ut...",
+      "image": "https://images.unsplash.com/photo-1684514571293-89984e5bfc01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc0NTk4ODl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/over-300-overnattet-pa-flesland-grunnet-streik-1.17998456",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-23T04:38:09.622Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787448295466.3408,
       "title": "Stenger gullgruve etter kollaps",
       "slug": "stenger-gullgruve-etter-kollaps",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-20T20:29:17.818Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787251221944.5393,
-      "title": "Europeiske stormakter fordømmer israelsk byggeprosjekt på Vestbredden",
-      "slug": "europeiske-stormakter-fordmmer-israelsk-byggeprosjekt-p-vest",
-      "content": "Frankrike, Tyskland, Storbritannia og Italia fordømmer Israels planer om å bygge nye boliger i det omstridte «E1»-området på den okkuperte Vestbredden i Palestina.\n\nI en felles uttalelse torsdag krever de fire landene at de israelske byggeplanene stanses.\n\n– Den israelske regjeringens beslutning om å legge ut anbud for byggeprosjekter innenfor rammen av E1-bosetningen er uakseptabel, slår statslederne fast.\n\nLandene advarer videre om at en utvidelse av okkupasjonen i dette området vil true tostatsløsningen mellom Israel og Palestina.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.\n\nPalestina\n\nPalestina er en delvis anerkjent stat i Midtøsten, bestående av Vestbredden og Gazastripen. Området har blitt herjet av krig med blant annet Israel i lang tid. Norge har anerkjent Palestina som en selvstendig stat siden mai 2024.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Frankrike, Tyskland, Storbritannia og Italia fordømmer Israels planer om å bygge nye boliger i det omstridte «E1»-området på den okkuperte Vestbredden i Palestina.\n\nI en felles uttalelse torsdag krever de fire landene at de israelske byggeplanene stanses.\n\n– Den israelske regjeringens beslutning om...",
-      "image": "https://images.unsplash.com/photo-1661120458026-92d509c97805?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyNTEyMjF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/europeiske-stormakter-fordommer-israelsk-byggeprosjekt-pa-vestbredden-1.17996425",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-20T18:40:21.944Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3191,
+    "totalFetched": 3192,
     "totalPublished": 77,
-    "lastFetch": "2026-08-23T03:03:34.182Z",
+    "lastFetch": "2026-08-23T04:38:11.225Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
