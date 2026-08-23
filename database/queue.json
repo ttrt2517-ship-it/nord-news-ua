@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787523784652.6306,
+      "title": "Flygelederstreiken: Norwegian kansellerer seks flyginger, Widerøe tre",
+      "slug": "flygelederstreiken-norwegian-kansellerer-seks-flyginger-wide",
+      "content": "Totalt seks Norwegian-avganger kanselleres mandag morgen.\n\nDet skjer basert på informasjon fra Avinor om begrenset kapasitet i luftrommet, ifølge selskapet. Widerøe kansellerer tre flyginger.\n\nFor Norwegians del er det tre rundturer til eller fra Oslo som kanselleres i morgentimene mandag, skriver pressevakt Lina Lindegaard Carlsen i en epost til NTB.\n\n– Passasjerer som rammes av kanselleringene, kontaktes fortløpende på SMS og epost. Øvrige passasjerer bes møte som normalt dersom de ikke har fått annen beskjed fra Norwegian, opplyser pressevakten.\n\nFlygingene som kanselleres, er DY604 Oslo – Bergen, DY611 Bergen – Oslo, DY742 Oslo – Trondheim, DY751 Trondheim – Oslo, DY524 Oslo – Stavanger og DY527 Stavanger – Oslo.\n\nHos Widerøe gjelder det WF101 fra Florø til Bergen, WF582 fra Kristiansand S til Bergen og WF671 fra Trondheim til Bergen.\n\nFlygelederstreiken, som startet fredag ettermiddag, er årsaken til kanselleringene. Streiken har blant annet ført til at Gardermoen måtte stenge søndag formiddag.\n\nLuftfart\n\nLuftfarta bind verda saman og gjer det mogleg for millionar av menneske å reise. Ho er også avgjerande for handel, turisme og økonomisk utvikling i mange land.",
+      "excerpt": "Totalt seks Norwegian-avganger kanselleres mandag morgen.\n\nDet skjer basert på informasjon fra Avinor om begrenset kapasitet i luftrommet, ifølge selskapet. Widerøe kansellerer tre flyginger.\n\nFor Norwegians del er det tre rundturer til eller fra Oslo som kanselleres i morgentimene mandag, skriver...",
+      "image": "https://images.unsplash.com/photo-1639687645096-fcf6eb82321b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc1MjM3ODR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flygelederstreiken_-norwegian-kansellerer-seks-flyginger_-wideroe-tre-1.17998986",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-23T22:23:04.653Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787516648389.0823,
       "title": "Fire kjørt til sykehus etter ulykke i Norde Follo",
       "slug": "fire-kjrt-til-sykehus-etter-ulykke-i-norde-follo",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-21T16:35:26.632Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787322973801.5664,
-      "title": "Person med sverd skal ha skadd flere på svensk skole",
-      "slug": "person-med-sverd-skal-ha-skadd-flere-p-svensk-skole",
-      "content": "Det pågår en stor politiaksjon ved en skole i Fagersta i Sverige nordvest for Stockholm, melder SVT.\n\nIfølge kommunen har en gjerningsperson med sverd tatt seg inn på skolen og skadet flere personer.\n\nGjerningspersonen skal være under kontroll, skriver de.\n\nPolitiet sier i en kort uttalelse at de rykket ut til det de anså som en pågående livstruende hendelse. De bekrefter at én person er pågrepet og ber folk holde seg bak sperrinmgene på stedet.\n\nSVTs reporter på stedet har sett stort oppbud fra nødetatene, samt politiets beredskapstropp.\n\nElever på alle skoler i kommunen har nå blitt stengt inne, ifølge kommunen.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "Det pågår en stor politiaksjon ved en skole i Fagersta i Sverige nordvest for Stockholm, melder SVT.\n\nIfølge kommunen har en gjerningsperson med sverd tatt seg inn på skolen og skadet flere personer.\n\nGjerningspersonen skal være under kontroll, skriver de.\n\nPolitiet sier i en kort uttalelse at de...",
-      "image": "https://images.unsplash.com/photo-1742458498570-c5517f692b6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczMjI5NzN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/person-med-sverd-skal-ha-skadd-flere-pa-svensk-skole-1.17997424",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-21T14:36:13.801Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3210,
+    "totalFetched": 3211,
     "totalPublished": 77,
-    "lastFetch": "2026-08-23T20:24:10.555Z",
+    "lastFetch": "2026-08-23T22:23:06.277Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
