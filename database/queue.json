@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787473896429.328,
+      "title": "Ukraina meiner Russland vil mobilisere 300 000 nye soldatar",
+      "slug": "ukraina-meiner-russland-vil-mobilisere-300-000-nye-soldatar",
+      "content": "Ukrainas president Volodymyr Zelenskyj seier at Russland planlegg å mobilisere 300 000 soldatar etter det russiske parlamentsvalet i september.\n\n18. til 20. september skal russarane stemme ved Statsdumaen, underhuset til det russiske parlamentet. Då blir den nye nasjonalforsamlinga i Russland valt for dei fem neste åra.\n\nSøndag seier Zelenskyj at Russland kan kalle inn hundretusenvis av soldatar for å ta resten av Donetsk-regionen, øst i Ukraina.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainas president Volodymyr Zelenskyj seier at Russland planlegg å mobilisere 300 000 soldatar etter det russiske parlamentsvalet i september.\n\n18. til 20. september skal russarane stemme ved Statsdumaen, underhuset til det russiske parlamentet. Då blir den nye nasjonalforsamlinga i Russland valt...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukraina-meiner-russland-vil-mobilisere-300-000-nye-soldatar-1.17998465",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-23T08:31:36.430Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787467322101.416,
       "title": "Støre er i Kyiv",
       "slug": "stre-er-i-kyiv",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-21T01:22:13.795Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787264931670.2488,
-      "title": "Tønsberg: Mann til sykehus etter å ha falt i sjøen",
-      "slug": "tnsberg-mann-til-sykehus-etter-ha-falt-i-sjen",
-      "content": "En mann er fraktet til sykehus etter å ha falt i sjøen ved Brygga i Tønsberg, melder Sør-Øst politidistrikt.\n\nPersonen skal ha syklet og falt utenfor bryggekanten.\n\n– Fremstår som at mannen har slått hodet i en båt før han traff vannet, skriver operasjonsleder Tom Richard Skuggedal.\n\nDet ble startet hjerte- og lungeredning på stedet. Mannen hadde pust og puls på vei til sykehuset.\n\nPolitiet definerer ulykken som drukning med hodeskade.",
-      "excerpt": "En mann er fraktet til sykehus etter å ha falt i sjøen ved Brygga i Tønsberg, melder Sør-Øst politidistrikt.\n\nPersonen skal ha syklet og falt utenfor bryggekanten.\n\n– Fremstår som at mannen har slått hodet i en båt før han traff vannet, skriver operasjonsleder Tom Richard Skuggedal.\n\nDet ble...",
-      "image": "https://images.unsplash.com/photo-1694374510473-7ac2136eee5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyNjQ5MzF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/tonsberg_-mann-til-sykehus-etter-a-ha-falt-i-sjoen-1.17996626",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-20T22:28:51.670Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3193,
+    "totalFetched": 3194,
     "totalPublished": 77,
-    "lastFetch": "2026-08-23T06:42:04.179Z",
+    "lastFetch": "2026-08-23T08:31:38.484Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
