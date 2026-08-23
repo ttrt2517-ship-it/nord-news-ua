@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1787495067291.3062,
+      "title": "Røykutvikling i bolig i Drammen - beboere evakueres",
+      "slug": "rykutvikling-i-bolig-i-drammen-beboere-evakueres",
+      "content": "Nødetatene rykket ut til røykutvikling fra en flermannsbolig i Mjøndalen søndag ettermiddag. Flere beboere gikk ut av bygningen.\n\nBrannvesenet fikk kjapt kontroll på brannen og det var ikke behov for å evakuere ytterligere beboere.\n\nDet har brent i én leilighet og en person kjøres til sykehus i ambulanse.\n\nBrannvesenet lufter nå ut av bygget og det er forventet at beboere kan flytte tilbake til sine leiligheter i løpet av ettermiddagen.",
+      "excerpt": "Nødetatene rykket ut til røykutvikling fra en flermannsbolig i Mjøndalen søndag ettermiddag. Flere beboere gikk ut av bygningen.\n\nBrannvesenet fikk kjapt kontroll på brannen og det var ikke behov for å evakuere ytterligere beboere.\n\nDet har brent i én leilighet og en person kjøres til sykehus i...",
+      "image": "https://images.unsplash.com/photo-1665510234535-18adf8c921f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc0OTUwNjd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/buskerud/roykutvikling-i-bolig-i-drammen---beboere-evakueres-1.17998726",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-23T14:24:27.291Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787495065582.9917,
+      "title": "Campingvogn ga full stopp på E18 i Bærum",
+      "slug": "campingvogn-ga-full-stopp-p-e18-i-brum",
+      "content": "– En bil med campingvogn fikk sleng, traff en annen bil og autovernet, kunne politiet melde ved 14:40-tiden søndag.\n\nTrafikken sto først i alle nordgående felt ved Sandvika. Og det dannet seg lange køer.\n\nVed 15:15-tiden var en bergingsbil på plass for å rydde veibanen, som kunne åpnes noe tid etter.\n\nTo personer ble undersøkt av helsepersonell på stedet.\n\n– Uhellet skal ha skjedd i forbindelse med filskifte, skriver politiet.",
+      "excerpt": "– En bil med campingvogn fikk sleng, traff en annen bil og autovernet, kunne politiet melde ved 14:40-tiden søndag.\n\nTrafikken sto først i alle nordgående felt ved Sandvika. Og det dannet seg lange køer.\n\nVed 15:15-tiden var en bergingsbil på plass for å rydde veibanen, som kunne åpnes noe tid...",
+      "image": "https://images.unsplash.com/photo-1738574603764-bbe948d18fbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc0OTUwNjV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/campingvogn-ga-full-stopp-pa-e18-i-baerum-1.17998725",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-23T14:24:25.582Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787495063624.8655,
+      "title": "Åtte døde migranter funnet",
+      "slug": "tte-dde-migranter-funnet",
+      "content": "Den tunisiske kystvakten har hentet opp åtte døde tunisiske migranter etter at båten deres sank, ifølge Reuters. Migrantene var på vei mot Italia.\n\nSøndag fortsetter søket etter seks andre migranter som fortsatt er savnet-\n\nKystvakten, forsvaret og sivilforsvaret, med støtte fra to helikoptre, deltar i leteaksjonen etter de savnede migrantene.\n\nMigranter i Europa\n\nEuropeiske land krever strengere grensekontroll mot massemigrasjon. På få dager krysset over 70.000 marokkanere ulovlig inn i den spanske eksklaven Ceuta. De fleste er returnert, men minst 100 personer mistet livet.",
+      "excerpt": "Den tunisiske kystvakten har hentet opp åtte døde tunisiske migranter etter at båten deres sank, ifølge Reuters. Migrantene var på vei mot Italia.\n\nSøndag fortsetter søket etter seks andre migranter som fortsatt er savnet-\n\nKystvakten, forsvaret og sivilforsvaret, med støtte fra to helikoptre...",
+      "image": "https://images.unsplash.com/photo-1630015009109-5c2c5f7ebbff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc0OTUwNjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/atte-dode-migranter-funnet-1.17998699",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-23T14:24:23.624Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787488922390.878,
       "title": "Flygelederforeningen til NRK: Møter Spekter mandag morgen",
       "slug": "flygelederforeningen-til-nrk-mter-spekter-mandag-morgen",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-21T08:41:42.588Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787294986816.8398,
-      "title": "Flygelederforeningen: – Svært uheldig at dette rammer en uskyldig tredjepart",
-      "slug": "flygelederforeningen-svrt-uheldig-at-dette-rammer-en-uskyldi",
-      "content": "Fredag morgen ble det kjent at Norsk Flygelederforening (NFF) har brutt forhandlingene med Spekter og går ut i streik.\n\n– Vi opplever at arbeidsgiver ikke møter oss i dialogen. Ingen dialog – ingen løsning, sier NFF-leder Robert Gjønnes i en uttalelse til NRK.\n\nHan sier forhandlingen aldri har handlet om økonomi, men om blant annet pauser, livsfase og rammer for instruktørvirksomhet.\n\n– Som nevnt er det svært uheldig at dette rammer en uskyldig tredjepart, og NFF mener at Avinor må ta det fulle ansvaret for situasjonen.\n\nEtter sju timers mekling på overtid blir det streik blant flygelederne. – Blant de høyest lønnede i hele landet, sier Spekter-leder.",
-      "excerpt": "Fredag morgen ble det kjent at Norsk Flygelederforening (NFF) har brutt forhandlingene med Spekter og går ut i streik.\n\n– Vi opplever at arbeidsgiver ikke møter oss i dialogen. Ingen dialog – ingen løsning, sier NFF-leder Robert Gjønnes i en uttalelse til NRK.\n\nHan sier forhandlingen aldri har...",
-      "image": "https://images.unsplash.com/photo-1679769767348-be52800f0601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyOTQ5ODZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flygelederforeningen_-_-svaert-uheldig-at-dette-rammer-en-uskyldig-tredjepart-1.17996741",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-21T06:49:46.816Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787294985159.763,
-      "title": "Avinor sier flygeleder-streik vil ramme hele landet",
-      "slug": "avinor-sier-flygelederstreik-vil-ramme-hele-landet",
-      "content": "I det første streikeuttaket i Norsk Flygelederforening, tas det i ut 12 flygeledere fra Oslo lufthavn og Flesland i Bergen. Avinor sier likevel at streiken vil ramme hele landet.\n\n– Vil bli forsinkelser på Flesland og Gardermoen utover ettermiddag og kveld. Dette vil få følgekonsekvenser for resten av landet, sier kommunikasjonsrådgiver Helene W Jensen i Avinor til NRK.\n\nAvinor har forberedt seg så godt de kan, og vil jobbe for å få ut god informasjon til de som skal reise, sier Jensen. De har også dialog med flyselskapene.\n\n– Passasjerene må følge det de får av beskjed fra flyselskapene, sier Jensen.",
-      "excerpt": "I det første streikeuttaket i Norsk Flygelederforening, tas det i ut 12 flygeledere fra Oslo lufthavn og Flesland i Bergen. Avinor sier likevel at streiken vil ramme hele landet.\n\n– Vil bli forsinkelser på Flesland og Gardermoen utover ettermiddag og kveld. Dette vil få følgekonsekvenser for resten...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/avinor-sier-flygeleder-streik-vil-ramme-hele-landet-1.17996750",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-21T06:49:45.159Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787294983557.747,
-      "title": "Ukraina: Russiske droner traff grensepost ved Moldova",
-      "slug": "ukraina-russiske-droner-traff-grensepost-ved-moldova",
-      "content": "Russiske droner ødela en grensepost ved Moldova i Ukrainas sørlige Odesa-region natt til fredag, ifølge ukrainske myndigheter.\n\nDette førte til at grensetrafikken måtte stanses i morgentimene og omdirigeres til andre grenseposter, ifølge ukrainske myndigheter, som sier moldovske myndigheter er informert om situasjonen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Russiske droner ødela en grensepost ved Moldova i Ukrainas sørlige Odesa-region natt til fredag, ifølge ukrainske myndigheter.\n\nDette førte til at grensetrafikken måtte stanses i morgentimene og omdirigeres til andre grenseposter, ifølge ukrainske myndigheter, som sier moldovske myndigheter er...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ukraina_-russiske-droner-traff-grensepost-ved-moldova-1.17996759",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-21T06:49:43.557Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3199,
+    "totalFetched": 3202,
     "totalPublished": 77,
-    "lastFetch": "2026-08-23T12:42:04.543Z",
+    "lastFetch": "2026-08-23T14:24:28.894Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
