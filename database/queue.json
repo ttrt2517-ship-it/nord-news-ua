@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787448295466.3408,
+      "title": "Stenger gullgruve etter kollaps",
+      "slug": "stenger-gullgruve-etter-kollaps",
+      "content": "Myndighetene i Den sentralafrikanske republikk har stengt en gullgruve etter at over 100 mennesker mistet livet i en kollaps tidligere denne uken.\n\nGruven var egentlig alt stengt, men flere hadde fortsatt å grave etter gull ulovlig.\n\nGruveulykker forekommer jevnlig i det mineralrike landet, der store deler av befolkningen er avhengig av gruvedrift for å livnære seg, skriver NTB.\n\nArbeiderne har ofte lite sikkerhetsutstyr, samtidig som myndighetenes kontroll med gruvene er svak.",
+      "excerpt": "Myndighetene i Den sentralafrikanske republikk har stengt en gullgruve etter at over 100 mennesker mistet livet i en kollaps tidligere denne uken.\n\nGruven var egentlig alt stengt, men flere hadde fortsatt å grave etter gull ulovlig.\n\nGruveulykker forekommer jevnlig i det mineralrike landet, der...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/stenger-gullgruve-etter-kollaps-1.17998453",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-23T01:24:55.467Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787437369786.5432,
       "title": "To alvorlig skadet etter elgpåkjørsel",
       "slug": "to-alvorlig-skadet-etter-elgpkjrsel",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-20T18:40:21.944Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787251220200.9846,
-      "title": "Nærmer seg meklingsfrist for flygelederne",
-      "slug": "nrmer-seg-meklingsfrist-for-flygelederne",
-      "content": "Meklingen mellom flygelederne og arbeidsgiverne pågår fremdeles. De har frist til midnatt med å komme i mål.\n\n– Vi hadde en vanskelig dag i går, og det har vært en noe bedre dag i dag. Men vi har flere store uløste spørsmål som vi skal bruke de kommende timene på, sier riksmekler Mats Ruland til NRK ved 19-tiden.\n\nPartene hadde da middagspause frem til klokka 20.30.\n\nDet har vært flere meklingsrunder i luftfarten i år, men Ruland sier denne er en av de mest krevende.\n\nOm de ikke kommer til enighet, kan flytrafikken bli rammet fra fredag morgen.\n\nFredag morgen vil i så fall 12 flygeledere ved Flesland og Gardermoen tas ut i streik. Lørdag kan luftrommet over Vestlandet bli tidvis stengt. Søndag kan Gardermoen bli helt stengt for trafikk på morgenen og formiddagen.\n\nNorsk Flygelederforening og Spekter må bli enige innen midnatt. Hvis ikke blir det streik ved Gardermoen og Flesland i morgen.",
-      "excerpt": "Meklingen mellom flygelederne og arbeidsgiverne pågår fremdeles. De har frist til midnatt med å komme i mål.\n\n– Vi hadde en vanskelig dag i går, og det har vært en noe bedre dag i dag. Men vi har flere store uløste spørsmål som vi skal bruke de kommende timene på, sier riksmekler Mats Ruland til...",
-      "image": "https://images.unsplash.com/photo-1654581065105-b904eee78d9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyNTEyMjB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/naermer-seg-meklingsfrist-for-flygelederne-1.17996328",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-20T18:40:20.200Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3190,
+    "totalFetched": 3191,
     "totalPublished": 77,
-    "lastFetch": "2026-08-22T22:22:51.712Z",
+    "lastFetch": "2026-08-23T01:24:57.031Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
