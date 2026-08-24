@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787610450296.0083,
+      "title": "Regjeringen skrinlegger planer om toetasjes tog",
+      "slug": "regjeringen-skrinlegger-planer-om-toetasjes-tog",
+      "content": "Regjeringen har satt punktum for flere års utredning av toetasjes tog på Østlandet.\n\nJernbanedirektoratet anbefalte i 2023 å gå videre med dobbeltdekkere, som kunne gitt betydelig flere sitteplasser på flere av de mest belastede togstrekningene. Men etter en ny vurdering i fjor trakk direktoratet anbefalingen.\n\nNå har Samferdselsdepartementet besluttet at arbeidet ikke skal føres videre, og saken anses som avsluttet, melder Aftenposten.\n\nSeniorrådgiver Edvard Andersen i Samferdselsdepartementet opplyser at det ikke finnes toetasjes tog på markedet som oppfyller alle kravene til regiontog på Østlandet, blant annet til toppfart og gulvhøyde ved inngangspartiet.\n\n– Videre er ikke dagens verksteder, spor og tunneler nødvendigvis tilpasset toetasjes tog, noe som ville medføre potensielt store kostnader og forsinkelser, skriver han.\n\nToetasjes tog har vært vurdert siden 80-tallet. I 2023 anslo Jernbanedirektoratet at dobbeltdekkere kunne gi 40 prosent flere sitteplasser enn enetasjes tog.\n\nRegjeringen viser i stedet til bestillingen av 36 nye lokaltog og 32 nye regiontog, som er kraftig forsinket. De første skulle opprinnelig vært satt i trafikk i fjor. I april ble det antydet at togene kan komme neste år.\n\nTog og jernbane\n\nI nær 200 år har togtrafikk på jernbane vært et viktig transportmiddel for mennesker og gods. Norges jernbanenett er på 4208 km (2017). Den samlede lengde av verdens jernbaner var i 2015 beregnet til drøyt 1 millioner km. (SNL)",
+      "excerpt": "Regjeringen har satt punktum for flere års utredning av toetasjes tog på Østlandet.\n\nJernbanedirektoratet anbefalte i 2023 å gå videre med dobbeltdekkere, som kunne gitt betydelig flere sitteplasser på flere av de mest belastede togstrekningene. Men etter en ny vurdering i fjor trakk direktoratet...",
+      "image": "https://images.unsplash.com/photo-1693467084173-2071521fda73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc2MTA0NTB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/regjeringen-skrinlegger-planer-om-toetasjes-tog-1.18000286",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-24T22:27:30.296Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787603493985.1743,
       "title": "USA fjerner Syria fra terrorliste – lemper på sanksjoner",
       "slug": "usa-fjerner-syria-fra-terrorliste-lemper-p-sanksjoner",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-22T20:23:49.802Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787423511267.41,
-      "title": "Riksmekler: Ikke grunnlag for nye møter",
-      "slug": "riksmekler-ikke-grunnlag-for-nye-mter",
-      "content": "Riksmekler Mats Ruland sier at han har snakket med partene i flygelederstreiken i ettermiddag. – Ut fra min kontakt med dem er min klare vurdering at det ikke er grunnlag for nye møter nå, sier han.\n\nDet er ventet at streiken vil få store konsekvenser for flytrafikken søndag.\n\nGardermoen kommer til å være stengt for flytrafikk fra klokken 06.30 til 11.30.\n\nLuftfart\n\nLuftfarta bind verda saman og gjer det mogleg for millionar av menneske å reise. Ho er også avgjerande for handel, turisme og økonomisk utvikling i mange land.",
-      "excerpt": "Riksmekler Mats Ruland sier at han har snakket med partene i flygelederstreiken i ettermiddag. – Ut fra min kontakt med dem er min klare vurdering at det ikke er grunnlag for nye møter nå, sier han.\n\nDet er ventet at streiken vil få store konsekvenser for flytrafikken søndag.\n\nGardermoen kommer til...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/riksmekler_-ikke-grunnlag-for-nye-moter-1.17998353",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-22T18:31:51.267Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3236,
+    "totalFetched": 3237,
     "totalPublished": 77,
-    "lastFetch": "2026-08-24T20:31:35.832Z",
+    "lastFetch": "2026-08-24T22:27:31.979Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
