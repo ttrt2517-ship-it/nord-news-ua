@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1787546764960.5198,
+      "title": "Brann i bygg ved asylmottaket i Ål",
+      "slug": "brann-i-bygg-ved-asylmottaket-i-l",
+      "content": "Det brenner i taket på en sidebygning til asylmottaket på Torpo i Ål.\n\nÅl kommune er varslet for å ivareta beboerne i sidebygning. Det er ikke meldt om at noen er skadet.\n\nDet meldes om en stor brann i bygningen. Det er ingen spredning til boenheten, men det er fortsatt spredningsfare til andre bygg på eiendommen.\n\nBygget det brenner i kommer til å brenne helt ned. Spredningsfare til andre bygg er nå forhindret av Brannvesenet.",
+      "excerpt": "Det brenner i taket på en sidebygning til asylmottaket på Torpo i Ål.\n\nÅl kommune er varslet for å ivareta beboerne i sidebygning. Det er ikke meldt om at noen er skadet.\n\nDet meldes om en stor brann i bygningen. Det er ingen spredning til boenheten, men det er fortsatt spredningsfare til andre...",
+      "image": "https://images.unsplash.com/photo-1698854617886-257ee3635907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc1NDY3NjR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/buskerud/brann-i-bygg-ved-asylmottaket-i-al--1.17999014",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-24T04:46:04.960Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787546763278.1697,
+      "title": "Forseinkingar på Oslo lufthamn",
+      "slug": "forseinkingar-p-oslo-lufthamn",
+      "content": "Streiken til flygeleiarane held fram måndag, og gjer at det blir forseinkingar og innstillingar både til og frå Oslo lufthamn måndag.\n\nMen det er venta at det skal bli litt betre enn på søndag, seier kommunikasjonssjef Monica Fasting ved Oslo lufthamn til NRK.\n\n– Dei reisande må rekne med at det kan oppstå ting på kort varsel også i dag. Vi reknar med at det blir nokre følgefeil frå gårsdagen, men vi håpar på ein langt betre dag i dag.\n\nPartane i streika skal møtast til samtalar måndag morgon.\n\nLuftfart\n\nLuftfarta bind verda saman og gjer det mogleg for millionar av menneske å reise. Ho er også avgjerande for handel, turisme og økonomisk utvikling i mange land.",
+      "excerpt": "Streiken til flygeleiarane held fram måndag, og gjer at det blir forseinkingar og innstillingar både til og frå Oslo lufthamn måndag.\n\nMen det er venta at det skal bli litt betre enn på søndag, seier kommunikasjonssjef Monica Fasting ved Oslo lufthamn til NRK.\n\n– Dei reisande må rekne med at det...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/forseinkingar-pa-oslo-lufthamn-1.17999046",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-24T04:46:03.278Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787534540357.2344,
       "title": "Ukrainsk guvernør: Tre drept i Kharkiv",
       "slug": "ukrainsk-guvernr-tre-drept-i-kharkiv",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-08-21T18:37:42.811Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787330129881.619,
-      "title": "To alvorlig skadd ved svensk skole",
-      "slug": "to-alvorlig-skadd-ved-svensk-skole",
-      "content": "Region Västmanland opplyser at to personer er alvorlig skadd etter at en person gikk til angrep med sverd på en skole i Fagersta.\n\nYtterligere en skadet person er på vei til sykehuset, skriver Expressen.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "Region Västmanland opplyser at to personer er alvorlig skadd etter at en person gikk til angrep med sverd på en skole i Fagersta.\n\nYtterligere en skadet person er på vei til sykehuset, skriver Expressen.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig...",
-      "image": "https://images.unsplash.com/photo-1612341532792-163c0f2f2de6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczMzAxMjl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/to-alvorlig-skadd-ved-svensk-skole-1.17997628",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-21T16:35:29.881Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787330128253.7485,
-      "title": "Seks drept og over 90 såret i russisk angrep mot kjøpesenter i Ukraina",
-      "slug": "seks-drept-og-over-90-sret-i-russisk-angrep-mot-kjpesenter-i",
-      "content": "Dødstallene etter angrepet mot kjøpesenteret i Volodymyr Zelenskyjs hjemby Kryvyi Rig stiger.\n\nSeks personer er drept og over 90 såret. Det er barn blant de sårede.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Dødstallene etter angrepet mot kjøpesenteret i Volodymyr Zelenskyjs hjemby Kryvyi Rig stiger.\n\nSeks personer er drept og over 90 såret. Det er barn blant de sårede.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland...",
-      "image": "https://images.unsplash.com/photo-1704323081531-2e28c0728a44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczMzAxMjh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/seks-drept-og-over-90-saret-i-russisk-angrep-mot-kjopesenter-i-ukraina-1.17997668",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-21T16:35:28.253Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3212,
+    "totalFetched": 3214,
     "totalPublished": 77,
-    "lastFetch": "2026-08-24T03:04:23.133Z",
+    "lastFetch": "2026-08-24T04:46:06.699Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
