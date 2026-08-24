@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1787534540357.2344,
+      "title": "Ukrainsk guvernør: Tre drept i Kharkiv",
+      "slug": "ukrainsk-guvernr-tre-drept-i-kharkiv",
+      "content": "Tre mennesker er drept i et russisk luftangrep i utkanten av den ukrainske byen Kharkiv.\n\nDet skriver den ukrainske guvernøren Oleh Synjehubov på meldingstjenesten Telegram søndag, melder nyhetsbyrået Reuters.\n\nByen Kharkiv ligger nordøst i Ukraina, nær frontlinjen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Tre mennesker er drept i et russisk luftangrep i utkanten av den ukrainske byen Kharkiv.\n\nDet skriver den ukrainske guvernøren Oleh Synjehubov på meldingstjenesten Telegram søndag, melder nyhetsbyrået Reuters.\n\nByen Kharkiv ligger nordøst i Ukraina, nær frontlinjen.\n\nKrigen i Ukraina\n\nRussland...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukrainsk-guvernor_-tre-drept-i-kharkiv--1.17998994",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-24T01:22:20.357Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787523784652.6306,
       "title": "Flygelederstreiken: Norwegian kansellerer seks flyginger, Widerøe tre",
       "slug": "flygelederstreiken-norwegian-kansellerer-seks-flyginger-wide",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-21T16:35:28.253Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787330126632.638,
-      "title": "Alex Jones får redusert erstatningskrav",
-      "slug": "alex-jones-fr-redusert-erstatningskrav",
-      "content": "En domstol i Texas har redusert erstatningskravet mot konspirasjonsteoretikeren Alex Jones.\n\nJones ble i 2022 dømt til å betale de etterlatte etter skoleskytingen ved Sandy Hook totalt 965 millioner dollar i erstatning.\n\nBakgrunnen er at Jones i årevis hevdet på sin tv-kanal Infowars at skolemassakren var oppspinn.\n\nTo etterlatte fra Texas var opprinnelig tilkjent 50 millioner dollar, men nå har domstolen redusert erstatningen til 750.000 dollar til hver av dem, skriver nyhetsbyrået AP.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "En domstol i Texas har redusert erstatningskravet mot konspirasjonsteoretikeren Alex Jones.\n\nJones ble i 2022 dømt til å betale de etterlatte etter skoleskytingen ved Sandy Hook totalt 965 millioner dollar i erstatning.\n\nBakgrunnen er at Jones i årevis hevdet på sin tv-kanal Infowars at...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/alex-jones-far-redusert-erstatningskrav-1.17997645",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-21T16:35:26.632Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3211,
+    "totalFetched": 3212,
     "totalPublished": 77,
-    "lastFetch": "2026-08-23T22:23:06.277Z",
+    "lastFetch": "2026-08-24T01:22:22.197Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
