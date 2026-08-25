@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1787662175326.4507,
+      "title": "Kronprinsparet har reist frå Rikshospitalet",
+      "slug": "kronprinsparet-har-reist-fr-rikshospitalet",
+      "content": "Tysdag ettermiddag reiste kronprins Haakon og kronprinsesse Mette-Marit frå Rikshospitalet, etter at dei hadde vore der i om lag halvannan time.\n\nParet har sølvbryllaupsdag, men feiringa er utsett på grunn av helsesituasjonen til kronprinsessa, som fekk nye lunger i juni.\n\nKong Harald er også innlagd ved Rikshospitalet for behandling av blodsjukdommen hemolytisk anemi.\n\nI helga opplyste kongehuset at helsa hans hadde forverra seg, men at han responderte på behandlinga han fekk.",
+      "excerpt": "Tysdag ettermiddag reiste kronprins Haakon og kronprinsesse Mette-Marit frå Rikshospitalet, etter at dei hadde vore der i om lag halvannan time.\n\nParet har sølvbryllaupsdag, men feiringa er utsett på grunn av helsesituasjonen til kronprinsessa, som fekk nye lunger i juni.\n\nKong Harald er også...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/kronprinsparet-har-reist-fra-rikshospitalet-1.18000849",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-25T12:49:35.326Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787662173706.2092,
+      "title": "Digdir: Jobbar med å avgrense dataangrep",
+      "slug": "digdir-jobbar-med-avgrense-dataangrep",
+      "content": "Dataangrepet mot Digtaliseringsdirektoratet (Digdir) har gått føre seg sidan natt til måndag.\n\nLøysingane er stabile og jobbar med å avgrense konsekvensane av angrepet.\n\n– Status er at angrepet framleis går føre seg, men vi har gjort tiltak som gjer at vi har tenestene oppe og tilgjengelege stort sett kontinuerleg. Og så kan vi oppleve noko ustabilitet til enkelte tider, seier direktør Frode Danielsen i Digdir til NRK.\n\nAngrepet gjorde det blant anna vanskeleg å logge seg på tenester som ID-porten og Altinn.\n\nDet er tredje gang på kort tid at denne typen angrep blir retta mot løysingane til direktoratet.\n\nDigitale løsninger\n\nØkende bruk av digitale tjenester krever at både skolen, arbeidslivet og innbyggerne i landet har digital kompetanse. Men mange faller utenfor og trenger hjelp til enkle offentlige tjenester, noe bibliotekene erfarer.",
+      "excerpt": "Dataangrepet mot Digtaliseringsdirektoratet (Digdir) har gått føre seg sidan natt til måndag.\n\nLøysingane er stabile og jobbar med å avgrense konsekvensane av angrepet.\n\n– Status er at angrepet framleis går føre seg, men vi har gjort tiltak som gjer at vi har tenestene oppe og tilgjengelege stort...",
+      "image": "https://images.unsplash.com/photo-1608822246990-be7bc0d9b2d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc2NjIxNzN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/digdir_-jobbar-med-a-avgrense-dataangrep-1.18000931",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-25T12:49:33.706Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787662171854.3289,
+      "title": "Digitaliseringsministeren vil forby ansiktsgjenkjenning i KI-briller",
+      "slug": "digitaliseringsministeren-vil-forby-ansiktsgjenkjenning-i-ki",
+      "content": "Digitaliseringsminister Karianne Tung vil vurdere å forby ansiktsgjenkjenningsfunksjonen i smartbriller som Meta sine briller utstyrt med kunstig intelligens og filmefunksjon.\n\nStatsråden tar nå til orde for strengere regulering og tydeligere retningslinjer for bruk av smartbriller.\n\n– Det er ingen tvil om at når kunstig intelligens og kameraer stadig oftere bakes inn i briller, ørepropper, capser og annet brukerutstyr, så bidrar det til skjult filming, og innsamling av data og informasjon om oss, sier hun til avisa.\n\nDet er et annet budskap enn ministeren har kommet med tidligere. I sommer sa hun til Klassekampen at «vi ikke kan forby alt vi ikke liekr» på spørsmål om et potensielt Meta-brille-forbud.\n\nTidligere i år avslørte amerikanske medier at Meta har jobbet med en funksjon for ansiktsgjenkjenning til smartbrillene.\n\nMeta har klargjort smartbrillene sine for ansiktsgjenkjenning, ifølge amerikanske medier. Nå åpner regjeringen for et forbud.\n\nKunstig intelligens\n\nChatGPT er en kunstig intelligens-basert tekstgenereringsmodell fra selskapet OpenAI. Den kan brukes til å generere svar på spørsmål, skrive samtaler eller til å komplettere tekst.",
+      "excerpt": "Digitaliseringsminister Karianne Tung vil vurdere å forby ansiktsgjenkjenningsfunksjonen i smartbriller som Meta sine briller utstyrt med kunstig intelligens og filmefunksjon.\n\nStatsråden tar nå til orde for strengere regulering og tydeligere retningslinjer for bruk av smartbriller.\n\n– Det er ingen...",
+      "image": "https://images.unsplash.com/photo-1782072712484-42dc033d64f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc2NjIxNzF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/digitaliseringsministeren-vil-forby-ansiktsgjenkjenning-i-ki-briller-1.18000958",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-25T12:49:31.854Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787654044893.1277,
       "title": "Enighet i meklingen for frisørene",
       "slug": "enighet-i-meklingen-for-frisrene",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-23T18:31:03.271Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787502433067.868,
-      "title": "Storstilt søk etter savnet person i Bodø",
-      "slug": "storstilt-sk-etter-savnet-person-i-bod",
-      "content": "OPPDATERT: Klokken 17.55 kan politet opplyse at den savnede er funnet våken og i live.\n\nPolitiet fikk søndag ettermiddag hjelp av Røde Kors, Norske redningshunder, Norsk Folkehjelp og et redningshelikopter i søket etter en savnet person i området rundt Mjelle, like utenfor Bodø.\n\nPolitiet ba folk som ikke var en del av leiteaksjonen, eller som var på tur i området, om å trekke ut, slik at arbeidet deres ikke ble forstyrret.",
-      "excerpt": "OPPDATERT: Klokken 17.55 kan politet opplyse at den savnede er funnet våken og i live.\n\nPolitiet fikk søndag ettermiddag hjelp av Røde Kors, Norske redningshunder, Norsk Folkehjelp og et redningshelikopter i søket etter en savnet person i området rundt Mjelle, like utenfor Bodø.\n\nPolitiet ba folk...",
-      "image": "https://images.unsplash.com/photo-1753196254719-523e8e8e91eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc1MDI0MzJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nordland/storstilt-sok-etter-savnet-person-i-bodo-1.17998829",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-23T16:27:13.067Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787502431288.8918,
-      "title": "Vil ikke snakke om pauser",
-      "slug": "vil-ikke-snakke-om-pauser",
-      "content": "Mandag morgen skal partene i flygelederstreiken møtes til samtaler, men Spekter vil ikke diskutere pausekravene fra flygelederne.\n\nDet var Spekter som tok initiativ til samtalene, men vil ikke gi etter på pausekravet fra flygelederne.\n\n– Når det gjelder dette kravet som jeg har fått med meg at Flygelederforeningen fronter i mediene rundt pauser. Der har vi ikke noe å gli på, sier Anne-Kari Bratten, leder i Spekter.\n\nHun mener saken om pauser ikke hører hjemme i dette oppgjøret:\n\n– Flygelederforeningen tar omkamp på en arbeidstidsordning som de har tapt i to rettsinstanser.\n\nDa meklingen brøt sammen fredag morgen, pekte flygelederne på uenighet om pauser:\n\n– Vi opplever at flygeledere kan sitte 8 til 16 timer uten pause. Det er ikke akseptabelt, sa leder Robert Gjønnes i Norsk Flygelederforening.\n\nSpekter har tatt initiativ til å møte Norsk Flygelederforening, som sier de ikke rekker det før i morgen.\n\nLuftfart\n\nLuftfarta bind verda saman og gjer det mogleg for millionar av menneske å reise. Ho er også avgjerande for handel, turisme og økonomisk utvikling i mange land.",
-      "excerpt": "Mandag morgen skal partene i flygelederstreiken møtes til samtaler, men Spekter vil ikke diskutere pausekravene fra flygelederne.\n\nDet var Spekter som tok initiativ til samtalene, men vil ikke gi etter på pausekravet fra flygelederne.\n\n– Når det gjelder dette kravet som jeg har fått med meg at...",
-      "image": "https://images.unsplash.com/photo-1669697051903-2d997f5f9fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc1MDI0MzF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/vil-ikke-snakke-om-pauser-1.17998732",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-23T16:27:11.288Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787495067291.3062,
-      "title": "Røykutvikling i bolig i Drammen - beboere evakueres",
-      "slug": "rykutvikling-i-bolig-i-drammen-beboere-evakueres",
-      "content": "Nødetatene rykket ut til røykutvikling fra en flermannsbolig i Mjøndalen søndag ettermiddag. Flere beboere gikk ut av bygningen.\n\nBrannvesenet fikk kjapt kontroll på brannen og det var ikke behov for å evakuere ytterligere beboere.\n\nDet har brent i én leilighet og en person kjøres til sykehus i ambulanse.\n\nBrannvesenet lufter nå ut av bygget og det er forventet at beboere kan flytte tilbake til sine leiligheter i løpet av ettermiddagen.",
-      "excerpt": "Nødetatene rykket ut til røykutvikling fra en flermannsbolig i Mjøndalen søndag ettermiddag. Flere beboere gikk ut av bygningen.\n\nBrannvesenet fikk kjapt kontroll på brannen og det var ikke behov for å evakuere ytterligere beboere.\n\nDet har brent i én leilighet og en person kjøres til sykehus i...",
-      "image": "https://images.unsplash.com/photo-1665510234535-18adf8c921f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc0OTUwNjd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/buskerud/roykutvikling-i-bolig-i-drammen---beboere-evakueres-1.17998726",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-23T14:24:27.291Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3251,
+    "totalFetched": 3254,
     "totalPublished": 77,
-    "lastFetch": "2026-08-25T10:34:06.842Z",
+    "lastFetch": "2026-08-25T12:49:37.175Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
