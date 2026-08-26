@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1787773723066.2046,
+      "title": "Russland sier de angrep lasteskip i Izmajil",
+      "slug": "russland-sier-de-angrep-lasteskip-i-izmajil",
+      "content": "Russlands angrep onsdag et lasteskip i den ukrainske havnebyen Izmajil, opplyser forsvarsdepartementet i Moskva.\n\nIfølge departementet fraktet lasteskipet militære forsyninger til Ukraina.\n\nDrivstofflagre og havneinfrastruktur ble også ødelagt i droneangrepet, heter det.\n\nOpplysningene om angrepet er ikke bekreftet fra uavhengig hold.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Russlands angrep onsdag et lasteskip i den ukrainske havnebyen Izmajil, opplyser forsvarsdepartementet i Moskva.\n\nIfølge departementet fraktet lasteskipet militære forsyninger til Ukraina.\n\nDrivstofflagre og havneinfrastruktur ble også ødelagt i droneangrepet, heter det.\n\nOpplysningene om angrepet...",
+      "image": "https://images.unsplash.com/photo-1623831134835-adb937642c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc3NzM3MjJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/russland-sier-de-angrep-lasteskip-i-izmajil-1.18002840",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-26T19:48:43.066Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787773721118.166,
+      "title": "Flyplassansatte døde av malaria i Frankfurt",
+      "slug": "flyplassansatte-dde-av-malaria-i-frankfurt",
+      "content": "To ansatte ved flyplassen i Frankfurt er døde etter å ha blitt smittet av malaria. Myggen antas å ha kommet med et fly.\n\nIfølge flyplassmyndighetene i Frankfurt har seks ansatte fått påvist malariasmitte.\n\nHelsemyndighetene i Frankfurt opplyser nå at to av dem er døde. De fire andre behandles på sykehus.\n\nSykdommen forårsaker årlig flere hundre tusen dødsfall i verden, hovedsakelig i Afrika sør for Sahara.\n\nPasienter blir vanligvis friske dersom smitten blir oppdaget tidlig og de får behandling.",
+      "excerpt": "To ansatte ved flyplassen i Frankfurt er døde etter å ha blitt smittet av malaria. Myggen antas å ha kommet med et fly.\n\nIfølge flyplassmyndighetene i Frankfurt har seks ansatte fått påvist malariasmitte.\n\nHelsemyndighetene i Frankfurt opplyser nå at to av dem er døde. De fire andre behandles på...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/flyplassansatte-dode-av-malaria-i-frankfurt-1.18002852",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-26T19:48:41.118Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787773718836.5435,
+      "title": "Aker-selskap inngikk stor kontrakt med Anthropic",
+      "slug": "akerselskap-inngikk-stor-kontrakt-med-anthropic",
+      "content": "Aker-eide Nscale har inngått en kontrakt verdt 45 milliarder dollar med et stort teknologiselskap. De skal tilby store mengder datasenterkapasitet.\n\nBloomberg erfarer at det er KI-giganten Anthropic som er kunden. Til kontrakten går det om lag 460 megawatt strøm, som er nok til 345.000 amerikanske husstander.\n\nBritiske Nscale er nest største post i Aker-konsernets eierportefølje, og ventes å gå på børs i løpet av høsten, skriver E24.\n\nKapasiteten, som skal gå til blant annet å drifte språkmodellen Claude de neste seks årene, skal leveres fra Nscales Monarch-anlegg i West Virginia, skriver Dagens Næringsliv.",
+      "excerpt": "Aker-eide Nscale har inngått en kontrakt verdt 45 milliarder dollar med et stort teknologiselskap. De skal tilby store mengder datasenterkapasitet.\n\nBloomberg erfarer at det er KI-giganten Anthropic som er kunden. Til kontrakten går det om lag 460 megawatt strøm, som er nok til 345.000 amerikanske...",
+      "image": "https://images.unsplash.com/photo-1649872647782-0e875f9d9dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc3NzM3MTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/aker-selskap-inngikk-stor-kontrakt-med-anthropic-1.18002903",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-26T19:48:38.836Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787762927060.1743,
       "title": "Laksesykdom bekreftet i oppdrettsanlegg i Bodø",
       "slug": "laksesykdom-bekreftet-i-oppdrettsanlegg-i-bod",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-25T06:50:14.583Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787640612727.3118,
-      "title": "Mer gass til Troll A",
-      "slug": "mer-gass-til-troll-a",
-      "content": "Lørsdag startet produksjonen fra havbunnsprosjektet Troll fase 3 steg 2, melder Equinor i en pressemelding.\n\nProsjektet framskynder produksjonen av 55 milliarder standard kubikkmeter gass fra Troll Vest-reservoaret. Ifølge selskapet tilsvarer dette Franrikes gassbehov i nær to år.\n\n– Troll-feltet er ryggraden i norsk gasseksport til Europa. Prosjektet framskynder produksjonen fra reservoaret slik at dagens høye gasseksportnivå fra Troll og Kollsnes kan opprettholdes lengst mulig, sier Lill Harriet Brusdal, direktør for Troll og Kvitebjørn.\n\nUtbyggingen hadde et kostnadsestimat på 12,3 milliarder kroner og var planlagt oppstart mot slutten av året.\n\nPartnerskapet i Troll-feltet består av Petoro, Equinor, Shell, TotalEnergies og ConocoPhillips.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
-      "excerpt": "Lørsdag startet produksjonen fra havbunnsprosjektet Troll fase 3 steg 2, melder Equinor i en pressemelding.\n\nProsjektet framskynder produksjonen av 55 milliarder standard kubikkmeter gass fra Troll Vest-reservoaret. Ifølge selskapet tilsvarer dette Franrikes gassbehov i nær to år.\n\n– Troll-feltet...",
-      "image": "https://images.unsplash.com/photo-1698083781385-a8a7069c5cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc2NDA2MTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/rogaland/mer-gass-til-troll-a-1.18000460",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-25T06:50:12.727Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787632792237.594,
-      "title": "Høyesterett gir Trump en «midlertidig seier» i spørsmål om poststemmer",
-      "slug": "hyesterett-gir-trump-en-midlertidig-seier-i-sprsml-om-postst",
-      "content": "I USA har høyesterett fjernet et juridisk hinder for president Donald Trumps forsøk på å begrense hvem som skal få sende valgseddelen sin i posten.\n\nBeslutningen beskrives som en «foreløpig seier» til Trump av flere medier, blant annet av radiokanalen NPR.\n\nI april signerte Trump en presidentordre for å stramme inn på bruken av poststemmer. Det endte med at flere amerikanske delstater gikk til søksmål. Nå sier et flertall av dommerne i Høyesterett at delstatene ikke hadde rettslig grunnlag til å utfordre presidentordren.\n\nDommerne tar imidlertid ikke stilling til lovligheten av selve presidentordren til Trump.\n\nDet er bare litt over to måneder igjen til mellomvalget i USA, der mye står på spill for Trump.\n\nDet er fortsatt høyst uklart hvordan den siste kjennelsen til høyesterett vil påvirke bruken av poststemmer i dette valget.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.",
-      "excerpt": "I USA har høyesterett fjernet et juridisk hinder for president Donald Trumps forsøk på å begrense hvem som skal få sende valgseddelen sin i posten.\n\nBeslutningen beskrives som en «foreløpig seier» til Trump av flere medier, blant annet av radiokanalen NPR.\n\nI april signerte Trump en presidentordre...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/hoyesterett-gir-trump-en-_midlertidig-seier_-i-sporsmal-om-poststemmer-1.18000302",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-25T04:39:52.237Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787632790663.165,
-      "title": "Laveste trafikk i Hormuzstredet på tre måneder",
-      "slug": "laveste-trafikk-i-hormuzstredet-p-tre-mneder",
-      "content": "Bare ett fartøy passerte gjennom Hormuzstredet mandag, det laveste antallet siden 7. mai, ifølge foreløpige skipsfartsdata.\n\nEt stort gasskip passerte inn i stredet fra Omanbukta, ifølge Kpler, som driver en tjeneste for sporing av skip og analyse av dette.\n\nTil sammenligning passerte seks fartøy av ulike typer samme sted søndag.\n\nTallene kan endre seg ettersom enkelte skip slår av posisjonssenderne sine underveis.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Bare ett fartøy passerte gjennom Hormuzstredet mandag, det laveste antallet siden 7. mai, ifølge foreløpige skipsfartsdata.\n\nEt stort gasskip passerte inn i stredet fra Omanbukta, ifølge Kpler, som driver en tjeneste for sporing av skip og analyse av dette.\n\nTil sammenligning passerte seks fartøy...",
-      "image": "https://images.unsplash.com/photo-1608559435158-01b4196a98ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc2MzI3OTB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/laveste-trafikk-i-hormuzstredet-pa-tre-maneder-1.18000349",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-25T04:39:50.663Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3288,
+    "totalFetched": 3291,
     "totalPublished": 77,
-    "lastFetch": "2026-08-26T16:48:48.662Z",
+    "lastFetch": "2026-08-26T19:48:44.733Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
