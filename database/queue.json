@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1787762927060.1743,
+      "title": "Laksesykdom bekreftet i oppdrettsanlegg i Bodø",
+      "slug": "laksesykdom-bekreftet-i-oppdrettsanlegg-i-bod",
+      "content": "Det er påvist infeksiøs lakseanemi (ILA) ved et oppdrettsanlegg i Bodø kommune i Nordland fylke. For å unngå smitte oppfordrer Mattilsynet til å vise aktsomhet.\n\nDet gjelder et anlegg i Storvika i Skjerstadfjorden i Bodø, melder Mattilsynet i en pressemelding. Der driver Wenberg Fiskeoppdrett AS og Salten Stamfisk AS med lakseproduksjon.\n\nMattilsynet ble varslet av Veterinærinstituttet 12. august om mistanke om ILA. Mistaken var basert på positive analyseresultat etter prøvetaking av laksen.\n\nDen 26. august stadfestet Mattilsynet ILA-diagnosen gjennom analyseresultater fra Veterinærinstituttet.\n\n– For å begrense smittespredning er lokaliteten ilagt restriksjoner, blant annet med forbud mot flytting av fisk uten særskilt tillatelse, står det i pressemeldingen.\n\nILA er en virussykdom som rammer laks. Den forårsakes av et virus som ødelegger fiskens røde blodlegemer. Det fører til anemi, altså blodmangel, og dermed også høy dødelighet. (NTB)",
+      "excerpt": "Det er påvist infeksiøs lakseanemi (ILA) ved et oppdrettsanlegg i Bodø kommune i Nordland fylke. For å unngå smitte oppfordrer Mattilsynet til å vise aktsomhet.\n\nDet gjelder et anlegg i Storvika i Skjerstadfjorden i Bodø, melder Mattilsynet i en pressemelding. Der driver Wenberg Fiskeoppdrett AS og...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nordland/laksesykdom-bekreftet-i-oppdrettsanlegg-i-bodo-1.18002756",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-26T16:48:47.060Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787762925437.5015,
+      "title": "Ulykke mellom buss og personbil i Fredrikstad",
+      "slug": "ulykke-mellom-buss-og-personbil-i-fredrikstad",
+      "content": "Nødetatene har onsdag ettermiddag rykket ut til en ulykke i Fredrikstad. En buss og personbil har kollidert.\n\nIfølge politiet er det foreløpig for tidlig å si noe om hvor mange som er involverte eller hva slags buss det er snakk om.\n\nNødetatene har onsdag kveld rykket ut til en ulykke i Fredrikstad. Luftambulanse og redningshelikopter er på vei.",
+      "excerpt": "Nødetatene har onsdag ettermiddag rykket ut til en ulykke i Fredrikstad. En buss og personbil har kollidert.\n\nIfølge politiet er det foreløpig for tidlig å si noe om hvor mange som er involverte eller hva slags buss det er snakk om.\n\nNødetatene har onsdag kveld rykket ut til en ulykke i...",
+      "image": "https://images.unsplash.com/photo-1659424765389-a64c848ca038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc3NjI5MjV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/ostfold/ulykke-mellom-buss-og-personbil-i-fredrikstad-1.18002774",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-26T16:48:45.438Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787762923705.019,
+      "title": "Dronningen og kronprinsparet forlater Rikshospitalet",
+      "slug": "dronningen-og-kronprinsparet-forlater-rikshospitalet",
+      "content": "Kronprins Haakon, kronprinsesse Mette-Marit og dronning Sonja dro i 18.40-tiden hjem fra Rikshospitalet etter et to timer langt besøk.\n\nKong Harald er innlagt på sykehuset på det tiende døgnet.\n\nKronprinsen kom først, kort tid før klokka 16. Kronprinsesse Mette-Marit kom kort tid senere, i en bil kjørt av prins Sverre Magnus. Dronning Sonja ankom en drøy halvtime etter dette, i 16.45-tiden.",
+      "excerpt": "Kronprins Haakon, kronprinsesse Mette-Marit og dronning Sonja dro i 18.40-tiden hjem fra Rikshospitalet etter et to timer langt besøk.\n\nKong Harald er innlagt på sykehuset på det tiende døgnet.\n\nKronprinsen kom først, kort tid før klokka 16. Kronprinsesse Mette-Marit kom kort tid senere, i en bil...",
+      "image": "https://images.unsplash.com/photo-1781444554216-60fa5ac34903?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc3NjI5MjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/dronningen-og-kronprinsparet-forlater-rikshospitalet-1.18002776",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-26T16:48:43.706Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787755521263.812,
       "title": "Meta har inngått forlik",
       "slug": "meta-har-inngtt-forlik",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-25T04:39:50.663Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787626775157.3003,
-      "title": "Regjeringen vurderer lovpålagt husforsikring",
-      "slug": "regjeringen-vurderer-lovplagt-husforsikring",
-      "content": "Justis- og beredskapsdepartementet vurderer om det bør bli lovpålagt å forsikre egen bolig, skriver Dagsavisen.\n\nBakgrunnen er storbrannen i Krokstadelva utenfor Drammen 17. juli, der 116 boliger gikk tapt. To av boligeierne manglet husforsikring, ifølge Finans Norge.\n\nDepartementet har hatt møter med både Finans Norge og Huseierne og vurderer nå om det er grunnlag for å foreslå regelendringer.\n\n– Spørsmålet om en generell plikt til å forsikre egen bolig er noe departementet ser på. Men dette reiser flere problemstillinger som eventuelt må utredes grundigere, herunder om andre tiltak enn en slik plikt kan være mer aktuelle, sier kommunikasjonsrådgiver Andreas Bondevik i departementet til Dagsavisen.\n\n– Vår holdning er at lovfesting er en dårlig idé, sier Carsten Pihl, leder for politikk, samfunnskontakt og bærekraft i Huseierne.\n\nOgså Finans Norge er skeptisk. Organisasjonen peker på at en forsikringsplikt vil kreve et kontroll- og sanksjonsapparat.\n\nForsikringsnæringen vurderer i stedet en løsning der opplysninger fra Kartverket og forsikringsselskapene kan brukes til å finne boliger uten forsikring og varsle eierne.\n\nStorbrann i Krokstadelva\n\nFredag 17. juli brøt det ut en stor brann i en rekkehusbebyggelse i Krokstadelva utenfor Drammen. Over hundre boliger gikk tapt og flere hundre mennesker mistet hjemmene sine.",
-      "excerpt": "Justis- og beredskapsdepartementet vurderer om det bør bli lovpålagt å forsikre egen bolig, skriver Dagsavisen.\n\nBakgrunnen er storbrannen i Krokstadelva utenfor Drammen 17. juli, der 116 boliger gikk tapt. To av boligeierne manglet husforsikring, ifølge Finans Norge.\n\nDepartementet har hatt møter...",
-      "image": "https://images.unsplash.com/photo-1659424765389-a64c848ca038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc2MjY3NzV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/regjeringen-vurderer-lovpalagt-husforsikring-1.18000301",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-25T02:59:35.158Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787610450296.0083,
-      "title": "Regjeringen skrinlegger planer om toetasjes tog",
-      "slug": "regjeringen-skrinlegger-planer-om-toetasjes-tog",
-      "content": "Regjeringen har satt punktum for flere års utredning av toetasjes tog på Østlandet.\n\nJernbanedirektoratet anbefalte i 2023 å gå videre med dobbeltdekkere, som kunne gitt betydelig flere sitteplasser på flere av de mest belastede togstrekningene. Men etter en ny vurdering i fjor trakk direktoratet anbefalingen.\n\nNå har Samferdselsdepartementet besluttet at arbeidet ikke skal føres videre, og saken anses som avsluttet, melder Aftenposten.\n\nSeniorrådgiver Edvard Andersen i Samferdselsdepartementet opplyser at det ikke finnes toetasjes tog på markedet som oppfyller alle kravene til regiontog på Østlandet, blant annet til toppfart og gulvhøyde ved inngangspartiet.\n\n– Videre er ikke dagens verksteder, spor og tunneler nødvendigvis tilpasset toetasjes tog, noe som ville medføre potensielt store kostnader og forsinkelser, skriver han.\n\nToetasjes tog har vært vurdert siden 80-tallet. I 2023 anslo Jernbanedirektoratet at dobbeltdekkere kunne gi 40 prosent flere sitteplasser enn enetasjes tog.\n\nRegjeringen viser i stedet til bestillingen av 36 nye lokaltog og 32 nye regiontog, som er kraftig forsinket. De første skulle opprinnelig vært satt i trafikk i fjor. I april ble det antydet at togene kan komme neste år.\n\nTog og jernbane\n\nI nær 200 år har togtrafikk på jernbane vært et viktig transportmiddel for mennesker og gods. Norges jernbanenett er på 4208 km (2017). Den samlede lengde av verdens jernbaner var i 2015 beregnet til drøyt 1 millioner km. (SNL)",
-      "excerpt": "Regjeringen har satt punktum for flere års utredning av toetasjes tog på Østlandet.\n\nJernbanedirektoratet anbefalte i 2023 å gå videre med dobbeltdekkere, som kunne gitt betydelig flere sitteplasser på flere av de mest belastede togstrekningene. Men etter en ny vurdering i fjor trakk direktoratet...",
-      "image": "https://images.unsplash.com/photo-1693467084173-2071521fda73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc2MTA0NTB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/regjeringen-skrinlegger-planer-om-toetasjes-tog-1.18000286",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-24T22:27:30.296Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787603493985.1743,
-      "title": "USA fjerner Syria fra terrorliste – lemper på sanksjoner",
-      "slug": "usa-fjerner-syria-fra-terrorliste-lemper-p-sanksjoner",
-      "content": "Mens USA og Donald Trump går hardt ut med sanksjoner mot Iran, løsner de opp overfor Syria.\n\nMandag fjernet USA Syria fra listen over statlige sponsorer av terrorisme, etter at landet har stått på listen i flere tiår, skriver AFP.\n\nUSA opphevet også al-Nusra-frontens status som spesielt utpekt global terrororganisasjon, og lempet på sanksjonene.\n\n– Dagens tiltak vil bidra til å fremme ytterligere investeringer i Syria for å styrke politisk og økonomisk stabilitet, sier finansminister Scott Bessent i USA.\n\n– Å oppheve Syrias status som statssponsor av terrorisme er et historisk skritt som fører landet tilbake til sin naturlige plass i det globale økonomiske systemet, skriver Safwat Raslan på X.\n\nSyria\n\n8. desember 2024 rykket opprørsstyrker inn i hovedstaden Damaskus og styrtet Assad-regimet, etter at Bashar al-Assad hadde vært ved makten i 25 år.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Mens USA og Donald Trump går hardt ut med sanksjoner mot Iran, løsner de opp overfor Syria.\n\nMandag fjernet USA Syria fra listen over statlige sponsorer av terrorisme, etter at landet har stått på listen i flere tiår, skriver AFP.\n\nUSA opphevet også al-Nusra-frontens status som spesielt utpekt...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-fjerner-syria-fra-terrorliste-_-lemper-pa-sanksjoner-1.18000246",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-24T20:31:33.985Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3285,
+    "totalFetched": 3288,
     "totalPublished": 77,
-    "lastFetch": "2026-08-26T14:45:22.874Z",
+    "lastFetch": "2026-08-26T16:48:48.662Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
