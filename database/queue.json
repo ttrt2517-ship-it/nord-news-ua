@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1788000823574.3203,
+      "title": "Person fastklemt etter ulykke i Bjørnafjorden",
+      "slug": "person-fastklemt-etter-ulykke-i-bjrnafjorden",
+      "content": "En personbil og en buss er involvert i en trafikkulykke på Halhjem i Bjørnafjorden.\n\nEn kvinne i bilen satt fastklemt. Hun er nå brakt til sjukehus og er våken og bevisst, ifølge politiet. Skadeomfanget er ellers ikke kjent.\n\nUlykken skal ha skjedd da personbilen svingte ut i Halhjemsvegen fra Lepsøyvegen.\n\nNok en personbil ble også truffet i ulykken, men her er ingen skadd.",
+      "excerpt": "En personbil og en buss er involvert i en trafikkulykke på Halhjem i Bjørnafjorden.\n\nEn kvinne i bilen satt fastklemt. Hun er nå brakt til sjukehus og er våken og bevisst, ifølge politiet. Skadeomfanget er ellers ikke kjent.\n\nUlykken skal ha skjedd da personbilen svingte ut i Halhjemsvegen fra...",
+      "image": "https://images.unsplash.com/photo-1732362129914-e0b9279e2495?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgwMDA4MjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestland/person-fastklemt-etter-ulykke-i-bjornafjorden-1.18006995",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-29T10:53:43.574Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788000821774.9763,
+      "title": "Minst 27 drept i russisk angrep nær Kyiv",
+      "slug": "minst-27-drept-i-russisk-angrep-nr-kyiv",
+      "content": "Minst 27 personer er drept i et angrep mot et ammunisjonslager i byen Butsja utenfor Kyiv i løpet av natten, opplyser Kyiv-guvernør Tymur Tkatsjenko på Telegram.\n\nAngrepet førte til en stor eksplosjon og påfølgende brann i bygningen.\n\n42 mennesker er såret og ytterligere 380 blir evakuert fra Butsja.\n\nPresident Zelenskyj lover hevn for angrepet. Han sier ammunisjon ikke må lagres i nærheten av boliger.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Minst 27 personer er drept i et angrep mot et ammunisjonslager i byen Butsja utenfor Kyiv i løpet av natten, opplyser Kyiv-guvernør Tymur Tkatsjenko på Telegram.\n\nAngrepet førte til en stor eksplosjon og påfølgende brann i bygningen.\n\n42 mennesker er såret og ytterligere 380 blir evakuert fra...",
+      "image": "https://images.unsplash.com/photo-1678057058628-e5669d6864ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgwMDA4MjF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/minst-27-drept-i-russisk-angrep-naer-kyiv-1.18007012",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-29T10:53:41.774Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788000819981.783,
+      "title": "TV i Niger gikk i svart etter angrep på hovedstaden",
+      "slug": "tv-i-niger-gikk-i-svart-etter-angrep-p-hovedstaden",
+      "content": "Det pågår et kraftig angrep i Nigers hovedstad Niamey, opplyser øyenvitner til Reuters.\n\nDen nasjonale TV-kanalen har stanset sendingene sine og det kommer rapporter om angrep mot flyplassen og nær presidentboligen.\n\nMyndighetene ber i en uttalelse om at folk forholder seg rolig.\n\nIfølge AFP er det kamper mellom regjeringsstyrker og opprørere utenfor presidentpalasset.\n\nNiger\n\nDen 26. juli 2023 ble det gjennomført et militærkupp i Niger. Nigers junta avslutter diplomatiske og militære samarbeid med vestlige land. Samtidig truer de nabolandene med hevn dersom de bruker militærmakt.",
+      "excerpt": "Det pågår et kraftig angrep i Nigers hovedstad Niamey, opplyser øyenvitner til Reuters.\n\nDen nasjonale TV-kanalen har stanset sendingene sine og det kommer rapporter om angrep mot flyplassen og nær presidentboligen.\n\nMyndighetene ber i en uttalelse om at folk forholder seg rolig.\n\nIfølge AFP er det...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/tv-i-niger-gikk-i-svart-etter-angrep-pa-hovedstaden-1.18007013",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-29T10:53:39.982Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787971486650.7922,
       "title": "Slottsgartneriet samlar inn helsingar frå Slottsplassen",
       "slug": "slottsgartneriet-samlar-inn-helsingar-fr-slottsplassen",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-25T16:38:33.244Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787675911330.427,
-      "title": "Canada svarer USA – innfører straffetoll på over 700 varer fra USA",
-      "slug": "canada-svarer-usa-innfrer-straffetoll-p-over-700-varer-fra-u",
-      "content": "Canada innfører straffetoll på over 700 varer fra USA, blant annet stål og hvitevarer, opplyser regjeringen.\n\nBeslutningen er et svar på president Donald Trumps varslede straffetoll på canadiske varer, blant annet kjøretøy og bildeler, skriver NTB.\n\n– I dag kunngjør vi, at vi matcher den amerikanske tollen, dollar for dollar, fra den 8. september, sa finansminister François-Philippe Champagne.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nHandelsavtaler og toll\n\nUSAs president Donald Trump annonserte 24. juli nye tollsatser for flere av verdens land. Tollsatsen på norske varer øker til 12,5 prosent, mens EU beholder tollsatsen på 10 prosent.",
-      "excerpt": "Canada innfører straffetoll på over 700 varer fra USA, blant annet stål og hvitevarer, opplyser regjeringen.\n\nBeslutningen er et svar på president Donald Trumps varslede straffetoll på canadiske varer, blant annet kjøretøy og bildeler, skriver NTB.\n\n– I dag kunngjør vi, at vi matcher den...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/canada-svarer-usa-_-innforer-straffetoll-pa-over-700-varer-fra-usa-1.18001396",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-25T16:38:31.330Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787669210822.4045,
-      "title": "Dronningen besøker kongen på Rikshospitalet",
-      "slug": "dronningen-besker-kongen-p-rikshospitalet",
-      "content": "Dronning Sonja er tirsdag ettermiddag på Rikshospitalet for å besøke sin ektemann, kong Harald.\n\nTidligere tirsdag ble også kronprins Haakon og kronprinsesse Mette-Marit fotografert på vei inn og ut av Rikshospitalet. De ankom like før klokken 11.30 og dro like før klokken 13.",
-      "excerpt": "Dronning Sonja er tirsdag ettermiddag på Rikshospitalet for å besøke sin ektemann, kong Harald.\n\nTidligere tirsdag ble også kronprins Haakon og kronprinsesse Mette-Marit fotografert på vei inn og ut av Rikshospitalet. De ankom like før klokken 11.30 og dro like før klokken 13.",
-      "image": "https://images.unsplash.com/photo-1743720948161-76c93bfc32b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc2NjkyMTB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/dronningen-besoker-kongen-pa-rikshospitalet-1.18001160",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-25T14:46:50.822Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787669208958.1182,
-      "title": "Funn av død person i bolighus i Øygarden",
-      "slug": "funn-av-dd-person-i-bolighus-i-ygarden",
-      "content": "Politiet har gjort funn av død person inni leiligheten som eksploderte i Øygarden tirsdag ettermiddag.\n\nEit bustadbygg er nedbrent Øygarden kommune etter melding om eksplosjon. Ein ambulansearbeidar er skadd.",
-      "excerpt": "Politiet har gjort funn av død person inni leiligheten som eksploderte i Øygarden tirsdag ettermiddag.\n\nEit bustadbygg er nedbrent Øygarden kommune etter melding om eksplosjon. Ein ambulansearbeidar er skadd.",
-      "image": "https://images.unsplash.com/photo-1632243392669-849a04b60780?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc2NjkyMDh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestland/funn-av-dod-person-i-bolighus-i-oygarden-1.18001347",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-25T14:46:48.958Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3305,
+    "totalFetched": 3308,
     "totalPublished": 77,
-    "lastFetch": "2026-08-29T02:44:48.258Z",
+    "lastFetch": "2026-08-29T10:53:45.410Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
