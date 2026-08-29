@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1787971486650.7922,
+      "title": "Slottsgartneriet samlar inn helsingar frå Slottsplassen",
+      "slug": "slottsgartneriet-samlar-inn-helsingar-fr-slottsplassen",
+      "content": "Fredag kveld jobbar slottsgartneriet med å samle inn helsingar og teikningar, som folk har lagt ned framfor Slottet.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026. Kong Haakon VIII tar valgspråket «Alt for Norge».",
+      "excerpt": "Fredag kveld jobbar slottsgartneriet med å samle inn helsingar og teikningar, som folk har lagt ned framfor Slottet.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026. Kong Haakon VIII tar valgspråket «Alt for Norge».",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/slottsgartneriet-samlar-inn-helsingar-fra-slottsplassen-1.18006755",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-29T02:44:46.650Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787971485022.771,
+      "title": "Kongen holder kondolanseaudienser lørdag",
+      "slug": "kongen-holder-kondolanseaudienser-lrdag",
+      "content": "Lørdag skal kong Haakon VIII holde kondolanseaudiens, skriver NTB.\n\nDet er et formelt og offisielt møte på Slottet. Kong Haakon skal ta i mot offisielle kondolanser.\n\n– H.M. Kongen holder ekstraordinært statsråd på Det kongelige slott. H.K.H. Kronprinsessen vil også være til stede, skriver kongehuset på sine nettsider.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026. Kong Haakon VIII tar valgspråket «Alt for Norge».",
+      "excerpt": "Lørdag skal kong Haakon VIII holde kondolanseaudiens, skriver NTB.\n\nDet er et formelt og offisielt møte på Slottet. Kong Haakon skal ta i mot offisielle kondolanser.\n\n– H.M. Kongen holder ekstraordinært statsråd på Det kongelige slott. H.K.H. Kronprinsessen vil også være til stede, skriver...",
+      "image": "https://images.unsplash.com/photo-1603482360662-38e34391247c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc5NzE0ODR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/kongen-holder-kondolanseaudienser-lordag-1.18006758",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-29T02:44:45.023Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1787971483051.0469,
+      "title": "Trump: USA har inngått oljeavtale med Venezuela",
+      "slug": "trump-usa-har-inngtt-oljeavtale-med-venezuela",
+      "content": "USA og Venezuela er enige om en ny oljeavtale, skriver den amerikanske presidenten Donald Trump i et innlegg på sin egen meldingstjeneste Truth Social.\n\nUSA har med det sikret seg «kontroll over mer enn 65 milliarder fat med olje», heter det i meldingen fra Trump.\n\nDette vil mer enn doble amerikanske oljereserver, uten at det vil koste noe for skattebetalerne i USA, hevder presidenten.\n\nTrump beskriver avtalen som «den største oljeavtalen i verdenshistorien».\n\nKritikere har kalt avtalen for et «landran», skriver The Guardian.\n\nUSA bortførte Venezuelas tidligere president Nicolás Maduro i en egen militæroperasjon i januar. Dagens fungerende president Delcy Rodríguez samarbeider nå med USA.\n\nVenezuela har svært store ressurser av olje og gass. Landet var lenge verdens største oljeeksportør.\n\nVenezuela\n\nNatt til 25. juni ble Venezuela rammet av to store jordskjelv. Over 6100 mennesker er bekreftet omkommet. Naturkatastrofen har forverret situasjonen i det allerede kriserammede landet.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.",
+      "excerpt": "USA og Venezuela er enige om en ny oljeavtale, skriver den amerikanske presidenten Donald Trump i et innlegg på sin egen meldingstjeneste Truth Social.\n\nUSA har med det sikret seg «kontroll over mer enn 65 milliarder fat med olje», heter det i meldingen fra Trump.\n\nDette vil mer enn doble...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump_-usa-har-inngatt-oljeavtale-med-venezuela-1.18006797",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-29T02:44:43.052Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1787942023968.924,
       "title": "FNs generalsekretær i sorg",
       "slug": "fns-generalsekretr-i-sorg",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-25T14:46:48.958Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787669206947.4336,
-      "title": "Barnevernsrapport: Rødt krever redegjørelse i Stortinget",
-      "slug": "barnevernsrapport-rdt-krever-redegjrelse-i-stortinget",
-      "content": "Rødt-leder Marie Sneve Martinussen krever at barne- og familieminister Lene Vågslid (Ap) møter i Stortinget for å redegjøre om tilstanden i barnevernet.\n\nDet skjer etter at en rapport fra A-krimsenteret i Tønsberg skal ha avdekket koblinger mellom kriminelle nettverk og private barnevernsinstitusjoner.\n\n– Det er sjokkerende at kriminelle nettverk har blitt sluppet inn i barnevernet, som skal ta vare på de mest sårbare barna våre, sier Martinussen til NRK.\n\nHun krever at rapporten offentliggjøres og at Vågslid som ansvarlig statsråd møter i Stortinget for å holde en redegjørelse om saken.\n\nOgså SV, Frp og MDG har sendt eller vil sende skriftlige spørsmål til statsråden. Partiene reagerer skarpt på innholdet i rapporten, som er bredt omtalt av Klassekampen:\n\n«Analysen viser at barn i barnevernets omsorg er plassert i private virksomheter kontrollert av personer tilknyttet kriminelle nettverk», står det ifølge avisen i rapporten.\n\nDen skal ha avdekket personer med tilknytninger til kriminelle miljøer i 16 private barnevernsforetak i Sør-Øst politidistrikt, som omfatter Buskerud, Vestfold og Telemark.",
-      "excerpt": "Rødt-leder Marie Sneve Martinussen krever at barne- og familieminister Lene Vågslid (Ap) møter i Stortinget for å redegjøre om tilstanden i barnevernet.\n\nDet skjer etter at en rapport fra A-krimsenteret i Tønsberg skal ha avdekket koblinger mellom kriminelle nettverk og private...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/barnevernsrapport_-rodt-krever-redegjorelse-i-stortinget-1.18001322",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-25T14:46:46.947Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787662175326.4507,
-      "title": "Kronprinsparet har reist frå Rikshospitalet",
-      "slug": "kronprinsparet-har-reist-fr-rikshospitalet",
-      "content": "Tysdag ettermiddag reiste kronprins Haakon og kronprinsesse Mette-Marit frå Rikshospitalet, etter at dei hadde vore der i om lag halvannan time.\n\nParet har sølvbryllaupsdag, men feiringa er utsett på grunn av helsesituasjonen til kronprinsessa, som fekk nye lunger i juni.\n\nKong Harald er også innlagd ved Rikshospitalet for behandling av blodsjukdommen hemolytisk anemi.\n\nI helga opplyste kongehuset at helsa hans hadde forverra seg, men at han responderte på behandlinga han fekk.",
-      "excerpt": "Tysdag ettermiddag reiste kronprins Haakon og kronprinsesse Mette-Marit frå Rikshospitalet, etter at dei hadde vore der i om lag halvannan time.\n\nParet har sølvbryllaupsdag, men feiringa er utsett på grunn av helsesituasjonen til kronprinsessa, som fekk nye lunger i juni.\n\nKong Harald er også...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kronprinsparet-har-reist-fra-rikshospitalet-1.18000849",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-25T12:49:35.326Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787662173706.2092,
-      "title": "Digdir: Jobbar med å avgrense dataangrep",
-      "slug": "digdir-jobbar-med-avgrense-dataangrep",
-      "content": "Dataangrepet mot Digtaliseringsdirektoratet (Digdir) har gått føre seg sidan natt til måndag.\n\nLøysingane er stabile og jobbar med å avgrense konsekvensane av angrepet.\n\n– Status er at angrepet framleis går føre seg, men vi har gjort tiltak som gjer at vi har tenestene oppe og tilgjengelege stort sett kontinuerleg. Og så kan vi oppleve noko ustabilitet til enkelte tider, seier direktør Frode Danielsen i Digdir til NRK.\n\nAngrepet gjorde det blant anna vanskeleg å logge seg på tenester som ID-porten og Altinn.\n\nDet er tredje gang på kort tid at denne typen angrep blir retta mot løysingane til direktoratet.\n\nDigitale løsninger\n\nØkende bruk av digitale tjenester krever at både skolen, arbeidslivet og innbyggerne i landet har digital kompetanse. Men mange faller utenfor og trenger hjelp til enkle offentlige tjenester, noe bibliotekene erfarer.",
-      "excerpt": "Dataangrepet mot Digtaliseringsdirektoratet (Digdir) har gått føre seg sidan natt til måndag.\n\nLøysingane er stabile og jobbar med å avgrense konsekvensane av angrepet.\n\n– Status er at angrepet framleis går føre seg, men vi har gjort tiltak som gjer at vi har tenestene oppe og tilgjengelege stort...",
-      "image": "https://images.unsplash.com/photo-1608822246990-be7bc0d9b2d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc2NjIxNzN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/digdir_-jobbar-med-a-avgrense-dataangrep-1.18000931",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-25T12:49:33.706Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3302,
+    "totalFetched": 3305,
     "totalPublished": 77,
-    "lastFetch": "2026-08-28T18:33:46.262Z",
+    "lastFetch": "2026-08-29T02:44:48.258Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
