@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1788106495125.4424,
+      "title": "Bil har kjørt ned i bekk – melding om bevisstløs person",
+      "slug": "bil-har-kjrt-ned-i-bekk-melding-om-bevisstls-person",
+      "content": "En bil har kjørt av veien i Aurskog-Høland, og står delvis ned i en bekk, opplyser politiet.\n\nDet var to personer i bilen, som begge er fraket til sykehus.\n\nBrannvesenet drar opp bilen for å lette tilgangen for ambulansepersonellet.",
+      "excerpt": "En bil har kjørt av veien i Aurskog-Høland, og står delvis ned i en bekk, opplyser politiet.\n\nDet var to personer i bilen, som begge er fraket til sykehus.\n\nBrannvesenet drar opp bilen for å lette tilgangen for ambulansepersonellet.",
+      "image": "https://images.unsplash.com/photo-1670874103167-31cff21eb845?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgxMDY0OTV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/bil-har-kjort-ned-i-bekk-_-melding-om-bevisstlos-person-1.18008033",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-30T16:14:55.125Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788106493487.4324,
+      "title": "Minst 797 døde etter styrtflom i Nepal",
+      "slug": "minst-797-dde-etter-styrtflom-i-nepal",
+      "content": "Katastrofeflommen i grenseområdet mellom Nepal og Tibet har krevd minst 797 liv, opplyste nepalske myndigheter lørdag.\n\nOver 2500 mennesker er fremdeles savnet, blant dem nesten 600 utenlandske statsborgere.\n\nEt intensivt søk- og redningsarbeid har pågått i det rammede området siden katastrofen rammet.\n\nArbeidsforholdene er blitt beskrevet av redningsmannskapene som «ekstremt utmattende».",
+      "excerpt": "Katastrofeflommen i grenseområdet mellom Nepal og Tibet har krevd minst 797 liv, opplyste nepalske myndigheter lørdag.\n\nOver 2500 mennesker er fremdeles savnet, blant dem nesten 600 utenlandske statsborgere.\n\nEt intensivt søk- og redningsarbeid har pågått i det rammede området siden katastrofen...",
+      "image": "https://images.unsplash.com/photo-1599847740927-599426b94713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgxMDY0OTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/minst-797-dode-etter-styrtflom-i-nepal-1.18008168",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-30T16:14:53.488Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788106491610.9084,
+      "title": "Islands regjering bekrefter: Ingen EU-forhandling nå",
+      "slug": "islands-regjering-bekrefter-ingen-euforhandling-n",
+      "content": "Islands statsminister Kristrún Frostadóttir bekrefter søndag ettermiddag at det ikke blir noe EU-avstemming i denne omgang.\n\n– Jeg anser ikke dette som et tilbakesteg, men som en seier for demokratiet, sa Frostadóttir.\n\nOver 80 prosent av landets befolkning deltok i folkeavstemningen, hvor det skulle avgjøres om landet skulle stemme over EU-medlemskap.",
+      "excerpt": "Islands statsminister Kristrún Frostadóttir bekrefter søndag ettermiddag at det ikke blir noe EU-avstemming i denne omgang.\n\n– Jeg anser ikke dette som et tilbakesteg, men som en seier for demokratiet, sa Frostadóttir.\n\nOver 80 prosent av landets befolkning deltok i folkeavstemningen, hvor det...",
+      "image": "https://images.unsplash.com/photo-1566425303014-8b71badc099a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgxMDY0OTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/islands-regjering-bekrefter_-ingen-eu-forhandling-na-1.18008167",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-30T16:14:51.611Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1788089276899.8755,
       "title": "Støre sier kong Harald skal begraves i uke 37",
       "slug": "stre-sier-kong-harald-skal-begraves-i-uke-37",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-26T10:36:13.087Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787740571180.4634,
-      "title": "TV 2: Russisk hackergruppe tek ansvaret for dataangrep mot Noreg",
-      "slug": "tv-2-russisk-hackergruppe-tek-ansvaret-for-dataangrep-mot-no",
-      "content": "Den russiske hackergruppa Server Killers skriv på Telegram at dei har erklært cyberkrig mot Noreg, melder TV 2.\n\nDei siste dagane har Digitaliseringsdirektoratet vore utsett for dataangrep som har ramma fleire digitale tenester.\n\nHackergruppa skriv at årsaka til angrepet er at Noreg og Ukraina skreiv under på ein avtale om forsvars- og tryggingssamarbeid på søndag.\n\nDirektoratet sa onsdag morgon at angrepet framleis gjekk føre seg, men at tenestene i stor grad var i drift igjen.\n\nDigitale løsninger\n\nØkende bruk av digitale tjenester krever at både skolen, arbeidslivet og innbyggerne i landet har digital kompetanse. Men mange faller utenfor og trenger hjelp til enkle offentlige tjenester, noe bibliotekene erfarer.\n\nDataangrep og hacking\n\nKinesiske og russiske hackere er mistenkt for å stå bak flere dataangrep mot norske offentlige etater og firmaer, opplyser PST. Hackerne krever i mange tilfeller løsepenger for å returnere stjålne eller låste datafiler.",
-      "excerpt": "Den russiske hackergruppa Server Killers skriv på Telegram at dei har erklært cyberkrig mot Noreg, melder TV 2.\n\nDei siste dagane har Digitaliseringsdirektoratet vore utsett for dataangrep som har ramma fleire digitale tenester.\n\nHackergruppa skriv at årsaka til angrepet er at Noreg og Ukraina...",
-      "image": "https://images.unsplash.com/photo-1693467084173-2071521fda73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc3NDA1NzF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/tv-2_-russisk-hackergruppe-tek-ansvaret-for-dataangrep-mot-noreg-1.18001985",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-26T10:36:11.180Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787740569529.6313,
-      "title": "Endrar programmet til dronninga torsdag",
-      "slug": "endrar-programmet-til-dronninga-torsdag",
-      "content": "Kongehuset har gjort ei endring i programmet til dronning Sonja torsdag.\n\nHo blir ikkje med når utanriksråden kjem i audiens klokka 10. Kronprins Haakon gjennomfører dette møtet aleine.\n\nDronninga skal framleis delta på styremøtet i Queen Sonja Print Award seinare på dagen.",
-      "excerpt": "Kongehuset har gjort ei endring i programmet til dronning Sonja torsdag.\n\nHo blir ikkje med når utanriksråden kjem i audiens klokka 10. Kronprins Haakon gjennomfører dette møtet aleine.\n\nDronninga skal framleis delta på styremøtet i Queen Sonja Print Award seinare på dagen.",
-      "image": "https://images.unsplash.com/photo-1698152053655-bce258ce2ec1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc3NDA1Njl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/endrar-programmet-til-dronninga-torsdag-1.18002085",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-26T10:36:09.529Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787733898485.1287,
-      "title": "Artistar hyllar Dolly Parton",
-      "slug": "artistar-hyllar-dolly-parton",
-      "content": "Den amerikanske popstjerna Taylor Swift heidrar countrylegenda Dolly Parton som døydde 80 år gammal tysdag.\n\n– Ei verd utan Dolly kjennest verken mogeleg, ekte eller rett, seier ho i ei melding til blant andre Variety.\n\nOgså Billy Joel hyllar Dolly Parton, og skriv på Instagram at han var blant dei heldige til å bli covra av henne.\n\n– Barna våre såg opp til henne og kjente musikken hennar. Kjærleiken til Dolly gjekk over generasjonar, skriv han.\n\nKiss-bassist Gene Simmons skriv på X at Parton var ein artist som alltid tok seg tid til å stoppe og helse på folk rundt seg, og at han er stolt over å ha kjent henne.\n\n– Det kjem aldri til å komme ei ny Dolly, skriv han.\n\nMusikk\n\nInnhold fra NRK om musikk. For musikken fra NRKs sendinger, kan du besøke disse sidene. Se også alt om musikk i NRK TV og hør alle musikkprogrammer i NRK Radio.",
-      "excerpt": "Den amerikanske popstjerna Taylor Swift heidrar countrylegenda Dolly Parton som døydde 80 år gammal tysdag.\n\n– Ei verd utan Dolly kjennest verken mogeleg, ekte eller rett, seier ho i ei melding til blant andre Variety.\n\nOgså Billy Joel hyllar Dolly Parton, og skriv på Instagram at han var blant dei...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/artistar-hyllar-dolly-parton-1.18001819",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-26T08:44:58.485Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3323,
+    "totalFetched": 3326,
     "totalPublished": 77,
-    "lastFetch": "2026-08-30T11:27:58.636Z",
+    "lastFetch": "2026-08-30T16:14:56.984Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
