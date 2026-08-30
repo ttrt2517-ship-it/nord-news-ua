@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1788122558512.6047,
+      "title": "Politiet: Mellom 10.000 og 15.000 på Slottsplassen",
+      "slug": "politiet-mellom-10000-og-15000-p-slottsplassen",
+      "content": "Innsatsleder Tomm Berger ved Oslo politidistrikt opplyser at det har vært en konstant strøm av mennesker mot Slottet søndag. Han anslår at det gjennom dagen konstant har vært mellom 10.000 og 15.000 på Slottsplassen.\n\nKlokken 13.30 var det 11.000 personer til stede på Slottsplassen, det bekrefter en måling på tidspunktet.\n\n– Det er veldig mange mennesker som har besøkt Slottsplassen i dag for å vise sin respekt og delta i sorgen, sier Berger.\n\nFredag var dagen da flest personer var til stede, da var 20.000 personer samlet på Slottsplassen.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026. Kong Haakon VIII tar valgspråket «Alt for Norge».",
+      "excerpt": "Innsatsleder Tomm Berger ved Oslo politidistrikt opplyser at det har vært en konstant strøm av mennesker mot Slottet søndag. Han anslår at det gjennom dagen konstant har vært mellom 10.000 og 15.000 på Slottsplassen.\n\nKlokken 13.30 var det 11.000 personer til stede på Slottsplassen, det bekrefter...",
+      "image": "https://images.unsplash.com/photo-1700143032174-9672ef22274a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgxMjI1NTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/politiet_-mellom-10.000-og-15.000-pa-slottsplassen-1.18008373",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-30T20:42:38.512Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788122556799.0808,
+      "title": "Kongehuset deler bilder av kong Harald og barnebarna",
+      "slug": "kongehuset-deler-bilder-av-kong-harald-og-barnebarna",
+      "content": "Søndag deler kongehuset en bildeserie av avdøde kong Harald sammen med sine barn og barnebarn på Instagram.\n\nTotalt seks bilder fra ulike tider er delt av familien.\n\n– Kong Harald var svært barnekjær, og tilbragte mye tid sammen med familien og sine barnebarn. Han uttrykte ofte hvor stolt han var av sine barn og barnebarn, skriver de i innlegget.\n\nPå dette bildet ser vi kongen sammen med barnebarna (f.v): Maud Angelica Behn, Leah Isadora Behn, Emma Tallulah Behn, og kronprinsesse Ingrid Alexandra.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026. Kong Haakon VIII tar valgspråket «Alt for Norge».",
+      "excerpt": "Søndag deler kongehuset en bildeserie av avdøde kong Harald sammen med sine barn og barnebarn på Instagram.\n\nTotalt seks bilder fra ulike tider er delt av familien.\n\n– Kong Harald var svært barnekjær, og tilbragte mye tid sammen med familien og sine barnebarn. Han uttrykte ofte hvor stolt han var...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/kongehuset-deler-bilder-av-kong-harald-og-barnebarna-1.18008366",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-30T20:42:36.799Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788122555172.5708,
+      "title": "Truls Gulowsen trekker seg som leiar i Naturvernforbundet",
+      "slug": "truls-gulowsen-trekker-seg-som-leiar-i-naturvernforbundet",
+      "content": "Bakgrunnen er at eit knapt fleirtal i Naturvernforbundet sitt landsstyre ikkje lenger har tillit til han som leiar.\n\nGulowsen melder dette i ein post på Facebook. Han har vore leiar for organisasjonen i fem år.\n\n– Det er trist og ikkje ei avslutning eg ønska, skriv han.\n\nGulowsen viser mellom anna til friksjon mellom han og tilsette i organisasjonen.\n\n– Fram til i dag har eg vore sikker på at arbeidsmiljøutfordringane i sekretariatet har vore morglege å løyse gjennom betre samtalar, klarare interne prosessar og etablering av ein normal tilbakemeldingskultur, skriv Gulowsen.\n\nNaturvernforbundet skal velje ny leiing på landsmøte til hausten.",
+      "excerpt": "Bakgrunnen er at eit knapt fleirtal i Naturvernforbundet sitt landsstyre ikkje lenger har tillit til han som leiar.\n\nGulowsen melder dette i ein post på Facebook. Han har vore leiar for organisasjonen i fem år.\n\n– Det er trist og ikkje ei avslutning eg ønska, skriv han.\n\nGulowsen viser mellom anna...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/truls-gulowsen-trekker-seg-som-leiar-i-naturvernforbundet-1.18008236",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-30T20:42:35.172Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1788106495125.4424,
       "title": "Bil har kjørt ned i bekk – melding om bevisstløs person",
       "slug": "bil-har-kjrt-ned-i-bekk-melding-om-bevisstls-person",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-26T12:54:20.816Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787740579014.1414,
-      "title": "Today in Norway: A roundup of the latest news on Wednesday",
-      "slug": "today-in-norway-a-roundup-of-the-latest-news-on-wednesday",
-      "content": "The krone is at its strongest in three months, new report links criminal networks to Norwegian child welfare, and more news from Norway on Wednesday.\n\nThe Norwegian krone has rebounded to its strongest level in nearly three months and is back to the levels it was at before the summer.\n\nOn Tuesday afternoon, one euro traded at 10.87 kroner, while one dollar cost 9.32 kroner, according to data provider Infront.\n\nSo far, 2026 has been a good year for the krone. The rally makes it the top-performing G10 currency of 2026 (among the ten most traded currencies in the world), gaining nearly nine percent against the dollar and eight percent against the euro since the start of the year.\n\nExperts explained that the recovery has been driven by elevated oil prices, a weaker dollar, and Norges Bank increasing krone purchases by 300 million kroner daily from June to July.\n\n“The oil price has risen. This means that oil companies are buying more Norwegian kroner, which provides support for the krone,” Sara Midtgaard, senior macro and currency strategist at Nordea Markets, told business news site E24.\n\nCyberattacks against public online services continue\n\nA cyberattack targeting the Norwegian Digitalisation Agency (Digdir) has entered its third day.\n\nThe incident, which began on Monday night, is the third and largest attack on the agency recently.\n\nTen public services have been affected so far, including MinID, Altinn, and E-innsyn. \"ID-porten still has limitations, and we know that it is starting to become critical for several users and services,\" Digdir wrote in an update on Tuesday night.\n\n\"The latest on the situation on Wednesday morning is that the attack is still ongoing. The solutions are up and running and stable, but we are still working to handle the attacks,\" Digdir press officer Are Kvistad told news agency NTB.\n\nREAD MORE: What's happening with the Norwegian government's online services?\n\nReport links criminal networks to Norwegian child welfare\n\nRed Party leader Marie Sneve Martinussen is demanding answers from the government and Minister of Children and Families Lene Vågslid over the state of Norway’s child welfare system.\n\nHer calls come after an unreleased report from the A-krim (anti-crime) centre in Tønsberg revealed links between criminal networks and private child welfare institutions in Norway.\n\n“Child welfare services should take care of our most vulnerable children. It is shocking and unacceptable that criminal networks have been allowed into the welfare state,” Martinussen said in a statement to NTB.\n\nAlthough the report has not yet been published, Martinussen urged the government to release it immediately. “Now the government must clean up. They must show how all criminal networks are being removed from child welfare and other welfare services and how this will be prevented in the future,” said Martinussen.\n\nPointing to similar issues previously seen in Sweden, she warned that “the same conditions have now arrived in Norway.”\n\nNorwegian vocabulary: barnevernsinstitusjoner - child welfare institutions\n\nNorway said Tuesday it planned to regulate the use of smart glasses and similar devices and was considering a ban on features that enable facial recognition in public spaces, news agency AFP reported.\n\n\"We can see that people's private lives and privacy are coming under pressure from new technology, and I therefore want to regulate smart glasses and similar devices more strictly than today,\" Digitalisation Minister Karianne Tung said in a statement.\n\n\"This could, for example, mean banning features such as facial recognition of other people in public spaces,\" she said.\n\nShe said she planned to appoint an expert group to advise the government on how to better protect consumers from the new technologies, and urged the public and private sectors to consider their own guidelines.\n\nThe Norwegian Consumer Council's head of digital policy, Finn Lützow-Holm Myrstad, hailed the government's move, and urged retailers to stop the sale of smart glasses until there was legal clarity on the issue.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "The krone is at its strongest in three months, new report links criminal networks to Norwegian child welfare, and more news from Norway on Wednesday.\n\nThe Norwegian krone has rebounded to its strongest level in nearly three months and is back to the levels it was at before the summer.\n\nOn Tuesday...",
-      "image": "https://images.unsplash.com/photo-1536683402757-75f8d0dfa419?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc3NDA1Nzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260826/today-in-norway-a-roundup-of-the-latest-news-on-wednesday-253",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-08-26T10:36:19.014Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787740576513.3115,
-      "title": "What it means for you as Norwegian krone hits three-month high",
-      "slug": "what-it-means-for-you-as-norwegian-krone-hits-threemonth-hig",
-      "content": "The Norwegian krone has rebounded to its strongest level in nearly three months and is back to the levels it was at before the summer.\n\nOn Tuesday August 25th, one euro was worth 10.87 kroner, and one dollar cost 9.32 kroner, according to data provider Infront.\n\nThe rally makes it the top-performing G10 currency of 2026 (among the ten most traded currencies in the world), gaining nearly nine percent against the dollar and eight percent against the euro since the start of the year.\n\nExperts say the recovery is due to higher oil prices, a weaker dollar, and Norges Bank increasing krone purchases by 300 million kroner daily from June to July.\n\n“The oil price has risen. This means that oil companies are buying more Norwegian kroner, which provides support for the krone,” Sara Midtgaard, senior macro and currency strategist at Nordea Markets, told business news site E24.\n\nNils Kristian Knudsen, chief strategist at Handelsbanken, also spoke with E24 and said that government finances are playing an increasing role in driving exchange rates around the world.\n\nHe explained that several major economies are currently struggling with high public debt, most notably the United States, where the national debt just passed $40 trillion for the first time last week.\n\nNordea expects only small changes in the exchange rate this autumn and predicts rates of 11 kroner to the euro and 9.48 kroner to the dollar by the end of the year.\n\nStill, Midtgaard warned that uncertainty is high, and future changes depend on what happens in the Middle East. “If the war drags on, a more significant rise in oil prices can be expected,” she said, noting that although higher crude prices could initially boost the krone, broader market instability could present pitfalls.\n\nA stronger currency is usually good news if you earn your salary in Norwegian kroner. Travelling or shopping in nearby countries and the eurozone is more affordable, since your kroner now buy more euros and dollars than they did earlier this summer, great timing for anyone planning a late holiday.\n\nIf you send money home, your transfers will now convert into a higher amount of foreign currency than in early summer.\n\nOn the flip side, if you receive a pension, savings, or income in foreign currencies, your funds will now give you fewer kroner when converted.\n\nTourists visiting Norway and paying in euros or dollars will also find that travelling in Norway is a bit more expensive than before (though with the peak holiday season of June and July now over, off-peak prices may help offset the difference).\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "The Norwegian krone has rebounded to its strongest level in nearly three months and is back to the levels it was at before the summer.\n\nOn Tuesday August 25th, one euro was worth 10.87 kroner, and one dollar cost 9.32 kroner, according to data provider Infront.\n\nThe rally makes it the...",
-      "image": null,
-      "original_url": "https://www.thelocal.no/20260826/what-it-means-for-you-as-norwegian-krone-hits-three-month-high",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-08-26T10:36:16.513Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787740573087.9087,
-      "title": "Fiskeridirektoratet: – 1000 garn er henter opp fra havet",
-      "slug": "fiskeridirektoratet-1000-garn-er-henter-opp-fra-havet",
-      "content": "Årets opprenskingstokt etter tapte og gjenstående fiskeredskaper i regi av Fiskeridirektoratet startet utenfor Ålesund 6. august med fartøyet «M/S Vikingbank».\n\nToktet dekker fiskefeltene langs kysten til havområdet utenfor Kirkenes.\n\nFartøyet «Vikingbank» har denne uken markert at første del av årets opprenskingstokt nå er gjennomført.\n\n– 1000 garn er hentet opp fra havet, skriver direktoratet på Facebook om toktet så langt.\n\nMannskapet har også hentet opp betydelige mengder med andre fiskeredskaper, blant annet deler av trål, snurrevad og line.\n\n– Redskapene består i stor grad av plast. Blir de liggende i sjøen, kan de fortsette å fange fisk og skalldyr, såkalt spøkelsesfiske. Over tid kan plasten brytes ned til mindre plastfragmenter.\n\nDet er nå kommet et nytt mannskap om bord og arbeidet fortsetter nå østover i Finnmark.\n\nFiskeri og havbruk\n\nRegjeringen vil innføre grunnrenteskatt for havbruk og vindkraft, noe som har vakt sterke reaksjoner fra næringene. Målet for finansminister Trygve Slagsvold Vedum er å drive inn 33 milliarder i økt skatt. Kritikerne mener det er distriktsfiendtlig.",
-      "excerpt": "Årets opprenskingstokt etter tapte og gjenstående fiskeredskaper i regi av Fiskeridirektoratet startet utenfor Ålesund 6. august med fartøyet «M/S Vikingbank».\n\nToktet dekker fiskefeltene langs kysten til havområdet utenfor Kirkenes.\n\nFartøyet «Vikingbank» har denne uken markert at første del av...",
-      "image": "https://images.unsplash.com/photo-1679996584558-514d267a8a29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc3NDA1NzN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/tromsogfinnmark/fiskeridirektoratet_-_-1000-garn-er-henter-opp-fra-havet-1.18001951",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-26T10:36:13.087Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3326,
+    "totalFetched": 3329,
     "totalPublished": 77,
-    "lastFetch": "2026-08-30T16:14:56.984Z",
+    "lastFetch": "2026-08-30T20:42:40.407Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
