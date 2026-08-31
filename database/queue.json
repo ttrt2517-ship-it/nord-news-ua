@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1788164121522.0007,
+      "title": "Russland om Nato-øvelser i Arktis: – En direkte trussel",
+      "slug": "russland-om-natovelser-i-arktis-en-direkte-trussel",
+      "content": "Russlands mangeårige utenriksminister retter krass kritikk mot forsvarsalliansen Nato.\n\nDet går frem av en tekst fra Lavrov som er lagt ut natt til mandag på det russiske utenriksdepartementets nettsider.\n\nLavrov er blant annet kritisk til et nytt initiativ fra Nato om økt tilstedeværelse i nordområdene og Arktis, som har fått navnet «Arctic Sentry».\n\n– Nato gjennomfører storskala-militærøvelser med deltakelse fra ikke-regionale land, skriver Lavrov.\n\n– Slik militær aktivitet i nordområdene utgjør en direkte trussel mot Russlands sikkerhet. Den øker også risikoen for hendelser som kan utløse en væpnet konfrontasjon med potensielt katastrofale konsekvenser, heter det i teksten fra Lavrov.",
+      "excerpt": "Russlands mangeårige utenriksminister retter krass kritikk mot forsvarsalliansen Nato.\n\nDet går frem av en tekst fra Lavrov som er lagt ut natt til mandag på det russiske utenriksdepartementets nettsider.\n\nLavrov er blant annet kritisk til et nytt initiativ fra Nato om økt tilstedeværelse i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/russland-om-nato-ovelser-i-arktis___-en-direkte-trussel-1.18008541",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-31T08:15:21.522Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788164119730.0488,
+      "title": "903 omkomne etter flommen i Nepal",
+      "slug": "903-omkomne-etter-flommen-i-nepal",
+      "content": "Dødstallet stiger videre etter flommen i grenseområdet mellom Nepal og Tibet i forrige uke.\n\nHittil er 903 mennesker bekreftet omkommet, opplyser lokale myndigheter ifølge Reuters.\n\nSamtidig har antallet savnede økt kraftig siden sist oppdatering. Nå melder lokale myndigheter at 4247 mennesker er savnet, mot rundt 2400 lørdag.\n\nDet har pågått et stort søk- og redningsarbeid helt siden flommen inntraff.\n\nRedningsmannskaper har beskrevet arbeidet som «ekstremt utmattende».",
+      "excerpt": "Dødstallet stiger videre etter flommen i grenseområdet mellom Nepal og Tibet i forrige uke.\n\nHittil er 903 mennesker bekreftet omkommet, opplyser lokale myndigheter ifølge Reuters.\n\nSamtidig har antallet savnede økt kraftig siden sist oppdatering. Nå melder lokale myndigheter at 4247 mennesker er...",
+      "image": "https://images.unsplash.com/photo-1659424766030-385d22f8b0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgxNjQxMTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/903-omkomne-etter-flommen-i-nepal-1.18008583",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-31T08:15:19.730Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788164117919.711,
+      "title": "Spania med milliardinnsprøyting i Ceutas økonomi",
+      "slug": "spania-med-milliardinnspryting-i-ceutas-konomi",
+      "content": "Den spanske regjeringa skal bruke 168 millioner euro, tilsvarende nærmere 2 milliarder kroner, på å bedre økonomien i Ceuta. Det skriver Reuters.\n\nCeuta er en spansk eksklave i Nord-Afrika som fikk stor oppmerksomhet i sommer da titusenvis av migranter tok seg inn der.\n\nSummen som nå skal brukes, tilsvarer rundt 8 prosent av eksklavens brutto nasjonalprodukt (BNP), ifølge statsminister Pedro Sánchez.\n\nIfølge statsministeren antyder også EU-undersøkelser at Russland og Israel stod bak desinformasjon som ble spredt i forbindelse med at migranter tok seg inn i eksklaven.\n\nMarokko\n\nMarokko er et land i Nord-Afrika. Fredag 8. september ble landet rammet av et jordskjelv med en styrke på 6,8. Over 2000 mennesker har mistet livet.\n\nMigranter i Europa\n\nEuropeiske land krever strengere grensekontroll mot massemigrasjon. På få dager krysset over 70.000 marokkanere ulovlig inn i den spanske eksklaven Ceuta. De fleste er returnert, men minst 100 personer mistet livet.",
+      "excerpt": "Den spanske regjeringa skal bruke 168 millioner euro, tilsvarende nærmere 2 milliarder kroner, på å bedre økonomien i Ceuta. Det skriver Reuters.\n\nCeuta er en spansk eksklave i Nord-Afrika som fikk stor oppmerksomhet i sommer da titusenvis av migranter tok seg inn der.\n\nSummen som nå skal brukes...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/spania-med-milliardinnsproyting-i-ceutas-okonomi-1.18008710",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-31T08:15:17.919Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1788135306686.0154,
       "title": "Iran: – Har angrepet amerikanske militærbaser i Jordan",
       "slug": "iran-har-angrepet-amerikanske-militrbaser-i-jordan",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-26T14:45:19.286Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787755517701.7522,
-      "title": "Sverige betaler 4,3 milliarder euro for franske fregatter",
-      "slug": "sverige-betaler-43-milliarder-euro-for-franske-fregatter",
-      "content": "Prisen for svenskenes kjøp av fire fregatter fra Frankrike er klar. De må punge ut med 47,7 milliarder svenske kroner.\n\nDet opplyser Frankrikes president Emmanuel Macrons kontor onsdag. En formell undertegnelse av kontrakten er planlagt 31. august i Stockholm. Macron deltar på seremonien.\n\nSveriges statsminister Ulf Kristersson kunngjorde i mai at landet ville gå for franske fregatter fra firmaet Naval Group.\n\nSverige\n\nUlf Kristersson har vært statsminister i Sverige siden 2022. Landet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "Prisen for svenskenes kjøp av fire fregatter fra Frankrike er klar. De må punge ut med 47,7 milliarder svenske kroner.\n\nDet opplyser Frankrikes president Emmanuel Macrons kontor onsdag. En formell undertegnelse av kontrakten er planlagt 31. august i Stockholm. Macron deltar på seremonien.\n\nSveriges...",
-      "image": "https://images.unsplash.com/photo-1699386799034-ef198fc7a69c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc3NTU1MTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/sverige-betaler-4_3-milliarder-euro-for-franske-fregatter-1.18002693",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-26T14:45:17.702Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787748864440.4194,
-      "title": "Prins Harry og familien har landet i Storbritannia",
-      "slug": "prins-harry-og-familien-har-landet-i-storbritannia",
-      "content": "Privatflyet med prins Harry og familien har landet i Storbritannia, melder britiske medier.\n\nNylig ble det kjent at den britiske prinsen, kona Meghan og barna Archie og Lilibet, flytter tilbake til Storbritannia etter seks år i USA.\n\nParet sa fra seg sine kongelige plikter før de flyttet og de skal heller ikke jobbe for det britiske kongehuset nå.\n\nDet britiske kongehuset\n\nKong Charles og dronning Camilla ble kronet i Westminister Abbey i London 6. mai 2023.",
-      "excerpt": "Privatflyet med prins Harry og familien har landet i Storbritannia, melder britiske medier.\n\nNylig ble det kjent at den britiske prinsen, kona Meghan og barna Archie og Lilibet, flytter tilbake til Storbritannia etter seks år i USA.\n\nParet sa fra seg sine kongelige plikter før de flyttet og de skal...",
-      "image": "https://images.unsplash.com/photo-1667560756085-b821e52b9b36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc3NDg4NjR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/prins-harry-og-familien-har-landet-i-storbritannia-1.18002439",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-26T12:54:24.441Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787748862590.1106,
-      "title": "Zelenskyj har besøkt fronten i Ukraina",
-      "slug": "zelenskyj-har-beskt-fronten-i-ukraina",
-      "content": "Ukrainas president Volodymyr Zelenskyj har besøkt den sørøstlige frontlinjen sammen med sin nye forsvarssjef Mykhajlo Drapatyj. Det opplyser Zelenskyj i et innlegg på X.\n\nUkrainske styrker har hatt fremgang i dette området den siste tiden, og presidenten opplyser at de nå diskuterer hvordan de skal styrke forsvaret sitt ytterligere.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ukrainas president Volodymyr Zelenskyj har besøkt den sørøstlige frontlinjen sammen med sin nye forsvarssjef Mykhajlo Drapatyj. Det opplyser Zelenskyj i et innlegg på X.\n\nUkrainske styrker har hatt fremgang i dette området den siste tiden, og presidenten opplyser at de nå diskuterer hvordan de skal...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/zelenskyj-har-besokt-fronten-i-ukraina-1.18002454",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-26T12:54:22.590Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3330,
+    "totalFetched": 3333,
     "totalPublished": 77,
-    "lastFetch": "2026-08-31T00:15:08.489Z",
+    "lastFetch": "2026-08-31T08:15:23.427Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
