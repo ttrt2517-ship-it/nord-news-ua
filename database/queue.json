@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1788135306686.0154,
+      "title": "Iran: – Har angrepet amerikanske militærbaser i Jordan",
+      "slug": "iran-har-angrepet-amerikanske-militrbaser-i-jordan",
+      "content": "Den iranske revolusjonsgarden hevder å ha angrepet to amerikanske militærbaser i Jordan med ballistiske missiler.\n\nDet melder nyhetsbyrået Reuters, som siterer statskontrollerte iranske medier.\n\nAngrepene er ifølge Iran et svar på det som skal være USAs angrep på et iransk militæranlegg på den iranske øya Larak i Hormuzstredet søndag.\n\nRevolusjonsgardens angrep «rettet seg mot teknisk infrastruktur, vedlikeholdsanlegg og posisjonene til fiendtlige kampfly ved de USA-drevne flybasene King Hussein og Al-Azraq i Jordan», heter det i en uttalelse, melder nyhetsbyrået AFP.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Den iranske revolusjonsgarden hevder å ha angrepet to amerikanske militærbaser i Jordan med ballistiske missiler.\n\nDet melder nyhetsbyrået Reuters, som siterer statskontrollerte iranske medier.\n\nAngrepene er ifølge Iran et svar på det som skal være USAs angrep på et iransk militæranlegg på den...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/iran_-_-har-angrepet-amerikanske-militaerbaser-i-jordan-1.18008531",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-08-31T00:15:06.686Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1788122558512.6047,
       "title": "Politiet: Mellom 10.000 og 15.000 på Slottsplassen",
       "slug": "politiet-mellom-10000-og-15000-p-slottsplassen",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-08-26T12:54:22.590Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787748860816.9783,
-      "title": "LO vil ha endringer i AFP-ordningen.",
-      "slug": "lo-vil-ha-endringer-i-afpordningen",
-      "content": "LO-ledelsen har lagt frem forslag til endringer i AFP-ordningen. Nå skal de i samtaler med NHO om forslagene.\n\nLO vil den såkalte AFP-fellen til livs, slik at arbeidstakere ikke lenger skal risikere å miste AFP-rettighetene hvis man blir langvarig syk eller mister arbeidet rett før man fyller 62 år.\n\nPensjon\n\nAlderspensjon utbetales fra en viss alder og livet ut, uførepensjon når man helt eller delvis er arbeidsufør, fram til man får alderspensjon. Etterlattepensjon utbetales til etterlatt ektefelle og barnepensjon til etterlatte barn under en viss alder.\n\nLO - Landsorganisasjonen\n\nLO er Norges største arbeidstakerorganisasjon. De har over én million medlemmer fordelt på 23 fagforbund.",
-      "excerpt": "LO-ledelsen har lagt frem forslag til endringer i AFP-ordningen. Nå skal de i samtaler med NHO om forslagene.\n\nLO vil den såkalte AFP-fellen til livs, slik at arbeidstakere ikke lenger skal risikere å miste AFP-rettighetene hvis man blir langvarig syk eller mister arbeidet rett før man fyller 62...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/lo-vil-ha-endringer-i-afp-ordningen.-1.18002510",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-26T12:54:20.816Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3329,
+    "totalFetched": 3330,
     "totalPublished": 77,
-    "lastFetch": "2026-08-30T20:42:40.407Z",
+    "lastFetch": "2026-08-31T00:15:08.489Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
