@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1788279219870.5496,
+      "title": "Nederlands kongepar deltar i kong Haralds gravferd",
+      "slug": "nederlands-kongepar-deltar-i-kong-haralds-gravferd",
+      "content": "Fra Nederland kommer kong Willem-Alexander og dronning Máxima for å delta i kong Haralds gravferd.\n\nI tillegg kommer arveprinsessse Catharina-Amalia og prinsesse Beatrix.\n\nDet bekrefter det nederlandske kongehuset på sine nettsider.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026. Kong Haakon VIII tar valgspråket «Alt for Norge».",
+      "excerpt": "Fra Nederland kommer kong Willem-Alexander og dronning Máxima for å delta i kong Haralds gravferd.\n\nI tillegg kommer arveprinsessse Catharina-Amalia og prinsesse Beatrix.\n\nDet bekrefter det nederlandske kongehuset på sine nettsider.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på...",
+      "image": "https://images.unsplash.com/photo-1548767003-7b4226faadfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgyNzkyMTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/nederlands-kongepar-deltar-i-kong-haralds-gravferd-1.18010821",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-01T16:13:39.870Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788279218284.461,
+      "title": "Kong Haakon har ankommet Rikshospitalet",
+      "slug": "kong-haakon-har-ankommet-rikshospitalet",
+      "content": "Dronning Mette-Marit måtte stå over edsavleggelsen i dag fordi hun måtte til observasjon i forbindelse med komplikasjoner etter lungetransplantasjonen.\n\nPrinsesse Märtha Louise har også ankommet sykehuset, opplyser NTBs fotograf på stedet.\n\nDet er tidligere kjent at Märtha Louises mann Durek Verrett har gjennomgått en vellykket nyretransplantasjon ved Rikshospitalet. Det skjedde onsdag i forrige uke.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026. Kong Haakon VIII tar valgspråket «Alt for Norge».",
+      "excerpt": "Dronning Mette-Marit måtte stå over edsavleggelsen i dag fordi hun måtte til observasjon i forbindelse med komplikasjoner etter lungetransplantasjonen.\n\nPrinsesse Märtha Louise har også ankommet sykehuset, opplyser NTBs fotograf på stedet.\n\nDet er tidligere kjent at Märtha Louises mann Durek...",
+      "image": "https://images.unsplash.com/photo-1651837006350-e8f7aabc8e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgyNzkyMTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/kong-haakon-har-ankommet-rikshospitalet-1.18010832",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-01T16:13:38.284Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788279216608.365,
+      "title": "Hevder Russland var involvert i angrepsforsøk i  Tyskland",
+      "slug": "hevder-russland-var-involvert-i-angrepsforsk-i-tyskland",
+      "content": "Tysklands innenriksminister Aleksander Dobrindt sier Russland var involvert i forsøket på et angrep mot Leipzig/Halle-flyplassen i august.\n\nEn drone med eksplosiver ble funnet i nærheten av et ukrainsk Antonov-lastefly 4. august.\n\nTysk politi fant i dagene etter flere droner utstyrt med sprengstoff nær flyplassen.\n\nDobrint sier angrepsforsøket føyer seg inn i en lang rekke av destabiliseringsoperasjoner i Europa.\n\nHan har gitt ordre om å stenge det russiske konsulatet i Bonn.\n\nUtenriksministeren har kalt den russiske ambassadøren inn på teppet.\n\nEU-president Ursula von der Leyen sier i en uttalelse at EU står sammen med Tyskland i solidaritet.\n\nOgså Natos generalsekretær Mark Rutte uttrykker støtte til Tyskland.",
+      "excerpt": "Tysklands innenriksminister Aleksander Dobrindt sier Russland var involvert i forsøket på et angrep mot Leipzig/Halle-flyplassen i august.\n\nEn drone med eksplosiver ble funnet i nærheten av et ukrainsk Antonov-lastefly 4. august.\n\nTysk politi fant i dagene etter flere droner utstyrt med sprengstoff...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/hevder-russland-var-involvert-i-angrepsforsok-i--tyskland-1.18010837",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-01T16:13:36.608Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1788261404360.282,
       "title": "Kilder til NRK: Nye runder om politisk borgfred",
       "slug": "kilder-til-nrk-nye-runder-om-politisk-borgfred",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-28T05:59:41.012Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1787896778972.7073,
-      "title": "Russisk angrep mot ukrainske lagre",
-      "slug": "russisk-angrep-mot-ukrainske-lagre",
-      "content": "Russland har i løpet av natten angrepet lagrene til det ukrainske transportselskapet Nova Poshta nær hovedstaden Kyiv, melder ukrainske myndigheter.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Russland har i løpet av natten angrepet lagrene til det ukrainske transportselskapet Nova Poshta nær hovedstaden Kyiv, melder ukrainske myndigheter.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala...",
-      "image": "https://images.unsplash.com/photo-1619861907071-926d3117af64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc4OTY3Nzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/russisk-angrep-mot-ukrainske-lagre-1.18004724",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-28T05:59:38.972Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787861476111.4695,
-      "title": "Trekker seg som ordførerkandidat i Trondheim",
-      "slug": "trekker-seg-som-ordfrerkandidat-i-trondheim",
-      "content": "Westad skriver i en pressemelding at hun trekker sitt kandidatur.\n\nHun skrev i private samtaler blant annet at «Håper Trump får laget badestrand på Gaza. Da skal jeg dra dit å sole meg». Adresseavisen fikk tilgang til disse samtalene.\n\n– Jeg har konstatert at valget av meg som ordførerkandidat har avstedkommet negative reaksjoner hos en del av Trondheim Høyres medlemmer og partiorganisasjonen sentralt, heter det i pressemeldinga.\n\nWestad ble valgt som Trondheim høyres ordførerkandidat sist uke.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "Westad skriver i en pressemelding at hun trekker sitt kandidatur.\n\nHun skrev i private samtaler blant annet at «Håper Trump får laget badestrand på Gaza. Da skal jeg dra dit å sole meg». Adresseavisen fikk tilgang til disse samtalene.\n\n– Jeg har konstatert at valget av meg som ordførerkandidat har...",
-      "image": "https://images.unsplash.com/photo-1697397005294-06fa1eb03f40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc4NjE0NzZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/trondelag/trekker-seg-som-ordforerkandidat-i-trondheim-1.18004503",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-27T20:11:16.111Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1787861474309.1877,
-      "title": "Iran og Qatar i samtaler om Hormuzstredet",
-      "slug": "iran-og-qatar-i-samtaler-om-hormuzstredet",
-      "content": "Irans utenriksminister Abbas Araghchi møtte sin kollega fra meklerlandet Qatar for samtaler om Hormuzstredet i Teheran torsdag.\n\nSiden krigen med USA brøt ut 28. februar, har Iran opprettholdt streng kontroll over Hormuzstredet – en av verdens viktigste energikorridorer – mens Washington har innført en marineblokkade mot iranske havner. (NTB)\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Irans utenriksminister Abbas Araghchi møtte sin kollega fra meklerlandet Qatar for samtaler om Hormuzstredet i Teheran torsdag.\n\nSiden krigen med USA brøt ut 28. februar, har Iran opprettholdt streng kontroll over Hormuzstredet – en av verdens viktigste energikorridorer – mens Washington har...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/-iran-og-qatar-i-samtaler-om-hormuzstredet-1.18004484",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-27T20:11:14.309Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3345,
+    "totalFetched": 3348,
     "totalPublished": 77,
-    "lastFetch": "2026-09-01T11:16:46.382Z",
+    "lastFetch": "2026-09-01T16:13:41.721Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
