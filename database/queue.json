@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1788376545304.6323,
+      "title": "Frikjent for journalistdrap på Malta",
+      "slug": "frikjent-for-journalistdrap-p-malta",
+      "content": "En maltesisk domstol har frikjent finansmagnaten Yorgen Fenech for å ha orkestrert det brutale drapet på gravejournalisten Daphne Caruana Galizia i 2017, ifølge maltesiske medier.\n\nFenech var anklaget for å ha stått bak bilbombedrapet på 53 år gamle Galizia, noe som rystet øynasjonen, felte en regjering og førte til fordømmelse fra hele verden.\n\nFørst drepte de hundene hennes og tente på huset. Hvem hatet trebarnsmoren så sterkt?",
+      "excerpt": "En maltesisk domstol har frikjent finansmagnaten Yorgen Fenech for å ha orkestrert det brutale drapet på gravejournalisten Daphne Caruana Galizia i 2017, ifølge maltesiske medier.\n\nFenech var anklaget for å ha stått bak bilbombedrapet på 53 år gamle Galizia, noe som rystet øynasjonen, felte en...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/frikjent-for-journalistdrap-pa-malta-1.18012288",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-02T19:15:45.304Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788376543760.2656,
+      "title": "BBC: Bryllup ble trolig rammet av amerikansk angrep",
+      "slug": "bbc-bryllup-ble-trolig-rammet-av-amerikansk-angrep",
+      "content": "Iranske myndigheter og Irans røde halvmåne hevdet tirsdag at et bryllup ble truffet av et amerikansk missil i byen Sirik nær Hormuzstredet. Minst fire mennesker ble drept og 67 såret.\n\nUSAs sentralkommando har insistert på at militæret aldri angriper sivile.\n\nEn gjennomgang BBC Verify og BBC Persian har gjort av bilder og videoer fra hendelsen tyder på at opplysningene kan stemme, ifølge NTB.\n\nBlant annet skal et radiotårn nær huset hvor bryllupet pågikk være skadet. Det er også fotografert deler av et kryssermissil som USA er kjent for å bruke.\n\nIrans Røde Halvmåne har bedt Den internasjonale straffedomstolen (ICC) granske hendelsen.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
+      "excerpt": "Iranske myndigheter og Irans røde halvmåne hevdet tirsdag at et bryllup ble truffet av et amerikansk missil i byen Sirik nær Hormuzstredet. Minst fire mennesker ble drept og 67 såret.\n\nUSAs sentralkommando har insistert på at militæret aldri angriper sivile.\n\nEn gjennomgang BBC Verify og BBC...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/bbc_-bryllup-ble-trolig-rammet-av-amerikansk-angrep-1.18012326",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-02T19:15:43.760Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788376542189.2654,
+      "title": "Norske myndigheter har tatt arrest i et russisk fartøy på Svalbard",
+      "slug": "norske-myndigheter-har-tatt-arrest-i-et-russisk-farty-p-sval",
+      "content": "Norske myndigheter har beslaglagt et russisk fartøy på anmodning fra det ukrainske statsselskapet Naftogaz, for å sikre at Russland oppfyller sine utestående forpliktelser, opplyser Naftogaz ifølge Reuters.\n\nNaftogaz har gått til rettslige skritt mot Russland siden 2016 for å kreve erstatning for Moskvas ekspropriasjon av Naftogaz-eiendom da Russland annekterte Krim i 2014.\n\nEn domstol i Haag påla i april 2023 Russland å betale Naftogaz 4,22 milliarder dollar pluss renter og saksomkostninger som erstatning.\n\nNorske myndigheter har tatt arrest i det russiske fartøyet Professor Molchanov i Barentsburg på Svalbard.",
+      "excerpt": "Norske myndigheter har beslaglagt et russisk fartøy på anmodning fra det ukrainske statsselskapet Naftogaz, for å sikre at Russland oppfyller sine utestående forpliktelser, opplyser Naftogaz ifølge Reuters.\n\nNaftogaz har gått til rettslige skritt mot Russland siden 2016 for å kreve erstatning for...",
+      "image": "https://images.unsplash.com/photo-1659424765359-118f6e3fe304?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgzNzY1NDJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/norske-myndigheter-har-tatt-arrest-i-et-russisk-fartoy-pa-svalbard-1.18012343",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-02T19:15:42.189Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1788358172974.801,
       "title": "Frp takker nei til møte om politisk borgfred",
       "slug": "frp-takker-nei-til-mte-om-politisk-borgfred",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-29T23:55:56.699Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1788047754970.1963,
-      "title": "Svært jevnt i Island-valget: Ja-siden leder knepent",
-      "slug": "svrt-jevnt-i-islandvalget-jasiden-leder-knepent",
-      "content": "Med rundt 67.000 stemmer talt opp på Island, har ja-siden et knepent overtak.\n\n48,5 prosent har stemnt nei, mens 51,5 prosent har stemt ja, ifølge en oversikt fra den islandske kringkasteren RUV.\n\nDet er fortsatt mange flere stemmer igjen som skal telles opp. Det skjer utover natten.\n\nIslendingene skal si ja eller nei til om de vil gjenoppta forhandlinger om EU-medlemskap eller ikke.\n\nDet er til sammen rundt 270.000 stemmeberettigede på Island.",
-      "excerpt": "Med rundt 67.000 stemmer talt opp på Island, har ja-siden et knepent overtak.\n\n48,5 prosent har stemnt nei, mens 51,5 prosent har stemt ja, ifølge en oversikt fra den islandske kringkasteren RUV.\n\nDet er fortsatt mange flere stemmer igjen som skal telles opp. Det skjer utover natten.\n\nIslendingene...",
-      "image": "https://images.unsplash.com/photo-1628850923193-544e7b81ebad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgwNDc3NTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/svaert-jevnt-i-island-valget_-ja-siden-leder-knepent-1.18007696",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-29T23:55:54.970Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788035660863.0127,
-      "title": "Listhaug: – Varm, raus og personlig tale",
-      "slug": "listhaug-varm-raus-og-personlig-tale",
-      "content": "Frp-leder Sylvi Listhaug mener kong Haakons tale viser at han er klar til å ta fatt på sin livsgjerning.\n\n– Bare halvannet døgn etter at han mistet sin far, hele Norges folkekonge, satte han ord på det mange føler, i en varm, raus og personlig tale, sier Listhaug i en kommentar til NTB kort tid etter at den nye monarken holdt sin første tale til det norske folk.\n\n– Han satte ord på hva han mener med valgspråket da han sa at «Alt for Norge» betyr at alle i Norge skal ha muligheten til å leve frie liv. Vår nye Konge viste at han er klar for livsgjerningen sin, fortsetter hun.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026. Kong Haakon VIII tar valgspråket «Alt for Norge».",
-      "excerpt": "Frp-leder Sylvi Listhaug mener kong Haakons tale viser at han er klar til å ta fatt på sin livsgjerning.\n\n– Bare halvannet døgn etter at han mistet sin far, hele Norges folkekonge, satte han ord på det mange føler, i en varm, raus og personlig tale, sier Listhaug i en kommentar til NTB kort tid...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/listhaug_-_-varm_-raus-og-personlig-tale-1.18007596",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-29T20:34:20.863Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788035659101.8252,
-      "title": "Dataangrep mot flere tjenester innen høyere utdanning",
-      "slug": "dataangrep-mot-flere-tjenester-innen-hyere-utdanning",
-      "content": "Lørdag kveld har en hackergruppe utført dataangrep mot flere tjenester innen høyere utdanning og forskning, bekrefter tjenesteleverandøren Sikt.\n\nAngrepet rammer blant annet Universitetet i Oslo (UiO) og Samordna opptak.\n\nSikt er et forvaltningsorgan underlagt Kunnskapsdepartementet. De jobber nå med å kartlegge omfang og iverksette tiltak.\n\nIfølge Khrono påstår en russisk hackergruppe at de har utført tjenestenektangrep mot Feide, Educloud, Sikt, fsweb, Samordna opptak og Universitetet i Oslo.\n\nDataangrep og hacking\n\nKinesiske og russiske hackere er mistenkt for å stå bak flere dataangrep mot norske offentlige etater og firmaer, opplyser PST. Hackerne krever i mange tilfeller løsepenger for å returnere stjålne eller låste datafiler.",
-      "excerpt": "Lørdag kveld har en hackergruppe utført dataangrep mot flere tjenester innen høyere utdanning og forskning, bekrefter tjenesteleverandøren Sikt.\n\nAngrepet rammer blant annet Universitetet i Oslo (UiO) og Samordna opptak.\n\nSikt er et forvaltningsorgan underlagt Kunnskapsdepartementet. De jobber nå...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/dataangrep-mot-flere-tjenester-innen-hoyere-utdanning-1.18007537",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-29T20:34:19.101Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3362,
+    "totalFetched": 3365,
     "totalPublished": 77,
-    "lastFetch": "2026-09-02T14:09:35.002Z",
+    "lastFetch": "2026-09-02T19:15:46.939Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
