@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1788424775559.675,
+      "title": "Dronning Margrethe kjem til kong Haralds gravferd",
+      "slug": "dronning-margrethe-kjem-til-kong-haralds-gravferd",
+      "content": "Dronning Margrethe deltek i gravferda til kong Harald på onsdag, viser det offisielle programmet til det danske kongehuset.\n\nI tillegg kjem kong Frederik, dronning Mary, kronprins Christian og prinsesse Benedikte til gravferda.\n\nDet er tette band mellom det danske og norske kongehuset.\n\nKong Harald og dronning Margrethe var tremenningar, og hadde felles oldeforeldre.\n\nSverige sender også heile kongefamilien. I tillegg er det venta ei rekke andre europeiske kongelege gjestar i gravferda.",
+      "excerpt": "Dronning Margrethe deltek i gravferda til kong Harald på onsdag, viser det offisielle programmet til det danske kongehuset.\n\nI tillegg kjem kong Frederik, dronning Mary, kronprins Christian og prinsesse Benedikte til gravferda.\n\nDet er tette band mellom det danske og norske kongehuset.\n\nKong Harald...",
+      "image": "https://images.unsplash.com/photo-1607251747086-96b65d43deb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg0MjQ3NzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/dronning-margrethe-kjem-til-kong-haralds-gravferd-1.18012737",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-03T08:39:35.559Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788424773943.0588,
+      "title": "Kongens gravferd kan få konsekvenser for flytrafikken",
+      "slug": "kongens-gravferd-kan-f-konsekvenser-for-flytrafikken",
+      "content": "Den omfattende VIP-trafikken i forbindelse med kong Haralds gravferd onsdag 9. september vil merkes godt på Oslo lufthavn, ifølge Avinor.\n\n– Oslo lufthavn vil være åpen for reisende som normalt på gravferdsdagen, men det vil være ekstraordinær aktivitet i forbindelse med ankomst og avreise for gjester og delegasjoner som skal delta i gravferden, sier pressekontakt Helene Wattanapradit Jensen i Avinor til E24.\n\nReisende oppfordres til å følge med på informasjon fra flyselskapene og beregne ekstra tid til og fra lufthavnen.",
+      "excerpt": "Den omfattende VIP-trafikken i forbindelse med kong Haralds gravferd onsdag 9. september vil merkes godt på Oslo lufthavn, ifølge Avinor.\n\n– Oslo lufthavn vil være åpen for reisende som normalt på gravferdsdagen, men det vil være ekstraordinær aktivitet i forbindelse med ankomst og avreise for...",
+      "image": "https://images.unsplash.com/photo-1611053307699-5f74280c0d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg0MjQ3NzN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/kongens-gravferd-kan-fa-konsekvenser-for-flytrafikken-1.18012771",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-03T08:39:33.943Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788424772369.476,
+      "title": "Justisdepartementet om russisk skip i arrest på Svalbard",
+      "slug": "justisdepartementet-om-russisk-skip-i-arrest-p-svalbard",
+      "content": "– Dette er en sak mellom Naftogaz og Russland. Norge er ikke part i saken. Det sier seniorrådgiver Frank Lynum i Justisdepartementet om arresten av det russiske skipet på Svalbard.\n\nEtter begjæring fra Naftogaz har tingretten besluttet at det skal tas arrest i skipet.\n\n– Som namsfogd er Sysselmesteren forpliktet til å gjennomføre avgjørelsen fra Nord-Troms og Senja tingrett. Det gjelder alle saker om arrest og utlegg, uavhengig av hvem som er parter. Tingretten har tatt avgjørelsen uten først å orientere Russland, sier Lynum.\n\nSom part i saken kan Russland kreve at tingretten vurderer saken på nytt.\n\n– Det har Russland gjort i en tidligere sak om utlegg. I rollen som namsfogd har Sysselmesteren fulgt opp det Nord-Troms og Senja tingrett har bestemt, akkurat som namsfogden ville gjort dersom dette skjedde på fastlandet, sier Lynum.\n\nDen russiske skyggeflåten\n\nSkyggeflåten er et nettverk av oljetankere og lasteskip som Russland bruker for å forbigå vestlige sanksjoner. De er ofte privateide og seiler gjerne under ulike flagg. Det er ofte vanskelig å spore eierene.",
+      "excerpt": "– Dette er en sak mellom Naftogaz og Russland. Norge er ikke part i saken. Det sier seniorrådgiver Frank Lynum i Justisdepartementet om arresten av det russiske skipet på Svalbard.\n\nEtter begjæring fra Naftogaz har tingretten besluttet at det skal tas arrest i skipet.\n\n– Som namsfogd er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/justisdepartementet-om-russisk-skip-i-arrest-pa-svalbard-1.18012755",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-03T08:39:32.369Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1788406099081.3782,
       "title": "Ukraina ber FN-organ forby flytrafikk i russisk luftrom",
       "slug": "ukraina-ber-fnorgan-forby-flytrafikk-i-russisk-luftrom",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-30T16:14:53.488Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1788106491610.9084,
-      "title": "Islands regjering bekrefter: Ingen EU-forhandling nå",
-      "slug": "islands-regjering-bekrefter-ingen-euforhandling-n",
-      "content": "Islands statsminister Kristrún Frostadóttir bekrefter søndag ettermiddag at det ikke blir noe EU-avstemming i denne omgang.\n\n– Jeg anser ikke dette som et tilbakesteg, men som en seier for demokratiet, sa Frostadóttir.\n\nOver 80 prosent av landets befolkning deltok i folkeavstemningen, hvor det skulle avgjøres om landet skulle stemme over EU-medlemskap.",
-      "excerpt": "Islands statsminister Kristrún Frostadóttir bekrefter søndag ettermiddag at det ikke blir noe EU-avstemming i denne omgang.\n\n– Jeg anser ikke dette som et tilbakesteg, men som en seier for demokratiet, sa Frostadóttir.\n\nOver 80 prosent av landets befolkning deltok i folkeavstemningen, hvor det...",
-      "image": "https://images.unsplash.com/photo-1566425303014-8b71badc099a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgxMDY0OTF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/islands-regjering-bekrefter_-ingen-eu-forhandling-na-1.18008167",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-30T16:14:51.611Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788089276899.8755,
-      "title": "Støre sier kong Harald skal begraves i uke 37",
-      "slug": "stre-sier-kong-harald-skal-begraves-i-uke-37",
-      "content": "Jonas Gahr Støre antyder overfor NRK når kong Harald skal gravlegges.\n\n– Vi skal stede til hvile kongen i uken etter neste, sier Støre.\n\nI Norge er det kongelig tradisjon at gravferdsfølget går fra Slottet til Oslo domkirke.\n\nKongens siste hvilested blir i Det kongelige mausoleum under Akershus slottskirke.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026. Kong Haakon VIII tar valgspråket «Alt for Norge».\n\nStor-Oslo i sorg etter kongens død\n\nSlik sørger Oslo og Akershus over Hans Majestet Kong Harald Vs død.",
-      "excerpt": "Jonas Gahr Støre antyder overfor NRK når kong Harald skal gravlegges.\n\n– Vi skal stede til hvile kongen i uken etter neste, sier Støre.\n\nI Norge er det kongelig tradisjon at gravferdsfølget går fra Slottet til Oslo domkirke.\n\nKongens siste hvilested blir i Det kongelige mausoleum under Akershus...",
-      "image": "https://images.unsplash.com/photo-1769786426940-a7430ed5f1ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgwODkyNzZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/store-sier-kong-harald-skal-begraves-i-uke-37-1.18007979",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-30T11:27:56.899Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788089275246.4736,
-      "title": "Folk strømmer til Slottsplassen",
-      "slug": "folk-strmmer-til-slottsplassen",
-      "content": "Slottsplassen fylles på nytt opp av en stor folkemengde som beveger seg opp Karl Johans gate.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026. Kong Haakon VIII tar valgspråket «Alt for Norge».",
-      "excerpt": "Slottsplassen fylles på nytt opp av en stor folkemengde som beveger seg opp Karl Johans gate.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026. Kong Haakon VIII tar valgspråket «Alt for Norge».",
-      "image": "https://images.unsplash.com/photo-1667400867422-6a72ea761439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgwODkyNzV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/folk-strommer-til-slottsplassen-1.18008010",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-30T11:27:55.246Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3371,
+    "totalFetched": 3374,
     "totalPublished": 77,
-    "lastFetch": "2026-09-03T03:28:21.066Z",
+    "lastFetch": "2026-09-03T08:39:37.260Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
