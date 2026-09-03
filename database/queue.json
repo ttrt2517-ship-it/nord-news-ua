@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1788474140679.5781,
+      "title": "Volkswagen skal kutte 100.000 jobber",
+      "slug": "volkswagen-skal-kutte-100000-jobber",
+      "content": "Volkswagen skal redusere arbeidsstyrken med 100.000 ansatte innen utgangen av dette tiåret.\n\nSelskapet opplyser at det er blitt enige med fagforeningene om å kutte 50.000 arbeidsplasser. Det kommer i tillegg til de 50.000 jobbene de tidligere er blitt enige om å kutte, skriver AFP.\n\nVolkswagen har hatt store økonomiske problemer i flere år, blant annet på grunn av konkurranse fra kinesiske elbiler",
+      "excerpt": "Volkswagen skal redusere arbeidsstyrken med 100.000 ansatte innen utgangen av dette tiåret.\n\nSelskapet opplyser at det er blitt enige med fagforeningene om å kutte 50.000 arbeidsplasser. Det kommer i tillegg til de 50.000 jobbene de tidligere er blitt enige om å kutte, skriver AFP.\n\nVolkswagen har...",
+      "image": "https://images.unsplash.com/photo-1760612393683-1b2cda6fdbbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg0NzQxNDB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/volkswagen-skal-kutte-100.000-jobber-1.18013658",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-03T22:22:20.679Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788474139143.0928,
+      "title": "Zelenskyj venter på amerikanske utsendinger",
+      "slug": "zelenskyj-venter-p-amerikanske-utsendinger",
+      "content": "Ukrainas president Volodymyr Zelenskyj håper å møte USAs fredsutsendinger i Kyiv i løpet av de nærmeste dagene, sier han i sin daglige videotale.\n\nAmerikanerne skal etter planen besøke både Moskva og Kyiv for å forhandle om en slutt på krigen, skriver NTB.\n\nBåde Ukrainas utenriksminister og Russlands president Vladimir Putin uttaler nå at de ser en mulighet for framgang i fredsforhandlingene.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainas president Volodymyr Zelenskyj håper å møte USAs fredsutsendinger i Kyiv i løpet av de nærmeste dagene, sier han i sin daglige videotale.\n\nAmerikanerne skal etter planen besøke både Moskva og Kyiv for å forhandle om en slutt på krigen, skriver NTB.\n\nBåde Ukrainas utenriksminister og...",
+      "image": "https://images.unsplash.com/photo-1701561365680-dc627fca1597?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg0NzQxMzl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/zelenskyj-venter-pa-amerikanske-utsendinger-1.18013688",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-03T22:22:19.143Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788474137586.3562,
+      "title": "Zelenskyj: Russiske droner traff Coca-Cola-fabrikk nær Kyiv",
+      "slug": "zelenskyj-russiske-droner-traff-cocacolafabrikk-nr-kyiv",
+      "content": "En Coca-Cola-fabrikk nær Kyiv ble truffet av russiske droner torsdag, opplyser president Volodymyr Zelenskyj. Han mener det var et russisk signal til USA.\n\nAngrepet skjedde nær byen Brovary, øst for den ukrainske hovedstaden.\n\n– Coca-Cola er tydeligvis en slik fiende at de satte den i brann med Shahed-dronene sine, sa den ukrainske presidenten i en tale torsdag kveld.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "En Coca-Cola-fabrikk nær Kyiv ble truffet av russiske droner torsdag, opplyser president Volodymyr Zelenskyj. Han mener det var et russisk signal til USA.\n\nAngrepet skjedde nær byen Brovary, øst for den ukrainske hovedstaden.\n\n– Coca-Cola er tydeligvis en slik fiende at de satte den i brann med...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/zelenskyj_-russiske-droner-traff-coca-cola-fabrikk-naer-kyiv-1.18013700",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-03T22:22:17.586Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1788462581878.4739,
       "title": "Norway seizes Russian ship to compensate Ukraine firm",
       "slug": "norway-seizes-russian-ship-to-compensate-ukraine-firm",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-31T17:26:33.025Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1788197184578.8691,
-      "title": "USAs finansminister: Vi er ikke i krig med Canada",
-      "slug": "usas-finansminister-vi-er-ikke-i-krig-med-canada",
-      "content": "USAs finansminister Scott Bessent sier i et intervju med CNBC at han har planer om å møte sin kanadiske motpart snarlig.\n\nFor en drøy uke siden brøt forhandlingene mellom landene sammen, og USA ila nabolandet 50 prosent toll. Kanadierne har svart med samme mynt.\n\n– Carney gjør ikke det som er til det beste for det kanadiske folk, sier Bessent om statsminister Mark Carney.\n\nHandelsavtaler og toll\n\nUSAs president Donald Trump annonserte 24. juli nye tollsatser for flere av verdens land. Tollsatsen på norske varer øker til 12,5 prosent, mens EU beholder tollsatsen på 10 prosent.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "USAs finansminister Scott Bessent sier i et intervju med CNBC at han har planer om å møte sin kanadiske motpart snarlig.\n\nFor en drøy uke siden brøt forhandlingene mellom landene sammen, og USA ila nabolandet 50 prosent toll. Kanadierne har svart med samme mynt.\n\n– Carney gjør ikke det som er til...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usas-finansminister_-vi-er-ikke-i-krig-med-canada-1.18009448",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-31T17:26:24.578Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788197168790.5144,
-      "title": "To døde og flere savnet etter styrtflom i Grand Canyon",
-      "slug": "to-dde-og-flere-savnet-etter-styrtflom-i-grand-canyon",
-      "content": "Nok en person er funnet omkommet etter styrtflommen som rammet den amerikanske nasjonalparken Grand Canyon mandag, opplyser nasjonalparkmyndighetene.\n\nMinst 10 personer er fremdeles savnet eller ikke gjort rede for og redningsarbeidet pågår for fullt, skriver de på X.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Nok en person er funnet omkommet etter styrtflommen som rammet den amerikanske nasjonalparken Grand Canyon mandag, opplyser nasjonalparkmyndighetene.\n\nMinst 10 personer er fremdeles savnet eller ikke gjort rede for og redningsarbeidet pågår for fullt, skriver de på X.\n\nUSA\n\nFra 20. januar 2025 er...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/to-dode-og-flere-savnet-etter-styrtflom-i-grand-canyon-1.18009536",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-31T17:26:08.790Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788164121522.0007,
-      "title": "Russland om Nato-øvelser i Arktis: – En direkte trussel",
-      "slug": "russland-om-natovelser-i-arktis-en-direkte-trussel",
-      "content": "Russlands mangeårige utenriksminister retter krass kritikk mot forsvarsalliansen Nato.\n\nDet går frem av en tekst fra Lavrov som er lagt ut natt til mandag på det russiske utenriksdepartementets nettsider.\n\nLavrov er blant annet kritisk til et nytt initiativ fra Nato om økt tilstedeværelse i nordområdene og Arktis, som har fått navnet «Arctic Sentry».\n\n– Nato gjennomfører storskala-militærøvelser med deltakelse fra ikke-regionale land, skriver Lavrov.\n\n– Slik militær aktivitet i nordområdene utgjør en direkte trussel mot Russlands sikkerhet. Den øker også risikoen for hendelser som kan utløse en væpnet konfrontasjon med potensielt katastrofale konsekvenser, heter det i teksten fra Lavrov.",
-      "excerpt": "Russlands mangeårige utenriksminister retter krass kritikk mot forsvarsalliansen Nato.\n\nDet går frem av en tekst fra Lavrov som er lagt ut natt til mandag på det russiske utenriksdepartementets nettsider.\n\nLavrov er blant annet kritisk til et nytt initiativ fra Nato om økt tilstedeværelse i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russland-om-nato-ovelser-i-arktis___-en-direkte-trussel-1.18008541",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-31T08:15:21.522Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3382,
+    "totalFetched": 3385,
     "totalPublished": 77,
-    "lastFetch": "2026-09-03T19:09:42.878Z",
+    "lastFetch": "2026-09-03T22:22:22.244Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
