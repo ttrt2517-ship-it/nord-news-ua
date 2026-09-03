@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1788406099081.3782,
+      "title": "Ukraina ber FN-organ forby flytrafikk i russisk luftrom",
+      "slug": "ukraina-ber-fnorgan-forby-flytrafikk-i-russisk-luftrom",
+      "content": "Ukraina oppfordrer FNs luftfartsorganisasjon til å be sine medlemsland om å forby flytrafikk i russisk luftrom.\n\nOppfordringen kommer dagen etter at Ukraina varslet FNs sivile luftfartsorganisasjon (ICAO) om at russisk luftrom ikke lenger er trygt for sivile fly som følge av økt militær aktivitet.\n\nIfølge et brev som nyhetsbyrået Reuters har fått tilgang til, ber Ukraina ICAO forby alle medlemsland å bruke russisk luftrom.\n\nVarselet fungerer som en advarsel om at passasjerfly risikerer å rammes av droner og raketter som Ukraina og Russland avfyrer mot hverandre nærmest hver eneste dag.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukraina oppfordrer FNs luftfartsorganisasjon til å be sine medlemsland om å forby flytrafikk i russisk luftrom.\n\nOppfordringen kommer dagen etter at Ukraina varslet FNs sivile luftfartsorganisasjon (ICAO) om at russisk luftrom ikke lenger er trygt for sivile fly som følge av økt militær...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukraina-ber-fn-organ-forby-flytrafikk-i-russisk-luftrom-1.18012461",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-03T03:28:19.081Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788406097459.4585,
+      "title": "New York forbyr KI for dei minste skulebarna",
+      "slug": "new-york-forbyr-ki-for-dei-minste-skulebarna",
+      "content": "Ordførar Zohran Mamdani bannlyser KI-bruk i skulen fram til åttande klasse.\n\nUngane skal ikkje bruke kunstig intelligens på skulen før ungdomsskulen.\n\nVidaregåandeelevar i den største byen i USA skal derimot gjennom opplæring der kritisk tenking i møte med KI er målet.\n\n– Barna må lære å tenke sjølve, og jobbe med klassekameratane sine, seier ordførar Mamdani.\n\nI tillegg blir det sett eitt tak på mykje skjermtid elevane skal ha.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Ordførar Zohran Mamdani bannlyser KI-bruk i skulen fram til åttande klasse.\n\nUngane skal ikkje bruke kunstig intelligens på skulen før ungdomsskulen.\n\nVidaregåandeelevar i den største byen i USA skal derimot gjennom opplæring der kritisk tenking i møte med KI er målet.\n\n– Barna må lære å tenke...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/new-york-forbyr-ki-for-dei-minste-skulebarna-1.18012466",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-03T03:28:17.459Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788406095861.0322,
+      "title": "Mann skutt i brystet i Tønsberg",
+      "slug": "mann-skutt-i-brystet-i-tnsberg",
+      "content": "En mann er skutt i brystet i Tønsberg. Han er alvorlig skadet, men tilstanden beskrives som stabil, opplyser politiet.\n\nMannen ble natt til torsdag brakt til traumemottaket ved Sykehuset i Vestfold.\n\n– Han skal flys videre med luftambulanse til Ullevål sykehus, opplyser operasjonsleder Ståle Fuglaas i Sørøst politidistrikt.\n\nEt betydelig antall politipatruljer er satt inn i området. Politiet samler inn opplysninger og gjennomfører tekniske undersøkelser.\n\nPolitiet ber personer som har hørt smell eller skudd i messeområdet eller Tønsberg sentrum mellom midnatt og 1.45, om å ta kontakt.\n\nIngen er så langt pågrepet etter at en mann ble skutt i Tønsberg i natt. Den skadde er fløyet til sykehus med alvorlige skader.",
+      "excerpt": "En mann er skutt i brystet i Tønsberg. Han er alvorlig skadet, men tilstanden beskrives som stabil, opplyser politiet.\n\nMannen ble natt til torsdag brakt til traumemottaket ved Sykehuset i Vestfold.\n\n– Han skal flys videre med luftambulanse til Ullevål sykehus, opplyser operasjonsleder Ståle...",
+      "image": "https://images.unsplash.com/photo-1500207293962-22b6d63c46ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg0MDYwOTV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-skutt-i-brystet-i-tonsberg-1.18012468",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-03T03:28:15.862Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1788387940351.872,
       "title": "Boeing bøtelagt for sikkerhetsbrudd",
       "slug": "boeing-btelagt-for-sikkerhetsbrudd",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-08-30T11:27:55.246Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1788089273409.0632,
-      "title": "Passasjerferge med 270 om bord synker utenfor Kypros",
-      "slug": "passasjerferge-med-270-om-bord-synker-utenfor-kypros",
-      "content": "En passasjerferge med rundt 270 personer om bord synker nord for Kypros. Redningsmannskaper er på vei, melder tyrkisk-kypriotiske medier.\n\nIfølge Cyprus Mail forliste ferga to kilometer nord for kysten av Kyrenia kort tid etter avgang. Det skal ha begynt å ta inn vann i baugen.\n\nOrdføreren i Kyrenia bekrefter hendelsen og sier situasjonen er alvorlig, ifølge avisen.\n\nIfølge Hurriyet er 160 personer reddet opp av vannet og fraktes i land.\n\nDet skal ha vært dårlig vær i området i forkant av ulykken.",
-      "excerpt": "En passasjerferge med rundt 270 personer om bord synker nord for Kypros. Redningsmannskaper er på vei, melder tyrkisk-kypriotiske medier.\n\nIfølge Cyprus Mail forliste ferga to kilometer nord for kysten av Kyrenia kort tid etter avgang. Det skal ha begynt å ta inn vann i baugen.\n\nOrdføreren i...",
-      "image": "https://images.unsplash.com/photo-1513803302974-44bd99bcf333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgwODkyNzN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/passasjerferge-med-270-om-bord-synker-utenfor-kypros-1.18008024",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-30T11:27:53.409Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788064490273.3347,
-      "title": "92.000 stemmer talt opp på Island: Fortsatt flest «ja»-stemmer",
-      "slug": "92000-stemmer-talt-opp-p-island-fortsatt-flest-jastemmer",
-      "content": "Opptellingen etter folkeavstemningen på Island følges med argusøyne etter at valglokalene stengte midnatt norsk tid.\n\nIslendingene skal si ja eller nei til om de vil gjenoppta forhandlinger om EU-medlemskap eller ikke.\n\nDet er fortsatt mange flere stemmer igjen som skal telles opp. Det skjer utover natten.\n\nDet er til sammen rundt 270.000 stemmeberettigede på Island.\n\nAv rundt 92.000 stemmer som er talt opp så langt, sier 50,5 prosent ja og 49,5 prosent nei til å ta opp igjen forhandlinger med EU.\n\nDet viser en oversikt fra den islandske kringkasteren RUV.",
-      "excerpt": "Opptellingen etter folkeavstemningen på Island følges med argusøyne etter at valglokalene stengte midnatt norsk tid.\n\nIslendingene skal si ja eller nei til om de vil gjenoppta forhandlinger om EU-medlemskap eller ikke.\n\nDet er fortsatt mange flere stemmer igjen som skal telles opp. Det skjer utover...",
-      "image": "https://images.unsplash.com/photo-1725393213481-ca9dc8bef2be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgwNjQ0OTB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/92.000-stemmer-talt-opp-pa-island_-fortsatt-flest-_ja_-stemmer-1.18007698",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-30T04:34:50.273Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788064488668.9585,
-      "title": "Nord-Koreas forsvarsminister fjernes fra jobben",
-      "slug": "nordkoreas-forsvarsminister-fjernes-fra-jobben",
-      "content": "I Nord-Korea gjøres det omrokeringer på det øverste nivået i den militære ledelsen.\n\nDet melder nyhetsbyrået AFP, som siterer statskontrollerte KCNA i et av verdens mest lukkede land.\n\nForsvarsminister No Kwang Chol får sparken, som del av planer for en «strukturell omorganisering».\n\nDet ble bestemt lørdag på et møte, ledet av Nord-Koreas leder Kim Jong-un. reorganisering, melder statskontrollerte KCNA.\n\nNord-Korea\n\nNord-Korea fortsetter testingen av landets rakettprogram. Nord-Korea har fått forbud mot å sende opp ballistiske missiler gjennom resolusjoner fra FNs sikkerhetsråd.",
-      "excerpt": "I Nord-Korea gjøres det omrokeringer på det øverste nivået i den militære ledelsen.\n\nDet melder nyhetsbyrået AFP, som siterer statskontrollerte KCNA i et av verdens mest lukkede land.\n\nForsvarsminister No Kwang Chol får sparken, som del av planer for en «strukturell omorganisering».\n\nDet ble...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/nord-koreas-forsvarsminister-fjernes-fra-jobben-1.18007700",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-08-30T04:34:48.668Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3368,
+    "totalFetched": 3371,
     "totalPublished": 77,
-    "lastFetch": "2026-09-02T22:25:42.068Z",
+    "lastFetch": "2026-09-03T03:28:21.066Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
