@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1788578887445.898,
+      "title": "To skadd i russisk angrep i Ukraina",
+      "slug": "to-skadd-i-russisk-angrep-i-ukraina",
+      "content": "En boligblokk på ni etasjer ble truffet i et russisk angrep mot Kyiv-regionen natt til lørdag. To personer skal være skadet, opplyser ukrainske myndigheter.\n\nBoligblokken ligger i byen Boryspil, rundt 35 kilometer fra Kyiv.\n\n– Dessverre ble to personer skadet i fiendens angrep, skriver regionens guvernør Tymur Tkatsjenko på Telegram.\n\nIfølge The Kyiv Independent ble taket og blokkens øverste etasje skadet og det begynte å brenne.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "En boligblokk på ni etasjer ble truffet i et russisk angrep mot Kyiv-regionen natt til lørdag. To personer skal være skadet, opplyser ukrainske myndigheter.\n\nBoligblokken ligger i byen Boryspil, rundt 35 kilometer fra Kyiv.\n\n– Dessverre ble to personer skadet i fiendens angrep, skriver regionens...",
+      "image": "https://images.unsplash.com/photo-1752583584999-9d645e9f8672?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg1Nzg4ODd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-skadd-i-russisk-angrep-i-ukraina-1.18015087",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-05T03:28:07.445Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788578885935.956,
+      "title": "Mann pågrepet på Dyrøya",
+      "slug": "mann-pgrepet-p-dyrya",
+      "content": "Politiet har i natt aksjonert mot et hus på Dyrøya og pågrepet én person som har forskanset seg i flere dager, opplyser Troms politidistrikt. Ingen ble skadet i aksjonen.\n\nAksjonen har pågått i flere døgn. Politiet har brukt store ressurser på å løse situasjonen.\n\nDen pågrepne blir nå fraktet til Tromsø, og veiene i området åpnes igjen så raskt som mulig.\n\nPolitiet aksjonerte natt til lørdag mot et hus på Dyrøya i Troms og pågrep en mann som har forskanset seg i fire dager. Ingen ble skadet i aksjonen.",
+      "excerpt": "Politiet har i natt aksjonert mot et hus på Dyrøya og pågrepet én person som har forskanset seg i flere dager, opplyser Troms politidistrikt. Ingen ble skadet i aksjonen.\n\nAksjonen har pågått i flere døgn. Politiet har brukt store ressurser på å løse situasjonen.\n\nDen pågrepne blir nå fraktet til...",
+      "image": "https://images.unsplash.com/photo-1664790659456-e402073623c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg1Nzg4ODV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-pagrepet-pa-dyroya-1.18015088",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-05T03:28:05.935Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788578883920.546,
+      "title": "Flere døde etter eksplosjon ved militærbase i Bolivia",
+      "slug": "flere-dde-etter-eksplosjon-ved-militrbase-i-bolivia",
+      "content": "Mellom 10 og 15 personer er drept i en eksplosjon på en militærbase i Bolivia fredag. I tillegg skal flere personer være skadet etter hendelsen.\n\nDet opplyser den lokale helsedirektøren Rita Nebraska til TV-stasjonen Noticias Bolivision. Årsaken til eksplosjonen er foreløpig ikke avklart, skriver Reuters.",
+      "excerpt": "Mellom 10 og 15 personer er drept i en eksplosjon på en militærbase i Bolivia fredag. I tillegg skal flere personer være skadet etter hendelsen.\n\nDet opplyser den lokale helsedirektøren Rita Nebraska til TV-stasjonen Noticias Bolivision. Årsaken til eksplosjonen er foreløpig ikke avklart, skriver...",
+      "image": "https://images.unsplash.com/photo-1697397005472-ab4ca7e73af7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg1Nzg4ODN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flere-dode-etter-eksplosjon-ved-militaerbase-i-bolivia-1.18015091",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-05T03:28:03.920Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1788559890643.1272,
       "title": "Trump vil gi 4 til 5 milliarder til republikanske kandidater",
       "slug": "trump-vil-gi-4-til-5-milliarder-til-republikanske-kandidater",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-02T03:26:39.630Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1788319598130.2808,
-      "title": "Flere støtter kjernekraft i Norge",
-      "slug": "flere-sttter-kjernekraft-i-norge",
-      "content": "Et flertall av befolkningen er positive til kjernekraft som strømkilde her i landet, viser en ny undersøkelse.\n\nI løpet av fire år har støtten økt fra 36 prosent til 54 prosent. Samtidig har andelen som mener at Norge ikke bør satse på kjernekraft, falt fra 30 til 17 prosent, ifølge Opinions rapport Forbruker og bærekraft 2026.\n\nKjernekraft\n\nKjernekraft er elektrisk energi som produseres i kjernekraftverk ved hjelp av kjernefysisk fisjon eller fusjon. I 2021 var 440 kommersielle kjernereaktorer i drift over hele verden, med en samlet ytelse på om lag 394 gigawatt (GWₑ).",
-      "excerpt": "Et flertall av befolkningen er positive til kjernekraft som strømkilde her i landet, viser en ny undersøkelse.\n\nI løpet av fire år har støtten økt fra 36 prosent til 54 prosent. Samtidig har andelen som mener at Norge ikke bør satse på kjernekraft, falt fra 30 til 17 prosent, ifølge Opinions...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/flere-stotter-kjernekraft-i-norge-1.18011130",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-02T03:26:38.130Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788306672723.7822,
-      "title": "Fare for togstreik onsdag morgen –mekler på overtid",
-      "slug": "fare-for-togstreik-onsdag-morgen-mekler-p-overtid",
-      "content": "Meklingen mellom fagforeningene Norsk Lokomotivførerforbund, Norsk Jernbaneforbund og Delta og arbeidsgiverforeningen Spekter fortsetter natt til onsdag.\n\nDet opplyser riksmekler Mats Ruland til NTB, kort tid etter at meklingsfristen gikk ut ved midnatt.\n\nDersom partene ikke blir enige blir 135 konduktører og lokomotivførere tatt ut i streik fra onsdag morgen klokken 6.\n\n– Hvis det blir streik, er det mange konduktører og lokførere fra Hamar og Lillehammer som vil streike. Det betyr at det vil gå få eller ingen tog mellom Eidsvoll og Lillehammer, skriver Vy i en pressemelding.\n\nTog og jernbane\n\nI nær 200 år har togtrafikk på jernbane vært et viktig transportmiddel for mennesker og gods. Norges jernbanenett er på 4208 km (2017). Den samlede lengde av verdens jernbaner var i 2015 beregnet til drøyt 1 millioner km. (SNL)",
-      "excerpt": "Meklingen mellom fagforeningene Norsk Lokomotivførerforbund, Norsk Jernbaneforbund og Delta og arbeidsgiverforeningen Spekter fortsetter natt til onsdag.\n\nDet opplyser riksmekler Mats Ruland til NTB, kort tid etter at meklingsfristen gikk ut ved midnatt.\n\nDersom partene ikke blir enige blir 135...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/fare-for-togstreik-onsdag-morgen-_mekler-pa-overtid-1.18011118",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-01T23:51:12.723Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788306671199.9033,
-      "title": "Bessent: 19 G20-land enige om å bremse «billig eksport»",
-      "slug": "bessent-19-g20land-enige-om-bremse-billig-eksport",
-      "content": "19 medlemmer av G20 er enige om at strømmen av billige eksportvarer som skaper ubalanser i verdensøkonomien, må begrenses, ifølge USAs finansminister Scott Bessent. Men Kina er uenig.\n\nBessent kom med uttalelsen etter et todagers møte mellom G20-landenes finansministre i Asheville i North Carolina tirsdag.\n\n– At vi fikk 19 land til å enes om å ta tak i problemet, er utrolig og viser hvor enormt problemet er, sa han.\n\nBessent har oppfordret andre land til å følge USAs eksempel og bruke toll og andre tiltak for å beskytte seg mot handelsubalanser.",
-      "excerpt": "19 medlemmer av G20 er enige om at strømmen av billige eksportvarer som skaper ubalanser i verdensøkonomien, må begrenses, ifølge USAs finansminister Scott Bessent. Men Kina er uenig.\n\nBessent kom med uttalelsen etter et todagers møte mellom G20-landenes finansministre i Asheville i North Carolina...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/bessent_-19-g20-land-enige-om-a-bremse-_billig-eksport_-1.18011119",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-01T23:51:11.199Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3402,
+    "totalFetched": 3405,
     "totalPublished": 77,
-    "lastFetch": "2026-09-04T22:11:32.957Z",
+    "lastFetch": "2026-09-05T03:28:09.240Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
