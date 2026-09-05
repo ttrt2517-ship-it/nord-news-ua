@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1788651369826.2993,
+      "title": "Støre: – Et gjennombrudd for Norge",
+      "slug": "stre-et-gjennombrudd-for-norge",
+      "content": "Statsminister Jonas Gahr Støre kaller den vellykkede utskytingen fra Andøya er et gjennombrudd for Norge.\n\n– Dette er en historisk dag! Den vellykkede utskytingen fra Andøya er et gjennombrudd for Norge som romnajson. Det er også et resultat av et nært samarbeid mellom Tyskland og Norge, ved Isar Aerospace og Andøya Space, skriver han i et innlegg på Facebook lørdag kveld.\n\nOppskytingen fra Andøya Spaceport har skrevet seg inn i historiebøkerne. «Spectrum 2» går nå i bane rundt jorden.\n\nRomfart og astronomi\n\nNatt til tirsdag 1. april blir Jannicke Mikkelsen Norges første astronaut når romskipet «Dragon» skytes opp fra Kennedy Space Center i Florida.",
+      "excerpt": "Statsminister Jonas Gahr Støre kaller den vellykkede utskytingen fra Andøya er et gjennombrudd for Norge.\n\n– Dette er en historisk dag! Den vellykkede utskytingen fra Andøya er et gjennombrudd for Norge som romnajson. Det er også et resultat av et nært samarbeid mellom Tyskland og Norge, ved Isar...",
+      "image": "https://images.unsplash.com/photo-1698393895072-96ca8593c9f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg2NTEzNjl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/store_-_-et-gjennombrudd-for-norge-1.18015670",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-05T23:36:09.827Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788651367527.1719,
+      "title": "Tass: Witkoff og Kushner har forlatt Moskva",
+      "slug": "tass-witkoff-og-kushner-har-forlatt-moskva",
+      "content": "De amerikanske utsendingene Steve Witkoff og Jared Kushner har forlatt Moskva etter flere timer med fredssamtaler om Ukraina. Det melder det russiske nyhetsbyrået Tass, ifølge Reuters.\n\nKreml-rådgiver Yuri Ushako uttaler at de har hatt nyttige samtaler om å avslutte krigen i Ukraina.\n\nPartene diskuterte blant annet flere mulige fredsløsning, sier han ifølge Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "De amerikanske utsendingene Steve Witkoff og Jared Kushner har forlatt Moskva etter flere timer med fredssamtaler om Ukraina. Det melder det russiske nyhetsbyrået Tass, ifølge Reuters.\n\nKreml-rådgiver Yuri Ushako uttaler at de har hatt nyttige samtaler om å avslutte krigen i Ukraina.\n\nPartene...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/tass_-witkoff-og-kushner-har-forlatt-moskva--1.18015676",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-05T23:36:07.527Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788651364742.2273,
+      "title": "Brann i bolig i Arendal sentrum",
+      "slug": "brann-i-bolig-i-arendal-sentrum",
+      "content": "Det brenner natt til søndag i en enebolig i Arendal sentrum.\n\n– Det er åpne flammer på stedet og mulig spredningsfare til nærliggende boliger. Beboere i området bes lukke vinduer og følge politiets anvisninger, opplyser operasjonsleder Linn Andresen i Agder politidistrikt.",
+      "excerpt": "Det brenner natt til søndag i en enebolig i Arendal sentrum.\n\n– Det er åpne flammer på stedet og mulig spredningsfare til nærliggende boliger. Beboere i området bes lukke vinduer og følge politiets anvisninger, opplyser operasjonsleder Linn Andresen i Agder politidistrikt.",
+      "image": "https://images.unsplash.com/photo-1663610804918-c87cd25f6040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg2NTEzNjR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/brann-i-bolig-i-arendal-sentrum-1.18015679",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-05T23:36:04.742Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1788638576473.9558,
       "title": "Kortere ventetid for defilering i Slottskapellet",
       "slug": "kortere-ventetid-for-defilering-i-slottskapellet",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-03T03:28:19.081Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1788406097459.4585,
-      "title": "New York forbyr KI for dei minste skulebarna",
-      "slug": "new-york-forbyr-ki-for-dei-minste-skulebarna",
-      "content": "Ordførar Zohran Mamdani bannlyser KI-bruk i skulen fram til åttande klasse.\n\nUngane skal ikkje bruke kunstig intelligens på skulen før ungdomsskulen.\n\nVidaregåandeelevar i den største byen i USA skal derimot gjennom opplæring der kritisk tenking i møte med KI er målet.\n\n– Barna må lære å tenke sjølve, og jobbe med klassekameratane sine, seier ordførar Mamdani.\n\nI tillegg blir det sett eitt tak på mykje skjermtid elevane skal ha.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Ordførar Zohran Mamdani bannlyser KI-bruk i skulen fram til åttande klasse.\n\nUngane skal ikkje bruke kunstig intelligens på skulen før ungdomsskulen.\n\nVidaregåandeelevar i den største byen i USA skal derimot gjennom opplæring der kritisk tenking i møte med KI er målet.\n\n– Barna må lære å tenke...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/new-york-forbyr-ki-for-dei-minste-skulebarna-1.18012466",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-03T03:28:17.459Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788406095861.0322,
-      "title": "Mann skutt i brystet i Tønsberg",
-      "slug": "mann-skutt-i-brystet-i-tnsberg",
-      "content": "En mann er skutt i brystet i Tønsberg. Han er alvorlig skadet, men tilstanden beskrives som stabil, opplyser politiet.\n\nMannen ble natt til torsdag brakt til traumemottaket ved Sykehuset i Vestfold.\n\n– Han skal flys videre med luftambulanse til Ullevål sykehus, opplyser operasjonsleder Ståle Fuglaas i Sørøst politidistrikt.\n\nEt betydelig antall politipatruljer er satt inn i området. Politiet samler inn opplysninger og gjennomfører tekniske undersøkelser.\n\nPolitiet ber personer som har hørt smell eller skudd i messeområdet eller Tønsberg sentrum mellom midnatt og 1.45, om å ta kontakt.\n\nIngen er så langt pågrepet etter at en mann ble skutt i Tønsberg i natt. Den skadde er fløyet til sykehus med alvorlige skader.",
-      "excerpt": "En mann er skutt i brystet i Tønsberg. Han er alvorlig skadet, men tilstanden beskrives som stabil, opplyser politiet.\n\nMannen ble natt til torsdag brakt til traumemottaket ved Sykehuset i Vestfold.\n\n– Han skal flys videre med luftambulanse til Ullevål sykehus, opplyser operasjonsleder Ståle...",
-      "image": "https://images.unsplash.com/photo-1500207293962-22b6d63c46ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg0MDYwOTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/mann-skutt-i-brystet-i-tonsberg-1.18012468",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-03T03:28:15.862Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788387940351.872,
-      "title": "Boeing bøtelagt for sikkerhetsbrudd",
-      "slug": "boeing-btelagt-for-sikkerhetsbrudd",
-      "content": "Flyprodusenten Boeing har betalt en bot på 3,1 millioner dollar til de amerikanske luftfartsmyndighetene FAA, melder Reuters.\n\nBoten ble betalt i januar i år, men ble først offentlig kjent i dag.\n\nBoeing fikk boten for en rekke sikkerhetsbrudd, blant annet knyttet til en hendelse i 2024 hvor et Boeing Max 9 fikk et ukontrollert trykkfall på grunn av fire plugger som manglet i flydøra.\n\nBoeing ble også bøtelagt i fjor for å ha blandet seg inn i sikkerhetspersonellets uavhengighet.\n\nBoeing\n\nTo ulykker med Boeing-flyene 737 Max kostet 346 mennesker livet i 2018 og 2019.",
-      "excerpt": "Flyprodusenten Boeing har betalt en bot på 3,1 millioner dollar til de amerikanske luftfartsmyndighetene FAA, melder Reuters.\n\nBoten ble betalt i januar i år, men ble først offentlig kjent i dag.\n\nBoeing fikk boten for en rekke sikkerhetsbrudd, blant annet knyttet til en hendelse i 2024 hvor et...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/boeing-botelagt-for-sikkerhetsbrudd-1.18012369",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-02T22:25:40.351Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3417,
+    "totalFetched": 3420,
     "totalPublished": 77,
-    "lastFetch": "2026-09-05T20:02:58.687Z",
+    "lastFetch": "2026-09-05T23:36:11.536Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
