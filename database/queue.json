@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1788771782635.2778,
+      "title": "Israelsk angrep mot landsby i Sør-Libanon",
+      "slug": "israelsk-angrep-mot-landsby-i-srlibanon",
+      "content": "11 personer er drept etter et israelsk luftangrep mot en boligblokk sør i Libanon. To av de drepte skal være barn.\n\nI tillegg er fem personer såret i angrepet som fant sted tidlig mandag morgen, rapporterer nyhetsbyrået Reuters, som gjengir meldinger fra Libanons statlige nyhetsbyrå.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "11 personer er drept etter et israelsk luftangrep mot en boligblokk sør i Libanon. To av de drepte skal være barn.\n\nI tillegg er fem personer såret i angrepet som fant sted tidlig mandag morgen, rapporterer nyhetsbyrået Reuters, som gjengir meldinger fra Libanons statlige nyhetsbyrå.\n\nKrigen i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/israelsk-angrep-mot-landsby-i-sor-libanon-1.18016311",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-07T09:03:02.635Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788771781107.6025,
+      "title": "AfD: – Et drømmeresultat",
+      "slug": "afd-et-drmmeresultat",
+      "content": "Alice Weidel, en av lederne i ytre høyre-partiet Alternativ for Tyskland (AfD) beskriver nattens valgseier i delstaten Sachsen-Anhalt som et drømmeresultat.\n\nPartiet ser ut til ende med rundt 44 prosent av stemmene i den tidligere østtyske delstaten, og Weidel hevder resultatet viser at folk vil ha endring i den politiske kursen for landet.\n\nWeidel sier partiets neste mål er å nå 40 prosent i det neste valget på nasjonalt nivå.\n\nSelv om AfD fikk suverent flest stemmer i delstaten, som har vel to millioner innbyggere, klarer de ikke få flertall alene i delstatsforsamlingen. Dermed er det ikke gitt at de vil overta styringen fordi andre partier nekter å samarbeide med dem på grunn av svært kontroversielle synspunkter.\n\nEn brakseier i tysk delstatsvalg sender sjokkbølger gjennom Europa. Dette er landets første ytre høyre-seier siden 2. verdenskrig.",
+      "excerpt": "Alice Weidel, en av lederne i ytre høyre-partiet Alternativ for Tyskland (AfD) beskriver nattens valgseier i delstaten Sachsen-Anhalt som et drømmeresultat.\n\nPartiet ser ut til ende med rundt 44 prosent av stemmene i den tidligere østtyske delstaten, og Weidel hevder resultatet viser at folk vil ha...",
+      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg3NzE3ODF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/afd_-_-et-drommeresultat-1.18016472",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-07T09:03:01.108Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788771779423.6675,
+      "title": "Regjeringen holder Pisa-pressekonferanse tirsdag tross borgfred",
+      "slug": "regjeringen-holder-pisapressekonferanse-tirsdag-tross-borgfr",
+      "content": "Resultatene fra fjorårets Pisa-undersøkelse av norske elevers ferdigheter i norsk, regning og naturfag slippes tirsdag 0930.\n\n– Kunnskapsministeren vil av respekt for kong Harald Vs begravelse i morgen avvente den politiske debatten, men vil gi sin analyse av tallene etter at forskerne har gjort tilsvarende, skriver Kunnskapsdepartementet i en melding til NRK.\n\nRegjeringens begrunnelsen for å holde pressekonferanse er at undersøkelsen offentliggjøres samtidig i alle deltakerland.\n\nUtdanningskomiteen på Stortinget inviteres også til pressekonferansen.\n\nPisa-testene måler elevers kunnskap i lesing, matematikk og naturfag. 90 land deltok ved siste gjennomføring skriver Utdanningsdirektoratet.\n\nDe aller fleste elevene som deltar, gjør dette mot slutten av 10. trinn.",
+      "excerpt": "Resultatene fra fjorårets Pisa-undersøkelse av norske elevers ferdigheter i norsk, regning og naturfag slippes tirsdag 0930.\n\n– Kunnskapsministeren vil av respekt for kong Harald Vs begravelse i morgen avvente den politiske debatten, men vil gi sin analyse av tallene etter at forskerne har gjort...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/regjeringen-holder-pisa-pressekonferanse-tirsdag-tross-borgfred-1.18016522",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-07T09:02:59.423Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1788751696667.3555,
       "title": "AfD største parti i Sachsen-Anhalt, men får ikke flertall",
       "slug": "afd-strste-parti-i-sachsenanhalt-men-fr-ikke-flertall",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-04T14:03:29.057Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1788530606475.6096,
-      "title": "Norway&#039;s UDI immigration authority website hit by cyberattack",
-      "slug": "norway039s-udi-immigration-authority-website-hit-by-cyberatt",
-      "content": "Add The Local as a preferred source\n    \n                        \n                                        \n                        The website of the Norwegian Directorate of Immigration (UDI) went offline on Friday, September 4th, after a cyberattack claimed by a pro-Russian hacker group.\n\nThe group, calling itself \"Server Killers\", claimed responsibility for the Distributed Denial of Service (DDoS) attack, Norwegian media reported.\n\nA DDoS attack occurs when multiple systems flood a target website with excessive traffic, causing the website to crash or become unavailable.\n\nEarlier this week, the same group said it had carried out similar DDoS attacks on several Norwegian universities and colleges.\n\nThis incident comes at a time of growing concern about cybersecurity and threats aimed at public sector online services in recent weeks.\n\nPeople attempting to access the official portal are met with error messages.\n\nThis means that anyone looking to obtain information on Norwegian immigration or submit paperwork will be unable to do so until the authorities resolve the issue.\n\nUDI has not yet said when the website will return to normal and services will be restored.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Add The Local as a preferred source\n    \n                        \n                                        \n                        The website of the Norwegian Directorate of Immigration (UDI) went offline on Friday, September 4th, after a cyberattack claimed by a pro-Russian hacker group.\n\nThe...",
-      "image": null,
-      "original_url": "https://www.thelocal.no/20260904/norways-udi-immigration-authority-website-hit-by-cyberattack",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-09-04T14:03:26.475Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788530603688.3704,
-      "title": "Rekordhøy dieselpris i USA",
-      "slug": "rekordhy-dieselpris-i-usa",
-      "content": "Prisen på diesel i USA nådde fredag sitt høyeste nivå i historien. Det melder bilorganisasjonen AAA, ifølge AFP.\n\nFredag er pumpeprisen i gjennomsnitt 5,85 dollar per gallon Det tilsvarer 14,42 kroner per liter.\n\nFor et år siden var prisen 3,71 dollar per gallon Det tilsvarer 9,15 kroner per liter.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Prisen på diesel i USA nådde fredag sitt høyeste nivå i historien. Det melder bilorganisasjonen AAA, ifølge AFP.\n\nFredag er pumpeprisen i gjennomsnitt 5,85 dollar per gallon Det tilsvarer 14,42 kroner per liter.\n\nFor et år siden var prisen 3,71 dollar per gallon Det tilsvarer 9,15 kroner per...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/rekordhoy-dieselpris-i-usa-1.18014603",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-04T14:03:23.688Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788530602150.3667,
-      "title": "Kilder: Witkoff og Kushner besøker Moskva og Kyiv",
-      "slug": "kilder-witkoff-og-kushner-besker-moskva-og-kyiv",
-      "content": "President Donald Trump sender i helgen Steve Witkoff og Jared Kushner til Moskva og Kyiv i et nytt forsøk på å få slutt på krigen i Ukraina.\n\nDet statlige russiske nyhetsbyrået Tass var først ute med å melde om besøket, som deretter ble bekreftet av en anonym amerikansk tjenesteperson overfor nettavisen Axios.\n\nUkrainas president Volodymyr Zelenskyj sa torsdag at de to amerikanske utsendingene var ventet i løpet av få dager. (NTB)\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "President Donald Trump sender i helgen Steve Witkoff og Jared Kushner til Moskva og Kyiv i et nytt forsøk på å få slutt på krigen i Ukraina.\n\nDet statlige russiske nyhetsbyrået Tass var først ute med å melde om besøket, som deretter ble bekreftet av en anonym amerikansk tjenesteperson overfor...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kilder_-witkoff-og-kushner-besoker-moskva-og-kyiv-1.18014661",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-04T14:03:22.151Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3442,
+    "totalFetched": 3445,
     "totalPublished": 77,
-    "lastFetch": "2026-09-07T03:28:18.679Z",
+    "lastFetch": "2026-09-07T09:03:05.052Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
