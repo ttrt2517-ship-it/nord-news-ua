@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1788992378872.2803,
+      "title": "Netanyahu saksøker Haaretz for ærekrenkelse",
+      "slug": "netanyahu-saksker-haaretz-for-rekrenkelse",
+      "content": "Bakgrunnen for søksmålet er en artikkel i avisen tidligere i uka der det hevdes at presidenten i De forente arabiske emirater advarte Netanyahu om at Hamas planla et angrep mot det sørlige Israel høsten 2023.\n\nIfølge avisens kilder ringte Mohammed bin Zayed fra presidentpalasset i Abu Dhabi noen dager før angrepet 7. oktober og fortalte at den daværende Hamas-lederen Yahya al-Sinwar planla noe stort.\n\nHaaretz fastholder på sin side at de har gode kilder som bekrefter at Netanyahu ble advart. Ifølge avisa ble tre høytstående utenlandske regjeringsrepresentanter også orientert om innholdet i samtalen.\n\nAvisa Times of Israel har også, med henvisning til egne kilder i Emiratene, fått bekreftet at telefonsamtalen der Mohammed bin Zayed advarte Netanyahu fant sted.",
+      "excerpt": "Bakgrunnen for søksmålet er en artikkel i avisen tidligere i uka der det hevdes at presidenten i De forente arabiske emirater advarte Netanyahu om at Hamas planla et angrep mot det sørlige Israel høsten 2023.\n\nIfølge avisens kilder ringte Mohammed bin Zayed fra presidentpalasset i Abu Dhabi noen...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/netanyahu-saksoker-haaretz-for-aerekrenkelse-1.18019916",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-09T22:19:38.872Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788992377381.4807,
+      "title": "200 prosent økning i datatrafikken under Kong Haralds gravferd",
+      "slug": "200-prosent-kning-i-datatrafikken-under-kong-haralds-gravfer",
+      "content": "De mest brukte appene onsdag var TikTok og Facebook. Det ble sendt 116.000 SMS og foretatt 117.000 telefonsamtaler.\n\nAntall brukere på Slottsplassen var 14.612. På strekningen fra slottet til domkirken og Akershus festning var antallet 72.324.\n\nDette er tall fra Telia, Telenor har ikke registrert tall for dagen.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026. Gravferdsseremonien er onsdag 9. september klokken 13.00.",
+      "excerpt": "De mest brukte appene onsdag var TikTok og Facebook. Det ble sendt 116.000 SMS og foretatt 117.000 telefonsamtaler.\n\nAntall brukere på Slottsplassen var 14.612. På strekningen fra slottet til domkirken og Akershus festning var antallet 72.324.\n\nDette er tall fra Telia, Telenor har ikke registrert...",
+      "image": "https://images.unsplash.com/photo-1664790660158-8470f8bc548c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg5OTIzNzd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/200-prosent-okning-i-datatrafikken-under-kong-haralds-gravferd---1.18019927",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-09T22:19:37.381Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1788992375879.9805,
+      "title": "Moldovske myndigheter: Zelenskyjs fly til Oslo forsinket av dronetrussel",
+      "slug": "moldovske-myndigheter-zelenskyjs-fly-til-oslo-forsinket-av-d",
+      "content": "Myndighetene i Moldova melder onsdag kveld, at president Volodymyr Zelenskyjs avreise til Oslo tirsdag ble forsinket på grunn av en dronetrussel.\n\n– Flyet hans ble nesten truffet av en drone da det skulle ta av fra Moldova. Det er virkeligheten han står i, sa statsminister Jonas Gahr Støre (Ap) til NRK tidligere onsdag.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Myndighetene i Moldova melder onsdag kveld, at president Volodymyr Zelenskyjs avreise til Oslo tirsdag ble forsinket på grunn av en dronetrussel.\n\n– Flyet hans ble nesten truffet av en drone da det skulle ta av fra Moldova. Det er virkeligheten han står i, sa statsminister Jonas Gahr Støre (Ap) til...",
+      "image": "https://images.unsplash.com/photo-1752583584999-9d645e9f8672?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg5OTIzNzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/-moldovske-myndigheter_-zelenskyjs-fly-til-oslo-forsinket-av-dronetrussel-1.18019950",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-09T22:19:35.879Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1788980859516.8262,
       "title": "EXPLAINED: How to appeal an immigration rejection in Norway",
       "slug": "explained-how-to-appeal-an-immigration-rejection-in-norway",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-06T23:34:36.727Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1788737675066.0933,
-      "title": "AfD-kandidat åpner for nyvalg i Sachsen-Anhalt",
-      "slug": "afdkandidat-pner-for-nyvalg-i-sachsenanhalt",
-      "content": "Toppkandidaten for ytre høyre-partiet Alternativ for Tyskland (AfD), Ulrich Siegmund, åpner for nyvalg i delstaten Sachsen-Anhalt hvis det ikke kan dannes flertall i delstatsforsamlingen.\n\nDe siste prognosene gir 44 prosent til AfD, langt foran nærmeste utfordrer, de konservative kristeligdemokratene (CDU) med 18 prosent, skriver NTB.\n\nDe store partiene i Tyskland har tidligere inngått en såkalt «brannmur-avtale»: En konsensus blant de store partiene om ikke å samarbeide med AfD etter at partiet ble valgt inn til Forbundsdagen i Berlin i 2017.",
-      "excerpt": "Toppkandidaten for ytre høyre-partiet Alternativ for Tyskland (AfD), Ulrich Siegmund, åpner for nyvalg i delstaten Sachsen-Anhalt hvis det ikke kan dannes flertall i delstatsforsamlingen.\n\nDe siste prognosene gir 44 prosent til AfD, langt foran nærmeste utfordrer, de konservative...",
-      "image": "https://images.unsplash.com/photo-1707855126609-2889a3caecfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg3Mzc2NzV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/afd-kandidat-apner-for-nyvalg-i-sachsen-anhalt-1.18016250",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-06T23:34:35.066Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788725214821.735,
-      "title": "Netanyahu beordrer evakuering av enkelte bosettinger på Vestbredden",
-      "slug": "netanyahu-beordrer-evakuering-av-enkelte-bosettinger-p-vestb",
-      "content": "Israels statsminister Benjamin Netanyahu har beordret evakuering av noen bosettinger på Vestbredden som regnes som ulovlige etter israelsk lov, ifølge finansminister Bezalel Smotrich søndag. Det melder AFP.\n\n«Så vidt jeg vet, har Netanyahu gitt instruks om å evakuere visse bosettinger», sa Smotrich, og la til at han ikke støttet tiltaket.\n\nMens alle israelske bosettinger på Vestbredden regnes som ulovlige etter folkeretten, regnes også enkelte bosettinger som er opprettet uten regjeringens godkjenning – ofte består de bare av noen få brakker – som ulovlige av Israel.\n\nVestbredden\n\nIsraelske myndigheter kontrollerer Vestbredden som har vært okkupert av Israel siden 1967, i strid med Folkeretten. Enkelte områder har begrenset palestinsk selvstyre. Store områder på Vestbredden er dominert av nye israelske bosettinger.",
-      "excerpt": "Israels statsminister Benjamin Netanyahu har beordret evakuering av noen bosettinger på Vestbredden som regnes som ulovlige etter israelsk lov, ifølge finansminister Bezalel Smotrich søndag. Det melder AFP.\n\n«Så vidt jeg vet, har Netanyahu gitt instruks om å evakuere visse bosettinger», sa...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/netanyahu-beordrer-evakuering-av-enkelte-bosettinger-pa-vestbredden-1.18016119",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-06T20:06:54.821Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788725212967.0605,
-      "title": "Trailer har fått hol i dieseltank – 500 liter diesel har rent ut i vegbana",
-      "slug": "trailer-har-ftt-hol-i-dieseltank-500-liter-diesel-har-rent-u",
-      "content": "Ein trailer har fått i hol på dieseltanken etter å ha køyrd i eit skilt ved Trengereidtunellen i Vaksdal.\n\nOm lag 500 liter diesel har rent ut og ligg i vegbana.\n\nVegtrafikksentralen har stengt både Stavenes- og Trengereidtunellen.\n\n– Vi er på veg til staden, skriv politiet klokka 19.18.\n\n– Det er lange køar på staden, opplyser Thor Andrê Snekkevik i Vegtrafikksentralen.\n\n– Det har rent ut diesel om lag i 1 km i vegbana, så det er snakk om ganske store mengder.\n\nEntreprenør, politi og brann er på staden og jobbar med å rydde opp.\n\nKor tid vegen kan opnast att er uvisst. Omkøyring er Hardangervegen fv. 49 og via Kvamskogen.\n\nLike før klokka 21 går det føre seg framleis opprydding på staden. Trafikken blir dirigert forbi i eitt køyrefelt.\n\n– Vi oppfordrar publikum til tolmod og følge avvisningane frå dirigentar på staden, skriv Misje.\n\nTrafikk og vêr i Vestland\n\nNRK gir deg dei siste meldingane om vêr- og trafikksituasjonen i Vestland fylke. Ring inn trafikktips på 55 27 57 00 (Bergen) og 57 72 42 42 (Førde).",
-      "excerpt": "Ein trailer har fått i hol på dieseltanken etter å ha køyrd i eit skilt ved Trengereidtunellen i Vaksdal.\n\nOm lag 500 liter diesel har rent ut og ligg i vegbana.\n\nVegtrafikksentralen har stengt både Stavenes- og Trengereidtunellen.\n\n– Vi er på veg til staden, skriv politiet klokka 19.18.\n\n– Det er...",
-      "image": "https://images.unsplash.com/photo-1737798388229-2524c7777c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg3MjUyMTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestland/trailer-har-fatt-hol-i-dieseltank-_-500-liter-diesel-har-rent-ut-i-vegbana---1.18016162",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-06T20:06:52.968Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3484,
+    "totalFetched": 3487,
     "totalPublished": 77,
-    "lastFetch": "2026-09-09T19:07:40.517Z",
+    "lastFetch": "2026-09-09T22:19:40.620Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
