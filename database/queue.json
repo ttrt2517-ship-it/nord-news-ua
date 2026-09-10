@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1789066774526.9602,
+      "title": "NRK erfarer: Nygård og Bjelland Eriksen går ut av regjeringen",
+      "slug": "nrk-erfarer-nygrd-og-bjelland-eriksen-gr-ut-av-regjeringen",
+      "content": "Statsminister Jonas Gahr Støre vil foreta flere endringer i regjeringen fredag.\n\nKarianne Tung går av som digitaliserings- og forvaltningsminister, Jon-Ivar Nygård går av som samferdselsminister og Andreas Bjelland Eriksen går av som klima- og miljøminister, ifølge NRKs opplysninger.\n\nSigrun Aasland blir ny klima- og miljøminister etter Bjelland Eriksen. Aasland er i dag forsknings- og høyere utdanningsminister.\n\nEndringer blant ministrene må gjøres i Kongen i statsråd. Det er fast statsråd på Slottet hver fredag klokken 11.",
+      "excerpt": "Statsminister Jonas Gahr Støre vil foreta flere endringer i regjeringen fredag.\n\nKarianne Tung går av som digitaliserings- og forvaltningsminister, Jon-Ivar Nygård går av som samferdselsminister og Andreas Bjelland Eriksen går av som klima- og miljøminister, ifølge NRKs opplysninger.\n\nSigrun...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/nrk-erfarer_-nygard-og-bjelland-eriksen-gar-ut-av-regjeringen-1.18021112",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-10T18:59:34.526Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789066773070.6177,
+      "title": "Flere døde i turistbussulykke i Sveits",
+      "slug": "flere-dde-i-turistbussulykke-i-sveits",
+      "content": "Flere personer har omkommet og et ukjent antall er skadet etter at en nederlandsk turistbuss veltet mellom Zernez og Susch i Sveits torsdag kveld.\n\nKantonpolitiet bekrefter dødsfallene, men det eksakte antallet ofre er foreløpig ikke kjent. Ulykken utløste en stor redningsaksjon med helikoptre og ambulanser. Hovedveien i Engadine-regionen er inntil videre stengt på grunn av den alvorlige ulykken.",
+      "excerpt": "Flere personer har omkommet og et ukjent antall er skadet etter at en nederlandsk turistbuss veltet mellom Zernez og Susch i Sveits torsdag kveld.\n\nKantonpolitiet bekrefter dødsfallene, men det eksakte antallet ofre er foreløpig ikke kjent. Ulykken utløste en stor redningsaksjon med helikoptre og...",
+      "image": "https://images.unsplash.com/photo-1721931358667-1de858843366?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkwNjY3NzN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flere-dode-i-turistbussulykke-i-sveits-1.18021122",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-10T18:59:33.071Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789066771561.0422,
+      "title": "Brudd i forhandlingene for SAS Link",
+      "slug": "brudd-i-forhandlingene-for-sas-link",
+      "content": "Det er brudd i tarifforhandlingene for de kabinansatte i SAS Link mellom Fellesforbundet og NHO Luftfart. Oppgjøret går nå til Riksmekleren. Det melder Fellesforbundet.\n\nFellesforbundet krever økt lønn, bedre pensjon og likebehandling med kabinansatte i hovedselskapet SAS SK.\n\n– Vi forventer en svært krevende mekling, sier forhandlingsleder Dag-Einar Sivertsen i Fellesforbundet. Dato for meklingen er foreløpig ikke fastsatt.",
+      "excerpt": "Det er brudd i tarifforhandlingene for de kabinansatte i SAS Link mellom Fellesforbundet og NHO Luftfart. Oppgjøret går nå til Riksmekleren. Det melder Fellesforbundet.\n\nFellesforbundet krever økt lønn, bedre pensjon og likebehandling med kabinansatte i hovedselskapet SAS SK.\n\n– Vi forventer en...",
+      "image": "https://images.unsplash.com/photo-1657651315999-c1d9941f1faf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkwNjY3NzF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/brudd-i-forhandlingene-for-sas-link-1.18021145",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-10T18:59:31.561Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789049229396.4265,
       "title": "Kraftig hopp i olje- og gassprisen",
       "slug": "kraftig-hopp-i-olje-og-gassprisen",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-07T19:39:52.023Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1788795272428.0227,
-      "title": "Norway&#039;s UDI immigration authority website hit by cyberattack",
-      "slug": "norway039s-udi-immigration-authority-website-hit-by-cyberatt",
-      "content": "Add The Local as a preferred source\n    \n                        \n                                        \n                        The website of the Norwegian Directorate of Immigration (UDI) went offline on Friday, September 4th, after a cyberattack claimed by a pro-Russian hacker group.\n\nThe group, calling itself \"Server Killers\", claimed responsibility for the Distributed Denial of Service (DDoS) attack, Norwegian media reported.\n\nA DDoS attack occurs when multiple systems flood a target website with excessive traffic, causing the website to crash or become unavailable.\n\nEarlier this week, the same group said it had carried out similar DDoS attacks on several Norwegian universities and colleges.\n\nThis incident comes at a time of growing concern about cybersecurity and threats aimed at public sector online services in recent weeks.\n\nPeople attempting to access the official portal are met with error messages.\n\nThis means that anyone looking to obtain information on Norwegian immigration or submit paperwork will be unable to do so until the authorities resolve the issue.\n\nUDI has not yet said when the website will return to normal and services will be restored.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Add The Local as a preferred source\n    \n                        \n                                        \n                        The website of the Norwegian Directorate of Immigration (UDI) went offline on Friday, September 4th, after a cyberattack claimed by a pro-Russian hacker group.\n\nThe...",
-      "image": null,
-      "original_url": "https://www.thelocal.no/20260904/norways-udi-immigration-authority-website-hit-by-cyberattack",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-09-07T15:34:32.428Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788795268780.036,
-      "title": "Kampfly over domkirken under kong Haralds begravelse",
-      "slug": "kampfly-over-domkirken-under-kong-haralds-begravelse",
-      "content": "Fire av Forsvarets F-35-kampfly skal gjennomføre en overflyging over Oslo domkirke i anledning kong Haralds begravelse førstkommende onsdag.\n\nDet bekrefter Luftforsvaret i en pressemelding mandag.\n\nKampflyene skal fly den såkalte missing man-formasjonen, som er en internasjonalt anerkjent hedersmarkering der ett fly bryter ut av formasjonen og stiger til værs.\n\n– Den tomme plassen i formasjonen representerer tapet, mens flyet som stiger opp, symboliserer den som nå reiser videre, opplyser Luftforsvaret.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026. Kong Haakon VIII tar valgspråket «Alt for Norge».",
-      "excerpt": "Fire av Forsvarets F-35-kampfly skal gjennomføre en overflyging over Oslo domkirke i anledning kong Haralds begravelse førstkommende onsdag.\n\nDet bekrefter Luftforsvaret i en pressemelding mandag.\n\nKampflyene skal fly den såkalte missing man-formasjonen, som er en internasjonalt anerkjent...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kampfly-over-domkirken-under-kong-haralds-begravelse-1.18017061",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-07T15:34:28.780Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1788795266970.3462,
-      "title": "Grindr inngår gigantforlik etter hiv-søksmål",
-      "slug": "grindr-inngr-gigantforlik-etter-hivsksml",
-      "content": "Datingappen Grindr har gått med på å betale 26 millioner pund til brukere som saksøkte appen for deling av ekstremt sensitiv persondata, deriblant hiv-status, med reklameselskaper.\n\nSøksmålet ble tatt ut av advokatfirmaet Austen Hays i april 2024 på vegne av 12.000 personer, skriver The Guardian.\n\nOm de 26 millioner pundene (327 millioner kroner) blir fordelt likt på alle de 12.000, mottar hver person 2167 pund (cirka 27.245 kroner).\n\nGrindr er en datingapp for skeive og hevder å ha opptil 15 millioner brukere verden over.\n\nIfølge søksmålet foregikk delingen av brukernes hiv-status og andre sensitive detaljer fram til 2020, mens selskapet var eid av et kinesisk selskap.\n\nSelskapet har fått flere store bøter i Norge for lignende personvernsbrudd.\n\nForbrukerrettigheter\n\nEU har vedtatt nye rettigheter for forbrukere som kjøper digitale tjenester og innhold. De vil også gjelde i Norge, opplyser Forbrukertilsynet. Ifølge de nye reglene skal garantier gjelde så lenge man er abonnent og kan ikke vare kortere enn to år.",
-      "excerpt": "Datingappen Grindr har gått med på å betale 26 millioner pund til brukere som saksøkte appen for deling av ekstremt sensitiv persondata, deriblant hiv-status, med reklameselskaper.\n\nSøksmålet ble tatt ut av advokatfirmaet Austen Hays i april 2024 på vegne av 12.000 personer, skriver The...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/grindr-inngar-gigantforlik-etter-hiv-soksmal-1.18017066",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-07T15:34:26.970Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3496,
+    "totalFetched": 3499,
     "totalPublished": 77,
-    "lastFetch": "2026-09-10T14:07:11.564Z",
+    "lastFetch": "2026-09-10T18:59:36.130Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
