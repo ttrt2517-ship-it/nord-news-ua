@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1789231695183.9998,
+      "title": "Modi og Xi lover å løse grensekonflikt",
+      "slug": "modi-og-xi-lover-lse-grensekonflikt",
+      "content": "Indias statsminister Narendra Modi og Kinas president Xi Jinping vil samarbeide tettere for å løse den langvarige grensekonflikten mellom landene.\n\nDet kom fram etter et møte mellom de to i New Delhi lørdag. Møtet skjedde på siden av Brics-toppmøtet, som avholdes i den indiske hovedstaden denne helgen.\n\n– Selv om landene våre er forskjellige på mange måter, er de fullt ut i stand til å støtte hverandre, oppnå gjensidig suksess og gå fremover sammen, sa Xi etter møtet. (NTB)\n\nKina\n\nKina er verdens nest mest folkerike land, og blant de eldste kontinuerlige sivilisasjonene i verden. Landet ledes av kommunistpartiet og president Xi Jinping, som er den første lederen siden formann Mao som har sittet i tre 5-årsperioder.",
+      "excerpt": "Indias statsminister Narendra Modi og Kinas president Xi Jinping vil samarbeide tettere for å løse den langvarige grensekonflikten mellom landene.\n\nDet kom fram etter et møte mellom de to i New Delhi lørdag. Møtet skjedde på siden av Brics-toppmøtet, som avholdes i den indiske hovedstaden denne...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/modi-og-xi-lover-a-lose-grensekonflikt-1.18022929",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-12T16:48:15.183Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789219411523.6455,
       "title": "Zelenskyj: Tre drepne og 37 skadde i russiske åtak",
       "slug": "zelenskyj-tre-drepne-og-37-skadde-i-russiske-tak",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-09-09T14:13:40.902Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1788963218947.2842,
-      "title": "Våpenlager eksploderte i Syria – minst 14 døde",
-      "slug": "vpenlager-eksploderte-i-syria-minst-14-dde",
-      "content": "Minst elleve personer ble skadd. Det var et midlertidig våpenlager som eksploderte i Idlib-provinsen nordvest i landet, opplyser helsedepartementet i landet.\n\nVåpenlageret lå i byen Sarmada og inneholdt våpen og annet materiell som ble brukt under den 14 år lange borgerkrigen i landet, skriver nyhetsbyrået Sana med henvisning til forsvarsdepartementet.\n\nSyria\n\n8. desember 2024 rykket opprørsstyrker inn i hovedstaden Damaskus og styrtet Assad-regimet, etter at Bashar al-Assad hadde vært ved makten i 25 år.",
-      "excerpt": "Minst elleve personer ble skadd. Det var et midlertidig våpenlager som eksploderte i Idlib-provinsen nordvest i landet, opplyser helsedepartementet i landet.\n\nVåpenlageret lå i byen Sarmada og inneholdt våpen og annet materiell som ble brukt under den 14 år lange borgerkrigen i landet, skriver...",
-      "image": "https://images.unsplash.com/photo-1659424766030-385d22f8b0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg5NjMyMTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/vapenlager-eksploderte-i-syria-_-minst-14-dode-1.18019496",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-09T14:13:38.947Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3528,
+    "totalFetched": 3529,
     "totalPublished": 77,
-    "lastFetch": "2026-09-12T13:23:33.566Z",
+    "lastFetch": "2026-09-12T16:48:16.879Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
