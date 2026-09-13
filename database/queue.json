@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1789337491415.6357,
+      "title": "Dødt løp i svensk valg, knapp ledelse til opposisjonen",
+      "slug": "ddt-lp-i-svensk-valg-knapp-ledelse-til-opposisjonen",
+      "content": "Det skiller kun ett mandat når SVT presenterer sin prognose basert på de første stemmene som er talt opp.\n\nOpposisjonspartiene på venstresiden ligger an til å få 175 mandater i Riksdagen, mot de borgerlige partienes 174, viser SVTs prognose.\n\nPrognosen ble lagt frem etter at rundt 800 av de 6626 valgkretsene var talt opp.\n\n– Slik tror vi valgresultatet vil bli, sier SVTs programleder Fouad Youcefi.\n\nSverige\n\nSøndag 13. september er det valg i Sverige. Ulf Kristersson har vært statsminister siden 2022.\nLandet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
+      "excerpt": "Det skiller kun ett mandat når SVT presenterer sin prognose basert på de første stemmene som er talt opp.\n\nOpposisjonspartiene på venstresiden ligger an til å få 175 mandater i Riksdagen, mot de borgerlige partienes 174, viser SVTs prognose.\n\nPrognosen ble lagt frem etter at rundt 800 av de 6626...",
+      "image": "https://images.unsplash.com/photo-1781634201648-f995ed73905c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkzMzc0OTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/dodt-lop-i-svensk-valg_-knapp-ledelse-til-opposisjonen-1.18023663",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-13T22:11:31.415Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789337489866.2673,
+      "title": "To lettere skadd etter elgpåkjørsel",
+      "slug": "to-lettere-skadd-etter-elgpkjrsel",
+      "content": "To personer ble lettere skadd etter at en bil kjørte på en elg på E39 ved Råbygda i Orkland søndag kveld.\n\nNødetatene fikk melding om ulykken klokken 20.43. De to involverte ble tatt med til sykehuset for en helsesjekk.\n\nElgen døde i sammenstøtet og er tatt hånd om av viltnemnda.\n\nVeien var delvis stengt etter ulykken, men trafikken dirigeres nå manuelt forbi stedet. Bilberger er ventet rundt klokken 22.30, opplyser politiet.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "To personer ble lettere skadd etter at en bil kjørte på en elg på E39 ved Råbygda i Orkland søndag kveld.\n\nNødetatene fikk melding om ulykken klokken 20.43. De to involverte ble tatt med til sykehuset for en helsesjekk.\n\nElgen døde i sammenstøtet og er tatt hånd om av viltnemnda.\n\nVeien var delvis...",
+      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkzMzc0ODl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/trondelag/to-lettere-skadd-etter-elgpakjorsel-1.18023682",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-13T22:11:29.866Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789337488212.614,
+      "title": "Israel vil frata statsborgerskapet til prisvinnende regissører",
+      "slug": "israel-vil-frata-statsborgerskapet-til-prisvinnende-regissre",
+      "content": "Israels kulturminister kaller regissørene bak en prisvinnende israelsk dokumentarfilm om Gaza for forrædere og mener de bør fratas statsborgerskapet.\n\nRegissørene Yuval Abraham og Rachel Szor står bak filmen «NAZA», der de har intervjuet israelske soldater om krigen i Gaza. Lørdag ble de tildelt juryens spesialpris under filmfestivalen i Venezia.\n\nNå anklager Israels kulturminister Miki Zohar regissørene for å «skade hjemlandet for å motta applaus fra antisemitter over hele verden».\n\n– Jeg vil handle umiddelbart for å inndra statsborgerskapet til disse avskyelige filmskaperne for forræderi mot staten, skriver Zohar på X.\n\nFilm og serier\n\nInnhold om serier og film. Du finner alle anmeldelsene hos Filmpolitiet. Her finner du alle serier i NRK TV.",
+      "excerpt": "Israels kulturminister kaller regissørene bak en prisvinnende israelsk dokumentarfilm om Gaza for forrædere og mener de bør fratas statsborgerskapet.\n\nRegissørene Yuval Abraham og Rachel Szor står bak filmen «NAZA», der de har intervjuet israelske soldater om krigen i Gaza. Lørdag ble de tildelt...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/israel-vil-frata-statsborgerskapet-til-prisvinnende-regissorer-1.18023695",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-13T22:11:28.212Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789324530858.9353,
       "title": "Sverige: - 1238 hendelser på valglokaler så langt",
       "slug": "sverige-1238-hendelser-p-valglokaler-s-langt",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-11T03:34:02.056Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789078732759.0667,
-      "title": "Kilder til NRK: Kamzy Gunaratnam ny samferdselsminister",
-      "slug": "kilder-til-nrk-kamzy-gunaratnam-ny-samferdselsminister",
-      "content": "Gunaratnam overtar for Jon-Ivar Nygård som går ut av regjeringen.\n\nHun har vært stortingsrepresentant for Oslo siden 2021. Hun var tidligere varaordfører i Oslo.\n\nEtter det NRK kjenner til blir det flere endringer i regjeringen fredag når det kalles inn til statsråd fredag klokken 11.",
-      "excerpt": "Gunaratnam overtar for Jon-Ivar Nygård som går ut av regjeringen.\n\nHun har vært stortingsrepresentant for Oslo siden 2021. Hun var tidligere varaordfører i Oslo.\n\nEtter det NRK kjenner til blir det flere endringer i regjeringen fredag når det kalles inn til statsråd fredag klokken 11.",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kilder-til-nrk_-kamzy-gunaratnam-ny-samferdselsminister-1.18021192",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-10T22:18:52.759Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789078731495.6174,
-      "title": "Kilder til NRK: Eileen Fugelsnes inn i regjering",
-      "slug": "kilder-til-nrk-eileen-fugelsnes-inn-i-regjering",
-      "content": "Fugelsnes tar over som forsknings- og høyere utdanningsminister for Sigrun Aasland.\n\nAasland blir ny klima- og miljøminister etter Andreas Bjelland Eriksen, får NRK opplyst.\n\nEndringer blant ministrene må gjøres i statsråd. Det er fast statsråd på Slottet hver fredag klokken 11.",
-      "excerpt": "Fugelsnes tar over som forsknings- og høyere utdanningsminister for Sigrun Aasland.\n\nAasland blir ny klima- og miljøminister etter Andreas Bjelland Eriksen, får NRK opplyst.\n\nEndringer blant ministrene må gjøres i statsråd. Det er fast statsråd på Slottet hver fredag klokken 11.",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kilder-til-nrk_-eileen-fugelsnes-inn-i-regjering-1.18021223",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-10T22:18:51.495Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789078730041.1152,
-      "title": "Melding om eksplosjon i en båt i Kristiansand - en til sykehus",
-      "slug": "melding-om-eksplosjon-i-en-bt-i-kristiansand-en-til-sykehus",
-      "content": "Nødetatene rykker ut etter melding om en eksplosjon i en båt som ligger til land ved Korsvikfjorden i Kristiansand.\n\n– En person er fraktet til sykehus, melder operasjonsleder Eyvind Formo i Agder politidistrikt.\n\nPolitiet har fått flere meldinger om et høyt smell i området.\n\n– Flere har beskrevet det som at huset ristet, opplyser Formo.",
-      "excerpt": "Nødetatene rykker ut etter melding om en eksplosjon i en båt som ligger til land ved Korsvikfjorden i Kristiansand.\n\n– En person er fraktet til sykehus, melder operasjonsleder Eyvind Formo i Agder politidistrikt.\n\nPolitiet har fått flere meldinger om et høyt smell i området.\n\n– Flere har beskrevet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/melding-om-eksplosjon-i-en-bat-i-kristiansand---en-til-sykehus-1.18021234",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-10T22:18:50.042Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3549,
+    "totalFetched": 3552,
     "totalPublished": 77,
-    "lastFetch": "2026-09-13T18:35:32.344Z",
+    "lastFetch": "2026-09-13T22:11:33.380Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
