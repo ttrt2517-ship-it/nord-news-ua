@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1789358031804.3884,
+      "title": "Brann i flermannsbolig i Sarpsborg",
+      "slug": "brann-i-flermannsbolig-i-sarpsborg",
+      "content": "Nødetater har rykket ut etter melding om brann i en 2 etasjers leilighetskompleks i Sarpsborg natt til mandag.\n\nAlle beboere i bygget skal ha kommet seg ut, og noen av dem får tilsyn av helsepersonell etter å ha pustet inn røyk.",
+      "excerpt": "Nødetater har rykket ut etter melding om brann i en 2 etasjers leilighetskompleks i Sarpsborg natt til mandag.\n\nAlle beboere i bygget skal ha kommet seg ut, og noen av dem får tilsyn av helsepersonell etter å ha pustet inn røyk.",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/brann-i-flermannsbolig-i-sarpsborg--1.18023715",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-14T03:53:51.804Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789358030163.0857,
+      "title": "Amazon setter samarbeidet med flyselskapet 21 Air på pause etter at et fraktefly kjørte av rullebane",
+      "slug": "amazon-setter-samarbeidet-med-flyselskapet-21-air-p-pause-et",
+      "content": "Amazon setter samarbeidet med flyselskapet 21 Air på pause etter at et fraktefly kjørte av rullebanen i Miami og drepte minst fem personer på bakken.\n\nForeløpige data fra ferdsskriveren tyder på at pilotene forsøkte å avbryte landingen før Boeing 767-flyet krasjet gjennom et gjerde og traff to kjøretøy.\n\n– Etter den tragiske hendelsen har vi besluttet å sette våre operasjoner med 21 Air på pause, opplyser Amazon.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nAmazon\n\nAmazons grunnlegger Jeff Bezos slutter som toppsjef i selskapet 5. juli, på samme dato som han grunnla seskapet i 1994. Andy Jassy overtar som toppsjef.",
+      "excerpt": "Amazon setter samarbeidet med flyselskapet 21 Air på pause etter at et fraktefly kjørte av rullebanen i Miami og drepte minst fem personer på bakken.\n\nForeløpige data fra ferdsskriveren tyder på at pilotene forsøkte å avbryte landingen før Boeing 767-flyet krasjet gjennom et gjerde og traff to...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/amazon-setter-samarbeidet-med-flyselskapet-21-air-pa-pause-etter-at-et-fraktefly-kjorte-av-rullebane-1.18023717",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-14T03:53:50.163Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789358028478.8628,
+      "title": "Mann til sykehus etter haiangrep i Australia",
+      "slug": "mann-til-sykehus-etter-haiangrep-i-australia",
+      "content": "En mann i 50-årene ble mandag sendt til sykehus etter å ha blitt angrepet av en hai i Vest-Australia.\n\nMyndighetene i Western Australia sier de fikk melding om angrepet litt før klokken 10 mandag formiddag.\n\nHendelsen skjedde ved Glenfield Beach, rundt 250 kilometer nord for delstatshovedstaden Perth.\n\nFolk i området blir bedt om å være ekstra forsiktige rundt stranden der angrepet skjedde.\n\nAustralske forskere tror mer trengsel og stigende havtemperaturer endrer haienes forflytningsmønster, noe som kan bidra til at det blir flere angrep. (NTB)\n\nAustralia\n\nSosialdemokraten Anthony Albanese overtok som statsminister etter Scott Morrison etter valget 21. mai 2022. Albanese har lovet å trappe opp klimakampen, men han vil ikke love å stenge kullgruvene i landet.",
+      "excerpt": "En mann i 50-årene ble mandag sendt til sykehus etter å ha blitt angrepet av en hai i Vest-Australia.\n\nMyndighetene i Western Australia sier de fikk melding om angrepet litt før klokken 10 mandag formiddag.\n\nHendelsen skjedde ved Glenfield Beach, rundt 250 kilometer nord for delstatshovedstaden...",
+      "image": "https://images.unsplash.com/photo-1697308364285-994346ce5e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkzNTgwMjh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-til-sykehus-etter-haiangrep-i-australia-1.18023723",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-14T03:53:48.478Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789337491415.6357,
       "title": "Dødt løp i svensk valg, knapp ledelse til opposisjonen",
       "slug": "ddt-lp-i-svensk-valg-knapp-ledelse-til-opposisjonen",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-11T08:42:12.675Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789097645295.009,
-      "title": "Minst fem drept i russisk angrep mot kjøpesenter i Ukraina",
-      "slug": "minst-fem-drept-i-russisk-angrep-mot-kjpesenter-i-ukraina",
-      "content": "Minst fem personer ble drept og 67 såret i et russisk angrep mot et kjøpesenter i Pavlohrad i Dnipropetrovsk regionen torsdag.\n\nAngrepet fant sted midt på dagen, da det var mange mennesker i området.\n\nOnsdag ble et kjøpesenter i Sumy rammet av russisk angrep, der to personer mistet livet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Minst fem personer ble drept og 67 såret i et russisk angrep mot et kjøpesenter i Pavlohrad i Dnipropetrovsk regionen torsdag.\n\nAngrepet fant sted midt på dagen, da det var mange mennesker i området.\n\nOnsdag ble et kjøpesenter i Sumy rammet av russisk angrep, der to personer mistet livet.\n\nKrigen i...",
-      "image": "https://images.unsplash.com/photo-1732362129913-88a5a52958cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkwOTc2NDV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/minst-fem-drept-i-russisk-angrep-mot-kjopesenter-i-ukraina-1.18021276",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-11T03:34:05.295Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789097643629.7183,
-      "title": "JD Vance: – Demokratene er «hatets parti»",
-      "slug": "jd-vance-demokratene-er-hatets-parti",
-      "content": "USAs visepresident JD Vance holdt en tale på republikanernes landsmøte i Dallas i natt.\n\nVance gikk hardt ut mot Demokratene og kalte dem «hatets parti».\n\n– Demokratene er «hatets parti». De er partiet som forakter Amerika og menneskene som bygde det. De er partiet som kan føle sympati for terroristene som utførte 11. september, sa Vance.\n\nUnder talen rettet han oppmerksomheten mot en demonstrant som forstyrret arrangementet og viftet med et meksikansk flagg.\n\n– Om du elsker Mexico så høyt, så kom deg dit. Jeg skal spandere flybilletten på deg, sa Vance.\n\nVisepresidenten ble også personlig og reflekterte over rollen sin som nybakt far. Han understreket at USA må satse på amerikanske barnefamilier.\n\nHan hedret den konservative aktivisten Charlie Kirk, som ble skutt og drept for ett år siden under et arrangement ved et universitet i delstaten Utah.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "USAs visepresident JD Vance holdt en tale på republikanernes landsmøte i Dallas i natt.\n\nVance gikk hardt ut mot Demokratene og kalte dem «hatets parti».\n\n– Demokratene er «hatets parti». De er partiet som forakter Amerika og menneskene som bygde det. De er partiet som kan føle sympati for...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/jd-vance_-_-demokratene-er-_hatets-parti_-1.18021278",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-11T03:34:03.629Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789097642056.614,
-      "title": "Eldre kvinne funnet etter leteaksjon i Sykkylven",
-      "slug": "eldre-kvinne-funnet-etter-leteaksjon-i-sykkylven",
-      "content": "Den eldre kvinnen som ble meldt savnet i Sykkylven i Møre og Romsdal ble funnet av en hundeekvipasje ved 03-tiden natt til fredag.\n\n– Kvinnen har det etter forholdene bra og blir tilsett av helse, opplyser Møre og Romsdal politidistrikt.\n\nMannskaper fra Norsk Folkehjelp, Røde Kors og norske redningshunder har bistått politiet med søk fra torsdag kveld og helt til kvinnen ble funnet i natt.\n\nDen sakna kvinna i 80-åra vart natt til fredag funnen av ein hundeekvipasje etter ein omfattande leiteaksjon på Fjellsætra i Sykkylven.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
-      "excerpt": "Den eldre kvinnen som ble meldt savnet i Sykkylven i Møre og Romsdal ble funnet av en hundeekvipasje ved 03-tiden natt til fredag.\n\n– Kvinnen har det etter forholdene bra og blir tilsett av helse, opplyser Møre og Romsdal politidistrikt.\n\nMannskaper fra Norsk Folkehjelp, Røde Kors og norske...",
-      "image": "https://images.unsplash.com/photo-1783521512130-31934b7c49b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkwOTc2NDF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/eldre-kvinne-funnet-etter-leteaksjon-i-sykkylven-1.18021281",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-11T03:34:02.056Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3552,
+    "totalFetched": 3555,
     "totalPublished": 77,
-    "lastFetch": "2026-09-13T22:11:33.380Z",
+    "lastFetch": "2026-09-14T03:53:53.432Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
