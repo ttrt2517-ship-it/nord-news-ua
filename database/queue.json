@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1789431736887.4106,
+      "title": "Mitch McConnell (84) tilbake i Senatet",
+      "slug": "mitch-mcconnell-84-tilbake-i-senatet",
+      "content": "Den republikanske senatoren Mitch McConnell er tilbake i kongressbygningen i Washington D.C. etter et lengre sykefravær.\n\n84-åringen ble lagt inn på sykehus i midten av juni.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Den republikanske senatoren Mitch McConnell er tilbake i kongressbygningen i Washington D.C. etter et lengre sykefravær.\n\n84-åringen ble lagt inn på sykehus i midten av juni.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/mitch-mcconnell-_84_-tilbake-i-senatet-1.18024909",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-15T00:22:16.887Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789421786631.7712,
       "title": "Macklemore droppet fra Ed Sheeran-turné",
       "slug": "macklemore-droppet-fra-ed-sheeranturn",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-09-11T22:18:52.345Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789165130652.4128,
-      "title": "En person til sykehus etter voldshendelse i Bergen sentrum",
-      "slug": "en-person-til-sykehus-etter-voldshendelse-i-bergen-sentrum",
-      "content": "En person er fraktet til sykehus for nærmere undersøkelser etter en voldshendelse i Bergen sentrum fredag kveld.\n\nPolitiet fikk melding om slagsmål mellom flere personer, og at en person lå på bakken, bevisst og med ukjent skadeomfang, melder operasjonsleder Steinar Hausvik i Vest politidistrikt klokken 23.28.",
-      "excerpt": "En person er fraktet til sykehus for nærmere undersøkelser etter en voldshendelse i Bergen sentrum fredag kveld.\n\nPolitiet fikk melding om slagsmål mellom flere personer, og at en person lå på bakken, bevisst og med ukjent skadeomfang, melder operasjonsleder Steinar Hausvik i Vest politidistrikt...",
-      "image": "https://images.unsplash.com/photo-1693467084173-2071521fda73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkxNjUxMzB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/en-person-til-sykehus-etter-voldshendelse-i-bergen-sentrum-1.18022519",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-11T22:18:50.653Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3565,
+    "totalFetched": 3566,
     "totalPublished": 77,
-    "lastFetch": "2026-09-14T21:36:28.403Z",
+    "lastFetch": "2026-09-15T00:22:18.958Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
