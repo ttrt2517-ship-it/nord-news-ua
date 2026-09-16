@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1789564399548.437,
+      "title": "Russland bekrefter nødbluss",
+      "slug": "russland-bekrefter-ndbluss",
+      "content": "Det russiske forsvarsdepartementet bekrefter at et russisk krigsfartøy skjøt to nødbluss mot et dansk militærhelikopter.\n\nDepartementet sier dette ble gjort som en reaksjon på det de kaller en «provokasjon».\n\nKommandøren på skipet har blitt dekorert for dette, melder russiske myndigheter.\n\nDet danske forsvaret har meldt at helikopteret var på et rutineoppdrag for å fotografere den russiske fregatten utenfor Gedser, sør-øst i Danmark.",
+      "excerpt": "Det russiske forsvarsdepartementet bekrefter at et russisk krigsfartøy skjøt to nødbluss mot et dansk militærhelikopter.\n\nDepartementet sier dette ble gjort som en reaksjon på det de kaller en «provokasjon».\n\nKommandøren på skipet har blitt dekorert for dette, melder russiske myndigheter.\n\nDet...",
+      "image": "https://images.unsplash.com/photo-1623831134835-adb937642c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk1NjQzOTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/russland-bekrefter-nodbluss-1.18026713",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-16T13:13:19.548Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789564397995.4985,
+      "title": "Vy innstiller bussar etter fleire skyteepisodar på Holsnøy",
+      "slug": "vy-innstiller-bussar-etter-fleire-skyteepisodar-p-holsny",
+      "content": "Busselskapet Vy har vedteke å stanse all busstrafikk på strekninga mellom Espetveit og Ådland på Holsnøy, skriv avisa Nordhordland. Avgjerda kjem etter at ei bussrute vart pulverisert av eit prosjektil tysdag ettermiddag.\n\nDette er den sjette gongen på kort tid at ein buss har vorte råka av liknande hendingar på akkurat same stad og tidspunkt. Kvar gong har det vore ruta like bak sjåføren som har vorte treft.\n\nIngen personar kom til skade i hendinga tysdag. Politiet har førebels ingen konkrete mistenkte.\n\nInnstillinga gjer at ni busstopp no er stengde, noko som blant anna råkar skuleelevar i området.\n\nKrim og hendingar i Vestland\n\nDet siste frå politiloggen og andre hendingar i Vestland fylke.",
+      "excerpt": "Busselskapet Vy har vedteke å stanse all busstrafikk på strekninga mellom Espetveit og Ådland på Holsnøy, skriv avisa Nordhordland. Avgjerda kjem etter at ei bussrute vart pulverisert av eit prosjektil tysdag ettermiddag.\n\nDette er den sjette gongen på kort tid at ein buss har vorte råka av...",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestland/vy-innstiller-bussar-etter-fleire-skyteepisodar-pa-holsnoy-1.18026926",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-16T13:13:17.996Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789564396427.2712,
+      "title": "Kongefamilien deltar i prinsesse Astrids gravferd",
+      "slug": "kongefamilien-deltar-i-prinsesse-astrids-gravferd",
+      "content": "Hele kongefamilien, med unntak av prins Sverre Magnus, deltar i prinsesse Astrids gravferd neste uke.\n\nDer står det at kong Haakon, dronning Mette-Marit, kronprinsesse Ingrid Alexandra og dronning Sonja skal være til stede. I tillegg står det øvrig familie.\n\nPrins Sverre Magnus nevnes ikke. I sommer ble det kjent at han i høst skulle flytte til Lisboa i Portugal for å studere.\n\nPrinsesse Astrid (94) sovnet inn fredag i forrige uke. Hun gikk bort nøyaktig to uker etter sin lillebror, kong Harald – og bare to dager etter at hun deltok i hans gravferd.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026.",
+      "excerpt": "Hele kongefamilien, med unntak av prins Sverre Magnus, deltar i prinsesse Astrids gravferd neste uke.\n\nDer står det at kong Haakon, dronning Mette-Marit, kronprinsesse Ingrid Alexandra og dronning Sonja skal være til stede. I tillegg står det øvrig familie.\n\nPrins Sverre Magnus nevnes ikke. I...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/kongefamilien-deltar-i-prinsesse-astrids-gravferd-1.18026922",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-16T13:13:16.427Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789543332675.7708,
       "title": "Arlanda kåret til Europas mest punktlige flyplass i sommer",
       "slug": "arlanda-kret-til-europas-mest-punktlige-flyplass-i-sommer",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-13T03:45:48.234Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789256988748.615,
-      "title": "Ni personer drept i russiske angrep mot Ukraina",
-      "slug": "ni-personer-drept-i-russiske-angrep-mot-ukraina",
-      "content": "Ni personer ble drept og flere såret i russiske angrep mot Ukraina lørdag, ifølge lokale myndigheter.\n\nBåde boliger og infrastruktur ble ødelagt flere steder.\n\nI byen Kramatorsk ble tre personer drept i tre ulike angrep i løpet av halvannen time.\n\n– Dette er ikke militære mål. Det er vanlige sivile biler, med folk som gjør sine dagligdagse ting, står det i en uttalelse fra byrådet.\n\nI regionen Zhytomyr mistet to personer livet i en dagligvarebutikk da angrepet fant sted. Og i byen Kryvyj Rih ble to personer drept natt til lørdag.\n\nNatt til søndag går flyalarmen flere steder, og i byen Odesa har en fleretasjes bygning blitt truffet.\n\nMyndighetene oppfordrer folk til å holde seg i tilfluktsrom.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ni personer ble drept og flere såret i russiske angrep mot Ukraina lørdag, ifølge lokale myndigheter.\n\nBåde boliger og infrastruktur ble ødelagt flere steder.\n\nI byen Kramatorsk ble tre personer drept i tre ulike angrep i løpet av halvannen time.\n\n– Dette er ikke militære mål. Det er vanlige sivile...",
-      "image": "https://images.unsplash.com/photo-1727625801807-06a38a752b8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkyNTY5ODh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/ni-personer-drept-i-russiske-angrep-mot-ukraina-1.18023125",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-12T23:49:48.748Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789256987085.838,
-      "title": "Én pågrepet etter vold mot offentlig tjenesteperson i Bodø",
-      "slug": "n-pgrepet-etter-vold-mot-offentlig-tjenesteperson-i-bod",
-      "content": "Én person i 30-årene har blitt pågrepet etter vold mot offentlig tjenesteperson i Bodø sentrum natt til søndag.\n\nTjenestepersonen er lettere skadd og blir undersøkt av helsepersonell, opplyser politiet i Nordland klokken 00.50",
-      "excerpt": "Én person i 30-årene har blitt pågrepet etter vold mot offentlig tjenesteperson i Bodø sentrum natt til søndag.\n\nTjenestepersonen er lettere skadd og blir undersøkt av helsepersonell, opplyser politiet i Nordland klokken 00.50",
-      "image": "https://images.unsplash.com/photo-1783521512130-31934b7c49b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkyNTY5ODd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/en-pagrepet-etter-vold-mot-offentlig-tjenesteperson-i-bodo-1.18023127",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-12T23:49:47.085Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789256985428.0054,
-      "title": "Gutt til sykehus etter elsparkesykkel-velt i Bergen",
-      "slug": "gutt-til-sykehus-etter-elsparkesykkelvelt-i-bergen",
-      "content": "En gutt er fraktet til sykehus for nærmere undersøkelser etter å ha falt av en elsparkesykkel inne i Glaskartunnelen i Bergen like over midnatt natt til søndag. Gutten var oppegående.\n\nDen andre involverte har kjørt videre på elsparkesykkelen, melder operasjonsleder Steinar Hausvik i Vest politidistrikt.",
-      "excerpt": "En gutt er fraktet til sykehus for nærmere undersøkelser etter å ha falt av en elsparkesykkel inne i Glaskartunnelen i Bergen like over midnatt natt til søndag. Gutten var oppegående.\n\nDen andre involverte har kjørt videre på elsparkesykkelen, melder operasjonsleder Steinar Hausvik i Vest...",
-      "image": "https://images.unsplash.com/photo-1770566456508-7ac19166da25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkyNTY5ODV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/gutt-til-sykehus-etter-elsparkesykkel-velt-i-bergen-1.18023130",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-12T23:49:45.428Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3582,
+    "totalFetched": 3585,
     "totalPublished": 77,
-    "lastFetch": "2026-09-16T07:22:14.570Z",
+    "lastFetch": "2026-09-16T13:13:21.242Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
