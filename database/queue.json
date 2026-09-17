@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1789603855674.163,
+      "title": "Trump: Har fortsatt tillit til sentralbanksjefen",
+      "slug": "trump-har-fortsatt-tillit-til-sentralbanksjefen",
+      "content": "USAs president Donald Trump svarer «ja» på spørsmålet om han fortsatt har tillit til sentralbanksjef Kevin Warsh.\n\nDet ble klart da han møtte pressen natt til torsdag, noen timer etter at det ble kjent at sentralbanken hever den amerikanske styringsrenten.\n\n– Ja, det har jeg, svarte Trump da han ble spurt om han fortsatt har tillit til Warsh.\n\nTrump sa også at han mener Warsh bør være uavhengig.\n\nSentralbanken vedtok onsdag å heve styringsrenten med et kvart prosentpoeng, til et intervall på 3,75–4,00 prosent.\n\nDet skjer stikk i strid med Trumps eget ønske, som mener den bør gå ned. Han har reagert kraftig på rentehevingen.\n\n– Sett ned USAs rente og gjør det raskt, skriver Trump med store bokstaver på Truth Social onsdag kveld.\n\nTrump skriver at USA burde ha en rente på 1 prosent eller lavere, fordi USA – ifølge ham – har verdens beste kredittverdighet.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "USAs president Donald Trump svarer «ja» på spørsmålet om han fortsatt har tillit til sentralbanksjef Kevin Warsh.\n\nDet ble klart da han møtte pressen natt til torsdag, noen timer etter at det ble kjent at sentralbanken hever den amerikanske styringsrenten.\n\n– Ja, det har jeg, svarte Trump da han...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump_-har-fortsatt-tillit-til-sentralbanksjefen-1.18027484",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-17T00:10:55.674Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789603854156.549,
+      "title": "Medier: Eksplosjoner i Kyiv",
+      "slug": "medier-eksplosjoner-i-kyiv",
+      "content": "I Ukraina har folk i Kyiv hørt flere eksplosjoner natt til torsdag, melder nyhetsbyråene AFP og Reuters.\n\nUkrainske myndigheter har advart om mulige missilangrep,\n\n– Vi ber innbyggerne om å ta seg til nærmeste tilfluktsrom, skriver militæradministrasjonen i Kyiv på Telegram, melder AFP.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "I Ukraina har folk i Kyiv hørt flere eksplosjoner natt til torsdag, melder nyhetsbyråene AFP og Reuters.\n\nUkrainske myndigheter har advart om mulige missilangrep,\n\n– Vi ber innbyggerne om å ta seg til nærmeste tilfluktsrom, skriver militæradministrasjonen i Kyiv på Telegram, melder AFP.\n\nKrigen i...",
+      "image": "https://images.unsplash.com/photo-1599847740927-599426b94713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk2MDM4NTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/medier_-eksplosjoner-i-kyiv-1.18027485",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-17T00:10:54.156Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789603852571.036,
+      "title": "Ukrainsk boligblokk skal være truffet i luftangrep",
+      "slug": "ukrainsk-boligblokk-skal-vre-truffet-i-luftangrep",
+      "content": "En boligblokk er rammet i et russisk angrep mot den ukrainske byen Odesa, ifølge lederen for byens militærardministasjon, Serhij Lysak.\n\nDet skriver han i et innlegg på meldingstjenesten Telegram, melder Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "En boligblokk er rammet i et russisk angrep mot den ukrainske byen Odesa, ifølge lederen for byens militærardministasjon, Serhij Lysak.\n\nDet skriver han i et innlegg på meldingstjenesten Telegram, melder Reuters.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukrainsk-boligblokk-skal-vaere-truffet-i-luftangrep-1.18027487",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-17T00:10:52.571Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789593266008.1494,
       "title": "DN: Wall Street faller markant etter rentebeslutningen",
       "slug": "dn-wall-street-faller-markant-etter-rentebeslutningen",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-13T14:08:52.250Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789308530704.2478,
-      "title": "To timer valgkø i Sverige. – Folk går hjem",
-      "slug": "to-timer-valgk-i-sverige-folk-gr-hjem",
-      "content": "Det er uvanlig lange køer ved flere valglokaler i Sverige. I Umeå i Midt-Sverige, har folk stått i kø i over to timer, melder SVT.\n\n– Stemningen er ikke så bra, det er ganske litsomt faktisk, sier Johanna Fridberg. Hun sier flere har gått hjem, og at flere vurderer å gjøre det samme.\n\nKommunen sier en av årsakene er at alle valgsedlene ligger i et avlukke, der velgerne må gå inn én og én. Dermed tar det lang tid å få velgerne gjennom valglokalet.\n\nMyndighetene sier at alle som står i kø når valglokalene stenger klokken, 20, skal få brukt stemmeretten.\n\nDe har Sveriges strammeste innvandringspolitikk. Men kaprer stadig flere av stemmene deres.\n\nSverige\n\nSøndag 13. september er det valg i Sverige. Ulf Kristersson har vært statsminister siden 2022.\nLandet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "Det er uvanlig lange køer ved flere valglokaler i Sverige. I Umeå i Midt-Sverige, har folk stått i kø i over to timer, melder SVT.\n\n– Stemningen er ikke så bra, det er ganske litsomt faktisk, sier Johanna Fridberg. Hun sier flere har gått hjem, og at flere vurderer å gjøre det samme.\n\nKommunen sier...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/to-timer-valgko-i-sverige.-_-folk-gar-hjem-1.18023364",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-13T14:08:50.704Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789308529143.9502,
-      "title": "Trump: – Zelenskyj må slutte å angripe russisk diesellagre",
-      "slug": "trump-zelenskyj-m-slutte-angripe-russisk-diesellagre",
-      "content": "Ukrainas president Volodymyr Zelenskyj må stanse angrepene på russiske dieselproduksjon og drivstofflagre.\n\nKravet fra den amerikanske presidenten kom søndag, etter gjentatte ukrainske droneangrep mot russisk raffinerikapasitet.\n\n- Det er mange andre mål. Ikke bomb dieselen, sa Trump.\n\nFor en uke siden var amerikanske forhandlere i både Moskva og Kyiv for å diskutere krigen i Ukraina.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ukrainas president Volodymyr Zelenskyj må stanse angrepene på russiske dieselproduksjon og drivstofflagre.\n\nKravet fra den amerikanske presidenten kom søndag, etter gjentatte ukrainske droneangrep mot russisk raffinerikapasitet.\n\n- Det er mange andre mål. Ikke bomb dieselen, sa Trump.\n\nFor en uke...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump_-_-zelenskyj-ma-slutte-a-angripe-russisk-diesellagre-1.18023386",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-13T14:08:49.143Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789290860420.228,
-      "title": "Do families in Oslo avoid neighbourhoods with non-Western immigrants?",
-      "slug": "do-families-in-oslo-avoid-neighbourhoods-with-nonwestern-imm",
-      "content": "Add The Local as a preferred source\n    \n                        \n                                        \n                        Those living in Oslo have long perceived the city's distinct residential divisions, and new academic research now provides data to back up those impressions.\n\nA study by researchers at NOVA at Oslo Metropolitan University, published by forskning.no, investigated how families in the capital region choose where to live, revealing clear patterns.\n\nUsing data from over 20,000 family moves between 1993 and 2017, the study showed that despite city policies to encourage integration, families’ choices still lead to demographic divisions in Oslo.\n\n​Specifically, Norwegian-born parents from all income and wealth levels avoid moving to neighbourhoods with high proportions of non-Western immigrants.\n\n​Lead researcher Professor Lena Magnusson Turner said this trend is worrying. “Although policy facilitates people from different socio-economic classes living in the same neighbourhood, we see that the population chooses differently.”\n\n​Turner explained that people also look for neighbours who are similar to themselves, while less affluent families actively avoid areas where they would feel financially inferior.\n\n“When people move and have the opportunity to choose, they move to neighbourhoods where they find people who are like them. People don't seek out neighbourhoods where the inequalities are too great,” she said.\n\n​The study also established that accumulated wealth influences neighbourhood selection far more than income, leading the most affluent households to cluster in specific areas.\n\n​When looking at families with children, the study revealed that parents with daughters care more about the economic status of their neighbours than parents with sons. “We think it's about ideas parents have about protecting their girls to a greater extent, while assuming boys can handle themselves,” Turner added.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Add The Local as a preferred source\n    \n                        \n                                        \n                        Those living in Oslo have long perceived the city's distinct residential divisions, and new academic research now provides data to back up those impressions.\n\nA study...",
-      "image": null,
-      "original_url": "https://www.thelocal.no/20260904/do-families-in-oslo-avoid-neighbourhoods-with-non-western-immigrants",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-09-13T09:14:20.420Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3592,
+    "totalFetched": 3595,
     "totalPublished": 77,
-    "lastFetch": "2026-09-16T21:14:28.192Z",
+    "lastFetch": "2026-09-17T00:10:57.903Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
