@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1789679701001.52,
+      "title": "Duma-valget i Russland har startet",
+      "slug": "dumavalget-i-russland-har-startet",
+      "content": "Valglokalene lengst øst i Russland har åpnet. Det markerer starten på et tre dager langt valg som president Vladimir Putins parti etter alle solemerker vil vinne.\n\nOpposisjonelle har blitt nektet å stille partilister og tidligere valg har vært gjenstand for omfattende juks.\n\nDet skal totalt utpekes 450 representanter til Dumaen, underhuset i den russiske nasjonalforsamlingen.\n\nDe første lokalene som ble åpnet, ligger på Kamsjatka-halvøya og i Tsjukotka-regionen. Siden Russland strekker seg over ni tidssoner, åpnet valglokalene der mange timer før det samme skjer i Moskva.",
+      "excerpt": "Valglokalene lengst øst i Russland har åpnet. Det markerer starten på et tre dager langt valg som president Vladimir Putins parti etter alle solemerker vil vinne.\n\nOpposisjonelle har blitt nektet å stille partilister og tidligere valg har vært gjenstand for omfattende juks.\n\nDet skal totalt utpekes...",
+      "image": "https://images.unsplash.com/photo-1686463784519-06b2c052833b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk2Nzk3MDB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/duma-valget-i-russland-har-startet-1.18028606",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-17T21:15:01.001Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789667914913.8804,
       "title": "Fem til sykehus etter eksplosjon på skytefelt i Sverige",
       "slug": "fem-til-sykehus-etter-eksplosjon-p-skytefelt-i-sverige",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-09-14T09:39:38.505Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789358031804.3884,
-      "title": "Brann i flermannsbolig i Sarpsborg",
-      "slug": "brann-i-flermannsbolig-i-sarpsborg",
-      "content": "Nødetater har rykket ut etter melding om brann i en 2 etasjers leilighetskompleks i Sarpsborg natt til mandag.\n\nAlle beboere i bygget skal ha kommet seg ut, og noen av dem får tilsyn av helsepersonell etter å ha pustet inn røyk.",
-      "excerpt": "Nødetater har rykket ut etter melding om brann i en 2 etasjers leilighetskompleks i Sarpsborg natt til mandag.\n\nAlle beboere i bygget skal ha kommet seg ut, og noen av dem får tilsyn av helsepersonell etter å ha pustet inn røyk.",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/brann-i-flermannsbolig-i-sarpsborg--1.18023715",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-14T03:53:51.804Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3604,
+    "totalFetched": 3605,
     "totalPublished": 77,
-    "lastFetch": "2026-09-17T17:58:37.307Z",
+    "lastFetch": "2026-09-17T21:15:03.019Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
