@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1789650481839.5007,
+      "title": "Storbritannias sentralbank holder renten uendret",
+      "slug": "storbritannias-sentralbank-holder-renten-uendret",
+      "content": "Den britiske sentralbanken holder styringsrenten uendret på 3,75 prosent.\n\nI en uttalelse sier sjefen for Bank of England Andrew Bailey at det kan bli behov for å øke renten på sikt og begrunnet det med krigen mellom Iran og USA/Israel.\n\nKrigen presser prisene på energi oppover og hvis dette fører til økt inflasjon, jo mer sannsynlig er det at styringsrenten bør økes i et forsøk for å dempe inflasjonen.",
+      "excerpt": "Den britiske sentralbanken holder styringsrenten uendret på 3,75 prosent.\n\nI en uttalelse sier sjefen for Bank of England Andrew Bailey at det kan bli behov for å øke renten på sikt og begrunnet det med krigen mellom Iran og USA/Israel.\n\nKrigen presser prisene på energi oppover og hvis dette fører...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/storbritannias-sentralbank-holder-renten-uendret-1.18027991",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-17T13:08:01.839Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789650480346.8105,
+      "title": "Valget i Sverige endelig avgjort",
+      "slug": "valget-i-sverige-endelig-avgjort",
+      "content": "Ved 13.15-tiden var alle avlagte stemmer i valget i Sverige talt opp.\n\nOpptellingen viser at de rødgrønne partiene Vänsterpartiet, Socialdemokraterna, Miljöpartiet de gröna og Centern får 176 representanter i Riksdagen.\n\nDe blå samarbeidspartiene Moderaterna, Kristdemokraterna, Liberalerna og Sverigedemokraterna – som den sittende regjeringen utgår fra – får 173 representanter.\n\nSluttopptellingen førte til at Vänsterpartiet fikk en representant mer, som ble tatt fra Socialdemokraterna. Dermed ble det ingen endringer mellom blokkene.\n\nStatsminister Ulf Kristersson trekker seg som statsminister.\n\nSverige\n\nSøndag 13. september var det valg i Sverige. Ulf Kristersson har vært statsminister siden 2022.",
+      "excerpt": "Ved 13.15-tiden var alle avlagte stemmer i valget i Sverige talt opp.\n\nOpptellingen viser at de rødgrønne partiene Vänsterpartiet, Socialdemokraterna, Miljöpartiet de gröna og Centern får 176 representanter i Riksdagen.\n\nDe blå samarbeidspartiene Moderaterna, Kristdemokraterna, Liberalerna og...",
+      "image": "https://images.unsplash.com/photo-1697304200233-7131b058b365?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk2NTA0ODB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/valget-i-sverige-endelig-avgjort-1.18028093",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-17T13:08:00.346Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789650478663.1753,
+      "title": "Statsminister Ulf Kristersson går av",
+      "slug": "statsminister-ulf-kristersson-gr-av",
+      "content": "Sveriges statsminister Ulf Kristersson bekrefter at han trekker seg som statsminister, etter at alle stemmene i søndagens valg ble ferdig talt opp i ettermiddag.\n\nKristersson, som har vært statsminister siden oktober 2022, erkjenner at den sittende regjeringskonstellasjonen har tapt valget i et brev til talmannen, som er leder av Riksdagen.\n\n– Nå er det talmannen som skal lede de kommende stegene på vei mot ny regjeringsdannelse. For at det arbeidet skal kunne innledes umiddelbart, ber jeg herved om å bli avskjediget som statsminister.\n\nHan har styrt en borgerlig regjering bestående av Moderaterna, Kristdemokraterna og Liberalerna, med Sverigedemokraterna som støtteparti.\n\nNå skal opposisjonspartiene Socialdemokraterna, Vänsterpartiet, Centerpartiet og Miljöpartiet forhandle om en mulig regjeringsdannelse.\n\nSverige\n\nSøndag 13. september var det valg i Sverige. Ulf Kristersson har vært statsminister siden 2022.",
+      "excerpt": "Sveriges statsminister Ulf Kristersson bekrefter at han trekker seg som statsminister, etter at alle stemmene i søndagens valg ble ferdig talt opp i ettermiddag.\n\nKristersson, som har vært statsminister siden oktober 2022, erkjenner at den sittende regjeringskonstellasjonen har tapt valget i et...",
+      "image": "https://images.unsplash.com/photo-1663610804918-c87cd25f6040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk2NTA0Nzh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/statsminister-ulf-kristersson-gar-av--1.18027733",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-17T13:07:58.664Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789629478935.8376,
       "title": "Mekling gjenopptas i dag, mulig togstreik fra fredag morgen",
       "slug": "mekling-gjenopptas-i-dag-mulig-togstreik-fra-fredag-morgen",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-13T22:11:31.415Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789337489866.2673,
-      "title": "To lettere skadd etter elgpåkjørsel",
-      "slug": "to-lettere-skadd-etter-elgpkjrsel",
-      "content": "To personer ble lettere skadd etter at en bil kjørte på en elg på E39 ved Råbygda i Orkland søndag kveld.\n\nNødetatene fikk melding om ulykken klokken 20.43. De to involverte ble tatt med til sykehuset for en helsesjekk.\n\nElgen døde i sammenstøtet og er tatt hånd om av viltnemnda.\n\nVeien var delvis stengt etter ulykken, men trafikken dirigeres nå manuelt forbi stedet. Bilberger er ventet rundt klokken 22.30, opplyser politiet.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "To personer ble lettere skadd etter at en bil kjørte på en elg på E39 ved Råbygda i Orkland søndag kveld.\n\nNødetatene fikk melding om ulykken klokken 20.43. De to involverte ble tatt med til sykehuset for en helsesjekk.\n\nElgen døde i sammenstøtet og er tatt hånd om av viltnemnda.\n\nVeien var delvis...",
-      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkzMzc0ODl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/trondelag/to-lettere-skadd-etter-elgpakjorsel-1.18023682",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-13T22:11:29.866Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789337488212.614,
-      "title": "Israel vil frata statsborgerskapet til prisvinnende regissører",
-      "slug": "israel-vil-frata-statsborgerskapet-til-prisvinnende-regissre",
-      "content": "Israels kulturminister kaller regissørene bak en prisvinnende israelsk dokumentarfilm om Gaza for forrædere og mener de bør fratas statsborgerskapet.\n\nRegissørene Yuval Abraham og Rachel Szor står bak filmen «NAZA», der de har intervjuet israelske soldater om krigen i Gaza. Lørdag ble de tildelt juryens spesialpris under filmfestivalen i Venezia.\n\nNå anklager Israels kulturminister Miki Zohar regissørene for å «skade hjemlandet for å motta applaus fra antisemitter over hele verden».\n\n– Jeg vil handle umiddelbart for å inndra statsborgerskapet til disse avskyelige filmskaperne for forræderi mot staten, skriver Zohar på X.\n\nFilm og serier\n\nInnhold om serier og film. Du finner alle anmeldelsene hos Filmpolitiet. Her finner du alle serier i NRK TV.",
-      "excerpt": "Israels kulturminister kaller regissørene bak en prisvinnende israelsk dokumentarfilm om Gaza for forrædere og mener de bør fratas statsborgerskapet.\n\nRegissørene Yuval Abraham og Rachel Szor står bak filmen «NAZA», der de har intervjuet israelske soldater om krigen i Gaza. Lørdag ble de tildelt...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/israel-vil-frata-statsborgerskapet-til-prisvinnende-regissorer-1.18023695",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-13T22:11:28.212Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789324530858.9353,
-      "title": "Sverige: - 1238 hendelser på valglokaler så langt",
-      "slug": "sverige-1238-hendelser-p-valglokaler-s-langt",
-      "content": "Over 1000 hendelser knyttet til stemmegivning er så langt rapportert til valgmyndighetene i forbindelse med valget i Sverige søndag.\n\nDe aller fleste handler om stemmesedler, melder SVT.\n\nNytt i år er at det er obligatorisk for valgadministrasjonen å rapportere hendelser, så det er ikke mulig å sammenligne tallet med tidligere år, opplyser myndighetens pressetjeneste.",
-      "excerpt": "Over 1000 hendelser knyttet til stemmegivning er så langt rapportert til valgmyndighetene i forbindelse med valget i Sverige søndag.\n\nDe aller fleste handler om stemmesedler, melder SVT.\n\nNytt i år er at det er obligatorisk for valgadministrasjonen å rapportere hendelser, så det er ikke mulig å...",
-      "image": "https://images.unsplash.com/photo-1698083781385-a8a7069c5cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkzMjQ1MzB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/sverige_---1238-hendelser-pa-valglokaler-sa-langt-1.18023411",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-13T18:35:30.858Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3598,
+    "totalFetched": 3601,
     "totalPublished": 77,
-    "lastFetch": "2026-09-17T07:18:01.073Z",
+    "lastFetch": "2026-09-17T13:08:03.714Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
