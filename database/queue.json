@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1789705667461.1484,
+      "title": "Brukerbasert app: Diesel kostet over 30 kroner mange steder torsdag",
+      "slug": "brukerbasert-app-diesel-kostet-over-30-kroner-mange-steder-t",
+      "content": "Diesel kostet over 30 kroner literen ved 650 ulike bensinstasjoner torsdag, ifølge en brukerbasert mobilapp.\n\nDaglig leder Syver Orhagen, som driver tjenesten Drivstoffappen, sier at prisene ble registrert frem til klokken 16.49 torsdag.\n\nKartleggingen fra DrivstoffAppen er basert på at brukerne legger inn prisene de ser og bekrefter eller avkrefter priser registrert av andre, skriver TV2.\n\nHøye drivstoffpriser\n\nPå grunn av krigen i Iran, har drivstoffprisene skutt i været. Senterpartiet sikret flertall for hastebehandling av et Høyre-forslag om billigere bensin. Alle de andre rødgrønne partiene stemte imot.",
+      "excerpt": "Diesel kostet over 30 kroner literen ved 650 ulike bensinstasjoner torsdag, ifølge en brukerbasert mobilapp.\n\nDaglig leder Syver Orhagen, som driver tjenesten Drivstoffappen, sier at prisene ble registrert frem til klokken 16.49 torsdag.\n\nKartleggingen fra DrivstoffAppen er basert på at brukerne...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/-brukerbasert-app_-diesel-kostet-over-30-kroner-mange-steder-torsdag-1.18028697",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-18T04:27:47.461Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789689471721.0154,
       "title": "Riksmekleren om togmekling: – Vil beskrive den som vanskelig",
       "slug": "riksmekleren-om-togmekling-vil-beskrive-den-som-vanskelig",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-09-14T16:12:36.341Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789378785893.68,
-      "title": "Norwegian word of the day: Rente",
-      "slug": "norwegian-word-of-the-day-rente",
-      "content": "Add The Local as a preferred source\n    \n                        \n                                        \n                        Today’s word of the day should be of ‘interest’ to those who have a loan, mortgage or savings in Norway.\n\nRente is the Norwegian word for interest, meaning money paid by a borrower to a lender rather than interest in a topic or subject.\n\nIt comes originally from Middle Low German rente, also meaning interest, and Old French rente (income), via a Latin word meaning \"to give back\". It can be found in modern Swedish as ränta and in Danish as rente and is related to the English word rent.\n\nThere are a few different forms of interest worth paying attention to.\n\nThese include innskuddsrente, the interest you as a customer earn for depositing your savings with a bank, and utlånsrente, the interest you pay on borrowings.\n\nThis kind of interest can be fast rente (fixed rate) or flytende rente or variabel rente (variable rate). These rates are decided by the bank where you have your mortgage. Generally, most Norwegians have a variable rate on their mortgages – however, fixed rates have become more common in recent years.\n\nPerhaps one of the most important types of interest is the styringsrente or key interest rate, also known as the policy rate in English, which essentially decides which rates banks can deposit in and borrow money from the central bank. The Norwegian central bank is Norges Bank.\n\nRentersrente, or compound interest, is the idea that you can earn interest on your interest to make your savings grow exponentially.\n\nConversely, negativ rente, negative interest rates, can apply when interest rates get so low that banks start charging customers to deposit savings with them.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Add The Local as a preferred source\n    \n                        \n                                        \n                        Today’s word of the day should be of ‘interest’ to those who have a loan, mortgage or savings in Norway.\n\nRente is the Norwegian word for interest, meaning money paid...",
-      "image": "https://images.unsplash.com/photo-1651837063913-7ca672ca539c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkzNzg3ODV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20250207/norwegian-word-of-the-day-rente",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-09-14T09:39:45.893Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3608,
+    "totalFetched": 3609,
     "totalPublished": 77,
-    "lastFetch": "2026-09-17T23:57:53.347Z",
+    "lastFetch": "2026-09-18T04:27:49.278Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
