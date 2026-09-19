@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1789848694888.0022,
+      "title": "Politiet: Søker etter mistenkt etter påtent brann i Oslo",
+      "slug": "politiet-sker-etter-mistenkt-etter-ptent-brann-i-oslo",
+      "content": "Ifølge politiet ble en nå slukket brann på Grorud i Oslo påtent, og de søker etter en navngitt mistenkt person.\n\n11 personer har evakuert seg selv i forbindelse med brannen, ifølge operasjonsleder Roy Langengen.\n\n– To personer som slukket brannen er sjekket ut av ambulanse på stedet, skriver Langengen.\n\nDet har brent i et rom i en bolig med flere hybler, skriver politiet.",
+      "excerpt": "Ifølge politiet ble en nå slukket brann på Grorud i Oslo påtent, og de søker etter en navngitt mistenkt person.\n\n11 personer har evakuert seg selv i forbindelse med brannen, ifølge operasjonsleder Roy Langengen.\n\n– To personer som slukket brannen er sjekket ut av ambulanse på stedet, skriver...",
+      "image": "https://images.unsplash.com/photo-1695725097795-19328f75e879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk4NDg2OTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/politiet_-soker-etter-mistenkt-etter-patent-brann-i-oslo-1.18030401",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-19T20:11:34.888Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789848693250.6,
+      "title": "Kvinne påkjørt i Trondheim – fører stakk fra stedet",
+      "slug": "kvinne-pkjrt-i-trondheim-frer-stakk-fra-stedet",
+      "content": "Nødetatene har rykket ut etter melding om en trafikkulykke i Trondheim. En kvinne skal være påkjørt av en motorsykkel. Kvinnen skal være skadet, men omfanget er ukjent. Føreren har stukket av, ifølge politiet. De jobber med flere enheter på stedet.\n\nPolitiet ønsker tips dersom noen har opplysninger eller video i form av dashbordkamera. Dette gjelder strekningen mellom Lerkendal stadion og Bjørndalsbrua.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "Nødetatene har rykket ut etter melding om en trafikkulykke i Trondheim. En kvinne skal være påkjørt av en motorsykkel. Kvinnen skal være skadet, men omfanget er ukjent. Føreren har stukket av, ifølge politiet. De jobber med flere enheter på stedet.\n\nPolitiet ønsker tips dersom noen har opplysninger...",
+      "image": "https://images.unsplash.com/photo-1669576784256-28d6ee451b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk4NDg2OTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/trondelag/kvinne-pakjort-i-trondheim-_-forer-stakk-fra-stedet-1.18030367",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-19T20:11:33.250Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789848691532.7986,
+      "title": "Krever at Trump opphever utestengelsen av journalister",
+      "slug": "krever-at-trump-opphever-utestengelsen-av-journalister",
+      "content": "Presseforeningen i Det hvite hus krever at USAs president Donald Trump umiddelbart opphever utestengelsen av journalister fra CNN, MS NOW og Politico, skriver AFP.\n\n– Dagens beslutning om å inndra adgangen for journalister fra CNN, Politico og MS NOW bryter med det første grunnlovstillegget, uttaler foreningen, som representerer hundrevis av journalister som dekker Det hvite hus.\n\nDet første grunnlovstillegget sier blant annet at det skal være ytrings- og pressefrihet i USA.\n\nLørdag gjorde Trump alvor av truslene han kom med fredag om å utestenge de tre mediene fra Det hvite hus, ifølge mediene selv.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Presseforeningen i Det hvite hus krever at USAs president Donald Trump umiddelbart opphever utestengelsen av journalister fra CNN, MS NOW og Politico, skriver AFP.\n\n– Dagens beslutning om å inndra adgangen for journalister fra CNN, Politico og MS NOW bryter med det første grunnlovstillegget...",
+      "image": "https://images.unsplash.com/photo-1599847740927-599426b94713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk4NDg2OTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/krever-at-trump-opphever-utestengelsen-av-journalister-1.18030425",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-19T20:11:31.532Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789837318835.6382,
       "title": "Journalister nektet adgang til Det hvite hus lørdag",
       "slug": "journalister-nektet-adgang-til-det-hvite-hus-lrdag",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-16T13:13:19.548Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789564397995.4985,
-      "title": "Vy innstiller bussar etter fleire skyteepisodar på Holsnøy",
-      "slug": "vy-innstiller-bussar-etter-fleire-skyteepisodar-p-holsny",
-      "content": "Busselskapet Vy har vedteke å stanse all busstrafikk på strekninga mellom Espetveit og Ådland på Holsnøy, skriv avisa Nordhordland. Avgjerda kjem etter at ei bussrute vart pulverisert av eit prosjektil tysdag ettermiddag.\n\nDette er den sjette gongen på kort tid at ein buss har vorte råka av liknande hendingar på akkurat same stad og tidspunkt. Kvar gong har det vore ruta like bak sjåføren som har vorte treft.\n\nIngen personar kom til skade i hendinga tysdag. Politiet har førebels ingen konkrete mistenkte.\n\nInnstillinga gjer at ni busstopp no er stengde, noko som blant anna råkar skuleelevar i området.\n\nKrim og hendingar i Vestland\n\nDet siste frå politiloggen og andre hendingar i Vestland fylke.",
-      "excerpt": "Busselskapet Vy har vedteke å stanse all busstrafikk på strekninga mellom Espetveit og Ådland på Holsnøy, skriv avisa Nordhordland. Avgjerda kjem etter at ei bussrute vart pulverisert av eit prosjektil tysdag ettermiddag.\n\nDette er den sjette gongen på kort tid at ein buss har vorte råka av...",
-      "image": null,
-      "original_url": "https://www.nrk.no/vestland/vy-innstiller-bussar-etter-fleire-skyteepisodar-pa-holsnoy-1.18026926",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-16T13:13:17.996Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789564396427.2712,
-      "title": "Kongefamilien deltar i prinsesse Astrids gravferd",
-      "slug": "kongefamilien-deltar-i-prinsesse-astrids-gravferd",
-      "content": "Hele kongefamilien, med unntak av prins Sverre Magnus, deltar i prinsesse Astrids gravferd neste uke.\n\nDer står det at kong Haakon, dronning Mette-Marit, kronprinsesse Ingrid Alexandra og dronning Sonja skal være til stede. I tillegg står det øvrig familie.\n\nPrins Sverre Magnus nevnes ikke. I sommer ble det kjent at han i høst skulle flytte til Lisboa i Portugal for å studere.\n\nPrinsesse Astrid (94) sovnet inn fredag i forrige uke. Hun gikk bort nøyaktig to uker etter sin lillebror, kong Harald – og bare to dager etter at hun deltok i hans gravferd.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026.",
-      "excerpt": "Hele kongefamilien, med unntak av prins Sverre Magnus, deltar i prinsesse Astrids gravferd neste uke.\n\nDer står det at kong Haakon, dronning Mette-Marit, kronprinsesse Ingrid Alexandra og dronning Sonja skal være til stede. I tillegg står det øvrig familie.\n\nPrins Sverre Magnus nevnes ikke. I...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kongefamilien-deltar-i-prinsesse-astrids-gravferd-1.18026922",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-16T13:13:16.427Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789543332675.7708,
-      "title": "Arlanda kåret til Europas mest punktlige flyplass i sommer",
-      "slug": "arlanda-kret-til-europas-mest-punktlige-flyplass-i-sommer",
-      "content": "Sveriges største flyplass, Stockholm Arlanda Airport, er blitt kåret til Europas mest punktlige flyplass denne sommeren, ifølge Eurocontrol.\n\nEurocontrol, den europeiske organisasjonen for luftfartssikkerhet og lufttrafikkstyring, målte punktligheten ved Europas 40 travleste flyplasser fra 1. juni til 31. august.\n\nStockholm Arlanda Airport kom på førsteplass med en punktlighet på 82,1 prosent.\n\nOslo Lufthavn Gardermoen og Istanbul Lufthavn i Tyrkia kom på henholdsvis andre- og tredjeplass.",
-      "excerpt": "Sveriges største flyplass, Stockholm Arlanda Airport, er blitt kåret til Europas mest punktlige flyplass denne sommeren, ifølge Eurocontrol.\n\nEurocontrol, den europeiske organisasjonen for luftfartssikkerhet og lufttrafikkstyring, målte punktligheten ved Europas 40 travleste flyplasser fra 1. juni...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/arlanda-karet-til-europas-mest-punktlige-flyplass-i-sommer-1.18026340",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-16T07:22:12.675Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3631,
+    "totalFetched": 3634,
     "totalPublished": 77,
-    "lastFetch": "2026-09-19T17:02:00.460Z",
+    "lastFetch": "2026-09-19T20:11:36.852Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
