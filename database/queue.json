@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1789862186492.2048,
+      "title": "Søker to mistenkte etter knivstikking i Bodø",
+      "slug": "sker-to-mistenkte-etter-knivstikking-i-bod",
+      "content": "Politiet fikk melding klokken 20.53 om at en person var knivstukket i Bodø.\n\n– Vi har igangsatt etterforskning, og vi søker etter to mistenkte, skriver operasjonsleder Remi Johansen i politiloggen.\n\nPersonen som skal ha blitt knivstukket er nå på sykehus og skal være utenfor livsfare.\n\n– Hendelsen har skjedd innendørs, men fornærmede har tatt seg ut for å få hjelp. Det var forbipasserende som meldt til nødetatene, skriver Johansen.\n\nPolitiet, som er i gang med innledende etterforskning, mener de to mistenkte ikke er til fare for andre personer.",
+      "excerpt": "Politiet fikk melding klokken 20.53 om at en person var knivstukket i Bodø.\n\n– Vi har igangsatt etterforskning, og vi søker etter to mistenkte, skriver operasjonsleder Remi Johansen i politiloggen.\n\nPersonen som skal ha blitt knivstukket er nå på sykehus og skal være utenfor livsfare.\n\n– Hendelsen...",
+      "image": "https://images.unsplash.com/photo-1725636666190-f7cc04fd1033?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk4NjIxODZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/soker-to-mistenkte-etter-knivstikking-i-bodo-1.18030449",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-19T23:56:26.492Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789862184840.9097,
+      "title": "Saudi-Arabia bekrefter missilangrep",
+      "slug": "saudiarabia-bekrefter-missilangrep",
+      "content": "I Saudi-Arabia bekrefter myndighetene at houthi-militsen angrep landet med et ballistisk missil.\n\nMissilet ble avskåret før det traff Riyadh, sier den saudiledede militærkoalisjonen i en uttalelse lørdag, melder AFP.\n\nHouthi-opprørerne i Jemen sier de har angrepet det de kaller «sensitive mål» i Riyadh i Saudi-Arabia, skriver Reuters.\n\nSaudi-Arabia har de siste dagene vært mål for en rekke angrep fra houthi-opprørerne i Jemen. Houthiene støttes av Iran.\n\nSaudi-Arabia på sin side leder en koalisjon som deltar i borgerkrigen på regjeringsstyrkenes side.",
+      "excerpt": "I Saudi-Arabia bekrefter myndighetene at houthi-militsen angrep landet med et ballistisk missil.\n\nMissilet ble avskåret før det traff Riyadh, sier den saudiledede militærkoalisjonen i en uttalelse lørdag, melder AFP.\n\nHouthi-opprørerne i Jemen sier de har angrepet det de kaller «sensitive mål» i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/saudi-arabia-bekrefter-missilangrep-1.18030493",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-19T23:56:24.840Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789862183200.7852,
+      "title": "Ukraina: To barn blant de drepte i russisk luftangrep",
+      "slug": "ukraina-to-barn-blant-de-drepte-i-russisk-luftangrep",
+      "content": "Tre mennesker ble drept i et russisk luftangrep på tettstedet Hlevakha utenfor Kyiv, ifølge ukrainske myndigheter.\n\nIfølge politiet døde en 39 år gammel kvinne, hennes to år gamle sønn, i tillegg til en tre år gammel jente, skriver Kyiv Independent.\n\nAngrepet skjedde da en russisk drone traff et hus i Hlevakha, ifølge politiet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Tre mennesker ble drept i et russisk luftangrep på tettstedet Hlevakha utenfor Kyiv, ifølge ukrainske myndigheter.\n\nIfølge politiet døde en 39 år gammel kvinne, hennes to år gamle sønn, i tillegg til en tre år gammel jente, skriver Kyiv Independent.\n\nAngrepet skjedde da en russisk drone traff et...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukraina_-to-barn-blant-de-drepte-i-russisk-luftangrep-1.18030508",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-19T23:56:23.200Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789848694888.0022,
       "title": "Politiet: Søker etter mistenkt etter påtent brann i Oslo",
       "slug": "politiet-sker-etter-mistenkt-etter-ptent-brann-i-oslo",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-16T17:59:48.955Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789581587103.752,
-      "title": "SVT: Håpet ute for de borgerlige",
-      "slug": "svt-hpet-ute-for-de-borgerlige",
-      "content": "Det er ikke lenger mulig for de borgelige å ta igjen forspranget fra den sosialistiske opposisjonen.\n\nSVTs valgprognose viser med 99,9 prosent sikkerhet at det blir maktskifte i Sverige.\n\n– Sannsynligheten for at denne situasjonen kommer til å snu, er så lav at vi velger å slå fast at opposisjonen har flest mandater i dette valget, sier SVTs valgekspert Fouad Youcefi tidlig onsdag kveld.\n\nMandatfordelingen har svingt gjennom opptellingen, og har vist at det har vært ett mandat som skiller blokkene.\n\n99 prosent er talt opp klokken 1830. Opptellingen er ikke ferdig i 45 av landets 6626 valgdistrikter.\n\nIkke lenger mulig for de borgelige å ta igjen forspranget.\n\nSverige\n\nSøndag 13. september er det valg i Sverige. Ulf Kristersson har vært statsminister siden 2022.\nLandet ble fullverdig medlem i forsvarsalliansen Nato i mars 2024.",
-      "excerpt": "Det er ikke lenger mulig for de borgelige å ta igjen forspranget fra den sosialistiske opposisjonen.\n\nSVTs valgprognose viser med 99,9 prosent sikkerhet at det blir maktskifte i Sverige.\n\n– Sannsynligheten for at denne situasjonen kommer til å snu, er så lav at vi velger å slå fast at opposisjonen...",
-      "image": "https://images.unsplash.com/photo-1661698048430-8089caf24d39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk1ODE1ODd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/svt_-hapet-ute-for-de-borgerlige-1.18027187",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-16T17:59:47.103Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789581585480.1492,
-      "title": "Flere digitale tjenester opplevde problemer",
-      "slug": "flere-digitale-tjenester-opplevde-problemer",
-      "content": "Onsdag kveld hadde flere digitale tjenester problemer med å fungere. På flere tjenester får man ikke logget inn. Problemene er nå løst.\n\nIfølge Digitaliseringsdirektoratet var det driftsproblemer på tjenester som ID-porten, Kontakt- og reservasjonsregisteret, Maskinporten, MinID, eFormidling, ELMA, E-innsyn, Ansattporten, flere selvbetjeningsløsninger og Altinn.\n\nProblemene oppstod rundt klokken 18.25, og var løst rundt en time senere.\n\nDet har vært en rekke problemer for offentlige tjenester den siste tiden. Senest mandag var stortingets nettsider nede i flere timer.",
-      "excerpt": "Onsdag kveld hadde flere digitale tjenester problemer med å fungere. På flere tjenester får man ikke logget inn. Problemene er nå løst.\n\nIfølge Digitaliseringsdirektoratet var det driftsproblemer på tjenester som ID-porten, Kontakt- og reservasjonsregisteret, Maskinporten, MinID, eFormidling, ELMA...",
-      "image": "https://images.unsplash.com/photo-1611053307699-5f74280c0d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk1ODE1ODV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flere-digitale-tjenester-opplevde-problemer-1.18027263",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-16T17:59:45.481Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789564399548.437,
-      "title": "Russland bekrefter nødbluss",
-      "slug": "russland-bekrefter-ndbluss",
-      "content": "Det russiske forsvarsdepartementet bekrefter at et russisk krigsfartøy skjøt to nødbluss mot et dansk militærhelikopter.\n\nDepartementet sier dette ble gjort som en reaksjon på det de kaller en «provokasjon».\n\nKommandøren på skipet har blitt dekorert for dette, melder russiske myndigheter.\n\nDet danske forsvaret har meldt at helikopteret var på et rutineoppdrag for å fotografere den russiske fregatten utenfor Gedser, sør-øst i Danmark.",
-      "excerpt": "Det russiske forsvarsdepartementet bekrefter at et russisk krigsfartøy skjøt to nødbluss mot et dansk militærhelikopter.\n\nDepartementet sier dette ble gjort som en reaksjon på det de kaller en «provokasjon».\n\nKommandøren på skipet har blitt dekorert for dette, melder russiske myndigheter.\n\nDet...",
-      "image": "https://images.unsplash.com/photo-1623831134835-adb937642c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk1NjQzOTl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/russland-bekrefter-nodbluss-1.18026713",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-16T13:13:19.548Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3634,
+    "totalFetched": 3637,
     "totalPublished": 77,
-    "lastFetch": "2026-09-19T20:11:36.852Z",
+    "lastFetch": "2026-09-19T23:56:28.073Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
