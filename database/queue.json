@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1789789206558.8574,
+      "title": "Eksplosjoner hørt i Riyadh",
+      "slug": "eksplosjoner-hrt-i-riyadh",
+      "content": "Myndighetene i Saudi-Arabia aktiverte flyalarmen i hovedstaden Riyadh natt til lørdag, og eksplosjoner kunne høres i byen.\n\n– Området er truet fra luften, lød meldingen som ble sendt ut til innbyggerne i Riyadh. En stund senere varslet sivilforsvaret at faren var over.\n\nI mellomtiden meldte en AFP-journalist at det ble hørt eksplosjoner i området.\n\nDet er første gang den saudiarabiske hovedstaden er direkte berørt etter at konflikten i nabolandet Jemen ble trappet opp i juli.\n\nDe siste dagene har Saudi-Arabia vært mål for en rekke angrep fra de iranskstøttede houthi-opprørerne i Jemen. Saudi-Arabia leder en koalisjon som deltar i borgerkrigen på regjeringsstyrkenes side.\n\nSaudi-Arabia\n\nSaudi-Arabia er et dypt religiøst monarki i Midtøsten. Det islamske landet er ofte kritisert for at kvinner har svært innskrenkede rettigheter. Landet har enorme oljeforekomster.",
+      "excerpt": "Myndighetene i Saudi-Arabia aktiverte flyalarmen i hovedstaden Riyadh natt til lørdag, og eksplosjoner kunne høres i byen.\n\n– Området er truet fra luften, lød meldingen som ble sendt ut til innbyggerne i Riyadh. En stund senere varslet sivilforsvaret at faren var over.\n\nI mellomtiden meldte en...",
+      "image": "https://images.unsplash.com/photo-1662710629511-7fe0705049ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk3ODkyMDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/eksplosjoner-hort-i-riyadh-1.18029932",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-19T03:40:06.558Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789789205009.2874,
+      "title": "Trump sier sønnen har betalt tilbake for bryllupsfeiring",
+      "slug": "trump-sier-snnen-har-betalt-tilbake-for-bryllupsfeiring",
+      "content": "Donald Trump sier sønnen Donald Trump jr. har betalt tilbake pengene for to dagers bryllupsfeiring på Bahamas.\n\nFestene ble betalt av den russiske forretningsmannen Umar Kremlev, som Trump jr. og kona har omtalt som en nær venn.\n\nGaven skal ha kostet flere millioner kroner og har utløst spørsmål om etikk og mulig utenlandsk påvirkning.\n\n– Det er fullstendig tillatt, men slik jeg forstår det, så har han betalt tilbake, sa Trump til AFP.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Donald Trump sier sønnen Donald Trump jr. har betalt tilbake pengene for to dagers bryllupsfeiring på Bahamas.\n\nFestene ble betalt av den russiske forretningsmannen Umar Kremlev, som Trump jr. og kona har omtalt som en nær venn.\n\nGaven skal ha kostet flere millioner kroner og har utløst spørsmål om...",
+      "image": "https://images.unsplash.com/photo-1659424766030-385d22f8b0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk3ODkyMDR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/trump-sier-sonnen-har-betalt-tilbake-for-bryllupsfeiring-1.18029928",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-19T03:40:05.009Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789789203410.789,
+      "title": "Togstreiken: 250 innstilte avganger i helgen",
+      "slug": "togstreiken-250-innstilte-avganger-i-helgen",
+      "content": "Lørdag og søndag innstiller Vy 250 avganger som følge av den pågående togstreiken.\n\nFredag morgen gikk 46 lokomotivførere ut i streik etter at det ble brudd i meklingen mellom Norsk lokomotivførerforbund og Vy.\n\nVy opplyser at det ikke blir satt opp buss for tog når lokomotivførerne går ut i streik. De tilbyr heller ikke taxi eller fly som alternativ transport.",
+      "excerpt": "Lørdag og søndag innstiller Vy 250 avganger som følge av den pågående togstreiken.\n\nFredag morgen gikk 46 lokomotivførere ut i streik etter at det ble brudd i meklingen mellom Norsk lokomotivførerforbund og Vy.\n\nVy opplyser at det ikke blir satt opp buss for tog når lokomotivførerne går ut i...",
+      "image": "https://images.unsplash.com/photo-1783521511952-ea1405a2f5b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk3ODkyMDN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/togstreiken_-250-innstilte-avganger-i-helgen-1.18029936",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-19T03:40:03.411Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789770130688.9473,
       "title": "Trump vil kaste ut flere medier fra Det hvite hus",
       "slug": "trump-vil-kaste-ut-flere-medier-fra-det-hvite-hus",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-15T17:59:41.578Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789478068037.1511,
-      "title": "Norway&#039;s Finance Minister Stoltenberg to share security conference chairmanship",
-      "slug": "norway039s-finance-minister-stoltenberg-to-share-security-co",
-      "content": "Add The Local as a preferred source\n    \n                        \n                                        \n                        Former NATO chief Jens Stoltenberg has given up the sole chairmanship of the Munich Security Conference in order to focus on his duties as Norway's finance minister, the parties involved said on Monday.\n\nThe 67-year-old, who served as head of the transatlantic defence alliance for a decade, was appointed in 2024 to lead the annual event, one of the biggest annual gatherings on security and defence issues.\n\nBut he postponed taking up the post after being called into government by Norway's Labour Prime Minister, his friend Jonas Gahr Støre, in early 2025.\n\nOn Monday the two sides announced that Stoltenberg will ultimately share the duties of chairing the conference with German diplomat Helga Schmid.\n\n\"The handover of duties from long-time Chair Ambassador Wolfgang Ischinger to the two new co-chairs will take place in due time ahead of February 2027 to allow them to host the upcoming Munich Security Conference,\" the MSC said in a statement.\n\nNorway's finance ministry said Stoltenberg \"will not be an executive leader\" but will keep his seat on the MSC's Foundation Council.\n\n\"This will involve a more visible role, particularly during the annual conference, but beyond that, the workload related to the MSC will not change significantly for Finance Minister Stoltenberg,\" the ministry said in an email to AFP.\n\nQuoted by the Dagens Naeringsliv (DN) newspaper on Monday, Stoltenberg had said: \"For me, it is more important to be finance minister in Norway than to be the boss in Munich.\"\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Add The Local as a preferred source\n    \n                        \n                                        \n                        Former NATO chief Jens Stoltenberg has given up the sole chairmanship of the Munich Security Conference in order to focus on his duties as Norway's finance minister...",
-      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk0NzgwNjd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20260915/norways-finance-minister-stoltenberg-to-share-security-conference-chairmanship",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-09-15T13:14:28.037Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789478064017.8506,
-      "title": "Støre: Frp er hovedmotstanderen",
-      "slug": "stre-frp-er-hovedmotstanderen",
-      "content": "Statsminister Jonas Gahr Støre peker nok en gang ut Fremskrittspartiet som Arbeiderpartiets hovedmotstander ved lokalvalget neste år.\n\nI sin tale til Aps landsstyre på Gardermoen i dag viste han til at Frp nå er klart størst på borgerlig side.\n\n– De kan vinne ordførere. De kan få makt i mange kommuner og fylker over hele landet. Og viktigst av alt: Det kommer til å merkes, sa Støre.\n\nHan mener forskjellene mellom Ap og Frp er tydelige innen skolepolitikk, eldreomsorg, skatt og offentlige velferdstjenester.\n\n– Jeg understreker: De er motstandere, ikke fiender, la han til.",
-      "excerpt": "Statsminister Jonas Gahr Støre peker nok en gang ut Fremskrittspartiet som Arbeiderpartiets hovedmotstander ved lokalvalget neste år.\n\nI sin tale til Aps landsstyre på Gardermoen i dag viste han til at Frp nå er klart størst på borgerlig side.\n\n– De kan vinne ordførere. De kan få makt i mange...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/store_-frp-er-hovedmotstanderen-1.18025421",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-15T13:14:24.017Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789478062372.848,
-      "title": "Støre om skolen: Ingen quickfix",
-      "slug": "stre-om-skolen-ingen-quickfix",
-      "content": "De nye PISA-tallene viser at utviklingen i norsk skole går i feil retning når det gjelder lesing, skriving og regning, ifølge statsminister Jonas Gahr Støre.\n\n– Det finnes ingen enkel løsning eller enkelttårsak til dette. Og ingen quickfix, sa han i sin tale til Aps landsstyre på Gardermoen i dag.\n\nLikevel trakk han fram det han beskrev som digitaliseringen av skolen fra 2015 av, som en hovedforklaring.\n\n– På få år gikk vi fra bøker og noen datamaskiner – til at hver elev fikk sin egen skjerm. Det har forandret skolehverdagen. Som en lærer i ungdomsskolen sa det til meg: elevene får melkesyre i hodet etter énsides tekstlesning!\n\nMindre i norsk skole skal overlates til læreren. Statsministeren sier regjeringen vil ha sterkere statlig styring i skolen.",
-      "excerpt": "De nye PISA-tallene viser at utviklingen i norsk skole går i feil retning når det gjelder lesing, skriving og regning, ifølge statsminister Jonas Gahr Støre.\n\n– Det finnes ingen enkel løsning eller enkelttårsak til dette. Og ingen quickfix, sa han i sin tale til Aps landsstyre på Gardermoen i...",
-      "image": "https://images.unsplash.com/photo-1698171474543-00caa2d153d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk0NzgwNjJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/store-om-skolen_-ingen-quickfix-1.18025430",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-15T13:14:22.372Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3620,
+    "totalFetched": 3623,
     "totalPublished": 77,
-    "lastFetch": "2026-09-18T22:22:13.042Z",
+    "lastFetch": "2026-09-19T03:40:07.801Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
