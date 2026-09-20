@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1789929129952.4714,
+      "title": "Putins parti størst i Russland",
+      "slug": "putins-parti-strst-i-russland",
+      "content": "Regjeringspartiet Forent Russland leder med 57,54 prosent i det russiske valget, viser foreløpige resultater fra valgkommisjonen.\n\nValgdeltakelse i parlamentsvalget er på over 56 prosent, ifølge valgkommisjonen.\n\nRusslands eneste opposisjonsparti er utestengt fra helgens parlamentsvalg.\n\nPutin har beskrevet valget som en test på støtten til krigen i Ukraina, skriver Reuters. Kritikere påpeker at landets strengt kontrollerte politiske system ikke tolererer meningsmotstand.\n\nRusslands eneste opposisjonsparti er utestengt fra helgens parlamentsvalg. Men en ung mann kjemper for det han tror på og tar store sjanser.",
+      "excerpt": "Regjeringspartiet Forent Russland leder med 57,54 prosent i det russiske valget, viser foreløpige resultater fra valgkommisjonen.\n\nValgdeltakelse i parlamentsvalget er på over 56 prosent, ifølge valgkommisjonen.\n\nRusslands eneste opposisjonsparti er utestengt fra helgens parlamentsvalg.\n\nPutin har...",
+      "image": "https://images.unsplash.com/photo-1661876053803-a210980314e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MjkxMjl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/putins-parti-storst-i-russland-1.18030911",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-20T18:32:09.952Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789929128397.9707,
+      "title": "– Har gjennomført 28 angrep i Jemen",
+      "slug": "-har-gjennomfrt-28-angrep-i-jemen",
+      "content": "Houthiene i Jemen sier at Saudi-Arabia har gjennomført 28 angrep i flere områder av landet i løpet av de siste 24 timene.\n\n– Det saudiarabiske luftforsvaret jar utført 28 angrep rettet mot provinsene Taiz, Al-Jawf og Marib, ved bruk av F-15- og Typhoon-fly. De tok av fra flybasene Khamis Mushait og Taif, opplyser houthienes militære talsmann, Yahya Saree, i en uttalelse.\n\nJemen\n\nDen blodige borgerkrigen i Jemen startet i 2014 da Houthi-geriljaen tok hovedstaden Sana. Det førte til at en koalisjon ledet av Saudi-Arabia intervenerte for å støtte den internasjonalt anerkjente regjeringen.",
+      "excerpt": "Houthiene i Jemen sier at Saudi-Arabia har gjennomført 28 angrep i flere områder av landet i løpet av de siste 24 timene.\n\n– Det saudiarabiske luftforsvaret jar utført 28 angrep rettet mot provinsene Taiz, Al-Jawf og Marib, ved bruk av F-15- og Typhoon-fly. De tok av fra flybasene Khamis Mushait og...",
+      "image": "https://images.unsplash.com/photo-1753696278559-38efaeafab72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MjkxMjh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/_-har-gjennomfort-28-angrep-i-jemen-1.18030915",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-20T18:32:08.397Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789929126850.663,
+      "title": "Zelenskyj: Skal møte Trump i New York",
+      "slug": "zelenskyj-skal-mte-trump-i-new-york",
+      "content": "Ukrainas persident Volodomyr Zelenskyj sier at han akkurat har snakket med Donald Trump. De to skal ha blitt enige om å møtes i New York.\n\nZelenskyj sier også at han takket Trump for å ha signert «Lindsey Graham-forslaget» - et lovforslag om skjerpede sanksjoner mot Russland.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainas persident Volodomyr Zelenskyj sier at han akkurat har snakket med Donald Trump. De to skal ha blitt enige om å møtes i New York.\n\nZelenskyj sier også at han takket Trump for å ha signert «Lindsey Graham-forslaget» - et lovforslag om skjerpede sanksjoner mot Russland.\n\nKrigen i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/zelenskyj_-skal-mote-trump-i-new-york--1.18030926",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-20T18:32:06.850Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789918720974.681,
       "title": "Eksplosjon nær Erbil-flyplassen i Irak",
       "slug": "eksplosjon-nr-erbilflyplassen-i-irak",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-17T13:08:00.346Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789650478663.1753,
-      "title": "Statsminister Ulf Kristersson går av",
-      "slug": "statsminister-ulf-kristersson-gr-av",
-      "content": "Sveriges statsminister Ulf Kristersson bekrefter at han trekker seg som statsminister, etter at alle stemmene i søndagens valg ble ferdig talt opp i ettermiddag.\n\nKristersson, som har vært statsminister siden oktober 2022, erkjenner at den sittende regjeringskonstellasjonen har tapt valget i et brev til talmannen, som er leder av Riksdagen.\n\n– Nå er det talmannen som skal lede de kommende stegene på vei mot ny regjeringsdannelse. For at det arbeidet skal kunne innledes umiddelbart, ber jeg herved om å bli avskjediget som statsminister.\n\nHan har styrt en borgerlig regjering bestående av Moderaterna, Kristdemokraterna og Liberalerna, med Sverigedemokraterna som støtteparti.\n\nNå skal opposisjonspartiene Socialdemokraterna, Vänsterpartiet, Centerpartiet og Miljöpartiet forhandle om en mulig regjeringsdannelse.\n\nSverige\n\nSøndag 13. september var det valg i Sverige. Ulf Kristersson har vært statsminister siden 2022.",
-      "excerpt": "Sveriges statsminister Ulf Kristersson bekrefter at han trekker seg som statsminister, etter at alle stemmene i søndagens valg ble ferdig talt opp i ettermiddag.\n\nKristersson, som har vært statsminister siden oktober 2022, erkjenner at den sittende regjeringskonstellasjonen har tapt valget i et...",
-      "image": "https://images.unsplash.com/photo-1663610804918-c87cd25f6040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk2NTA0Nzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/statsminister-ulf-kristersson-gar-av--1.18027733",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-17T13:07:58.664Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789629478935.8376,
-      "title": "Mekling gjenopptas i dag, mulig togstreik fra fredag morgen",
-      "slug": "mekling-gjenopptas-i-dag-mulig-togstreik-fra-fredag-morgen",
-      "content": "Fra fredag kl. 6 kan det bli streik blant lokomotivførerne på jernbanen. Dette vil ramme tog til og fra Oslo.\n\n2. september ble Norsk Jernbaneforbund og Delta enige med Spekter/Vy om lønnsoppgjøret, men Norsk lokomotivførerforbund satte bare meklingen på pause. Torsdag starter meklingen opp igjen, på overtid.\n\nLokførerne har varslet at 46 medlemmer blir tatt ut av arbeid hvis det blir streik, de fleste av dem i Oslo og på Hamar.\n\nDette vil ifølge Vy særlig ramme linje RE10 mellom Drammen og Lillehammer, som betyr færre tog til og fra Oslo. Det vil også gå få eller ingen tog mellom Eidsvoll og Lillehammer.\n\nTog og jernbane\n\nI nær 200 år har togtrafikk på jernbane vært et viktig transportmiddel for mennesker og gods. Norges jernbanenett er på 4208 km (2017). Den samlede lengde av verdens jernbaner var i 2015 beregnet til drøyt 1 millioner km. (SNL)",
-      "excerpt": "Fra fredag kl. 6 kan det bli streik blant lokomotivførerne på jernbanen. Dette vil ramme tog til og fra Oslo.\n\n2. september ble Norsk Jernbaneforbund og Delta enige med Spekter/Vy om lønnsoppgjøret, men Norsk lokomotivførerforbund satte bare meklingen på pause. Torsdag starter meklingen opp igjen...",
-      "image": "https://images.unsplash.com/photo-1780857774274-079152a315f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk2Mjk0Nzh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/mekling-gjenopptas-i-dag_-mulig-togstreik-fra-fredag-morgen-1.18027502",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-17T07:17:58.935Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789629477175.1045,
-      "title": "Styrtregn rammet Catalonia og Valencia",
-      "slug": "styrtregn-rammet-catalonia-og-valencia",
-      "content": "I Spania søker redningsmannskapene etter en kvinne som trolig ble tatt med av vannmassene da et voldsomt regnvær onsdag rammet regionene Catalonia og Valencia. En mann er funnet omkommet.\n\nI Valencia kom det mer enn 70 millimeter nedbør i løpet av vel 30 minutter, ifølge meteorologi-tjenesten Avamet.\n\nPå grunn av fare for oversvømmelser ble tog og T-baner i byene Valencia og Barcelona stanset og busser omdirigert. Flytrafikken ble i en periode også stoppet.\n\nFotballkampen mellom Levante og Athletic Bilbao ble utsatt da vann strømmet inn i spillertunnelen og gressmatten var full av vann.\n\nDe lokale myndighetene hadde på forhånd sendt ut farevarsel på rødt nivå. Statsminister Pedro Sánchez bad innbyggerne følge «nødetatenes anbefalinger» og utvise «maksimal forsiktighet», for å unngå dødsfall.",
-      "excerpt": "I Spania søker redningsmannskapene etter en kvinne som trolig ble tatt med av vannmassene da et voldsomt regnvær onsdag rammet regionene Catalonia og Valencia. En mann er funnet omkommet.\n\nI Valencia kom det mer enn 70 millimeter nedbør i løpet av vel 30 minutter, ifølge meteorologi-tjenesten...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/styrtregn-rammet-catalonia-og-valencia-1.18027587",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-17T07:17:57.175Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3646,
+    "totalFetched": 3649,
     "totalPublished": 77,
-    "lastFetch": "2026-09-20T15:38:43.227Z",
+    "lastFetch": "2026-09-20T18:32:11.926Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
