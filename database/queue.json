@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1789983837972.6855,
+      "title": "Deler av Brønnøysundregistrene nede",
+      "slug": "deler-av-brnnysundregistrene-nede",
+      "content": "«Min Side» på Brønnøysundregistrene har vært nede siden i morges.\n\nSøkesiden ble utilgjengelig rundt samme tidspunkt som da VG la ut en sak om moské-praksis og statsstøtte. Artikkelen inneholder en guide til hvordan man kan sjekke seg selv i registrene.\n\nIfølge Frode Nordfjellmark, presseansvarlig i Brønnøysundregistrene, kan de ikke utelukke at VG-saken er årsaken til at tjenesten kneler.\n\n– Vi jobber med å rette opp feilen nå. Vi kan ikke utelukke at det er stor interesse rundt artikkelen som er årsaken, sier Nordfjellmark til NRK.\n\n– Vi håper å ha «Min Side» opp og gå igjen snart, avslutter han.",
+      "excerpt": "«Min Side» på Brønnøysundregistrene har vært nede siden i morges.\n\nSøkesiden ble utilgjengelig rundt samme tidspunkt som da VG la ut en sak om moské-praksis og statsstøtte. Artikkelen inneholder en guide til hvordan man kan sjekke seg selv i registrene.\n\nIfølge Frode Nordfjellmark, presseansvarlig...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nordland/deler-av-bronnoysundregistrene-nede-1.18031167",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-21T09:43:57.972Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789983836495.361,
+      "title": "Google får milliardbot for personvernbrudd",
+      "slug": "google-fr-milliardbot-for-personvernbrudd",
+      "content": "Det irske datatilsynet har ilagt tekgiganten en bot på 403 millioner euro, tilsvarende rundt 4,3 milliarder norske kroner.\n\nAvgjørelsen kan ankes og er derfor ikke rettskraftig.\n\nDet norske Forbrukerrådet dokumenterte i 2018 det de mente var bevis på at Google manipulerte Android-brukere til å godta omfattende sporing.\n\nI 2018 leverte Forbrukerrådet en omfattende rapport som dokumenterte hvordan Android-brukere spores. Åtte år senere svir det i lommeboka for Google.\n\nPersonvern og dataovervåkning\n\nPersonvern er rettsregler som særlig tar sikte på vern for individet. Personopplysningsloven gjør EUs personvernforordning (GDPR) til norsk lov. Datatilsynet har ansvar for at personvern og sikkerhet er ivaretatt i behandling av digitale registre.\n\nForbrukerrettigheter\n\nEU har vedtatt nye rettigheter for forbrukere som kjøper digitale tjenester og innhold. De vil også gjelde i Norge, opplyser Forbrukertilsynet. Ifølge de nye reglene skal garantier gjelde så lenge man er abonnent og kan ikke vare kortere enn to år.",
+      "excerpt": "Det irske datatilsynet har ilagt tekgiganten en bot på 403 millioner euro, tilsvarende rundt 4,3 milliarder norske kroner.\n\nAvgjørelsen kan ankes og er derfor ikke rettskraftig.\n\nDet norske Forbrukerrådet dokumenterte i 2018 det de mente var bevis på at Google manipulerte Android-brukere til å...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/google-far-milliardbot-for-personvernbrudd-1.18031317",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-21T09:43:56.495Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1789983834995.7375,
+      "title": "Støre innkalles første dag i Epstein-høringen på Stortinget",
+      "slug": "stre-innkalles-frste-dag-i-epsteinhringen-p-stortinget",
+      "content": "Statsminister Jonas Gahr Støre (Ap) skal som tidligere utenriksminister møte første dag når Stortinget starter sin to dager lange høring i Epstein-saken 30. september.\n\nDet bekrefter komitéråd Kristian Haugeland i kontroll- og konstitusjonskomiteen på Stortinget overfor NRK.\n\nOgså tidligere utenriksminister Børge Brende (H) møter til høring første dag, sammen med tidligere utenriksminister Ine Eriksen Søreide (H).\n\nUtenriksminister Espen Barth Eide (Ap) og tidligere utenriksminister Anniken Huitfeldt (Ap) møter i høringens andre dag 1. oktober.\n\nJeffrey Epstein-saken\n\nUSAs justisdepartement har offentliggjort flere millioner dokumenter i etterforskingen av den overgrepsdømte milliardæren Jeffrey Epstein. Han var tiltalt for nye overgrep mot mindreårige og menneskehandel før han i 2019 tok livet sitt i fengsel.",
+      "excerpt": "Statsminister Jonas Gahr Støre (Ap) skal som tidligere utenriksminister møte første dag når Stortinget starter sin to dager lange høring i Epstein-saken 30. september.\n\nDet bekrefter komitéråd Kristian Haugeland i kontroll- og konstitusjonskomiteen på Stortinget overfor NRK.\n\nOgså tidligere...",
+      "image": "https://images.unsplash.com/photo-1584300789093-877b1718f9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5ODM4MzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/store-innkalles-forste-dag-i-epstein-horingen-pa-stortinget-1.18031450",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-21T09:43:54.995Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1789962808328.4363,
       "title": "Mann skutt av ICE i Texas",
       "slug": "mann-skutt-av-ice-i-texas",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-18T04:27:47.461Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789689471721.0154,
-      "title": "Riksmekleren om togmekling: – Vil beskrive den som vanskelig",
-      "slug": "riksmekleren-om-togmekling-vil-beskrive-den-som-vanskelig",
-      "content": "Natt til fredag sitter Norsk Lokomotivførerforbund og Vy i samtaler hos Riksmekleren.\n\nHvis ikke partene blir enige, kan det bli togstreik på Østlandet fredag morgen.\n\n– Vi er fortsatt ikke i mål, og det er ganske mye som gjenstår for at vi skal få en enighet. Så jeg vil beskrive meklingen som vanskelig, sier riksmekler Mats Ruland til NRK i 22.30-tiden torsdag kveld.\n\nHan forklarer at partene nå møtes på nytt igjen. Det skjer etter at de ikke ble enige da de meklet i to dager tidligere i september. De ønsket da mer tid.\n\nSpekter leder meklingen på vegne av Vy, og LO leder meklingen på vegne av Norsk Lokomotivførerforbund.",
-      "excerpt": "Natt til fredag sitter Norsk Lokomotivførerforbund og Vy i samtaler hos Riksmekleren.\n\nHvis ikke partene blir enige, kan det bli togstreik på Østlandet fredag morgen.\n\n– Vi er fortsatt ikke i mål, og det er ganske mye som gjenstår for at vi skal få en enighet. Så jeg vil beskrive meklingen som...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/riksmekleren-om-togmekling_-_-vil-beskrive-den-som-vanskelig-1.18028690",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-17T23:57:51.721Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789689470257.6182,
-      "title": "Iran: Har angrepet tankskip i Hormuzstredet",
-      "slug": "iran-har-angrepet-tankskip-i-hormuzstredet",
-      "content": "Iran hevder de har angrepet et tankskip i Hormuzstredet.\n\nIfølge marinen til Irans revolusjonsgarde forsøkte tankskipet å gjøre det som beskrives som en «ulovlig passering» gjennom stredet torsdag, melder statskontrollerte iranske medier, skriver nyhetsbyrået Reuters.\n\nTankskipet skal være en oljetanker som seiler under togolesisk flagg.\n\nSkipet stanset etter at det begynte å brenne, ifølge revolusjonsgarden.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Iran hevder de har angrepet et tankskip i Hormuzstredet.\n\nIfølge marinen til Irans revolusjonsgarde forsøkte tankskipet å gjøre det som beskrives som en «ulovlig passering» gjennom stredet torsdag, melder statskontrollerte iranske medier, skriver nyhetsbyrået Reuters.\n\nTankskipet skal være en...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/iran_-har-angrepet-tankskip-i-hormuzstredet-1.18028691",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-17T23:57:50.258Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789689468694.0242,
-      "title": "Guvernør: Gruvearbeidere døde i varetekt i Nigeria",
-      "slug": "guvernr-gruvearbeidere-dde-i-varetekt-i-nigeria",
-      "content": "37 mennesker i Nigeria som var pågrepet og mistenkt for å ha jobbet ulovlig i gruver, døde mens de var i varetekt til sikkerhetsstyrker i landet.\n\nDet sier guvernøren for delstaten Niger i Nigeria, Mohammed Umaru Bago, til nigeriansk TV.\n\nDelstaten Niger, som er mer enn dobbelt så stor som Belgia, er rik på mineraler og tiltrekker seg tusenvis av gruvearbeidere, der de fleste lokkes av håpet om å finne gull, skriver AFP.\n\nNigeria\n\nNigeria er både den største økonomien og det mest folkerike landet i Afrika med en befolkning på over 200 millioner. Landet er et demokrati, men er preget av ulikhet. Nord i Nigeria skaper islamistgruppen Boko Haram stor uro.",
-      "excerpt": "37 mennesker i Nigeria som var pågrepet og mistenkt for å ha jobbet ulovlig i gruver, døde mens de var i varetekt til sikkerhetsstyrker i landet.\n\nDet sier guvernøren for delstaten Niger i Nigeria, Mohammed Umaru Bago, til nigeriansk TV.\n\nDelstaten Niger, som er mer enn dobbelt så stor som Belgia...",
-      "image": "https://images.unsplash.com/photo-1662019195281-b3e5aa5c1207?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk2ODk0Njh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/guvernor_-gruvearbeidere-dode-i-varetekt-i-nigeria-1.18028693",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-17T23:57:48.695Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3655,
+    "totalFetched": 3658,
     "totalPublished": 77,
-    "lastFetch": "2026-09-21T03:53:30.407Z",
+    "lastFetch": "2026-09-21T09:43:59.966Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
