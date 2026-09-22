@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1790037475175.4019,
+      "title": "Flytrafikken i gang igjen på USAs østkyst",
+      "slug": "flytrafikken-i-gang-igjen-p-usas-stkyst",
+      "content": "Flyene går nå som normalt på østkysten av USA, etter at tusenvis av flygninger ble stanset mandag. Den ødelagte fiberkabelen er nå reparert, opplyser USAs samferdselsminister Sean Duffy.\n\nKaoset startet da bygningsarbeidere ved et uhell kuttet over kabelen. Dette stanset all trafikk på de store flyplassene i blant annet New York, Boston og Philadelphia.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Flyene går nå som normalt på østkysten av USA, etter at tusenvis av flygninger ble stanset mandag. Den ødelagte fiberkabelen er nå reparert, opplyser USAs samferdselsminister Sean Duffy.\n\nKaoset startet da bygningsarbeidere ved et uhell kuttet over kabelen. Dette stanset all trafikk på de store...",
+      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAwMzc0NzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flytrafikken-i-gang-igjen-pa-usas-ostkyst-1.18032189",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-22T00:37:55.175Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790037473605.4443,
+      "title": "Fem meldt drept i russiske angrep i Ukraina",
+      "slug": "fem-meldt-drept-i-russiske-angrep-i-ukraina",
+      "content": "Minst fem personer er drept i russiske angrep mot Ukraina gjennom dagen mandag, ifølge lokale myndigheter.\n\nI Kharkiv-regionen nordøst i Ukraina ble en person drept og tre andre såret i et droneangrep som rammet byen Lozova, ifølge myndighetene der.\n\nLenger sør, i regionen Dnipropetrovsk, traff en drone en bil i Nikopol. Myndighetene sier at sjåføren ble drept.\n\nI Kramatorsk i regionen Donetsk ble en boligblokk påført store ødeleggelser i et russisk angrep. En person ble drept, og en annen person ble drept i en landsby i nærheten.\n\nOgså en landsby i regionen Mykolaiv ble angrepet. Der ble et tre år gammelt barn drept, ifølge lokale myndigheter.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Minst fem personer er drept i russiske angrep mot Ukraina gjennom dagen mandag, ifølge lokale myndigheter.\n\nI Kharkiv-regionen nordøst i Ukraina ble en person drept og tre andre såret i et droneangrep som rammet byen Lozova, ifølge myndighetene der.\n\nLenger sør, i regionen Dnipropetrovsk, traff en...",
+      "image": "https://images.unsplash.com/photo-1519302959554-a75be0afc82a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAwMzc0NzN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fem-meldt-drept-i-russiske-angrep-i-ukraina-1.18032210",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-22T00:37:53.605Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790037471995.8484,
+      "title": "Macron og Trump har diskutert Rødehavet og Ukraina",
+      "slug": "macron-og-trump-har-diskutert-rdehavet-og-ukraina",
+      "content": "Frankrikes president Emmanuel Macron sier at han har hatt konstruktive samtaler med USAs president Donald Trump om Ukraina og Rødehavet, skriver NTB.\n\n– Vi snakket om situasjonen i Rødehavet. Den er viktig for de globale prisene. Så hadde vi en lang diskusjon om Ukraina og Russland, sa Macron etter møtet.\n\n– Vi hadde en svært god samtale. Den var meget konstruktiv, sa den franske presidenten.",
+      "excerpt": "Frankrikes president Emmanuel Macron sier at han har hatt konstruktive samtaler med USAs president Donald Trump om Ukraina og Rødehavet, skriver NTB.\n\n– Vi snakket om situasjonen i Rødehavet. Den er viktig for de globale prisene. Så hadde vi en lang diskusjon om Ukraina og Russland, sa Macron etter...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/macron-og-trump-har-diskutert-rodehavet-og-ukraina-1.18032211",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-22T00:37:51.995Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1790027242369.8533,
       "title": "The reasons Norway might reject your Norwegian citizenship application",
       "slug": "the-reasons-norway-might-reject-your-norwegian-citizenship-a",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-19T03:40:03.411Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789770130688.9473,
-      "title": "Trump vil kaste ut flere medier fra Det hvite hus",
-      "slug": "trump-vil-kaste-ut-flere-medier-fra-det-hvite-hus",
-      "content": "Donald Trump hevder at CNN, MSNOW og Politico er utestengt fra Det hvite hus med umiddelbar virkning.\n\nHan varsler at det kan bli aktuelt å kaste ut flere medier.\n\nI fjor vinter ble nyhetsbyrået AP kastet ut fordi de nektet å omtale Mexicogolfen som Amerikagolfen.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Donald Trump hevder at CNN, MSNOW og Politico er utestengt fra Det hvite hus med umiddelbar virkning.\n\nHan varsler at det kan bli aktuelt å kaste ut flere medier.\n\nI fjor vinter ble nyhetsbyrået AP kastet ut fordi de nektet å omtale Mexicogolfen som Amerikagolfen.\n\nUSA\n\nFra 20. januar 2025 er...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump-vil-kaste-ut-flere-medier-fra-det-hvite-hus-1.18029842",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-18T22:22:10.688Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789770129064.0503,
-      "title": "Fiskebåt savnet utenfor Averøya i Møre og Romsdal",
-      "slug": "fiskebt-savnet-utenfor-averya-i-mre-og-romsdal",
-      "content": "Hovedredningssentralen har igangsatt søk etter en savnet fiskebåt utenfor Averøya, melder Hovedredningssentralen på X.\n\nDet skal være fire utenlandske turister som gikk ut for å fiske i morgentimene som ikke har returnert. Hovedredningssentralen har ikke vært i kontakt med turistene.\n\nHovedredningssentralen har sendt redningshelikopter som er i lufta over området. Et redningshelikopter til er på vei og flere båter søker etter turistene, opplyser Hovedredningssentralen til NRK.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
-      "excerpt": "Hovedredningssentralen har igangsatt søk etter en savnet fiskebåt utenfor Averøya, melder Hovedredningssentralen på X.\n\nDet skal være fire utenlandske turister som gikk ut for å fiske i morgentimene som ikke har returnert. Hovedredningssentralen har ikke vært i kontakt med...",
-      "image": "https://images.unsplash.com/photo-1692739843142-877be399d229?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk3NzAxMjh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/fiskebat-savnet-utenfor-averoya-i-more-og-romsdal-1.18029870",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-18T22:22:09.064Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789770127396.42,
-      "title": "CNN: Et ulovlig angrep på pressefriheten",
-      "slug": "cnn-et-ulovlig-angrep-p-pressefriheten",
-      "content": "CNN reagerer på Trumps ønske om å kaste ut dem, Politico og MSNOW fra Det hvite hus.\n\n– En utkastelse av mediene vil være et ulovlig angrep på pressefriheten, uttaler CNN, ifølge AFP.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "CNN reagerer på Trumps ønske om å kaste ut dem, Politico og MSNOW fra Det hvite hus.\n\n– En utkastelse av mediene vil være et ulovlig angrep på pressefriheten, uttaler CNN, ifølge AFP.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/cnn_-et-ulovlig-angrep-pa-pressefriheten-1.18029893",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-18T22:22:07.396Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3667,
+    "totalFetched": 3670,
     "totalPublished": 77,
-    "lastFetch": "2026-09-21T21:47:23.370Z",
+    "lastFetch": "2026-09-22T00:37:57.027Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
