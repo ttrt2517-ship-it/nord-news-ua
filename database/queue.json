@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1790291059082.3225,
+      "title": "Fortellerprisen 2026 går til Torbjørn Ekelund",
+      "slug": "fortellerprisen-2026-gr-til-torbjrn-ekelund",
+      "content": "Forfatter og journalist Torbjørn Ekelund tildeles Fortellerprisen 2026 for boken «Fuglenes år» og flere tekster i Harvest Magazine.\n\n– I en tid hvor faste formater, algoritmer og klikkagn styrer store deler av journalistikken, er det viktig at det finnes originale, annerledes og ekte journalistiske stemmer – og en slik har Torbjørn Ekelund, skriver juryen.\n\nDiplomet for beste tekstfortelling går til Alexander Fredriksen-Sylte, Marco Vaglieri, Mari Grafsrønningen og Ragnhild Merete Kløften i NRK for «Drapet på Laila».\n\nPrisen ble delt ut under Fortellingens kraft-konferansen i Bergen onsdag kveld.",
+      "excerpt": "Forfatter og journalist Torbjørn Ekelund tildeles Fortellerprisen 2026 for boken «Fuglenes år» og flere tekster i Harvest Magazine.\n\n– I en tid hvor faste formater, algoritmer og klikkagn styrer store deler av journalistikken, er det viktig at det finnes originale, annerledes og ekte journalistiske...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/fortellerprisen-2026-gar-til-torbjorn-ekelund-1.18036151",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-24T23:04:19.082Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790291057484.7559,
+      "title": "Antibiotikabruken går ned",
+      "slug": "antibiotikabruken-gr-ned",
+      "content": "Bruken av antibiotoka har gått ned over hele landet, viser nye nasjonale kvalitetsindikatorer fra Helsedirektoratet.\n\nDet er store forskjeller mellom sykehusene, med lavest bruk ved Nordlandssykehuset og høyest ved Sykehuset Telemark.\n\nUnder pandemien gikk antibiotikabruken markant ned, før den økte i årene etter. De siste årene har bruken vært relativt stabil, men nå peker utviklingen nedover.\n\nAntibiotika\n\nResistensen mot antibiotika øker i verden, og også i Norge. Folkehelseinstituttet advarer om at flere medisiner ikke vil virke i framtida. Målet er 30 prosent nedgang i bruk av bredspektret antibiotika på norske sykehus innen utgangen av 2020.",
+      "excerpt": "Bruken av antibiotoka har gått ned over hele landet, viser nye nasjonale kvalitetsindikatorer fra Helsedirektoratet.\n\nDet er store forskjeller mellom sykehusene, med lavest bruk ved Nordlandssykehuset og høyest ved Sykehuset Telemark.\n\nUnder pandemien gikk antibiotikabruken markant ned, før den...",
+      "image": "https://images.unsplash.com/photo-1782072712484-42dc033d64f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAyOTEwNTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/antibiotikabruken-gar-ned-1.18036143",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-24T23:04:17.485Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1790279477988.796,
       "title": "Motorsykkel traff fotgjengere i Oslo",
       "slug": "motorsykkel-traff-fotgjengere-i-oslo",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-09-21T16:18:01.041Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1790007479318.6045,
-      "title": "Enighet om Warner-overtakelse",
-      "slug": "enighet-om-warnerovertakelse",
-      "content": "Paramount har kommet til enighet med en gruppe amerikanske delstater som omsider åpner for overtakelsen av Warner Bros. Discovery, melder Wall Street Journal.\n\nAvtalen gjør at Paramount slipper å selge kabel-TV-kanaler, melder avisa. Videre heter det at resten av vilkårene ikke er kjent ennå.\n\nParamount styres av David Ellison, hvis styrtrike familie er tett allierte med USAs president Donald Trump. Selskapet ønsker å skaffe seg kontroll over Warners betydelige portefølje, med strømmetjenesten HBO Max og kanalen CNN.\n\nCalifornia, New York og ti andre delstater gikk til sak for å stanse oppkjøpet, som har en prislapp på 110 milliarder dollar, noe som tilsvarer over 1000 milliarder kroner.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Paramount har kommet til enighet med en gruppe amerikanske delstater som omsider åpner for overtakelsen av Warner Bros. Discovery, melder Wall Street Journal.\n\nAvtalen gjør at Paramount slipper å selge kabel-TV-kanaler, melder avisa. Videre heter det at resten av vilkårene ikke er kjent...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/enighet-om-warner-overtakelse-1.18031977",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-21T16:17:59.318Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790007477638.1418,
-      "title": "Mann siktet for overgrep i Bergen",
-      "slug": "mann-siktet-for-overgrep-i-bergen",
-      "content": "En mann i 30-årene er pågrepet og siktet for seksuelle overgrep mot to mindreårige jenter i Bergen.\n\nHan er siktet for voldtekt mot to barn under 14 år, som skal ha skjedd i et boligområde søndag, opplyser politiet i en pressemelding.\n\nMannen er kjent for politiet fra tidligere for forhold som omhandlet uønsket seksualisert atferd, men da ikke rettet mot barn.\n\nHan er ikke norsk statsborger, men har bodd i Bergen i mange år.",
-      "excerpt": "En mann i 30-årene er pågrepet og siktet for seksuelle overgrep mot to mindreårige jenter i Bergen.\n\nHan er siktet for voldtekt mot to barn under 14 år, som skal ha skjedd i et boligområde søndag, opplyser politiet i en pressemelding.\n\nMannen er kjent for politiet fra tidligere for forhold som...",
-      "image": "https://images.unsplash.com/photo-1619861907071-926d3117af64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAwMDc0Nzd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestland/mann-siktet-for-overgrep-i-bergen-1.18031985",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-21T16:17:57.639Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3708,
+    "totalFetched": 3710,
     "totalPublished": 77,
-    "lastFetch": "2026-09-24T19:51:20.349Z",
+    "lastFetch": "2026-09-24T23:04:21.330Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
