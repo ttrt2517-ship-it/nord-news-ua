@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1790240696538.6165,
+      "title": "SV: – Enorme konsekvenser",
+      "slug": "sv-enorme-konsekvenser",
+      "content": "– Når inflasjonen kommer utenfra, hjelper det lite at Norges Bank setter opp renta. Konsekvensene er enorme. Byggnæringa ligger med brukken rygg og barnefamilier må bruke mer på renter og lån og mindre på ungen sine. De som tjener mest på denne politikken er bankene.\n\nDet sier Marthe Hammer, SVs finanspolitiske talsperson.\n\n– Denne renteøkningen vil gjøre vondt verre for unge i etableringsfasen med høye boliglån, sier hun.\n\nNorges Bank\n\nDen norske sentralbanken har som hovedoppgave å sikre økonomisk stabilitet ved hjelp av pengepolitiske virkemidler. 1. april 2022 ble Ida Wolden Bache utnevnt i statsråd som ny sentralbanksjef.",
+      "excerpt": "– Når inflasjonen kommer utenfra, hjelper det lite at Norges Bank setter opp renta. Konsekvensene er enorme. Byggnæringa ligger med brukken rygg og barnefamilier må bruke mer på renter og lån og mindre på ungen sine. De som tjener mest på denne politikken er bankene.\n\nDet sier Marthe Hammer, SVs...",
+      "image": "https://images.unsplash.com/photo-1683797466570-ccaab622991a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAyNDA2OTZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/sv_-_-enorme-konsekvenser-1.18035219",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-24T09:04:56.538Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790240694830.4175,
+      "title": "Venstre: – Vanskelig for unge boligkjøpere",
+      "slug": "venstre-vanskelig-for-unge-boligkjpere",
+      "content": "– Det blir det enda vanskeligere for unge å komme seg inn på boligmarkedet. I Oslo har en typisk førstegangskjøper bare råd til under fire av hundre boliger som selges, sier stortingsrepresentant Grunde Almeland i Venstre.\n\nHan mener flere unge må hjelpes inn på boligmarkedet.\n\nNorges Bank\n\nDen norske sentralbanken har som hovedoppgave å sikre økonomisk stabilitet ved hjelp av pengepolitiske virkemidler. 1. april 2022 ble Ida Wolden Bache utnevnt i statsråd som ny sentralbanksjef.",
+      "excerpt": "– Det blir det enda vanskeligere for unge å komme seg inn på boligmarkedet. I Oslo har en typisk førstegangskjøper bare råd til under fire av hundre boliger som selges, sier stortingsrepresentant Grunde Almeland i Venstre.\n\nHan mener flere unge må hjelpes inn på boligmarkedet.\n\nNorges Bank\n\nDen...",
+      "image": "https://images.unsplash.com/photo-1748178765097-1c012c848596?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAyNDA2OTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/venstre_-_-vanskelig-for-unge-boligkjopere-1.18035224",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-24T09:04:54.830Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790240693044.927,
+      "title": "Rødt: – En bombe i folks økonomi",
+      "slug": "rdt-en-bombe-i-folks-konomi",
+      "content": "– Norges Banks beslutning om å sette opp renten slår ned som en bombe i folks økonomi, skriver Mímir Kristjánsson, finanspolitisk talsperson i Rødt i en kommentar.\n\nHan mener at de store bankene tjener på høye renter.\n\n– Pengepolitikken bør ta større hensyn til full sysselsetting ved tilbudssjokk fra utlandet, og Norges Bank må ha mer is i magen ved endringer internasjonalt, sier han.\n\nNorges Bank\n\nDen norske sentralbanken har som hovedoppgave å sikre økonomisk stabilitet ved hjelp av pengepolitiske virkemidler. 1. april 2022 ble Ida Wolden Bache utnevnt i statsråd som ny sentralbanksjef.",
+      "excerpt": "– Norges Banks beslutning om å sette opp renten slår ned som en bombe i folks økonomi, skriver Mímir Kristjánsson, finanspolitisk talsperson i Rødt i en kommentar.\n\nHan mener at de store bankene tjener på høye renter.\n\n– Pengepolitikken bør ta større hensyn til full sysselsetting ved tilbudssjokk...",
+      "image": "https://images.unsplash.com/photo-1784129380422-c09fc4071152?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAyNDA2OTJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/rodt_-_-en-bombe-i-folks-okonomi-1.18035231",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-24T09:04:53.044Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1790221237660.1643,
       "title": "Politiet ransaket bolig etter stjålet mobil i Trondheim",
       "slug": "politiet-ransaket-bolig-etter-stjlet-mobil-i-trondheim",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-21T03:53:25.019Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789942492859.2446,
-      "title": "Haaland kåret til årets mannlige stilikon",
-      "slug": "haaland-kret-til-rets-mannlige-stilikon",
-      "content": "Erling Braut Haaland ble kåret til årets mannlige stilikon under årets Costume Awards.Han tok imot prisen på videolink, ikledd hvit T-skjorte og blå shorts.\n\nEmma Ellingsen fikk prisen for årets modell, og moteprofil Nina Sandbech er kåret til årets kvinnelige stilikon.\n\nHedersprisen gikk til de ukrainske motedesignerne Nadya Dzyaka, Ruslan Baginskiy, Artur Kulakovsky.\n\nDesign og mote\n\nSaker, notiser og annet innhold fra NRK om design og mote.",
-      "excerpt": "Erling Braut Haaland ble kåret til årets mannlige stilikon under årets Costume Awards.Han tok imot prisen på videolink, ikledd hvit T-skjorte og blå shorts.\n\nEmma Ellingsen fikk prisen for årets modell, og moteprofil Nina Sandbech er kåret til årets kvinnelige stilikon.\n\nHedersprisen gikk til de...",
-      "image": "https://images.unsplash.com/photo-1664790659991-11ae450bbea7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5NDI0OTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/haaland-karet-til-arets-mannlige-stilikon-1.18030967",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-20T22:14:52.859Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789942491248.9124,
-      "title": "CDU under sperregrensen i Mecklenburg-Vorpommern",
-      "slug": "cdu-under-sperregrensen-i-mecklenburgvorpommern",
-      "content": "Tysklands forbundskansler Friedrich Merz parti CDU ute av delstatsforsamlingen i Mecklenburg-Vorpommern, viser prognoser i 22-tiden.\n\nDermed ligger CDU an til sitt dårligste resultat noensinne.\n\nFriedrich Merz omtaler valgresultatet i Mecklenburg-Vorpommern som «en katastrofe» for CDU.",
-      "excerpt": "Tysklands forbundskansler Friedrich Merz parti CDU ute av delstatsforsamlingen i Mecklenburg-Vorpommern, viser prognoser i 22-tiden.\n\nDermed ligger CDU an til sitt dårligste resultat noensinne.\n\nFriedrich Merz omtaler valgresultatet i Mecklenburg-Vorpommern som «en katastrofe» for CDU.",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/cdu-under-sperregrensen-i-mecklenburg-vorpommern--1.18030973",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-20T22:14:51.248Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789942489781.7363,
-      "title": "SV-veteran stiller til valg for Oslo SV",
-      "slug": "svveteran-stiller-til-valg-for-oslo-sv",
-      "content": "Heikki Holmås stiller til valg på toppen av nominasjonslisten til Oslo SV.\n\nHolmås har lang fartstid fra SV og har blant annet vært utviklingsminister.\n\n– I dag har nominasjonskomiteen i Oslo SV sagt at de vil ha meg som listetopp til bystyrevalget i Oslo neste år. Og det har jeg sagt ja til, skriver Holmås i et innlegg på Facebook.\n\nSosialistisk venstreparti (SV)\n\nEt norsk politisk parti på venstresiden, som ledes av Kirsti Bergstø.",
-      "excerpt": "Heikki Holmås stiller til valg på toppen av nominasjonslisten til Oslo SV.\n\nHolmås har lang fartstid fra SV og har blant annet vært utviklingsminister.\n\n– I dag har nominasjonskomiteen i Oslo SV sagt at de vil ha meg som listetopp til bystyrevalget i Oslo neste år. Og det har jeg sagt ja til...",
-      "image": "https://images.unsplash.com/photo-1698083781385-a8a7069c5cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5NDI0ODl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/sv-veteran-stiller-til-valg-for-oslo-sv-1.18030994",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-20T22:14:49.781Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3699,
+    "totalFetched": 3702,
     "totalPublished": 77,
-    "lastFetch": "2026-09-24T03:40:39.300Z",
+    "lastFetch": "2026-09-24T09:04:58.561Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
