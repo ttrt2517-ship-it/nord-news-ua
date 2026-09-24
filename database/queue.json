@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1790221237660.1643,
+      "title": "Politiet ransaket bolig etter stjålet mobil i Trondheim",
+      "slug": "politiet-ransaket-bolig-etter-stjlet-mobil-i-trondheim",
+      "content": "Politiet ransaket natt til torsdag en privat adresse i Trondheim etter at en butikkansatt på Lade ble frastjålet mobiltelefonen på jobb.\n\nTyveriet skjedde onsdag kveld. Den ansatte meldte fra til politiet senere på kvelden og opplyste at sporing på telefonen var aktivert.\n\n– Ved hjelp av sporingen og videoovervåking fant politiet en mistenkt person. Telefonen er levert tilbake til eieren, og den mistenkte blir anmeldt, forteller operasjonsleder Stian Aalberg i Trøndelag politidistrikt.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "Politiet ransaket natt til torsdag en privat adresse i Trondheim etter at en butikkansatt på Lade ble frastjålet mobiltelefonen på jobb.\n\nTyveriet skjedde onsdag kveld. Den ansatte meldte fra til politiet senere på kvelden og opplyste at sporing på telefonen var aktivert.\n\n– Ved hjelp av sporingen...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/politiet-ransaket-bolig-etter-stjalet-mobil-i-trondheim-1.18034900",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-24T03:40:37.660Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790221236038.6526,
+      "title": "Mann pågrepet etter brann i rekkehus i Øygarden",
+      "slug": "mann-pgrepet-etter-brann-i-rekkehus-i-ygarden",
+      "content": "En mann i 30-årene er pågrepet etter brannen i et rekkehus i Øygarden onsdag kveld, opplyser Vest politidistrikt torsdag morgen.\n\nIngen personer ble skadet i brannen som ble meldt slukket klokka 22.47.\n\nEin mann i 30-åra er pågripen etter brannen i eit rekkehus i Øygarden onsdag kveld.",
+      "excerpt": "En mann i 30-årene er pågrepet etter brannen i et rekkehus i Øygarden onsdag kveld, opplyser Vest politidistrikt torsdag morgen.\n\nIngen personer ble skadet i brannen som ble meldt slukket klokka 22.47.\n\nEin mann i 30-åra er pågripen etter brannen i eit rekkehus i Øygarden onsdag kveld.",
+      "image": "https://images.unsplash.com/photo-1715700266217-1b049c7fe2b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAyMjEyMzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-pagrepet-etter-brann-i-rekkehus-i-oygarden-1.18034902",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-24T03:40:36.038Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790221234328.9602,
+      "title": "KI-agent hacket helsevesenet i Australia",
+      "slug": "kiagent-hacket-helsevesenet-i-australia",
+      "content": "En KI-agent fra OpenAI brøt seg inn i det australske helsevesenets statistikkportal i juni, sa landets statsminister Anthony Albanese til journalister i New York onsdag.\n\n– Ingen personlige opplysninger antas å ha vært berørt, men granskingen fortsetter. Dette er uansett selvsagt uakseptabelt, sa Albanese.\n\nOpenAI sier i en uttalelse at de har startet granskning og avdekket at flere australske offentlige nettsteder kan ha blitt forsøkt hacket.\n\nKunstig intelligens\n\nChatGPT er en kunstig intelligens-basert tekstgenereringsmodell fra selskapet OpenAI. Den kan brukes til å generere svar på spørsmål, skrive samtaler eller til å komplettere tekst.\n\nAustralia\n\nSosialdemokraten Anthony Albanese overtok som statsminister etter Scott Morrison etter valget 21. mai 2022. Albanese har lovet å trappe opp klimakampen, men han vil ikke love å stenge kullgruvene i landet.",
+      "excerpt": "En KI-agent fra OpenAI brøt seg inn i det australske helsevesenets statistikkportal i juni, sa landets statsminister Anthony Albanese til journalister i New York onsdag.\n\n– Ingen personlige opplysninger antas å ha vært berørt, men granskingen fortsetter. Dette er uansett selvsagt uakseptabelt, sa...",
+      "image": "https://images.unsplash.com/photo-1767283675283-e1a435ea630b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAyMjEyMzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ki-agent-hacket-helsevesenet-i-australia-1.18034922",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-24T03:40:34.328Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1790203618446.8909,
       "title": "Melding om skudd mot bolig i Ullensaker – søker gjerningspersoner",
       "slug": "melding-om-skudd-mot-bolig-i-ullensaker-sker-gjerningsperson",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-20T22:14:49.781Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1789929129952.4714,
-      "title": "Putins parti størst i Russland",
-      "slug": "putins-parti-strst-i-russland",
-      "content": "Regjeringspartiet Forent Russland leder med 57,54 prosent i det russiske valget, viser foreløpige resultater fra valgkommisjonen.\n\nValgdeltakelse i parlamentsvalget er på over 56 prosent, ifølge valgkommisjonen.\n\nRusslands eneste opposisjonsparti er utestengt fra helgens parlamentsvalg.\n\nPutin har beskrevet valget som en test på støtten til krigen i Ukraina, skriver Reuters. Kritikere påpeker at landets strengt kontrollerte politiske system ikke tolererer meningsmotstand.\n\nRusslands eneste opposisjonsparti er utestengt fra helgens parlamentsvalg. Men en ung mann kjemper for det han tror på og tar store sjanser.",
-      "excerpt": "Regjeringspartiet Forent Russland leder med 57,54 prosent i det russiske valget, viser foreløpige resultater fra valgkommisjonen.\n\nValgdeltakelse i parlamentsvalget er på over 56 prosent, ifølge valgkommisjonen.\n\nRusslands eneste opposisjonsparti er utestengt fra helgens parlamentsvalg.\n\nPutin har...",
-      "image": "https://images.unsplash.com/photo-1661876053803-a210980314e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MjkxMjl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/putins-parti-storst-i-russland-1.18030911",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-20T18:32:09.952Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789929128397.9707,
-      "title": "– Har gjennomført 28 angrep i Jemen",
-      "slug": "-har-gjennomfrt-28-angrep-i-jemen",
-      "content": "Houthiene i Jemen sier at Saudi-Arabia har gjennomført 28 angrep i flere områder av landet i løpet av de siste 24 timene.\n\n– Det saudiarabiske luftforsvaret jar utført 28 angrep rettet mot provinsene Taiz, Al-Jawf og Marib, ved bruk av F-15- og Typhoon-fly. De tok av fra flybasene Khamis Mushait og Taif, opplyser houthienes militære talsmann, Yahya Saree, i en uttalelse.\n\nJemen\n\nDen blodige borgerkrigen i Jemen startet i 2014 da Houthi-geriljaen tok hovedstaden Sana. Det førte til at en koalisjon ledet av Saudi-Arabia intervenerte for å støtte den internasjonalt anerkjente regjeringen.",
-      "excerpt": "Houthiene i Jemen sier at Saudi-Arabia har gjennomført 28 angrep i flere områder av landet i løpet av de siste 24 timene.\n\n– Det saudiarabiske luftforsvaret jar utført 28 angrep rettet mot provinsene Taiz, Al-Jawf og Marib, ved bruk av F-15- og Typhoon-fly. De tok av fra flybasene Khamis Mushait og...",
-      "image": "https://images.unsplash.com/photo-1753696278559-38efaeafab72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5MjkxMjh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/_-har-gjennomfort-28-angrep-i-jemen-1.18030915",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-20T18:32:08.397Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1789929126850.663,
-      "title": "Zelenskyj: Skal møte Trump i New York",
-      "slug": "zelenskyj-skal-mte-trump-i-new-york",
-      "content": "Ukrainas persident Volodomyr Zelenskyj sier at han akkurat har snakket med Donald Trump. De to skal ha blitt enige om å møtes i New York.\n\nZelenskyj sier også at han takket Trump for å ha signert «Lindsey Graham-forslaget» - et lovforslag om skjerpede sanksjoner mot Russland.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ukrainas persident Volodomyr Zelenskyj sier at han akkurat har snakket med Donald Trump. De to skal ha blitt enige om å møtes i New York.\n\nZelenskyj sier også at han takket Trump for å ha signert «Lindsey Graham-forslaget» - et lovforslag om skjerpede sanksjoner mot Russland.\n\nKrigen i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/zelenskyj_-skal-mote-trump-i-new-york--1.18030926",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-20T18:32:06.850Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3696,
+    "totalFetched": 3699,
     "totalPublished": 77,
-    "lastFetch": "2026-09-23T22:47:00.098Z",
+    "lastFetch": "2026-09-24T03:40:39.300Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
