@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1790308613360.4797,
+      "title": "Xi Jinping og Donald Trump hyller forholdet mellom USA og Kina",
+      "slug": "xi-jinping-og-donald-trump-hyller-forholdet-mellom-usa-og-ki",
+      "content": "Kina og USA må finne nye måter å samarbeide på og oppføre seg som ansvarlige stormakter, sa Kinas president Xi Jinping under en statsmiddag i Det hvite hus, ifølge Reuters.\n\nMiddagen avsluttet dag to av Xi sitt statsbesøk i USA. President Donald Trump skrøt av båndet mellom de to landene og sa at forholdet aldri har vært bedre. Xi takket for gjestfriheten og uttalte at besøket har skapt felles forståelse.",
+      "excerpt": "Kina og USA må finne nye måter å samarbeide på og oppføre seg som ansvarlige stormakter, sa Kinas president Xi Jinping under en statsmiddag i Det hvite hus, ifølge Reuters.\n\nMiddagen avsluttet dag to av Xi sitt statsbesøk i USA. President Donald Trump skrøt av båndet mellom de to landene og sa at...",
+      "image": "https://images.unsplash.com/photo-1670874103167-31cff21eb845?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAzMDg2MTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/xi-jinping-og-donald-trump-hyller-forholdet-mellom-usa-og-kina-1.18036180",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-25T03:56:53.360Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790308611698.1794,
+      "title": "Tre til sykehus etter skyteepisode i Sverige",
+      "slug": "tre-til-sykehus-etter-skyteepisode-i-sverige",
+      "content": "Tre personer, to menn og en kvinne, er innlagt på sykehus etter en skyteepisode i et boligområde i Jönköping i Sverige.\n\nDe to mennene er alvorlig skadet, melder Expressen.\n\nEn person er pågrepet, mistenkt for drapsforsøk, og den pågrepne er selv blant de skadde.\n\n– Den ene mannen har skuddskader, den andre er knivstukket. Det er den mistenkte mannen som er knivstukket, sier politiets operasjonsleder Gustav Belin til den svenske avisen.\n\nPolitiet sier det foreløpig ikke er tegn til gjengrelasjon, men holder alle muligheter åpne.\n\nSverige\n\nSøndag 13. september var det valg i Sverige. Ulf Kristersson har vært statsminister siden 2022.",
+      "excerpt": "Tre personer, to menn og en kvinne, er innlagt på sykehus etter en skyteepisode i et boligområde i Jönköping i Sverige.\n\nDe to mennene er alvorlig skadet, melder Expressen.\n\nEn person er pågrepet, mistenkt for drapsforsøk, og den pågrepne er selv blant de skadde.\n\n– Den ene mannen har skuddskader...",
+      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAzMDg2MTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/tre-til-sykehus-etter-skyteepisode-i-sverige-1.18036176",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-25T03:56:51.698Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790308610155.9597,
+      "title": "Fire av fem ville valgt førstegangstjenesten frivillig",
+      "slug": "fire-av-fem-ville-valgt-frstegangstjenesten-frivillig",
+      "content": "80 prosent av vernepliktige sier de ville gjennomført førstegangstjenesten selv om den var frivillig, viser årets vernepliktsundersøkelse.\n\n83 prosent oppgir at de trives godt i Forsvaret, og 93 prosent opplever godt samhold mellom soldatene.\n\n– Det er en god løypemelding at et stort flertall trives i førstegangstjenesten, opplever godt samhold og mener tjenesten er lærerik, sier forsvarsminister Tore O. Sandvik i en pressemelding.\n\nOver 6600 vernepliktige har svart på undersøkelsen.",
+      "excerpt": "80 prosent av vernepliktige sier de ville gjennomført førstegangstjenesten selv om den var frivillig, viser årets vernepliktsundersøkelse.\n\n83 prosent oppgir at de trives godt i Forsvaret, og 93 prosent opplever godt samhold mellom soldatene.\n\n– Det er en god løypemelding at et stort flertall...",
+      "image": "https://images.unsplash.com/photo-1678057058628-e5669d6864ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAzMDg2MTB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fire-av-fem-ville-valgt-forstegangstjenesten-frivillig-1.18036193",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-25T03:56:50.155Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1790291059082.3225,
       "title": "Fortellerprisen 2026 går til Torbjørn Ekelund",
       "slug": "fortellerprisen-2026-gr-til-torbjrn-ekelund",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-21T21:47:15.321Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1790007488051.4612,
-      "title": "Norwegian word of the day: Språkøre",
-      "slug": "norwegian-word-of-the-day-sprkre",
-      "content": "Add The Local as a preferred source\n    \n                        \n                                        \n                        If you’ve developed a good grasp of Norwegian or other languages, don’t be surprised if someone compliments you on your ‘language ear’.\n\nA språkøre refers to a “language ear” and is a compound of the two Norwegian words for those things. It’s used to compliment someone’s ability to learn, understand and speak languages.\n\nSomeone with a good language ear will not only pick up the basics but also nail the trickier aspects, such as accent and intonation.\n\nTherefore, if you have a språkøre for Norwegian, you will probably be able to tell regional dialects apart. Alternatively, things like grammar may come a lot easier.\n\nA person with a good ear for languages is also adept at getting a grip on new languages.\n\nWhen it comes to having a good language ear yourself, it can be a good mix of natural gifts and hard work.\n\nIf you’ve already put in the work and learned one additional language, then picking up others should be easier. This is especially true if the new language you are learning has a lot in common with one you already speak.\n\nAge can also be a factor. Young people can have an easier time as their vocabulary is constantly expanding and their brains are still developing.\n\nDu har et godt språkøre, du har lært norsk kjemperaskt!\n\nYou have a good ear for languages, and you have learned Norwegian super fast!\n\nAnna speaks seven languages. She has a good ear for languages.\n\nMark sliter med å lære seg tysk. Han har ikke et godt språkøre.\n\nMark struggles to learn German. He does not have a good ear for languages.\n\nJeg har et godt språkøre og har lært meg å snakke norsk på litt under seks måneder.\n\nI have a good ear for languages and have learned to speak Norwegian in a little under six months.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Add The Local as a preferred source\n    \n                        \n                                        \n                        If you’ve developed a good grasp of Norwegian or other languages, don’t be surprised if someone compliments you on your ‘language ear’.\n\nA språkøre refers to a...",
-      "image": "https://images.unsplash.com/photo-1556763611-8531c18070a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAwMDc0ODd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20240828/norwegian-word-of-the-day-sprakore",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-09-21T16:18:08.051Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790007485206.1865,
-      "title": "Why cross-border shopping in Sweden just got cheaper for Norway residents",
-      "slug": "why-crossborder-shopping-in-sweden-just-got-cheaper-for-norw",
-      "content": "Add The Local as a preferred source\n    \n                        \n                                        \n                        The Norwegian krone has gained 14.5 percent in value against the Swedish krona since the start of the year. This difference means you can now save more on groceries, fuel, and everyday services when shopping in Sweden.\n\nIt is not a secret that cross-border shopping in Sweden (known as harryhandel in Norwegian)  is a popular way for residents in Norway to stretch their household budgets.\n\nAmong the most popular purchases are groceries and treats, ranging from protein and quality cuts of meat to soft drinks, along with fuel, alcohol, and everyday services.\n\nGiven current currency fluctuations, using Norwegian kroner now holds a clear advantage.\n\nThe Norwegian krone has become the best-performing G10 currency (the ten most heavily traded major world currencies) so far this year, while the Swedish krona has fallen the most.\n\nAccording to Bloomberg data reported by Norwegian financial outlet E24, residents in Norway now have around 14.5 percent more purchasing power in Sweden than they did at the start of the year.\n\nBack in January, 100 Swedish kronor cost about 110 Norwegian kroner. Now, the same 100 kronor costs only around 96 kroner.\n\nThis change means your money now stretches much further on everything you buy in Sweden.\n\nFor example, if you bought groceries worth 2,500 Swedish kronor in January, you would have paid 2,750 kroner. Now, the same groceries cost about 2,400 kroner, saving you almost 350 kroner on a single supermarket run.\n\nOn top of the currency savings, Sweden’s prices are already lower. So, 2,500 kronor buys you much more in Sweden than the same amount would in Norway.\n\nThe same logic applies if you cross the border to fill up your fuel tank.\n\nREAD ALSO: How much can you expect to pay for fuel in Norway?\n\nEconomists say this difference is due to Norway’s strong energy revenues (boosted by high energy prices and global instability), as well as big differences in interest rates set by the two countries.\n\nNorges Bank’s policy rate currently sits at 4.25 percent, compared to Sweden’s Riksbanken at 1.75 percent.\n\nHigher interest rates usually make a currency more attractive to international investors looking for better returns. This increases global demand for the Norwegian krone.\n\n\"One of the reasons why there has been such a big difference in how central banks have set interest rates is that the Swedish economy has performed much worse than the Norwegian one,\" Olav Chen, senior portfolio manager and head of allocation at Storebrand Asset Management, told E24.\n\nNevertheless, while a stronger krone benefits cross-border shoppers, it also means that policy rates remain high. As a result, Norwegian homeowners are still burdened with higher monthly mortgage repayments.\n\nUltimately, whether cross-border shopping makes financial sense depends on how close you live to the border, what you plan to buy, and whether you are purchasing in sufficient volume to ensure the overall savings outweigh travel time and costs.\n\nAll eyes are now on Norges Bank as it prepares to deliver its next interest rate announcement on Thursday, September 24th.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Add The Local as a preferred source\n    \n                        \n                                        \n                        The Norwegian krone has gained 14.5 percent in value against the Swedish krona since the start of the year. This difference means you can now save more on groceries...",
-      "image": null,
-      "original_url": "https://www.thelocal.no/20260921/why-cross-border-shopping-in-sweden-just-got-cheaper-for-norway-residents",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-09-21T16:18:05.207Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790007481041.9348,
-      "title": "Trafikkulykke i Tønsberg",
-      "slug": "trafikkulykke-i-tnsberg",
-      "content": "Nødetatene har rykket ut til en trafikkulykke etter en alvorlig trafikkulykke mellom en traktor og personbil. Veien er stengt i begge retninger.\n\nNødetater har rykket ut til en alvorlig trafikkulykke mellom en bil og en traktor i Tønsberg kommune.",
-      "excerpt": "Nødetatene har rykket ut til en trafikkulykke etter en alvorlig trafikkulykke mellom en traktor og personbil. Veien er stengt i begge retninger.\n\nNødetater har rykket ut til en alvorlig trafikkulykke mellom en bil og en traktor i Tønsberg kommune.",
-      "image": "https://images.unsplash.com/photo-1694374510355-abd3800a18f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAwMDc0ODB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/trafikkulykke-i-tonsberg-1.18031959",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-21T16:18:01.041Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3710,
+    "totalFetched": 3713,
     "totalPublished": 77,
-    "lastFetch": "2026-09-24T23:04:21.330Z",
+    "lastFetch": "2026-09-25T03:56:55.216Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
