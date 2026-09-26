@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1790461654119.8613,
+      "title": "17 omkom i flyulykke i DR Kongo",
+      "slug": "17-omkom-i-flyulykke-i-dr-kongo",
+      "content": "En flyulykke sørvest i Den demokratiske republikken Kongo har krevd 17 menneskeliv, blant dem to av landets høyeste militære justistjenestepersoner.\n\nDet opplyste transportdepartementet lørdag, skriver AFP.\n\nUlykken krevde livet til 13 passasjerer og fire besetningsmedlemmer, het det videre.\n\nDe to høytstående offiserene som omkom ble navngitt som Joseph Mutombo, leder for den militære høyesterett, og Lucien-René Likulia, krigsadvokat og riksrevisor for det væpnede styrkene.\n\nLikulia var aktor mot tidligere president Joseph Kabila under rettssaken i september 2025 – hvor Kabila ble kjent skyldig og dømt til døden for landsforræderi og krigsforbrytelser.\n\nDR Kongo\n\nDen demokratiske republikken Kongo (også kalt Kongo-Kinshasa) ligger i Sentral-Afrika og grenser til SAR og Sør-Sudan i nord, Uganda, Rwanda, Burundi og Tanzania i øst, Zambia og Angola i sør og Kongo-Brazzaville i vest.",
+      "excerpt": "En flyulykke sørvest i Den demokratiske republikken Kongo har krevd 17 menneskeliv, blant dem to av landets høyeste militære justistjenestepersoner.\n\nDet opplyste transportdepartementet lørdag, skriver AFP.\n\nUlykken krevde livet til 13 passasjerer og fire besetningsmedlemmer, het det videre.\n\nDe to...",
+      "image": "https://images.unsplash.com/photo-1523520012785-faa3f71b1215?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA0NjE2NTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/17-omkom-i-flyulykke-i-dr-kongo--1.18037678",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-26T22:27:34.119Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790461652598.4192,
+      "title": "EU-kommisjonen gir krisehjelp til fordrevne i Afrika",
+      "slug": "eukommisjonen-gir-krisehjelp-til-fordrevne-i-afrika",
+      "content": "EU-sjef Ursula von der Leyen kunngjorde lørdag at unionen frigjør 710 millioner euro for å hjelpe mennesker rammet av kriser, naturkatastrofer eller konflikter, der størstedelen går til Afrika.\n\n«Konflikter, ekstremvær og økende levekostnader forstyrrer hverdagen til mange verden over,» sa von der Leyen i en uttalelse til FNs generalforsamling.\n\nEU vil sette av 380 millioner euro til Afrika sør for Sahara for å «beskytte sårbare migranter, støtte frivillig retur og reintegrering, styrke migrasjonshåndteringen og håndtere tvangsflytting,» heter det i uttalelsen, gjengitt av Reuters.\n\nEU-kommisjonen\n\nPresidenten i EU-kommisjonen, Ursula von der Leyen, ble gjenvalgt 1. desember 2024. Hun sitter sammen med 12 kvinner og 14 menn i det nye kollegiet. Kommisjonen velges av EU-parlamentet for fem år og leder det daglige arbeidet i EU.",
+      "excerpt": "EU-sjef Ursula von der Leyen kunngjorde lørdag at unionen frigjør 710 millioner euro for å hjelpe mennesker rammet av kriser, naturkatastrofer eller konflikter, der størstedelen går til Afrika.\n\n«Konflikter, ekstremvær og økende levekostnader forstyrrer hverdagen til mange verden over,» sa von der...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/eu-kommisjonen-gir-krisehjelp-til-fordrevne-i-afrika--1.18037614",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-26T22:27:32.598Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790461651052.1213,
+      "title": "Elg på E6 i Østfold avlivet – veien åpnet igjen",
+      "slug": "elg-p-e6-i-stfold-avlivet-veien-pnet-igjen",
+      "content": "Lørdag kveld ble E6 i Østfold stengt som følge av en elg på motorveien mellom Halmstadkrysset og Årvollkrysset i retning Moss.\n\nLike etter klokka 22.30 meldte politiet av elgen er avlivet.\n\n– Viltnemnda har avlivet elgen og veien er åpnet for trafikk, skriver oppdragsleder Tor Erik Ekker-Moen i Øst politidistrikt i en melding til pressen.",
+      "excerpt": "Lørdag kveld ble E6 i Østfold stengt som følge av en elg på motorveien mellom Halmstadkrysset og Årvollkrysset i retning Moss.\n\nLike etter klokka 22.30 meldte politiet av elgen er avlivet.\n\n– Viltnemnda har avlivet elgen og veien er åpnet for trafikk, skriver oppdragsleder Tor Erik Ekker-Moen i Øst...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/elg-pa-e6-i-ostfold-avlivet-_-veien-apnet-igjen-1.18037711",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-26T22:27:31.052Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1790449808007.8203,
       "title": "Saudi-Arabia ber verden gjøre mer for å beskytte skipstrafikken",
       "slug": "saudiarabia-ber-verden-gjre-mer-for-beskytte-skipstrafikken",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-23T22:46:56.885Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1790203615383.5002,
-      "title": "Kraftige eksplosjoner i Kyiv",
-      "slug": "kraftige-eksplosjoner-i-kyiv",
-      "content": "Natt til torsdag rystet rundt ti kraftige eksplosjoner den ukrainske hovedstaden Kyiv.\n\nMyndighetene sendte kort tid i forveien ut farevarsel om at ballistiske missiler var på vei mot byen og områdene rundt.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Natt til torsdag rystet rundt ti kraftige eksplosjoner den ukrainske hovedstaden Kyiv.\n\nMyndighetene sendte kort tid i forveien ut farevarsel om at ballistiske missiler var på vei mot byen og områdene rundt.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i...",
-      "image": "https://images.unsplash.com/photo-1582753799950-e73309a50b3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAyMDM2MTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/kraftige-eksplosjoner-i-kyiv--1.18034849",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-23T22:46:55.383Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790187456804.6116,
-      "title": "USA i FN: Fordømmer forsøk på å utvide krigen i Ukraina",
-      "slug": "usa-i-fn-fordmmer-forsk-p-utvide-krigen-i-ukraina",
-      "content": "USAs ambassadør til FN, Mike Waltz, sier de fordømmer på det sterkeste ethvert forsøk på å utvide krigen i Ukraina, skriver Reuters.\n\nÅ spre Ukraina-krigen til andre land er farlig og uakseptabelt, sier Waltz i et møte i FNs sikkerhetsråd onsdag.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "USAs ambassadør til FN, Mike Waltz, sier de fordømmer på det sterkeste ethvert forsøk på å utvide krigen i Ukraina, skriver Reuters.\n\nÅ spre Ukraina-krigen til andre land er farlig og uakseptabelt, sier Waltz i et møte i FNs sikkerhetsråd onsdag.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-i-fn_-fordommer-forsok-pa-a-utvide-krigen-i-ukraina-1.18034690",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-23T18:17:36.804Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790187455230.727,
-      "title": "Falt fra stige i Akershus – fremstår ikke kritisk",
-      "slug": "falt-fra-stige-i-akershus-fremstr-ikke-kritisk",
-      "content": "En person skal ha falt ned fra en stige på en privatadresse i Akershus, skriver Øst politidistrikt i politiloggen klokken 19.06.\n\n– Fremstår per nå ikke kritisk skadd, skriver operasjonsleder Kjetil Elnan Ringseth i en oppdatering klokken 36.\n\nTidligere meldte politiet at ulykken fremstår alvorlig.\n\n– Det er ikke snakk en arbeidsulykke, men ulykke som har skjedd under arbeid på eget hus, skriver Ringset.\n\nDet ble tidligere meldt at en luftambulanse var på vei til stedet.",
-      "excerpt": "En person skal ha falt ned fra en stige på en privatadresse i Akershus, skriver Øst politidistrikt i politiloggen klokken 19.06.\n\n– Fremstår per nå ikke kritisk skadd, skriver operasjonsleder Kjetil Elnan Ringseth i en oppdatering klokken 36.\n\nTidligere meldte politiet at ulykken fremstår...",
-      "image": "https://images.unsplash.com/photo-1719064931432-fd1a24a3811b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAxODc0NTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/falt-fra-stige-i-akershus-_-fremstar-ikke-kritisk-1.18034729",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-23T18:17:35.231Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3741,
+    "totalFetched": 3744,
     "totalPublished": 77,
-    "lastFetch": "2026-09-26T19:10:09.519Z",
+    "lastFetch": "2026-09-26T22:27:35.911Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
