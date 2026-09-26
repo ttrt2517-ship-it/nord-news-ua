@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1790449808007.8203,
+      "title": "Saudi-Arabia ber verden gjøre mer for å beskytte skipstrafikken",
+      "slug": "saudiarabia-ber-verden-gjre-mer-for-beskytte-skipstrafikken",
+      "content": "Saudi-Arabia advarte FNs medlemsland lørdag om at forsøk på å blokkere vannveier i Midtøsten utgjør en trussel mot den globale energisikkerheten.\n\nLandets representant krevde at det internasjonale samfunnet gjør mer for å forsvare navigasjonsfriheten, skriver AFP.\n\n«Det internasjonale samfunnet har forsømt sitt ansvar med å konfrontere alt som truer internasjonal fred og sikkerhet,» sa utenriksminister Faisal bin Farhan til FNs generalforsamling.\n\nSaudi-Arabia\n\nSaudi-Arabia er et dypt religiøst monarki i Midtøsten. Det islamske landet er ofte kritisert for at kvinner har svært innskrenkede rettigheter. Landet har enorme oljeforekomster.\n\nDe forente nasjoner (FN)\n\nFN ble opprettet like etter andre verdenskrig, i hovedsak for å unngå lignende krigssituasjoner i framtiden. Hovedkontoret ligger i New York i USA, og organisasjonen har 193 medlemsland.\n\nKrig og konflikt i Midtøsten\n\nEtter angrepet mot Israel 7. oktober 2023 har situasjonen i Midtøsten stadig forverret seg. Det har vært daglige rakettangrep mellom Israel og Iran-støttede Hizbollah i Libanon. Eksperter frykter storkrig.",
+      "excerpt": "Saudi-Arabia advarte FNs medlemsland lørdag om at forsøk på å blokkere vannveier i Midtøsten utgjør en trussel mot den globale energisikkerheten.\n\nLandets representant krevde at det internasjonale samfunnet gjør mer for å forsvare navigasjonsfriheten, skriver AFP.\n\n«Det internasjonale samfunnet har...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/saudi-arabia-ber-verden-gjore-mer-for-a-beskytte-skipstrafikken-1.18037563",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-26T19:10:08.008Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790449803035.4885,
+      "title": "Paven har landet i  Lourdes",
+      "slug": "paven-har-landet-i-lourdes",
+      "content": "Pave Leo XIV landet lørdag kveld i byen Lourdes for den andre etappen av sitt offisielle besøk i Frankrike.\n\nDet opplyste en AFP-reporter om bord på flyet hans.\n\nLeo skal etter planen be ved Massabielle-grotten, et kjent pilegrimsmål hvor den katolske tradisjonen sier at Jomfru Maria åpenbarte seg for en bondepike i 1858.\n\nPaven og Vatikanet\n\nPave Frans døde 2. påskedag 2025, 88 år gammel.\nTorsdag 8.mai ble Robert Francis Prevost (69) valgt til pave. Han tok Leo XIV til navn.",
+      "excerpt": "Pave Leo XIV landet lørdag kveld i byen Lourdes for den andre etappen av sitt offisielle besøk i Frankrike.\n\nDet opplyste en AFP-reporter om bord på flyet hans.\n\nLeo skal etter planen be ved Massabielle-grotten, et kjent pilegrimsmål hvor den katolske tradisjonen sier at Jomfru Maria åpenbarte seg...",
+      "image": "https://images.unsplash.com/photo-1683797466570-ccaab622991a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA0NDk4MDJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/paven-har-landet-i--lourdes-1.18037632",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-26T19:10:03.035Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790449799928.3047,
+      "title": "Russland anklager Europa for å blokkere Ukraina-samtaler",
+      "slug": "russland-anklager-europa-for-blokkere-ukrainasamtaler",
+      "content": "Russlands utenriksminister Sergei Lavrov anklager Europa for å blokkere forsøk på å løse krigen i Ukraina.\n\nSommeren i år har vært preget av opptrappende angrep mellom Ukraina og Russland.\n\nSenest lørdag er det meldt om til sammen 16 drepte i luftangrep på begge sider av konflikten det siste døgnet.\n\n– Europa gjør alt de kan for å hindre fredssamtaler som Trump-administrasjonen er interessert i, uttalte Lavrov, som møtte sin amerikanske kollega Marco Rubio tidligere denne uken.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Russlands utenriksminister Sergei Lavrov anklager Europa for å blokkere forsøk på å løse krigen i Ukraina.\n\nSommeren i år har vært preget av opptrappende angrep mellom Ukraina og Russland.\n\nSenest lørdag er det meldt om til sammen 16 drepte i luftangrep på begge sider av konflikten det siste...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/russland-anklager-europa-for-a-blokkere-ukraina-samtaler-1.18037636",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-26T19:09:59.928Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1790438315582.9412,
       "title": "Trump: – Snakket med Rodríguez om valg",
       "slug": "trump-snakket-med-rodrguez-om-valg",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-23T18:17:35.231Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1790187453445.9324,
-      "title": "Ukraina: Fem drept i bombeangrep",
-      "slug": "ukraina-fem-drept-i-bombeangrep",
-      "content": "Fem personer skal være drept i et russisk bombeangrep i byen Oleksandrivka i Donetsk-regionen øst i Uraina, sier guvernøren ifølge Reuters.\n\nGuvernør Vadym Filashkin hevder Russland har sluppet fire bomber over byen, som ligger i nærheten av Kramatorsk.\n\nFilashkin sier han har innledende opplysninger om at syv personer skal være begravet i ruiner, inkludert to barn.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Fem personer skal være drept i et russisk bombeangrep i byen Oleksandrivka i Donetsk-regionen øst i Uraina, sier guvernøren ifølge Reuters.\n\nGuvernør Vadym Filashkin hevder Russland har sluppet fire bomber over byen, som ligger i nærheten av Kramatorsk.\n\nFilashkin sier han har innledende...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ukraina_-fem-drept-i-bombeangrep-1.18034733",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-23T18:17:33.446Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790169937724.4075,
-      "title": "Sak om korrupsjon hos Innovasjon Norge-tilsett til Høgsterett",
-      "slug": "sak-om-korrupsjon-hos-innovasjon-norgetilsett-til-hgsterett",
-      "content": "Høgsterett vil behandla saka etter at ein tidlegare tilsett i Innovasjon Noreg blei frikjend for korrupsjon i lagmannsretten.\n\nHan blei først dømd i tingretten, saman med to fiskebåtreiarar, men alle tre blei frifunne i lagmannsretten i juni.\n\nFiskebåtreiarane er skulda for å ha samarbeidd om å ha gitt rådgjevaren økonomiske fordeler for å sikre at dei fekk offentlege lån til fiskebåtar.\n\nStatsadvokaten i Møre og Romsdal anka når det gjeld lovbruken og saksbehandlinga , og Høgsterett har no bestemt seg for å behandle saka på nytt.\n\nHøgsterett behandlar berre inn ankesaker som kan ha noko å seie også for tilsvarande saker.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
-      "excerpt": "Høgsterett vil behandla saka etter at ein tidlegare tilsett i Innovasjon Noreg blei frikjend for korrupsjon i lagmannsretten.\n\nHan blei først dømd i tingretten, saman med to fiskebåtreiarar, men alle tre blei frifunne i lagmannsretten i juni.\n\nFiskebåtreiarane er skulda for å ha samarbeidd om å ha...",
-      "image": "https://images.unsplash.com/photo-1582073389612-c18eb815b0e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAxNjk5Mzd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/mr/sak-om-korrupsjon-hos-innovasjon-norge-tilsett-til-hogsterett-1.18034168",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-23T13:25:37.724Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790169936015.5835,
-      "title": "Byrådssekretær går av etter e-post-skandale",
-      "slug": "byrdssekretr-gr-av-etter-epostskandale",
-      "content": "Rune Dahl fratrer sin stilling som byrådssekretær for kommunikasjon for byrådsleder Eirik Lae Solberg (H).\n\nTirsdag meldte NRK at Dahl var sykemeldt etter at det ble kjent at han brukte sin private e-postadresse til å hjelpe et lokallag i Høyre med argumenter mot eget byråd.\n\nDahl serverte lokallaget argumenter de burde bruke for å prøve å få byrådet med på en avtale om badet som kunne kosta skattebetalerne 250 millioner kroner.\n\nByrådet har foreløpig ikke ønska å inngå en slik avtale.\n\nEn av byrådslederens nærmeste medarbeidere hjalp lokallag med argumenter overfor eget byråd i den betente saken om Røabadet.\n\nByrådet i Oslo\n\nDet blågrønne byrådet i Oslo er ledet av Eirik Lae Solberg og består av Høyre og Venstre. Byrådet i Oslo leder kommunens administrasjon og er ansvarlig for å gjennomføre bystyrets vedtak.",
-      "excerpt": "Rune Dahl fratrer sin stilling som byrådssekretær for kommunikasjon for byrådsleder Eirik Lae Solberg (H).\n\nTirsdag meldte NRK at Dahl var sykemeldt etter at det ble kjent at han brukte sin private e-postadresse til å hjelpe et lokallag i Høyre med argumenter mot eget byråd.\n\nDahl serverte...",
-      "image": "https://images.unsplash.com/photo-1697193596436-86f818d0f10d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAxNjk5MzV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/byradssekretaer-gar-av-etter-e-post-skandale-1.18034351",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-23T13:25:36.015Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3738,
+    "totalFetched": 3741,
     "totalPublished": 77,
-    "lastFetch": "2026-09-26T15:58:36.830Z",
+    "lastFetch": "2026-09-26T19:10:09.519Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
