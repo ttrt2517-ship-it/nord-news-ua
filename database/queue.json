@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1790395313703.3823,
+      "title": "Tiktok inngår milliardforlik med Alabama",
+      "slug": "tiktok-inngr-milliardforlik-med-alabama",
+      "content": "Tiktok må betale minst 100 millioner dollar – nærmere 1 milliard kroner – til den amerikanske delstaten Alabama. Summen kan øke til opp mot 3 milliarder kroner dersom visse betingelser oppfylles.\n\nForliket ble inngått fredag, bare tre dager før Tiktok etter planen skulle stilles for retten i delstaten, melder NTB.\n\nSøksmålet gjelder anklager om at Tiktok og morselskapet ByteDance har villedet foreldre. Delstaten mener sikkerhetsinnstillinger som «begrenset modus» likevel har vist barn i 13-årsalderen innhold om blant annet selvmord, selvskading, spiseforstyrrelser og sex.\n\nTikTok\n\nDen kinesisk-eide videoappen TikTok er en av verdens mest populære apper. Appen har imidlertid mange kritikere. Flere av dem frykter at Kina kan bruke appen til overvåkning og spionasje.",
+      "excerpt": "Tiktok må betale minst 100 millioner dollar – nærmere 1 milliard kroner – til den amerikanske delstaten Alabama. Summen kan øke til opp mot 3 milliarder kroner dersom visse betingelser oppfylles.\n\nForliket ble inngått fredag, bare tre dager før Tiktok etter planen skulle stilles for retten i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/tiktok-inngar-milliardforlik-med-alabama-1.18037244",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-26T04:01:53.703Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790395312189.627,
+      "title": "KI-verktøy fra OpenAI skaper mer trøbbel",
+      "slug": "kiverkty-fra-openai-skaper-mer-trbbel",
+      "content": "OpenAI har varslet flere titalls internasjonale organisasjoner om at KI-verktøyet deres har hentet ut informasjon fra nettstedene deres på en uheldig måte. Det skriver BBC.\n\nVerktøyene har blant annet hentet data fra offentlige nettsider tilhørende myndigheter og universiteter. I minst 53 tilfeller har KI-verktøyet tatt bilder folk har lastet opp i ChatGPT og videresendt dem.\n\nSelskapet jobber nå med å slette dataene som havnet på avveie. Varselet kommer få dager etter at det ble kjent at KI fra OpenAI hadde hacket australske helsemyndigheter i sommer.\n\nKunstig intelligens\n\nChatGPT er en kunstig intelligens-basert tekstgenereringsmodell fra selskapet OpenAI. Den kan brukes til å generere svar på spørsmål, skrive samtaler eller til å komplettere tekst.",
+      "excerpt": "OpenAI har varslet flere titalls internasjonale organisasjoner om at KI-verktøyet deres har hentet ut informasjon fra nettstedene deres på en uheldig måte. Det skriver BBC.\n\nVerktøyene har blant annet hentet data fra offentlige nettsider tilhørende myndigheter og universiteter. I minst 53 tilfeller...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ki-verktoy-fra-openai-skaper-mer-trobbel-1.18037245",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-26T04:01:52.189Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790395310749.6035,
+      "title": "CNN utestenges fra Trump-reise",
+      "slug": "cnn-utestenges-fra-trumpreise",
+      "content": "CNN nektes å bli med president Donald Trump på presidentflyet Air Force One til Tennessee på lørdag, melder nyhetsbyrået AP.\n\nI stedet overtar den konservative nyhetskanalen Real America's Voice plassen på flyet.\n\nEn føderal dommer påla nylig Trump-administrasjonen å gi CNN tilgang til Det hvite hus igjen. Dommerens beslutning nevner likevel ingenting direkte om tilgangen til presidentens eget fly, skriver NTB.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "CNN nektes å bli med president Donald Trump på presidentflyet Air Force One til Tennessee på lørdag, melder nyhetsbyrået AP.\n\nI stedet overtar den konservative nyhetskanalen Real America's Voice plassen på flyet.\n\nEn føderal dommer påla nylig Trump-administrasjonen å gi CNN tilgang til Det hvite...",
+      "image": "https://images.unsplash.com/photo-1690380113485-bd297691b243?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAzOTUzMTB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/cnn-utestenges-fra-trump-reise-1.18037242",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-26T04:01:50.749Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1790377760473.866,
       "title": "Bil mot elg i Ullensaker",
       "slug": "bil-mot-elg-i-ullensaker",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-22T21:12:51.317Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1790111569818.163,
-      "title": "Iran la frem sine betingelser for USA",
-      "slug": "iran-la-frem-sine-betingelser-for-usa",
-      "content": "Irans utenriksminister Abbas Araqchi hadde et møtte med USAs spesialutsending Steve Witkoff på sidelinjen av FNs generalforsamling, melder Reuters.\n\nI møte la Iran frem sine betingelser for å gjenåpne det strategiske Hormuzstredet til USA, ifølge iranske statlige medier.\n\nBetingelsene inkluderer en umiddelbar opphevelse av sjøblokaden, umiddelbar frigivelse av frosne iranske midler, og at krigen avsluttes på tvers av alle «motstandsfronter», la de statlige mediene til.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,",
-      "excerpt": "Irans utenriksminister Abbas Araqchi hadde et møtte med USAs spesialutsending Steve Witkoff på sidelinjen av FNs generalforsamling, melder Reuters.\n\nI møte la Iran frem sine betingelser for å gjenåpne det strategiske Hormuzstredet til USA, ifølge iranske statlige medier.\n\nBetingelsene inkluderer en...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/iran-la-frem-sine-betingelser-for-usa-1.18033458",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-22T21:12:49.818Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790111568358.9724,
-      "title": "EU enige om å oppheve sanksjoner mot russiske oligarke",
-      "slug": "eu-enige-om-oppheve-sanksjoner-mot-russiske-oligarke",
-      "content": "EU-landene er enige om å fjerne de russiske oligarkene Alisjer Usmanov og Mikhail Fridman fra sanksjonslisten sin. Det betyr at de får tilbake fryste penger og igjen kan reise i EU.\n\nUkraina reagerer kraftig på beslutningen, og president Volodymyr Zelenskyj kaller det hele «selvødeleggende», ifølge NTB.\n\nFrankrike og Luxembourg skal ha bedt om at de to rike forretningsmennene ble tatt av listen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "EU-landene er enige om å fjerne de russiske oligarkene Alisjer Usmanov og Mikhail Fridman fra sanksjonslisten sin. Det betyr at de får tilbake fryste penger og igjen kan reise i EU.\n\nUkraina reagerer kraftig på beslutningen, og president Volodymyr Zelenskyj kaller det hele «selvødeleggende», ifølge...",
-      "image": "https://images.unsplash.com/photo-1763702433943-a7529b7f275d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAxMTE1Njh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/eu-enige-om-a-oppheve-sanksjoner-mot-russiske-oligarke-1.18033497",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-22T21:12:48.358Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790099957867.8464,
-      "title": "Støre: Uenig i mye av det Trump sa i talen",
-      "slug": "stre-uenig-i-mye-av-det-trump-sa-i-talen",
-      "content": "– Talen til Trump hadde et veldig godt signal, og det er at Danmark og USA er enige om en avtale. Trump ønsket å ta over Grønland, slik ble det ikke. Resten av talen vil jeg si var ganske mørk, sier statsminister Jonas Gahr Støre.\n\nUttalelsen fra Støre kommer rett etter at avtalen mellom Grønland, USA og Danmark ble signert og en snau time etter at Donald Trump holdt sin tale til FNs generalforsamling.\n\n– Vi er uenige i mye av det Trump. Han har lite tro på internasjonalt samarbeid, han har lite tro på Unesco, og han har trukket seg ut av Verdens helseorganisasjon, og for en president å stå på talerstolen i FN og snakke om at han er klar til å utslette den iranske sivilisasjonen, er voldsom ordbruk, sier Støre.\n\nDe forente nasjoner (FN)\n\nFN ble opprettet like etter andre verdenskrig, i hovedsak for å unngå lignende krigssituasjoner i framtiden. Hovedkontoret ligger i New York i USA, og organisasjonen har 193 medlemsland.\n\nGrønland\n\nGrønland er en del av Danmark, men har selvstyre. Landet har den siste tiden vært under stort press etter at Donald Trump har truet med at USA skal overta øya.",
-      "excerpt": "– Talen til Trump hadde et veldig godt signal, og det er at Danmark og USA er enige om en avtale. Trump ønsket å ta over Grønland, slik ble det ikke. Resten av talen vil jeg si var ganske mørk, sier statsminister Jonas Gahr Støre.\n\nUttalelsen fra Støre kommer rett etter at avtalen mellom Grønland...",
-      "image": "https://images.unsplash.com/photo-1691414203402-c8b329585ebc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAwOTk5NTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/store_-uenig-i-mye-av-det-trump-sa-i-talen-1.18033296",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-22T17:59:17.867Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3728,
+    "totalFetched": 3731,
     "totalPublished": 77,
-    "lastFetch": "2026-09-25T23:09:22.125Z",
+    "lastFetch": "2026-09-26T04:01:55.638Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
