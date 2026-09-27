@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1790482470178.1995,
+      "title": "Sveitserne stemmer over strengere nøytralitet",
+      "slug": "sveitserne-stemmer-over-strengere-nytralitet",
+      "content": "Målinger tyder på et klart nei når Sveits stemmer over å stramme inn nøytraliteten sin. Forslaget vil grunnlovsfeste at landet skal være helt nøytralt, forby sanksjoner utenfor FN og stoppe et tettere samarbeid med Nato.\n\nRegjeringen og flertallet i parlamentet mener forslaget gjør det vanskelig å styre i en urolig tid. Godt over 60 prosent planlegger å stemme nei. Det stemmes også over å øke landets selvforsyningsgrad for mat til 70 prosent, men også det ligger an til å bli stemt ned, melder NTB.",
+      "excerpt": "Målinger tyder på et klart nei når Sveits stemmer over å stramme inn nøytraliteten sin. Forslaget vil grunnlovsfeste at landet skal være helt nøytralt, forby sanksjoner utenfor FN og stoppe et tettere samarbeid med Nato.\n\nRegjeringen og flertallet i parlamentet mener forslaget gjør det vanskelig å...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/sveitserne-stemmer-over-strengere-noytralitet-1.18037726",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-27T04:14:30.178Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790482468649.6218,
+      "title": "Lavrov avviser tysk krav om å dempe opptrapping",
+      "slug": "lavrov-avviser-tysk-krav-om-dempe-opptrapping",
+      "content": "Russlands utenriksminister Sergej Lavrov avviser Tysklands krav om å stanse det tyskene kaller en farlig opptrapping mot Nato, skriver NTB.\n\nMøtet i New York var det første mellom landenes utenriksministre siden krigen i Ukraina startet i 2022. Tyskland ba Russland dempe spenningen og vise vilje til fred.\n\n– Han gjentok ganske enkelt sitt offisielle standpunkt der han fordømmer Russland. Dere kan selv vurdere om det kan kalles dialog eller ikke, sa Lavrov etter møtet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Russlands utenriksminister Sergej Lavrov avviser Tysklands krav om å stanse det tyskene kaller en farlig opptrapping mot Nato, skriver NTB.\n\nMøtet i New York var det første mellom landenes utenriksministre siden krigen i Ukraina startet i 2022. Tyskland ba Russland dempe spenningen og vise vilje...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/lavrov-avviser-tysk-krav-om-a-dempe-opptrapping-1.18037724",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-27T04:14:28.649Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790482467078.9377,
+      "title": "Struts på rømmen etter to husbranner i Namsos",
+      "slug": "struts-p-rmmen-etter-to-husbranner-i-namsos",
+      "content": "Politiet søker med drone etter en struts som rømte under en husbrann i Namdalseid natt til søndag, opplyser Trøndelag politidistrikt.\n\nNødetatene rykket først ut til én brann, men oppdaget at det også brant i et hus like ved. Det ene huset er totalskadd.\n\nTo personer har fått helsehjelp etter å ha pustet inn røyk. Politiet undersøker om brannene har en sammenheng.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "Politiet søker med drone etter en struts som rømte under en husbrann i Namdalseid natt til søndag, opplyser Trøndelag politidistrikt.\n\nNødetatene rykket først ut til én brann, men oppdaget at det også brant i et hus like ved. Det ene huset er totalskadd.\n\nTo personer har fått helsehjelp etter å ha...",
+      "image": "https://images.unsplash.com/photo-1691397787798-4f95693dd37d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA0ODI0Njd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/struts-pa-rommen-etter-to-husbranner-i-namsos-1.18037731",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-27T04:14:27.078Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1790461654119.8613,
       "title": "17 omkom i flyulykke i DR Kongo",
       "slug": "17-omkom-i-flyulykke-i-dr-kongo",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-24T03:40:36.038Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1790221234328.9602,
-      "title": "KI-agent hacket helsevesenet i Australia",
-      "slug": "kiagent-hacket-helsevesenet-i-australia",
-      "content": "En KI-agent fra OpenAI brøt seg inn i det australske helsevesenets statistikkportal i juni, sa landets statsminister Anthony Albanese til journalister i New York onsdag.\n\n– Ingen personlige opplysninger antas å ha vært berørt, men granskingen fortsetter. Dette er uansett selvsagt uakseptabelt, sa Albanese.\n\nOpenAI sier i en uttalelse at de har startet granskning og avdekket at flere australske offentlige nettsteder kan ha blitt forsøkt hacket.\n\nKunstig intelligens\n\nChatGPT er en kunstig intelligens-basert tekstgenereringsmodell fra selskapet OpenAI. Den kan brukes til å generere svar på spørsmål, skrive samtaler eller til å komplettere tekst.\n\nAustralia\n\nSosialdemokraten Anthony Albanese overtok som statsminister etter Scott Morrison etter valget 21. mai 2022. Albanese har lovet å trappe opp klimakampen, men han vil ikke love å stenge kullgruvene i landet.",
-      "excerpt": "En KI-agent fra OpenAI brøt seg inn i det australske helsevesenets statistikkportal i juni, sa landets statsminister Anthony Albanese til journalister i New York onsdag.\n\n– Ingen personlige opplysninger antas å ha vært berørt, men granskingen fortsetter. Dette er uansett selvsagt uakseptabelt, sa...",
-      "image": "https://images.unsplash.com/photo-1767283675283-e1a435ea630b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAyMjEyMzR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/ki-agent-hacket-helsevesenet-i-australia-1.18034922",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-24T03:40:34.328Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790203618446.8909,
-      "title": "Melding om skudd mot bolig i Ullensaker – søker gjerningspersoner",
-      "slug": "melding-om-skudd-mot-bolig-i-ullensaker-sker-gjerningsperson",
-      "content": "Politiet har flere patruljer ved en adresse i Ullensaker etter melding om at det skal være avfyrt skudd mot en privatbolig.\n\n– Vi har ikke informasjon per nå om at noen er skadd, skriver operasjonsleder Kjetil Elnan Ringseth.\n\n– Vi har mange patruljer på eller på vei til stedet, skriver Ringseth.\n\n– Det pågår søk etter gjerningspersoner. Vi har store ressurser inkludert hundepatrulje og drone på stedet. Det er fortsatt ikke funnet noen skadde personer. Vi har ingen oppdateringer utover dette.",
-      "excerpt": "Politiet har flere patruljer ved en adresse i Ullensaker etter melding om at det skal være avfyrt skudd mot en privatbolig.\n\n– Vi har ikke informasjon per nå om at noen er skadd, skriver operasjonsleder Kjetil Elnan Ringseth.\n\n– Vi har mange patruljer på eller på vei til stedet, skriver...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/melding-om-skudd-mot-bolig-i-ullensaker-_-soker-gjerningspersoner-1.18034803",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-23T22:46:58.446Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790203616885.6084,
-      "title": "Kinas president har landet i USA",
-      "slug": "kinas-president-har-landet-i-usa",
-      "content": "Kinas president Xi Jinping har landet i USA før det viktige toppmøtet med president Donald Trump, skriver nyhetsbyrået AFP.\n\nTrump møtte den kinesiske lederen direkte på flyplassen utenfor Washington, noe som er svært uvanlig for en amerikansk president.\n\nDe to lederne skal blant annet diskutere handel og kunstig intelligens. Dette er Xis første besøk i den amerikanske hovedstaden på ti år.\n\nKinas president Xi Jinping har landet i USA før det viktige toppmøtet med president Donald Trump, skriver nyhetsbyrået AFP.",
-      "excerpt": "Kinas president Xi Jinping har landet i USA før det viktige toppmøtet med president Donald Trump, skriver nyhetsbyrået AFP.\n\nTrump møtte den kinesiske lederen direkte på flyplassen utenfor Washington, noe som er svært uvanlig for en amerikansk president.\n\nDe to lederne skal blant annet diskutere...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kinas-president-har-landet-i-usa-1.18034850",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-23T22:46:56.885Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3744,
+    "totalFetched": 3747,
     "totalPublished": 77,
-    "lastFetch": "2026-09-26T22:27:35.911Z",
+    "lastFetch": "2026-09-27T04:14:31.689Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
