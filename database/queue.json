@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1790709025643.0063,
+      "title": "Alvorlig trafikkulykke på riksvei 7 – Veien er gjenåpnet",
+      "slug": "alvorlig-trafikkulykke-p-riksvei-7-veien-er-gjenpnet",
+      "content": "En bil har kjørt av veien og truffet autovernet på riksvei 7 i Ringerike. Kun én person var involvert i ulykken.\n\nFøreren er en mann i 50-årene. Vedkommende er bevisstløs, og det pågår hjerte- lungeredning på stedet. Luftambulanse er på vei til ulykkesstedet.\n\nPolitiet jobber med avhør av vitner, samt undersøkelser på åstedet for å avklare årsakssammenheng.\n\nVeien er inntil videre stengt i begge retninger, og det må forventes forsinkelser i området.\n\nMannen flys til Rikshospitalet. Pårørende er varslet og ivaretas av kommunens kriseteam.\n\nBilen er berget av bilberger. Veien er åpnet for normal ferdsel.",
+      "excerpt": "En bil har kjørt av veien og truffet autovernet på riksvei 7 i Ringerike. Kun én person var involvert i ulykken.\n\nFøreren er en mann i 50-årene. Vedkommende er bevisstløs, og det pågår hjerte- lungeredning på stedet. Luftambulanse er på vei til ulykkesstedet.\n\nPolitiet jobber med avhør av vitner...",
+      "image": "https://images.unsplash.com/photo-1697193596436-86f818d0f10d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA3MDkwMjV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/buskerud/alvorlig-trafikkulykke-pa-riksvei-7-_-veien-er-gjenapnet-1.18040246",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-29T19:10:25.643Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790709022510.538,
+      "title": "Fant ikke eksplosiver etter terror-pågripelser",
+      "slug": "fant-ikke-eksplosiver-etter-terrorpgripelser",
+      "content": "Britisk antiterrorpoliti sier tirsdag kveld at de ikke har funnet noen improviserte sprengladninger (IED) i bilene etter at fem menn ble pågrepet ved Flybasen RAF Fairford natt til søndag.\n\nDe fant derimot «en mengde» bensin, som har blitt beslaglagt.\n\nTre hvite varebiler ble observert ved flybasen, som er en sentral base for amerikanske bombefly. Kort tid senere ble fem menn pågrepet i en storstilt politiaksjon.\n\nDe fem mennene er siktet for brudd på loven om eksplosiver og for å ha forberedt terrorhandling, men ble mandag løslatt mot kausjon.",
+      "excerpt": "Britisk antiterrorpoliti sier tirsdag kveld at de ikke har funnet noen improviserte sprengladninger (IED) i bilene etter at fem menn ble pågrepet ved Flybasen RAF Fairford natt til søndag.\n\nDe fant derimot «en mengde» bensin, som har blitt beslaglagt.\n\nTre hvite varebiler ble observert ved...",
+      "image": "https://images.unsplash.com/photo-1783521512130-31934b7c49b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA3MDkwMjJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fant-ikke-eksplosiver-etter-terror-pagripelser-1.18040302",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-29T19:10:22.510Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790709020835.5625,
+      "title": "Trump: Vil ikkje ha statleg regulering av KI",
+      "slug": "trump-vil-ikkje-ha-statleg-regulering-av-ki",
+      "content": "USAs president Donald Trump møtte tysdag KI-toppar frå selskap som Meta og Anthropic i Det kvite huset.\n\nUnder ein pressekonferanse sa Trump at han trur KI-selskapa sjølv regulerer seg godt nok.\n\nHan vil altså ikkje at den amerikanske staten skal regulere KI-selskapa.\n\nTrump vil også endre namnet på teknologien frå kunstig intelligens til «super intelligens».\n\nHan sa òg at selskapa skal samarbeide med lokalsamfunn når det gjeld datasenter og at desse sentera kjem til å gjere folk glade.\n\nKunstig intelligens\n\nChatGPT er en kunstig intelligens-basert tekstgenereringsmodell fra selskapet OpenAI. Den kan brukes til å generere svar på spørsmål, skrive samtaler eller til å komplettere tekst.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.",
+      "excerpt": "USAs president Donald Trump møtte tysdag KI-toppar frå selskap som Meta og Anthropic i Det kvite huset.\n\nUnder ein pressekonferanse sa Trump at han trur KI-selskapa sjølv regulerer seg godt nok.\n\nHan vil altså ikkje at den amerikanske staten skal regulere KI-selskapa.\n\nTrump vil også endre namnet...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump_-vil-ikkje-ha-statleg-regulering-av-ki-1.18040232",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-29T19:10:20.835Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1790684416974.274,
       "title": "Today in Norway: A roundup of the latest news on Tuesday",
       "slug": "today-in-norway-a-roundup-of-the-latest-news-on-tuesday",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-26T04:01:50.749Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1790377760473.866,
-      "title": "Bil mot elg i Ullensaker",
-      "slug": "bil-mot-elg-i-ullensaker",
-      "content": "Nødetatene rykket fredag kveld ut til E6 i Ullensaker etter melding om at en bil hadde kollidert med en elg.\n\n– Bilen har gått rundt og havnet på taket, opplyste politiet.\n\nDet ble meldt at bilen hadde store materielle skader, mens elgen var død.\n\nSenere kunne politiet oppdatere med at bilføreren ble fraktet til Ahus med ambulanse, men at han bare var lettere skadd.\n\nEtter kollisjonen var det bare ett felt som var åpent på E6 inn mot Oslo, og det ble meldt om store trafikale utfordringer.",
-      "excerpt": "Nødetatene rykket fredag kveld ut til E6 i Ullensaker etter melding om at en bil hadde kollidert med en elg.\n\n– Bilen har gått rundt og havnet på taket, opplyste politiet.\n\nDet ble meldt at bilen hadde store materielle skader, mens elgen var død.\n\nSenere kunne politiet oppdatere med at bilføreren...",
-      "image": null,
-      "original_url": "https://www.nrk.no/stor-oslo/bil-mot-elg-i-ullensaker-1.18037196",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-25T23:09:20.473Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790377758932.8984,
-      "title": "Harde kamper flere steder i Etiopia fredag",
-      "slug": "harde-kamper-flere-steder-i-etiopia-fredag",
-      "content": "Det meldes om harde kamper flere steder i Etiopia fredag, og telefonnettet i Tigray har brutt sammen. Det skaper stor frykt for en ny borgerkrig.\n\nIfølge nyhetsbyrået AFP har tusenvis flyktet fra droneangrep i Afar-regionen. Samtidig hevder hæren å ha drept over 700 TPLF-soldater i Amhara, mens konfliktovervåkeren Acled melder om kamper vest i Tigray.\n\nOver 600.000 mennesker mistet livet i den forrige borgerkrigen i landet fra 2020 til 2022, skriver NTB.\n\nEtiopia\n\nKrigen i Etiopia startet i november 2020 da statsminister Abiy Ahmed gikk til krig mot Tigray-provinsen og Tigrayfolkets frigjøringsfront. FN og Den afrikanske union har bedt om umiddelbar stans i kamphandlingene nord i Etiopia.",
-      "excerpt": "Det meldes om harde kamper flere steder i Etiopia fredag, og telefonnettet i Tigray har brutt sammen. Det skaper stor frykt for en ny borgerkrig.\n\nIfølge nyhetsbyrået AFP har tusenvis flyktet fra droneangrep i Afar-regionen. Samtidig hevder hæren å ha drept over 700 TPLF-soldater i Amhara, mens...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/harde-kamper-flere-steder-i-etiopia-fredag-1.18037211",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-25T23:09:18.932Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790377757387.0815,
-      "title": "Trumps valgkart avvist for tredje gang",
-      "slug": "trumps-valgkart-avvist-for-tredje-gang",
-      "content": "USAs øverste domstol har for tredje gang sagt nei til et nytt valgkart i delstaten Missouri, skriver NTB.\n\nDet nye kartet ble laget for å hjelpe Donald Trump og Republikanerne med å vinne et ekstra sete i Representantenes hus under mellomvalget i november.\n\nHøyesterett slår fast at kartet ikke kan brukes uten at innbyggerne først får stemme over det i en folkeavstemning. Dette er et nytt nederlag for Trump.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "USAs øverste domstol har for tredje gang sagt nei til et nytt valgkart i delstaten Missouri, skriver NTB.\n\nDet nye kartet ble laget for å hjelpe Donald Trump og Republikanerne med å vinne et ekstra sete i Representantenes hus under mellomvalget i november.\n\nHøyesterett slår fast at kartet ikke kan...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trumps-valgkart-avvist-for-tredje-gang-1.18037223",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-25T23:09:17.387Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3775,
+    "totalFetched": 3778,
     "totalPublished": 77,
-    "lastFetch": "2026-09-29T12:20:17.976Z",
+    "lastFetch": "2026-09-29T19:10:27.601Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
