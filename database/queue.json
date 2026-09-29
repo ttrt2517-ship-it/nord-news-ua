@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1790657234102.8987,
+      "title": "Minst elleve drept i hevnangrep i Haiti",
+      "slug": "minst-elleve-drept-i-hevnangrep-i-haiti",
+      "content": "Minst elleve sivile er drept i et hevnangrep fra en kriminell gjeng i Haiti, sier ordfører Hubert Ceneac i et radiointervju.\n\nAngrepet i byen Gros-Morne skjedde etter at en FN-støttet sikkerhetsstyrke drepte tre gjengmedlemmer under en aksjon. Da soldatene dro, hevnet gjengen seg ved å brenne ned hus og drepe innbyggere.\n\nFNs sikkerhetsråd skal nå stemme over om sikkerhetsstyrken får fortsette oppdraget i landet, skriver NTB.\n\nHaiti\n\nHaiti er et land på den karibiske øya Hispaniola. Landet er et av de fattigste i verden, preget av politisk uro, gjengvold og naturkatastrofer.",
+      "excerpt": "Minst elleve sivile er drept i et hevnangrep fra en kriminell gjeng i Haiti, sier ordfører Hubert Ceneac i et radiointervju.\n\nAngrepet i byen Gros-Morne skjedde etter at en FN-støttet sikkerhetsstyrke drepte tre gjengmedlemmer under en aksjon. Da soldatene dro, hevnet gjengen seg ved å brenne ned...",
+      "image": "https://images.unsplash.com/photo-1571171307515-ea967318c581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA2NTcyMzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/minst-elleve-drept-i-hevnangrep-i-haiti-1.18039403",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-29T04:47:14.102Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790657232333.4937,
+      "title": "Norge øker støtten for bortførte barn fra Ukraina",
+      "slug": "norge-ker-sttten-for-bortfrte-barn-fra-ukraina",
+      "content": "Norge styrker innsatsen for bortførte barn og krigsfanger fra Ukraina. Støtten kanaliseres gjennom Unicef og Røde Kors-komiteen.\n\nUtenriksminister Espen Barth Eide påpeker at Russlands ulovlige aggresjonskrig mot Ukraina har ført til alvorlige brudd på internasjonal humanitærrett og menneskerettigheter.\n\n– Vi må fortsette å sette søkelyset på dette og forsøke å bistå ukrainere som rammes av krigen, sier han. Eide forteller at midlene skal bidra til å spore de savnede og få flere hjem.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Norge styrker innsatsen for bortførte barn og krigsfanger fra Ukraina. Støtten kanaliseres gjennom Unicef og Røde Kors-komiteen.\n\nUtenriksminister Espen Barth Eide påpeker at Russlands ulovlige aggresjonskrig mot Ukraina har ført til alvorlige brudd på internasjonal humanitærrett og...",
+      "image": "https://images.unsplash.com/photo-1645546739057-2855e6900aef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA2NTcyMzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/norge-oker-stotten-for-bortforte-barn-fra-ukraina-1.18039459",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-29T04:47:12.333Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790657230498.5103,
+      "title": "Budsjettlekkasje: 400 millioner mer til E-tjenesten",
+      "slug": "budsjettlekkasje-400-millioner-mer-til-etjenesten",
+      "content": "Satsingen skal gi bedre oversikt over Russlands bevegelser.\n\nMed den nye bevilgningen øker fjorårets budsjett fra 4,8 milliarder, til 5,3 milliarder kroner.\n\n– Vi lever i en farligere verden. Den farligste siden andre verdenskrig, sier forsvarsminister Tore O. Sandvik (Ap).\n\nForsvarsministeren sier E-tjenestens arbeid til syvende og sist handler om å avverge konflikt og unngå misforståelser i en anspent tid.",
+      "excerpt": "Satsingen skal gi bedre oversikt over Russlands bevegelser.\n\nMed den nye bevilgningen øker fjorårets budsjett fra 4,8 milliarder, til 5,3 milliarder kroner.\n\n– Vi lever i en farligere verden. Den farligste siden andre verdenskrig, sier forsvarsminister Tore O. Sandvik (Ap).\n\nForsvarsministeren sier...",
+      "image": "https://images.unsplash.com/photo-1670874103167-31cff21eb845?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA2NTcyMzB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/budsjettlekkasje_-400-millioner-mer-til-e-tjenesten-1.18039460",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-29T04:47:10.498Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1790637068528.9758,
       "title": "Maricarmen (87) får flytte tilbake til leiligheten",
       "slug": "maricarmen-87-fr-flytte-tilbake-til-leiligheten",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-25T15:02:32.337Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1790348549347.8062,
-      "title": "Equinor forbyr smartbriller",
-      "slug": "equinor-forbyr-smartbriller",
-      "content": "Equinor har bestemt at det ikkje er lov å bruke smartbriller på kontora deira, med mindre det er gjeve særleg løyve til det.\n\nGrunnen til forbodet er risikoar innan informasjonstryggleik og arbeidsmiljø, seier informasjonsdirektør Sissel Rinde til EnergiWatch.\n\nSelskapet har allereie reglar for filming og fotografering, og har nyleg gjort det tydeleg korleis dette avgrensar bruken av smartbriller.\n\nEquinor\n\nOlje og gasselskapet Equinor (tidl. Statoil) har den norske stat som hovedaksjonær. Konsernsjef i Equinor er Anders Opedal. Jon Erik Reinhardsen er styreleder.\n\nTeknologi og oppfinnelser\n\nTeknologi, læren om teknikker og de tilhørende materielle produkter innenfor et bestemt område. (SNL.no) Teknologiske nyvinninger i næringsliv og forskning påvirker hverdag og arbeidsliv.",
-      "excerpt": "Equinor har bestemt at det ikkje er lov å bruke smartbriller på kontora deira, med mindre det er gjeve særleg løyve til det.\n\nGrunnen til forbodet er risikoar innan informasjonstryggleik og arbeidsmiljø, seier informasjonsdirektør Sissel Rinde til EnergiWatch.\n\nSelskapet har allereie reglar for...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/equinor-forbyr-smartbriller-1.18036944",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-25T15:02:29.347Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790348547705.6143,
-      "title": "Omstridt menighet i Asker er frikjent",
-      "slug": "omstridt-menighet-i-asker-er-frikjent",
-      "content": "Rundt 40 tidligere medlemmer gikk til søksmål mot Sannhetens Ord Bibelsenter i Slemmestad, og krevde tilbakebetalt 4,5 millioner kroner.\n\nNå er dommen klar. Sannhetens ord blir frikjent, skriver Budstikka.\n\nRetten mener at de tidligere medlemmene i utgangspunktet hadde rett til å få pengene sine tilbake, men at kravet kom for sent og var foreldet.\n\nSøksmålet gikk ut på å få tilbakebetalt pengedonasjoner som var gitt regelmessig over flere år, og som var øremerket nytt menighetsbygg.\n\nTil sammen skal flere millioner kroner være betalt inn, men det nye bygget lar fortsatt vente på seg.",
-      "excerpt": "Rundt 40 tidligere medlemmer gikk til søksmål mot Sannhetens Ord Bibelsenter i Slemmestad, og krevde tilbakebetalt 4,5 millioner kroner.\n\nNå er dommen klar. Sannhetens ord blir frikjent, skriver Budstikka.\n\nRetten mener at de tidligere medlemmene i utgangspunktet hadde rett til å få pengene sine...",
-      "image": "https://images.unsplash.com/photo-1700159337432-57fa20740d1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAzNDg1NDd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/omstridt-menighet-i-asker-er-frikjent-1.18036556",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-25T15:02:27.705Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790348546115.9106,
-      "title": "Teknisk trøbbel for Skatteetaten løst",
-      "slug": "teknisk-trbbel-for-skatteetaten-lst",
-      "content": "Skatteetaten hadde fredag problemer med ustabilitet i innlogging i noen av sine tjenester. Problemene er nå løst, melder etaten.\n\n– Brukere kan i en kort periode fredag ettermiddag ha opplevd problemer med innlogging til våre tjenester. Alle tjenester fungerer nå som normalt, sier seniorrådgiver Stig Flesland i en e-post til NTB.\n\nRundt klokken 14 meldte Skatteetaten om problemene på sine nettsider.\n\nEtaten hadde blant annet tekniske problemer knyttet til A-meldingen, den månedlige innrapporteringen arbeidsgivere må sende inn om de ansattes lønn og andre forhold.",
-      "excerpt": "Skatteetaten hadde fredag problemer med ustabilitet i innlogging i noen av sine tjenester. Problemene er nå løst, melder etaten.\n\n– Brukere kan i en kort periode fredag ettermiddag ha opplevd problemer med innlogging til våre tjenester. Alle tjenester fungerer nå som normalt, sier seniorrådgiver...",
-      "image": "https://images.unsplash.com/photo-1721305485635-13f5100711e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAzNDg1NDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/teknisk-trobbel-for-skatteetaten-lost-1.18036970",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-25T15:02:26.115Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3768,
+    "totalFetched": 3771,
     "totalPublished": 77,
-    "lastFetch": "2026-09-28T23:11:10.547Z",
+    "lastFetch": "2026-09-29T04:47:16.383Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
