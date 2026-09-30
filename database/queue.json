@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1790742777074.9045,
+      "title": "En drept og tre skadet i Kyiv",
+      "slug": "en-drept-og-tre-skadet-i-kyiv",
+      "content": "En er drept og tre skadet i et russisk missil- og droneangrep i Kyiv-regionen i Ukraina, opplyser guvernør Tymur Tkatsjenko på Telegram natt til onsdag.\n\nHan sa at det også var skader på infrastrukturanlegg i regionen, samt på privathus, lagerbygninger og biler.\n\nNatt til onsdag meldte Reuters om at vitner hadde hørt eksplosjoner i Kyiv.\n\nDet har brøt ut brann i et boligområde i byen, opplyste Kyivs ordfører Vitalij Klitsjko på Telegram.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "En er drept og tre skadet i et russisk missil- og droneangrep i Kyiv-regionen i Ukraina, opplyser guvernør Tymur Tkatsjenko på Telegram natt til onsdag.\n\nHan sa at det også var skader på infrastrukturanlegg i regionen, samt på privathus, lagerbygninger og biler.\n\nNatt til onsdag meldte Reuters om...",
+      "image": "https://images.unsplash.com/photo-1705413868961-d652425d6278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA3NDI3NzZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/en-drept-og-tre-skadet-i-kyiv--1.18040501",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-30T04:32:57.074Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790742775267.5117,
+      "title": "Sør-koreansk etterretning: Zelenskyj avslørte krigsfanger for å vinne våpenstøtte",
+      "slug": "srkoreansk-etterretning-zelenskyj-avslrte-krigsfanger-for-vi",
+      "content": "Sør-Koreas etterretningstjeneste tror Ukrainas president Volodymyr Zelenskyj kan ha offentliggjort overføringen av to nordkoreanske krigsfanger for å øke den offentlige støtten i Sør-Korea til at Seoul gir våpen til Ukraina.\n\nDet uttalte den sørkoreanske parlamentarikeren Yoo Yeong-ha onsdag, melder AFP.\n\nFra talerstolen under FNs generalforsamling forrige uke sa Zelenskyj at nordkoreanske krigsfanger var sendt til Sør-Korea.\n\nSør-Koreas president kalte uttalelsen dypt beklagelig og et avtalebrudd.\n\nForholdet mellom Sør- og Nord-Korea\n\nForholdet mellom Nord-Korea og Sør-Korea er spent. Landene inngikk aldri noen fredsavtale etter Koreakrigen på 1950-tallet.",
+      "excerpt": "Sør-Koreas etterretningstjeneste tror Ukrainas president Volodymyr Zelenskyj kan ha offentliggjort overføringen av to nordkoreanske krigsfanger for å øke den offentlige støtten i Sør-Korea til at Seoul gir våpen til Ukraina.\n\nDet uttalte den sørkoreanske parlamentarikeren Yoo Yeong-ha onsdag...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/sor-koreansk-etterretning_-zelenskyj-avslorte-krigsfanger-for-a-vinne-vapenstotte-1.18040504",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-30T04:32:55.268Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790742773457.293,
+      "title": "Polen har stengt to flyplasser på grunn av «militær aktivitet»",
+      "slug": "polen-har-stengt-to-flyplasser-p-grunn-av-militr-aktivitet",
+      "content": "Landets luftfartsmyndigheter sier flyplassene i Rzeszow og Lublin er midlertidig stengt på grunn av russiske luftangrep mot Ukraina, melder Reuters.\n\nMilitæret i landet sier også at de har aktivert radaranlegg og holder situasjonen under oppsikt.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Landets luftfartsmyndigheter sier flyplassene i Rzeszow og Lublin er midlertidig stengt på grunn av russiske luftangrep mot Ukraina, melder Reuters.\n\nMilitæret i landet sier også at de har aktivert radaranlegg og holder situasjonen under oppsikt.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/polen-har-stengt-to-flyplasser-pa-grunn-av-_militaer-aktivitet_-1.18040548",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-09-30T04:32:53.458Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1790724672479.3765,
       "title": "Streiken i private barnehager er avblåst",
       "slug": "streiken-i-private-barnehager-er-avblst",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-26T10:58:49.192Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1790420325305.4827,
-      "title": "Nordea aukar rentene",
-      "slug": "nordea-aukar-rentene",
-      "content": "Nordea hever rentene på bustadlån og innskot. Bakgrunnen er Noregs Banks renteauking 24. september og utviklinga i pengemarknadsrenta.\n\nRentesatsane på bustadlån og innskot blir auka med inntil 0,25 prosentpoeng.\n\nNye rentesatsar for eksisterande lån vil gjelde frå 26. september 2026.\n\nAlle kundar som får renteendring, vil få informasjon i nett- og mobilbanken eller motta brev i posten.\n\nSparebank 1 Sør-Norge vart fredag den første storbanken til å heve renta, etter Noregs Banks renteheving på torsdag.",
-      "excerpt": "Nordea hever rentene på bustadlån og innskot. Bakgrunnen er Noregs Banks renteauking 24. september og utviklinga i pengemarknadsrenta.\n\nRentesatsane på bustadlån og innskot blir auka med inntil 0,25 prosentpoeng.\n\nNye rentesatsar for eksisterande lån vil gjelde frå 26. september 2026.\n\nAlle kundar...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/nordea-aukar-rentene-1.18037252",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-26T10:58:45.305Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790420323687.6428,
-      "title": "Regjeringa vil doble klimastøtta til FN",
-      "slug": "regjeringa-vil-doble-klimasttta-til-fn",
-      "content": "Regjeringa har sett av 20 millionar kroner ekstra i støtte til FNs klimasekreteriat i neste års statsbudsjett, melder Panorama Nyheter.\n\nDesse pengane kjem i tillegg til den faste kontingenten på tre millionar kroner. Denne faste kontingenten vil no regjeringa doble.\n\n– Vi doblar finansieringa fordi FNs klimasekreteriat er underfinansiert og har enormt store oppgåver framfor seg ved å følgje opp forpliktingane til alle land, seier klima- og miljøminister Sigrun Aasland til Panorama.\n\nIfølgje ministeren er USA si redusering av støtta ein viktig grunn til at sekretariatet er underfinansiert.\n\n– Då er det viktig at Noreg og andre land tar ansvar og bidrar meir.\n\nKlima og miljø\n\nVerden opplever allerede klimaendringene, slår FNs klimapanel fast. Mer ekstremvær, høyere havnivå og økte helseproblemer er noen av konsekvensene, ifølge deres siste hovedrapport.",
-      "excerpt": "Regjeringa har sett av 20 millionar kroner ekstra i støtte til FNs klimasekreteriat i neste års statsbudsjett, melder Panorama Nyheter.\n\nDesse pengane kjem i tillegg til den faste kontingenten på tre millionar kroner. Denne faste kontingenten vil no regjeringa doble.\n\n– Vi doblar finansieringa...",
-      "image": "https://images.unsplash.com/photo-1619861907071-926d3117af64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA0MjAzMjN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/regjeringa-vil-doble-klimastotta-til-fn-1.18037326",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-26T10:58:43.687Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790420321934.9958,
-      "title": "Mann siktet for drapsforsøk etter knivstikking på matbutikk i Bærum",
-      "slug": "mann-siktet-for-drapsforsk-etter-knivstikking-p-matbutikk-i-",
-      "content": "En mann i 20-årene ble fredag ettermiddag pågrepet i forbindelse med en knivstikking i Sandvika tidligere i september.\n\n7. september møtte en gutt i tenårene opp på Bærum sykehus med stikkskader. Han skal ha blitt påført stikkskadene inne i og utenfor en matbutikk i Sandvika.\n\nMannen i 20-årene er siktet for drapsforsøk og fremstilles for varetektsfengsling lørdag formiddag.",
-      "excerpt": "En mann i 20-årene ble fredag ettermiddag pågrepet i forbindelse med en knivstikking i Sandvika tidligere i september.\n\n7. september møtte en gutt i tenårene opp på Bærum sykehus med stikkskader. Han skal ha blitt påført stikkskadene inne i og utenfor en matbutikk i Sandvika.\n\nMannen i 20-årene er...",
-      "image": "https://images.unsplash.com/photo-1692739843142-877be399d229?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA0MjAzMjF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/mann-siktet-for-drapsforsok-etter-knivstikking-pa-matbutikk-i-baerum-1.18037303",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-26T10:58:41.934Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3781,
+    "totalFetched": 3784,
     "totalPublished": 77,
-    "lastFetch": "2026-09-29T23:31:14.063Z",
+    "lastFetch": "2026-09-30T04:32:58.770Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
