@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1790898297796.142,
+      "title": "Stigende statsrenter presser europeiske børser",
+      "slug": "stigende-statsrenter-presser-europeiske-brser",
+      "content": "Både i USA, Storbritannia og Frankrike har statsrentene fortsatt å stige til nivåer sist sett i årene rundt tusenårsskiftet.\n\nRenteoppgangen påvirker blant annet aksjemarkedene.\n\nI Storbritannia falt indeksen FTSE 100 1,7 prosent til det laveste nivået siden slutten av juni. Den tyske Dax-indeksen falt mer enn 1 prosent til det laveste nivået på mer enn to måneder.\n\nStigende statsrenter gjør det dyrere for land å ta opp mer statsgjeld og påvirker dessuten fastrentelån, børser og mange andre deler av økonomien.",
+      "excerpt": "Både i USA, Storbritannia og Frankrike har statsrentene fortsatt å stige til nivåer sist sett i årene rundt tusenårsskiftet.\n\nRenteoppgangen påvirker blant annet aksjemarkedene.\n\nI Storbritannia falt indeksen FTSE 100 1,7 prosent til det laveste nivået siden slutten av juni. Den tyske Dax-indeksen...",
+      "image": "https://images.unsplash.com/photo-1691414203435-f3381e46ff18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA4OTgyOTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/stigende-statsrenter-presser-europeiske-borser-1.18042951",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-01T23:44:57.796Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790898296254.535,
+      "title": "Trump vurderer å be EU frigi dieselreserver",
+      "slug": "trump-vurderer-be-eu-frigi-dieselreserver",
+      "content": "USAs president Donald Trump sa torsdag at USA kan komme til å be EU-land frigi deler av sine dieselreserver for å få ned prisene, melder AFP.\n\nDieselreserver er statlige beredskapslagre øremerket krisesituasjoner.\n\n– Vi kan komme til å gjøre det. De har en del diesel, sa Trump til journalister under et valgkamparrangement i Texas.\n\nUttalelsen kommer kort tid etter at finansminister Scott Bessent oppfordret Europa til å «umiddelbart» åpne sine reserver.\n\nOnsdag sa Trump at han fremdeles vurderer et amerikansk eksportforbud på diesel, noe som kan presse europeiske dieselpriser enda høyere.\n\nHøye drivstoffpriser\n\nPå grunn av krigen i Iran, har drivstoffprisene skutt i været. Senterpartiet sikret flertall for hastebehandling av et Høyre-forslag om billigere bensin. Alle de andre rødgrønne partiene stemte imot.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "USAs president Donald Trump sa torsdag at USA kan komme til å be EU-land frigi deler av sine dieselreserver for å få ned prisene, melder AFP.\n\nDieselreserver er statlige beredskapslagre øremerket krisesituasjoner.\n\n– Vi kan komme til å gjøre det. De har en del diesel, sa Trump til journalister...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump-vurderer-a-be-eu-frigi-dieselreserver-1.18042973",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-01T23:44:56.254Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790898294756.4573,
+      "title": "OpenAI sparker forskere - anklages for feilhåndtering av sensitiv informasjon",
+      "slug": "openai-sparker-forskere-anklages-for-feilhndtering-av-sensit",
+      "content": "OpenAI uttalte torsdag at selskapet har sparket tre forskere for påstått feilhåndtering av sensitiv informasjon og brudd på selskapet retningslinjer.\n\n– Vår etterforskning bekreftet at disse personene feilhåndterte sensitiv informasjon utenfor selskapets etablerte prosedyrer, noe som bryter med våre retningslinjer og ødelegger tilliten som er helt avgjørende for vårt arbeid, sa OpenAI i en uttalelse til AFP.\n\nKunstig intelligens\n\nChatGPT er en kunstig intelligens-basert tekstgenereringsmodell fra selskapet OpenAI. Den kan brukes til å generere svar på spørsmål, skrive samtaler eller til å komplettere tekst.",
+      "excerpt": "OpenAI uttalte torsdag at selskapet har sparket tre forskere for påstått feilhåndtering av sensitiv informasjon og brudd på selskapet retningslinjer.\n\n– Vår etterforskning bekreftet at disse personene feilhåndterte sensitiv informasjon utenfor selskapets etablerte prosedyrer, noe som bryter med...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/openai-sparker-forskere---anklages-for-feilhandtering-av-sensitiv-informasjon-1.18042987",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-01T23:44:54.756Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1790882333855.505,
       "title": "Sa nei til Rød-Larsen: – Ekstravagant stil",
       "slug": "sa-nei-til-rdlarsen-ekstravagant-stil",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-28T08:22:00.452Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1790554902837.9048,
-      "title": "Flertall vil gi Riksdagens leder fornyet tillit",
-      "slug": "flertall-vil-gi-riksdagens-leder-fornyet-tillit",
-      "content": "Etter valget i Sverige er det flertall i Riksdagen for å la Andreas Norlén fortsette som talmann – Riksdagens leder – i fire nye år.\n\nModeraterna – som Norlén tilhører – og de øvrige Tidö-partiene har nominert 53-åringen, som har hatt ledervervet i den svenske nasjonalforsamlingen siden september 2018.\n\n– I denne utrolig kompliserte parlamentariske situasjonen er det bra med en talmann som er rutinert, sier avtroppende statsminister Ulf Kristersson, som leder Moderaterna.\n\nSverige\n\nSøndag 13. september var det valg i Sverige. Ulf Kristersson har vært statsminister siden 2022.",
-      "excerpt": "Etter valget i Sverige er det flertall i Riksdagen for å la Andreas Norlén fortsette som talmann – Riksdagens leder – i fire nye år.\n\nModeraterna – som Norlén tilhører – og de øvrige Tidö-partiene har nominert 53-åringen, som har hatt ledervervet i den svenske nasjonalforsamlingen siden september...",
-      "image": "https://images.unsplash.com/photo-1718341501796-e26059de00cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA1NTQ5MDJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/flertall-vil-gi-riksdagens-leder-fornyet-tillit-1.18038261",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-28T00:21:42.837Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790554901167.1426,
-      "title": "Ordførerposter glapp for AfD",
-      "slug": "ordfrerposter-glapp-for-afd",
-      "content": "Yytre-høyre-partiet AfD tapte kampen om tre ordførerverv i den tyske delstaten Niedersachsen, opplyser tyske valgmyndigheter.\n\nPartiet nådde ikke opp i noen av kommunene de stilte i under søndagens andre valgrunde. I delstatshovedstaden Hannover var det De Grønne som vant, der Belit Onay ble gjenvalgt som ordfører, skriver NTB.",
-      "excerpt": "Yytre-høyre-partiet AfD tapte kampen om tre ordførerverv i den tyske delstaten Niedersachsen, opplyser tyske valgmyndigheter.\n\nPartiet nådde ikke opp i noen av kommunene de stilte i under søndagens andre valgrunde. I delstatshovedstaden Hannover var det De Grønne som vant, der Belit Onay ble...",
-      "image": "https://images.unsplash.com/photo-1784798626299-66963fdef61e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA1NTQ5MDF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/ordforerposter-glapp-for-afd-1.18038267",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-28T00:21:41.168Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790542923065.5518,
-      "title": "Tusenvis blokkerte Oransjeordenen-parade i Nord-Irland",
-      "slug": "tusenvis-blokkerte-oransjeordenenparade-i-nordirland",
-      "content": "Tusenvis av demonstranter blokkerte søndag en gate i Portadown i Nord-Irland for å hindre Oransjeordenens parade i å passere.\n\nDemonstrantene samlet seg i store grupper langs Garvaghy Road søndag morgen. Det forsinket den planlagte starten på paraden, som skulle gå klokken 8 lokal tid.\n\nKonfrontasjonen fortsatte gjennom dagen og inn i kvelden, mens medlemmer av Oransjeordenen ventet ved Drumcree-kirken, rundt én kilometer fra veien, klare til å starte paraden.\n\nEn kjennelse fra paradekommisjonen som tillot Oransjeordenens marsj langs Garvaghy Road, ble opprettholdt under et ekstraordinært rettsmøte i høyesterett i Belfast tidlig søndag morgen.",
-      "excerpt": "Tusenvis av demonstranter blokkerte søndag en gate i Portadown i Nord-Irland for å hindre Oransjeordenens parade i å passere.\n\nDemonstrantene samlet seg i store grupper langs Garvaghy Road søndag morgen. Det forsinket den planlagte starten på paraden, som skulle gå klokken 8 lokal...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/tusenvis-blokkerte-oransjeordenen-parade-i-nord-irland-1.18038219",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-27T21:02:03.065Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3806,
+    "totalFetched": 3809,
     "totalPublished": 77,
-    "lastFetch": "2026-10-01T19:18:55.322Z",
+    "lastFetch": "2026-10-01T23:44:59.564Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
