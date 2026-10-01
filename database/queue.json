@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1790829846361.3655,
+      "title": "Elon Musk får lederrolle i Pentagon-prosjekt",
+      "slug": "elon-musk-fr-lederrolle-i-pentagonprosjekt",
+      "content": "USAs forsvarsminister Pete Hegseth gir Elon Musk en ledende rolle i et prosjekt som skal se på fremtidens krigføring.\n\nDet kunngjorde han i en tale på en militærbase i Virginia natt til torsdag, melder NTB.\n\nPentagon forventer at prosjektet, som har fått navnet Project Meridian, skal legge fram funnene sine innen 120 dager.\n\n– Målet er å kaste et kreativt blikk inn i fremtiden og finne de områdene vi må beherske og kapasitetene vi må mestre, sa Hegseth.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "USAs forsvarsminister Pete Hegseth gir Elon Musk en ledende rolle i et prosjekt som skal se på fremtidens krigføring.\n\nDet kunngjorde han i en tale på en militærbase i Virginia natt til torsdag, melder NTB.\n\nPentagon forventer at prosjektet, som har fått navnet Project Meridian, skal legge fram...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/elon-musk-far-lederrolle-i-pentagon-prosjekt-1.18041638",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-01T04:44:06.361Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790829844726.1428,
+      "title": "Tre kraftverk satt ut av spill etter eksplosjon",
+      "slug": "tre-kraftverk-satt-ut-av-spill-etter-eksplosjon",
+      "content": "I Syria er tre kraftverk ute av drift etter at en eksplosjon ved en gassrørledning utløste en voldsom brann.\n\nEksplosjonen i nærheten av hovedstaden Damaskus i går kveld kommer bare to dager etter sabotasje og eksplosjon ved en gassledning øst i landet, ifølge det offisielle nyhetsbyrået Sana.\n\nEksplosjonene skjer samtidig som protestene mot økte drivstoffpriser tiltar. (NTB)\n\nSyria\n\n8. desember 2024 rykket opprørsstyrker inn i hovedstaden Damaskus og styrtet Assad-regimet, etter at Bashar al-Assad hadde vært ved makten i 25 år.",
+      "excerpt": "I Syria er tre kraftverk ute av drift etter at en eksplosjon ved en gassrørledning utløste en voldsom brann.\n\nEksplosjonen i nærheten av hovedstaden Damaskus i går kveld kommer bare to dager etter sabotasje og eksplosjon ved en gassledning øst i landet, ifølge det offisielle nyhetsbyrået...",
+      "image": "https://images.unsplash.com/photo-1697570436749-8577541366e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA4Mjk4NDR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/tre-kraftverk-satt-ut-av-spill-etter-eksplosjon-1.18041660",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-01T04:44:04.726Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1790829842999.2659,
+      "title": "Flere drept i pakistanske luftangrep i Afghanistan",
+      "slug": "flere-drept-i-pakistanske-luftangrep-i-afghanistan",
+      "content": "Ni personer er drept og elleve såret i to pakistanske luftangrep i Afghanistan, skriver talsperson for Taliban Zabihullah Mujahid i et innlegg på X.\n\nAngrepene rammet to bolighus i Garmsir-distriktet øst i landet.\n\n– Vi fordømmer denne handlingen som en aggresjon og som en forbrytelse i strid med alle aksepterte prinsipper, skriver Mujahid.\n\nKvinner og barn er blant de drepte, ifølge talspersonen.\n\nPakistanske myndigheter bekrefter torsdag morgen at de har gjennomført luftangrep i Afghanistan.\n\nDe sier de angrep skjulestedene til terrororganisasjoner, og at store mengder våpen og ammunisjon ble ødelagt.",
+      "excerpt": "Ni personer er drept og elleve såret i to pakistanske luftangrep i Afghanistan, skriver talsperson for Taliban Zabihullah Mujahid i et innlegg på X.\n\nAngrepene rammet to bolighus i Garmsir-distriktet øst i landet.\n\n– Vi fordømmer denne handlingen som en aggresjon og som en forbrytelse i strid med...",
+      "image": "https://images.unsplash.com/photo-1603806158126-f11f5dc44808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA4Mjk4NDJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/flere-drept-i-pakistanske-luftangrep-i-afghanistan-1.18041700",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-01T04:44:02.999Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1790811136076.9636,
       "title": "Kanye West-konserter i Russland avlyst",
       "slug": "kanye-westkonserter-i-russland-avlyst",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-27T11:36:51.467Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1790509009719.9321,
-      "title": "Iran: Beslagla en amerikansk undervannsdrone i Hormuzstredet",
-      "slug": "iran-beslagla-en-amerikansk-undervannsdrone-i-hormuzstredet",
-      "content": "Den iranske revolusjonsgarden (IRGC) hevder søndag å ha beslaglagt en amerikansk undervannsdrone i Hormuzstredet.\n\n– Gjennom en koordinert og kompleks operasjon med etterretningsovervåking og elektronisk krigføring lyktes personell fra IRGCs marinestyrke med å kapre et avansert ubemannet undervannsfartøy tilhørende den terroristiske amerikanske militærmakten, heter det i en uttalelse fra IRGCs marinestyrker, ifølge statlig iransk TV.\n\nDe mener undervannsdronen drev spionasjevirksomhet i det strategisk viktige stredet. Dronen blir nå undersøkt av IRGCs spesialister, opplyses det.\n\nTidligere denne måneden opplyste Revolusjonsgarden at de hadde tatt beslag i en amerikansk undervannsdrone, også den i Hormuzstredet. Da gikk USA ut og bekreftet at en av deres undervannsdroner ett døgn tidligere «sviktet» i Hormuzstredet, men kommenterte ikke opplysningen om at den havnet i Revolusjonsgardens hender.\n\nForholdet Iran – USA\n\nSiden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Iran svarte med å blant annet blokkere Hormuzstredet. Det pågår fredsforhandlinger mellom landene,\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Den iranske revolusjonsgarden (IRGC) hevder søndag å ha beslaglagt en amerikansk undervannsdrone i Hormuzstredet.\n\n– Gjennom en koordinert og kompleks operasjon med etterretningsovervåking og elektronisk krigføring lyktes personell fra IRGCs marinestyrke med å kapre et avansert ubemannet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/iran_-beslagla-en-amerikansk-undervannsdrone-i-hormuzstredet-1.18037912",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-27T11:36:49.720Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790482470178.1995,
-      "title": "Sveitserne stemmer over strengere nøytralitet",
-      "slug": "sveitserne-stemmer-over-strengere-nytralitet",
-      "content": "Målinger tyder på et klart nei når Sveits stemmer over å stramme inn nøytraliteten sin. Forslaget vil grunnlovsfeste at landet skal være helt nøytralt, forby sanksjoner utenfor FN og stoppe et tettere samarbeid med Nato.\n\nRegjeringen og flertallet i parlamentet mener forslaget gjør det vanskelig å styre i en urolig tid. Godt over 60 prosent planlegger å stemme nei. Det stemmes også over å øke landets selvforsyningsgrad for mat til 70 prosent, men også det ligger an til å bli stemt ned, melder NTB.",
-      "excerpt": "Målinger tyder på et klart nei når Sveits stemmer over å stramme inn nøytraliteten sin. Forslaget vil grunnlovsfeste at landet skal være helt nøytralt, forby sanksjoner utenfor FN og stoppe et tettere samarbeid med Nato.\n\nRegjeringen og flertallet i parlamentet mener forslaget gjør det vanskelig å...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/sveitserne-stemmer-over-strengere-noytralitet-1.18037726",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-27T04:14:30.178Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790482468649.6218,
-      "title": "Lavrov avviser tysk krav om å dempe opptrapping",
-      "slug": "lavrov-avviser-tysk-krav-om-dempe-opptrapping",
-      "content": "Russlands utenriksminister Sergej Lavrov avviser Tysklands krav om å stanse det tyskene kaller en farlig opptrapping mot Nato, skriver NTB.\n\nMøtet i New York var det første mellom landenes utenriksministre siden krigen i Ukraina startet i 2022. Tyskland ba Russland dempe spenningen og vise vilje til fred.\n\n– Han gjentok ganske enkelt sitt offisielle standpunkt der han fordømmer Russland. Dere kan selv vurdere om det kan kalles dialog eller ikke, sa Lavrov etter møtet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Russlands utenriksminister Sergej Lavrov avviser Tysklands krav om å stanse det tyskene kaller en farlig opptrapping mot Nato, skriver NTB.\n\nMøtet i New York var det første mellom landenes utenriksministre siden krigen i Ukraina startet i 2022. Tyskland ba Russland dempe spenningen og vise vilje...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/lavrov-avviser-tysk-krav-om-a-dempe-opptrapping-1.18037724",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-27T04:14:28.649Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3795,
+    "totalFetched": 3798,
     "totalPublished": 77,
-    "lastFetch": "2026-09-30T23:32:17.759Z",
+    "lastFetch": "2026-10-01T04:44:08.042Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
