@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1791054251897.0571,
+      "title": "Etiopiske styrkar har teke seg inn i Mekele",
+      "slug": "etiopiske-styrkar-har-teke-seg-inn-i-mekele",
+      "content": "Laurdag kom det meldingar om at Tigrayfolkets frigjøringsfront (TPLF) har forlate regionhovudstaden Mekele nord i Etiopia, ifølge AFP.\n\nIfølge kjelder som nyheitsbyrået har snakka med, har regjeringsstyrkar teke kontroll over byen.\n\nOgså AP har snakka med kjelder som seier at regjeringsstyrkane har teke kontroll over flyplassen i byen.\n\nI 2020 braut det ut ein borgarkrig mellom TPLF og regjeringa. Rundt 600.000 menneske har truleg mista livet i krigen, som varte til 2022.\n\nEtiopia\n\nKrigen i Etiopia startet i november 2020 da statsminister Abiy Ahmed gikk til krig mot Tigray-provinsen og Tigrayfolkets frigjøringsfront. FN og Den afrikanske union har bedt om umiddelbar stans i kamphandlingene nord i Etiopia.",
+      "excerpt": "Laurdag kom det meldingar om at Tigrayfolkets frigjøringsfront (TPLF) har forlate regionhovudstaden Mekele nord i Etiopia, ifølge AFP.\n\nIfølge kjelder som nyheitsbyrået har snakka med, har regjeringsstyrkar teke kontroll over byen.\n\nOgså AP har snakka med kjelder som seier at regjeringsstyrkane har...",
+      "image": "https://images.unsplash.com/photo-1753696278559-38efaeafab72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTEwNTQyNTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/etiopiske-styrkar-har-teke-seg-inn-i-mekele-1.18044607",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-03T19:04:11.897Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791054250146.9233,
+      "title": "Slo bussjåfør i Sarpsborg: Gjerningsperson på frifot",
+      "slug": "slo-bussjfr-i-sarpsborg-gjerningsperson-p-frifot",
+      "content": "En bussjåfør i Sarpsborg er sendt til legevakten etter å ha blitt slått av en passasjer.\n\nVoldshendelsen skjedde da sjåføren prøvde å stoppe en krangel mellom flere personer på bussen, ifølge politiet.\n\nOperasjonsleder Nikolai Mathisen opplyser at den fornærmede er en lokal mann i trettiårene og blir behandlet for et kutt over det ene øyet.\n\nPolitiet har ikke kontroll på gjerningspersonen, men jobber på stedet med vitneavhør.\n\n– De involverte løp fra stedet før vi fikk kontroll på de. Vi har ingen god beskrivelse på hvem som slo bussjåføren per nå, sier Mathisen til NRK.",
+      "excerpt": "En bussjåfør i Sarpsborg er sendt til legevakten etter å ha blitt slått av en passasjer.\n\nVoldshendelsen skjedde da sjåføren prøvde å stoppe en krangel mellom flere personer på bussen, ifølge politiet.\n\nOperasjonsleder Nikolai Mathisen opplyser at den fornærmede er en lokal mann i trettiårene og...",
+      "image": null,
+      "original_url": "https://www.nrk.no/ostfold/slo-bussjafor-i-sarpsborg_-gjerningsperson-pa-frifot-1.18044620",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-03T19:04:10.146Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791054248416.5388,
+      "title": "Leter etter ungdommer på fjell i Hustavika",
+      "slug": "leter-etter-ungdommer-p-fjell-i-hustavika",
+      "content": "Det er satt i gang en søk- og redningsaksjon etter to unge personer i Hustadvika. De skal ikke være skadet, men har gått seg vill på fjellet Snøtiden og trenger hjelp, opplyser politiet. Redningshelikopter er kalt ut.\n\n– Vi har snakket personene og mener det er mulig å hente dem ut med helikopter, sier operasjonsleder Tove Susann Brunvold Holst-Dyrnes i Møre og Romsdal politidistrikt.\n\nI en oppdatering klokken 20.20 skriver operasjonslederen at på grunn av dårlig vær blir også også frivillige kalt ut.\n\nNyheitssenter Møre og Romsdal\n\nSiste nytt frå Møre og Romsdal. Tips oss eller send bilete og video på https://bidra.nrk.no/nrkmr",
+      "excerpt": "Det er satt i gang en søk- og redningsaksjon etter to unge personer i Hustadvika. De skal ikke være skadet, men har gått seg vill på fjellet Snøtiden og trenger hjelp, opplyser politiet. Redningshelikopter er kalt ut.\n\n– Vi har snakket personene og mener det er mulig å hente dem ut med helikopter...",
+      "image": "https://images.unsplash.com/photo-1697650041996-46f2ab2e415f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTEwNTQyNDh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/mr/leter-etter-ungdommer-pa-fjell-i-hustavika--1.18044618",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-03T19:04:08.416Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1791042801956.6309,
       "title": "Renault med milliardinvestering i billige elbilar",
       "slug": "renault-med-milliardinvestering-i-billige-elbilar",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-09-30T12:05:33.229Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1790769931574.9573,
-      "title": "Brende: Møtte ikkje Epstein då han var utanriksminister",
-      "slug": "brende-mtte-ikkje-epstein-d-han-var-utanriksminister",
-      "content": "Han er den einaste av dei som møter i høyringane i dag, som ein veit har hatt kontakt med og møtte den dømte seksualforbryteren Jeffrey Epstein. Det skjedde i åra 2018 og 2019, åra etter han gjekk av som utanriksminister.\n\nHan startar å svare at han aldri hadde kontakt med Epstein då han var utanriksminister.\n\nKontakten skjedde då han var president i World Economic Forum.\n\nFørst nekta han for å ha hatt kontakt med Epstein, og det angra han på i dag.\n\n– Eg vil beklage at eg ikkje var ærleg med ein gong, seier Brende.\n\n– Eg var nok redd for at kontakten ville bli tolka som noko meir enn den var. Og for at det ville ramme forumet rett før Davos. Det viste eg dårleg handlekraft, seier Brende.\n\nJeffrey Epstein-saken\n\nOnsdag og tordag skal flere tidligere statsråder svare i en høring på Stortinget. De flere millionene Epstein-dokumentene som USAs justisdepartement offentliggjorde tidligere i år, har fått konsekvenser også langt inn i det offentlige Norge.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
-      "excerpt": "Han er den einaste av dei som møter i høyringane i dag, som ein veit har hatt kontakt med og møtte den dømte seksualforbryteren Jeffrey Epstein. Det skjedde i åra 2018 og 2019, åra etter han gjekk av som utanriksminister.\n\nHan startar å svare at han aldri hadde kontakt med Epstein då han var...",
-      "image": "https://images.unsplash.com/photo-1554140781-33058d9962b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA3Njk5MzF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/brende_-motte-ikkje-epstein-da-han-var-utanriksminister-1.18040917",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-30T12:05:31.574Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790742777074.9045,
-      "title": "En drept og tre skadet i Kyiv",
-      "slug": "en-drept-og-tre-skadet-i-kyiv",
-      "content": "En er drept og tre skadet i et russisk missil- og droneangrep i Kyiv-regionen i Ukraina, opplyser guvernør Tymur Tkatsjenko på Telegram natt til onsdag.\n\nHan sa at det også var skader på infrastrukturanlegg i regionen, samt på privathus, lagerbygninger og biler.\n\nNatt til onsdag meldte Reuters om at vitner hadde hørt eksplosjoner i Kyiv.\n\nDet har brøt ut brann i et boligområde i byen, opplyste Kyivs ordfører Vitalij Klitsjko på Telegram.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "En er drept og tre skadet i et russisk missil- og droneangrep i Kyiv-regionen i Ukraina, opplyser guvernør Tymur Tkatsjenko på Telegram natt til onsdag.\n\nHan sa at det også var skader på infrastrukturanlegg i regionen, samt på privathus, lagerbygninger og biler.\n\nNatt til onsdag meldte Reuters om...",
-      "image": "https://images.unsplash.com/photo-1705413868961-d652425d6278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA3NDI3NzZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/en-drept-og-tre-skadet-i-kyiv--1.18040501",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-30T04:32:57.074Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790742775267.5117,
-      "title": "Sør-koreansk etterretning: Zelenskyj avslørte krigsfanger for å vinne våpenstøtte",
-      "slug": "srkoreansk-etterretning-zelenskyj-avslrte-krigsfanger-for-vi",
-      "content": "Sør-Koreas etterretningstjeneste tror Ukrainas president Volodymyr Zelenskyj kan ha offentliggjort overføringen av to nordkoreanske krigsfanger for å øke den offentlige støtten i Sør-Korea til at Seoul gir våpen til Ukraina.\n\nDet uttalte den sørkoreanske parlamentarikeren Yoo Yeong-ha onsdag, melder AFP.\n\nFra talerstolen under FNs generalforsamling forrige uke sa Zelenskyj at nordkoreanske krigsfanger var sendt til Sør-Korea.\n\nSør-Koreas president kalte uttalelsen dypt beklagelig og et avtalebrudd.\n\nForholdet mellom Sør- og Nord-Korea\n\nForholdet mellom Nord-Korea og Sør-Korea er spent. Landene inngikk aldri noen fredsavtale etter Koreakrigen på 1950-tallet.",
-      "excerpt": "Sør-Koreas etterretningstjeneste tror Ukrainas president Volodymyr Zelenskyj kan ha offentliggjort overføringen av to nordkoreanske krigsfanger for å øke den offentlige støtten i Sør-Korea til at Seoul gir våpen til Ukraina.\n\nDet uttalte den sørkoreanske parlamentarikeren Yoo Yeong-ha onsdag...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/sor-koreansk-etterretning_-zelenskyj-avslorte-krigsfanger-for-a-vinne-vapenstotte-1.18040504",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-09-30T04:32:55.268Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3832,
+    "totalFetched": 3835,
     "totalPublished": 77,
-    "lastFetch": "2026-10-03T15:53:23.929Z",
+    "lastFetch": "2026-10-03T19:04:13.526Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
