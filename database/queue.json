@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1791249039068.7754,
+      "title": "Meslingutbrot i USA",
+      "slug": "meslingutbrot-i-usa",
+      "content": "Helsestyresmaktene i Pennsylvania melder måndag om over 1000 meslingtilfelle i delstaten, melder Reuters.\n\n198 personar er lagde inn på sjukehus på grunn av sjukdommen.\n\nOgså i nabostaten New York er det registrert 108 tilfelle av barnesjukdommen, som det finst vaksinar mot.\n\nGuvernør i New York, Kathy Hochul, har innført smitteverntiltak som skal gjelde fram til 4. november, melder nyheitsbyrået.\n\nUtbrota kjem etter aukande vaksineskepsis i USA på grunn av makta og innverknaden til helseminister Robert F. Kennedy jr., skriv The Guardian.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nMeslinger\n\n142.000 mennesker døde av meslinger i verden i 2018. Det er 15 prosent flere enn året før, ifølge WHO. Folkehelseinstituttet opplyser at antall tilfeller av meslinger i Norge øker, fra null i 2016, til 12 smittetilfeller i fjor.\n\nVaksine\n\nDe fleste vaksineringer i Norge gis gjennom vaksinasjonsprogrammet for barn og ungdom. Å ta vaksine mot smittsomme sykdommer er ikke påbud i Norge, men mange tar til orde for at det bør bli obligatorisk av hensyn til folkehelsa.",
+      "excerpt": "Helsestyresmaktene i Pennsylvania melder måndag om over 1000 meslingtilfelle i delstaten, melder Reuters.\n\n198 personar er lagde inn på sjukehus på grunn av sjukdommen.\n\nOgså i nabostaten New York er det registrert 108 tilfelle av barnesjukdommen, som det finst vaksinar mot.\n\nGuvernør i New York...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/meslingutbrot-i-usa-1.18046259",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-06T01:10:39.068Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791249037321.7336,
+      "title": "Sjåfør drakk vodka – hadde 3,47 i promille",
+      "slug": "sjfr-drakk-vodka-hadde-347-i-promille",
+      "content": "En mann i 50-årene er i Romerike og Glåmdal tingrett dømt til 24 dager i fengsel og tap av førerkortet i tre år etter at han kjørte i ruspåvirket tilstand.\n\nI dommen fra Romerike og Glåmdal tingrett kommer det fram at mannen hadde en promille på 3,47 kort tid etter at han kjørte i Kongsvinger i sommer.\n\nI retten ga mannen en uforbeholden tilståelse, og erkjente at han hadde drukket vodka kort tid før han ble stoppet.\n\nMannen må i tillegg betale en bot på 35.000 kroner.",
+      "excerpt": "En mann i 50-årene er i Romerike og Glåmdal tingrett dømt til 24 dager i fengsel og tap av førerkortet i tre år etter at han kjørte i ruspåvirket tilstand.\n\nI dommen fra Romerike og Glåmdal tingrett kommer det fram at mannen hadde en promille på 3,47 kort tid etter at han kjørte i Kongsvinger i...",
+      "image": "https://images.unsplash.com/photo-1729721277487-67e0db2fe164?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTEyNDkwMzd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/innlandet/sjafor-drakk-vodka-_-hadde-3_47-i-promille-1.18046286",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-06T01:10:37.321Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791249035566.1384,
+      "title": "Houthi-militsen hevder de har angrepet flyplass",
+      "slug": "houthimilitsen-hevder-de-har-angrepet-flyplass",
+      "content": "Den iranskstøttede houthi-militsen i Jemen hevder de har angrepet den internasjonale lufthavnen i Riyadh.\n\nKhalid internasjonale lufthavn ligger nord for sentrum av den saudiarabiske hovedstaden.\n\nIfølge militsen har de også angrepet et raffineri til det statseide oljeselskapet Aramco.\n\nAngrepene mot Saudi-Arabia ble gjennomført med droner, ballistiske missiler og kryssermissiler, ifølge militsens talsperson Yahya Saree.\n\nJemen\n\nDen blodige borgerkrigen i Jemen startet i 2014 da Houthi-geriljaen tok hovedstaden Sana. Det førte til at en koalisjon ledet av Saudi-Arabia intervenerte for å støtte den internasjonalt anerkjente regjeringen.",
+      "excerpt": "Den iranskstøttede houthi-militsen i Jemen hevder de har angrepet den internasjonale lufthavnen i Riyadh.\n\nKhalid internasjonale lufthavn ligger nord for sentrum av den saudiarabiske hovedstaden.\n\nIfølge militsen har de også angrepet et raffineri til det statseide oljeselskapet Aramco.\n\nAngrepene...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/houthi-militsen-hevder-de-har-angrepet-flyplass-1.18046315",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-06T01:10:35.566Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1791227198648.7961,
       "title": "&#039;Opportunities for all&#039;: What King Harald’s speech said about integration in Norway",
       "slug": "039opportunities-for-all039-what-king-haralds-speech-said-ab",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-02T12:03:19.740Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1790942598011.0217,
-      "title": "Regjeringens løfte: – Folk skal få bedre råd",
-      "slug": "regjeringens-lfte-folk-skal-f-bedre-rd",
-      "content": "Kong Haakon leste trontalen under Stortingets høytidelige åpning i dag. Talen er ført i pennen av regjeringen, og den handler om regjeringens program for det kommende året.\n\n– Regjeringen har et klart mål: Folk skal få bedre råd, het det i talen.\n\nRegjeringen viser til lavere priser på barnehage og SFO, samt norgespris på strøm.\n\n– Skatten på vanlige inntekter er kuttet, og lønningene har de siste årene steget mer enn prisene.\n\nSamtidig advarer regjeringen om at bedringen i folks økonomi er sårbar, fordi krig og uro kan presse opp prisen på energi, mat og andre varer.\n\n– Regjeringen vil derfor bruke oljepengene ansvarlig og føre en økonomisk politikk som ikke presser opp prisene og rentene.\n\nDet er en historisk dag når kong Haakon fredag gjør en av sine viktigste oppgaver som konge. Dronning Mette-Marit kan ikke delta grunnet sykdom.\n\nStortinget\n\nRiksrevisjonen har undersøkt 500 stortingsrepresentanters bruk av blant annet pendlerboliger, reiseutgifter og etterlønn. Over 60 har fått for mye utbetalt og kontrollen har vært for dårlig, konkluderer riksrevisoren.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026.",
-      "excerpt": "Kong Haakon leste trontalen under Stortingets høytidelige åpning i dag. Talen er ført i pennen av regjeringen, og den handler om regjeringens program for det kommende året.\n\n– Regjeringen har et klart mål: Folk skal få bedre råd, het det i talen.\n\nRegjeringen viser til lavere priser på barnehage og...",
-      "image": "https://images.unsplash.com/photo-1577625371769-0cf4d2de8c16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA5NDI1OTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/regjeringens-lofte_-_-folk-skal-fa-bedre-rad-1.18043630",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-02T12:03:18.011Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790942596312.4937,
-      "title": "Politiet: Melding om eksplosjon på Økern",
-      "slug": "politiet-melding-om-eksplosjon-p-kern",
-      "content": "Nødetatene har fått melding om en mulig eksplosjon på Økern i Oslo.\n\n– Vi har ikke avklart hva dette er, men sender ressurser mot området, opplyser politiet.\n\n– Vi jobber med evakuering, og tar ut sikkerhetsavstand på 50 og 100 meter, sier operasjonsleder Tor Gulbrandsen til NRK.",
-      "excerpt": "Nødetatene har fått melding om en mulig eksplosjon på Økern i Oslo.\n\n– Vi har ikke avklart hva dette er, men sender ressurser mot området, opplyser politiet.\n\n– Vi jobber med evakuering, og tar ut sikkerhetsavstand på 50 og 100 meter, sier operasjonsleder Tor Gulbrandsen til NRK.",
-      "image": "https://images.unsplash.com/photo-1738574603764-bbe948d18fbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA5NDI1OTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/stor-oslo/politiet_-melding-om-eksplosjon-pa-okern-1.18043713",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-02T12:03:16.312Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790915746246.372,
-      "title": "Nytt angrep på tankskip i Hormuzstredet",
-      "slug": "nytt-angrep-p-tankskip-i-hormuzstredet",
-      "content": "Et tankskip begynte å brenne etter å ha blitt truffet av et prosjektil i Hormuzstredet, opplyser britiske UKMTO.\n\nSkipsovervåkingstjenesten fikk melding fra en tredjepart om at skipet ble truffet av et ukjent prosjektil mens det var på vei gjennom det viktige stredet.\n\nBrannen om bord ble raskt slukket, og mannskapet skal være i sikkerhet.\n\nDet er ikke avklart hvor store skader skipet fikk eller om angrepet har ført til miljøødeleggelser. Myndighetene etterforsker saken, men det er foreløpig ikke klart hvem som skjøt mot skipet.\n\nIran blokkerer fortsatt det meste av trafikken gjennom Hormuzstredet, som forbinder Persiabukta med Indiahavet. I fredstid passerer rundt en femdel av verdens olje gjennom det strategisk viktige farvannet. (NTB)\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.",
-      "excerpt": "Et tankskip begynte å brenne etter å ha blitt truffet av et prosjektil i Hormuzstredet, opplyser britiske UKMTO.\n\nSkipsovervåkingstjenesten fikk melding fra en tredjepart om at skipet ble truffet av et ukjent prosjektil mens det var på vei gjennom det viktige stredet.\n\nBrannen om bord ble raskt...",
-      "image": "https://images.unsplash.com/photo-1658557728785-f47d86f58752?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA5MTU3NDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/nytt-angrep-pa-tankskip-i-hormuzstredet-1.18043001",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-02T04:35:46.246Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3861,
+    "totalFetched": 3864,
     "totalPublished": 77,
-    "lastFetch": "2026-10-05T19:06:39.648Z",
+    "lastFetch": "2026-10-06T01:10:40.702Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
