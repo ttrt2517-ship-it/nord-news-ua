@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1791276065151.372,
+      "title": "Analytiker tror regjeringen bommer med norgespris",
+      "slug": "analytiker-tror-regjeringen-bommer-med-norgespris",
+      "content": "Kraftanalytiker Tor Reier Lilleholt tror regjeringen bommer kraftig når den anslår å bruke 16,4 milliarder kroner på norgespris og strømstøtte på strøm og fjernvarme neste år.\n\nMed forbehold om at strømprisene skulle bli vesentlig lavere enn framtidsprisene tilsier og med den forutsetning at like mange velger ordningen i 2027 som i dag, får Lilleholt et helt annet tall.\n\n– Når jeg regner på dette, så får jeg mer enn 22 milliarder kroner, sier Lilleholt, som er analysesjef i Volue Insight til NRK.\n\nOgså i år bommet regjeringen ganske kraftig på kostnadene. Det første anslaget lå under 10 milliarder, mens den reelle kostnaden ble nærmere 25 milliarder kroner.\n\nRegjeringen foreslår å gjøre ordningen med norgespris på strøm mindre gunstig for forbrukerne neste år. LO-kjempen Fellesforbundet tordner mot forslaget. Også Rødt går imot.\n\nStrømpriser\n\nDe siste to årene har strømprisen i store deler av landet vært uvanlig høy. Markedsprisen på strøm kan følges fra time til time på strømbørsen Nord Pool.",
+      "excerpt": "Kraftanalytiker Tor Reier Lilleholt tror regjeringen bommer kraftig når den anslår å bruke 16,4 milliarder kroner på norgespris og strømstøtte på strøm og fjernvarme neste år.\n\nMed forbehold om at strømprisene skulle bli vesentlig lavere enn framtidsprisene tilsier og med den forutsetning at like...",
+      "image": "https://images.unsplash.com/photo-1667560756085-b821e52b9b36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTEyNzYwNjV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/analytiker-tror-regjeringen-bommer-med-norgespris-1.18046542",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-06T08:41:05.151Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791276063580.8672,
+      "title": "Senterpartiet sier nei til økt norgespris",
+      "slug": "senterpartiet-sier-nei-til-kt-norgespris",
+      "content": "Regjeringen foreslår å øke regjeringen innslagspunktet for norgespris til 56 øre med moms, fra dagens 50 øre.\n\n– Vi ser ikke at det er noen grunn til at folk skal få vesentlig dyrere strømpris. Dette er beviset på at strømpolitikken i Norge er feilslått, sier Sps energipolitiske talsperson Maren Grøthe til NTB.\n\nPrisøkningen er på 12,5 prosent, noe som er vesentlig høyere enn den øvrige prisveksten.",
+      "excerpt": "Regjeringen foreslår å øke regjeringen innslagspunktet for norgespris til 56 øre med moms, fra dagens 50 øre.\n\n– Vi ser ikke at det er noen grunn til at folk skal få vesentlig dyrere strømpris. Dette er beviset på at strømpolitikken i Norge er feilslått, sier Sps energipolitiske talsperson Maren...",
+      "image": "https://images.unsplash.com/photo-1661698048095-de683d582ea0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTEyNzYwNjN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/senterpartiet-sier-nei-til-okt-norgespris-1.18046579",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-06T08:41:03.580Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791276061912.4043,
+      "title": "Israel høyner beredskapen før 7. oktober",
+      "slug": "israel-hyner-beredskapen-fr-7-oktober",
+      "content": "Israels forsvarsminister Israel Katz truer Gazas befolkning i en tordentale før årsdagen for Hamas-angrepet 7. oktober 2023 der rundt 1200 personer ble drept.\n\n– Dersom, Gud forby, våre styrker blir skadet, er det Hamas og Gazas befolkning som vil betale en svært høy pris – langt utover alle proporsjoner, heter det i Katz' uttalelse tirsdag.\n\nForsvarsministerens kontor opplyste at militæret (IDF) har fått ordre om å høyne beredskapen, skriver NTB.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
+      "excerpt": "Israels forsvarsminister Israel Katz truer Gazas befolkning i en tordentale før årsdagen for Hamas-angrepet 7. oktober 2023 der rundt 1200 personer ble drept.\n\n– Dersom, Gud forby, våre styrker blir skadet, er det Hamas og Gazas befolkning som vil betale en svært høy pris – langt utover alle...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/israel-hoyner-beredskapen-for-7.-oktober-1.18046614",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-06T08:41:01.912Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1791249039068.7754,
       "title": "Meslingutbrot i USA",
       "slug": "meslingutbrot-i-usa",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-02T19:02:04.188Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1790967722557.1946,
-      "title": "Ordføreren i Kyiv: – Dramatisk situasjon",
-      "slug": "ordfreren-i-kyiv-dramatisk-situasjon",
-      "content": "– Fienden river Kyiv i stykker, advarer ordfører Vitalij Klitsjko i den ukrainske hovedstaden.\n\nHan skrev om situasjonen på meldingstjenesten Telegram fredag, etter flere russiske angrep på broer over elva Dnipro. Klitsjko har kalt angrepene et forsøk på å ramme folks dagligliv.\n\n– Hovedstaden er i en veldig dramatisk situasjon, skrev han på Telegram.\n\n– Det er ikke lenger mulig å late som vi kan leve slik vi gjorde i fredstid, la han til.\n\nEt av broangrepene førte fredag til lange køer av busser og biler i Kyiv. På Telegram beskyldte Klitsjko russerne for å rive Kyiv i stykker.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "– Fienden river Kyiv i stykker, advarer ordfører Vitalij Klitsjko i den ukrainske hovedstaden.\n\nHan skrev om situasjonen på meldingstjenesten Telegram fredag, etter flere russiske angrep på broer over elva Dnipro. Klitsjko har kalt angrepene et forsøk på å ramme folks dagligliv.\n\n– Hovedstaden er i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ordforeren-i-kyiv_-_-dramatisk-situasjon-1.18044094",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-02T19:02:02.558Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790967720885.1223,
-      "title": "Dødsdømt kvinne i Tennessee: Bevisstløs og i respirator",
-      "slug": "ddsdmt-kvinne-i-tennessee-bevisstls-og-i-respirator",
-      "content": "Dødsdømte Christa Pike, som ble utsatt for to mislykkede henrettelsesforsøk onsdag kveld, er bevisstløs og mottar pustehjelp.\n\nAnsatte ved sykehuset hun ligger på, jobber med å redde Pikes liv og «rense kroppen hennes fra pentobarbitalen hun fikk injisert», heter det i et rettsdokument fra advokatene hennes sendt inn fredag.\n\nIfølge dokumentet fikk advokatene siste oppdatering sent torsdag kveld lokal tid.\n\nPike fikk to dødelige doser Pentobarbital under onsdagens forsøk på å henrette henne.\n\nChrista Gail Pike (50) ble dømt til døden for et drap hun og kjæresten begikk i 1995, da hun var 18 år gammel. Hun skulle etter planen bli den første kvinnen som ble henrettet i Tennessee på over 200 år.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Dødsdømte Christa Pike, som ble utsatt for to mislykkede henrettelsesforsøk onsdag kveld, er bevisstløs og mottar pustehjelp.\n\nAnsatte ved sykehuset hun ligger på, jobber med å redde Pikes liv og «rense kroppen hennes fra pentobarbitalen hun fikk injisert», heter det i et rettsdokument fra...",
-      "image": "https://images.unsplash.com/photo-1695982206853-e00a5ae58297?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA5Njc3MjB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/dodsdomt-kvinne-i-tennessee_-bevisstlos-og-i-respirator-1.18044174",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-02T19:02:00.885Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1790942599739.8481,
-      "title": "Foreslår 40 millionar til romteknologi",
-      "slug": "foreslr-40-millionar-til-romteknologi",
-      "content": "Regjeringa foreslår 40 millionar kroner til forsking og innovasjon innan romteknologi i statsbudsjettet for 2027, skriv Universitetet i Bergen i ei pressemelding.\n\nDette skal skje gjennom ein koordinert satsing ved Universitetet i Bergen, Universitetet i Oslo, Noregs teknisk-naturvitenskapelege universitet og Universitetet i Tromsø.  Pengane skal fordelast likt mellom dei fire universiteta.  – UiB ser svært positivt på regjeringas prioritering av ein koordinert, nasjonal satsing, og vil bidra aktivt gjennom våre sterke fagmiljø innan fysikk og informatikk, seier rektor ved UiB, Margareth Hagen i pressemeldinga.   Heilårseffekten av satsinga utgjer 80 millionar kroner frå og med 2028.",
-      "excerpt": "Regjeringa foreslår 40 millionar kroner til forsking og innovasjon innan romteknologi i statsbudsjettet for 2027, skriv Universitetet i Bergen i ei pressemelding.\n\nDette skal skje gjennom ein koordinert satsing ved Universitetet i Bergen, Universitetet i Oslo, Noregs teknisk-naturvitenskapelege...",
-      "image": "https://images.unsplash.com/photo-1721305485635-13f5100711e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA5NDI1OTl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestland/foreslar-40-millionar-til-romteknologi-1.18043623",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-02T12:03:19.740Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3864,
+    "totalFetched": 3867,
     "totalPublished": 77,
-    "lastFetch": "2026-10-06T01:10:40.702Z",
+    "lastFetch": "2026-10-06T08:41:06.442Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
