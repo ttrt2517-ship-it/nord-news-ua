@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1791348754975.5518,
+      "title": "Ukraina: To drept i Kyiv",
+      "slug": "ukraina-to-drept-i-kyiv",
+      "content": "To mennesker er drept i russiske luftangrep mot Kyiv natt til onsdag, ifølge lokale myndigheter.\n\nI forkant hadde president Zelensky advart om et mulig «massivt angrep» fra Russland.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "To mennesker er drept i russiske luftangrep mot Kyiv natt til onsdag, ifølge lokale myndigheter.\n\nI forkant hadde president Zelensky advart om et mulig «massivt angrep» fra Russland.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukraina_-to-drept-i-kyiv-1.18047435",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-07T04:52:34.975Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791348753503.4946,
+      "title": "Enighet i mekling – unngår streik hos helse- og velferdsbedrifter",
+      "slug": "enighet-i-mekling-unngr-streik-hos-helse-og-velferdsbedrifte",
+      "content": "Det blir ingen streik i private helse- og velferdsbedrifter. Norsk Sykepleierforbund og NHO Geneo ble enige i meklingen litt over klokken 06.00 onsdag morgen, melder NHO Geneo.\n\nDe ansatte får et generelt lønnstillegg på 6,50 kroner timen, i tillegg til nye minstelønner og tillegg for ugunstig arbeidstid. NHO opplyser at avtalen betyr at de private bedriftene nå vil lønne sykepleiere bedre enn det kommunene gjør.",
+      "excerpt": "Det blir ingen streik i private helse- og velferdsbedrifter. Norsk Sykepleierforbund og NHO Geneo ble enige i meklingen litt over klokken 06.00 onsdag morgen, melder NHO Geneo.\n\nDe ansatte får et generelt lønnstillegg på 6,50 kroner timen, i tillegg til nye minstelønner og tillegg for ugunstig...",
+      "image": "https://images.unsplash.com/photo-1710232184386-0f4b4bac94f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTEzNDg3NTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/enighet-i-mekling-_-unngar-streik-hos-helse--og-velferdsbedrifter-1.18047480",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-07T04:52:33.503Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791348751942.4578,
+      "title": "VG: 6,4 milliarder i skattelettelser",
+      "slug": "vg-64-milliarder-i-skattelettelser",
+      "content": "Regjeringen foreslår 6,4 milliarder i skattelettelser i neste års statsbudsjett, skriver VG.\n\n– Vi foreslår brede lettelser i inntektsskatten med et kutt på 6,4 milliarder kroner. Dette er det største kuttet i inntektsskatten på 20 år i et enkeltbudsjett: Vi må tilbake til 2005 for å finne større lettelser i inntektsskatten, sier statsminister Jonas Gahr Støre til avisen.\n\nHan forteller at pengene skal brukes på å blant annet øke personfradraget og redusere trygdeavgiften.\n\nKuttet skal ikke finansieres med oljepenger, men kutter utgifter blant annet ved å fjerne elbilfordeler.",
+      "excerpt": "Regjeringen foreslår 6,4 milliarder i skattelettelser i neste års statsbudsjett, skriver VG.\n\n– Vi foreslår brede lettelser i inntektsskatten med et kutt på 6,4 milliarder kroner. Dette er det største kuttet i inntektsskatten på 20 år i et enkeltbudsjett: Vi må tilbake til 2005 for å finne større...",
+      "image": "https://images.unsplash.com/photo-1697650041996-46f2ab2e415f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTEzNDg3NTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/vg_-6_4-milliarder-i-skattelettelser-1.18047491",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-07T04:52:31.942Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1791325618660.692,
       "title": "Equinor: – Må bli bedre på kommunikasjon rundt hva vi faktisk gjør",
       "slug": "equinor-m-bli-bedre-p-kommunikasjon-rundt-hva-vi-faktisk-gjr",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-03T11:15:32.372Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1791026129071.0222,
-      "title": "Valg i Latvia mens frykten for Russland øker",
-      "slug": "valg-i-latvia-mens-frykten-for-russland-ker",
-      "content": "Latvia velger lørdag ny nasjonalforsamling etter at den forrige regjeringen ble felt under en politisk krise knyttet til håndteringen av det som skal ha vært ukrainske droner på avveier.\n\nValget holdes i en tid da frykten for russiske sabotasjeaksjoner og andre former for russisk destabilisering øker det baltiske landet.\n\nLatvia var fram til 1990 en del av det tidligere Sovjetunionen. Landet er med sin grense mot Russland spesielt utsatt for såkalte russiske hybridangrep.",
-      "excerpt": "Latvia velger lørdag ny nasjonalforsamling etter at den forrige regjeringen ble felt under en politisk krise knyttet til håndteringen av det som skal ha vært ukrainske droner på avveier.\n\nValget holdes i en tid da frykten for russiske sabotasjeaksjoner og andre former for russisk destabilisering...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/valg-i-latvia-mens-frykten-for-russland-oker-1.18044346",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-03T11:15:29.071Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1791026127582.119,
-      "title": "Kan flytte hjem etter storbrann i Porsgrunn",
-      "slug": "kan-flytte-hjem-etter-storbrann-i-porsgrunn",
-      "content": "Beboerne som ble evakuert etter en storbrann i et næringsbygg i Porsgrunn i går kan nå flytte hjem igjen.\n\nDet bekrefter Grenland brann og redning etter et møte med kriseledelsen i Porsgrunn kommune nå i formiddag.\n\nDen voldsomme brannen som oppsto Knarrdalstrand i Porsgrunn natt til fredag er nå slukket.\n\n– Vi har landa på at det er riktig å oppheve sperringene, sånn at folk kan flytte tilbake og veien kan åpne igjen, sier brannvesenets innsatsleder Stian Frislid.\n\nHan legger til at det fortsatt vil være synlig røyk fra området gjennom helgen.",
-      "excerpt": "Beboerne som ble evakuert etter en storbrann i et næringsbygg i Porsgrunn i går kan nå flytte hjem igjen.\n\nDet bekrefter Grenland brann og redning etter et møte med kriseledelsen i Porsgrunn kommune nå i formiddag.\n\nDen voldsomme brannen som oppsto Knarrdalstrand i Porsgrunn natt til fredag er nå...",
-      "image": "https://images.unsplash.com/photo-1756712584547-dfcb54d5f7f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTEwMjYxMjd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestfoldogtelemark/kan-flytte-hjem-etter-storbrann-i-porsgrunn-1.18044370",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-03T11:15:27.582Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1791026126029.117,
-      "title": "Flybase-hendelsen i England: Britisk-iransk mann også løslatt mot kausjon",
-      "slug": "flybasehendelsen-i-england-britiskiransk-mann-ogs-lslatt-mot",
-      "content": "Den britisk-iranske mannen som ble pågrepet torsdag og siktet for påståtte terrorplaner ved en flybase i Storbritannia, er løslatt.\n\nMannen, som har dobbelt statsborgerskap, ble løslatt mot kausjon lørdag, melder nyhetsbyrået AP.\n\nBritisk antiterrorpoliti sa i en uttalelse torsdag at mannen i 20-årene ble pågrepet sentralt i London på bakgrunn av mistanke om «forberedelse av terrorhandlinger» Politiet skrev videre at anklagene knyttes til hendelsen søndag ved flybasen RAF Fairford.\n\nNatt til søndag ble fem menn pågrepet i nærheten av flybasen, mistenkt for å ha forberedt en terroraksjon. De ble senere løslatt mot kausjon.",
-      "excerpt": "Den britisk-iranske mannen som ble pågrepet torsdag og siktet for påståtte terrorplaner ved en flybase i Storbritannia, er løslatt.\n\nMannen, som har dobbelt statsborgerskap, ble løslatt mot kausjon lørdag, melder nyhetsbyrået AP.\n\nBritisk antiterrorpoliti sa i en uttalelse torsdag at mannen i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/flybase-hendelsen-i-england_-britisk-iransk-mann-ogsa-loslatt-mot-kausjon-1.18044386",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-03T11:15:26.029Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3875,
+    "totalFetched": 3878,
     "totalPublished": 77,
-    "lastFetch": "2026-10-06T22:26:59.894Z",
+    "lastFetch": "2026-10-07T04:52:36.416Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
