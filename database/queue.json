@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1791500555217.827,
+      "title": "Setter inn 3000 lærere i Frankrike",
+      "slug": "setter-inn-3000-lrere-i-frankrike",
+      "content": "– Frankrike skal sette inn 3000 lærervikarer på videregående skoler som sliter, sier utdanningsminister i Frankrike Edouard Geffray til TV-kanalen TF1.\n\n– Lærerne vil utplasseres mellom fredag og tirsdag, sier han videre.\n\nTorsdag fortsatte protestene mot skolevesenet i Frankrike.\n\nSkoleelevene er misfornøyd med lærermangel og høyt lærerfravær, mangel på materiell, altfor lange skoledager og forfalne skolebygninger.\n\nTorsdag tok og opprørspoliti i bruk tåregass mot elever som hadde barrikadert seg ved en videregående. I Bordeaux ble en politistasjon påtent.",
+      "excerpt": "– Frankrike skal sette inn 3000 lærervikarer på videregående skoler som sliter, sier utdanningsminister i Frankrike Edouard Geffray til TV-kanalen TF1.\n\n– Lærerne vil utplasseres mellom fredag og tirsdag, sier han videre.\n\nTorsdag fortsatte protestene mot skolevesenet i Frankrike.\n\nSkoleelevene er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/setter-inn-3000-laerere-i-frankrike-1.18049988",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-08T23:02:35.217Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791500553739.878,
+      "title": "DSB: Alvorlige samfunnskonsekvenser",
+      "slug": "dsb-alvorlige-samfunnskonsekvenser",
+      "content": "DSB har ledet an et krisemøte på nasjonalt nivå i forbindelse med problemene i mobilnettet hos Telenor.\n\nI en pressemelding skriver Direktoratet for samfunnssikkerhet og beredskap (DSB) at problemene førte til alvorlige samfunnsmessige konsekvenser.\n\nI forbindelse med problemene samlet DSB sentrale beredskapsaktører til et krisemøte torsdag kveld.\n\n– Mobilnettet er en kritisk del av vår infrastruktur. Når det oppstår problemer av det omfanget vi opplevde i ettermiddag og kveld, er det viktig å samle alle som har en aksje i håndteringen, sier Longva i DSB.\n\nBlant deltagerne var Bane Nor, Avinor, Statens vegvesen, Politidirektoratet, Hovedredningssentralen, Helsedirektoratet og statsforvalterne.\n\n– Nødnett er særlig viktig når alvorlige hendelser oppstår, sier avdelingsdirektør Elisabeth Longva i DSB.",
+      "excerpt": "DSB har ledet an et krisemøte på nasjonalt nivå i forbindelse med problemene i mobilnettet hos Telenor.\n\nI en pressemelding skriver Direktoratet for samfunnssikkerhet og beredskap (DSB) at problemene førte til alvorlige samfunnsmessige konsekvenser.\n\nI forbindelse med problemene samlet DSB sentrale...",
+      "image": "https://images.unsplash.com/photo-1592852003681-7f11e7916030?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE1MDA1NTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/dsb_-alvorlige-samfunnskonsekvenser-1.18049999",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-08T23:02:33.739Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791500552153.8784,
+      "title": "Mann omkom etter fall i sjøen i Bindal",
+      "slug": "mann-omkom-etter-fall-i-sjen-i-bindal",
+      "content": "En mann i 60-årene omkom torsdag etter at han falt i vannet i Bindal i Trøndelag.\n\n– Avhør tyder på at vedkommende har sklidd på vei ned mot sjøen, slått seg og deretter havnet i vannet, skriver operasjonsleder Christopher James White i politiloggen.\n\nPolitiet sier at det ikke er noe som tyder på at det har skjedd noe straffbart.\n\n– Flere vitner på stedet gjorde en formidabel innsats med å få mannen på land og starte livreddende førstehjelp i påvente av nødetatene. Til tross for rask og livreddende innsats sto livet dessverre ikke til å redde, skriver White.\n\nPolitiet meldte først om ulykken torsdag klokken 19.37.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "En mann i 60-årene omkom torsdag etter at han falt i vannet i Bindal i Trøndelag.\n\n– Avhør tyder på at vedkommende har sklidd på vei ned mot sjøen, slått seg og deretter havnet i vannet, skriver operasjonsleder Christopher James White i politiloggen.\n\nPolitiet sier at det ikke er noe som tyder på...",
+      "image": "https://images.unsplash.com/photo-1664790659456-e402073623c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE1MDA1NTJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mann-omkom-etter-fall-i-sjoen-i-bindal-1.18050022",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-08T23:02:32.153Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1791479696895.2292,
       "title": "Today in Norway: A roundup of the latest news on Thursday",
       "slug": "today-in-norway-a-roundup-of-the-latest-news-on-thursday",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-04T16:36:14.728Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1791131773179.2366,
-      "title": "Politiet: Sikta i Halden skal gjennom rettspsykiatrisk undersøking",
-      "slug": "politiet-sikta-i-halden-skal-gjennom-rettspsykiatrisk-unders",
-      "content": "Mannen som er sikta for drap på to menn i eit jaktlag i Halden, skal gjennom ei rettspsykiatrisk undersøking, skriv politiet i ei pressemelding.\n\nFormålet med undersøkinga er om det skal bli gjennomført ei full undersøking av den sikta.\n\nHovudhypotesen er at hendinga skuldast ei konflikt.\n\nMannen har så langt ikkje ville forklare seg, men han skriftleg vedgått straffskuld.\n\nDei to drepne er far og son. I tillegg er ein person frakta til sjukehus med alvorlege skadar.\n\nSøndag kveld har heile jaktlaget fått status som fornærma, og siktinga er utvida til å omfatte to drap og drapsforsøk på ein eller fleire personar.\n\nVitner til angrepet fikk kontroll på en mann i 20-årene som nå er siktet for drap- og drapsforsøk. En far og en sønn ble drept.",
-      "excerpt": "Mannen som er sikta for drap på to menn i eit jaktlag i Halden, skal gjennom ei rettspsykiatrisk undersøking, skriv politiet i ei pressemelding.\n\nFormålet med undersøkinga er om det skal bli gjennomført ei full undersøking av den sikta.\n\nHovudhypotesen er at hendinga skuldast ei konflikt.\n\nMannen...",
-      "image": "https://images.unsplash.com/photo-1780304681838-d034a83b40ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTExMzE3NzN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/politiet_-sikta-i-halden-skal-gjennom-rettspsykiatrisk-undersoking-1.18045009",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-04T16:36:13.179Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1791131771639.4956,
-      "title": "Pro-ukrainsk parti vant overlegent i Latvia",
-      "slug": "proukrainsk-parti-vant-overlegent-i-latvia",
-      "content": "Latvia vil fortsette å være en av Ukrainas sterkeste støttespillere etter at partiet til statsminister Andris Kulbergs vant en klar seier i lørdagens valg.\n\nKulbergs' Fellesliste sikret seg 42 av nasjonalforsamlingens 100 plasser.\n\nDet var mer enn den fungerende statsministeren hadde regnet med.\n\n– Det betyr at folk virkelig vil ha endring, sa Kulbergs, som overtok som statsminister i mai etter at den forrige regjeringen ble tvunget til å gå av. En av årsakene var håndteringen av ukrainske droner på avveier i latvisk luftrom.\n\nMen etter lørdagens valg er han nødt til å skifte støttepartier ettersom en av de forrige samarbeidspartnerne ikke greide sperregrensen på 5 prosent.\n\n– Fordi vi er Europas yttergrense må vi ha en sterk økonomi, en sterk grenseregion, sa han.\n\nDet populistiske partiet og Maga-inspirerte Latvia Først (LPV) sikret seg 17 plasser og ble nest størst.",
-      "excerpt": "Latvia vil fortsette å være en av Ukrainas sterkeste støttespillere etter at partiet til statsminister Andris Kulbergs vant en klar seier i lørdagens valg.\n\nKulbergs' Fellesliste sikret seg 42 av nasjonalforsamlingens 100 plasser.\n\nDet var mer enn den fungerende statsministeren hadde regnet med....",
-      "image": "https://images.unsplash.com/photo-1616523642685-929b08111a83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTExMzE3NzF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/pro-ukrainsk-parti-vant-overlegent-i-latvia-1.18045013",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-04T16:36:11.640Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1791114917918.3828,
-      "title": "REVEALED: What&#039;s the main reason driving foreigners to leave Norway?",
-      "slug": "revealed-what039s-the-main-reason-driving-foreigners-to-leav",
-      "content": "Add The Local as a preferred source\n    \n                        \n                                        \n                        Every year, around 30,000 people pack their bags and leave Norway. While many are simply returning home, a major research project has uncovered a surprising factor driving these departures.\n\nFor many international residents, the Norwegian approach to medicine, often described by foreign residents half-jokingly as \"take a paracetamol and wait,\" represents more than a minor inconvenience.\n\nAccording to a new report published by forskning.no, the country's healthcare culture and system is indeed a contributing reason for leaving the country entirely.\n\nThese findings come from \"ExitNorway,\" a large research project led by Aadne Aasland, a welfare and migration researcher at OsloMet.\n\n\"We were surprised when we saw this in the results,\" Aasland told forskning.no. \"It is a tendency. We encountered dissatisfaction with health services among all groups of immigrants.\"\n\nAlthough the healthcare system is seldom the sole reason for emigration, researchers observed that health services are more frequently cited as reasons for departure than for remaining in the country.\n\nIf you have ever felt your General Practitioner (fastlege) has blocked your request to be referred to a specialist, you are not alone. The study highlights that this is the most common complaint, among foreign leavers.\n\n\"They experience the GP as a gatekeeper who blocks the way to specialists and medications that they feel they need,\" Aasland explained.\n\nIn many countries, patients are used to direct access to specialists, expedited diagnostic testing, and a more proactive approach to prescribing medications. In contrast, the Norwegian system is built on strict filtering and a restrictive approach to medication, especially antibiotics.\n\nOne Ukrainian refugee interviewed for the project described the confusion: \"I asked him about some tests I used to take in Ukraine. The doctor said there was no reason to send me to a specialist at this stage. But in Ukraine, it was always a specialist who checked me.\"\n\nInterviews with international residents revealed that this was a widespread feeling in the community.\n\nThe frustration runs so deep that some reported travelling back to their home countries, or to places like Germany or France, for medical treatment. Others even stated they prefer the insurance-based systems of the US, simply to circumvent the Norwegian \"gatekeeper\" model.\n\nSebastian, an artist from Ecuador residing in Norway since 2019, has experienced this frustration firsthand.\n\nHe reported that he has managed a chronic condition for 18 years, requiring regular monitoring and testing. Upon relocating to Norway, it took over three years and consultations with four different General Practitioners before he found a physician willing to address his concerns.\n\n\"It was a very frustrating period, and my condition actually worsened,\" he shared.\n\nHe described feeling ignored and dismissed, despite bringing all his medical records from his home country to prove his treatment history. He simply could not understand why they refused to order the specific tests he needed.\n\n\"One doctor finally agreed to run tests, but they screened for something I didn't have, so it was useless,\" he explained.\n\nDesperate for answers, he eventually turned to the private sector. \"I had to go to a private doctor, who informed me that my condition had become severe because I hadn't had treatment or checks for so long.\"\n\n\"Now I have to live with a more serious condition that could have been prevented if they had just listened to me,\" he concluded.\n\nThe research describes this disconnect as a \"culture crash.\"\n\nAlthough the Norwegian healthcare system is intended to be egalitarian and efficient, individuals from the United States or other European countries may perceive it as dismissive or excessively slow.\n\n\"They (foreign residents) are astonished that we wait so long to seek help,\" Aasland said. \"They themselves go to the doctor faster, even with minor things like colds.\"\n\nThe study also identifies a significant disparity in perception. While many foreign residents feel their concerns are not acknowledged, the local population generally expresses trust in the healthcare system.\n\nAccording to the Norwegian Institute of Public Health (FHI), a large majority of Norwegians are satisfied with their GPs. In a recent health policy barometer, 81 per cent reported good experiences.\n\nThe \"ExitNorway\" project identified several additional factors influencing immigrants' decisions to leave Norway:\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Add The Local as a preferred source\n    \n                        \n                                        \n                        Every year, around 30,000 people pack their bags and leave Norway. While many are simply returning home, a major research project has uncovered a surprising factor...",
-      "image": "https://images.unsplash.com/photo-1686641944143-b82f19ad0c2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTExMTQ5MTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20251205/revealed-whats-the-main-reason-driving-foreigners-to-leave-norway",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-10-04T11:55:17.918Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3894,
+    "totalFetched": 3897,
     "totalPublished": 77,
-    "lastFetch": "2026-10-08T17:14:57.896Z",
+    "lastFetch": "2026-10-08T23:02:36.786Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
