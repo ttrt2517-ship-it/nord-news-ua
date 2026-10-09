@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1791549951498.7673,
+      "title": "Høyre gir klarsignal til flytende havvind",
+      "slug": "hyre-gir-klarsignal-til-flytende-havvind",
+      "content": "Høyre mener en fersk kvalitetssikring styrker tilliten til at havvindprosjektet Utsira Nord kan bli et godt prosjekt. De støtter fortsettelsen av prosjektet.\n\n– Høyre støtter fortsatt gjennomføringen av havvind på Utsira Nord og vil derfor bidra til fremdrift og langsiktig forutsigbarhet for prosjektet, sier Aleksander Stokkebø (H) til NTB.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
+      "excerpt": "Høyre mener en fersk kvalitetssikring styrker tilliten til at havvindprosjektet Utsira Nord kan bli et godt prosjekt. De støtter fortsettelsen av prosjektet.\n\n– Høyre støtter fortsatt gjennomføringen av havvind på Utsira Nord og vil derfor bidra til fremdrift og langsiktig forutsigbarhet for...",
+      "image": "https://images.unsplash.com/photo-1628850923193-544e7b81ebad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE1NDk5NTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/rogaland/hoyre-gir-klarsignal-til-flytende-havvind--1.18050701",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-09T12:45:51.498Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791549949777.9,
+      "title": "Fredsprisvinneren: – Helt uventet, men veldig flott",
+      "slug": "fredsprisvinneren-helt-uventet-men-veldig-flott",
+      "content": "Navi Pillay dedikerer prisen til alle overlevende for urett i alle konflikter, og til alle som jobber for fredsarbeid og menneskerettigheter i verden.\n\n– Vi lever i en tid hvor folkeretten og menneskerettigheter er under sterkt politisk angrep, sa hun i den første uttalelsen etter at hun fikk vite om prisen.\n\nHun understreket at det er viktig å stå sammen i kampen for å beskytte internasjonale lover og regler, men la ikke skjul på at hun ble glad.\n\n– Jeg har blitt æret i mange sammenhenger gjennom livet, men du forventer ikke mer i en alder av 85 år. Dette er den største og beste prisen jeg har fått, sa hun.\n\nNobels fredspris\n\nNobels fredspris deles ut årlig av Den norske Nobelkomite.",
+      "excerpt": "Navi Pillay dedikerer prisen til alle overlevende for urett i alle konflikter, og til alle som jobber for fredsarbeid og menneskerettigheter i verden.\n\n– Vi lever i en tid hvor folkeretten og menneskerettigheter er under sterkt politisk angrep, sa hun i den første uttalelsen etter at hun fikk vite...",
+      "image": "https://images.unsplash.com/photo-1567083843479-45e23b916117?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE1NDk5NDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fredsprisvinneren_-_-helt-uventet_-men-veldig-flott-1.18050667",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-09T12:45:49.778Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791549947964.2234,
+      "title": "Dronning Sonja besøker Nasjonalarkivet",
+      "slug": "dronning-sonja-besker-nasjonalarkivet",
+      "content": "Mandag besøker dronning Sonja Nasjonalarkivet i Oslo. Hun skal få se hilsener, tegninger og brev som ble samlet inn fra Slottsplassen etter kong Haralds død.\n\n– Hilsenene som ble lagt ned på Slottsplassen, uttrykker på en unik måte hva Kong Harald betydde for oss, det norske folk. Vi er glade for å kunne vise fram mange av folkets hilsener til Dronning Sonja, sier nasjonalarkivar Inga Bolstad.\n\nKultur- og likestillingsminister Lubna Jaffery (Ap) skal også være til stede.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026.",
+      "excerpt": "Mandag besøker dronning Sonja Nasjonalarkivet i Oslo. Hun skal få se hilsener, tegninger og brev som ble samlet inn fra Slottsplassen etter kong Haralds død.\n\n– Hilsenene som ble lagt ned på Slottsplassen, uttrykker på en unik måte hva Kong Harald betydde for oss, det norske folk. Vi er glade for å...",
+      "image": "https://images.unsplash.com/photo-1691414203402-c8b329585ebc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE1NDk5NDd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/dronning-sonja-besoker-nasjonalarkivet--1.18050760",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-09T12:45:47.964Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1791522349474.5872,
       "title": "Trump gir Elon Musk prestisjefylt utmerkelse",
       "slug": "trump-gir-elon-musk-prestisjefylt-utmerkelse",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-05T00:30:52.111Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1791160250396.1597,
-      "title": "BBC: Henter hjem bombefly fra Storbritannia",
-      "slug": "bbc-henter-hjem-bombefly-fra-storbritannia",
-      "content": "USA har hentet hjem alle B-1-bombefly fra en flybase i Storbritannia, som ble utsatt for et mistenkt forsøk på terrorangrep.\n\nTilbaketrekningen gjelder fly ved flybasen RAF Fairford, melder BBC.\n\nOgså AP og Wall Street Journal har meldt at flyene er flyttet fra basen.\n\nFem menn ble pågrepet ved basen i slutten av september.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "USA har hentet hjem alle B-1-bombefly fra en flybase i Storbritannia, som ble utsatt for et mistenkt forsøk på terrorangrep.\n\nTilbaketrekningen gjelder fly ved flybasen RAF Fairford, melder BBC.\n\nOgså AP og Wall Street Journal har meldt at flyene er flyttet fra basen.\n\nFem menn ble pågrepet ved...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/bbc_-henter-hjem-bombefly-fra-storbritannia-1.18045174",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-05T00:30:50.396Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1791160248718.4302,
-      "title": "Ny runde i presidentvalget i Brasil",
-      "slug": "ny-runde-i-presidentvalget-i-brasil",
-      "content": "Det blir en ny og andre valgrunde i presidentvalget i Brasil.\n\nDet sier landets valgkommisjon, melder nyhetsbyrået Reuters.\n\nDa skal skal Flavio Bolsonaro og Luiz Inacio Lula ‌da Silva møtes på nytt.\n\nDen andre runden i presidentvalget blir 25. oktober.\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president Jair Bolsonaro til angrep på Kongressen, presidentpalasset og høyesterett i hoevdstaden Brasília.",
-      "excerpt": "Det blir en ny og andre valgrunde i presidentvalget i Brasil.\n\nDet sier landets valgkommisjon, melder nyhetsbyrået Reuters.\n\nDa skal skal Flavio Bolsonaro og Luiz Inacio Lula ‌da Silva møtes på nytt.\n\nDen andre runden i presidentvalget blir 25. oktober.\n\nBrasil\n\nPresident Lula da Silva vant...",
-      "image": "https://images.unsplash.com/photo-1599847740927-599426b94713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTExNjAyNDh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/ny-runde-i-presidentvalget-i-brasil-1.18045180",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-05T00:30:48.718Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1791147528251.354,
-      "title": "Irans oljeminister går av",
-      "slug": "irans-oljeminister-gr-av",
-      "content": "Irans oljeminister Mohsen Paknejad har trekt seg av personlege årsaker, opplyste presidentens kontor søndag, melder AFP.\n\nHamid Bovard, som er administrerande direktør i det iranske nasjonale oljeselskapet, er peika ut som midlertidig oljeminister.\n\nKrigen i Midtausten har ført til at Iran har stengt Hormuzsundet, der om lag 20 prosent av all olje og gass i verda passerte før krigen starta.\n\nDette har ført til auka prisar på drivstoff over heile verda.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "excerpt": "Irans oljeminister Mohsen Paknejad har trekt seg av personlege årsaker, opplyste presidentens kontor søndag, melder AFP.\n\nHamid Bovard, som er administrerande direktør i det iranske nasjonale oljeselskapet, er peika ut som midlertidig oljeminister.\n\nKrigen i Midtausten har ført til at Iran har...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/irans-oljeminister-gar-av-1.18045105",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-04T20:58:48.251Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3900,
+    "totalFetched": 3903,
     "totalPublished": 77,
-    "lastFetch": "2026-10-09T05:05:51.240Z",
+    "lastFetch": "2026-10-09T12:45:53.309Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
