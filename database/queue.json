@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1791845185924.105,
+      "title": "Nei til parlamentarisme i Stavanger",
+      "slug": "nei-til-parlamentarisme-i-stavanger",
+      "content": "Et flertall i kommunestyret stemte mot å innføre parlamentarisme i Stavanger.\n\nDen åpner for at det neste bystyret, fra 2028, kan bestemme om det skal innføres parlamentarisme. Da kreves det minst to tredjedels flertall i kommunestyret.\n\nÅ bytte fra formannskapsmodellen til parlamentarisme i Stavanger kan bety økte utgifter for kommunen på minst 12 millioner kroner i året.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
+      "excerpt": "Et flertall i kommunestyret stemte mot å innføre parlamentarisme i Stavanger.\n\nDen åpner for at det neste bystyret, fra 2028, kan bestemme om det skal innføres parlamentarisme. Da kreves det minst to tredjedels flertall i kommunestyret.\n\nÅ bytte fra formannskapsmodellen til parlamentarisme i...",
+      "image": "https://images.unsplash.com/photo-1561618110-c212954bd375?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE4NDUxODV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/rogaland/nei-til-parlamentarisme-i-stavanger-1.18053024",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-12T22:46:25.924Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791845184222.8955,
+      "title": "Europa har kjøpt russisk olje og gass for 320 milliarder dollar",
+      "slug": "europa-har-kjpt-russisk-olje-og-gass-for-320-milliarder-doll",
+      "content": "Til tross for sanksjoner, hevder Russland at de har solgt olje og gass til Europa for enorme summer.\n\nSiden 2022 skal EU-land ha kjøpt energi for 320 milliarder dollar, sier landets viseenergiminister Alexander Novak til statlig fjernsyn, ifølge AFP.\n\nEU og europeiske land har innført sanksjoner etter at Russland gikk til fullskalainvasjon av Ukraina i 2022. Samtidig har mange land vært helt avhengig av den russiske oljen og gassen.\n\nEU har vedtatt å stenge de russiske gasskranene i løpet av 2027.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Til tross for sanksjoner, hevder Russland at de har solgt olje og gass til Europa for enorme summer.\n\nSiden 2022 skal EU-land ha kjøpt energi for 320 milliarder dollar, sier landets viseenergiminister Alexander Novak til statlig fjernsyn, ifølge AFP.\n\nEU og europeiske land har innført sanksjoner...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/europa-har-kjopt-russisk-olje-og-gass-for-320-milliarder-dollar-1.18053055",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-12T22:46:24.222Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791845182645.3062,
+      "title": "Mann funnen død i Gloppen",
+      "slug": "mann-funnen-dd-i-gloppen",
+      "content": "Politiet blei klokka 14.17 i dag varsla via AMK om funn av ein person i Gloppefjorden på Sandane.\n\nDet var forbipasserande som varsla om hendinga og fekk vedkommande på land. Dei starta hjarte- og lungeredning, fortel Jan Børge Misje, operasjonsleiar i Vest politidistrikt.\n\nLege og ambulanse rykte ut på staden, men bekrefta at mannen i 80-åra då var død.\n\n– Vi veit ikkje kva som har skjedd, men han blei funnen i nærleiken av ein båt som vi trur han er eigaren av, seier Misje.\n\nKrim og hendingar i Vestland\n\nDet siste frå politiloggen og andre hendingar i Vestland fylke.",
+      "excerpt": "Politiet blei klokka 14.17 i dag varsla via AMK om funn av ein person i Gloppefjorden på Sandane.\n\nDet var forbipasserande som varsla om hendinga og fekk vedkommande på land. Dei starta hjarte- og lungeredning, fortel Jan Børge Misje, operasjonsleiar i Vest politidistrikt.\n\nLege og ambulanse rykte...",
+      "image": "https://images.unsplash.com/photo-1681798200567-2437430eb57b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE4NDUxODJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestland/mann-funnen-dod-i-gloppen-1.18053058",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-12T22:46:22.646Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1791816164877.1877,
       "title": "Norway fines Microsoft subsidiary for sharing Grindr user data",
       "slug": "norway-fines-microsoft-subsidiary-for-sharing-grindr-user-da",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-08T17:14:49.535Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1791479687840.49,
-      "title": "Telenor: Problemene er løst",
-      "slug": "telenor-problemene-er-lst",
-      "content": "– Trafikken i mobilnettet går nå som normalt, sier Vetle Andersen, informasjonssjef i Telenor til NRK.\n\nI en melding skriver Telenor at feilen oppstod klokken 15.15, og at feilen har medført at enkelte anrop mellom Telenor-kunder, samt enkelte anrop til og fra andre mobiloperatører, feilet.\n\n– Trafikken gikk som normalt fra kl. 17:25. Anrop mellom Telenors kunder, anrop til og fra andre mobiloperatører, SMS og mobildata fungerer som normalt, sier Andersen.\n\n– Vi jobber fortsatt med å kartlegge årsaken til feilen. Vi beklager utfordringene dette har medført våre kunder og andre berørte, sier han.",
-      "excerpt": "– Trafikken i mobilnettet går nå som normalt, sier Vetle Andersen, informasjonssjef i Telenor til NRK.\n\nI en melding skriver Telenor at feilen oppstod klokken 15.15, og at feilen har medført at enkelte anrop mellom Telenor-kunder, samt enkelte anrop til og fra andre mobiloperatører, feilet....",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/telenor_-problemene-er-lost-1.18049874",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-08T17:14:47.840Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1791479686202.0479,
-      "title": "Forventer at togtrafikken snart er i gang",
-      "slug": "forventer-at-togtrafikken-snart-er-i-gang",
-      "content": "– Vy venter fremdeles på klarsignal til å starte opp togene igjen, opplyser pressevakten klokken 18.59.\n\nVy venter på klarsignal fra Bane Nor for å sette i gang togtrafikken igjen etter at Telenor-problemene er løst. Det vil bli forsinkelser utover kvelden.",
-      "excerpt": "– Vy venter fremdeles på klarsignal til å starte opp togene igjen, opplyser pressevakten klokken 18.59.\n\nVy venter på klarsignal fra Bane Nor for å sette i gang togtrafikken igjen etter at Telenor-problemene er løst. Det vil bli forsinkelser utover kvelden.",
-      "image": "https://images.unsplash.com/photo-1695725097795-19328f75e879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE0Nzk2ODZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/forventer-at-togtrafikken-snart-er-i-gang-1.18049899",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-08T17:14:46.202Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1791448316658.8953,
-      "title": "Økokrim: Kriminelle nettverk har etablert seg i norske næringer",
-      "slug": "kokrim-kriminelle-nettverk-har-etablert-seg-i-norske-nringer",
-      "content": "Nettverkene er mer involvert i økonomisk kriminalitet enn tidligere, skriver Økokrim i sin trusselvurdering for 2026.\n\n– Vi forventer at flere næringer vil bli infiltrert av kriminelle i årene fremover. Både virksomheter i offentlig og privat sektor vil kunne bli utsatt for dette, sier sjef for Økokrim, Pål Lønseth.\n\nOmfanget av økonomisk kriminalitet i Norge er ukjent, siden mange lovbrudd aldri blir kjent eller anmeldt til politiet.\n\nI Sverige anslår myndighetene at den kriminelle økonomien utgjør 352 milliarder kroner.\n\nØkokrim\n\nØkokrim er den sentrale enhet for etterforsking og påtale av økonomisk kriminalitet og miljøkriminalitet. De er underlagt Politidirektoratet og Riksadvokaten.",
-      "excerpt": "Nettverkene er mer involvert i økonomisk kriminalitet enn tidligere, skriver Økokrim i sin trusselvurdering for 2026.\n\n– Vi forventer at flere næringer vil bli infiltrert av kriminelle i årene fremover. Både virksomheter i offentlig og privat sektor vil kunne bli utsatt for dette, sier sjef for...",
-      "image": "https://images.unsplash.com/photo-1609864485895-0cdcfb877296?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE0NDgzMTZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/okokrim_-kriminelle-nettverk-har-etablert-seg-i-norske-naeringer-1.18049084",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-08T08:31:56.658Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3938,
+    "totalFetched": 3941,
     "totalPublished": 77,
-    "lastFetch": "2026-10-12T14:42:45.879Z",
+    "lastFetch": "2026-10-12T22:46:27.715Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
