@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1791939346120.9824,
+      "title": "Ingen varsler før Kyiv-angrep tirsdag kveld",
+      "slug": "ingen-varsler-fr-kyivangrep-tirsdag-kveld",
+      "content": "– Et russisk ballistisk angrep mot Kyiv, nok en gang uten forvarsel fra partnerne, skriver Ukrainas President Volodymyr Zelenskyj.\n\n– Hovdemålet var energianlegg, og de traff dessverre.\n\nUkrainas hovedstad er truffet av en rekke russiske missiler tirsdag kveld. Vitner Reuters har snakket med, bekrefter at det ikke var noen form for varsling forkant av eksplosjonene.\n\nOrdfører Vitali Klitschko sier russiske missiler har rammet en høyblokk og at redningsmannskaper er på stedet.\n\nDet er ikke klart om noen er drept eller skadd i angrepet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "– Et russisk ballistisk angrep mot Kyiv, nok en gang uten forvarsel fra partnerne, skriver Ukrainas President Volodymyr Zelenskyj.\n\n– Hovdemålet var energianlegg, og de traff dessverre.\n\nUkrainas hovedstad er truffet av en rekke russiske missiler tirsdag kveld. Vitner Reuters har snakket med...",
+      "image": "https://images.unsplash.com/photo-1765200135502-3adf6b78b7e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE5MzkzNDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ingen-varsler-for-kyiv-angrep-tirsdag-kveld-1.18054157",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-14T00:55:46.120Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791939344301.4785,
+      "title": "Fire personer såret etter angrep mot Riyadh",
+      "slug": "fire-personer-sret-etter-angrep-mot-riyadh",
+      "content": "Fire personer er såret etter at vrakrester fra to raketter falt ned over Saudi-Arabias hovedstad Riyadh. Det melder det statlige nyhetsbyrået SPA, ifølge Reuters.\n\nIfølge sivilforsvaret i landet ble rakettene skutt opp av houthi-opprørerne i Jemen, men skutt ned i lufta. De skadde er to kvinner, en mann og et barn. Vrakdelene førte også til mindre skader på 15 boliger.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "excerpt": "Fire personer er såret etter at vrakrester fra to raketter falt ned over Saudi-Arabias hovedstad Riyadh. Det melder det statlige nyhetsbyrået SPA, ifølge Reuters.\n\nIfølge sivilforsvaret i landet ble rakettene skutt opp av houthi-opprørerne i Jemen, men skutt ned i lufta. De skadde er to kvinner, en...",
+      "image": "https://images.unsplash.com/photo-1784798626060-8dbda2d1ec54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE5MzkzNDR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fire-personer-saret-etter-angrep-mot-riyadh-1.18054192",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-14T00:55:44.301Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1791939342576.0815,
+      "title": "Zelenskyj møter Burnham i London",
+      "slug": "zelenskyj-mter-burnham-i-london",
+      "content": "Ukrainas president Volodymyr Zelenskyj møter onsdag Storbritannias statsminister Andy Burnham i London.\n\nBritene lover nye luftvernmissiler verdt over 560 millioner kroner, ifølge en uttalelse fra Burnham.\n\nMøtet skjer like etter at USAs president Donald Trump inngikk en dieselavtale med Russland og uttalte at Zelenskyj bør byttes ut.\n\nBurnham slår på sin side fast at Storbritannia skal støtte Ukraina så lenge det trengs, skriver NTB.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainas president Volodymyr Zelenskyj møter onsdag Storbritannias statsminister Andy Burnham i London.\n\nBritene lover nye luftvernmissiler verdt over 560 millioner kroner, ifølge en uttalelse fra Burnham.\n\nMøtet skjer like etter at USAs president Donald Trump inngikk en dieselavtale med Russland...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/zelenskyj-moter-burnham-i-london-1.18054208",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-14T00:55:42.576Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1791922010788.7312,
       "title": "Vatikanet: Pavens operasjon var vellykket",
       "slug": "vatikanet-pavens-operasjon-var-vellykket",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-09T19:18:42.614Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1791573520908.4387,
-      "title": "Trump varsler russisk dieselleveranse",
-      "slug": "trump-varsler-russisk-dieselleveranse",
-      "content": "USAs president Donald Trump sier at Russland har gått med på umiddelbart å levere over 300.000 tonn diesel til det amerikanske og globale markedet.\n\nDette skjer etter en samtale med Russlands president Vladimir Putin som Trump beskrev som «svært vellykket», ifølge Reuters.\n\nTrump sier at Russland deretter vil levere 3 millioner tonn diesel innen kort tid, avhengig av tilstanden på landets raffinerier.\n\nDet amerikanske finansdepartement har midlertidig utstedt en lisens som tillater russisk diesel på markedet. Ifølge Reuters tillater lisensen salg, levering, lossing og import av diesel med russisk opprinnelse frem til 7. april 2027.\n\nHan sier dette vil bidra til å dempe de kraftig stigende energikostnadene midt under krigen med Iran.\n\nDieselprisen har steget med over 80 prosent siden USA og Israel gikk til angrepskrig mot Iran i februar, og misnøyen er stor ved pumpene i USA, få uker før det viktige mellomvalget 3. november.\n\nEn utsending for Russlands president Vladimir Putin, Kirill Dmitrijev, roser samarbeidet mellom Russland og USA om diesel.\n\nSamarbeid mellom Russland og USA om diesel og energi vil komme verden til gode», skriver han på X.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "USAs president Donald Trump sier at Russland har gått med på umiddelbart å levere over 300.000 tonn diesel til det amerikanske og globale markedet.\n\nDette skjer etter en samtale med Russlands president Vladimir Putin som Trump beskrev som «svært vellykket», ifølge Reuters.\n\nTrump sier at Russland...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump-varsler-russisk-dieselleveranse-1.18051145",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-09T19:18:40.908Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1791549951498.7673,
-      "title": "Høyre gir klarsignal til flytende havvind",
-      "slug": "hyre-gir-klarsignal-til-flytende-havvind",
-      "content": "Høyre mener en fersk kvalitetssikring styrker tilliten til at havvindprosjektet Utsira Nord kan bli et godt prosjekt. De støtter fortsettelsen av prosjektet.\n\n– Høyre støtter fortsatt gjennomføringen av havvind på Utsira Nord og vil derfor bidra til fremdrift og langsiktig forutsigbarhet for prosjektet, sier Aleksander Stokkebø (H) til NTB.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
-      "excerpt": "Høyre mener en fersk kvalitetssikring styrker tilliten til at havvindprosjektet Utsira Nord kan bli et godt prosjekt. De støtter fortsettelsen av prosjektet.\n\n– Høyre støtter fortsatt gjennomføringen av havvind på Utsira Nord og vil derfor bidra til fremdrift og langsiktig forutsigbarhet for...",
-      "image": "https://images.unsplash.com/photo-1628850923193-544e7b81ebad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE1NDk5NTF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/rogaland/hoyre-gir-klarsignal-til-flytende-havvind--1.18050701",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-09T12:45:51.498Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1791549949777.9,
-      "title": "Fredsprisvinneren: – Helt uventet, men veldig flott",
-      "slug": "fredsprisvinneren-helt-uventet-men-veldig-flott",
-      "content": "Navi Pillay dedikerer prisen til alle overlevende for urett i alle konflikter, og til alle som jobber for fredsarbeid og menneskerettigheter i verden.\n\n– Vi lever i en tid hvor folkeretten og menneskerettigheter er under sterkt politisk angrep, sa hun i den første uttalelsen etter at hun fikk vite om prisen.\n\nHun understreket at det er viktig å stå sammen i kampen for å beskytte internasjonale lover og regler, men la ikke skjul på at hun ble glad.\n\n– Jeg har blitt æret i mange sammenhenger gjennom livet, men du forventer ikke mer i en alder av 85 år. Dette er den største og beste prisen jeg har fått, sa hun.\n\nNobels fredspris\n\nNobels fredspris deles ut årlig av Den norske Nobelkomite.",
-      "excerpt": "Navi Pillay dedikerer prisen til alle overlevende for urett i alle konflikter, og til alle som jobber for fredsarbeid og menneskerettigheter i verden.\n\n– Vi lever i en tid hvor folkeretten og menneskerettigheter er under sterkt politisk angrep, sa hun i den første uttalelsen etter at hun fikk vite...",
-      "image": "https://images.unsplash.com/photo-1567083843479-45e23b916117?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE1NDk5NDl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/fredsprisvinneren_-_-helt-uventet_-men-veldig-flott-1.18050667",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-09T12:45:49.778Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3951,
+    "totalFetched": 3954,
     "totalPublished": 77,
-    "lastFetch": "2026-10-13T20:06:52.657Z",
+    "lastFetch": "2026-10-14T00:55:48.721Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
