@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1792054614465.2268,
+      "title": "Nato-svindelsiktede fremstilles for fengsling",
+      "slug": "natosvindelsiktede-fremstilles-for-fengsling",
+      "content": "Fire av de fem mennene som i går ble pågrepet i bergensområdet, siktet for grovt bedrageri eller medvirkning til dette, skal i dag fremstilles for fengsling.\n\nDet bekrefter førstestatsadvokat i Økokrim, Marianne Bender til NRK.\n\n– Økokrim vil begjære de siktede fengslet i to uker med brev og besøksforbud og delvis isolasjon, sier Bender.\n\nMennene skal i følge Økokrim ha svindlet Nato for flere millioner kroner.\n\nDen femte mannen som er siktet, skal ikke fremstilles for fengsling.\n\n– Jeg har funnet at vilkårene ikke er tilstede for å fremstille den femte for varetektsfengsling. Mistanken mot han er ikke svekket, sier Bender til NRK.",
+      "excerpt": "Fire av de fem mennene som i går ble pågrepet i bergensområdet, siktet for grovt bedrageri eller medvirkning til dette, skal i dag fremstilles for fengsling.\n\nDet bekrefter førstestatsadvokat i Økokrim, Marianne Bender til NRK.\n\n– Økokrim vil begjære de siktede fengslet i to uker med brev og...",
+      "image": "https://images.unsplash.com/photo-1697483613642-8e552761d383?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIwNTQ2MTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestland/nato-svindelsiktede-fremstilles-for-fengsling-1.18055610",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-15T08:56:54.465Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792054612646.2454,
+      "title": "Angrep på russiske og ukrainske energianlegg",
+      "slug": "angrep-p-russiske-og-ukrainske-energianlegg",
+      "content": "Det ukrainske energiselskapet Naftogaz ‌opplyser at et gassutvinningsanlegg ‌Poltava-regionen nordøst i Ukraina ble truffet under et russisk angrep i natt.\n\nDeler av produksjonsanlegget er ødelagt og produksjonen er stanset.\n\nSamtidig skal et russisk oljeraffineri i Rjazan-regionen vest i Russland ha blitt truffet i et ukrainsk droneangrep. Det opplyser den russiske guvernøren i regionen.\n\nUSAs president Donald Trump hevdet i helgen at Russland og Ukraina var blitt enige om ikke å angripe hverandres energianlegg.\n\nUkrainas president Volodymyr Zelenskyj varsler at de kommer til å gjenoppta angrepene etter en tre-dagers-pause ettersom Russland ikke har respektert den angivelige avtalen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Det ukrainske energiselskapet Naftogaz ‌opplyser at et gassutvinningsanlegg ‌Poltava-regionen nordøst i Ukraina ble truffet under et russisk angrep i natt.\n\nDeler av produksjonsanlegget er ødelagt og produksjonen er stanset.\n\nSamtidig skal et russisk oljeraffineri i Rjazan-regionen vest i Russland...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/angrep-pa-russiske-og-ukrainske-energianlegg-1.18055594",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-15T08:56:52.646Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792054610959.6924,
+      "title": "Oslo: Prisvekst på boliger har stoppet opp",
+      "slug": "oslo-prisvekst-p-boliger-har-stoppet-opp",
+      "content": "Etter flere år med kraftig boligprisvekst, har veksten i Oslo-området stoppet opp.\n\nDet tar nå i snitt nesten 40 dager å selge en bolig i Oslo, ifølge DNB Eiendom.\n\nDette har ikke har vært tilfelle siden finanskrisen i 2008.\n\nSelgere i Oslo må regne med lengre salgstid, færre budgivere og mindre sjanse for å selge over prisantydning.\n\nMen, hvis du skal inn på boligmarkedet, er det et veldig gunstig tidspunkt å kjøpe bolig nå, skriver E24.",
+      "excerpt": "Etter flere år med kraftig boligprisvekst, har veksten i Oslo-området stoppet opp.\n\nDet tar nå i snitt nesten 40 dager å selge en bolig i Oslo, ifølge DNB Eiendom.\n\nDette har ikke har vært tilfelle siden finanskrisen i 2008.\n\nSelgere i Oslo må regne med lengre salgstid, færre budgivere og mindre...",
+      "image": "https://images.unsplash.com/photo-1660587959651-ea8e29dbad22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIwNTQ2MTB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/oslo_-prisvekst-pa-boliger-har-stoppet-opp-1.18055498",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-15T08:56:50.960Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1792035609054.972,
       "title": "Trump sier at han aldri planla å angripe Grønland",
       "slug": "trump-sier-at-han-aldri-planla-angripe-grnland",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-11T18:40:14.224Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1791744012581.3179,
-      "title": "Burnham: Russland blanda seg inn i Brexit-avstemminga",
-      "slug": "burnham-russland-blanda-seg-inn-i-brexitavstemminga",
-      "content": "Storbritannias statsminister Andy Burnham seier at Russland blanda seg inn i Brexit-avstemminga i 2016.\n\nBurnham er den første britiske statsministeren som opent seier at det er bevis på russisk innblanding i folkeavstemminga for ti år sidan, skriv Reuters.\n\n– Då eg kom til Downing Street stilte eg spørsmålet: Var det innblanding i folkeavstemminga i 2016 frå Russland? Og eg har gått det klare svaret at ja, det var det, sa Burnham i eit intervju med podkasten The Rest is Politics som vart publisert søndag.\n\nBurnham sa ingenting om korleis han meinte at Russland hadde blanda seg inn i folkeavstemminga.\n\nTidlegare statsminister Boris Johnson sa i 2020 at det ikkje var noko bevis på russisk innblanding i avstemminga.\n\nI ein rapport frå 2020 klarte ikkje regjeringa i Storbritannia å slå fast om Russland blanda seg inn. Men rapporten slo fast at Russland prøvde å påverke Skottlands sjølvstendeavstemming i 2014, skriv Reuters.",
-      "excerpt": "Storbritannias statsminister Andy Burnham seier at Russland blanda seg inn i Brexit-avstemminga i 2016.\n\nBurnham er den første britiske statsministeren som opent seier at det er bevis på russisk innblanding i folkeavstemminga for ti år sidan, skriv Reuters.\n\n– Då eg kom til Downing Street stilte eg...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/burnham_-russland-blanda-seg-inn-i-brexit-avstemminga-1.18052015",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-11T18:40:12.582Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1791721050845.1748,
-      "title": "Togstreiken fortsetter – samtalene brutt",
-      "slug": "togstreiken-fortsetter-samtalene-brutt",
-      "content": "Leder i lokmotivførerfobundet Rolf Ringdal bekrefter til NRK at togstreiken kommer til å fortsette også neste uke.\n\n– Partene står såpass langt fra hverandre at det ble ingen enighet. Det komme til å bli innkalt til en tvungen mekling førstkommende fredag, hvor partene igjen møtes, sier Ringdal til NRK søndag.\n\nDen siste uken har Lokførerforbundet (NLF) jobbet med en skisse til løsning, og denne har ligget til grunn for nye samtaler.\n\nNLF har tidligere varslet at det kunne bli aktuelt å trappe opp streiken hvis man ikke kom fram til en avtale, men det er ikke vedtatt. Hittil er 72 lokførere tatt ut i streik.\n\nDet er særlig togtrafikken på Østlandet som er berørt. Streiken startet 18. september. Bakgrunn for arbeidskonflikten er sammenslåingen av Vy og Flytoget.",
-      "excerpt": "Leder i lokmotivførerfobundet Rolf Ringdal bekrefter til NRK at togstreiken kommer til å fortsette også neste uke.\n\n– Partene står såpass langt fra hverandre at det ble ingen enighet. Det komme til å bli innkalt til en tvungen mekling førstkommende fredag, hvor partene igjen møtes, sier Ringdal til...",
-      "image": "https://images.unsplash.com/photo-1625222700053-9e718e2981ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE3MjEwNTB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/togstreiken-fortsetter-_-samtalene-brutt-1.18051753",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-11T12:17:30.846Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1791721049134.4004,
-      "title": "Leteaksjon i Oslo",
-      "slug": "leteaksjon-i-oslo",
-      "content": "Nødetatene i Oslo gjennomførte i 11.40-tiden søndag et søk både til lands og til vanns ved Rådhusbrygga, etter funn av personlige gjenstander.\n\nPolitiet meldte at de ønsket å få avklart om en person hadde havnet i vannet.\n\n12.28 oppdaterer politiet at søket er uten resultat, men at de jobber med å få kontakt med personen eiendelene tilhører og på andre måter få kartlagt hva som har skjedd.",
-      "excerpt": "Nødetatene i Oslo gjennomførte i 11.40-tiden søndag et søk både til lands og til vanns ved Rådhusbrygga, etter funn av personlige gjenstander.\n\nPolitiet meldte at de ønsket å få avklart om en person hadde havnet i vannet.\n\n12.28 oppdaterer politiet at søket er uten resultat, men at de jobber med å...",
-      "image": null,
-      "original_url": "https://www.nrk.no/stor-oslo/leteaksjon-i-oslo-1.18051778",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-11T12:17:29.135Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 3972,
+    "totalFetched": 3975,
     "totalPublished": 77,
-    "lastFetch": "2026-10-15T03:40:11.041Z",
+    "lastFetch": "2026-10-15T08:56:56.729Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
