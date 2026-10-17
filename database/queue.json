@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1792225149495.3735,
+      "title": "Blir ny sesong av «LIS»",
+      "slug": "blir-ny-sesong-av-lis",
+      "content": "Siste episode av sesong 2 av «LIS» er publisert, og mange har spurt om det blir flere sesonger. Nå kan NRK bekrefte at det kommer en tredje sesong.\n\nMye av researchen til serien er gjort ved Sykehuset Innlandet.\n\nOver én million har sett hele første sesong siden premieren i april. Første episode av sesong 2 er allerede sett av 630.000, og tallet fortsetter å stige. «LIS» er med det den mest strømmede serien i NRK i år.",
+      "excerpt": "Siste episode av sesong 2 av «LIS» er publisert, og mange har spurt om det blir flere sesonger. Nå kan NRK bekrefte at det kommer en tredje sesong.\n\nMye av researchen til serien er gjort ved Sykehuset Innlandet.\n\nOver én million har sett hele første sesong siden premieren i april. Første episode av...",
+      "image": "https://images.unsplash.com/photo-1718341501796-e26059de00cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIyMjUxNDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/innlandet/blir-ny-sesong-av-_lis_-1.18057366",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-17T08:19:09.495Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1792207571969.6675,
       "title": "16-åring bak masseskyting på skole i USA var tidligere elev",
       "slug": "16ring-bak-masseskyting-p-skole-i-usa-var-tidligere-elev",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-10-14T07:13:55.771Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1791939346120.9824,
-      "title": "Ingen varsler før Kyiv-angrep tirsdag kveld",
-      "slug": "ingen-varsler-fr-kyivangrep-tirsdag-kveld",
-      "content": "– Et russisk ballistisk angrep mot Kyiv, nok en gang uten forvarsel fra partnerne, skriver Ukrainas President Volodymyr Zelenskyj.\n\n– Hovdemålet var energianlegg, og de traff dessverre.\n\nUkrainas hovedstad er truffet av en rekke russiske missiler tirsdag kveld. Vitner Reuters har snakket med, bekrefter at det ikke var noen form for varsling forkant av eksplosjonene.\n\nOrdfører Vitali Klitschko sier russiske missiler har rammet en høyblokk og at redningsmannskaper er på stedet.\n\nDet er ikke klart om noen er drept eller skadd i angrepet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "– Et russisk ballistisk angrep mot Kyiv, nok en gang uten forvarsel fra partnerne, skriver Ukrainas President Volodymyr Zelenskyj.\n\n– Hovdemålet var energianlegg, og de traff dessverre.\n\nUkrainas hovedstad er truffet av en rekke russiske missiler tirsdag kveld. Vitner Reuters har snakket med...",
-      "image": "https://images.unsplash.com/photo-1765200135502-3adf6b78b7e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE5MzkzNDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/ingen-varsler-for-kyiv-angrep-tirsdag-kveld-1.18054157",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-14T00:55:46.120Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4003,
+    "totalFetched": 4004,
     "totalPublished": 77,
-    "lastFetch": "2026-10-17T03:26:14.187Z",
+    "lastFetch": "2026-10-17T08:19:11.465Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
