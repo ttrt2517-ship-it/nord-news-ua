@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1792255986914.3306,
+      "title": "Horten: Bil har kjørt inn i bygning",
+      "slug": "horten-bil-har-kjrt-inn-i-bygning",
+      "content": "Alle nødetater rykket ut til Storgata i Horten etter melding om en bil som har kjørt inn i en privatbolig lørdag ettermiddag.\n\nBilen skal ha kjørt gjennom en rute, skriver politiet i politiloggen.\n\nTo personer involvert, som begge er ute av bilen. De sendes til legevakt, ifølge politiet.",
+      "excerpt": "Alle nødetater rykket ut til Storgata i Horten etter melding om en bil som har kjørt inn i en privatbolig lørdag ettermiddag.\n\nBilen skal ha kjørt gjennom en rute, skriver politiet i politiloggen.\n\nTo personer involvert, som begge er ute av bilen. De sendes til legevakt, ifølge politiet.",
+      "image": "https://images.unsplash.com/photo-1613162732142-8a8bb6362e7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIyNTU5ODZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/ostfold/horten_-bil-har-kjort-inn-i-bygning-1.18057504",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-17T16:53:06.914Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1792243788458.2231,
       "title": "Brann i valseverk på Karmøy slukket – ingen skadet",
       "slug": "brann-i-valseverk-p-karmy-slukket-ingen-skadet",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-10-14T13:23:45.721Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1791984224099.4814,
-      "title": "Ukraina: Seks drept i russisk angrep mot Lutsk",
-      "slug": "ukraina-seks-drept-i-russisk-angrep-mot-lutsk",
-      "content": "Seks personer er drept i et russisk droneangrep mot byen Lutsk, ifølge ukrainske myndigheter. Det skriver AFP.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Seks personer er drept i et russisk droneangrep mot byen Lutsk, ifølge ukrainske myndigheter. Det skriver AFP.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ukraina_-seks-drept-i-russisk-angrep-mot-lutsk-1.18054845",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-14T13:23:44.099Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4007,
+    "totalFetched": 4008,
     "totalPublished": 77,
-    "lastFetch": "2026-10-17T13:29:49.953Z",
+    "lastFetch": "2026-10-17T16:53:08.896Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
