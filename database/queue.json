@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1792367872397.0413,
+      "title": "251 millioner samlet inn i årets TV-aksjon",
+      "slug": "251-millioner-samlet-inn-i-rets-tvaksjon",
+      "content": "Årets TV-aksjon til inntekt for NRC Flyktninghjelpen samlet inn 251 millioner kroner, ifølge TV-aksjonen.\n\nDermed fortsetter innsamlingsbeløpet å falle for andre år på rad. Til sammenligning kom det inn 275 millioner kroner i fjor, mens resultatet i 2024 endte på hele 417 millioner kroner.\n\n– Vi er overveldet og dypt takknemlige for givergleden, sier generalsekretær i NRC Flyktninghjelpen, Jan Egeland.\n\nTV-aksjonen 2026\n\nÅrets TV-aksjon går til Flyktninghjepen.",
+      "excerpt": "Årets TV-aksjon til inntekt for NRC Flyktninghjelpen samlet inn 251 millioner kroner, ifølge TV-aksjonen.\n\nDermed fortsetter innsamlingsbeløpet å falle for andre år på rad. Til sammenligning kom det inn 275 millioner kroner i fjor, mens resultatet i 2024 endte på hele 417 millioner kroner.\n\n– Vi er...",
+      "image": "https://images.unsplash.com/photo-1727625800584-4edd7b080a14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIzNjc4NzJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/251-millioner-samlet-inn-i-arets-tv-aksjon-1.18058115",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-18T23:57:52.397Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792367870757.3418,
+      "title": "Fire døde og 39 skadd i brann på militærbase i Canada",
+      "slug": "fire-dde-og-39-skadd-i-brann-p-militrbase-i-canada",
+      "content": "39 personer er sendt til sykehus etter at det brøt ut brann på en militærbase i Canada. For minst 19 av dem er tilstanden kritisk, opplyser delstatsminister Danielle Smith i provinsen Alberta.\n\nFra før er det bekreftet at fire mennesker mistet livet i brannen.",
+      "excerpt": "39 personer er sendt til sykehus etter at det brøt ut brann på en militærbase i Canada. For minst 19 av dem er tilstanden kritisk, opplyser delstatsminister Danielle Smith i provinsen Alberta.\n\nFra før er det bekreftet at fire mennesker mistet livet i brannen.",
+      "image": "https://images.unsplash.com/photo-1761678168699-29e9754731e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIzNjc4NzB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fire-dode-og-39-skadd-i-brann-pa-militaerbase-i-canada-1.18058117",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-18T23:57:50.757Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792367869123.4841,
+      "title": "En drept og to såret i angrep mot Kyiv",
+      "slug": "en-drept-og-to-sret-i-angrep-mot-kyiv",
+      "content": "En person ble drept i et russisk luftangrep mot Ukrainas hovedstad natt til mandag, sier ordfører Vitalij Klitsjko.\n\nYtterligere to personer ble skadet i angrepet, opplyser ordføreren på Telegram.\n\nHan legger til at et medisinsk senter og et næringsbygg fikk skader i angrepet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "En person ble drept i et russisk luftangrep mot Ukrainas hovedstad natt til mandag, sier ordfører Vitalij Klitsjko.\n\nYtterligere to personer ble skadet i angrepet, opplyser ordføreren på Telegram.\n\nHan legger til at et medisinsk senter og et næringsbygg fikk skader i angrepet.\n\nKrigen i...",
+      "image": "https://images.unsplash.com/photo-1698393895072-96ca8593c9f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIzNjc4Njl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/en-drept-og-to-saret-i-angrep-mot-kyiv-1.18058127",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-18T23:57:49.123Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1792354502140.3523,
       "title": "Zelenskyj til Bloomberg: Trump presser Ukraina til å kapitulere",
       "slug": "zelenskyj-til-bloomberg-trump-presser-ukraina-til-kapitulere",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-15T22:55:30.112Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1792104928371.831,
-      "title": "Droneangrep mot industriområde i Russland",
-      "slug": "droneangrep-mot-industriomrde-i-russland",
-      "content": "Ukrainske droner har angrepet et industri- og lagerområde i Rostov-regionen i Russland, sier lokale myndigheter.\n\nAngrepet førte til brann på området, opplyser guvernør Juri Sljusar på meldingstjenesten Telegram.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ukrainske droner har angrepet et industri- og lagerområde i Rostov-regionen i Russland, sier lokale myndigheter.\n\nAngrepet førte til brann på området, opplyser guvernør Juri Sljusar på meldingstjenesten Telegram.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/droneangrep-mot-industriomrade-i-russland-1.18056360",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-15T22:55:28.371Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792104926848.9343,
-      "title": "Amerikanske medier: Fem døde etter skyting på barneskole",
-      "slug": "amerikanske-medier-fem-dde-etter-skyting-p-barneskole",
-      "content": "Tre barn og en voksen er drept i skytingen på en barneskole i Bend i Oregon. I tillegg er gjerningspersonen død, opplyser anonyme kilder i politiet til flere amerikanske medier.\n\nPolitiet sa kort tid i forveien at det dreide seg om «flere ofre», blant dem barn, og at minst to personer var blitt sendt til sykehus med ambulanse.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Tre barn og en voksen er drept i skytingen på en barneskole i Bend i Oregon. I tillegg er gjerningspersonen død, opplyser anonyme kilder i politiet til flere amerikanske medier.\n\nPolitiet sa kort tid i forveien at det dreide seg om «flere ofre», blant dem barn, og at minst to personer var blitt...",
-      "image": "https://images.unsplash.com/photo-1690380113485-bd297691b243?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIxMDQ5MjZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/amerikanske-medier_-fem-dode-etter-skyting-pa-barneskole-1.18056384",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-15T22:55:26.848Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792093448133.784,
-      "title": "Kongo: Ebolasmitte bekreftet i nok en provins",
-      "slug": "kongo-ebolasmitte-bekreftet-i-nok-en-provins",
-      "content": "Ebolautbruddet i Den demokratiske republikken Kongo har spredd seg til nok en provins, uttalte to helsearbeidere torsdag.\n\nDermed er det bekreftet smitte i totalt åtte provinser.\n\nUtbruddet, som har herjet i landet siden mai, har krevd over 4000 menneskeliv. Over 9000 mennesker er bekreftet smittet.\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og Liberia. Etter at det store utbruddet var over, er det registrert flere sporadiske tilfeller av smitte.",
-      "excerpt": "Ebolautbruddet i Den demokratiske republikken Kongo har spredd seg til nok en provins, uttalte to helsearbeidere torsdag.\n\nDermed er det bekreftet smitte i totalt åtte provinser.\n\nUtbruddet, som har herjet i landet siden mai, har krevd over 4000 menneskeliv. Over 9000 mennesker er bekreftet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/kongo_-ebolasmitte-bekreftet-i-nok-en-provins-1.18056240",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-15T19:44:08.133Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4030,
+    "totalFetched": 4033,
     "totalPublished": 77,
-    "lastFetch": "2026-10-18T20:15:04.453Z",
+    "lastFetch": "2026-10-18T23:57:54.398Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
