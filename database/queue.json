@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1792354502140.3523,
+      "title": "Zelenskyj til Bloomberg: Trump presser Ukraina til å kapitulere",
+      "slug": "zelenskyj-til-bloomberg-trump-presser-ukraina-til-kapitulere",
+      "content": "Ukrainas president Volodymyr Zelenskyj anklager Donald Trump for å forsøke å presse Kyiv til å overgi seg til Russland.\n\n– Jeg tror det er tatt skritt for å overbevise Ukraina om å overgi seg, sa Zelenskyj i et intervju med Bloomberg i Kyiv.\n\nDet skriver Bloomberg News. Uttalelsen trapper opp en ukelang krangel med den amerikanske presidenten, skriver Bloomberg.\n\nZelenskyj kommer også med et nytt forslag om å etterkomme Trumps krav om å slutte å angripe russiske raffinerier, i bytte mot leveranser av flere Patriot-luftvernmissiler.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainas president Volodymyr Zelenskyj anklager Donald Trump for å forsøke å presse Kyiv til å overgi seg til Russland.\n\n– Jeg tror det er tatt skritt for å overbevise Ukraina om å overgi seg, sa Zelenskyj i et intervju med Bloomberg i Kyiv.\n\nDet skriver Bloomberg News. Uttalelsen trapper opp en...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/zelenskyj-til-bloomberg_-trump-presser-ukraina-til-a-kapitulere-1.18058084",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-18T20:15:02.140Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792354500227.1807,
+      "title": "Oslo-byråd gir seg: – Medaljen har en bakside",
+      "slug": "oslobyrd-gir-seg-medaljen-har-en-bakside",
+      "content": "Anita Leirvik North (H) gir seg i kommunepolitikken. Det skriver hun selv i et innlegg på Facebook.\n\n«Jeg har i dag informert byrådslederen og nominasjonskomiteen om at jeg ikke ønsker å stå på Oslo Høyres liste til kommunevalget neste høst», skriver hun i innlegget.\n\nHun legger til at hun er takknemlig for å ha fått jobbe for Oslo kommune de siste årene.\n\n«Men medaljen har en bakside. Lange dager og helgejobbing og et ordskifte jeg mener vi ikke er tjent med i politikken. Mine barn var små da jeg ble byråd, men de er nå tre år eldre og leser aviser», skriver hun videre.",
+      "excerpt": "Anita Leirvik North (H) gir seg i kommunepolitikken. Det skriver hun selv i et innlegg på Facebook.\n\n«Jeg har i dag informert byrådslederen og nominasjonskomiteen om at jeg ikke ønsker å stå på Oslo Høyres liste til kommunevalget neste høst», skriver hun i innlegget.\n\nHun legger til at hun er...",
+      "image": "https://images.unsplash.com/photo-1660329492916-5308e1387cbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIzNTQ1MDB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/oslo-byrad-gir-seg_-_-medaljen-har-en-bakside-1.18058099",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-18T20:15:00.227Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792354498318.5576,
+      "title": "Fly fra Tel Aviv omdirigert etter trussel",
+      "slug": "fly-fra-tel-aviv-omdirigert-etter-trussel",
+      "content": "Et Austrian Airlines-fly på vei fra Ben-Gurion i Tel Aviv til Wien, ble søndag kveld omdirigert til Sofia i Bulgaria, skriver The Jerusalem Post.\n\nÅrsaken var en mulig bomberussel, melder den israelske kringkasteren KAN.\n\nØsterrikske myndigheter skal ha mottatt en telefon om at det befant seg en mistenkelig gjenstand om bord.\n\nEtter varselet ble flyet umiddelbart beordret til å lande i Sofia, hvor det nå gjennomsøkes.\n\nDet israelske luftforsvaret opplyser at de ikke er involvert i hendelsen, da den fant sted helt utenfor israelsk luftrom.",
+      "excerpt": "Et Austrian Airlines-fly på vei fra Ben-Gurion i Tel Aviv til Wien, ble søndag kveld omdirigert til Sofia i Bulgaria, skriver The Jerusalem Post.\n\nÅrsaken var en mulig bomberussel, melder den israelske kringkasteren KAN.\n\nØsterrikske myndigheter skal ha mottatt en telefon om at det befant seg en...",
+      "image": "https://images.unsplash.com/photo-1732362129913-88a5a52958cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIzNTQ0OTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fly-fra-tel-aviv-omdirigert-etter-trussel-1.18058094",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-18T20:14:58.318Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1792343263229.4692,
       "title": "Trump med støtte til Netanyahu",
       "slug": "trump-med-sttte-til-netanyahu",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-15T19:44:08.133Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1792093446553.6135,
-      "title": "Bekymringsmelding mot kommunedirektøren i Tromsø",
-      "slug": "bekymringsmelding-mot-kommunedirektren-i-troms",
-      "content": "Ledergruppen i Tromsø kommune har sendt en bekymringsmelding mot kommunedirektør Ellen Beate Lundberg.\n\nTil NRK bekrefter ordfører Gunnar Wilhelmsen at de har mottatt bekymringsmeldingen. Han er leder av arbeidsgiverutvalget, som behandler saken.\n\n«Saken følges opp av arbeidsgiverutvalget i tråd med kommunens rutiner. Vi gjennomfører de undersøkelsene som er nødvendige for å få saken tilstrekkelig belyst og vurderer den videre oppfølgingen fortløpende.\n\nAv hensyn til de involverte og den pågående behandlingen ønsker jeg ikke å kommentere sakens innhold eller den konkrete behandlingen i arbeidsgiverutvalget.»\n\nNRK har vært i kontakt med flere av lederne i kommunen, som ikke ønsker å kommentere saken.\n\nDet har ikke lyktes å få en kommentar fra kommunedirektør Lundberg.\n\nTromsø kommune har nettopp blitt oppført på Robek-lista, og kommunedirektøren har ansvaret for en solid økonomisk prosess.\n\nFire ledere rundt Ellen Beate Lundberg skal ha levert en bekymringsmelding mot kvinnen som har ansvaret for å få Tromsø ut av Robek-lista.",
-      "excerpt": "Ledergruppen i Tromsø kommune har sendt en bekymringsmelding mot kommunedirektør Ellen Beate Lundberg.\n\nTil NRK bekrefter ordfører Gunnar Wilhelmsen at de har mottatt bekymringsmeldingen. Han er leder av arbeidsgiverutvalget, som behandler saken.\n\n«Saken følges opp av arbeidsgiverutvalget i tråd...",
-      "image": "https://images.unsplash.com/photo-1778606987832-1801a6cd4e6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIwOTM0NDZ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/tromsogfinnmark/bekymringsmelding-mot-kommunedirektoren-i-tromso-1.18056184",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-15T19:44:06.553Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792093444859.263,
-      "title": "Frankrike: 19 skadd i kollisjon mellom tog og buss",
-      "slug": "frankrike-19-skadd-i-kollisjon-mellom-tog-og-buss",
-      "content": "19 personer er skadd i en kollisjon mellom en buss og et tog ved inngangen til Kanaltunnelen under den engelske kanal, opplyser franske myndigheter torsdag kveld.\n\nIfølge de første rapportene er fem personer i kritisk tilstand, men ingen livstruende.\n\nUlykken skjedde ved 20-tiden, ifølge den franske avisen La Voix Du Nord.",
-      "excerpt": "19 personer er skadd i en kollisjon mellom en buss og et tog ved inngangen til Kanaltunnelen under den engelske kanal, opplyser franske myndigheter torsdag kveld.\n\nIfølge de første rapportene er fem personer i kritisk tilstand, men ingen livstruende.\n\nUlykken skjedde ved 20-tiden, ifølge den...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/frankrike_-19-skadd-i-kollisjon-mellom-tog-og-buss-1.18056308",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-15T19:44:04.859Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792075406152.6501,
-      "title": "Ungarn får 2,7 milliarder kroner av Norge",
-      "slug": "ungarn-fr-27-milliarder-kroner-av-norge",
-      "content": "Ungarn vil igjen motta EØS-midler fra Norge, melder Ungarns utenriksminister Anita Orban på Facebook.\n\nForhandlingene om EØS og den norske finansieringsordningen er avsluttet. Signeringen av samarbeidsavtalen for gjennomføring i perioden 2021–2028 vil finne sted om kort tid, skriver Orban.\n\nNorge holdt tilbake EØS-midler på grunn av styret til landets forrige statsminister Viktor Orbán.\n\nUngarn vil motta 254 millioner euro i EØS-midler. Det tilsvarer 2,7 milliarder norske kroner.\n\n– Avtalen åpner et nytt kapittel i forholdet mellom Norge og Ungarn. Midlene vil komme Ungarns befolkning til gode og støtte opp under Magyar-regjeringens reformer for demokrati, rettsstat og menneskerettigheter, sier den norske utenriksministeren Espen Barth Eide i en pressemelding.\n\nEide sier norske og ungarske aktører vil samarbeide om prosjekter og tema som pressefrihet, likestilling, grønn omstilling og inkludering av minoriteter i tillegg til tiltak for å bekjempe korrupsjon og desinformasjon.\n\nEØS-avtalen\n\nDet er solid flertall for fortsatt norsk EØS-medlemskap. En meningsmåling fra november 2021 viser at dersom det hadde det vært en ny folkeavstemning om EØS, ville 65,1 prosent stemt ja og 19,4 prosent stemt nei .\n\nUngarn\n\nOpposisjonspartiet Tisza og partileder Peter Magyar har vunnet valget i Ungarn. Frem til nå har Russland-vennlige Viktor Orbán styrt landet. Det har han gjort siden 2010.",
-      "excerpt": "Ungarn vil igjen motta EØS-midler fra Norge, melder Ungarns utenriksminister Anita Orban på Facebook.\n\nForhandlingene om EØS og den norske finansieringsordningen er avsluttet. Signeringen av samarbeidsavtalen for gjennomføring i perioden 2021–2028 vil finne sted om kort tid, skriver Orban.\n\nNorge...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ungarn-far-2_7-milliarder-kroner-av-norge-1.18055902",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-15T14:43:26.152Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4027,
+    "totalFetched": 4030,
     "totalPublished": 77,
-    "lastFetch": "2026-10-18T17:07:45.349Z",
+    "lastFetch": "2026-10-18T20:15:04.453Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
