@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1792438880269.1726,
+      "title": "To fjellklatrarar redda ned frå fjellhylle",
+      "slug": "to-fjellklatrarar-redda-ned-fr-fjellhylle",
+      "content": "To menn sat fast på ei fjellhylle ved Kvitingsnasa i Øvre Hålandsdal i Bjørnafjorden kommune måndag kveld.\n\nDei to klatrarane sat på ei fjellhylle sør for Tveitakvitingen, i området ved Dyrastegen.\n\n– Hovudredningssentralen blir kopla inn, og ein redningsaksjon blir sett i gang, opplyste politiet.\n\nKlokka 19.39 melder politiet at dei to er henta ut med redningshelikopter og ikkje skal vera skadde.",
+      "excerpt": "To menn sat fast på ei fjellhylle ved Kvitingsnasa i Øvre Hålandsdal i Bjørnafjorden kommune måndag kveld.\n\nDei to klatrarane sat på ei fjellhylle sør for Tveitakvitingen, i området ved Dyrastegen.\n\n– Hovudredningssentralen blir kopla inn, og ein redningsaksjon blir sett i gang, opplyste...",
+      "image": null,
+      "original_url": "https://www.nrk.no/vestland/to-fjellklatrarar-redda-ned-fra-fjellhylle-1.18059114",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-19T19:41:20.269Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792438878674.9854,
+      "title": "Ismail A. Hussein trekker seg fra Oslo Venstre",
+      "slug": "ismail-a-hussein-trekker-seg-fra-oslo-venstre",
+      "content": "Ismail A. Hussein trekker seg fra Oslo Venstre sin bystyregruppe og melder seg ut av partiet. Det skriver han i et facebook-innlegg mandag ettermiddag.\n\nBakgrunnen er at han ikke er tilfreds med prioriteringer knyttet til Groruddalen og det flerkulturelle.\n\n– I utgangspunktet hadde jeg tenkt å sitte som venstrepolitiker perioden ut. Men i den siste tiden har vi vært vitne til at tre dyktige kvinnelige kollegaer ikke stiller til gjenvalg eller trekker seg fra bystyrelisten og nominasjonsprosessen, skriver han.\n\nI innlegget kommer han med kritikk mot ledelsen i partiet.\n\n– En ledelse som ikke tar ordentlig tak i forhold som bidrar til at tre engasjerte kvinner med ulike perspektiver og med både minoritets- og majoritetsbakgrunn velger å trekke seg eller ikke stiller til gjenvalg, kan jeg faktisk ikke fortsette å stille meg bak.\n\nGruppelder i Oslo Venstre, Haakon Riekeles, sier til Avisa Oslo at de vil ta med seg utfordringene som Hussein løfter, selv om de ikke er enige i flere av beskrivelsene og karakteristikkene hans.\n\n– Selv om han ikke lengre ønsker å være en del av laget tar jeg oppfordringen hans om å ta diskusjonen om mangfold og utvikling i partiet på alvor, sier han til avisen.\n\nValg i Oslo og Akershus 2027\n\nMandag 13. september 2027 er det kommune- og fylkestingsvalg i Norge. Her finner du alle meldinger og saker om valgene i Oslo og Akershus.",
+      "excerpt": "Ismail A. Hussein trekker seg fra Oslo Venstre sin bystyregruppe og melder seg ut av partiet. Det skriver han i et facebook-innlegg mandag ettermiddag.\n\nBakgrunnen er at han ikke er tilfreds med prioriteringer knyttet til Groruddalen og det flerkulturelle.\n\n– I utgangspunktet hadde jeg tenkt å...",
+      "image": "https://images.unsplash.com/photo-1581343500173-310428832b9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI0Mzg4Nzh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/ismail-a.-hussein-trekker-seg-fra-oslo-venstre-1.18059139",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-19T19:41:18.674Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792438876933.144,
+      "title": "Zelenskyj: Kan møtes i Norge",
+      "slug": "zelenskyj-kan-mtes-i-norge",
+      "content": "Volodymyr Zelenskyj sier at forhandlere fra Ukraina og USA kan møtes i Norge i løpet av de nærmeste dagene.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Volodymyr Zelenskyj sier at forhandlere fra Ukraina og USA kan møtes i Norge i løpet av de nærmeste dagene.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/zelenskyj_-kan-motes-i-norge-1.18059063",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-19T19:41:16.933Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1792412851972.3242,
       "title": "Kongsberg Gruppen skal levere missiler til Danmark",
       "slug": "kongsberg-gruppen-skal-levere-missiler-til-danmark",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-16T14:37:06.903Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1792161424462.7527,
-      "title": "Russisk utsending: USA ber Russlands investeringsfond bistå i dieselavtale",
-      "slug": "russisk-utsending-usa-ber-russlands-investeringsfond-bist-i-",
-      "content": "Det amerikanske finansdepartementet har bedt det russiske statlige investeringsfondet (RDIF) om å legge til rette for betalinger knyttet til den mye omtalte dieselavtalen mellom USA og Russland, påstår Putins utsending Kirill Dmitriev.\n\nDmitriev sa under en energikonferanse fredag at avdøde senator Lindsey Grahams sanksjonslov hindrer investeringssamarbeid mellom landene. Han hevdet det er en «økende erkjennelse» i USA om at det var en feil å vedta loven.\n\nSenatet vedtok den strenge sanksjonspakken i august etter en langvarig kampanje fra Graham for å styrke støtten til Ukraina og legge press på Russland.\n\nDen er ment å frata Putin krigsinntekter, ved å straffe land som kjøper russisk olje, gass og annen eksport.",
-      "excerpt": "Det amerikanske finansdepartementet har bedt det russiske statlige investeringsfondet (RDIF) om å legge til rette for betalinger knyttet til den mye omtalte dieselavtalen mellom USA og Russland, påstår Putins utsending Kirill Dmitriev.\n\nDmitriev sa under en energikonferanse fredag at avdøde senator...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russisk-utsending_-usa-ber-russlands-investeringsfond-bista-i-dieselavtale-1.18057040",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-16T14:37:04.462Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792140529471.201,
-      "title": "Today in Norway: A roundup of the latest news on Friday",
-      "slug": "today-in-norway-a-roundup-of-the-latest-news-on-friday",
-      "content": "Add a comment\n                                                                                            \n                                        \n                                                                        \n                                        \n                                            \n                                        \n                                    \n                                    \n                                        \n                                            \n                                        \n                                    \n                                    \n                                        \n                                            \n                                        \n                                    \n                                \n                            \n                        \n                    \n                    \n                    \n                            \n                            Unions and left-wing parties are calling for a 'Temu tax' in Norway. Photo by V H on Unsplash\n                    \n                                            \n                            \n        \n            \n            \n            \n            \n        \n        Add The Local as a preferred source\n    \n                        \n                                        \n                        Immigrants disproportionately hit by high-interest debt, a new tick species discovered in Norway, proposals for a 'Temu tax' and more news this Friday.\n\nImmigrants in Norway are more likely to be affected by high-interest consumer debt than other groups\n\nAccording to new figures from Statistics Norway (SSB), nearly four in ten people in Norway live in households carrying interest-bearing unsecured debt, which usually means credit card balances and consumer loans.\n\nAltogether, Norwegian households had 113 billion kroner in high-interest debt in 2024. Nevertheless, only 5.1 percent of the population (about 278,700 people) have what SSB calls \"burdensome\" debt, which is unsecured debt over 25 percent of their gross annual household income.\n\nIn Norway, some population groups are more heavily burdened by consumer debt than others, with immigrants among the most affected.\n\n\"Immigrants constitute approximately 20 percent of the population, but own a total of 25 percent of the interest-bearing consumer debt, equivalent to 28.6 billion kroner,\" explained SSB, adding that 7.8 percent of foreign residents carry burdensome debt, compared with 4.4 percent across the wider population.\n\nSSB says this difference is mostly due to Norway's homeownership system. Homeowners can borrow against their property at regular mortgage rates if they face financial problems, but renters and newcomers do not have assets to get cheaper loans. Without collateral, foreign residents who face sudden expenses or lose their jobs often have to rely on high-interest credit cards and unsecured consumer loans.\n\nSingle men are also one of the most affected groups, with 8.3 percent carrying burdensome levels of consumer debt.\n\nA new species of tick has been recorded in Norway after an unusually large specimen was found on a child in Oslo, according to public broadcaster NRK.\n\nThe child’s father found the tick and noticed it looked very different from the common sheep tick (skogflått) and the Norwegian National Advisory Unit on Tick-Borne Diseases later identified it as Hyalomma excavatum.\n\nThis species can be up to three times bigger than Norway's native ticks and has a dark body with striped legs; also unlike local ticks that wait in bushes or grass, Hyalomma ticks chase their prey across the ground.\n\nResearchers warn that rising temperatures from climate change will bring more exotic tick species and new diseases into the country. However, health experts and scientists say Norway is not well prepared to track these new threats due to recent funding cuts.\n\nAround 13 to 14 different tick species have been documented in Norway out of approximately 900 species identified worldwide.\n\nREAD MORE: How to protect yourself during Norways tick season\n\nNorway's Public Health Institute to cut over 100 jobs due to budget reductions\n\nThe Norwegian Institute of Public Health (Folkehelseinstituttet – FHI) has confirmed to broadcaster TV 2 that it must cut 100 million kroner from its 2027 budget, a move that could lead to staff reductions of more than 100 full-time employees.\n\n\"We must cut 100 million in the 2027 budget and another 50 to 100 million in 2028. In total, the cost level must be reduced by 150 to 200 million,\" said FHI's acting director, Elisabet E. Storvoll.\n\nStorvoll said it is still too soon to know exactly how many employees or which departments will be affected by the job cuts, and admitted the institute will have to make some tough choices about priorities in the future.\n\nThe news has caused concern throughout Norway’s health sector. \"It is very worrying that the Norwegian Institute of Public Health is facing such extensive cuts. We have never had a greater need to prevent disease, at a time when more and more people are living with chronic conditions and the health service is under severe pressure,\" said Magne Wang Fredriksen, secretary general of the Norwegian Heart and Lung Association (LHL). \"Cutting the knowledge that keeps people healthy can, over time, become a very expensive saving.\"\n\nMinister of Health and Care Services Jan Christian Vestre defended the government's decision, explaining that the state is reallocating about 500 million kroner from central administrative bodies directly to hospital care.\n\n\"We believe this is the right priority,\" Vestre said, adding that FHI will still retain an annual operating budget exceeding 1.5 billion kroner.\n\nUnions and left-wing parties are calling for a 'Temu tax'\n\nTrade unions in Norway want a special tax on low-cost parcel deliveries from foreign online stores like Temu, Shein, and Alibaba, to curb their growth and shield domestic retailers from unfair competition.\n\nPeople in Norway now order about 50 million packages a year from cheap overseas retailers, a volume customs authorities have warned is \"out of control\", as NRK reported.\n\nBoth the Socialist Left Party (SV) and the Green Party (MDG) have said they will bring up this demand during state budget talks in parliament in November.\n\nThe proposal wants to scrap the existing customs exemption on imported goods valued under 3,000 kroner and add a handling fee of 30 to 50 kroner per package. This would be similar to steps taken in the EU.\n\nLast chance to give feedback on proposed citizenship rules\n\nIf you want to have your say on the Norwegian government’s proposed changes to the Citizenship Act, you have until October 19th.\n\nThe proposed amendments, which seek to standardise regulations and tighten the requirements for acquiring Norwegian citizenship, are currently open for public consultation. This could make it harder for foreign residents to get Norwegian citizenship, even though the government says the changes are intended to speed up processing times.\n\nYou can send your feedback directly via the government portal. For more information, see our full explanation here.\n\nREAD MORE: What will Norway's plan to toughen citizenship rules mean for you?\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Add a comment...",
-      "image": "https://images.unsplash.com/photo-1536683402757-75f8d0dfa419?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIxNDA1Mjl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20261016/today-in-norway-a-roundup-of-the-latest-news-on-friday-253",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-10-16T08:48:49.471Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792140524988.1184,
-      "title": "370.000 strømløse etter russiske angrep",
-      "slug": "370000-strmlse-etter-russiske-angrep",
-      "content": "Russiske droneangrep fører til at vel 370.000 mennesker er uten strøm i det ukrainske fylket Volyn.\n\nFylket grenser til Polen, og polske kampfly ble sendt på vingene for beskytte landets luftrom. Det opplyser landets militære myndigheter på X.\n\nI et droneangrep mot byen Kharkiv øst i Ukraina ble tre personer drept og flere såret, opplyser guvernøren i Kharkiv fylke.\n\nDet har også vært russiske angrep mot en boligblokk i byen Uman, som ligger midt i landet.\n\nI tillegg opplyser det russiske forsvarsdepartementet at de har gått til angrep mot mål i havnebyen Odesa, men dette er foreløpig ikke bekreftet fra ukrainsk hold.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Russiske droneangrep fører til at vel 370.000 mennesker er uten strøm i det ukrainske fylket Volyn.\n\nFylket grenser til Polen, og polske kampfly ble sendt på vingene for beskytte landets luftrom. Det opplyser landets militære myndigheter på X.\n\nI et droneangrep mot byen Kharkiv øst i Ukraina ble...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/370.000-stromlose-etter-russiske-angrep-1.18056578",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-16T08:48:44.988Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4039,
+    "totalFetched": 4042,
     "totalPublished": 77,
-    "lastFetch": "2026-10-19T12:27:33.464Z",
+    "lastFetch": "2026-10-19T19:41:21.873Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
