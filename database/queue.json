@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1792468474586.4944,
+      "title": "BPA-assistenter går ut i streik",
+      "slug": "bpaassistenter-gr-ut-i-streik",
+      "content": "Ti brukerstyrte personlige assistenter går ut i streik fra tirsdag klokken 10, opplyser Fagforbundet i en pressemelding.\n\nDet skjer etter at meklingen mellom Fagforbundet og NHO Geneo ikke førte frem.\n\nMedlemmene som blir tatt ut i streik jobber ved Human Care i Ullensaker, Horten, Sande, Høvik, Bærum, Kleppe, Drammen, Kongsberg og Tverlandet.\n\nUenigheten handler om lønnstillegg for ubekvem arbeidstid.\n\n– Vi måtte gå til streik for to år siden for å oppnå bransjestandard i lønn. Nå må vi dessverre gjøre det igjen. Det er provoserende, sier nestleder i Fagforbundet, Line Tollefsen.\n\nSigurd Løkholm, forhandlingsleder for NHO Geneo, sier de har strukket seg langt for å finne en løsning.\n\n– Det er beklagelig at Fagforbundet velger å ta ut BPA-virksomheter i streik. Dette rammer vedtakseiere og pårørende som er avhengige av tjenestene de tilbyr, uttaler Løkholm i en pressemelding.",
+      "excerpt": "Ti brukerstyrte personlige assistenter går ut i streik fra tirsdag klokken 10, opplyser Fagforbundet i en pressemelding.\n\nDet skjer etter at meklingen mellom Fagforbundet og NHO Geneo ikke førte frem.\n\nMedlemmene som blir tatt ut i streik jobber ved Human Care i Ullensaker, Horten, Sande, Høvik...",
+      "image": "https://images.unsplash.com/photo-1691414203402-c8b329585ebc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI0Njg0NzR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/bpa-assistenter-gar-ut-i-streik-1.18059204",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-20T03:54:34.586Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792468472954.3765,
+      "title": "EU gir 3,3 milliarder til havvind og karbonfangst i Norge",
+      "slug": "eu-gir-33-milliarder-til-havvind-og-karbonfangst-i-norge",
+      "content": "EU gir 3,3 milliarder kroner til norske havvind- og karbonfangstprosjekter.\n\nDet er EUs innovasjonsfond som støtter Aker Solutions, Aker BP og Sirona Technologies til ett havvindprosjekt og to karbonfangstprosjekter i Norge. Det skriver Enova i en pressemelding.\n\nEUs innovasjonsfond har tildelt tilsammen 36,4 milliarder kroner til 77 klima- og energiprosjekter i Europa.\n\nKlima og miljø\n\nVerden opplever allerede klimaendringene, slår FNs klimapanel fast. Mer ekstremvær, høyere havnivå og økte helseproblemer er noen av konsekvensene, ifølge deres siste hovedrapport.",
+      "excerpt": "EU gir 3,3 milliarder kroner til norske havvind- og karbonfangstprosjekter.\n\nDet er EUs innovasjonsfond som støtter Aker Solutions, Aker BP og Sirona Technologies til ett havvindprosjekt og to karbonfangstprosjekter i Norge. Det skriver Enova i en pressemelding.\n\nEUs innovasjonsfond har tildelt...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/-eu-gir-3_3-milliarder-til-havvind-og-karbonfangst-i-norge-1.18059208",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-20T03:54:32.954Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792468471475.619,
+      "title": "Svensk sykepleier tiltalt for voldtekt av døende pasient",
+      "slug": "svensk-sykepleier-tiltalt-for-voldtekt-av-dende-pasient",
+      "content": "En mannlig sykepleier er tiltalt for grov voldtekt av en svært syk eldre kvinne som var innlagt på sykehus i Jönköping i Sverige.\n\nMannen er anklaget for å ha voldtatt kvinnen ved Länssjukhuset Ryhov i august i år.\n\nHun var i 70-årene og fikk behandling i sluttfasen av livet. Hun døde kort tid etter det påståtte overgrepet, ifølge påtalemyndigheten.\n\n– Jeg anser at sykepleieren har utvist en særskilt hensynsløshet eller råskap med tanke på at lovbruddet er begått mens kvinnen fikk behandling i livets sluttfase og ikke kunne forsvare seg, og at mannen har utnyttet stillingen sin som nettopp sykepleier, sier aktor Frida Noldin i en pressemelding.",
+      "excerpt": "En mannlig sykepleier er tiltalt for grov voldtekt av en svært syk eldre kvinne som var innlagt på sykehus i Jönköping i Sverige.\n\nMannen er anklaget for å ha voldtatt kvinnen ved Länssjukhuset Ryhov i august i år.\n\nHun var i 70-årene og fikk behandling i sluttfasen av livet. Hun døde kort tid...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/svensk-sykepleier-tiltalt-for-voldtekt-av-doende-pasient-1.18059205",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-20T03:54:31.476Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1792452240021.7195,
       "title": "Portforbud i franske byer",
       "slug": "portforbud-i-franske-byer",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-16T22:38:20.356Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1792178665588.4465,
-      "title": "Rekordlav avskoging i Amazonas",
-      "slug": "rekordlav-avskoging-i-amazonas",
-      "content": "Avskogingen i Amazonas var på det laveste nivået siden målingene startet for nesten 40 år siden, viser nye tall fra brasilianske myndigheter.\n\nMellom august 2025 og juli 2026 ble 3 335 kvadratkilometer skog hugget ned, noe som er en nedgang på nesten 42 prosent sammenlignet med året før.\n\nBrasilianske myndigheter peker på sterkere miljøforvaltning, bedre overvåking og håndheving av skoglover som viktige årsaker til resultatene.\n\nNorge støtter arbeidet gjennom Klima- og skoginitiativet og Amazonasfondet, blant annet med tiltak for kontroll, brannforebygging, skogrestaurering og urfolksrettigheter.\n\nKlima og miljøminister Sigrun Aasland gratulerer Brasil med «et imponerende resultat».\n\n– Dette er resultatet av en helhetlig politikk som viser at bedre håndheving av miljølover og langsiktig samarbeid gir konkrete resultater for klima, natur og mennesker», uttaler Aasland i en pressemelding.\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president Jair Bolsonaro til angrep på Kongressen, presidentpalasset og høyesterett i hoevdstaden Brasília.\n\nAmazonas\n\nRegnskogen i Amazonas er truet av avskoging og branner. Regnskogen inneholder svært mange arter, og den binder også store mengder CO2, som frigjøres når skogen brenner.",
-      "excerpt": "Avskogingen i Amazonas var på det laveste nivået siden målingene startet for nesten 40 år siden, viser nye tall fra brasilianske myndigheter.\n\nMellom august 2025 og juli 2026 ble 3 335 kvadratkilometer skog hugget ned, noe som er en nedgang på nesten 42 prosent sammenlignet med året...",
-      "image": "https://images.unsplash.com/photo-1707855126609-2889a3caecfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIxNzg2NjV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/rekordlav-avskoging-i-amazonas-1.18057245",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-16T19:24:25.588Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792178663705.5974,
-      "title": "Container med dynamitt i synkehull",
-      "slug": "container-med-dynamitt-i-synkehull",
-      "content": "Det har skjedd et ras inne i en underjordisk tunnel ved Ådland i Samnanger.\n\nPolitiet melder om at raset har ført til et synkehull.\n\n– En container som inneholder dynamitt ligger delvis nedi hullet, opplyser operasjonsleder Ole Ronny Olsen i Vest politidistrikt.\n\nFrode Eide ved 110-sentralen sier at det ikke skal være fare for eksplosjon.\n\n– Dynamitten ligger ikke sammen med tennsystemet, sier Eide.\n\nOmrådet blir nå sperret av gjennom natten. Det skal gjennomføres en ny kontroll når det blir lyst lørdag.\n\n– Så får politiet legge en plan videre for sikring av dynamitten, sier Eide.\n\nDet er ikke meldt om personskader eller fare for boliger i nærheten.",
-      "excerpt": "Det har skjedd et ras inne i en underjordisk tunnel ved Ådland i Samnanger.\n\nPolitiet melder om at raset har ført til et synkehull.\n\n– En container som inneholder dynamitt ligger delvis nedi hullet, opplyser operasjonsleder Ole Ronny Olsen i Vest politidistrikt.\n\nFrode Eide ved 110-sentralen sier...",
-      "image": "https://images.unsplash.com/photo-1707855126609-2889a3caecfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIxNzg2NjN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/vestland/container-med-dynamitt-i-synkehull-1.18057257",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-16T19:24:23.705Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792178661999.2805,
-      "title": "VG: Rødgrønne partier enige om ny tannhelsereform",
-      "slug": "vg-rdgrnne-partier-enige-om-ny-tannhelsereform",
-      "content": "Det rødgrønne flertallet på Stortinget er enige om hovedlinjene i en ny tannhelsereform, melder VG.\n\nI dag betaler alle opp til 28 år 25 prosent av tannlegeregningen. Dette skal gradvis gjelde nye alderskull.\n\nDet følger ingen penger med forslaget nå, men SV og Rødt sier tannhelse blir et viktig krav i budsjettforhandlingene for 2027.\n\nHvor raskt reformen innføres, avhenger av årlige budsjettforhandlinger og bevilgninger fra Stortinget.\n\nFylkeskommunene skal få ansvaret, men kan bruke både offentlige tilbud og private tannklinikker.\n\nTannhelse\n\nKøene i den offentlige tannhelsetjenesten er nesten tredoblet under koronapandemien på grunn av smitteverntiltakene. Ved utgangen av 2020 sto over 166.000 i kø for tannbehandling.",
-      "excerpt": "Det rødgrønne flertallet på Stortinget er enige om hovedlinjene i en ny tannhelsereform, melder VG.\n\nI dag betaler alle opp til 28 år 25 prosent av tannlegeregningen. Dette skal gradvis gjelde nye alderskull.\n\nDet følger ingen penger med forslaget nå, men SV og Rødt sier tannhelse blir et viktig...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/vg_-rodgronne-partier-enige-om-ny-tannhelsereform-1.18057252",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-16T19:24:21.999Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4044,
+    "totalFetched": 4047,
     "totalPublished": 77,
-    "lastFetch": "2026-10-19T23:24:01.750Z",
+    "lastFetch": "2026-10-20T03:54:36.318Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
