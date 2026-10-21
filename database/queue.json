@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1792554287902.0417,
+      "title": "Ny mindretallsregjering i Romania",
+      "slug": "ny-mindretallsregjering-i-romania",
+      "content": "Romanias nasjonalforsamling har stemt for en mindretallsregjering ledet av den uavhengige diplomaten Luca Niculescu.\n\nHans regjering fikk tirsdag tommelen opp fra 280 folkevalgte, mens 58 stemte imot.\n\n– Vi gjør slutt på en seks måneder lang politisk krise, sa Niculescu etter avstemningen.\n\nRomania hadde i fjor ett av de største budsjettunderskuddene i EU. Det førte til at statsminister Ilie Bolojan ble kastet.",
+      "excerpt": "Romanias nasjonalforsamling har stemt for en mindretallsregjering ledet av den uavhengige diplomaten Luca Niculescu.\n\nHans regjering fikk tirsdag tommelen opp fra 280 folkevalgte, mens 58 stemte imot.\n\n– Vi gjør slutt på en seks måneder lang politisk krise, sa Niculescu etter avstemningen.\n\nRomania...",
+      "image": "https://images.unsplash.com/photo-1659424766030-385d22f8b0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI1NTQyODd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ny-mindretallsregjering-i-romania--1.18060295",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-21T03:44:47.902Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792554285993.8787,
+      "title": "To ukrainere siktet for spionasje",
+      "slug": "to-ukrainere-siktet-for-spionasje",
+      "content": "Dansk etterretning har siktet to menn i en spionasjesak mot det danske forsvarsselskapet Mydefence.\n\nRetten i Aalborg gikk i går ikke med på å varektsfengsle de to, men politiet får holde de to, en 18-åring og en 21-åring, i arrest i tre dager.\n\nDe to tiltalte ukrainerne erklærer seg ikke skyldige, sier forsvarsadvokat Rasmus Amandusson til Danmarks Radio.\n\nPåtalemyndigheten mener at de to fotograferte MyDefence, og at de sendte bilder til en person på Telegram. Påtalemyndigheten mener at russisk etterretning står bak.",
+      "excerpt": "Dansk etterretning har siktet to menn i en spionasjesak mot det danske forsvarsselskapet Mydefence.\n\nRetten i Aalborg gikk i går ikke med på å varektsfengsle de to, men politiet får holde de to, en 18-åring og en 21-åring, i arrest i tre dager.\n\nDe to tiltalte ukrainerne erklærer seg ikke skyldige...",
+      "image": "https://images.unsplash.com/photo-1783521512130-31934b7c49b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI1NTQyODV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/to-ukrainere-siktet-for-spionasje-1.18060296",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-21T03:44:45.993Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792554284319.4338,
+      "title": "To drept i russiske angrep",
+      "slug": "to-drept-i-russiske-angrep",
+      "content": "To personer ble drept i russiske droneangrep i nærheten av Ukrainas nest største by Kharkiv i natt, opplyser fylkesguvernør Oleh Synjehubov på Telegram onsdag morgen.\n\nYtterligere elleve personer fikk «akutte stressreaksjoner», og flere private hus ble skadet, ifølge guvernøren.\n\nOgså den ukrainske kringkasteren Suspilne melder om eksplosjoner i Kharkiv-området i natt.\n\nI tillegg ble Solomyanskij-distriktet i Kyiv rammet av et droneangrep, skriver ordfører Vitalij Klitsjko på Telegram. Angrepet skal ha rammet et anlegg for transportinfrastruktur.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "To personer ble drept i russiske droneangrep i nærheten av Ukrainas nest største by Kharkiv i natt, opplyser fylkesguvernør Oleh Synjehubov på Telegram onsdag morgen.\n\nYtterligere elleve personer fikk «akutte stressreaksjoner», og flere private hus ble skadet, ifølge guvernøren.\n\nOgså den ukrainske...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/to-drept-i-russiske-angrep-1.18060294",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-21T03:44:44.319Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1792537114083.7358,
       "title": "RAF Fairford-hendelsen: To menn pågrepet på nytt",
       "slug": "raf-fairfordhendelsen-to-menn-pgrepet-p-nytt",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-17T23:49:37.514Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1792280975795.4092,
-      "title": "Moskvas ordfører: 200 ukrainske droner skutt ned på vei mot byen",
-      "slug": "moskvas-ordfrer-200-ukrainske-droner-skutt-ned-p-vei-mot-bye",
-      "content": "Nesten 200 ukrainske droner på vei mot Moskva ble skutt ned av russisk luftvern lørdag, ifølge hovedstadens ordfører Sergej Sobjanin.\n\nSobjanin har skrevet flere innlegg på Telegram. Der oppgir han at 195 droner ble skutt ned av luftvernet gjennom lørdagen idet de var på vei mot Moskva.\n\nDroneangrepet førte til at to av Moskvas flyplasser – Domodedovo og Vnukovo – måtte innføre midlertidig stans i flygingene, skriver NTB.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Nesten 200 ukrainske droner på vei mot Moskva ble skutt ned av russisk luftvern lørdag, ifølge hovedstadens ordfører Sergej Sobjanin.\n\nSobjanin har skrevet flere innlegg på Telegram. Der oppgir han at 195 droner ble skutt ned av luftvernet gjennom lørdagen idet de var på vei mot...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/moskvas-ordforer_-200-ukrainske-droner-skutt-ned-pa-vei-mot-byen-1.18057730",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-17T23:49:35.795Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792268161596.133,
-      "title": "400 arrestert i voldsomme protester i Frankrike",
-      "slug": "400-arrestert-i-voldsomme-protester-i-frankrike",
-      "content": "Rundt 550.000 mennesker deltar i de voldsomme protestene som pågår i Frankrike, sier innenriksminister Laurent Nuñez.\n\nLørdag melder franske myndigheter at 400 er arrestert under demonstrasjonene, som flere steder har eskalert til voldelige opptøyer.\n\nRådhuset i byen Limoges ble satt i brann etter at en gruppe angrep bygningen.\n\nPresident Emmanuel Macron fordømmer opptøyene og sier at hærverk og plyndring vil bli straffet.",
-      "excerpt": "Rundt 550.000 mennesker deltar i de voldsomme protestene som pågår i Frankrike, sier innenriksminister Laurent Nuñez.\n\nLørdag melder franske myndigheter at 400 er arrestert under demonstrasjonene, som flere steder har eskalert til voldelige opptøyer.\n\nRådhuset i byen Limoges ble satt i brann etter...",
-      "image": "https://images.unsplash.com/photo-1727625801807-06a38a752b8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIyNjgxNjF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/400-arrestert-i-voldsomme-protester-i-frankrike-1.18057667",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-17T20:16:01.596Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792268159653.7993,
-      "title": "Israelske bosettere angrep diplomater på Vestbredden",
-      "slug": "israelske-bosettere-angrep-diplomater-p-vestbredden",
-      "content": "Israelske bosettere angrep lørdag diplomater på den okkuperte Vestbredden, melder blant annet nyhetsbyrået AFP.\n\nEn av de som ble angrepet var en fransk ordfører, Bernard Baudoux.\n\n– Angrepet viser Israels toleranse for bosettervold, sier han til nyhetsbyrået.\n\nOgså belgiske og polske diplomater var med i gruppen som ble angrepet.\n\nBelgiske myndigheter har fordømt angrepet. Det har også Israels utenriksminister Gideon Sa’ar, som kaller det et angrep fra opprørere.\n\nHan legger også noe av skylden på diplomatene for å ikke ha «koordinert» med det israelske militæret.\n\nAngrepet skjedde ved landsbyen Taybah, ikke langt fra stedet der flere palestinere og en amerikansk fotograf ble angrepet av bosettere fredag.\n\nVestbredden\n\nIsraelske myndigheter kontrollerer Vestbredden som har vært okkupert av Israel siden 1967, i strid med Folkeretten. Enkelte områder har begrenset palestinsk selvstyre. Store områder på Vestbredden er dominert av nye israelske bosettinger.\n\nPalestina\n\nPalestina er en delvis anerkjent stat i Midtøsten, bestående av Vestbredden og Gazastripen. Området har blitt herjet av krig med blant annet Israel i lang tid. Norge har anerkjent Palestina som en selvstendig stat siden mai 2024.\n\nIsraels bosettinger på Vestbredden\n\nIsraelske myndigheter bygger stadig flere boliger på okkupert grunn i Øst-Jerusalem og på Vestbredden. Slik bygging er ifølge FN i strid med folkeretten. 600.000 jøder bor i de omlag 140 bosettingene som er bygget siden 1967.",
-      "excerpt": "Israelske bosettere angrep lørdag diplomater på den okkuperte Vestbredden, melder blant annet nyhetsbyrået AFP.\n\nEn av de som ble angrepet var en fransk ordfører, Bernard Baudoux.\n\n– Angrepet viser Israels toleranse for bosettervold, sier han til nyhetsbyrået.\n\nOgså belgiske og polske diplomater...",
-      "image": "https://images.unsplash.com/photo-1765127771601-6ea91d9eee62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIyNjgxNTl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/israelske-bosettere-angrep-diplomater-pa-vestbredden-1.18057637",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-17T20:15:59.653Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4059,
+    "totalFetched": 4062,
     "totalPublished": 77,
-    "lastFetch": "2026-10-20T22:58:36.630Z",
+    "lastFetch": "2026-10-21T03:44:49.722Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
