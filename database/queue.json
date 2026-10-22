@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1792710052517.9634,
+      "title": "Putin sier Russland er klar til å forhandle om endelig Ukraina-avtale, ikke en «kort» våpenhvile",
+      "slug": "putin-sier-russland-er-klar-til-forhandle-om-endelig-ukraina",
+      "content": "Den russiske presidenten, Vladimir Putin, kommenterte forslaget fra USA om et høynivåmøte mellom amerikanerne, Ukraina og Russland i november.\n\n– Målet med disse diskusjonene vil være å løse spørsmålet om å sikre trygghet for både Ukraina og Russland ... innenfor rammen av en endelig avtale, ikke etter en slags kort pause i kamphandlingene, sa Putin til en reporter fra statlig russisk TV torsdag.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Den russiske presidenten, Vladimir Putin, kommenterte forslaget fra USA om et høynivåmøte mellom amerikanerne, Ukraina og Russland i november.\n\n– Målet med disse diskusjonene vil være å løse spørsmålet om å sikre trygghet for både Ukraina og Russland ... innenfor rammen av en endelig avtale, ikke...",
+      "image": "https://images.unsplash.com/photo-1624719634868-d2089cc2fd8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI3MTAwNTJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/putin-sier-russland-er-klar-til-a-forhandle-om-endelig-ukraina-avtale_-ikke-en-_kort_-vapenhvile-1.18062332",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-22T23:00:52.517Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792710050753.1162,
+      "title": "MC-fører hardt skadet etter ulykke i Nordre Follo",
+      "slug": "mcfrer-hardt-skadet-etter-ulykke-i-nordre-follo",
+      "content": "To personer ble torsdag kveld fraktet til Ahus etter en MC-ulykke i Nordre Follo. Føreren betegnes som hardt skadet.\n\n– Det har vært en trafikkulykke hvor en motorsykkel har kjørt av veien. Nødetatene er på vei til stedet, skrev operasjonsleder Ronny Hellerud Samuelsen like etter klokken 23.\n\nMotorsykkelen har kjørt av veien i en venstrekurve og truffet autovernet, opplyser operasjonslederen.\n\nDet skal ha vært to personer på motorsykkelen, og det var kun MC-en som var involvert.",
+      "excerpt": "To personer ble torsdag kveld fraktet til Ahus etter en MC-ulykke i Nordre Follo. Føreren betegnes som hardt skadet.\n\n– Det har vært en trafikkulykke hvor en motorsykkel har kjørt av veien. Nødetatene er på vei til stedet, skrev operasjonsleder Ronny Hellerud Samuelsen like etter klokken...",
+      "image": "https://images.unsplash.com/photo-1580945793418-7e48efb7963d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI3MTAwNTB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mc-forer-hardt-skadet-etter-ulykke-i-nordre-follo-1.18062346",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-22T23:00:50.753Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792710048656.3025,
+      "title": "Jevnt mellom Bolsonaro og Lula før andre valgrunde i Brasil",
+      "slug": "jevnt-mellom-bolsonaro-og-lula-fr-andre-valgrunde-i-brasil",
+      "content": "Den brasilianske senatoren Flávio Bolsonaro og president Luiz Inácio Lula da Silva ligger omtrent likt før søndagens andre runde i presidentvalget, viser en Datafolha-måling lagt fram torsdag.\n\nIfølge målingen får Bolsonaro 47 prosent av stemmene, mens Lula får 46 prosent.\n\nI forrige uke fikk Bolsonaro 47 prosent på en Datafolha-måling, mens Lula fikk 45 prosent.\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president Jair Bolsonaro til angrep på Kongressen, presidentpalasset og høyesterett i hoevdstaden Brasília.",
+      "excerpt": "Den brasilianske senatoren Flávio Bolsonaro og president Luiz Inácio Lula da Silva ligger omtrent likt før søndagens andre runde i presidentvalget, viser en Datafolha-måling lagt fram torsdag.\n\nIfølge målingen får Bolsonaro 47 prosent av stemmene, mens Lula får 46 prosent.\n\nI forrige uke fikk...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/jevnt-mellom-bolsonaro-og-lula-for-andre-valgrunde-i-brasil-1.18062364",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-22T23:00:48.657Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1792698484062.6096,
       "title": "WSJ: Trump skal ha ringt Musk og bedt ham oppheve Starlink-begrensning",
       "slug": "wsj-trump-skal-ha-ringt-musk-og-bedt-ham-oppheve-starlinkbeg",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-20T03:54:31.476Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1792452240021.7195,
-      "title": "Portforbud i franske byer",
-      "slug": "portforbud-i-franske-byer",
-      "content": "Det er innført portforbud i deler av flere franske byer. Det gjelder blant annet Lille, Lyon og Nice.\n\nDet er også portforbud for Place de la République og Les Halles i Paris.\n\nDe siste dagene har det vært opptøyer flere steder. Det som startet som en demonstrasjon mot dårlige forhold på franske skoler, har utviklet seg til gatekamper og plyndring.\n\nDe fleste stedene gjelder portforbudet fra klokken 20.00 til 06.00 mandag og tirsdag, skriver nyhetsbyrået AFP.\n\nPortforbud er et forbud gitt av offentlige myndigheter for sivilbefolkningen mot å være utendørs eller på steder der offentligheten ferdes.",
-      "excerpt": "Det er innført portforbud i deler av flere franske byer. Det gjelder blant annet Lille, Lyon og Nice.\n\nDet er også portforbud for Place de la République og Les Halles i Paris.\n\nDe siste dagene har det vært opptøyer flere steder. Det som startet som en demonstrasjon mot dårlige forhold på franske...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/portforbud-i-franske-byer-1.18059042",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-19T23:24:00.021Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792452238545.7466,
-      "title": "Zelenskyj: Forhandlere kan møtes i Norge",
-      "slug": "zelenskyj-forhandlere-kan-mtes-i-norge",
-      "content": "Ukrainas president Volodymyr Zelenskyj sier at forhandlere fra Ukraina og USA kan møtes i Norge i løpet av de nærmeste dagene, melder Reuters.\n\nNRK har vært i kontakt med Utenriksdepartementet, men har foreløpig ikke fått noen kommentar til opplysningene.\n\nReuters har kildeopplysninger om at Trumps forhandlere Steve Witkoff og Jared Kushner møter i likhet med Zelenskyj.\n\nZelenskyj hadde mandag møte med de amerikanske senatorene Richard Blumenthal og Thom Tillis, som henholdsvis er demokrat og republikaner.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ukrainas president Volodymyr Zelenskyj sier at forhandlere fra Ukraina og USA kan møtes i Norge i løpet av de nærmeste dagene, melder Reuters.\n\nNRK har vært i kontakt med Utenriksdepartementet, men har foreløpig ikke fått noen kommentar til opplysningene.\n\nReuters har kildeopplysninger om at Trumps...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/zelenskyj_-forhandlere-kan-motes-i-norge-1.18059063",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-19T23:23:58.546Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792438880269.1726,
-      "title": "To fjellklatrarar redda ned frå fjellhylle",
-      "slug": "to-fjellklatrarar-redda-ned-fr-fjellhylle",
-      "content": "To menn sat fast på ei fjellhylle ved Kvitingsnasa i Øvre Hålandsdal i Bjørnafjorden kommune måndag kveld.\n\nDei to klatrarane sat på ei fjellhylle sør for Tveitakvitingen, i området ved Dyrastegen.\n\n– Hovudredningssentralen blir kopla inn, og ein redningsaksjon blir sett i gang, opplyste politiet.\n\nKlokka 19.39 melder politiet at dei to er henta ut med redningshelikopter og ikkje skal vera skadde.",
-      "excerpt": "To menn sat fast på ei fjellhylle ved Kvitingsnasa i Øvre Hålandsdal i Bjørnafjorden kommune måndag kveld.\n\nDei to klatrarane sat på ei fjellhylle sør for Tveitakvitingen, i området ved Dyrastegen.\n\n– Hovudredningssentralen blir kopla inn, og ein redningsaksjon blir sett i gang, opplyste...",
-      "image": null,
-      "original_url": "https://www.nrk.no/vestland/to-fjellklatrarar-redda-ned-fra-fjellhylle-1.18059114",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-19T19:41:20.269Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4091,
+    "totalFetched": 4094,
     "totalPublished": 77,
-    "lastFetch": "2026-10-22T19:48:05.766Z",
+    "lastFetch": "2026-10-22T23:00:54.117Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
