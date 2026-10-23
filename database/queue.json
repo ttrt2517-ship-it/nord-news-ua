@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1792785006585.542,
+      "title": "Københavns Universitet utsatt for dataangrep – opplysninger fra 525.000 personer på avveier",
+      "slug": "kbenhavns-universitet-utsatt-for-dataangrep-opplysninger-fra",
+      "content": "Københavns Universitet (KU) har vært utsatt for et dataangrep, og hackerne har skaffet seg adgang til opplysninger om rundt 525.000 personer.\n\nDet opplyser universitetet i en pressemelding fredag kveld. Databasen som hackerne har fått tilgang til, inneholder personopplysninger som fullt navn, personnummer, jobbtelefonnumre, privat telefonnumre og privat e-post-adresse.\n\n– Universitetet er i gang med å analysere lekkasjens presise omfang, skriver KU i pressemeldingen.\n\nDet danske datatilsynet er varslet om hendelsen, og øvrige relevante myndigheter er orientert.\n\nAngrepet, der hackerne oppnådde tilgang til et av universitetets testmiljøer, ble oppdaget tirsdag og ble deretter brakt under kontroll.\n\n– Ingenting tyder på at hackerne har hatt adgang til systemer som understøtter den daglige driften, skriver KU og sier det heller ikke er er tegn til at universitetets aktiviteter eller drift er blitt rammet av hendelsen.",
+      "excerpt": "Københavns Universitet (KU) har vært utsatt for et dataangrep, og hackerne har skaffet seg adgang til opplysninger om rundt 525.000 personer.\n\nDet opplyser universitetet i en pressemelding fredag kveld. Databasen som hackerne har fått tilgang til, inneholder personopplysninger som fullt navn...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/kobenhavns-universitet-utsatt-for-dataangrep-_-opplysninger-fra-525.000-personer-pa-avveier-1.18063451",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-23T19:50:06.585Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792785004925.5437,
+      "title": "Høgblokk kollapsa i Nairobi",
+      "slug": "hgblokk-kollapsa-i-nairobi",
+      "content": "Ei høg bygning har kollapsa i Nairobi i Kenya fredag, melder fleire nyheitsbyrå.\n\nBygget ligg i ei travel handlegate der det ofte er tusenvis av menneske.\n\nDet er uvisst kor mange som var i bygninga då ho kollapsa.\n\nRedningsmannskapa fryktar difor at det skal vere mange døde og skadde.\n\nHøghuset var under oppføring, og hadde fått byggegodkjenning, men var ikkje godkjent for bruk, seier lokale styresmakter.\n\nKenya\n\nKenya er kjent som et relativt stabilt land i en urolig region. Landet sliter likevel med korrupsjon, fattigdom og etniske motsetninger.",
+      "excerpt": "Ei høg bygning har kollapsa i Nairobi i Kenya fredag, melder fleire nyheitsbyrå.\n\nBygget ligg i ei travel handlegate der det ofte er tusenvis av menneske.\n\nDet er uvisst kor mange som var i bygninga då ho kollapsa.\n\nRedningsmannskapa fryktar difor at det skal vere mange døde og skadde.\n\nHøghuset...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/hogblokk-kollapsa-i-nairobi-1.18063482",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-23T19:50:04.925Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792785003247.572,
+      "title": "Frøhvelvet på Svalbard får pris",
+      "slug": "frhvelvet-p-svalbard-fr-pris",
+      "content": "Det globale frøhvelvet på Svalbard mottok i dag Fyrstinne av Asturias-prisen for internasjonalt samarbeid.\n\nPrisutdelingen foregikk i Spania med den spanske kongefamilien til stede, og landbruks- og matminister Nils Kristen Sandtrøen tok imot prisen på vegne av det norske frøhvelvet.\n\nFrøhvelvet hedres for sitt bidrag til internasjonalt samarbeid og langsiktig sikring av verdens mangfold av nytteplanter.\n\nSå langt er det deponert 1,4 millioner frøprøver lagret i hvelvet.\n\nKlima og miljø\n\nVerden opplever allerede klimaendringene, slår FNs klimapanel fast. Mer ekstremvær, høyere havnivå og økte helseproblemer er noen av konsekvensene, ifølge deres siste hovedrapport.",
+      "excerpt": "Det globale frøhvelvet på Svalbard mottok i dag Fyrstinne av Asturias-prisen for internasjonalt samarbeid.\n\nPrisutdelingen foregikk i Spania med den spanske kongefamilien til stede, og landbruks- og matminister Nils Kristen Sandtrøen tok imot prisen på vegne av det norske frøhvelvet.\n\nFrøhvelvet...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/frohvelvet-pa-svalbard-far-pris-1.18063485",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-23T19:50:03.247Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1792766567582.0115,
       "title": "Norway&#039;s sovereign wealth fund loses over $30 billion in 3rd quarter",
       "slug": "norway039s-sovereign-wealth-fund-loses-over-30-billion-in-3r",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-21T03:44:44.319Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1792537114083.7358,
-      "title": "RAF Fairford-hendelsen: To menn pågrepet på nytt",
-      "slug": "raf-fairfordhendelsen-to-menn-pgrepet-p-nytt",
-      "content": "Britisk politi sa tirsdag at de har pågrepet to menn på nytt som en del av etterforskningen av hendelsen ved RAF Fairford flybase forrige måned, melder Reuters.\n\nI september fikk politiet melding om tre «mistenkelige» biler på vei mot flybasen, som fungerer som strategisk base for amerikanske bombefly, og som har blitt brukt i forbindelse med krigen i Iran.\n\nFem menn ble pågrepet kort tid etter, mistenkt for brudd på loven om eksplosiver. Senere ble ytterligere to pågrepet.\n\nDe to som nå er arrestert på nytt, er en 24 år gammel britisk statsborger og en 25 år gammel britisk-iransk dobbeltstatsborger. De er mistenkt for å ha bistått iransk etterretning.\n\nStorbritannias statsminister Andy Burnham har tidligere sagt det er svært sannsynlig at Iran var involvert i hendelsen, noe Iran benekter.",
-      "excerpt": "Britisk politi sa tirsdag at de har pågrepet to menn på nytt som en del av etterforskningen av hendelsen ved RAF Fairford flybase forrige måned, melder Reuters.\n\nI september fikk politiet melding om tre «mistenkelige» biler på vei mot flybasen, som fungerer som strategisk base for amerikanske...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/raf-fairford-hendelsen_-to-menn-pagrepet-pa-nytt-1.18060263",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-20T22:58:34.083Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792537112543.4028,
-      "title": "Mann dømt etter tragedie der 53 migranter døde i Texas",
-      "slug": "mann-dmt-etter-tragedie-der-53-migranter-dde-i-texas",
-      "content": "En mann fra Guatemala er dømt til 30 års fengsel i Texas for sin rolle i en menneskesmuglingssak der 53 mennesker døde mens de var innesperret i et vogntog.\n\nSå langt er nærmere 20 mennesker i USA og Guatemala dømt etter at en forlatt lastebiltilhenger full av lik ble funnet nær grensen mellom USA og Mexico.\n\nSaken fra 2022 er ett av de mest dødbringende forsøkene på å smugle mennesker over grensen.\n\nRepresentanter for påtalemyndigheten har sagt at ofrene i saken betalte opptil 15.000 dollar – drøyt 140.000 kroner med dagens kurs – for å bli smuglet over grensen.\n\nDen farlige flukten utviklet seg til en tragedie da luftkjøleanlegget på vogntoget sviktet i løpet av den tre timer lange kjøreturen fra Laredo til San Antonio.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "En mann fra Guatemala er dømt til 30 års fengsel i Texas for sin rolle i en menneskesmuglingssak der 53 mennesker døde mens de var innesperret i et vogntog.\n\nSå langt er nærmere 20 mennesker i USA og Guatemala dømt etter at en forlatt lastebiltilhenger full av lik ble funnet nær grensen mellom USA...",
-      "image": "https://images.unsplash.com/photo-1721305485635-13f5100711e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI1MzcxMTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/mann-domt-etter-tragedie-der-53-migranter-dode-i-texas-1.18060284",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-20T22:58:32.544Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792525957797.9448,
-      "title": "Raud Ungdom: Raudt vil halvere støtta til ungdomspartiet",
-      "slug": "raud-ungdom-raudt-vil-halvere-sttta-til-ungdomspartiet",
-      "content": "Ifølge generalsekretær i Raud Ungdom, Zelda Hasle Borgersrud Øgrim, har sentralstyret i Raudt foreslått å halvere den årlege støtta til ungdomspartiet.\n\n– På landsstyremøtet skal budsjett for 2027 opp, og då har sentralstyret i Raudt vedtatt ei innstilling til landsstyremøtet på at pengestøtta skal kuttest frå to til éin million kroner i 2027, seier ho.\n\nHo fortel at dette er ein femtedel av det totale budsjettet til RU, og at eit vedtak vil få store konsekvensar.\n\n– Det vil ha mykje å seie for oss, særleg i eit valkampår, seier Øgrim.\n\nNRK har tatt kontakt med Raudt, men dei har foreløpig ikkje kommentert saka.\n\nRød Ungdom\n\nRød Ungdom (RU) er ungdomsorganisasjonen til partiet Rødt. Organisasjonen ble grunnlagt i 1963, og hadde tidligere navnet Sosialistisk Ungdomsforbund. I 2024 ble Amrit Kaur valgt til leder i RU.",
-      "excerpt": "Ifølge generalsekretær i Raud Ungdom, Zelda Hasle Borgersrud Øgrim, har sentralstyret i Raudt foreslått å halvere den årlege støtta til ungdomspartiet.\n\n– På landsstyremøtet skal budsjett for 2027 opp, og då har sentralstyret i Raudt vedtatt ei innstilling til landsstyremøtet på at pengestøtta skal...",
-      "image": "https://images.unsplash.com/photo-1664790660158-8470f8bc548c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI1MjU5NTd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/raud-ungdom_-raudt-vil-halvere-stotta-til-ungdomspartiet-1.18060183",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-20T19:52:37.797Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4106,
+    "totalFetched": 4109,
     "totalPublished": 77,
-    "lastFetch": "2026-10-23T14:42:48.583Z",
+    "lastFetch": "2026-10-23T19:50:08.416Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
