@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1792960235116.8193,
+      "title": "Zelenskyj: Etterretningsdelingen er tilbake",
+      "slug": "zelenskyj-etterretningsdelingen-er-tilbake",
+      "content": "Ukrainas president Volodymyr Zelenskyj sier etterretningsdelingen fra USA nå er fullstendig gjenopptatt og at hastigheten på Starshield-systemet er tilbake til 420 kilometer i timen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Ukrainas president Volodymyr Zelenskyj sier etterretningsdelingen fra USA nå er fullstendig gjenopptatt og at hastigheten på Starshield-systemet er tilbake til 420 kilometer i timen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar...",
+      "image": "https://images.unsplash.com/photo-1609538205185-40f2701cf7d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI5NjAyMzV8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/zelenskyj_-etterretningsdelingen-er-tilbake-1.18064455",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-25T20:30:35.116Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792960233484.5427,
+      "title": "Zelenskyj: USA, Ukraina og Russland skal møtes i november",
+      "slug": "zelenskyj-usa-ukraina-og-russland-skal-mtes-i-november",
+      "content": "Volodomyr Zelenskyj sier at det vil bli trepartssamtaler mellom USA, Russland og Ukraina i november.\n\nZelenskyj sa i bakkant av oslosamtalene denne uken at partene skulle møtes i Abu Dhabi i første halvdel av måneden.\n\nDet ble bekreftet av Putins talsmann Dmitrij Peskov på fredag.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Volodomyr Zelenskyj sier at det vil bli trepartssamtaler mellom USA, Russland og Ukraina i november.\n\nZelenskyj sa i bakkant av oslosamtalene denne uken at partene skulle møtes i Abu Dhabi i første halvdel av måneden.\n\nDet ble bekreftet av Putins talsmann Dmitrij Peskov på fredag.\n\nKrigen i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/zelenskyj_-usa_-ukraina-og-russland-skal-motes-i-november-1.18064471",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-25T20:30:33.484Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792960231914.214,
+      "title": "Brasil utvider åpningstidene for valget",
+      "slug": "brasil-utvider-pningstidene-for-valget",
+      "content": "Brasils høyesterett har vedtatt å utvide åpningstidene for presidentvalget.\n\nBrasils president Luiz Inacio Lula da Silva krevde tidligere i kveld at åpningstidene skulle utvides med to timer fordi mange var blitt «hindret fra å stemme» etter at busser ble tatt ut av trafikk i São Paulo og flere andre byer.\n\n– Alvoret tatt i betraktning i rapportene som har kommet inn, beordrer jeg en to timers forlengelse til klokken 19 for alle valglokaler i Brasil, skriver høyesterettsdommer Cristiano Zanin i en uttalelse, gjengitt av O Globo.\n\nStemmetellingen ble satt på pause etter at kun 0,25 prosent av stemmene var talt opp.\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president Jair Bolsonaro til angrep på Kongressen, presidentpalasset og høyesterett i hoevdstaden Brasília.",
+      "excerpt": "Brasils høyesterett har vedtatt å utvide åpningstidene for presidentvalget.\n\nBrasils president Luiz Inacio Lula da Silva krevde tidligere i kveld at åpningstidene skulle utvides med to timer fordi mange var blitt «hindret fra å stemme» etter at busser ble tatt ut av trafikk i São Paulo og flere...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/brasil-utvider-apningstidene-for-valget-1.18064483",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-25T20:30:31.914Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1792949265621.4407,
       "title": "Mot rekordoppslutning ved valget i Serbia",
       "slug": "mot-rekordoppslutning-ved-valget-i-serbia",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-22T23:00:48.657Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1792698484062.6096,
-      "title": "WSJ: Trump skal ha ringt Musk og bedt ham oppheve Starlink-begrensning",
-      "slug": "wsj-trump-skal-ha-ringt-musk-og-bedt-ham-oppheve-starlinkbeg",
-      "content": "De ikke navngitte kildene sier til Wall Street Journal torsdag at systemet tilsynelatende fungerer mer som normalt kort tid etter samtalen torsdag.\n\nStarlink er eid av Elon Musk, som er sjef for Tesla og SpaceX. Flere ikke navngitte kilder har oppgitt til The Wall Street Journal at Musk selv beordret begrensingen av Ukrainas tilgang til Starlink. Men avisen skrev også tidligere i uka at Musk og Trump diskuterte saken på forhånd, og Zelenskyj har oppgitt at det var amerikanske myndigheter som ga ordre om å blokkere nettverket en periode.\n\nUkrainas president Volodymyr Zelenskyj sa tidligere torsdag at Starlink fremdeles ikke fungerte i Ukraina, og la til at han håpet å få en samtale med USAs utenriksminister Marco Rubio om dette en av de kommende dagene.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.\n\nUkraina\n\nUkraina er et land i Europa som grenser til Russland, Belarus, Polen, Moldova og Romania. Landet har nær 38 millioner innbyggere, ifølge data fra FN. I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina».",
-      "excerpt": "De ikke navngitte kildene sier til Wall Street Journal torsdag at systemet tilsynelatende fungerer mer som normalt kort tid etter samtalen torsdag.\n\nStarlink er eid av Elon Musk, som er sjef for Tesla og SpaceX. Flere ikke navngitte kilder har oppgitt til The Wall Street Journal at Musk selv...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/wsj_-trump-skal-ha-ringt-musk-og-bedt-ham-oppheve-starlink-begrensning--1.18062240",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-22T19:48:04.062Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792698482549.0574,
-      "title": "Stortingsmiddagen på Slottet er i gang",
-      "slug": "stortingsmiddagen-p-slottet-er-i-gang",
-      "content": "Stortingsrepresentantene og representanter fra det offentlige Norge er samlet til den årlige middagen på Stortinget.\n\nPå menyen står krabbesalat, osteterte, elg fra Sikkilsdalen, skutt av kong Haralds jaktlag, og multer til dessert.\n\nI talen sin uttrykte kong Haakon savn og løftet frem farens humor og «dadjokes», Han sa også at at dronning Mette-Marits lungeoperasjon var vellykket.\n\nKongefamilien\n\nKong Harald er død. Han sovnet stille inn på Rikshospitalet klokken 06.35 fredag 28. august 2026.\n\nStortinget\n\nRiksrevisjonen har undersøkt 500 stortingsrepresentanters bruk av blant annet pendlerboliger, reiseutgifter og etterlønn. Over 60 har fått for mye utbetalt og kontrollen har vært for dårlig, konkluderer riksrevisoren.",
-      "excerpt": "Stortingsrepresentantene og representanter fra det offentlige Norge er samlet til den årlige middagen på Stortinget.\n\nPå menyen står krabbesalat, osteterte, elg fra Sikkilsdalen, skutt av kong Haralds jaktlag, og multer til dessert.\n\nI talen sin uttrykte kong Haakon savn og løftet frem farens humor...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/stortingsmiddagen-pa-slottet-er-i-gang-1.18062284",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-22T19:48:02.549Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792698481035.5754,
-      "title": "Putin: – Russland forbereder seg ikke på krig mot Europa",
-      "slug": "putin-russland-forbereder-seg-ikke-p-krig-mot-europa",
-      "content": "I en tale torsdag kveld gjentok Russlands president Vladimir Putin at Russland ikke forbereder seg på krig med Europa.\n\nEtter møtet i Oslo tirsdag, sa Putin ja til samtaler mellom Ukraina, Russland og USA i november.\n\n– Trepartssamtalene vil handle om å ivareta sikkerheten til både Russland og Ukraina, men Europas sikkerhet bør også diskuteres, sa Putin.\n\nPresidenten sa også at østlige Ukraina historisk tilhører Russland.",
-      "excerpt": "I en tale torsdag kveld gjentok Russlands president Vladimir Putin at Russland ikke forbereder seg på krig med Europa.\n\nEtter møtet i Oslo tirsdag, sa Putin ja til samtaler mellom Ukraina, Russland og USA i november.\n\n– Trepartssamtalene vil handle om å ivareta sikkerheten til både Russland og...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/putin_-_-russland-forbereder-seg-ikke-pa-krig-mot-europa-1.18062294",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-22T19:48:01.035Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4138,
+    "totalFetched": 4141,
     "totalPublished": 77,
-    "lastFetch": "2026-10-25T17:27:47.196Z",
+    "lastFetch": "2026-10-25T20:30:36.869Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
