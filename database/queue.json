@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1792933223683.8542,
+      "title": "Bolsonaro har avgitt stemme",
+      "slug": "bolsonaro-har-avgitt-stemme",
+      "content": "Flávio Bolsonaro har avgitt stemme i Brasil, og sier «tiden er inne for reell endring», melder AFP.\n\nVelgerne skal velge mellom den sittende venstreorienterte presidenten Luiz Inácio Lula da Silva og hans høyreorienterte utfordrer Flávio Bolsonaro.\n\nBolsonaro, sønn av den ytre høyre-orienterte tidligere presidenten Jair Bolsonaro, er en knapp favoritt til å vinne presidentvalgets andre runde mot Lula, som forsøker å sikre seg en fjerde, ikke-sammenhengende presidentperiode.\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president Jair Bolsonaro til angrep på Kongressen, presidentpalasset og høyesterett i hoevdstaden Brasília.",
+      "excerpt": "Flávio Bolsonaro har avgitt stemme i Brasil, og sier «tiden er inne for reell endring», melder AFP.\n\nVelgerne skal velge mellom den sittende venstreorienterte presidenten Luiz Inácio Lula da Silva og hans høyreorienterte utfordrer Flávio Bolsonaro.\n\nBolsonaro, sønn av den ytre høyre-orienterte...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/-bolsonaro-har-avgitt-stemme-1.18064064",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-25T13:00:23.683Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792933222157.536,
+      "title": "Sterk vind fører til innstilte avganger ved Schiphol",
+      "slug": "sterk-vind-frer-til-innstilte-avganger-ved-schiphol",
+      "content": "Amsterdam lufthavn Schiphol, en av Europas travleste knutepunkter, innstilte titalls flyvninger søndag som følge av kraftig vind forårsaket av stormen Boelo.\n\nAFP talte rundt 90 kansellerte avganger på flyplassens nettsider søndag, hovedsakelig til europeiske byer som Paris, Roma og Dublin. Titalls ankomster til flyplassen ble også innstilt eller forsinket.\n\n«På grunn av sterk vind forventes færre flyvninger å ta av og lande søndag 25. oktober,» opplyste flyplassen.\n\nDet ble ikke oppgitt nøyaktig hvor mange flyvninger som var berørt.",
+      "excerpt": "Amsterdam lufthavn Schiphol, en av Europas travleste knutepunkter, innstilte titalls flyvninger søndag som følge av kraftig vind forårsaket av stormen Boelo.\n\nAFP talte rundt 90 kansellerte avganger på flyplassens nettsider søndag, hovedsakelig til europeiske byer som Paris, Roma og Dublin. Titalls...",
+      "image": "https://images.unsplash.com/photo-1664790660158-8470f8bc548c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI5MzMyMjJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/sterk-vind-forer-til-innstilte-avganger-ved-schiphol--1.18064174",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-25T13:00:22.157Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792933220527.6216,
+      "title": "Boelo førte til omfattende strømbrudd i Storbritannia",
+      "slug": "boelo-frte-til-omfattende-strmbrudd-i-storbritannia",
+      "content": "Titusenvis av briter var uten strøm søndag mens stormen Boelo rammet de nordlige delene av Storbritannia med kraftig vind og styrtregn, melder AFP.\n\nStormen førte også til store forstyrrelser i reiseliv og samferdsel.\n\nBoelo er sesongens andre navngitte storm i Storbritannia og følger tett etter den første – stormen Austen, som brakte med seg kraftige vindkast til de sørlige delene av landet fredag.\n\nMer enn 82 000 eiendommer sto uten strøm klokken 08.00 (08.00 GMT), opplyste bransjeorganisasjonen Energy Networks Association i en oppdatering.",
+      "excerpt": "Titusenvis av briter var uten strøm søndag mens stormen Boelo rammet de nordlige delene av Storbritannia med kraftig vind og styrtregn, melder AFP.\n\nStormen førte også til store forstyrrelser i reiseliv og samferdsel.\n\nBoelo er sesongens andre navngitte storm i Storbritannia og følger tett etter...",
+      "image": "https://images.unsplash.com/photo-1661698048095-de683d582ea0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI5MzMyMjB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/boelo-forte-til-omfattende-strombrudd-i-storbritannia--1.18064215",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-25T13:00:20.527Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1792912893409.3945,
       "title": "Stormen «Boelo» har truffet: Bølgeblikk og stålplater på avveie",
       "slug": "stormen-boelo-har-truffet-blgeblikk-og-stlplater-p-avveie",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-22T14:54:38.488Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1792680876718.64,
-      "title": "Foxtrot-topp sikta for granatkasting på Strømmen",
-      "slug": "foxtrottopp-sikta-for-granatkasting-p-strmmen",
-      "content": "Ali Namdar er sikta etter granatåtaket på Strømmen i oktober i fjor melder TV 2.\n\nNamdar, som skal ha brukt aliaset «Joker,» som skal ha dukka opp i ei samtalegruppe på Telegram, som påtalemakta knyter til åtaket.\n\n– Vi meiner han har vore bakmann og bestiller av dette åtaket. Han er også sikta for fleire drapsforbund, blant anna knytt til granatangrepet i Pilestredet i Oslo, og for ei rekke forsøk på å inngå drapsforbund, der sjølve valdsoppdraget ikkje blei gjennomført, seier politiadvokat Anja Stenersen til TV 2.",
-      "excerpt": "Ali Namdar er sikta etter granatåtaket på Strømmen i oktober i fjor melder TV 2.\n\nNamdar, som skal ha brukt aliaset «Joker,» som skal ha dukka opp i ei samtalegruppe på Telegram, som påtalemakta knyter til åtaket.\n\n– Vi meiner han har vore bakmann og bestiller av dette åtaket. Han er også sikta for...",
-      "image": null,
-      "original_url": "https://www.nrk.no/stor-oslo/foxtrot-topp-sikta-for-granatkasting-pa-strommen-1.18062094",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-22T14:54:36.718Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792660418971.9412,
-      "title": "Today in Norway: A roundup of the latest news on Thursday",
-      "slug": "today-in-norway-a-roundup-of-the-latest-news-on-thursday",
-      "content": "Add a comment\n                                                                                            \n                                        \n                                                                        \n                                        \n                                            \n                                        \n                                    \n                                    \n                                        \n                                            \n                                        \n                                    \n                                    \n                                        \n                                            \n                                        \n                                    \n                                \n                            \n                        \n                    \n                    \n                    \n                            \n                            One in ten property ads in Norway misleads on bedroom numbers, according to an inspection by the Norwegian Consumer Authority (Forbrukertilsynet). \n Photo by Marek Lumi on Unsplash\n                    \n                                            \n                            \n        \n            \n            \n            \n            \n        \n        Add The Local as a preferred source\n    \n                        \n                                        \n                        Norway's immigration appeals board trials AI for case summaries, ​Oslo's new district names given the green light, don't trust anyone asking you to buy gold, and more news this Thursday.\n\nNorway's immigration appeals board trials AI for case summaries\n\nNorway's Immigration Appeals Board (UNE), which handles appeals in immigration cases following decisions by the Norwegian Directorate of Immigration (UDI), has started using artificial intelligence to draft summaries for some specific types of cases.\n\nAccording to the newspaper Utrop, the summaries are published in UNE's public legal database, where lawyers and legal representatives consult to examine how the board has ruled on similar asylum and immigration cases in the past.\n\nThe agency emphasised that AI does not make any actual decisions on residence applications, that two human caseworkers review every text before publication, and that they pay strict attention to privacy, as each case can contain sensitive information.\n\nOne in ten property ads in Norway misleads on bedroom numbers\n\nA new inspection by the Norwegian Consumer Authority (Forbrukertilsynet) across ten of Norway's largest estate agency chains found that 10 percent of marketed homes falsely advertised having more bedrooms than they actually do.\n\nThe authority found that agencies often list bedrooms based on how rooms are used and not on what they are approved for, as some rooms are not authorised for permanent residence, and others have not even been built yet.\n\n\"The survey shows that the real estate industry has room for clearer and less misleading information in the marketing of bedrooms. Consumers must be able to trust that the information they receive is correct,\" said Bente Øverli, director at the Norwegian Consumer Authority.\n\nAmong the agencies investigated were Aktiv Eiendomsmegling, DNB Eiendom, Eie Franchise, Eiendomsmegler 1, Eiendomsmegler Norge, Krogsveen Eiendom, Nordvik Bolig, Privatmegleren, Proaktiv Gruppen, and &Partner.\n\nNorwegian vocabulary: boligannonser  - housing advertising\n\nThe Local has covered this story on several occasions throughout what has been a lengthy process, but on Wednesday, the City Council formally adopted the names of what will become Oslo's eight new districts from January 1st, 2028.\n\n\"I am pleased that we have put in place the names for what will become Oslo's eight districts. Now we can also start referring to the new districts by name. Even though most of us probably feel the strongest sense of belonging to the place where we live, whether it is Røa or Vålerenga, I hope the new names will be experienced as unifying for the residents of the new districts,\" said Health and Districts Councillor Oluf Ulseth in a press release.\n\nOn September 24th, the City Council presented its final recommendation for the names, which sparked a debate on the matter.\n\nAccording to public broadcaster NRK, the approval faced resistance from several parties who suggested changing some of the names, but without success. The Green Party (MDG) and the Red Party even suggested using numbers instead of names for the new districts.\n\nAt the same time, the County Governor will look into whether the decision might be illegal after a request from the Red party which argues that making such a big change without a proper investigation is unlawful.\n\nThe final names are: Vestre Aker, Gamle Aker, Gamle Oslo, Frysja, Hovin, Øvre Groruddalen, Østensjø, and Nordstrand.\n\nOslo residents will already see the new names during the municipal elections in September 2027, when they vote for representatives to the new district committees.\n\nNorwegian banks warn of bizarre scam asking victims to leave gold in forests\n\nBanking industry organisation Finance Norway (Finans Norge) has issued an alert over several new fraud methods targeting both individuals and businesses in Norway.\n\nThese include a bizarre gold investment scam where victims are tricked into buying large amounts of gold and leaving it in outdoor places, like forests, for fraudsters to pick up later.\n\n\"Be very sceptical if someone contacts you and asks you to invest in gold or other valuables. Do not hand over valuables to strangers or leave them in places following instructions from others,\" said Gry Nergård, director of anti-fraud at Finans Norge, in a press release.\n\nThe organisation also warned against fraudulent messages impersonating cosmetics retailer Lyko, where recipients are told they have won a prize or a gift and prompted to click a malicious link to \"verify\" it, handing over sensitive information in the process.\n\nEmployees with access to company bank accounts were also urged to be careful. This scam usually starts with an SMS or email sent to a staff member, followed by a phone call where fraudsters pretend to be from for example, the company's bank or another trusted organisation.\n\nAccording to Finans Norge, banks and consumers in Norway lost 962 million kroner to fraudulent schemes in 2025 alone.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Add a comment...",
-      "image": "https://images.unsplash.com/photo-1536683402757-75f8d0dfa419?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI2NjA0MTh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20261022/today-in-norway-a-roundup-of-the-latest-news-on-thursday-255",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-10-22T09:13:38.971Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792660414847.7788,
-      "title": "Negativ avkastning for oljefondet i tredje kvartal",
-      "slug": "negativ-avkastning-for-oljefondet-i-tredje-kvartal",
-      "content": "Oljefondet fikk en avkastning på minus 0,5 prosent i tredje kvartal.\n\nFondets verdi falt med 670 milliarder kroner i tredje kvartal. Den regnskapsmessige avkastningen var på minus 278 milliarder kroner.\n\n– Fondets avkastning var nær null, men endte litt i minus ettersom stigende renter ga svakere resultat på renteinvesteringene. Avkastningen på aksjeinvesteringene var også tilnærmet flatt, men det var store forskjeller mellom sektorene. Energiselskapene steg mest, mens rentefølsomme sektorer som forsyning og eiendom falt, sier nestleder Trond Grande i Norges Bank Investment Management i en pressemelding.\n\nFondet hadde en verdi på 22 014 milliarder kroner per 30. september 2026.\n\nOljefondet\n\nStatens pensjonsfond utland, eller «Oljefondet», skal sikre langsiktig forvaltning av statens petroleumsinntekter. Sjefen er Nicolai Tangen.",
-      "excerpt": "Oljefondet fikk en avkastning på minus 0,5 prosent i tredje kvartal.\n\nFondets verdi falt med 670 milliarder kroner i tredje kvartal. Den regnskapsmessige avkastningen var på minus 278 milliarder kroner.\n\n– Fondets avkastning var nær null, men endte litt i minus ettersom stigende renter ga svakere...",
-      "image": "https://images.unsplash.com/photo-1670874103167-31cff21eb845?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI2NjA0MTR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/negativ-avkastning-for-oljefondet-i-tredje-kvartal-1.18061503",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-22T09:13:34.847Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4132,
+    "totalFetched": 4135,
     "totalPublished": 77,
-    "lastFetch": "2026-10-25T07:21:34.916Z",
+    "lastFetch": "2026-10-25T13:00:25.138Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
