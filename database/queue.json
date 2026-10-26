@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1793032579409.832,
+      "title": "Børsfall etter Lula-seier",
+      "slug": "brsfall-etter-lulaseier",
+      "content": "Hovedindeksen på Sao Paulo-børsen i Brasil sank 17 prosent ved åpning i dag. I går ble det klart at president Lula da Silva ble gjenvalgt.\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president Jair Bolsonaro til angrep på Kongressen, presidentpalasset og høyesterett i hoevdstaden Brasília.",
+      "excerpt": "Hovedindeksen på Sao Paulo-børsen i Brasil sank 17 prosent ved åpning i dag. I går ble det klart at president Lula da Silva ble gjenvalgt.\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/borsfall-etter-lula-seier-1.18065181",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-26T16:36:19.409Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793032577783.4883,
+      "title": "Direktør trekker seg fra Holocaustsenteret",
+      "slug": "direktr-trekker-seg-fra-holocaustsenteret",
+      "content": "Direktør Jan Heiret ved Holocaustsenteret går av med umiddelbar virkning.\n\nGrunnen er et vanskelig forhold mellom Heiret og jødiske trossamfunn, heter det i en pressemelding fra HL-senteret, som er det formelle navnet på Holocaustsenteret.\n\nDet var Vårt Land og Khrono som omtalte saken først.\n\n– Det har over tid utviklet seg et vanskelig forhold mellom direktøren og jødiske trossamfunn i Norge. HL-senteret er avhengig av tillit i disse institusjonene, som var med å opprette senteret som et forsknings- og formidlingssenter med et bredt mandat, heter det i pressemeldingen.\n\nHeiret sier han opplever at styret ikke lenger støtter ham i den situasjonen som har oppstått.\n\n– Uten en slik støtte er det umulig å gjøre en god jobb som leder av senteret. Derfor har jeg kommet til at jeg må tre til side, sier han.\n\nHeiret tiltrådte som direktør for HL-senteret 1. januar 2024.",
+      "excerpt": "Direktør Jan Heiret ved Holocaustsenteret går av med umiddelbar virkning.\n\nGrunnen er et vanskelig forhold mellom Heiret og jødiske trossamfunn, heter det i en pressemelding fra HL-senteret, som er det formelle navnet på Holocaustsenteret.\n\nDet var Vårt Land og Khrono som omtalte saken først....",
+      "image": "https://images.unsplash.com/photo-1659424766030-385d22f8b0c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMwMzI1Nzd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/direktor-trekker-seg-fra-holocaustsenteret-1.18065136",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-26T16:36:17.783Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793032576179.253,
+      "title": "Mistenkt ebolasmitte i Sveits",
+      "slug": "mistenkt-ebolasmitte-i-sveits",
+      "content": "En mann med mulig ebolasmitte er innlagt på sykehus i Zürich i Sveits. Mannen ankom med fly fra Nigeria, skriver Reuters.\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og Liberia. Etter at det store utbruddet var over, er det registrert flere sporadiske tilfeller av smitte.",
+      "excerpt": "En mann med mulig ebolasmitte er innlagt på sykehus i Zürich i Sveits. Mannen ankom med fly fra Nigeria, skriver Reuters.\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og Liberia. Etter at det store utbruddet var over, er det...",
+      "image": "https://images.unsplash.com/photo-1723492816133-be1bf9a0e6e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMwMzI1NzZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/mistenkt-ebolasmitte-i-sveits-1.18065335",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-26T16:36:16.179Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1793008287009.8606,
       "title": "106 ansatte får sluttpakke i NRK",
       "slug": "106-ansatte-fr-sluttpakke-i-nrk",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-23T09:10:07.299Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1792746603961.031,
-      "title": "Østerrike utviser russiske diplomater",
-      "slug": "sterrike-utviser-russiske-diplomater",
-      "content": "Østerrikes utenriksdepartement opplyser at de utviser fire russiske diplomater.\n\nDe fire utvises på grunn av «handlinger som er uforenlige med deres diplomatiske status», et uttrykk som vanligvis brukes om spionasje, skriver Reuters.\n\nIfølge departementet jobbet tre av dem ved Russlands ambassade i Østerrike, og én ved delegasjonen til Organisasjonen for sikkerhet og samarbeid i Europa (OSSE).\n\nRussland vil svare på Østerrikes beslutning, uttaler en representant for det russiske utenriksdepartementet.",
-      "excerpt": "Østerrikes utenriksdepartement opplyser at de utviser fire russiske diplomater.\n\nDe fire utvises på grunn av «handlinger som er uforenlige med deres diplomatiske status», et uttrykk som vanligvis brukes om spionasje, skriver Reuters.\n\nIfølge departementet jobbet tre av dem ved Russlands ambassade i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/osterrike-utviser-russiske-diplomater--1.18062608",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-23T09:10:03.961Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792746602439.4495,
-      "title": "Ukraina melder om problemer med Starshield",
-      "slug": "ukraina-melder-om-problemer-med-starshield",
-      "content": "Ukraina sier de fortsatt har problemer med å bruke den militære kommunikasjonstjenesten Starshield, dagen etter at USAs president Donald Trump sa at teknologigiganten Elon Musk hadde gjenopprettet tilgangen.\n\n«Per i morges observeres det fortsatt tilfeller av signalbrudd», opplyste en kilde i det ukrainske forsvarsdepartementet til pressen.\n\n«Det finnes for øyeblikket ingen bekreftelse på at restriksjonene er opphevet», heter det.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ukraina sier de fortsatt har problemer med å bruke den militære kommunikasjonstjenesten Starshield, dagen etter at USAs president Donald Trump sa at teknologigiganten Elon Musk hadde gjenopprettet tilgangen.\n\n«Per i morges observeres det fortsatt tilfeller av signalbrudd», opplyste en kilde i det...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ukraina-melder-om-problemer-med-starshield-1.18062656",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-23T09:10:02.439Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792746600890.4375,
-      "title": "Hydro skuffer aksjemarkedet",
-      "slug": "hydro-skuffer-aksjemarkedet",
-      "content": "Norsk Hydro kunne vise til vekst både i inntjening og resultater i tredje kvartal, men mindre enn markedet hadde ventet på forhånd.\n\nDermed er Hydro-aksjen også ned 5–6 prosent på Oslo Børs etter et par timers handel.\n\nSelskapet trekker selv frem at høyere priser på metall og alumina styrker regnskapet. På den andre siden trekker en sterkere krone og økte energikostnader ned totalprestasjonen ned.\n\nNorsk Hydro er Norges nest største bedrift målt etter omsetning, og har 32.000 ansatte i 40 ulike land – 3.500 av dem i Norge.\n\nNorsk Hydro\n\nNorsk Hydro fikk et driftsresultat på 9,7 milliarder kroner i tredje kvartal 2022. Det er 2,5 milliarder mer enn resultatet på 7,2 milliarder kroner i samme kvartal i fjor.",
-      "excerpt": "Norsk Hydro kunne vise til vekst både i inntjening og resultater i tredje kvartal, men mindre enn markedet hadde ventet på forhånd.\n\nDermed er Hydro-aksjen også ned 5–6 prosent på Oslo Børs etter et par timers handel.\n\nSelskapet trekker selv frem at høyere priser på metall og alumina styrker...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/hydro-skuffer-aksjemarkedet-1.18062721",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-23T09:10:00.890Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4147,
+    "totalFetched": 4150,
     "totalPublished": 77,
-    "lastFetch": "2026-10-26T09:51:28.668Z",
+    "lastFetch": "2026-10-26T16:36:21.121Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
