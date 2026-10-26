@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1792986271111.0156,
+      "title": "Lula vant presidentvalget",
+      "slug": "lula-vant-presidentvalget",
+      "content": "I Brasil har president ‌Luiz Inacio ‌Lula da ⁠Silva vunnet ‌presidentvalget for fjerde gang. Det melder nyhetsbyrået Reuters.\n\nLandets valgmyndighet erklærte søndag at Lula, som tilhører venstresiden, har fått flere stemmer enn høyresidens senator Flavio ⁠Bolsonaro.\n\nDet er første gang en kandidat som ikke vant første valgomgang, vinner et presidentvalg i Brasil.\n\nBolsonaro krever omvalg, og varsler at han vil kreve at valgresultatet annulleres.\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president Jair Bolsonaro til angrep på Kongressen, presidentpalasset og høyesterett i hoevdstaden Brasília.",
+      "excerpt": "I Brasil har president ‌Luiz Inacio ‌Lula da ⁠Silva vunnet ‌presidentvalget for fjerde gang. Det melder nyhetsbyrået Reuters.\n\nLandets valgmyndighet erklærte søndag at Lula, som tilhører venstresiden, har fått flere stemmer enn høyresidens senator Flavio ⁠Bolsonaro.\n\nDet er første gang en kandidat...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/lula-vant-presidentvalget-1.18064565",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-26T03:44:31.111Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1792986269540.056,
+      "title": "Lille norske leksikon kan bli lagt ned ved årsskiftet",
+      "slug": "lille-norske-leksikon-kan-bli-lagt-ned-ved-rsskiftet",
+      "content": "Lille norske leksikon mangler 7 millioner kroner i fast statlig støtte og kan bli lagt ned ved årsskiftet, skriver Aftenposten.\n\nDet gratis oppslagsverket har lettfattelige artikler for barn og andre lesere og åpnet i 2024. Siden har artiklene blitt lest over åtte millioner ganger.\n\nSjefredaktør Erik Bolstad i Store norske leksikon sier til Aftenposten at det ikke finnes noen kommersiell måte å finansiere tilbudet på.\n\nLille norske leksikon utgis av Store norske leksikon.",
+      "excerpt": "Lille norske leksikon mangler 7 millioner kroner i fast statlig støtte og kan bli lagt ned ved årsskiftet, skriver Aftenposten.\n\nDet gratis oppslagsverket har lettfattelige artikler for barn og andre lesere og åpnet i 2024. Siden har artiklene blitt lest over åtte millioner ganger.\n\nSjefredaktør...",
+      "image": "https://images.unsplash.com/photo-1567113370640-70b8e70e6406?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI5ODYyNjl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/lille-norske-leksikon-kan-bli-lagt-ned-ved-arsskiftet-1.18064564",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-26T03:44:29.540Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1792972463314.3315,
       "title": "Trump: Norge suger",
       "slug": "trump-norge-suger",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-10-23T03:48:32.305Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1792710052517.9634,
-      "title": "Putin sier Russland er klar til å forhandle om endelig Ukraina-avtale, ikke en «kort» våpenhvile",
-      "slug": "putin-sier-russland-er-klar-til-forhandle-om-endelig-ukraina",
-      "content": "Den russiske presidenten, Vladimir Putin, kommenterte forslaget fra USA om et høynivåmøte mellom amerikanerne, Ukraina og Russland i november.\n\n– Målet med disse diskusjonene vil være å løse spørsmålet om å sikre trygghet for både Ukraina og Russland ... innenfor rammen av en endelig avtale, ikke etter en slags kort pause i kamphandlingene, sa Putin til en reporter fra statlig russisk TV torsdag.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Den russiske presidenten, Vladimir Putin, kommenterte forslaget fra USA om et høynivåmøte mellom amerikanerne, Ukraina og Russland i november.\n\n– Målet med disse diskusjonene vil være å løse spørsmålet om å sikre trygghet for både Ukraina og Russland ... innenfor rammen av en endelig avtale, ikke...",
-      "image": "https://images.unsplash.com/photo-1624719634868-d2089cc2fd8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI3MTAwNTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/putin-sier-russland-er-klar-til-a-forhandle-om-endelig-ukraina-avtale_-ikke-en-_kort_-vapenhvile-1.18062332",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-22T23:00:52.517Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792710050753.1162,
-      "title": "MC-fører hardt skadet etter ulykke i Nordre Follo",
-      "slug": "mcfrer-hardt-skadet-etter-ulykke-i-nordre-follo",
-      "content": "To personer ble torsdag kveld fraktet til Ahus etter en MC-ulykke i Nordre Follo. Føreren betegnes som hardt skadet.\n\n– Det har vært en trafikkulykke hvor en motorsykkel har kjørt av veien. Nødetatene er på vei til stedet, skrev operasjonsleder Ronny Hellerud Samuelsen like etter klokken 23.\n\nMotorsykkelen har kjørt av veien i en venstrekurve og truffet autovernet, opplyser operasjonslederen.\n\nDet skal ha vært to personer på motorsykkelen, og det var kun MC-en som var involvert.",
-      "excerpt": "To personer ble torsdag kveld fraktet til Ahus etter en MC-ulykke i Nordre Follo. Føreren betegnes som hardt skadet.\n\n– Det har vært en trafikkulykke hvor en motorsykkel har kjørt av veien. Nødetatene er på vei til stedet, skrev operasjonsleder Ronny Hellerud Samuelsen like etter klokken...",
-      "image": "https://images.unsplash.com/photo-1580945793418-7e48efb7963d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI3MTAwNTB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/mc-forer-hardt-skadet-etter-ulykke-i-nordre-follo-1.18062346",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-22T23:00:50.753Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4142,
+    "totalFetched": 4144,
     "totalPublished": 77,
-    "lastFetch": "2026-10-25T23:54:25.630Z",
+    "lastFetch": "2026-10-26T03:44:32.938Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
