@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1793138071029.713,
+      "title": "Vannet tilbake i Kirkenes",
+      "slug": "vannet-tilbake-i-kirkenes",
+      "content": "Samtlige innbyggere i Sør-Varanger i Finnmark har nå fått vannet tilbake. Vannet har vært borte i to dager etter et omfattende brudd i hovedvannledningen. Kommunen varsler at vannet fortsatt må kokes i flere dager fremover.\n\nAlle skoler, barnehager og SFO vil ha normal dag onsdag, etter å ha vært stengt hittil denne uka.\n\nOgså Kirkenes sykehus har varslet at de vil ha normal drift onsdag etter å ha vært i rød beredskap.",
+      "excerpt": "Samtlige innbyggere i Sør-Varanger i Finnmark har nå fått vannet tilbake. Vannet har vært borte i to dager etter et omfattende brudd i hovedvannledningen. Kommunen varsler at vannet fortsatt må kokes i flere dager fremover.\n\nAlle skoler, barnehager og SFO vil ha normal dag onsdag, etter å ha vært...",
+      "image": "https://images.unsplash.com/photo-1662710629511-7fe0705049ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMxMzgwNzB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/tromsogfinnmark/vannet-tilbake-i-kirkenes-1.18066561",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-27T21:54:31.029Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793138069392.531,
+      "title": "Birgit Skarstein vil ikke bli ordfører i Oslo",
+      "slug": "birgit-skarstein-vil-ikke-bli-ordfrer-i-oslo",
+      "content": "Tidligere i oktober ble det kjent at to lokallag i Arbeiderpartiet (Ap) i Oslo ville ha Birgit Skarstein som ordfører.\n\nTirsdag kveld skriver Skarstein selv på Facebook at det ikke blir aktuelt nå.\n\n– Jeg vil gjerne bidra til å utvikle Oslo. Foreløpig må det likevel bli utenfor partipolitikken. Selv om det ikke passer for meg og oss akkurat denne gangen heier vi på alle som stiller til valg og bidrar til demokratiet vårt, skriver Skarstein.\n\nSkarstein satt i Oslo bystyre for Ap i perioden 2015–2019.\n\nPolitikk i Oslo\n\nByrådet i Oslo ledes av Eirik Lae Solberg (H) og består av partiene Høyre og Venstre.",
+      "excerpt": "Tidligere i oktober ble det kjent at to lokallag i Arbeiderpartiet (Ap) i Oslo ville ha Birgit Skarstein som ordfører.\n\nTirsdag kveld skriver Skarstein selv på Facebook at det ikke blir aktuelt nå.\n\n– Jeg vil gjerne bidra til å utvikle Oslo. Foreløpig må det likevel bli utenfor partipolitikken....",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/birgit-skarstein-vil-ikke-bli-ordforer-i-oslo-1.18066563",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-27T21:54:29.392Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793138067719.9478,
+      "title": "Egyptisk redaktør pågrepet – domstol beordret nettavisen stengt",
+      "slug": "egyptisk-redaktr-pgrepet-domstol-beordret-nettavisen-stengt",
+      "content": "Den egyptiske journalisten og redaktøren Lina Attalah er pågrepet etter at retten beordret den uavhengige nettavisen hennes stengt.\n\nAttalah var tiltalt for å ha drevet nettstedet Mada Masr uten lisens, og anklaget for publisering av «falske nyheter».\n\nHun holdes fengslet fram til en bot på tre millioner egyptiske pund, tilsvarende 530.000 norske kroner, er betalt. Det var den høyeste mulige straffen for tiltalen.",
+      "excerpt": "Den egyptiske journalisten og redaktøren Lina Attalah er pågrepet etter at retten beordret den uavhengige nettavisen hennes stengt.\n\nAttalah var tiltalt for å ha drevet nettstedet Mada Masr uten lisens, og anklaget for publisering av «falske nyheter».\n\nHun holdes fengslet fram til en bot på tre...",
+      "image": "https://images.unsplash.com/photo-1663610804918-c87cd25f6040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMxMzgwNjd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/egyptisk-redaktor-pagrepet-_-domstol-beordret-nettavisen-stengt-1.18066573",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-27T21:54:27.720Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1793122735753.521,
       "title": "Storbritannia tilbake i utvekslingsprogram",
       "slug": "storbritannia-tilbake-i-utvekslingsprogram",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-24T08:42:53.967Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1792831372323.866,
-      "title": "Ukraina: Stabil tilkobling til Starlink – hastigheten øker",
-      "slug": "ukraina-stabil-tilkobling-til-starlink-hastigheten-ker",
-      "content": "Ukraina har igjen en «stabil forbindelse» til Starlink.\n\nDet opplyste myndighetene lørdag, etter flere dager med spenninger overfor Washington om SpaceX-nettverket som er avgjørende for den ukrainske hærens operasjoner.\n\n– Overvåkingssystemene ser nå at hastigheten i Starlink/Starshield er på vei opp igjen, sier Ukrainas forsvarsminister i en uttalelse. Han sier også at tilkoblingen er stabil.\n\nSenest fredag uttalte kilder i Ukraina at nettet fortsatt gikk tregt.\n\nProblemene rammet landets evne til å forsvare seg mot russiske droner og til selv å gjennomføre droneangrep mot russiske mål.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Ukraina har igjen en «stabil forbindelse» til Starlink.\n\nDet opplyste myndighetene lørdag, etter flere dager med spenninger overfor Washington om SpaceX-nettverket som er avgjørende for den ukrainske hærens operasjoner.\n\n– Overvåkingssystemene ser nå at hastigheten i Starlink/Starshield er på vei...",
-      "image": "https://images.unsplash.com/photo-1654088287224-3e49288d5081?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI4MzEzNzJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/ukraina_-stabil-tilkobling-til-starlink-_-hastigheten-oker-1.18063596",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-24T08:42:52.323Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792831370725.6309,
-      "title": "Russisk industrianlegg rammet av droneangrep",
-      "slug": "russisk-industrianlegg-rammet-av-droneangrep",
-      "content": "Flere industrianlegg ble skadet i et droneangrep mot den russiske byen Toljatti.\n\nDet opplyser ordfører Ilja Sukhikh på Telegram, gjengitt av AFP.\n\nToljatti huser Russlands største bilprodusent Avtovaz og den store ammoniakkprodusenten Togliattiazot.\n\nSukhikh sa at foreløpige meldinger tydet på at det verken var omkomne eller skadde. Han spesifiserte ikke hvilke anlegg som ble skadet.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Flere industrianlegg ble skadet i et droneangrep mot den russiske byen Toljatti.\n\nDet opplyser ordfører Ilja Sukhikh på Telegram, gjengitt av AFP.\n\nToljatti huser Russlands største bilprodusent Avtovaz og den store ammoniakkprodusenten Togliattiazot.\n\nSukhikh sa at foreløpige meldinger tydet på at...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/russisk-industrianlegg-rammet-av-droneangrep--1.18063623",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-24T08:42:50.725Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792813379603.579,
-      "title": "Ebolavaksine testes i Kongo",
-      "slug": "ebolavaksine-testes-i-kongo",
-      "content": "Mens Kongo fortsatt er inne i landets verste ebolautbrudd noensinne, startet en vaksinetest fredag, opplyser Verdens helseorganisasjon (WHO).\n\nEn av de mange utfordringene er at det ikke finnes noen godkjent vaksine eller behandling mot Bundibugyo-versjonen av det dødelige viruset.\n\nErvebo, en vaksine som er godkjent for bruk mot den vanligere Zaire-versjonen av ebola, skal nå testes i full skala for å undersøke om den også kan bidra til å beskytte mot Bundibugyo.\n\n– Vitenskapen gir oss håp. I dag ble de første deltakerne vaksinert i Bunia i en vaksinetest som har fått navnet Tumaini, som betyr håp på swahili, sier WHO-sjef Tedros Adhanom Ghebreyesus på X.\n\nEtter hvert skal Tumaini-forsøket også inkludere to av kandidatvaksinene som er under utvikling for å beskytte mot Bundibugyo-versjonen av ebola.\n\nEbola\n\nEbolaepidemien i årene 2013-2015 livet av 11.300 mennesker i de tre vestafrikanske landene Guinea, Sierra Leone og Liberia. Etter at det store utbruddet var over, er det registrert flere sporadiske tilfeller av smitte.",
-      "excerpt": "Mens Kongo fortsatt er inne i landets verste ebolautbrudd noensinne, startet en vaksinetest fredag, opplyser Verdens helseorganisasjon (WHO).\n\nEn av de mange utfordringene er at det ikke finnes noen godkjent vaksine eller behandling mot Bundibugyo-versjonen av det dødelige viruset.\n\nErvebo, en...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ebolavaksine-testes-i-kongo-1.18063530",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-24T03:42:59.603Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4164,
+    "totalFetched": 4167,
     "totalPublished": 77,
-    "lastFetch": "2026-10-27T17:38:57.387Z",
+    "lastFetch": "2026-10-27T21:54:33.350Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
