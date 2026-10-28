@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1793220612874.269,
+      "title": "Midlertidig stans av omstridte Meta-endringer for norske mediehus",
+      "slug": "midlertidig-stans-av-omstridte-metaendringer-for-norske-medi",
+      "content": "Meta har tidligere informert om at de skal oppdatere plattformene sine 20. november, med nye vilkår for de som har bedriftskonto.\n\nI en kjennelse fra Oslo tingrett forbys Meta å iverksette endringene, inntil lovligheten har blitt vurdert av en rett.\n\nDet betyr at norske mediebedrifter har fått medhold mot et av verdens største teknologiselskaper, i første runde.\n\nMedlemmene i Mediebedriftenes Landsforening (MBL) mener at disse brukervilkårene vil gi Meta rett til å trene KI på innholdet deres, og spre det uten godkjennelse.\n\nMeta svarer at de ikke planlegger å gjøre endringer i vilkårene uten en grundig høringsprosess med bransjeorganisasjonene. Det kan ta lengre tid enn til 20. november.\n\n– Vi er opptatt av å gjøre dette på riktig måte, sier en talsperson for Meta.\n\nMeta må betale over en million kroner i saksomkostninger.\n\nMeta\n\nMark Zuckerberg er sjef i selskapet Meta, som står bak Facebook, Instagram og WhatsApp.",
+      "excerpt": "Meta har tidligere informert om at de skal oppdatere plattformene sine 20. november, med nye vilkår for de som har bedriftskonto.\n\nI en kjennelse fra Oslo tingrett forbys Meta å iverksette endringene, inntil lovligheten har blitt vurdert av en rett.\n\nDet betyr at norske mediebedrifter har fått...",
+      "image": "https://images.unsplash.com/photo-1663610804918-c87cd25f6040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMyMjA2MTJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/midlertidig-stans-av-omstridte-meta-endringer-for-norske-mediehus-1.18067443",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-28T20:50:12.874Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793220611274.4158,
+      "title": "USA holder renten uendret",
+      "slug": "usa-holder-renten-uendret",
+      "content": "Som ventet holder den amerikanske sentralbanken renten uendret.\n\nStyringsrenten holdes innenfor det nåværende intervallet på 3,75 til 4 prosent. Samtidig erkjente USAs sentralbank at inflasjonen «fortsatt er høy» og antydet at ytterligere rentehevinger kan komme, avhengig av inflasjonsbildet.\n\nAvgjørelsen ble stemt fram med ti stemmer for og to imot.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Som ventet holder den amerikanske sentralbanken renten uendret.\n\nStyringsrenten holdes innenfor det nåværende intervallet på 3,75 til 4 prosent. Samtidig erkjente USAs sentralbank at inflasjonen «fortsatt er høy» og antydet at ytterligere rentehevinger kan komme, avhengig av...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/usa-holder-renten-uendret-1.18067488",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-28T20:50:11.275Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793220609709.8843,
+      "title": "Bolsonaro i USA: Hevder at han vant valget",
+      "slug": "bolsonaro-i-usa-hevder-at-han-vant-valget",
+      "content": "Flavio Bolsonaro bekrefter at han har flyktet til USA og hevder at det var han som vant søndagens valg i Brasil.\n\n– Jeg henvender meg til det brasilianske folk og det internasjonale samfunnet som den rettmessig valgte presidenten i Brasil.\n\nHan takker Donald Trump og det amerikanske folk for å ha tatt i mot ham. Han hevder videre at han er utsatt for en politisk heksejakt og at det eneste alternativet var å forlate landet.\n\nValget er erklært gyldig av brasiliansk høyesterett.\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president Jair Bolsonaro til angrep på Kongressen, presidentpalasset og høyesterett i hoevdstaden Brasília.",
+      "excerpt": "Flavio Bolsonaro bekrefter at han har flyktet til USA og hevder at det var han som vant søndagens valg i Brasil.\n\n– Jeg henvender meg til det brasilianske folk og det internasjonale samfunnet som den rettmessig valgte presidenten i Brasil.\n\nHan takker Donald Trump og det amerikanske folk for å ha...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/bolsonaro-i-usa_-hevder-at-han-vant-valget-1.18067497",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-28T20:50:09.709Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1793199703155.6328,
       "title": "The best places to celebrate Halloween in Norway this year",
       "slug": "the-best-places-to-celebrate-halloween-in-norway-this-year",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-25T07:21:30.264Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1792886610512.7847,
-      "title": "Milliardforlik i overgrepssak mot den katolske kirken i New York",
-      "slug": "milliardforlik-i-overgrepssak-mot-den-katolske-kirken-i-new-",
-      "content": "Det katolske erkebispedømmet i New York har godkjent et forlik verdt rundt 8 milliarder kroner til ofre for seksuelle overgrep begått av geistlige.\n\nIfølge New York Times får hvert av de rundt 1300 ofrene minst 250.000 dollar – drøyt 2,3 millioner kroner – men basert på hvor alvorlige overgrep det er snakk om, kan noen også få mer. Til sammen er forliket på drøyt 800 millioner dollar.\n\nEtter at gravejournalister avdekket overgrep mot tusenvis av barn i den katolske kirken, har flere bispedømmer i USA måttet betale millionbeløp i erstatninger.\n\nOvergrep i den katolske kirke\n\nDen katolske kirke har de siste årene fått mange anklager om seksuelt misbruk av barn rettet mot seg. Pave Frans har fordømt enhver form for overgrep, og sier kirken har et ansvar for å beskytte barn og sårbare voksne.",
-      "excerpt": "Det katolske erkebispedømmet i New York har godkjent et forlik verdt rundt 8 milliarder kroner til ofre for seksuelle overgrep begått av geistlige.\n\nIfølge New York Times får hvert av de rundt 1300 ofrene minst 250.000 dollar – drøyt 2,3 millioner kroner – men basert på hvor alvorlige overgrep det...",
-      "image": "https://images.unsplash.com/photo-1657788913437-6b20989ac831?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI4ODY2MTB8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/milliardforlik-i-overgrepssak-mot-den-katolske-kirken-i-new-york-1.18064008",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-25T00:03:30.512Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792886607974.8228,
-      "title": "Obama langer ut mot Trump: – Kaos, grusomhet og korrupsjon",
-      "slug": "obama-langer-ut-mot-trump-kaos-grusomhet-og-korrupsjon",
-      "content": "USAs tidligere president Barack Obama gikk lørdag hardt ut mot etterfølgeren Donald Trump.\n\n– Etter to år med kaos, grusomhet, korrupsjon og inkompetanse, har vi nå sjansen til å si at nok er nok, sa Obama i sin tale.\n\nUttalelsen kom under et valgmøte i Ohio til støtte for demokratiske kandidater før mellomvalget 3. november.\n\nEkspresidenten ga Trump-administrasjonen skylden for økt prisvekst, som er en av de viktigste sakene for velgerne før de stemmer om halvannen uke.\n\n– Den nåværende presidenten velger å ta en rekke dårlige beslutninger. Viktigst av alt er at han har valgt å starte en unødvendig krig som ingen har bedt om.\n\nMellomvalg i USA\n\nDet er mellomvalg tirsdag 3. november. 435 plasser i Representanthuset og 35 av 100 plasser i Senatet står på valg.",
-      "excerpt": "USAs tidligere president Barack Obama gikk lørdag hardt ut mot etterfølgeren Donald Trump.\n\n– Etter to år med kaos, grusomhet, korrupsjon og inkompetanse, har vi nå sjansen til å si at nok er nok, sa Obama i sin tale.\n\nUttalelsen kom under et valgmøte i Ohio til støtte for demokratiske kandidater...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/obama-langer-ut-mot-trump_-_-kaos_-grusomhet-og-korrupsjon-1.18064015",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-25T00:03:27.974Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792873459768.8765,
-      "title": "Minst tre drept av russisk drone i Dnipropetrovsk",
-      "slug": "minst-tre-drept-av-russisk-drone-i-dnipropetrovsk",
-      "content": "Tre personer ble drept da en russisk drone rammet Dnipropetrovsk sørøst i Ukraina lørdag, opplyser guvernøren i fylket.\n\nMinst åtte andre ble såret, deriblant ei elleve år gammel jente, ifølge meldingen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Tre personer ble drept da en russisk drone rammet Dnipropetrovsk sørøst i Ukraina lørdag, opplyser guvernøren i fylket.\n\nMinst åtte andre ble såret, deriblant ei elleve år gammel jente, ifølge meldingen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina...",
-      "image": "https://images.unsplash.com/photo-1660661719313-1e8ec2ebe98b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI4NzM0NTl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/minst-tre-drept-av-russisk-drone-i-dnipropetrovsk-1.18063895",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-24T20:24:19.768Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4176,
+    "totalFetched": 4179,
     "totalPublished": 77,
-    "lastFetch": "2026-10-28T15:01:44.156Z",
+    "lastFetch": "2026-10-28T20:50:14.383Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
