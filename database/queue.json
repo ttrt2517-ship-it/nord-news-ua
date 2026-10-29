@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1793292115156.106,
+      "title": "Fotgjenger påkjørt i Vestby",
+      "slug": "fotgjenger-pkjrt-i-vestby",
+      "content": "Nødetatene er ved Sentrumsveien i Vestby sentrum, hvor en fotgjenger er påkjørt av en bil.\n\nFotgjengeren er kjørt til sykehus. Personen har fått skader i bein, hode og nakke, ifølge operasjonsleder Håkon Nilsen.",
+      "excerpt": "Nødetatene er ved Sentrumsveien i Vestby sentrum, hvor en fotgjenger er påkjørt av en bil.\n\nFotgjengeren er kjørt til sykehus. Personen har fått skader i bein, hode og nakke, ifølge operasjonsleder Håkon Nilsen.",
+      "image": "https://images.unsplash.com/photo-1777918041399-6eee8b5d28d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMyOTIxMTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/fotgjenger-pakjort-i-vestby-1.18068544",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-29T16:41:55.156Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793292113145.778,
+      "title": "Ny rekord på Oslo Børs – hovedindeksen steg 0,4 prosent til ny toppnotering",
+      "slug": "ny-rekord-p-oslo-brs-hovedindeksen-steg-04-prosent-til-ny-to",
+      "content": "Rekordnoteringen på ukens nest siste handelsdag kom til tross for at børslokomotivet Equinor falt.\n\nEn oppgang på hele 13 prosent for Kongsberg Gruppens aksje, og en god dag for flere andre energiselskaper som Aker BP og DNO, hjalp til å drive indeksen oppover.\n\nNorsk økonomi\n\nPrisene stiger i Norge. Spesielt stor er økningen i drivstoffprisene. Tall fra SSB viser at drivstoffprisene har økt med 14,7 prosent siden samme tid i fjor.\n\nOslo Børs\n\nOslo Børs er en av de ledende i verden i næringene energi, shipping og sjømat. Handelen startet den 15. april 1819, og 200 år senere ble den en del av Euronext.",
+      "excerpt": "Rekordnoteringen på ukens nest siste handelsdag kom til tross for at børslokomotivet Equinor falt.\n\nEn oppgang på hele 13 prosent for Kongsberg Gruppens aksje, og en god dag for flere andre energiselskaper som Aker BP og DNO, hjalp til å drive indeksen oppover.\n\nNorsk økonomi\n\nPrisene stiger i...",
+      "image": "https://images.unsplash.com/photo-1735387273482-751d3f16f2f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMyOTIxMTN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ny-rekord-pa-oslo-bors-_-hovedindeksen-steg-0_4-prosent-til-ny-toppnotering-1.18068550",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-29T16:41:53.145Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793292111419.6814,
+      "title": "Høyesterett avviser millionkrav fra advokat Arvid Sjødin",
+      "slug": "hyesterett-avviser-millionkrav-fra-advokat-arvid-sjdin",
+      "content": "Advokat Arvid Sjødin krevde 16 millioner kroner fra staten for arbeidet med Birgitte Tengs-saken. Nå har Høyesterett avvist anken.\n\n– Vi tar beslutningen til etterretning, men er svært overrasket over at Høyesterett ikke slapp inn anken, skriver advokat Patrick Lundevall-Unger, som representerer Sjødin, i en epost sendt til NTB.\n\nPengekravet knytter seg til rettsprosessen etter at 17 år gamle Birgitte Tengs ble drept på Karmøy natt til 6. mai 1995.\n\nSjødin arbeidet i 24 år med å få fetteren til drapsofferet fullstendig renvasket i saken.\n\nNyheter fra Rogaland\n\nFå med deg siste nytt fra Rogaland i denne nyhetsstrømmen.",
+      "excerpt": "Advokat Arvid Sjødin krevde 16 millioner kroner fra staten for arbeidet med Birgitte Tengs-saken. Nå har Høyesterett avvist anken.\n\n– Vi tar beslutningen til etterretning, men er svært overrasket over at Høyesterett ikke slapp inn anken, skriver advokat Patrick Lundevall-Unger, som representerer...",
+      "image": null,
+      "original_url": "https://www.nrk.no/rogaland/hoyesterett-avviser-millionkrav-fra-advokat-arvid-sjodin-1.18068617",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-29T16:41:51.419Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1793261387197.677,
       "title": "Sterkt tredje kvartal for Kongsberg Gruppen",
       "slug": "sterkt-tredje-kvartal-for-kongsberg-gruppen",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-25T20:30:31.914Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1792949265621.4407,
-      "title": "Mot rekordoppslutning ved valget i Serbia",
-      "slug": "mot-rekordoppslutning-ved-valget-i-serbia",
-      "content": "I nesten to år har serbiske studenter demonstrert mot Aleksandar Vučić, som inntil nylig var landets president. Dagens valg vil vise om de har overbevist velgerne om at landet trenger en ny retning.\n\nFem timer etter åpning hadde valgdeltakelsen allerde nådd 35 prosent, ifølge landets valgkomité. Det er langt mer enn ved forrige valg i 2023 da deltakelsen var på 21 prosent på samme tidspunkt.\n\nValgdagen er i dag og det har ikke vært muøig å forhåndsstemme.",
-      "excerpt": "I nesten to år har serbiske studenter demonstrert mot Aleksandar Vučić, som inntil nylig var landets president. Dagens valg vil vise om de har overbevist velgerne om at landet trenger en ny retning.\n\nFem timer etter åpning hadde valgdeltakelsen allerde nådd 35 prosent, ifølge landets valgkomité....",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/mot-rekordoppslutning-ved-valget-i-serbia-1.18064238",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-25T17:27:45.621Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792949264116.1458,
-      "title": "Venezuelas opposisjonsleder er tilbake i landet",
-      "slug": "venezuelas-opposisjonsleder-er-tilbake-i-landet",
-      "content": "Venezuelas opposisjonsleder og fredsprisvinner María Corina Machado er tilbake i landet, melder nyhetsbyrået Reuters.\n\n– Venezuela! Jeg er så glad for å kunne kunngjøre at vår leder, min kjære Maria Corina, er tilbake på venezuelansk jord, skriver en av hennes allierte Edmundo González på X.\n\nHan republiserer en X-melding fra Machado hvor hun skriver «Jeg er her. Med dere.»\n\nMachado har i en periode levd i eksil i Panama. Hun har vært borte fra Venezuela i rundt ett år.\n\nVenezuela\n\nNatt til 25. juni ble Venezuela rammet av to store jordskjelv. Over 6100 mennesker er bekreftet omkommet. Naturkatastrofen har forverret situasjonen i det allerede kriserammede landet.",
-      "excerpt": "Venezuelas opposisjonsleder og fredsprisvinner María Corina Machado er tilbake i landet, melder nyhetsbyrået Reuters.\n\n– Venezuela! Jeg er så glad for å kunne kunngjøre at vår leder, min kjære Maria Corina, er tilbake på venezuelansk jord, skriver en av hennes allierte Edmundo González på X.\n\nHan...",
-      "image": "https://images.unsplash.com/photo-1697013558793-b79c6c74f203?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI5NDkyNjR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/venezuelas-opposisjonsleder-er-tilbake-i-landet-1.18064279",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-25T17:27:44.116Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1792949262441.2612,
-      "title": "Netanyahu advarer mot nytt holocaust om han ikke blir valgt",
-      "slug": "netanyahu-advarer-mot-nytt-holocaust-om-han-ikke-blir-valgt",
-      "content": "To dager før valget i Israel skjerper statsminister Benjamin Netanyahu retorikken ytterligere.\n\nI et innlegg på X advarer Netanyahu om et nytt holocaust dersom han ikke blir gjenvalgt.\n\n– Alle som bryr seg om sin egen, sin families og sine kjæres fysiske eksistens, bør få skjelve på hendene før de stemmer på noen som ikke vil være i stand til å fullføre oppgaven – og dermed dømme seg selv og familien til faren for et nytt holocaust, skriver han.\n\nNetanyahu har lagt ved et KI-generert bilde av en atomeksplosjon i det sentrale Israel.\n\nIran\n\nIran er en islamsk republikk i Midtøsten. Siden 28. februar har landet vært i krig med USA og Israel. Samtidig har det siden slutten av 2025 vært store demonstrasjoner mot det ultrakonservative, undertrykkende regimet i landet.",
-      "excerpt": "To dager før valget i Israel skjerper statsminister Benjamin Netanyahu retorikken ytterligere.\n\nI et innlegg på X advarer Netanyahu om et nytt holocaust dersom han ikke blir gjenvalgt.\n\n– Alle som bryr seg om sin egen, sin families og sine kjæres fysiske eksistens, bør få skjelve på hendene før de...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/netanyahu-advarer-mot-nytt-holocaust-om-han-ikke-blir-valgt-1.18064285",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-25T17:27:42.441Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4185,
+    "totalFetched": 4188,
     "totalPublished": 77,
-    "lastFetch": "2026-10-29T08:09:48.901Z",
+    "lastFetch": "2026-10-29T16:41:57.150Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
