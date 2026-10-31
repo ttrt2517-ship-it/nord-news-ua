@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1793480919814.4832,
+      "title": "Maskerte personar med skytevåpen tok seg inn på privat adresse",
+      "slug": "maskerte-personar-med-skytevpen-tok-seg-inn-p-privat-adresse",
+      "content": "Politiet ynskjer tips etter at to maskerte og væpna personar tok seg inn på ei privat adresse i Kvam i Vestland.\n\n– Dei forsøkte å truge til seg verdiar ved bruk av skytevåpen, skriv operasjonsleiar Knut Dahl-Michelsen.\n\nGjerningspersonane forlét staden, politiet trur ikkje dei fekk med seg noko.\n\n– Etterforskinga går føre seg for fullt, melder politiet.\n\nPolitiet ber om tips i saka, og det ber om at innbyggarar nær Øystese sjekkar kamera som kan ha overvakingsvideo mellom klokka 02:00 og 04:00.\n\nKrim og hendingar i Vestland\n\nDet siste frå politiloggen og andre hendingar i Vestland fylke.",
+      "excerpt": "Politiet ynskjer tips etter at to maskerte og væpna personar tok seg inn på ei privat adresse i Kvam i Vestland.\n\n– Dei forsøkte å truge til seg verdiar ved bruk av skytevåpen, skriv operasjonsleiar Knut Dahl-Michelsen.\n\nGjerningspersonane forlét staden, politiet trur ikkje dei fekk med seg...",
+      "image": "https://images.unsplash.com/photo-1603482360662-38e34391247c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM0ODA5MTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestland/maskerte-personar-med-skytevapen-tok-seg-inn-pa-privat-adresse-1.18070263",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-10-31T21:08:39.815Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1793465850450.5845,
       "title": "IN DATA: Who were the 5,000 foreigners deported from Norway last year?",
       "slug": "in-data-who-were-the-5000-foreigners-deported-from-norway-la",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-10-27T21:54:29.392Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1793138067719.9478,
-      "title": "Egyptisk redaktør pågrepet – domstol beordret nettavisen stengt",
-      "slug": "egyptisk-redaktr-pgrepet-domstol-beordret-nettavisen-stengt",
-      "content": "Den egyptiske journalisten og redaktøren Lina Attalah er pågrepet etter at retten beordret den uavhengige nettavisen hennes stengt.\n\nAttalah var tiltalt for å ha drevet nettstedet Mada Masr uten lisens, og anklaget for publisering av «falske nyheter».\n\nHun holdes fengslet fram til en bot på tre millioner egyptiske pund, tilsvarende 530.000 norske kroner, er betalt. Det var den høyeste mulige straffen for tiltalen.",
-      "excerpt": "Den egyptiske journalisten og redaktøren Lina Attalah er pågrepet etter at retten beordret den uavhengige nettavisen hennes stengt.\n\nAttalah var tiltalt for å ha drevet nettstedet Mada Masr uten lisens, og anklaget for publisering av «falske nyheter».\n\nHun holdes fengslet fram til en bot på tre...",
-      "image": "https://images.unsplash.com/photo-1663610804918-c87cd25f6040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMxMzgwNjd8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/egyptisk-redaktor-pagrepet-_-domstol-beordret-nettavisen-stengt-1.18066573",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-27T21:54:27.720Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4214,
+    "totalFetched": 4215,
     "totalPublished": 77,
-    "lastFetch": "2026-10-31T16:57:31.453Z",
+    "lastFetch": "2026-10-31T21:08:41.433Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
