@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1793609946983.2595,
+      "title": "SV krever kraftige skatteøkninger",
+      "slug": "sv-krever-kraftige-skattekninger",
+      "content": "På fredag starter budsjettforhandlingene. I dag krever SV at skattene økes kraftig.\n\n– Det er greit at folk blir rike, men de må også bidra etter evne, sier Marthe Hammer, finanspolitisk tilsperson i SV.\n\nSV vil øke skattene med 25 mrd. kroner for de rikeste.\n\nBlant annet vil de øke formuesskatten med 16 mrd. kroner.\n\n– Vi skal redusere skatten for dem med inntekt under 800.000 kroner, sier Hammer til NRK.\n\nSosialistisk venstreparti (SV)\n\nEt norsk politisk parti på venstresiden, som ledes av Kirsti Bergstø.",
+      "excerpt": "På fredag starter budsjettforhandlingene. I dag krever SV at skattene økes kraftig.\n\n– Det er greit at folk blir rike, men de må også bidra etter evne, sier Marthe Hammer, finanspolitisk tilsperson i SV.\n\nSV vil øke skattene med 25 mrd. kroner for de rikeste.\n\nBlant annet vil de øke formuesskatten...",
+      "image": "https://images.unsplash.com/photo-1582753799950-e73309a50b3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM2MDk5NDZ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/sv-krever-kraftige-skatteokninger-1.18070904",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-02T08:59:06.983Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793609945287.5354,
+      "title": "SV med 32 milliarder i økt skatt",
+      "slug": "sv-med-32-milliarder-i-kt-skatt",
+      "content": "Skattene økes med mer enn 32 milliarder kroner i helårseffekt i SVs alternative statsbudsjett.\n\nI tillegg økes avgiftene med rundt 3,2 milliarder kroner i helårseffekt. Det er hovedsakelig klimaavgifter som økes. SV finner også rom til å fjerne dokumentavgiften for førstegangskjøpere av bolig.\n\nIsolert for budsjettåret 2027 foreslår SV samlede skatte- og avgiftsøkninger på 25,6 milliarder.\n\nHovedforklaringen er en økning i formuesskatten på mer enn 16 milliarder kroner. Inntektsskatten økes med mer 3,2 milliarder, men SV sier to av tre vil få lavere skatt med deres opplegg.\n\n– Skattenivået i dag er 24 milliarder kroner lavere i 2013 da Jens Stoltenberg sist var statsminister, sa finanspolitisk talsperson Marthe Hammer da hun la fram SV-budsjettet.\n\nSV alternative budsjett legger opp til å bruke 309 millioner kroner mindre i oljepengebruk. En av satsingene er 10 milliarder kroner mer til kommunene, men bare 4 av milliardene gis som frie midler.",
+      "excerpt": "Skattene økes med mer enn 32 milliarder kroner i helårseffekt i SVs alternative statsbudsjett.\n\nI tillegg økes avgiftene med rundt 3,2 milliarder kroner i helårseffekt. Det er hovedsakelig klimaavgifter som økes. SV finner også rom til å fjerne dokumentavgiften for førstegangskjøpere av...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/sv-med-32-milliarder-i-okt-skatt-1.18070992",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-02T08:59:05.287Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793609943759.1238,
+      "title": "Sterkeste krone siden 2022",
+      "slug": "sterkeste-krone-siden-2022",
+      "content": "Norske kroner har den siste tiden vært på sitt sterkeste mot handelspartnernes valutaer siden april 2022, ifølge Norges Banks 144-indeks.\n\nKronen har blant annet styrket seg mye mot euro og svensk krone. Én euro koster nå 10,31 kroner, mot 11,84 kroner ved nyttår. 100 svenske kroner handles til 93,97 norske kroner, fra 109 norske kroner ved nyttår.\n\nOlje- og gasspriser pekes på som den viktigste årsaken for kroneøkningen den siste uken.\n\nDollaren handles til 9,21 kroner, fra 10,05 kroner ved nyttår.",
+      "excerpt": "Norske kroner har den siste tiden vært på sitt sterkeste mot handelspartnernes valutaer siden april 2022, ifølge Norges Banks 144-indeks.\n\nKronen har blant annet styrket seg mye mot euro og svensk krone. Én euro koster nå 10,31 kroner, mot 11,84 kroner ved nyttår. 100 svenske kroner handles til...",
+      "image": "https://images.unsplash.com/photo-1534067058742-a4585f7d4ff4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM2MDk5NDN8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/sterkeste-krone-siden-2022-1.18070935",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-02T08:59:03.760Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1793582352703.9734,
       "title": "Lokal våpenhvile i Ukraina er over",
       "slug": "lokal-vpenhvile-i-ukraina-er-over",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-29T01:37:05.698Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1793237824059.1675,
-      "title": "Finsk og amerikansk utenriksminister møtes torsdag",
-      "slug": "finsk-og-amerikansk-utenriksminister-mtes-torsdag",
-      "content": "Den finske og amerikanske utenriksministeren skal møtes torsdag.\n\nMøtet mellom Elina Valtonen og Marco Rubio skjer i Washington D.C, opplyser finske myndigheter.\n\n– Møtet med utenriksminister Marco Rubio kommer på et godt tidspunkt og gir en mulighet for en konfidensiell drøfting av innsatsen for å sikre fred i Russlands aggresjonskrig mot Ukraina, heter det i en uttalelse fra Valtonen på det finske utenriksdepartementets nettside.\n\n– Finland støtter Ukrainas mål for en rettferdig og varig fred, står det i uttalelsen.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Den finske og amerikanske utenriksministeren skal møtes torsdag.\n\nMøtet mellom Elina Valtonen og Marco Rubio skjer i Washington D.C, opplyser finske myndigheter.\n\n– Møtet med utenriksminister Marco Rubio kommer på et godt tidspunkt og gir en mulighet for en konfidensiell drøfting av innsatsen for å...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/finsk-og-amerikansk-utenriksminister-motes-torsdag-1.18067652",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-29T01:37:04.059Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1793237822462.3975,
-      "title": "Koalisjon: Har skutt ned ballistisk missil",
-      "slug": "koalisjon-har-skutt-ned-ballistisk-missil",
-      "content": "Militærkoalisjonen som ledes av Saudi-Arabia sier den har skutt ned et ballistisk missil, melder AFP.\n\nMissilet ble skutt opp av houthi-militsen og var på vei mot den østlige delen av Saudi-Arabia, ifølge koalisjonen.\n\nSpenningen har økt den siste tiden mellom Saudi-Arabia og houthi-militsen.\n\nTolv mennesker ble drept i og hundrevis ble såret i et angrep mot en flyplass i Riyadh tidligere i oktober, som militsen sier den sto bak.\n\nSaudi-Arabia\n\nSaudi-Arabia er et dypt religiøst monarki i Midtøsten. Det islamske landet er ofte kritisert for at kvinner har svært innskrenkede rettigheter. Landet har enorme oljeforekomster.",
-      "excerpt": "Militærkoalisjonen som ledes av Saudi-Arabia sier den har skutt ned et ballistisk missil, melder AFP.\n\nMissilet ble skutt opp av houthi-militsen og var på vei mot den østlige delen av Saudi-Arabia, ifølge koalisjonen.\n\nSpenningen har økt den siste tiden mellom Saudi-Arabia og houthi-militsen.\n\nTolv...",
-      "image": "https://images.unsplash.com/photo-1686731709928-a603b9ca9a82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMyMzc4MjJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/koalisjon_-har-skutt-ned-ballistisk-missil-1.18067653",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-29T01:37:02.462Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1793220612874.269,
-      "title": "Midlertidig stans av omstridte Meta-endringer for norske mediehus",
-      "slug": "midlertidig-stans-av-omstridte-metaendringer-for-norske-medi",
-      "content": "Meta har tidligere informert om at de skal oppdatere plattformene sine 20. november, med nye vilkår for de som har bedriftskonto.\n\nI en kjennelse fra Oslo tingrett forbys Meta å iverksette endringene, inntil lovligheten har blitt vurdert av en rett.\n\nDet betyr at norske mediebedrifter har fått medhold mot et av verdens største teknologiselskaper, i første runde.\n\nMedlemmene i Mediebedriftenes Landsforening (MBL) mener at disse brukervilkårene vil gi Meta rett til å trene KI på innholdet deres, og spre det uten godkjennelse.\n\nMeta svarer at de ikke planlegger å gjøre endringer i vilkårene uten en grundig høringsprosess med bransjeorganisasjonene. Det kan ta lengre tid enn til 20. november.\n\n– Vi er opptatt av å gjøre dette på riktig måte, sier en talsperson for Meta.\n\nMeta må betale over en million kroner i saksomkostninger.\n\nMeta\n\nMark Zuckerberg er sjef i selskapet Meta, som står bak Facebook, Instagram og WhatsApp.",
-      "excerpt": "Meta har tidligere informert om at de skal oppdatere plattformene sine 20. november, med nye vilkår for de som har bedriftskonto.\n\nI en kjennelse fra Oslo tingrett forbys Meta å iverksette endringene, inntil lovligheten har blitt vurdert av en rett.\n\nDet betyr at norske mediebedrifter har fått...",
-      "image": "https://images.unsplash.com/photo-1663610804918-c87cd25f6040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMyMjA2MTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/midlertidig-stans-av-omstridte-meta-endringer-for-norske-mediehus-1.18067443",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-28T20:50:12.874Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4228,
+    "totalFetched": 4231,
     "totalPublished": 77,
-    "lastFetch": "2026-11-02T01:19:14.727Z",
+    "lastFetch": "2026-11-02T08:59:08.894Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
