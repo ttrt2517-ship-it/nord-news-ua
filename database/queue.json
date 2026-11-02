@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1793649661324.446,
+      "title": "Musk leder an i pengegalopp til mellomvalget",
+      "slug": "musk-leder-an-i-pengegalopp-til-mellomvalget",
+      "content": "Et knippe megadonorer har pumpet inn til sammen to milliarder dollar i det amerikanske mellomvalget.\n\nDet viser en oversikt fra The New York Times. Beløpet tilsvarer litt over 18,5 milliarder norske kroner.\n\nRepublikanske støttespillere opptar tolv av plassene på topp 20-listen over største bidragsytere.\n\nAv de resterende åtte støtter seks Demokratene, og to bidrar til å fremme enkeltsaker.\n\nPå en klar førsteplass, med et bidrag på i overkant av 4,1 milliarder kroner, er Musk.\n\nVerdens rikeste mann gjør alt han kan for å hjelpe Republikanerne til valgseier, og han har bidratt med mer enn tre ganger så mye som andremann på listen.\n\nMellomvalg i USA\n\nDet er mellomvalg tirsdag 3. november. 435 plasser i Representanthuset og 35 av 100 plasser i Senatet står på valg.",
+      "excerpt": "Et knippe megadonorer har pumpet inn til sammen to milliarder dollar i det amerikanske mellomvalget.\n\nDet viser en oversikt fra The New York Times. Beløpet tilsvarer litt over 18,5 milliarder norske kroner.\n\nRepublikanske støttespillere opptar tolv av plassene på topp 20-listen over største...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/musk-leder-an-i-pengegalopp-til-mellomvalget-1.18071602",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-02T20:01:01.324Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793649659754.949,
+      "title": "Minst 24 drept i russiske angrep mot ukrainsk landsby",
+      "slug": "minst-24-drept-i-russiske-angrep-mot-ukrainsk-landsby",
+      "content": "Landsbyen Komysjuvakha i Zaporizjzja-regionen har blitt angrepet med glidebomber gjentatte ganger siden i morges, ifølge Ukrainas president Volodymyr Zelenskyj.\n\nUkrainske nødetater opplyser at 24 mennesker er drept, ifølge Reuters.\n\nZelenskyj hevder blant annet at angrepene var rettet mot en skole der folk samlet seg for å motta nødhjelp. Dette er ikke bekreftet fra uavhengig hold.\n\n– Mine dypeste kondolanser går til deres familier og etterlatte, skriver presidenten i et innlegg på X mandag kveld.\n\nDet pågår redningsarbeid på stedet, men arbeidet omtales som krevende.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Landsbyen Komysjuvakha i Zaporizjzja-regionen har blitt angrepet med glidebomber gjentatte ganger siden i morges, ifølge Ukrainas president Volodymyr Zelenskyj.\n\nUkrainske nødetater opplyser at 24 mennesker er drept, ifølge Reuters.\n\nZelenskyj hevder blant annet at angrepene var rettet mot en skole...",
+      "image": "https://images.unsplash.com/photo-1681027101434-eeada3d35abb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM2NDk2NTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/minst-24-drept-i-russiske-angrep-mot-ukrainsk-landsby-1.18071637",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-02T20:00:59.754Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793649658077.547,
+      "title": "Trump: Viktigste mellomvalget i vår levetid",
+      "slug": "trump-viktigste-mellomvalget-i-vr-levetid",
+      "content": "Det var beskjeden fra USAs president Donald Trump, som mandag holdt sin avsluttende tale før mellomvalget tirsdag.\n\nTrump og republikanerne står overfor et tøft valg, der de risikerer å miste kontrollen over Kongressen\n\nMellomvalg i USA\n\nDet er mellomvalg tirsdag 3. november. 435 plasser i Representanthuset og 35 av 100 plasser i Senatet står på valg.",
+      "excerpt": "Det var beskjeden fra USAs president Donald Trump, som mandag holdt sin avsluttende tale før mellomvalget tirsdag.\n\nTrump og republikanerne står overfor et tøft valg, der de risikerer å miste kontrollen over Kongressen\n\nMellomvalg i USA\n\nDet er mellomvalg tirsdag 3. november. 435 plasser i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump_-viktigste-mellomvalget-i-var-levetid-1.18071644",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-02T20:00:58.077Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1793609946983.2595,
       "title": "SV krever kraftige skatteøkninger",
       "slug": "sv-krever-kraftige-skattekninger",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-29T08:09:47.197Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1793261385514.2114,
-      "title": "NVE varsler betydelig høyere strømpriser på grunn av datasentre",
-      "slug": "nve-varsler-betydelig-hyere-strmpriser-p-grunn-av-datasentre",
-      "content": "Norge vil få betydelig høyere priser frem mot 2035 dersom kraftforbruket øker sterkt uten at det bygges ut ny kraftproduksjon, viser tall fra Norges vassdrags- og energidirektorat (NVE).\n\nNorge produserer i dag mer kraft enn vi bruker, med et overskudd på om lag 15 terawattimer (TWh) i et normalår.\n\nMen kraftbalansen kan gå mot null eller bli negativ innen 2035 hvis forbruket vokser kraftig uten at det bygges ny vindkraft, ifølge NVE.\n\n– Hvis dagens sterke vekst av datasentre fortsetter, kan Norge stå overfor den raskeste veksten i kraftforbruk i moderne tid. Med en slik økning i forbruk uten mer kraftproduksjon, vil Norge om noen år ha et kraftunderskudd også i normalår, sier vassdrags- og energidirektør Kjetil Lund i NVE.\n\nStrømpriser\n\nDe siste to årene har strømprisen i store deler av landet vært uvanlig høy. Markedsprisen på strøm kan følges fra time til time på strømbørsen Nord Pool.",
-      "excerpt": "Norge vil få betydelig høyere priser frem mot 2035 dersom kraftforbruket øker sterkt uten at det bygges ut ny kraftproduksjon, viser tall fra Norges vassdrags- og energidirektorat (NVE).\n\nNorge produserer i dag mer kraft enn vi bruker, med et overskudd på om lag 15 terawattimer (TWh) i et...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/nve-varsler-betydelig-hoyere-strompriser-pa-grunn-av-datasentre-1.18067733",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-29T08:09:45.514Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1793261383953.9602,
-      "title": "Russland hevder å ha skutt ned over 1000 ukrainske droner",
-      "slug": "russland-hevder-ha-skutt-ned-over-1000-ukrainske-droner",
-      "content": "Det ble skutt ned 1214 ukrainske droner rettet mot Russland gjennom natten, ifølge det russiske forsvarsdepartementet.\n\nIfølge ordføreren i Moskva, Sergej Sobjanin, ble 613 droner sendt mot den russiske hovedstaden i natt, men han hevder at de fleste av disse ble skutt ned.\n\nVrakrester fra droner falt imidlertid ned i et industriområde i Sterlitamak i Russland, ifølge Reuters.\n\nSamtidig meldes det om russiske angrep mot Kharkiv i Ukraina, landets nest største by.\n\nDet har blant annet ført til skader på en utdanningsinstitusjon, ifølge Kharkiv-ordfører Ihor Terekhov.\n\nRussland hevder i tillegg å ha angrepet et lasteskip i Svartehavet de sier ble brukt av det ukrainske militæret. Ukraina har ikke kommentert denne påstanden.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Det ble skutt ned 1214 ukrainske droner rettet mot Russland gjennom natten, ifølge det russiske forsvarsdepartementet.\n\nIfølge ordføreren i Moskva, Sergej Sobjanin, ble 613 droner sendt mot den russiske hovedstaden i natt, men han hevder at de fleste av disse ble skutt ned.\n\nVrakrester fra droner...",
-      "image": "https://images.unsplash.com/photo-1623831134835-adb937642c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMyNjEzODN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/russland-hevder-a-ha-skutt-ned-over-1000-ukrainske-droner-1.18067757",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-29T08:09:43.954Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1793237825698.3896,
-      "title": "Opplysninger om 40.000 ansatte i USAs sikkerhetsdepartement lekket på nettet",
-      "slug": "opplysninger-om-40000-ansatte-i-usas-sikkerhetsdepartement-l",
-      "content": "En lekkasjenettside har offentliggjort opplysninger om mer enn 40.000 ansatte i USAs sikkerhetsdepartement (DHS), blant dem personer som arbeider med overvåking og etterretning.\n\nDet er organisasjonen Distributed Denial of Secrets som onsdag offentliggjorde opplysningene.\n\nMaterialet inneholder navn, telefonnumre, e-postadresser og stillingstitler til ansatte i blant annet immigrasjonspolitiet Ice, grensepolitiet CBP og USAs cybersikkerhetsmyndighet CISA.\n\nOpplysningene avslører også hvilke ansatte som arbeider med spesialoperasjoner, overvåking, dataetterforskning og undercovervirksomhet.\n\nIfølge organisasjonen stammer opplysningene fra en hackergruppe som kaller seg Department of Peace - Fredsdepartementet.\n\nGruppen hevder å ha hentet informasjonen fra påloggingstjenesten Okta, som brukes av DHS.\n\nOkta avviser på sin side at deres systemer er kompromittert.\n\n– Okta er sikkert, og vi har ingen bevis for at våre data eller systemer er blitt kompromittert, opplyser selskapet.\n\nDistributed Denial of Secrets sier at opplysningene skal gjøre det lettere for journalister og offentligheten å kontrollere myndighetenes virksomhet.\n\n– Erstatte anonymitet med ansvarlighet, sier medgrunnlegger Emma Best til Reuters om formålet med en søkbar database over de ansatte.\n\nNyhetsbyrået Reuters har ikke kunnet bekrefte ektheten av hele materialet, men har kontrollert opplysninger om flere ansatte mot andre registre og gjennom direkte kontakt med berørte personer.\n\nDette er den tredje store lekkasjen av opplysninger om amerikanske statsansatte som er blitt kjent den siste måneden.\n\nI september hevdet hackergruppen ShinyHunters å ha stjålet omfattende opplysninger fra FBI, mens det amerikanske forsvarsdepartementet nylig ble saksøkt etter et datainnbrudd som rammet millioner av nåværende og tidligere militært ansatte.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "En lekkasjenettside har offentliggjort opplysninger om mer enn 40.000 ansatte i USAs sikkerhetsdepartement (DHS), blant dem personer som arbeider med overvåking og etterretning.\n\nDet er organisasjonen Distributed Denial of Secrets som onsdag offentliggjorde opplysningene.\n\nMaterialet inneholder...",
-      "image": "https://images.unsplash.com/photo-1732362129913-88a5a52958cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMyMzc4MjV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/opplysninger-om-40.000-ansatte-i-usas-sikkerhetsdepartement-lekket-pa-nettet-1.18067628",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-29T01:37:05.698Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4231,
+    "totalFetched": 4234,
     "totalPublished": 77,
-    "lastFetch": "2026-11-02T08:59:08.894Z",
+    "lastFetch": "2026-11-02T20:01:03.275Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
