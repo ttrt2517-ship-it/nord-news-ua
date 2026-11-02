@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1793582352703.9734,
+      "title": "Lokal våpenhvile i Ukraina er over",
+      "slug": "lokal-vpenhvile-i-ukraina-er-over",
+      "content": "Våpenhvilen i den russisk-okkuperte byen Olesjky.i Ukraina er over.\n\nDet bekrefter Ukrainas menneskerettighetsombud Dmytro Lubinets.\n\n– Våpenhvilen, som varte fra 27. oktober til 1. november, er nå over, skriver Lubinets i et innlegg på meldingstjenesten X.\n\nInnlegget ble lagt ut i 22-tiden søndag kveld norsk tid.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Våpenhvilen i den russisk-okkuperte byen Olesjky.i Ukraina er over.\n\nDet bekrefter Ukrainas menneskerettighetsombud Dmytro Lubinets.\n\n– Våpenhvilen, som varte fra 27. oktober til 1. november, er nå over, skriver Lubinets i et innlegg på meldingstjenesten X.\n\nInnlegget ble lagt ut i 22-tiden søndag...",
+      "image": "https://images.unsplash.com/photo-1659424765411-2ae87f5d1c06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM1ODIzNTJ8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/lokal-vapenhvile-i-ukraina-er-over-1.18070844",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-02T01:19:12.703Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793582351104.8577,
+      "title": "Ukraina: Flyalarm-app er hacket",
+      "slug": "ukraina-flyalarmapp-er-hacket",
+      "content": "Appen som ukrainere bruker for å bli varslet om russiske luftangrep er blitt hacket.\n\nAppen skal i en kort tidsperiode ha vist en atomalarm.\n\n– Appen ser ut til å ha blitt utsatt for fiendtlig påvirkning, skriver luftforsvaret på Telegram.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Appen som ukrainere bruker for å bli varslet om russiske luftangrep er blitt hacket.\n\nAppen skal i en kort tidsperiode ha vist en atomalarm.\n\n– Appen ser ut til å ha blitt utsatt for fiendtlig påvirkning, skriver luftforsvaret på Telegram.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/ukraina_-flyalarm-app-er-hacket-1.18070854",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-02T01:19:11.104Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793582349541.0571,
+      "title": "Ikke opplysninger om omkomne på bakken etter flystyrt",
+      "slug": "ikke-opplysninger-om-omkomne-p-bakken-etter-flystyrt",
+      "content": "Det er foreløpig ikke tegn til at noen på bakken ble rammet i flystyrten i Palm Beach.\n\nNi mennesker, som alle var om bord i flyet, døde i flystyrten søndag.\n\nFlyet styrtet i bakken i en bratt vinkel, med svært stor hastighet. Vrakdeler fra flyet spredte seg over et «betydelig» område, sier DeSantis.\n\n– Det er foreløpig ikke kommet rapporter om at noen på bakken omkom eller ble skadet av vrakdelene fra flyet, sier guvernøren til journalister natt til mandag.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Det er foreløpig ikke tegn til at noen på bakken ble rammet i flystyrten i Palm Beach.\n\nNi mennesker, som alle var om bord i flyet, døde i flystyrten søndag.\n\nFlyet styrtet i bakken i en bratt vinkel, med svært stor hastighet. Vrakdeler fra flyet spredte seg over et «betydelig» område, sier...",
+      "image": "https://images.unsplash.com/photo-1642508168789-010f910ce590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM1ODIzNDl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ikke-opplysninger-om-omkomne-pa-bakken-etter-flystyrt-1.18070855",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-02T01:19:09.541Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1793569653365.6667,
       "title": "Dommer avviser Trump-søksmål knyttet til navneforveksling i mellomvalget",
       "slug": "dommer-avviser-trumpsksml-knyttet-til-navneforveksling-i-mel",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-10-28T20:50:12.874Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1793220611274.4158,
-      "title": "USA holder renten uendret",
-      "slug": "usa-holder-renten-uendret",
-      "content": "Som ventet holder den amerikanske sentralbanken renten uendret.\n\nStyringsrenten holdes innenfor det nåværende intervallet på 3,75 til 4 prosent. Samtidig erkjente USAs sentralbank at inflasjonen «fortsatt er høy» og antydet at ytterligere rentehevinger kan komme, avhengig av inflasjonsbildet.\n\nAvgjørelsen ble stemt fram med ti stemmer for og to imot.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Som ventet holder den amerikanske sentralbanken renten uendret.\n\nStyringsrenten holdes innenfor det nåværende intervallet på 3,75 til 4 prosent. Samtidig erkjente USAs sentralbank at inflasjonen «fortsatt er høy» og antydet at ytterligere rentehevinger kan komme, avhengig av...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/usa-holder-renten-uendret-1.18067488",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-28T20:50:11.275Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1793220609709.8843,
-      "title": "Bolsonaro i USA: Hevder at han vant valget",
-      "slug": "bolsonaro-i-usa-hevder-at-han-vant-valget",
-      "content": "Flavio Bolsonaro bekrefter at han har flyktet til USA og hevder at det var han som vant søndagens valg i Brasil.\n\n– Jeg henvender meg til det brasilianske folk og det internasjonale samfunnet som den rettmessig valgte presidenten i Brasil.\n\nHan takker Donald Trump og det amerikanske folk for å ha tatt i mot ham. Han hevder videre at han er utsatt for en politisk heksejakt og at det eneste alternativet var å forlate landet.\n\nValget er erklært gyldig av brasiliansk høyesterett.\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president Jair Bolsonaro til angrep på Kongressen, presidentpalasset og høyesterett i hoevdstaden Brasília.",
-      "excerpt": "Flavio Bolsonaro bekrefter at han har flyktet til USA og hevder at det var han som vant søndagens valg i Brasil.\n\n– Jeg henvender meg til det brasilianske folk og det internasjonale samfunnet som den rettmessig valgte presidenten i Brasil.\n\nHan takker Donald Trump og det amerikanske folk for å ha...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/bolsonaro-i-usa_-hevder-at-han-vant-valget-1.18067497",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-10-28T20:50:09.709Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1793199703155.6328,
-      "title": "The best places to celebrate Halloween in Norway this year",
-      "slug": "the-best-places-to-celebrate-halloween-in-norway-this-year",
-      "content": "Add a comment\n                                                                                            \n                                        \n                                                                        \n                                        \n                                            \n                                        \n                                    \n                                    \n                                        \n                                            \n                                        \n                                    \n                                    \n                                        \n                                            \n                                        \n                                    \n                                \n                            \n                        \n                    \n                    \n                    \n                            \n                            We've compiled a list of must-visit Halloween events in Norway that will satisfy your Halloween itch. Photo by Sergio Zhukov on Unsplash\n                    \n                                            \n                            \n        \n            \n            \n            \n            \n        \n        Add The Local as a preferred source\n    \n                        \n                                        \n                        As the leaves turn and the crisp autumn air settles in, Norway's cities come alive with bustling Halloween festivities. We've put together a selection of the spookiest and most entertaining events across the country.\n\nAs the air chills and leaves turn, the entire country gears up to celebrate All Saints' Eve, better known as Halloween, on the evening of October 31st (preceding the Christian holiday of All Hallows' Day on November 1st).\n\nIn Norway, children celebrate by donning costumes and embarking on a \"trick or treat\" adventure, knocking on neighbourhood doors with the light on to collect candies, while adults usually opt for Halloween parties and activities.\n\nWhether you're searching for a spine-tingling scare or simply want to embrace the festive autumn spirit, we've compiled a list of must-visit Halloween events in Norway's big cities that will satisfy your Halloween itch.\n\nREAD MORE: How Norway adopted the American tradition of Halloween\n\nIn Oslo, the celebration begins at the Norwegian Folk Museum, where the Halloween weekend is filled with events that combine spine-chilling themes with rich cultural traditions. Families can choose between Day of the Dead, The Haunted City and The Dark Valley this year.\n\nDeichman libraries are also organising free Halloween activities for children and families across several locations in Oslo. The programme features workshops and drawing challenges, alongside events for adults, including an autumn walk featuring spooky stories.\n\nAs Halloween night itself approaches, the Technical Museum transforms into a venue for adult festivities on October 31st. The evening features a Halloween quiz, screenings of classic horror films, VR horror experiences, and an eerie mix of music by DJ Pavlo, ranging from satanic boogie to horror disco.\n\nUntil November 1st , Frøya Park at Skarpsno is hosting a Halloween park with decorated tunnels, live horrific characters, circus performers, and light installations.\n\nOslo's festivities continue with two concerts by the Oslo Symphony Orchestra, with both film and classical music that will put you in the Halloween mood. Organisers encourage attendes to come in their best costume.\n\nTusenFryd, located just 20 kilometres south of Oslo in Vinterbro, is Norway's largest amusement park and has become a beloved Halloween destination over the past few years, though visitors should check availability, as tickets for several time slots are already sold out.\n\nFor those seeking adult-themed entertainment, a wide variety of costume and themed parties will be hosted in bars and venues across the city. Just search on Facebook, or their websites.\n\nBergen's festivities begin with two nights of activities at Mount Fløyen on October 30th and 31st, including a walk through a haunted path, where witches and other spooky creatures can appear when you least expect it.\n\nOn October 30th, visitors can enjoy Halloween-themed decor and surprises at the Bergen Aquarium, perfect for a family day out.\n\nThe University Museum of Bergen will explore the darker side of nature with family activities, including live blood-sucking insects under microscopes, taxidermy demonstrations, and a hen-mummification workshop.\n\nAdditionally, VilVite, Bergen's science centre, caters to families with a special Halloween show and immersive evening experiences.\n\nFor party fans aged 20 and over, Social House is hosting the \"Garden of Evil\" at Teknostallen, featuring guest DJs, visual shows, and a mandatory costume policy.\n\nFor those looking for an adrenaline-packed Halloween, a paddle trip along the Nidelva , organised by Tronheimkajakk, invites participants to kayak through a ghostly scene adorned with lights and shadows, offering discounts to those in costume.\n\nStavanger gears up for what is billed as one of Norway's biggest Halloween parties on October 31st at Fiskepiren.\n\nFiskepiren, a concert stage and social hub in the heart of Stavanger, will transform into the ultimate Halloween venue. Expect a night of shows and surprises featuring performances by artists like Tom Boye and Doc Lello.\n\nThe Stavanger Symphony Orchestra is also bringing some of the most eerie scores in cinema history to life at Stavanger Konserthus on Friday 30th and Saturday 31st .\n\nOn Halloween itself, Bjergstedparken will be transformed into a \"witch's forest\", open to families brave enough to explore - all as part of the Grøss Festival, which runs until November 1st.\n\nDiscover the spooky side of the Arctic capital with the 'Mystical Halloween Tromsø' guided walk. Organised by the Troll Museum, the tour explores local myths and legends about ghosts, trolls, huldras and other supernatural creatures from Northern Norway.\n\nDo you know about another Halloween-themed event in Norway which we haven't mentioned? Let us know.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Add a comment...",
-      "image": "https://images.unsplash.com/photo-1684514571293-89984e5bfc01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMxOTk3MDN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20241022/the-best-places-to-celebrate-halloween-in-norway-this-year",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-10-28T15:01:43.155Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4225,
+    "totalFetched": 4228,
     "totalPublished": 77,
-    "lastFetch": "2026-11-01T21:47:35.275Z",
+    "lastFetch": "2026-11-02T01:19:14.727Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
