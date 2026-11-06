@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1793991619083.0068,
+      "title": "Togtrafikken er i gang igjen",
+      "slug": "togtrafikken-er-i-gang-igjen",
+      "content": "Fredag kveld var det en kort periode full stans i togtrafikken i Oslo-området.\n\nGrunnen var en jordfeil, som nå er rettet ifølge Bane Nor.\n\n– Du må fortsatt regne med forsinkelser og innstillinger, skriver selskapet.",
+      "excerpt": "Fredag kveld var det en kort periode full stans i togtrafikken i Oslo-området.\n\nGrunnen var en jordfeil, som nå er rettet ifølge Bane Nor.\n\n– Du må fortsatt regne med forsinkelser og innstillinger, skriver selskapet.",
+      "image": "https://images.unsplash.com/photo-1613162732142-8a8bb6362e7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM5OTE2MTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/stor-oslo/togtrafikken-er-i-gang-igjen--1.18075737",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-06T19:00:19.083Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793991617404.518,
+      "title": "Rykket ut til trusselsituasjon på Gyldenpris",
+      "slug": "rykket-ut-til-trusselsituasjon-p-gyldenpris",
+      "content": "Politiet rykket fredag kveld ut med flere patruljer etter melding om en mulig trusselsituasjon på Gyldenpris i Bergen.\n\n– Vi har bevæpnet oss og rykker ut med flere enheter, opplyste operasjonsleder Jan Børge Misje i politiet.\n\nPolitet kom til stedet og gjorde undersøkelser, der hendelsen skal ha skjedd ved en gangtunell.\n\n– En person løp fra stedet når politiet kom. Vedkommende ble etterhvert hentet inn igjen av politiet, opplyser Misje til NRK klokken 18:48.\n\nI en oppdatering sier politiet at de har avsluttet.\n\n– Vi har ikke kommet i kontakt med noen som er utsatt for trussel eller vold. Vi avslutter søk og oppretter sak.",
+      "excerpt": "Politiet rykket fredag kveld ut med flere patruljer etter melding om en mulig trusselsituasjon på Gyldenpris i Bergen.\n\n– Vi har bevæpnet oss og rykker ut med flere enheter, opplyste operasjonsleder Jan Børge Misje i politiet.\n\nPolitet kom til stedet og gjorde undersøkelser, der hendelsen skal ha...",
+      "image": "https://images.unsplash.com/photo-1683797468338-5b6a0cf758f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM5OTE2MTd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/vestland/rykket-ut-til-trusselsituasjon-pa-gyldenpris-1.18076053",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-06T19:00:17.404Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1793991615760.4553,
+      "title": "Trump: Susie Wiles går av som stabssjef",
+      "slug": "trump-susie-wiles-gr-av-som-stabssjef",
+      "content": "President Donald Trump varsler på Truth Social at Susie Wiles er ferdig som stabssjef i Det hvite hus. Hun skal få en annen oppgave i administrasjonen, ifølge Trump.\n\nWiles ble USAs første kvinnelige stabssjef da Donald Trump tok fatt på sin andre presidentperiode.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.",
+      "excerpt": "President Donald Trump varsler på Truth Social at Susie Wiles er ferdig som stabssjef i Det hvite hus. Hun skal få en annen oppgave i administrasjonen, ifølge Trump.\n\nWiles ble USAs første kvinnelige stabssjef da Donald Trump tok fatt på sin andre presidentperiode.\n\nUSA\n\nFra 20. januar 2025 er...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump_-susie-wiles-gar-av-som-stabssjef-1.18076143",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-06T19:00:15.761Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1793966012839.299,
       "title": "Foreign nationals make up nearly a third of inmates in Norwegian prisons",
       "slug": "foreign-nationals-make-up-nearly-a-third-of-inmates-in-norwe",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-11-02T08:59:03.760Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1793582352703.9734,
-      "title": "Lokal våpenhvile i Ukraina er over",
-      "slug": "lokal-vpenhvile-i-ukraina-er-over",
-      "content": "Våpenhvilen i den russisk-okkuperte byen Olesjky.i Ukraina er over.\n\nDet bekrefter Ukrainas menneskerettighetsombud Dmytro Lubinets.\n\n– Våpenhvilen, som varte fra 27. oktober til 1. november, er nå over, skriver Lubinets i et innlegg på meldingstjenesten X.\n\nInnlegget ble lagt ut i 22-tiden søndag kveld norsk tid.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Våpenhvilen i den russisk-okkuperte byen Olesjky.i Ukraina er over.\n\nDet bekrefter Ukrainas menneskerettighetsombud Dmytro Lubinets.\n\n– Våpenhvilen, som varte fra 27. oktober til 1. november, er nå over, skriver Lubinets i et innlegg på meldingstjenesten X.\n\nInnlegget ble lagt ut i 22-tiden søndag...",
-      "image": "https://images.unsplash.com/photo-1659424765411-2ae87f5d1c06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM1ODIzNTJ8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/lokal-vapenhvile-i-ukraina-er-over-1.18070844",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-02T01:19:12.703Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1793582351104.8577,
-      "title": "Ukraina: Flyalarm-app er hacket",
-      "slug": "ukraina-flyalarmapp-er-hacket",
-      "content": "Appen som ukrainere bruker for å bli varslet om russiske luftangrep er blitt hacket.\n\nAppen skal i en kort tidsperiode ha vist en atomalarm.\n\n– Appen ser ut til å ha blitt utsatt for fiendtlig påvirkning, skriver luftforsvaret på Telegram.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Appen som ukrainere bruker for å bli varslet om russiske luftangrep er blitt hacket.\n\nAppen skal i en kort tidsperiode ha vist en atomalarm.\n\n– Appen ser ut til å ha blitt utsatt for fiendtlig påvirkning, skriver luftforsvaret på Telegram.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ukraina_-flyalarm-app-er-hacket-1.18070854",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-02T01:19:11.104Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1793582349541.0571,
-      "title": "Ikke opplysninger om omkomne på bakken etter flystyrt",
-      "slug": "ikke-opplysninger-om-omkomne-p-bakken-etter-flystyrt",
-      "content": "Det er foreløpig ikke tegn til at noen på bakken ble rammet i flystyrten i Palm Beach.\n\nNi mennesker, som alle var om bord i flyet, døde i flystyrten søndag.\n\nFlyet styrtet i bakken i en bratt vinkel, med svært stor hastighet. Vrakdeler fra flyet spredte seg over et «betydelig» område, sier DeSantis.\n\n– Det er foreløpig ikke kommet rapporter om at noen på bakken omkom eller ble skadet av vrakdelene fra flyet, sier guvernøren til journalister natt til mandag.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Det er foreløpig ikke tegn til at noen på bakken ble rammet i flystyrten i Palm Beach.\n\nNi mennesker, som alle var om bord i flyet, døde i flystyrten søndag.\n\nFlyet styrtet i bakken i en bratt vinkel, med svært stor hastighet. Vrakdeler fra flyet spredte seg over et «betydelig» område, sier...",
-      "image": "https://images.unsplash.com/photo-1642508168789-010f910ce590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM1ODIzNDl8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/ikke-opplysninger-om-omkomne-pa-bakken-etter-flystyrt-1.18070855",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-02T01:19:09.541Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4275,
+    "totalFetched": 4278,
     "totalPublished": 77,
-    "lastFetch": "2026-11-06T11:53:33.840Z",
+    "lastFetch": "2026-11-06T19:00:21.021Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
