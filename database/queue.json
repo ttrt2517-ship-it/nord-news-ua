@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1794113920394.212,
+      "title": "Falsk flyalarm nord i Israel",
+      "slug": "falsk-flyalarm-nord-i-israel",
+      "content": "Flyalarmen som tidlig søndag morgen gikk nord i Israel, var falsk alarm, opplyser det israelske militæret, ifølge Reuters.\n\nAlarmene ble utløst etter mistanke om at fiendtlige droner eller fly hadde tatt seg inn over grensen.\n\nMilitæret i Israel opplyser nå at det hele skyldtes en feilvurdering, og at det ikke var noen reell fare.",
+      "excerpt": "Flyalarmen som tidlig søndag morgen gikk nord i Israel, var falsk alarm, opplyser det israelske militæret, ifølge Reuters.\n\nAlarmene ble utløst etter mistanke om at fiendtlige droner eller fly hadde tatt seg inn over grensen.\n\nMilitæret i Israel opplyser nå at det hele skyldtes en feilvurdering, og...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/falsk-flyalarm-nord-i-israel-1.18076697",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-08T04:58:40.394Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1794094132764.5269,
       "title": "Eisenkot får i oppdrag å danne regjering i Israel",
       "slug": "eisenkot-fr-i-oppdrag-danne-regjering-i-israel",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-11-03T19:13:23.500Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1793733201786.8394,
-      "title": "Bruce Springsteen frykter Trump vil gripe inn i mellomvalget",
-      "slug": "bruce-springsteen-frykter-trump-vil-gripe-inn-i-mellomvalget",
-      "content": "Rockelegenden Bruce Springsteen oppfordrer valgfunksjonærer til å motstå ethvert forsøk på innblanding fra Trump-administrasjonen.\n\n– Jeg henvender meg til valgfunksjonærer og representanter for regjeringen på valgdagen. Dere har sverget en ed om å bevare, beskytte og forsvare grunnloven vår, sier den uttalte demokraten i en Instagram-video på valgdagen.\n\nPresident Donald Trump, og flere av hans republikanske partifeller, har gjentatte ganger sådd tvil om uavhengigheten i amerikanske valg, og tatt til orde for en føderal styring av valgene – som alltid har vært administrert på delstatsnivå.\n\n«Born to Run»-sangeren er en velkjent Trump-kritiker og ga tidligere i år ut protestlåta «Streets of Minneapolis» om de to amerikanerne Renee Good og Alex Pretti som ble skutt og drept av Trumps innvandringspoliti Ice i Minnesota i januar.\n\nMellomvalg i USA\n\nDet er mellomvalg tirsdag 3. november. 435 plasser i Representanthuset og 35 av 100 plasser i Senatet står på valg.",
-      "excerpt": "Rockelegenden Bruce Springsteen oppfordrer valgfunksjonærer til å motstå ethvert forsøk på innblanding fra Trump-administrasjonen.\n\n– Jeg henvender meg til valgfunksjonærer og representanter for regjeringen på valgdagen. Dere har sverget en ed om å bevare, beskytte og forsvare grunnloven vår, sier...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/bruce-springsteen-frykter-trump-vil-gripe-inn-i-mellomvalget-1.18072755",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-03T19:13:21.786Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4291,
+    "totalFetched": 4292,
     "totalPublished": 77,
-    "lastFetch": "2026-11-07T23:28:54.653Z",
+    "lastFetch": "2026-11-08T04:58:42.679Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
