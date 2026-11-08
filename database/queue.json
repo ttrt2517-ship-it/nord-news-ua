@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1794180472195.7505,
+      "title": "IAEA: Strømmen er tilbake på atomkraftverk i Ukraina",
+      "slug": "iaea-strmmen-er-tilbake-p-atomkraftverk-i-ukraina",
+      "content": "Atomkraftverket i Zaporizjzja mistet i morges tilkoblingen til den siste eksterne strømforsyningen. Søndag kveld var strømmen tilbake.\n\nDet opplyser Det internasjonale atomenergibyrået (IAEA).\n\nDa strømmen forsvant fra kraftverket søndag morgen, måtte dieseldrevne nødaggregater tas i bruk for å lage strøm til å kjøle ned reaktorene.\n\nReservelagrene har nok diesel til å kunne operere et begrenset antall aggregater i to uker, ifølge IAEA. (NTB)\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Atomkraftverket i Zaporizjzja mistet i morges tilkoblingen til den siste eksterne strømforsyningen. Søndag kveld var strømmen tilbake.\n\nDet opplyser Det internasjonale atomenergibyrået (IAEA).\n\nDa strømmen forsvant fra kraftverket søndag morgen, måtte dieseldrevne nødaggregater tas i bruk for å...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/iaea_-strommen-er-tilbake-pa-atomkraftverk-i-ukraina-1.18076978",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-08T23:27:52.195Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1794180470479.2231,
+      "title": "Sju av ti oljepionerer har fått avslag på erstatning",
+      "slug": "sju-av-ti-oljepionerer-har-ftt-avslag-p-erstatning",
+      "content": "70 prosent av oljepionerene som har søkt om kompensasjon, har fått avslag. Bare en liten del av pengene er utbetalt, skriver Aftenposten.\n\nStortinget vedtok i fjor at oljearbeidere som ble syke av jobben i den tidlige fasen av oljeeventyret, skal få erstatning. Etterlatte kan også søke. Ordningen fikk 434 millioner kroner i 2026, men så langt er bare 49,6 millioner utbetalt.\n\nDet har kommet inn 213 søknader. Nemnda som bestemmer hvem som har rett til erstatning, har behandlet 172 av dem og avslått 120.",
+      "excerpt": "70 prosent av oljepionerene som har søkt om kompensasjon, har fått avslag. Bare en liten del av pengene er utbetalt, skriver Aftenposten.\n\nStortinget vedtok i fjor at oljearbeidere som ble syke av jobben i den tidlige fasen av oljeeventyret, skal få erstatning. Etterlatte kan også søke. Ordningen...",
+      "image": "https://images.unsplash.com/photo-1599847740927-599426b94713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQxODA0NzB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/sju-av-ti-oljepionerer-har-fatt-avslag-pa-erstatning-1.18077024",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-08T23:27:50.479Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1794180468684.1443,
+      "title": "Fem mennesker døde i Gaza etter at sandvoll kollapset",
+      "slug": "fem-mennesker-dde-i-gaza-etter-at-sandvoll-kollapset",
+      "content": "I Gaza mistet minst tre barn og to kvinner livet søndag i en hendelse som skyldtes kraftig regnvær.\n\n– En sandvoll kollapset oppå telt som huset fordrevne mennesker i en leir sør for Deir al-Balah, sa Mahmoud Bassal, som er talsmann for Gazas sivilforsvar.\n\nVideo fra åstedet viser flere titalls menn som graver i sanden med spader mens andre løfter en tung stein.\n\nTeltene til titusener av fordrevne palestinere i Gaza ble oversvømmet etter kraftig regnvær lørdag, skriver NTB.\n\nKrigen i Gaza\n\nKonflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023. Siden har Israel ført krig mot Gaza, hvor Hamas regjerer. Over 65.000 palestinere er drept, og FN har slått alarm om katastrofal sult i Gaza.",
+      "excerpt": "I Gaza mistet minst tre barn og to kvinner livet søndag i en hendelse som skyldtes kraftig regnvær.\n\n– En sandvoll kollapset oppå telt som huset fordrevne mennesker i en leir sør for Deir al-Balah, sa Mahmoud Bassal, som er talsmann for Gazas sivilforsvar.\n\nVideo fra åstedet viser flere titalls...",
+      "image": "https://images.unsplash.com/photo-1678057058628-e5669d6864ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQxODA0Njh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/fem-mennesker-dode-i-gaza-etter-at-sandvoll-kollapset-1.18077080",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-08T23:27:48.684Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1794163270852.6626,
       "title": "Elendig valg for ANC i Sør-Afrika",
       "slug": "elendig-valg-for-anc-i-srafrika",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-11-04T17:49:17.551Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1793814555840.176,
-      "title": "Mor og datter funnet døde i Canada – mistenker grizzlybjørnangrep",
-      "slug": "mor-og-datter-funnet-dde-i-canada-mistenker-grizzlybjrnangre",
-      "content": "– Det er foreløpig ikke klart om mer enn én bjørn har vært involvert, heter det i en uttalelse fra naturoppsynstjenesten i British Columbia sent tirsdag kveld.\n\nMoren og datteren hadde gått tur i nærheten av hjemmet sitt i Bella Coola. Familien meldte dem savnet søndag.\n\nDet ene offeret ble funnet mandag, mens det andre ble funnet tirsdag.\n\nI november i fjor ble en gjeng på skoletur angrepet av bjørn i samme område. Elleve personer, inkludert barn, ble skadet, og noen av dem fikk alvorlige skader.\n\nGrizzlybjørner kan være aggressive på denne tiden av året da de bygger opp fettlagrene før de går i dvale for vinteren.",
-      "excerpt": "– Det er foreløpig ikke klart om mer enn én bjørn har vært involvert, heter det i en uttalelse fra naturoppsynstjenesten i British Columbia sent tirsdag kveld.\n\nMoren og datteren hadde gått tur i nærheten av hjemmet sitt i Bella Coola. Familien meldte dem savnet søndag.\n\nDet ene offeret ble funnet...",
-      "image": "https://images.unsplash.com/photo-1780304681838-d034a83b40ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM4MTQ1NTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/mor-og-datter-funnet-dode-i-canada-_-mistenker-grizzlybjornangrep-1.18073920",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-04T17:49:15.840Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1793781848544.795,
-      "title": "&#039;This is Norway&#039;: PM Støre says the country&#039;s diversity is part of its national identity",
-      "slug": "039this-is-norway039-pm-stre-says-the-country039s-diversity-",
-      "content": "Add a comment\n                                                                                            \n                                        \n                                                                        \n                                        \n                                            \n                                        \n                                    \n                                    \n                                        \n                                            \n                                        \n                                    \n                                    \n                                        \n                                            \n                                        \n                                    \n                                \n                            \n                        \n                    \n                    \n                    \n                            \n                            Norway's Prime Minister Jonas Gahr Støre at a press conference after a meeting on the situation in Ukraine on October 20th in Oslo. Photo: Jonathan Nackstrand / AFP\n                    \n                                            \n                            \n        \n            \n            \n            \n            \n        \n        Add The Local as a preferred source\n    \n                        \n                                        \n                        Speaking at a national integration conference in Oslo, Prime Minister Jonas Gahr Støre pointed out that more than 21 percent of people in Norway now have an immigrant background, calling for unity and embracing diversity.\n\nNorwegian ​PM Støre delivered an opening speech at the annual conference of the Directorate of Integration and Diversity (Integrerings- og mangfoldsdirektoratet, or IMDi) in Oslo, declaring that Norway’s growing diversity is now a key part of the country’s identity.\n\nStøre talked about how Norway’s population has changed over the last sixty years, comparing the country he grew up in to today’s society:\n\n\"I was born in 1960. You can do the math yourselves, and in the census that year, there were 62,500 foreign-born people living in Norway. That was 1.7 percent of the population. Today, I am 66, and the total immigrant population is over 1.2 million—21.7 percent of the population.\n\n\"Out of these 1.2 million, 238,000 are Norwegian-born with an immigrant background, and 340,000 are individuals with a refugee background; that is, from 62,000 to 1.2 million. That is fundamental. And I think one of the most important things is that this is Norway, and this is who we are\" he said.\n\nStøre emphasised that immigration should not be seen as a contest between the majority and minority groups, referencing King Harald V's iconic 2016 speech on inclusivity: \"The most important thing we must do in our minds is realise that this is not an exercise of 'us versus them'—between a majority population and a minority population—because we are our country. I think King Harald phrased it very well when he said that this is us in Norway, all of us together. We share these tasks together, and we face our challenges together.\"\n\nThe speech comes during a turbulent period, as immigration is a major topic of debate both in Norway and across Europe.\n\nFriction over integration is particularly evident in current national budget talks, the rising support for the right-wing Progress Party (FrP), whose leader recently called for stricter immigration controls, and an increasingly polarising climate where several politicians with an immigrant background are quitting or considering quitting due to online harassment.\n\nYou can watch the video of the speech on the website of the newspaper Nettavisen.\n\nJoin the conversation in our comments section below. Share your own views and experience and if you have a question or suggestion for our journalists then email us at news@thelocal.no.\n                Please keep comments civil, constructive and on topic – and make sure to read our terms of use before getting involved.",
-      "excerpt": "Add a comment...",
-      "image": "https://images.unsplash.com/photo-1658156202121-dfe5315e6a79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM3ODE4NDh8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.thelocal.no/20261030/this-is-norway-pm-store-says-the-countrys-diversity-is-part-of-its-national-identity",
-      "source_name": "The Local Norway",
-      "fetched_at": "2026-11-04T08:44:08.544Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1793781844165.6726,
-      "title": "Rødt vil øke skattene med 34 milliarder",
-      "slug": "rdt-vil-ke-skattene-med-34-milliarder",
-      "content": "Rødt legger i dag frem sitt alternative statsbudsjett, hvor det kommer frem hvordan de ville styrt om partiet hadde makten alene.\n\nDe vil blant annet øke formuesskatten med 16 milliarder og ha økt skatt på utbytte.\n\n– De foreslåtte endringene øker skatteinntektene, inkludert utbytteskatt, med omtrent 34 milliarder kroner i 2027, sammenlignet med regjeringens forslag, står det i budsjettet.\n\nSamtidig sier Rødt at partiets modell ville gitt lavere skatt for alle med under 800.000 kroner i inntekt.\n\nDe vil også kutte i momsen på mat 15 til 10 prosent fra juli neste år. Partiet vil også fryse norgespris på strøm på 40 øre, pluss moms. Regjeringen har foreslått en økning til 45 øre.\n\nRegjeringen er avhengig av Rødt for å få flertall for sitt budsjett. Forhandlingene starter fredag.\n\nPartiet Rødt\n\nPartiet Rødt ble stiftet i mars 2007 på grunnlag av Rød Valgallianse og AKP, med Rød ungdom som ungdomsorganisasjon. I 2025 gjorde partiet sitt beste valg noensinne, med 5,3 prosent oppslutning.",
-      "excerpt": "Rødt legger i dag frem sitt alternative statsbudsjett, hvor det kommer frem hvordan de ville styrt om partiet hadde makten alene.\n\nDe vil blant annet øke formuesskatten med 16 milliarder og ha økt skatt på utbytte.\n\n– De foreslåtte endringene øker skatteinntektene, inkludert utbytteskatt, med...",
-      "image": "https://images.unsplash.com/photo-1619861907071-926d3117af64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM3ODE4NDR8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/rodt-vil-oke-skattene-med-34-milliarder-1.18073158",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-04T08:44:04.165Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4298,
+    "totalFetched": 4301,
     "totalPublished": 77,
-    "lastFetch": "2026-11-08T18:41:12.346Z",
+    "lastFetch": "2026-11-08T23:27:53.866Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
