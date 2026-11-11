@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1794373754066.775,
+      "title": "Dronangrep mørkla deler av Zelenskyjs hjemby",
+      "slug": "dronangrep-mrkla-deler-av-zelenskyjs-hjemby",
+      "content": "Strømmen gikk i deler av den sentralukrainske byen Kryvyj Rih etter et droneangrep, opplyste lederen for byens forsvarsråd, Oleksandr Vilkul, på Telegram natt til onsdag.\n\nAngrepet rammet også vann- og varmeforsyningen, ifølge Vilkul.\n\n– Vi stabiliserer vann- og kloakksystemene ved hjelp av generatorer. Varmeforsyningen blir mer utfordrende. Boligblokker, skoler og barnehager har fått skader, sa Vilkul.\n\nMannskaper fra alle berørte energi- og forsyningstjenester er i arbeid, la han til.\n\nKryvyj Rih er et viktig industrielt knutepunkt i Ukraina og president Volodymyr Zelenskyjs hjemby.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Strømmen gikk i deler av den sentralukrainske byen Kryvyj Rih etter et droneangrep, opplyste lederen for byens forsvarsråd, Oleksandr Vilkul, på Telegram natt til onsdag.\n\nAngrepet rammet også vann- og varmeforsyningen, ifølge Vilkul.\n\n– Vi stabiliserer vann- og kloakksystemene ved hjelp av...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/dronangrep-morkla-deler-av-zelenskyjs-hjemby-1.18078854",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-11T05:09:14.066Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1794373752445.185,
+      "title": "Senator: – Nvidia-direktøren må gå av",
+      "slug": "senator-nvidiadirektren-m-g-av",
+      "content": "FBI undersøker Nvidia-direktør Jensen Huangs forhold til en kinesisk forretningskvinne som angivelig skal være spion for Beijing, sa president Donald Trump mandag.\n\nIfølge nyhetsnettstedet Politico oppfordrer den republikanske amerikanske senatoren Kevin Cramer Huang til å gå av som administrerende direktør i Nvidia.\n\n– Huang må bare gå av, fordi potensialet for utpressing er enormt når det gjelder noe så sensitivt som Nvidia-brikker, sa Cramer til nyhetsmediet, ifølge Reuters.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "FBI undersøker Nvidia-direktør Jensen Huangs forhold til en kinesisk forretningskvinne som angivelig skal være spion for Beijing, sa president Donald Trump mandag.\n\nIfølge nyhetsnettstedet Politico oppfordrer den republikanske amerikanske senatoren Kevin Cramer Huang til å gå av som administrerende...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/senator_-_-nvidia-direktoren-ma-ga-av---1.18078859",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-11T05:09:12.445Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1794373750890.1113,
+      "title": "Russiske medier: To drept av dronerester i Russland",
+      "slug": "russiske-medier-to-drept-av-dronerester-i-russland",
+      "content": "Dronerester tok livet av to personer etter å ha truffet en boligblokk i Smolensk-regionen vest i Russland, melder det statlige nyhetsbyrået Tass onsdag morgen.\n\nOgså den russiske oljehavnen Ust-Luga i Østersjøen ble rammet av et droneangrep, ifølge fylkesguvernør Aleksandr Drozdenko.\n\n– Et angrep med ubemannede luftfartøy rammet havneområdet i Ust-Luga og forårsaket en brann, skriver Drozdenko på Telegram onsdag morgen.\n\nHavnen er et av Russlands viktigste knutepunkter for oljeeksport mot vest, og har gjentatte ganger vært mål for ukrainske angrep.\n\nI Ukraina ble president Volodymyr Zelenskyjs hjemby delvis mørklagt etter et droneangrep noen timer tidligere.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
+      "excerpt": "Dronerester tok livet av to personer etter å ha truffet en boligblokk i Smolensk-regionen vest i Russland, melder det statlige nyhetsbyrået Tass onsdag morgen.\n\nOgså den russiske oljehavnen Ust-Luga i Østersjøen ble rammet av et droneangrep, ifølge fylkesguvernør Aleksandr Drozdenko.\n\n– Et angrep...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/russiske-medier_-to-drept-av-dronerester-i-russland-1.18078858",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-11T05:09:10.890Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1794351399903.4429,
       "title": "Last call to take Norway&#039;s citizenship and social studies tests in 2026",
       "slug": "last-call-to-take-norway039s-citizenship-and-social-studies-",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-11-06T11:53:28.671Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1793966007021.8506,
-      "title": "Helene Bøksle nominert til musikkpris",
-      "slug": "helene-bksle-nominert-til-musikkpris",
-      "content": "Helene Bøksle og Kringkastingsorkestret (KORK) er nominert til Hollywood Music in Media Awards, skriver Fædrelandsvennen.\n\nHun er nominert i kategorien «Live Concert for Visual Media» for en musikkframføring sammen med Knut Avenstroup Haugen.\n\nMusikken ble framført av Kringkastingsorkestret og sendt på NRK i oktober.\n\n– Jeg kan nesten ikke tro det er sant. Det er en stor ære å bli nominert til Hollywood Music in Media Awards, sier Bøksle i en pressemelding.",
-      "excerpt": "Helene Bøksle og Kringkastingsorkestret (KORK) er nominert til Hollywood Music in Media Awards, skriver Fædrelandsvennen.\n\nHun er nominert i kategorien «Live Concert for Visual Media» for en musikkframføring sammen med Knut Avenstroup Haugen.\n\nMusikken ble framført av Kringkastingsorkestret og...",
-      "image": null,
-      "original_url": "https://www.nrk.no/sorlandet/helene-boksle-nominert-til-musikkpris--1.18075670",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-06T11:53:27.021Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1793966005409.1982,
-      "title": "SVT: Sverigedemokraterna slepp på krava i regjeringsforhandling",
-      "slug": "svt-sverigedemokraterna-slepp-p-krava-i-regjeringsforhandlin",
-      "content": "Det kan bli enklare for den førre statsministeren, Ulf Kristersson å danne regjering etter i dag.\n\nSD krev ikkje lenger å få ministerpostar i regjering. Det kan løyse dei lange regjeringsforhandlingane i Sverige.\n\nCenterpartiet nektar å vere i regjering med SD. No dukkar SD-leiaren unna, slik at Centerpartiet kan gå i regjering med Moderaterna med Ulf Kristersson som statsminister.\n\nI utgangspunktet vil Centerpartiet støtte Socialdemokratiet sin kandidat, Magdalena Andersson.\n\nSverige har stått utan regjering sidan valet, mange parti har lovd å ikkje samarbeide med andre i valkampen, som har gjort at det har stått fast.",
-      "excerpt": "Det kan bli enklare for den førre statsministeren, Ulf Kristersson å danne regjering etter i dag.\n\nSD krev ikkje lenger å få ministerpostar i regjering. Det kan løyse dei lange regjeringsforhandlingane i Sverige.\n\nCenterpartiet nektar å vere i regjering med SD. No dukkar SD-leiaren unna, slik at...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/svt_-sverigedemokraterna-slepp-pa-krava-i-regjeringsforhandling-1.18075691",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-06T11:53:25.409Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1793930473767.7463,
-      "title": "NYT: Rubio sier han ikke vil gå av",
-      "slug": "nyt-rubio-sier-han-ikke-vil-g-av",
-      "content": "USAs utenriksminister Marco Rubio avviser meldinger om at han vil slutte i jobben for å stille som presidentkandidat.\n\nRubio sier at planen hans hele tiden har vært å jobbe for president Donald Trump ut hele presidentperioden.\n\nUttalelsen kommer etter medieoppslag om at han vurderte å forlate regjeringen.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "USAs utenriksminister Marco Rubio avviser meldinger om at han vil slutte i jobben for å stille som presidentkandidat.\n\nRubio sier at planen hans hele tiden har vært å jobbe for president Donald Trump ut hele presidentperioden.\n\nUttalelsen kommer etter medieoppslag om at han vurderte å forlate...",
-      "image": "https://images.unsplash.com/photo-1698083781385-a8a7069c5cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM5MzA0NzN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/nyt_-rubio-sier-han-ikke-vil-ga-av-1.18075249",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-06T02:01:13.767Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4320,
+    "totalFetched": 4323,
     "totalPublished": 77,
-    "lastFetch": "2026-11-10T22:56:40.904Z",
+    "lastFetch": "2026-11-11T05:09:15.982Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
