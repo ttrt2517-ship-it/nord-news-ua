@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1794617082792.5376,
+      "title": "Trump, Xi og Putin møtes til samtaler i Kina",
+      "slug": "trump-xi-og-putin-mtes-til-samtaler-i-kina",
+      "content": "USAs president Donald Trump, Kinas president Xi Jinping og Russlands president Vladimir Putin skal ha felles samtaler torsdag i den kinesiske byen Shenzhen, bekrefter Det hvite hus.\n\nMøtet skjer i forbindelse med Apec-toppmøtet i byen.\n\n– Presidenten har gjort det klart at han blant annet vil diskutere reduksjon av atomvåpen i verden. Denne spredningen mener president Trump er svært farlig, sa talskvinne for Det hvite hus Olivia Wales til pressen.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nKrigen i Midtøsten\n\n28. februar utførte Israel og USA et koordinert angrep mot Iran. I tillegg har de to landene angrepet mål i Libanon. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.\n\nKina\n\nKina er verdens nest mest folkerike land, og blant de eldste kontinuerlige sivilisasjonene i verden. Landet ledes av kommunistpartiet og president Xi Jinping, som er den første lederen siden formann Mao som har sittet i tre 5-årsperioder.",
+      "excerpt": "USAs president Donald Trump, Kinas president Xi Jinping og Russlands president Vladimir Putin skal ha felles samtaler torsdag i den kinesiske byen Shenzhen, bekrefter Det hvite hus.\n\nMøtet skjer i forbindelse med Apec-toppmøtet i byen.\n\n– Presidenten har gjort det klart at han blant annet vil...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/trump_-xi-og-putin-motes-til-samtaler-i-kina-1.18081715",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-14T00:44:42.792Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1794617081219.305,
+      "title": "Enkelte fly får nå ta av i USA",
+      "slug": "enkelte-fly-fr-n-ta-av-i-usa",
+      "content": "Flere fly igjen ta av fra flere av de største flyplassene i USA. Dette gjelder blant annet avganger fra San Francisco og Los Angeles, ifølge Flightradar 24.\n\nDen internasjonale flyplassen i San Francisco opplyser at fly som skal over Stillehavet, blant annet til Hawaii og Asia, har fått klarsignal.\n\nStansen skyldtes problemer med kommunikasjonen hos lufttrafikktjenesten.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Flere fly igjen ta av fra flere av de største flyplassene i USA. Dette gjelder blant annet avganger fra San Francisco og Los Angeles, ifølge Flightradar 24.\n\nDen internasjonale flyplassen i San Francisco opplyser at fly som skal over Stillehavet, blant annet til Hawaii og Asia, har fått...",
+      "image": "https://images.unsplash.com/photo-1641341155664-d8956cfd232b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ2MTcwODF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/enkelte-fly-far-na-ta-av-i-usa-1.18081719",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-14T00:44:41.219Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1794617079532.625,
+      "title": "Alle fly fra Europa til USA innstilt",
+      "slug": "alle-fly-fra-europa-til-usa-innstilt",
+      "content": "Alle fly fra Europa til USA er innstilt som følge av kommunikasjonsproblemene i systemene i USA, opplyser Eurocontrol.\n\nInnstillingene gjelder alle Eurocontrols 42 medlemsland, blant annet Norge.\n\nIfølge Reuters skjer innstillingene etter anmodning fra Det amerikanske luftfartstilsynet (FAA).\n\nFAA har utstedt ordre om at alle fly skal settes på bakken i USA på grunn av svikt i flygeledernes kommunikasjonssystemer.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "excerpt": "Alle fly fra Europa til USA er innstilt som følge av kommunikasjonsproblemene i systemene i USA, opplyser Eurocontrol.\n\nInnstillingene gjelder alle Eurocontrols 42 medlemsland, blant annet Norge.\n\nIfølge Reuters skjer innstillingene etter anmodning fra Det amerikanske luftfartstilsynet (FAA).\n\nFAA...",
+      "image": "https://images.unsplash.com/photo-1586711290195-8e73d2758c77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ2MTcwNzl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/alle-fly-fra-europa-til-usa-innstilt-1.18081720",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-14T00:44:39.532Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1794597948291.5886,
       "title": "Thore «Henki» Holm Hansen er død",
       "slug": "thore-henki-holm-hansen-er-dd",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-11-09T15:29:32.445Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1794238170961.8855,
-      "title": "Ansatt ved Zaporizjzja-atomkraftverket drept i droneangrep",
-      "slug": "ansatt-ved-zaporizjzjaatomkraftverket-drept-i-droneangrep",
-      "content": "En ansatt ved Zaporizjzja-atomkraftverket i Ukraina er drept i et droneangrep i dag, ifølge det internasjonale atomenergibyrået (IAEA). Det skriver Reuters.\n\nRussland tok kontroll over kraftverket kort tid etter fullskala invasjonen av Ukraina i 2022.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "En ansatt ved Zaporizjzja-atomkraftverket i Ukraina er drept i et droneangrep i dag, ifølge det internasjonale atomenergibyrået (IAEA). Det skriver Reuters.\n\nRussland tok kontroll over kraftverket kort tid etter fullskala invasjonen av Ukraina i 2022.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/ansatt-ved-zaporizjzja-atomkraftverket-drept-i-droneangrep-1.18077608",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-09T15:29:30.961Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1794238169291.813,
-      "title": "Fellesforbundet trapper opp sympatistreik",
-      "slug": "fellesforbundet-trapper-opp-sympatistreik",
-      "content": "Fellesforbundet sier mandag at de vil trappe opp sympatristreiken med SAS Link-ansatte ytterligere. Fra 24. november klokka 04.00 tar de ut 610 medlemmer i streik, skriver de i en pressemelding.\n\n28. oktober ble 24 kabinansatte i datterselskapet SAS Link tatt ut i streik.\n\nSAS sa da at de forventet begrensede konsekvenser for flytrafikken.",
-      "excerpt": "Fellesforbundet sier mandag at de vil trappe opp sympatristreiken med SAS Link-ansatte ytterligere. Fra 24. november klokka 04.00 tar de ut 610 medlemmer i streik, skriver de i en pressemelding.\n\n28. oktober ble 24 kabinansatte i datterselskapet SAS Link tatt ut i streik.\n\nSAS sa da at de forventet...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/fellesforbundet-trapper-opp-sympatistreik-1.18077613",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-09T15:29:29.291Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1794200859112.389,
-      "title": "Guvernør: Droner traff industriområde i Russland",
-      "slug": "guvernr-droner-traff-industriomrde-i-russland",
-      "content": "Flere droner har truffet et industriområde i Kirisji i Leningrad-regionen nordvest i Russland, ifølge guvernør Aleksandr Drozdenko i Leningrad-regionen.\n\nPå meldingstjenesten Telegram skriver han at 81 droner så langt er skutt ned, og at angrepet fortsatt pågikk.\n\nLeningrad-regionen huser blant annet eksportanlegg for korn og olje, samt et stort oljeraffineri, skriver NTB.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Flere droner har truffet et industriområde i Kirisji i Leningrad-regionen nordvest i Russland, ifølge guvernør Aleksandr Drozdenko i Leningrad-regionen.\n\nPå meldingstjenesten Telegram skriver han at 81 droner så langt er skutt ned, og at angrepet fortsatt pågikk.\n\nLeningrad-regionen huser blant...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/guvernor_-droner-traff-industriomrade-i-russland-1.18077087",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-09T05:07:39.112Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4353,
+    "totalFetched": 4356,
     "totalPublished": 77,
-    "lastFetch": "2026-11-13T19:25:50.251Z",
+    "lastFetch": "2026-11-14T00:44:44.896Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
