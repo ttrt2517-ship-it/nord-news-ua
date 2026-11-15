@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1794786559237.327,
+      "title": "Demonstrasjoner mot mediepolitikk i Tsjekkia",
+      "slug": "demonstrasjoner-mot-mediepolitikk-i-tsjekkia",
+      "content": "Over 200.000 personer møtte opp i en demonstrasjon i Tsjekkias hovedstad Praha søndag, ifølge arrangørene selv.\n\nDemonstrantene er kritiske til regjeringens planer om å avvikle kringkastingsavgiften og flytte finansieringen til statsbudsjettet.\n\nKritikerne frykter at dette vil redusere kringkasterens uavhengighet.\n\nDen høyreorienterte koalisjonsregjeringen i Tsjekkia, som ledes av milliardæren Andrej Babis, sier planene ikke vil påvirke den redaksjonelle uavhengigheten, melder BBC.",
+      "excerpt": "Over 200.000 personer møtte opp i en demonstrasjon i Tsjekkias hovedstad Praha søndag, ifølge arrangørene selv.\n\nDemonstrantene er kritiske til regjeringens planer om å avvikle kringkastingsavgiften og flytte finansieringen til statsbudsjettet.\n\nKritikerne frykter at dette vil redusere...",
+      "image": "https://images.unsplash.com/photo-1750261346670-87ee500250d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ3ODY1NTl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/demonstrasjoner-mot-mediepolitikk-i-tsjekkia-1.18082450",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-15T23:49:19.238Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1794786557626.3132,
+      "title": "Kapp Verdes president gjenvalgt",
+      "slug": "kapp-verdes-president-gjenvalgt",
+      "content": "Presidenten i Kapp Verde er gjenvalgt, ifølge foreløpige tall fra landets valgkommisjon.\n\n63,8 prosent av stemmene som ble avlagt i den afrikanske øygruppen i Atlanterhavet gikk til landets sittende president Jose Maria Neves, ifølge de foreløpige tallene.\n\nKapp Verde er en tidligere portugisisk koloni. Landet regnes av eksperter som et stabilt demokrati.\n\nKapp Verde\n\nKapp Verde-øyene liggerr 600 kilometer ut i Atlanterhavet fra Senegal.",
+      "excerpt": "Presidenten i Kapp Verde er gjenvalgt, ifølge foreløpige tall fra landets valgkommisjon.\n\n63,8 prosent av stemmene som ble avlagt i den afrikanske øygruppen i Atlanterhavet gikk til landets sittende president Jose Maria Neves, ifølge de foreløpige tallene.\n\nKapp Verde er en tidligere portugisisk...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/kapp-verdes-president-gjenvalgt-1.18082459",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-15T23:49:17.626Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1794771412827.111,
       "title": "Tidligere høyesterettsadvokat Ole Lund er død",
       "slug": "tidligere-hyesterettsadvokat-ole-lund-er-dd",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-11-11T13:44:00.423Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1794373754066.775,
-      "title": "Dronangrep mørkla deler av Zelenskyjs hjemby",
-      "slug": "dronangrep-mrkla-deler-av-zelenskyjs-hjemby",
-      "content": "Strømmen gikk i deler av den sentralukrainske byen Kryvyj Rih etter et droneangrep, opplyste lederen for byens forsvarsråd, Oleksandr Vilkul, på Telegram natt til onsdag.\n\nAngrepet rammet også vann- og varmeforsyningen, ifølge Vilkul.\n\n– Vi stabiliserer vann- og kloakksystemene ved hjelp av generatorer. Varmeforsyningen blir mer utfordrende. Boligblokker, skoler og barnehager har fått skader, sa Vilkul.\n\nMannskaper fra alle berørte energi- og forsyningstjenester er i arbeid, la han til.\n\nKryvyj Rih er et viktig industrielt knutepunkt i Ukraina og president Volodymyr Zelenskyjs hjemby.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Strømmen gikk i deler av den sentralukrainske byen Kryvyj Rih etter et droneangrep, opplyste lederen for byens forsvarsråd, Oleksandr Vilkul, på Telegram natt til onsdag.\n\nAngrepet rammet også vann- og varmeforsyningen, ifølge Vilkul.\n\n– Vi stabiliserer vann- og kloakksystemene ved hjelp av...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/dronangrep-morkla-deler-av-zelenskyjs-hjemby-1.18078854",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-11T05:09:14.066Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1794373752445.185,
-      "title": "Senator: – Nvidia-direktøren må gå av",
-      "slug": "senator-nvidiadirektren-m-g-av",
-      "content": "FBI undersøker Nvidia-direktør Jensen Huangs forhold til en kinesisk forretningskvinne som angivelig skal være spion for Beijing, sa president Donald Trump mandag.\n\nIfølge nyhetsnettstedet Politico oppfordrer den republikanske amerikanske senatoren Kevin Cramer Huang til å gå av som administrerende direktør i Nvidia.\n\n– Huang må bare gå av, fordi potensialet for utpressing er enormt når det gjelder noe så sensitivt som Nvidia-brikker, sa Cramer til nyhetsmediet, ifølge Reuters.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "FBI undersøker Nvidia-direktør Jensen Huangs forhold til en kinesisk forretningskvinne som angivelig skal være spion for Beijing, sa president Donald Trump mandag.\n\nIfølge nyhetsnettstedet Politico oppfordrer den republikanske amerikanske senatoren Kevin Cramer Huang til å gå av som administrerende...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/senator_-_-nvidia-direktoren-ma-ga-av---1.18078859",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-11T05:09:12.445Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4371,
+    "totalFetched": 4373,
     "totalPublished": 77,
-    "lastFetch": "2026-11-15T19:36:54.914Z",
+    "lastFetch": "2026-11-15T23:49:21.182Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
