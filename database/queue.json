@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1795210930825.0442,
+      "title": "Anthropic stuper dagen etter børsnotering",
+      "slug": "anthropic-stuper-dagen-etter-brsnotering",
+      "content": "Anthropic, selskapet bak språkmodellen Claude, sto torsdag for verdens største børsnotering.\n\nDagen etter stuper imidlertid aksjen over ni prosent ved børsåpning klokken 15.30 norsk tid.\n\n– Det virker åpenbart at investorene er veldig usikre, sier Joachim Bernhardsen, sjefstrateg i Nordea Wealth Management, til E24.",
+      "excerpt": "Anthropic, selskapet bak språkmodellen Claude, sto torsdag for verdens største børsnotering.\n\nDagen etter stuper imidlertid aksjen over ni prosent ved børsåpning klokken 15.30 norsk tid.\n\n– Det virker åpenbart at investorene er veldig usikre, sier Joachim Bernhardsen, sjefstrateg i Nordea Wealth...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/anthropic-stuper-dagen-etter-borsnotering-1.18086018",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-20T21:42:10.825Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1795210929143.9424,
+      "title": "Klimatoppmøtet på overtid",
+      "slug": "klimatoppmtet-p-overtid",
+      "content": "Klimatoppmøtet i den tyrkiske byen Antalya skulle vært avsluttet i ettermiddag, men det skjer neppe.\n\n– Intensiteten i forhandlingene stiger alltid når møtet nærmer seg slutten. Jeg forventer at det vil fortsette på overtid inn i nattetimene, sier klima- og miljøminister Sigrun Aasland (Ap).\n\nSpørsmålet nå er hva som skal være med slutterklæringen fra COP31.\n\n– Det er særlig formuleringer om hvordan verden skal løse energiomstillingen, produsere mer fornybar energi og økt elektrifisering som er vanskelige, sier Aasland.\n\n– Norge er også opptatt av å sikre at vitenskapen fortsatt skal danne grunnlag for alle beslutninger under Parisavtalen. Det er dessuten viktig at de fattige landenes krav om økonomisk hjelp til konsekvensene av klimaendringene – slik som flom, tørke og ekstremvær – løses på en god måte.\n\nKlima og miljø\n\nVerden opplever allerede klimaendringene, slår FNs klimapanel fast. Mer ekstremvær, høyere havnivå og økte helseproblemer er noen av konsekvensene, ifølge deres siste hovedrapport.",
+      "excerpt": "Klimatoppmøtet i den tyrkiske byen Antalya skulle vært avsluttet i ettermiddag, men det skjer neppe.\n\n– Intensiteten i forhandlingene stiger alltid når møtet nærmer seg slutten. Jeg forventer at det vil fortsette på overtid inn i nattetimene, sier klima- og miljøminister Sigrun Aasland...",
+      "image": "https://images.unsplash.com/photo-1596408954796-e2a304fb6ed4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUyMTA5Mjl8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/klimatoppmotet-pa-overtid-1.18086029",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-20T21:42:09.143Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1795210927456.6082,
+      "title": "NSM: Equinor-angrep var rettet mot Microsoft-tjeneste",
+      "slug": "nsm-equinorangrep-var-rettet-mot-microsofttjeneste",
+      "content": "Cyberangrepet mot Equinor var rettet mot en Microsoft-tjeneste, ifølge Nasjonal sikkerhetsmyndighet.\n\nEquinor og Skagerak Energi ble rammet av samme angrep, ifølge NSM.\n\nDe beskriver hva slags cyberangrep de ble rammet av:\n\nDet var mot Azure API Management, en tjeneste fra Microsoft for å holde kontroll på og overvåke API-er.\n\nSlike API-er er mellomlaget mellom ulike programvaresystemer som lar dem snakke sammen og utveksle data.",
+      "excerpt": "Cyberangrepet mot Equinor var rettet mot en Microsoft-tjeneste, ifølge Nasjonal sikkerhetsmyndighet.\n\nEquinor og Skagerak Energi ble rammet av samme angrep, ifølge NSM.\n\nDe beskriver hva slags cyberangrep de ble rammet av:\n\nDet var mot Azure API Management, en tjeneste fra Microsoft for å holde...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/nsm_-equinor-angrep-var-rettet-mot-microsoft-tjeneste-1.18086099",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-20T21:42:07.456Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1795178070017.9922,
       "title": "Today in Norway: A roundup of the latest news on Friday",
       "slug": "today-in-norway-a-roundup-of-the-latest-news-on-friday",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-11-14T22:03:31.975Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1794673481964.1062,
-      "title": "Sør-Sudan utsetter valget",
-      "slug": "srsudan-utsetter-valget",
-      "content": "I Sør-Sudan er valget på nytt parlament og ny president utsatt fra desember til februar. Det får nyhetsbyrået Reuters bekreftet av landets valgkommisjon.\n\nValget – som allerede er blitt utsatt en gang – skulle etter planen funnet sted 22. desember. Den nye datoen blir 11. februar neste år.\n\nValgkommisjonen begrunner utsettelsen med at det trengs mer tid til forberedelsene.\n\nI september uttalte FN-kommisjonen som overvåker og rapporterer om menneskerettighetene i Sør-Sudan at landet ikke var klar til å kunne gjennomføre et fritt og fredelige valg.\n\nValget blir det første siden landet ble selvstendig i 2011.\n\nI 2013 førte en konflikt mellom president Salva Kiir og visepresident Riek Machar til en fem år lang borgerkrig.\n\nSør-Sudan\n\nSør-Sudan er preget av uro og konflikt på grunn av flere års borgerkrig. Ifølge FN forekommer det ofte seksuell vold, sult og brudd på menneskerettighetene i landet. I høst pågår det fredssamtaler mellom regjeringen og opprørsledere.",
-      "excerpt": "I Sør-Sudan er valget på nytt parlament og ny president utsatt fra desember til februar. Det får nyhetsbyrået Reuters bekreftet av landets valgkommisjon.\n\nValget – som allerede er blitt utsatt en gang – skulle etter planen funnet sted 22. desember. Den nye datoen blir 11. februar neste...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/sor-sudan-utsetter-valget-1.18081952",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-14T16:24:41.964Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1794673480356.2688,
-      "title": "Trump, Xi og Putin møtes 19. november.",
-      "slug": "trump-xi-og-putin-mtes-19-november",
-      "content": "Det planlagte møtet mellom presidentene Donald Trump, Xi Jinping og Vladimir Putin vil finne sted 19.november under APEC-møtet i den kinesiske byen Shenzhen.\n\nDet melder det russiske nyhetsbyrået RIA, som siterer en talsmann for Kreml.\n\nDet hvite hus har opplyst at den amerikanske presidenten vil diskutere reduksjon av atomvåpen i verden.\n\nUSAs president Donald Trump møter Kinas president Xi Jinping og Russlands president Vladimir Putin i Kina i neste uke.\n\nKina\n\nKina er verdens nest mest folkerike land, og blant de eldste kontinuerlige sivilisasjonene i verden. Landet ledes av kommunistpartiet og president Xi Jinping, som er den første lederen siden formann Mao som har sittet i tre 5-årsperioder.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "Det planlagte møtet mellom presidentene Donald Trump, Xi Jinping og Vladimir Putin vil finne sted 19.november under APEC-møtet i den kinesiske byen Shenzhen.\n\nDet melder det russiske nyhetsbyrået RIA, som siterer en talsmann for Kreml.\n\nDet hvite hus har opplyst at den amerikanske presidenten vil...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/trump_-xi-og-putin-motes-19.-november.--1.18081954",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-14T16:24:40.356Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1794673478801.179,
-      "title": "Kraftig brann i Lillestrøm",
-      "slug": "kraftig-brann-i-lillestrm",
-      "content": "Det brenner kraftig i en enebolig på en gård i Trondheimsveien i Lillestrøm.\n\n– Det er full fyr i hele bygningen, opplyser oppdragsleder i politiet, Ronny Mangseth.\n\n– Brannvesenet er fremme og er i gang med slukking. Det er kontroll på alle fire beboere på stedet, sier han.\n\nDet skal ikke være fare for spredning til låve eller andre bygninger på gården.",
-      "excerpt": "Det brenner kraftig i en enebolig på en gård i Trondheimsveien i Lillestrøm.\n\n– Det er full fyr i hele bygningen, opplyser oppdragsleder i politiet, Ronny Mangseth.\n\n– Brannvesenet er fremme og er i gang med slukking. Det er kontroll på alle fire beboere på stedet, sier han.\n\nDet skal ikke være...",
-      "image": null,
-      "original_url": "https://www.nrk.no/stor-oslo/kraftig-brann-i-lillestrom-1.18081998",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-14T16:24:38.801Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4408,
+    "totalFetched": 4411,
     "totalPublished": 77,
-    "lastFetch": "2026-11-20T12:34:31.018Z",
+    "lastFetch": "2026-11-20T21:42:12.662Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
