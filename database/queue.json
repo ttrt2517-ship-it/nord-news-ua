@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "id": 1795229994790.244,
+      "title": "AP om budsjettforhandlingene: Fortsetter utover fristen",
+      "slug": "ap-om-budsjettforhandlingene-fortsetter-utover-fristen",
+      "content": "Aps finanspolitiske talsperson Tuva Moflag sier til NRK at budsjettforhandlingene fortsetter utover fristen klokka 23.\n\n– Vi fortsetter arbeidet med å komme til enighet med de rødgrønne partiene. Det er helt naturlig at uenighetene i enkelte saker blir tydeligere i denne fasen av forhandlingene. Vårt mål er å finne gode løsninger som alle partiene kan stille seg bak, sier Tuva Moflag i Arbeiderpartiet.",
+      "excerpt": "Aps finanspolitiske talsperson Tuva Moflag sier til NRK at budsjettforhandlingene fortsetter utover fristen klokka 23.\n\n– Vi fortsetter arbeidet med å komme til enighet med de rødgrønne partiene. Det er helt naturlig at uenighetene i enkelte saker blir tydeligere i denne fasen av forhandlingene....",
+      "image": "https://images.unsplash.com/photo-1582753799950-e73309a50b3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUyMjk5OTR8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/ap-om-budsjettforhandlingene_-fortsetter-utover-fristen-1.18086191",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-21T02:59:54.790Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1795229993010.713,
+      "title": "Saudi-Arabia: Har skutt ned houthi-missiler",
+      "slug": "saudiarabia-har-skutt-ned-houthimissiler",
+      "content": "Tre missiler som hadde retning mot Saudi-Arabias hovedstad Riyadh er skutt ned.\n\nDet sier den saudiledede militærkoalisjonen, som en i pågående væpnet konflikt med houthi-militsen.\n\nI tillegg skal det vært hørt flere eksplosjoner i Riyadh, melder Reuters.\n\nSaudi-Arabia gikk til krig mot houthi-militsen i Jemen i 2015. Etter sju år med krig avtalte partene en våpenhvile i 2022.\n\nSaudi-Arabia\n\nSaudi-Arabia er et dypt religiøst monarki i Midtøsten. Det islamske landet er ofte kritisert for at kvinner har svært innskrenkede rettigheter. Landet har enorme oljeforekomster.",
+      "excerpt": "Tre missiler som hadde retning mot Saudi-Arabias hovedstad Riyadh er skutt ned.\n\nDet sier den saudiledede militærkoalisjonen, som en i pågående væpnet konflikt med houthi-militsen.\n\nI tillegg skal det vært hørt flere eksplosjoner i Riyadh, melder Reuters.\n\nSaudi-Arabia gikk til krig mot...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/saudi-arabia_-har-skutt-ned-houthi-missiler-1.18086194",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-21T02:59:53.010Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1795229991434.9414,
+      "title": "Jair Bolsonaro til sykehus med magesmerter",
+      "slug": "jair-bolsonaro-til-sykehus-med-magesmerter",
+      "content": "Brasils tidligere president Jair Bolsonaro er lagt inn på sykehus med sterke magesmerter, opplyser sønnen hans på X.\n\nBolsonaro har hatt mageproblemer etter at han ble knivstukket under presidentvalgkampen i Brasil 2016.\n\nHan har også tidligere blitt lagt inn med magesmerter knyttet til skaden fra knivstikkingen.\n\nDen tidligere presidenten soner en 27 år lang fengselsdom for kuppforsøk.\n\nBrasil\n\nPresident Lula da Silva vant presidentvalget i Brasil i oktober og ble innsatt 1. januar 2023. 8. januar gikk støttespillere av tidligere president Jair Bolsonaro til angrep på Kongressen, presidentpalasset og høyesterett i hoevdstaden Brasília.",
+      "excerpt": "Brasils tidligere president Jair Bolsonaro er lagt inn på sykehus med sterke magesmerter, opplyser sønnen hans på X.\n\nBolsonaro har hatt mageproblemer etter at han ble knivstukket under presidentvalgkampen i Brasil 2016.\n\nHan har også tidligere blitt lagt inn med magesmerter knyttet til skaden fra...",
+      "image": "https://images.unsplash.com/photo-1657788913371-1f2051447e55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUyMjk5OTF8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/jair-bolsonaro-til-sykehus-med-magesmerter-1.18086209",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-21T02:59:51.435Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1795210930825.0442,
       "title": "Anthropic stuper dagen etter børsnotering",
       "slug": "anthropic-stuper-dagen-etter-brsnotering",
@@ -610,51 +649,12 @@
       "fetched_at": "2026-11-15T05:23:06.897Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1794693815365.447,
-      "title": "Nye demonstrasjoner i Frankrike",
-      "slug": "nye-demonstrasjoner-i-frankrike",
-      "content": "Rundt 106.000 personer har deltatt i lørdagens demonstrasjoner, ifølge landets innenriksdepartement.\n\nAnslaget til departementet er rundt det halve av hva arrangørene oppgir. De mener vel 200.000 deltok i de mer enn 50 demonstrasjonstogene rundt om i Frankrike.\n\n70.000 politifolk og soldater er utkommandert for å hindre uroligheter.\n\nDemonstrasjonene har for det meste gått fredelig for seg, men politiet skal ha brukt tåregass ved enkelte hendelser i Paris, Bordeaux og Nantes.\n\nI Lyon måtte politiet gripe inn for å beskytte journalister mot angrep fra noen av demonstrantene, ifølge lokale myndigheter.\n\nElever, fagforeninger, og aktivister fra de gule vestene fortsetter å protestere mot dårlige forhold i de franske skolene og økte levekostnader.",
-      "excerpt": "Rundt 106.000 personer har deltatt i lørdagens demonstrasjoner, ifølge landets innenriksdepartement.\n\nAnslaget til departementet er rundt det halve av hva arrangørene oppgir. De mener vel 200.000 deltok i de mer enn 50 demonstrasjonstogene rundt om i Frankrike.\n\n70.000 politifolk og soldater er...",
-      "image": "https://images.unsplash.com/photo-1536683402757-75f8d0dfa419?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ2OTM4MTV8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/nye-demonstrasjoner-i-frankrike-1.18081978",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-14T22:03:35.365Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1794693813674.031,
-      "title": "Flystansen i USA: Bytting av kabel mulig årsak",
-      "slug": "flystansen-i-usa-bytting-av-kabel-mulig-rsak",
-      "content": "USAs transportminister Sean Duffy sier utskiftning av en kobbertråd kan være årsaken til den omfattende flystansen fredag.\n\nFlere enn 15.000 flygninger ble forsinket eller innstilt da amerikanske luftfartsmyndigheter FAA i fire timer nektet alle fly å ta av på grunn av forstyrrelser i flykontrollen.\n\nPå en pressekonferanse lørdag sa transportminister Duffy at problemene kan ha oppstått som følge av arbeidet med å bytte ut gamle kobberkabler med fiber ved et av FAAs anlegg.\n\nMinisteren oppgav også navnet på selskapet han mente hadde forsårsaket problemene. Hendelsen skal granskes videre.\n\nDet er fremdeles etterslep etter fredagens problemer. Lørdag er flere enn 10.000 flygninger innstilt eller forsinket, ifølge FlightAware.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-      "excerpt": "USAs transportminister Sean Duffy sier utskiftning av en kobbertråd kan være årsaken til den omfattende flystansen fredag.\n\nFlere enn 15.000 flygninger ble forsinket eller innstilt da amerikanske luftfartsmyndigheter FAA i fire timer nektet alle fly å ta av på grunn av forstyrrelser i...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/flystansen-i-usa_-bytting-av-kabel-mulig-arsak-1.18082036",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-14T22:03:33.674Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1794693811975.8267,
-      "title": "Fem ungdommer tatt etter biljakt",
-      "slug": "fem-ungdommer-tatt-etter-biljakt",
-      "content": "Politiet fikk i kveld kontroll på fem personer som flyktet fra en bil etter en biljakt på E6 i Østfold. Det skal har vært en 17-åring som kjørte bilen som ble stanset i Råde kommune i Østfold, opplyser politiet.\n\n– Politiet prøvde egentlig å stanse bilen på grunn av høy fart og kjøreatferd, opplyser operasjonsleder Melissa Krag i Øst politidistrikt.\n\nBilen stanset ikke, og politiet fulgte etter i sydgående retning på E6 ved Karlshus.\n\nFem passasjerer løp fra bilen da den til slutt stoppet. Alle fem ble raskt innhentet av politipatruljer, opplyser politiet.\n\nFlere politipatruljer, patruljehund, politiets innsatsleder og politihelikopter deltok i oppdraget.\n\nAlle de involverte er under 18 år, og både barnevern og foresatte er varslet av politiet.\n\nOperasjonslederen opplyser at forfølgelsen startet like over klokka 19.30, og at bilen stanset frivillig klokka 20.",
-      "excerpt": "Politiet fikk i kveld kontroll på fem personer som flyktet fra en bil etter en biljakt på E6 i Østfold. Det skal har vært en 17-åring som kjørte bilen som ble stanset i Råde kommune i Østfold, opplyser politiet.\n\n– Politiet prøvde egentlig å stanse bilen på grunn av høy fart og kjøreatferd...",
-      "image": "https://images.unsplash.com/photo-1689795540737-5dc0b177c5e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ2OTM4MTF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/ostfold/fem-ungdommer-tatt-etter-biljakt--1.18081951",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-14T22:03:31.975Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4411,
+    "totalFetched": 4414,
     "totalPublished": 77,
-    "lastFetch": "2026-11-20T21:42:12.662Z",
+    "lastFetch": "2026-11-21T02:59:56.420Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
