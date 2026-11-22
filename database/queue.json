@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1795312575356.2021,
+      "title": "Brann i hus i Bømlo",
+      "slug": "brann-i-hus-i-bmlo",
+      "content": "Det brenner i et hus på Bømlo i Sunnhordland, bekrefter brannvesenet. Politiet opplyser at en beboer kom seg ut av huset på egen hånd.\n\n– Beboer har blitt eksponert for en del røyk og blir ivaretatt av helse, skriver operasjonsleder Victor Fenne-Jensen i Sør-Vest politidistrikt i politiloggen.\n\nHuset er overtent, ifølge brannvesenet. Fare for at brannen sprer seg skal være liten.",
+      "excerpt": "Det brenner i et hus på Bømlo i Sunnhordland, bekrefter brannvesenet. Politiet opplyser at en beboer kom seg ut av huset på egen hånd.\n\n– Beboer har blitt eksponert for en del røyk og blir ivaretatt av helse, skriver operasjonsleder Victor Fenne-Jensen i Sør-Vest politidistrikt i...",
+      "image": null,
+      "original_url": "https://www.nrk.no/nyheter/brann-i-hus-i-bomlo-1.18086519",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-22T01:56:15.356Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1795263238598.9329,
       "title": "&#039;Immigrants are not the problem&#039;: Norwegian minister and expert clash over integration",
       "slug": "039immigrants-are-not-the-problem039-norwegian-minister-and-",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-11-15T19:36:51.095Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1794749826455.9126,
-      "title": "Zelenskyj: – Russiske angrep på Ukraina hjulpet av Starshield-restriksjoner",
-      "slug": "zelenskyj-russiske-angrep-p-ukraina-hjulpet-av-starshieldres",
-      "content": "Russland angrep jernbane- og energiinfrastruktur i Ukraina natt til søndag. Angrepene fikk «hjelp» av Starshield-restriksjoner, sier president Zelenskyj.\n\nUkraina bruker den militære satellittjenesten Starshield, som benytter SpaceX' Starlink-nettverk. Men etter at Starlink i forrige måned begrenset hastigheten på nettverket, har det ført til problemer for ukrainsk luftvern og muligheten til å forsvare seg mot russiske droner.\n\n– Bare i løpet av uken som har gått, har Russland brukt over 2300 angrepsdroner, 1590 flybomber og 15 missiler av ulike typer, skriver president Volodymyr Zelenskyj på X søndag.\n\n– Russerne angriper transformatorstasjoner med shahed-droner. Og mange av disse angrepene kommer gjennom fordi restriksjoner på hastigheten ved Starshield-terminaler langs fronten og i de midlertidige okkuperte områdene fortsatt er der, skriver han videre.\n\nElon Musk står bak SpaceX og Starlink-nettverket. I flere uker i oktober hadde Ukraina problemer med satellittnettverket. Musk har bekreftet at SpaceX begrenset Ukrainas Starlink-tilgang.\n\nKrigen i Ukraina\n\nRussland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014. 24. februar 2022 gikk Russland til fullskala invasjon. Krigen medfører store militære tap og rammer sivile hardt.",
-      "excerpt": "Russland angrep jernbane- og energiinfrastruktur i Ukraina natt til søndag. Angrepene fikk «hjelp» av Starshield-restriksjoner, sier president Zelenskyj.\n\nUkraina bruker den militære satellittjenesten Starshield, som benytter SpaceX' Starlink-nettverk. Men etter at Starlink i forrige måned...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/zelenskyj_-_-russiske-angrep-pa-ukraina-hjulpet-av-starshield-restriksjoner-1.18082190",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-15T13:37:06.455Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4418,
+    "totalFetched": 4419,
     "totalPublished": 77,
-    "lastFetch": "2026-11-21T20:23:28.586Z",
+    "lastFetch": "2026-11-22T01:56:17.656Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
