@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": 1795389677717.3665,
+      "title": "Budsjettforhandlingene: Venter på skisse fra Ap",
+      "slug": "budsjettforhandlingene-venter-p-skisse-fra-ap",
+      "content": "De fem partiene som forhandler om neste års statsbudsjett skal etter planen møtes på nytt på Stortinget klokken 19.30.\n\nDa er det ventet at Arbeiderpartiet vil legge fram en helhetlig tilbud til løsning. Det opplyser kilder i ulike partier til NRK.\n\nHvordan Aps skisse eller tilbud blir mottatt av budsjettpartnerne Rødt, SV, Sp og MDG vil avgjøre om det går mot enighet i budsjettforhandlingene. De pågår nå på overtid, etter at den selvpålagte fristen utløp fredag kveld.\n\nDet er slett ikke sikkert at forhandlingene blir avsluttet i kveld. Tvert imot opplyser flere kilder til NRK at de tror samtalene vil fortsette i morgen.\n\nFinanskomiteen skal avgi innnstilling til neste års statsbudsjett 30. november. I forhandlingene har særlig striden stått om klimatiltak og drivstoffavgifter, men det har også vært rivninger om den samlede pengebruken og hvordan økte utgifter skal finansieres.",
+      "excerpt": "De fem partiene som forhandler om neste års statsbudsjett skal etter planen møtes på nytt på Stortinget klokken 19.30.\n\nDa er det ventet at Arbeiderpartiet vil legge fram en helhetlig tilbud til løsning. Det opplyser kilder i ulike partier til NRK.\n\nHvordan Aps skisse eller tilbud blir mottatt av...",
+      "image": "https://images.unsplash.com/photo-1662710629511-7fe0705049ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUzODk2Nzd8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/budsjettforhandlingene_-venter-pa-skisse-fra-ap-1.18086707",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-22T23:21:17.717Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1795369166814.9656,
       "title": "Libyske myndigheter: Mistenker droneangrep mot russisk skip",
       "slug": "libyske-myndigheter-mistenker-droneangrep-mot-russisk-skip",
@@ -636,25 +649,12 @@
       "fetched_at": "2026-11-16T15:07:03.361Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1794841621715.413,
-      "title": "Trump: Møter kanskje Kim Jong-un i Kina",
-      "slug": "trump-mter-kanskje-kim-jongun-i-kina",
-      "content": "USAs president Donald Trump sier det kan være han møter Nord-Koreas leder Kim Jong-un i Kina denne uken.\n\nTrump skal til Kina for å møte president Xi Jinping og Russlands president Vladimir Putin på torsdag.\n\n– Xi var her for en måned siden, vi skal også møte president Putin, og vi kommer kanskje til å møte Kim Jong-un også, sier Trump til pressen i Det hvite hus, ifølge Reuters.\n\nTrump og Kim Jong-un møttes flere ganger i hans første presidentperiode. Trump har sagt at han ønsker at de to skal møtes også i inneværende periode.\n\nDonald Trump\n\nDonald Trump ble innsatt som USAs 47. president 20. januar 2025. Det er hans andre periode som president.\n\nUSA\n\nFra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.\n\nNord-Korea\n\nNord-Korea fortsetter testingen av landets rakettprogram. Nord-Korea har fått forbud mot å sende opp ballistiske missiler gjennom resolusjoner fra FNs sikkerhetsråd.",
-      "excerpt": "USAs president Donald Trump sier det kan være han møter Nord-Koreas leder Kim Jong-un i Kina denne uken.\n\nTrump skal til Kina for å møte president Xi Jinping og Russlands president Vladimir Putin på torsdag.\n\n– Xi var her for en måned siden, vi skal også møte president Putin, og vi kommer kanskje...",
-      "image": "https://images.unsplash.com/photo-1784798623796-0ba0e077bc74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ4NDE2MjF8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/trump_-moter-kanskje-kim-jong-un-i-kina-1.18082866",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-16T15:07:01.715Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4424,
+    "totalFetched": 4425,
     "totalPublished": 77,
-    "lastFetch": "2026-11-22T17:39:28.315Z",
+    "lastFetch": "2026-11-22T23:21:19.318Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
