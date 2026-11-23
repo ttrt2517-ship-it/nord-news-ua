@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": 1795414820224.4219,
+      "title": "Førde: Person til sykehus etter knivhendelse",
+      "slug": "frde-person-til-sykehus-etter-knivhendelse",
+      "content": "En person ble fraktet til sykehus etter en voldshendelse i Førde søndag, opplyser Vest politidistrikt.\n\nPolitiet meldte klokken 18.39 at de hadde rykket ut til et slagsmål mellom to personer i Førde sentrum.\n\nDet er ikke kjent hva slags skader personen har fått. En person er pågrepet etter hendelsen.",
+      "excerpt": "En person ble fraktet til sykehus etter en voldshendelse i Førde søndag, opplyser Vest politidistrikt.\n\nPolitiet meldte klokken 18.39 at de hadde rykket ut til et slagsmål mellom to personer i Førde sentrum.\n\nDet er ikke kjent hva slags skader personen har fått. En person er pågrepet etter...",
+      "image": "https://images.unsplash.com/photo-1520769311170-3e7df0ea5a0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU0MTQ4MjB8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/forde_-person-til-sykehus-etter-knivhendelse-1.18086853",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-23T06:20:20.224Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
+      "id": 1795414818598.1992,
+      "title": "12 evakuert etter kjellerbrann i Trondheim",
+      "slug": "12-evakuert-etter-kjellerbrann-i-trondheim",
+      "content": "Årsaken er røyk i sju leiligheter etter brannen, opplyser Trøndelag politidistrikt.\n\nNødetatene rykket ut til brannen ved Tyholt i Trondheim i 00.45-tiden natt til mandag. Ingen ble skadet.\n\n– 12 personer har behov for et annet sted å bo, skriver operasjonsleder Kirsten Haugen Bergstrøm fra Trøndelag politidistrikt i politiloggen.\n\nNyhetssenter Trøndelag\n\nSiste nytt fra Trøndelag. Tips oss eller send bilder og video på https://bidra.nrk.no/trondelag/",
+      "excerpt": "Årsaken er røyk i sju leiligheter etter brannen, opplyser Trøndelag politidistrikt.\n\nNødetatene rykket ut til brannen ved Tyholt i Trondheim i 00.45-tiden natt til mandag. Ingen ble skadet.\n\n– 12 personer har behov for et annet sted å bo, skriver operasjonsleder Kirsten Haugen Bergstrøm fra...",
+      "image": "https://images.unsplash.com/photo-1661698048195-08e74015713b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU0MTQ4MTh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "original_url": "https://www.nrk.no/nyheter/12-evakuert-etter-kjellerbrann-i-trondheim-1.18086855",
+      "source_name": "NRK Nyheter",
+      "fetched_at": "2026-11-23T06:20:18.599Z",
+      "published_at": null,
+      "status": "pending"
+    },
+    {
       "id": 1795389677717.3665,
       "title": "Budsjettforhandlingene: Venter på skisse fra Ap",
       "slug": "budsjettforhandlingene-venter-p-skisse-fra-ap",
@@ -623,38 +649,12 @@
       "fetched_at": "2026-11-16T15:07:08.010Z",
       "published_at": null,
       "status": "pending"
-    },
-    {
-      "id": 1794841624986.0789,
-      "title": "DNB har problem",
-      "slug": "dnb-har-problem",
-      "content": "Kundar har blant anna problem med betalingar på mobil og med å sjekke konto og saldo på mobil, ifølge DNB.\n\nPressevakta til banken seier til NRK at dei jobbar med å få retta problemet.\n\nOgså Vipps hadde problem, men dei vart retta like før klokka 14.45, seier senior kommunikasjonsrådgivar Cato Gjertsen til Nettavisen.\n\nDNB\n\nDNB Bank ASA ble grunnlagt i desember 2003 og er landets største finanskonsern. Kjerstin Braathen, tidligere finansdirektør, er konsernsjef i DNB.\n\nVipps\n\nOver 100 banker har sluttet seg til DNBs betalingstjeneste Vipps. Tjenesten brukes av 1,9 millioner nordmenn.",
-      "excerpt": "Kundar har blant anna problem med betalingar på mobil og med å sjekke konto og saldo på mobil, ifølge DNB.\n\nPressevakta til banken seier til NRK at dei jobbar med å få retta problemet.\n\nOgså Vipps hadde problem, men dei vart retta like før klokka 14.45, seier senior kommunikasjonsrådgivar Cato...",
-      "image": null,
-      "original_url": "https://www.nrk.no/nyheter/dnb-har-problem-1.18082819",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-16T15:07:04.986Z",
-      "published_at": null,
-      "status": "pending"
-    },
-    {
-      "id": 1794841623361.575,
-      "title": "Rapport: Mange dødsulykker i anleggsbransjen",
-      "slug": "rapport-mange-ddsulykker-i-anleggsbransjen",
-      "content": "Dei siste åtte åra har 68 arbeidstakarar mista livet i forbindelse med bygge- og anleggsarbeid.\n\nDei fleste av dødsulykkene skjedde ved anleggsarbeid, viser ein rapport frå Arbeidstilsynet og Statens arbeidsmiljøinstitutt.\n\nArbeidarar er særleg utsette for fatale ulykker fordi dei jobbar med store maskinar og i ulike typar terreng og grunnforhold.\n\nDet er difor viktig å jobbe førebyggande for å hindre arbeidsulykker, seier direktør Ingvill Kvernmo i ei pressemelding.\n\n– Kvar arbeidsplass har ulike risikoar knytt til arbeidet som bli utført. Desse må bli avdekt gjennom kartlegging og risikovurdering. Då kan verksemda finne gode tiltak som fjernar eller reduserer risikoen for at ulykker skjer. Det er arbeidsgjevars ansvar. Vi veit at dei fleste arbeidsulykker kunne vore unngått.",
-      "excerpt": "Dei siste åtte åra har 68 arbeidstakarar mista livet i forbindelse med bygge- og anleggsarbeid.\n\nDei fleste av dødsulykkene skjedde ved anleggsarbeid, viser ein rapport frå Arbeidstilsynet og Statens arbeidsmiljøinstitutt.\n\nArbeidarar er særleg utsette for fatale ulykker fordi dei jobbar med store...",
-      "image": "https://images.unsplash.com/photo-1567120192386-f27c189d234b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY3NDF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ4NDE2MjN8&ixlib=rb-4.1.0&q=80&w=1080",
-      "original_url": "https://www.nrk.no/nyheter/rapport_-mange-dodsulykker-i-anleggsbransjen-1.18082844",
-      "source_name": "NRK Nyheter",
-      "fetched_at": "2026-11-16T15:07:03.361Z",
-      "published_at": null,
-      "status": "pending"
     }
   ],
   "stats": {
-    "totalFetched": 4425,
+    "totalFetched": 4427,
     "totalPublished": 77,
-    "lastFetch": "2026-11-22T23:21:19.318Z",
+    "lastFetch": "2026-11-23T06:20:22.155Z",
     "lastPublish": "2026-04-06T22:03:52.808Z"
   }
 }
